@@ -1055,5 +1055,18 @@
       "new zealand",
       "pilbara"
     ]
-  }
+  },
+  "exclude_sources": [
+    "TradingView",
+    "Equitypandit",
+    "finance.biggo.com"
+  ],
+  "exclude_title_patterns": [
+    "per share of",
+    "operating margin %",
+    "stock price",
+    "share price target",
+    "gettex:",
+    "mun:74b"
+  ]
 }

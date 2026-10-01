@@ -212,6 +212,21 @@ def gather_candidates() -> list[dict]:
     return out
 
 
+def resolve_url(url: str) -> str:
+    """Google News RSS links are redirect stubs; turn them into the publisher's URL so the
+    article can be read and the site links straight to the source. Falls back to the stub."""
+    if "news.google.com" not in url:
+        return url
+    try:
+        from googlenewsdecoder import gnewsdecoder
+        res = gnewsdecoder(url, interval=1)
+        if isinstance(res, dict) and res.get("status") and res.get("decoded_url"):
+            return res["decoded_url"]
+    except Exception:  # noqa: BLE001 - optional helper; keep the Google link if it fails
+        pass
+    return url
+
+
 def article_text(url: str) -> str:
     try:
         r = requests.get(url, headers={"User-Agent": UA}, timeout=20, allow_redirects=True)
@@ -298,8 +313,47 @@ def norm_title(t: str) -> str:
     return re.sub(r"[^a-z0-9 ]", "", fold(t))[:90]
 
 
+STOP = set("the a an and or of to in on for with from by at as is are was be has have its their after over amid into new says said will".split())
+
+
+def title_tokens(t: str) -> set[str]:
+    # 5-letter stems so "Russia"/"Russian" and Polish inflections still match
+    return {w[:5] for w in re.findall(r"[a-z0-9]+", fold(t)) if len(w) > 2 and w not in STOP}
+
+
+def same_story(a: set[str], b: set[str]) -> bool:
+    """Two headlines about the same event (e.g. one story syndicated by several outlets)."""
+    if not a or not b:
+        return False
+    overlap = len(a & b)
+    return overlap >= 3 and (overlap / len(a | b) >= 0.4 or overlap / min(len(a), len(b)) >= 0.6)
+
+
+def is_junk(c: dict) -> bool:
+    title = fold(c["title"])
+    if any(fold(src) in fold(c["source"]) for src in CONFIG.get("exclude_sources", [])):
+        return True
+    return any(fold(p) in title for p in CONFIG.get("exclude_title_patterns", []))
+
+
 def item_id(url: str, title: str) -> str:
     return hashlib.sha1(norm_title(title).encode()).hexdigest()[:12]
+
+
+def dedupe(items: list[dict]) -> list[dict]:
+    """Drop repeats of the same event, keeping curated/AI-summarised and higher-scoring copies."""
+    rank = {"curated": 3, "ai": 2, "extract": 1, "feed": 0}
+    ordered = sorted(items, key=lambda i: (rank.get(i.get("summary_method"), 0), i.get("score", 0)), reverse=True)
+    kept, toks, urls = [], [], set()
+    for it in ordered:
+        if is_junk({"title": it.get("original_title") or it["title"], "source": it["source"]}):
+            continue
+        t = title_tokens(it.get("original_title") or it["title"])
+        u = re.sub(r"^https?://(www\.)?|[/?#]+$", "", it.get("url", ""))
+        if u in urls or any(same_story(t, o) for o in toks):
+            continue
+        kept.append(it); toks.append(t); urls.add(u)
+    return kept
 
 
 def main() -> None:
@@ -311,6 +365,7 @@ def main() -> None:
     existing = json.loads(OUT.read_text(encoding="utf-8")) if OUT.exists() else {"items": []}
     items = {i["id"]: i for i in existing.get("items", [])}
     seen_titles = {norm_title(i["title"]) for i in items.values()}
+    seen_tokens = [title_tokens(i.get("original_title") or i["title"]) for i in items.values()]
 
     client = None
     if os.environ.get("ANTHROPIC_API_KEY"):
@@ -326,18 +381,23 @@ def main() -> None:
         if not c["url"] or not c["title"]:
             continue
         nt = norm_title(c["title"])
-        if nt in seen_titles or (c["published"] and c["published"] < cutoff):
+        if nt in seen_titles or (c["published"] and c["published"] < cutoff) or is_junk(c):
+            continue
+        toks = title_tokens(c["title"])
+        if any(same_story(toks, t) for t in seen_tokens):
             continue
         s = score_item(c["title"], c["desc"], c["source"], c["hint"])
         if not s:
             continue
         seen_titles.add(nt)
+        seen_tokens.append(toks)
         fresh.append({**c, **s})
     fresh.sort(key=lambda x: x["score"], reverse=True)
     fresh = fresh[: args.limit]
     print(f"  {len(fresh)} relevant new stories")
 
     for c in fresh:
+        c["url"] = resolve_url(c["url"])
         text = article_text(c["url"])
         ai = ai_summarise(client, c, text) if client else None
         if ai and ai["priority"] == "irrelevant":
@@ -369,6 +429,7 @@ def main() -> None:
     keep_after = NOW - timedelta(days=CONFIG["retention_days"])
     kept = [i for i in items.values()
             if i.get("pinned") or datetime.fromisoformat(i["published"]) >= keep_after]
+    kept = dedupe(kept)
     kept.sort(key=lambda i: i["published"], reverse=True)
     kept = kept[: CONFIG["max_items"]]
 
