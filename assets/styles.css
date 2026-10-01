@@ -244,7 +244,7 @@ button, input, select { font: inherit; color: inherit; }
 .reader .summary p { margin: 0 0 1em; }
 .reader .wc { font-family: var(--f-data); font-size: 11.5px; color: var(--muted); }
 .reader .tags { display: flex; gap: 6px; flex-wrap: wrap; }
-.reader-cta { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.reader-cta { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; position: sticky; bottom: -40px; background: var(--surface); padding-block: 12px 14px; margin-bottom: -40px; border-top: 1px solid var(--line); }
 .reader-cta a.btn { text-decoration: none; }
 
 .toast { position: fixed; bottom: calc(20px + env(safe-area-inset-bottom, 0px)); left: 50%; transform: translateX(-50%); background: var(--ink); color: var(--bg); padding: 9px 16px; border-radius: 8px; font-size: 13.5px; z-index: 60; }
@@ -266,6 +266,39 @@ button, input, select { font: inherit; color: inherit; }
   .brand-name { font-size: 22px; }
   .brand-mark { height: 34px; }
   .brand-div { display: none; }
+}
+
+@media (max-width: 920px) {
+  .rail { grid-template-columns: minmax(0, 1fr) auto; gap: 10px 10px; }
+  .rail > section, .rail > .rail-foot { grid-column: 1 / -1; }
+  .rail .filters-toggle { height: 40px; padding: 0 14px; }
+}
+@media (max-width: 600px) {
+  .mast-inner { padding-block: 14px 14px; gap: 12px; }
+  .mast-top { display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 10px; }
+  .brand { gap: 10px; }
+  .brand-sub { display: none; }
+  .brand-name { font-size: 19px; }
+  .mast-meta { display: contents; }
+  .mast-meta > span:first-child { grid-column: 1 / -1; order: 3; font-size: 11px; }
+  #weekLabel { display: none; }
+  .icon-btn { height: 32px; padding: 0 9px; }
+  .pulse { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .pulse > div { padding: 8px 8px; }
+  .pulse b { font-size: 18px; }
+  .pulse span { font-size: 10.5px; line-height: 1.25; display: block; }
+  .tab { padding: 12px 10px 10px; font-size: 14px; }
+  .tab .long { display: none; }
+  .shell { padding: 14px 16px 48px; }
+  .card { padding: 14px 14px; }
+  .brief { padding: 18px 16px; gap: 20px; }
+  .brief-head h2 { font-size: 24px; }
+  .brief-actions, .brief-actions .btn { width: 100%; justify-content: center; }
+  .reader-bar { padding: 10px 12px; }
+  .reader-body { padding: 18px 16px 40px; }
+  .reader .summary { font-size: 16px; line-height: 1.65; }
+  .reader-cta .btn.primary { flex: 1 1 100%; justify-content: center; text-align: center; }
+  .reader-cta .btn:not(.primary) { flex: 1 1 0; justify-content: center; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 @media print {

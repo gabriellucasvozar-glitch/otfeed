@@ -147,7 +147,10 @@
     const period = kind === "daily" ? fmtDate(end.toISOString()) : `${start.toLocaleDateString("en-GB", { day: "numeric", month: "short" })} – ${fmtDate(end.toISOString())}`;
     const top = items.filter((i) => i.priority === "high").slice(0, kind === "daily" ? 5 : 7);
     const topList = top.length ? top : items.slice(0, 3);
-    const byCat = CATS.map(([k, l]) => [k, l, items.filter((i) => i.category === k)]).filter((x) => x[2].length);
+    const topList0 = top.length ? top : items.slice(0, 3);
+    const inTop = new Set(topList0.map((i) => i.id));
+    const byCat = CATS.map(([k, l]) => [k, l, items.filter((i) => i.category === k && !inTop.has(i.id))]).filter((x) => x[2].length);
+    const sectionCount = new Set(items.map((i) => i.category)).size;
     const n = (p) => items.filter((i) => i.priority === p).length;
     const canPrint = (() => { try { return window.self === window.top; } catch { return false; } })();
     return `<div class="view-head"><div><h1>${kind === "daily" ? "Daily brief" : "Weekly brief"}</h1><p>What a manager needs to know, ranked by priority.</p></div></div>
@@ -156,7 +159,7 @@
         <div>
           <div class="brief-kicker">${kind === "daily" ? "Daily" : "Week " + isoWeek(end)} · ${esc(period)}</div>
           <h2>${items.length} stories, ${n("high")} need attention</h2>
-          <p>${n("high")} high, ${n("medium")} medium and ${n("low")} low priority across ${byCat.length} sections.${state.region !== "all" ? ` Region filter: ${esc(state.region)}.` : ""}</p>
+          <p>${n("high")} high, ${n("medium")} medium and ${n("low")} low priority across ${sectionCount} sections.${state.region !== "all" ? ` Region filter: ${esc(state.region)}.` : ""}</p>
         </div>
         <div class="brief-actions">
           <button class="btn primary" type="button" data-action="copy-brief" data-kind="${kind}">Copy as email text</button>
@@ -171,7 +174,7 @@
           <button class="brief-item-title" type="button" data-open="${esc(it.id)}">${esc(it.title)}</button>
           <p class="brief-item-why">${catTag(it.category)} · ${esc(it.why || "")}</p></div></li>`).join("")}</ol>
       </div>
-      <div class="brief-sections">${byCat.map(([k, l, arr]) => `<div class="brief-sec"><h3>${catSw(k)}${esc(l)}</h3><ul>${arr.map((it) =>
+      ${byCat.length ? `<h3 style="margin-bottom:-12px">Also this period</h3>` : ""}<div class="brief-sections">${byCat.map(([k, l, arr]) => `<div class="brief-sec"><h3>${catSw(k)}${esc(l)}</h3><ul>${arr.map((it) =>
         `<li>${prioTag(it.priority)} <button type="button" data-open="${esc(it.id)}">${esc(it.title)}</button> <span class="s">${esc(it.source)}, ${rel(it.published)}</span></li>`).join("")}</ul></div>`).join("")}</div>` : emptyMsg()}
     </section>`;
   }
@@ -220,10 +223,10 @@
     const hi = wk.filter((i) => i.priority === "high");
     const reg = wk.filter((i) => i.category === "regulation");
     $("#pulse").innerHTML = `
-      <div class="hot"><b>${hi.length}</b><span>High priority, last 7 days</span></div>
-      <div><b>${day.length}</b><span>New in the last 24 hours</span></div>
+      <div class="hot"><b>${hi.length}</b><span>High priority this week</span></div>
+      <div><b>${day.length}</b><span>New in 24 hours</span></div>
       <div><b>${wk.length}</b><span>Stories this week</span></div>
-      <div><b>${reg.length}</b><span>Regulatory items this week</span></div>`;
+      <div><b>${reg.length}</b><span>Regulatory this week</span></div>`;
   }
 
   function render() { renderRail(); renderMain(); }
@@ -243,7 +246,7 @@
       ${it.why ? `<div class="why"><b>Why it matters</b>${esc(it.why)}</div>` : ""}
       <div class="summary">${paras}</div>
       <div class="wc">Summary · ${words} words${it.source_lang && it.source_lang !== "en" ? ` · translated from ${it.source_lang.toUpperCase()}` : ""}${it.summary_method === "feed" ? " · feed excerpt" : ""}</div>
-      <div class="tags">${(it.regions || []).map((r) => `<span class="tag">${esc(r)}</span>`).join("")}${(it.tags || []).slice(0, 6).map((t) => `<span class="tag">${esc(t)}</span>`).join("")}</div>
+      <div class="tags">${[...new Map([...(it.regions || []), ...(it.tags || []).slice(0, 6)].map((t) => [String(t).toLowerCase(), t])).values()].map((t) => `<span class="tag">${esc(t)}</span>`).join("")}</div>
       <div class="reader-cta">
         <a class="btn primary" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">Read full article on ${esc(host)} ↗</a>
         <button class="btn" type="button" data-action="save" data-id="${esc(it.id)}">${saved.has(it.id) ? "★ Saved" : "☆ Save"}</button>
