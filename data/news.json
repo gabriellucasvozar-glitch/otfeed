@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T21:59+00:00",
+ "generated_at": "2026-10-01T22:19+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,91 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b211e6b94db4",
+   "title": "Terex RT for Port Szczenic",
+   "original_title": "Terex RT for Port Szczenic",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BRlZiTFc5Qm9wSXFFNHV2YjJJYVVwNnYtRTFadzhoUFFKLVBjbEVMVDBjcmk5REdKV1czOGJ0RkUybUFwaGdlbEdHRDAydWJsYnp0QmJjeGNZSW51aFpPY0ZnOVBGNkpwYkVYaG0yR19qcUJWbXc?oc=5",
+   "source": "Vertikal.net",
+   "published": "2026-10-01T22:00+00:00",
+   "added": "2026-10-01T22:19+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "terex"
+   ],
+   "summary": "Terex RT for Port Szczenic Vertikal.net",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ff13db5ab047",
+   "title": "Czech billionaires Tykač and Strnad team up on steel supply",
+   "original_title": "Czech billionaires Tykač and Strnad team up on steel supply",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPY3ZXcjBwbmpUa1FYRHBDTkFtYTA4QlQyMngxdkhhM3NCQnFIYnVLMzk5R053QVVpd3pzREc5UWFVRjg4aEN2aWg2dHhGMUU1eDFDbjlMWE5MRWpLOG16cDlzTjhqQnE2VXZ6d2ZlT3lWaXVJLTV2bVJJRUtTOWRVd2pFODh0Nksxb09KMFBrZDg2REgyOHZMWVpaZTlseFE?oc=5",
+   "source": "Around Prague",
+   "published": "2026-10-01T21:40+00:00",
+   "added": "2026-10-01T22:19+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Central & Eastern Europe"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "Czech billionaires Tykač and Strnad team up on steel supply Around Prague",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b1b2f39a8f39",
+   "title": "Vessel Backlog Builds in the Baltic Off Russian Ports",
+   "original_title": "Vessel Backlog Builds in the Baltic Off Russian Ports",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWHI5cUVWVWxFdElRTGtkT3dFVTFGZndkNUJTZWRjdDI2UHc4SGhsX19ta29JMFRqamtSX2tHb2l3eExER2dNeGtpZmVkQWhndmJnZl9FTDRqbEotNnB3b1JYbUk2MC0xaWVkaS1NSVpYZXBjVVZ0a25Rc2lSUmx3aG5hWTJUTnc5b2ltNEtha1BIRUp1cjA0?oc=5",
+   "source": "The Maritime Executive",
+   "published": "2026-10-01T21:33+00:00",
+   "added": "2026-10-01T22:19+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "ports",
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "baltic",
+    "port",
+    "ports",
+    "russia",
+    "russian",
+    "vessel"
+   ],
+   "summary": "Vessel Backlog Builds in the Baltic Off Russian Ports The Maritime Executive",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "285548a69bea",
    "title": "MABUX: October Bunker Prices Expected to Remain Volatile",
