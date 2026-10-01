@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T16:27+00:00",
+ "generated_at": "2026-10-01T16:47+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,66 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "cf1e1a90b837",
+   "title": "Exclusive: AEA Investors-backed Redwood Logistics acquires JBF Consulting",
+   "original_title": "Exclusive: AEA Investors-backed Redwood Logistics acquires JBF Consulting",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUZPcGY5d3lpdjZHeE5aZmcyN0pHZzVZWFp6V19kVnhKZDhfSWhWNkhVVUUySVBSdllIYXh4OUlka2VwYllZT2dRZmdkZHJ0NzhJNXl6bkw2dTNXN3poMlJTZlZjNVFGUWZLZmxNakFKcmdYbGUxbE00bXJIQ0trR19iYmlPUjd5V3VYaklPY2ZYMzZYamJhcHdpZVFjOGtWX3lWSnl1Nm40OFltazFCWVZwcmo?oc=5",
+   "source": "Axios",
+   "published": "2026-10-01T16:10+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "logistics"
+   ],
+   "summary": "Exclusive: AEA Investors-backed Redwood Logistics acquires JBF Consulting Axios",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "05c7e08ca377",
+   "title": "UK targets Russia’s LNG fleet and Asian charterer in new sanctions blast",
+   "original_title": "UK targets Russia’s LNG fleet and Asian charterer in new sanctions blast",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNelZHWFNsaXAxazRfQnpTOTdseFpQSWtxWENsVk9Ub2g1Rnh3OTBhbUpJREFZenpISjhfTDEycktlQjBRVi1HS3U0YVI2ZVhVWGlxdlM4aXhhV1YtalBnSkdYS2ExdlI2RlBWR2hfZUgxNGRadEtmM1cwcVc0ZTF2S1lYQWtXbHRBMlhVck5EUmZLT2JyQ1RBS2V4eEdOSFQzemp4cmViaXlmTWlIV2Z6UmhTeUxVMkRfQUVV?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-10-01T16:07+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "charter",
+    "fleet",
+    "lng",
+    "russia",
+    "sanction"
+   ],
+   "summary": "UK targets Russia’s LNG fleet and Asian charterer in new sanctions blast TradeWinds News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "84ce99e04c2c",
    "title": "CMA CGM completes $1.4bn FedEx Supply Chain takeover",
@@ -315,6 +375,36 @@
    "summary_method": "extract"
   },
   {
+   "id": "6da451ca91a9",
+   "title": "UK Unveils 31 Russia Sanctions, Targeting Shadow Fleet, Torturers, and Propagandists",
+   "original_title": "UK Unveils 31 Russia Sanctions, Targeting Shadow Fleet, Torturers, and Propagandists",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVTh3aWFSV2JyQnhWMG0xM3o0bThZc1Q0NXNaalA4MVNEajdqdTM2WUJVeFVLQTZqT1ZyRW03djdXeFBsZTBjX25pd2tMa2lCMHM4UTZpMDJONXEzaG9uR0gxLVF6U24ySF9fNlJ6Uk5qUGUya0x0MmJCallSYnNQbjRUTHpEdEZyTHlTbWhoTzZhdEZqWDJWQzBVR281OFA5djVXR00yRGx6RFJYcndZNFhBVUNzZG1uMzlN?oc=5",
+   "source": "UNITED24 Media",
+   "published": "2026-10-01T10:49+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "russia",
+    "sanction",
+    "shadow fleet"
+   ],
+   "summary": "UK Unveils 31 Russia Sanctions, Targeting Shadow Fleet, Torturers, and Propagandists UNITED24 Media",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e8d145a547f0",
    "title": "Iron Ore Freight Rates Mixed in September 2026: Capesize Pacific Weakens, Atlantic Steady - News and Statistics",
    "original_title": "Iron Ore Freight Rates Mixed in September 2026: Capesize Pacific Weakens, Atlantic Steady - News and Statistics",
@@ -370,6 +460,93 @@
     "sanction"
    ],
    "summary": "UK Sanctions Five LNG Carriers in New Russia Package gCaptain",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2c00e1dea729",
+   "title": "Corn, soybean prices surge amid fertilizer supply concerns, Middle East tensions",
+   "original_title": "Corn, soybean prices surge amid fertilizer supply concerns, Middle East tensions",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbXA4TEZtd3NxTDJJc3lZN3RiZmpLNlBPSFpLemJJekNoUFJEUl91a2IxLXZNc0ViVy1OemlKOFlqLUtBaHNRY2s4SkZYWlNnOFJmQkl3M2FhclpaV0kyc25OVHVrQ2w2S0lXem1lMU54UTh1b2Vxa1JXOW55RVRhbDJiOWt5bEdCeTVYbkt4Qjh0RVpyMmtzeFotakp4M0lpU2FaTFlNYzJXUGdxUFNjd19Mdm15bk0ySG1Z?oc=5",
+   "source": "Anadolu Ajansı",
+   "published": "2026-10-01T10:25+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "corn",
+    "fertilizer",
+    "prices",
+    "soybean"
+   ],
+   "summary": "Corn, soybean prices surge amid fertilizer supply concerns, Middle East tensions Anadolu Ajansı",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "07c0a676a0c5",
+   "title": "Britain Imposes Sanctions on 31 Russia-Linked Targets, Including Eight Vessels",
+   "original_title": "Britain Imposes Sanctions on 31 Russia-Linked Targets, Including Eight Vessels",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xT01COUhjZHFnZjlGbzk0X3U1TTlHRWRuWmt2dWFzdGJhWmx0SktJRFI2N0N2M1Jta1hMOTFkNEtwenA4QVlSb2JyVXVJcnRvRU5BajZPRzM3LWRLUVRxOXdQZ3lGeFpHZ2xKaEM0Zw?oc=5",
+   "source": "mezha.net",
+   "published": "2026-10-01T10:18+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "russia",
+    "sanction",
+    "vessel"
+   ],
+   "summary": "Britain Imposes Sanctions on 31 Russia-Linked Targets, Including Eight Vessels mezha.net",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8e44ec429043",
+   "title": "How new sanctions will disrupt Russia’s shadow fleet and human rights abusers",
+   "original_title": "How new sanctions will disrupt Russia’s shadow fleet and human rights abusers",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXIzZ01BZzZLMTlQT29xeEp0cmoySTg2Z2dWZGdlemdoRFM3bUU5bEt6dF9QWlplOHVHWXdGNmlPbk5QaUFfaEFHMjU2NkdPTEllaXpCenZMcXBQaUdSSEVhQU5sUVI2VlVPRFVpOUpna3pKOVZGcjdDeFdpb1J6NjhER2FORlRhWkNBRzFTM3dlekRWNkZ4UGhhSjE1SG54?oc=5",
+   "source": "independent.co.uk",
+   "published": "2026-10-01T10:13+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "russia",
+    "sanction",
+    "shadow fleet"
+   ],
+   "summary": "How new sanctions will disrupt Russia’s shadow fleet and human rights abusers independent.co.uk",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -559,6 +736,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "a562685820da",
+   "title": "Asia vessel reliability falls as port congestion bites",
+   "original_title": "Asia vessel reliability falls as port congestion bites",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdjdDNnNVc1pTWkhKSUdZaC03WjVkaERlcmNFUUREUGJodjc1RlM0X2hzYTB2cWNrb3hUZWdCakFMWlZneThJRWFlYWh5c1NhVTlURVJyUGtpRzlzWEt6dlV5RWxia1Q2R3RkR3BJOFRsNzdLdUNpa2Mtb2pvZlRSY2tFMFJrZUR6X25QQXRaWlN0RjA3WUlfOU1mQ1VHN3hiNVE?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-01T09:50+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "congestion",
+    "port",
+    "port congestion",
+    "vessel"
+   ],
+   "summary": "Asia vessel reliability falls as port congestion bites Port Technology",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "c42698d7bdbc",
    "title": "[SMM Analysis] SMM Launches Stainless Steel CBAM Calculator — Indonesian 304 CRC carries a €626/mt CBAM bill into the EU",
    "original_title": "[SMM Analysis] SMM Launches Stainless Steel CBAM Calculator — Indonesian 304 CRC carries a €626/mt CBAM bill into the EU",
@@ -709,6 +916,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "578a33083bff",
+   "title": "Adani Ports Doubles Colombo Terminal Capacity to 3.2 Million TEUs with $750 Million Phase II Launch",
+   "original_title": "Adani Ports Doubles Colombo Terminal Capacity to 3.2 Million TEUs with $750 Million Phase II Launch",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcW9CaHVrNnhBdElwOFJ2emNqQmhCWWJ5TDZyMmF5X0NxaEJhbE9IZHY0bDVzaDNIMnFvbkpuWFZiRVhhZGRjQnAwZTZJR1ZHUTdfM3hUUk4zY1dtVXNIUW41Z3B4TlJsUmJrZ1d0YVV5ckZuNjRXNW9pS2pOckQtTFhqZVdjclNSa3J0ZDFjTzhPSnpld19BN1daYjZXUE5wOHZFckJHUmNxU1QtYUNIWTlfSVQ0U3JjYjNxdHhSRTY?oc=5",
+   "source": "Pragativadi",
+   "published": "2026-10-01T05:36+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "terminal",
+    "teu"
+   ],
+   "summary": "Adani Ports Doubles Colombo Terminal Capacity to 3.2 Million TEUs with $750 Million Phase II Launch Pragativadi",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "937d6b151a17",
    "title": "Analysis: Houthi and Al-Shabab ties raise alarm over widening threat to Red Sea shipping",
    "original_title": "Analysis: Houthi and Al-Shabab ties raise alarm over widening threat to Red Sea shipping",
@@ -767,6 +1003,93 @@
    "summary_method": "feed"
   },
   {
+   "id": "c88599a117b1",
+   "title": "Link Logistics acquires class A bulk distribution center in Charlotte",
+   "original_title": "Link Logistics acquires class A bulk distribution center in Charlotte",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmxfeFNYMGQzQWdrZklpNGh2TUxZSFp1Q2hMWnVKRUdJeUZmX2RqcGZhYzFKdENXa0U3ZG9vLUN5Tml3WlZaZ2xybFdXTHJiS2d6d1ZEUXItZTZhTEd6aXBqalpaUXhpQjRuZkQzTFJUWEtXbERMRFpPVzctbnRXc3I2RWN3ejFfc1VuSUtJQnZiMy1sZS0w?oc=5",
+   "source": "Institutional Real Estate, Inc.",
+   "published": "2026-09-30T19:08+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "distribution center",
+    "logistics"
+   ],
+   "summary": "Link Logistics acquires class A bulk distribution center in Charlotte Institutional Real Estate, Inc.",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "59561b7ec2b3",
+   "title": "Falling vessel rates push Baltic dry bulk index to fresh low",
+   "original_title": "Falling vessel rates push Baltic dry bulk index to fresh low",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFJwNG5xMmtPMHA3cXhwZ2ZjMzlqSFl0cUx3SE9UVjZrdFU5N3k5NE9Pa2RqYVN1cmlNTDZVQmFhQUh1RTNKREd4M3E5VEJTQTJKZ1VDZnI1NzBhYTQydTlBU1RtNk8tbHRxcFMxbVhXOG1NNm9Va3cyVHRuYlExSm4wYWVVNVhBcjFJbFl3WHdoamdHRVBzT3FnaTV6UU80cDBYMEZMTUhYOUdpVWlxVFJUSE9UWWdi0gHGAUFVX3lxTFBzcU9QbGN1ZmFRRzI5R0pSc3lQVDFPSWlEbUprazYxSmZYNHk3LWgyd3dBUkxPQkI1QzhISVpyZmhoMTV2Nm5XdDNjVTE4UFBGcTA3aGRJNXI4LW12Qkx1RDkxVGZYZWxiY25NM0hwUkJOVHdHM0tKbXlFbm5XOEVRUktacHpMcE93UUJQeHBnNGJjNWdJdnI0Ykx5RzBWRG84S0RDM0tHUUxwX0RPWUxPMTVrVHcyUG1zU2p5WUZoamNidGVYZw?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-09-30T18:56+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "dry bulk",
+    "vessel"
+   ],
+   "summary": "Falling vessel rates push Baltic dry bulk index to fresh low Baird Maritime",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f9c1efd9a9c8",
+   "title": "Nearshore supply chains: why Costa Rica is emerging as a strategic gateway for global manufacturing and innovation",
+   "original_title": "Nearshore supply chains: why Costa Rica is emerging as a strategic gateway for global manufacturing and innovation",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNb1A5eEhmc3VEWmVhRVZLZVRnVW5KUGxUbVBuNjdxXzZqalU0TUtYM2M1VjFSOVRoOFdJZWhKYnBvbFhCTTJlLU5VRHZhM3d6Um40UFJuYS02MVZKbjY1alVBUlZPQ2N1dXFHZTB0VHVhbFdXclJ5UktiZ3BqUDhUUmF1SG1HeWl5ZlMyWUhjVGw0WHI0ZTJwdzZHQjlJTzdIM1B5TXp4OHpoZEdudDluTnQ1cEQ0NzZHekVlbFRRVGNsdUczSzZWblI3X21VbTdVQjdhVkMyUm1VYUlacVZfYVZTMzZ2YkVRSlE?oc=5",
+   "source": "The European Magazine",
+   "published": "2026-09-30T17:05+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "manufacturing",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "Nearshore supply chains: why Costa Rica is emerging as a strategic gateway for global manufacturing and innovation The European Magazine",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "82e60806f056",
    "title": "Marsa Maroc acquires a Liebherr LPS 550 for its bulk operations in Casablanca",
    "original_title": "Marsa Maroc acquires a Liebherr LPS 550 for its bulk operations in Casablanca",
@@ -792,6 +1115,34 @@
    ],
    "summary": "Marsa Maroc acquires a Liebherr LPS 550 for its bulk operations in Casablanca El Estrecho Digital",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f381c0f180f8",
+   "title": "PKP CARGO uderza w EBI i PKP PLK. „Powiedziały nie restrukturyzacji”",
+   "original_title": "PKP CARGO uderza w EBI i PKP PLK. „Powiedziały nie restrukturyzacji”",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR2s3ZDI2ckhhbW5vYy05em9rQVo3NDNiRTBRNkZUWUVYdV9VSmROZWs4THpLV0JjbTFsalZHeXRHR1ZObVpMZm5pMUwtUmtVRjA1Z3lKSzUtZHR5Z1ZOOGtVUXhNYjl0WHRWUUI2Y3NpSUFsU1JMQTZPNGlDR0dMdjI3Tk82VkFCRmN3X19oeWYwUl9ULTJZ?oc=5",
+   "source": "Kolejowy Portal",
+   "published": "2026-09-30T15:31+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "mna"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "pkp cargo",
+    "pkp plk",
+    "restrukturyzacj"
+   ],
+   "summary": "PKP CARGO uderza w EBI i PKP PLK. „Powiedziały nie restrukturyzacji” Kolejowy Portal",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -821,6 +1172,68 @@
    ],
    "summary": "Europe’s Grain-Oriented Electrical Steel Market Enters New Phase as EU Imposes Import Safeguards ChemAnalyst",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8d16c1bdc170",
+   "title": "Europe Onshoring Stocks Investors Are Watching As EU China Supply Chains Shift",
+   "original_title": "Europe Onshoring Stocks Investors Are Watching As EU China Supply Chains Shift",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTW93S1A3SnZhaWVSUV9YYWRFVXBwVkpXZGhxNnRsTl9peE0xdXBCYlZnYk1fdlp6OEZVbzV1TlhvcmJHZEtRLW5XbEIyRUwwLUtnR185ZnFvX0R0YWpfWlRXaDZBa0d5MFRlZjVUMmVPNzQ1NTdLRjFxY2Uwa09pTXluS0dCMjhUT19EcGxOeEVfVmdDcU9mcG1WTFZORjB0T3k4dFF0V1k1SkE?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-09-30T14:11+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "EU institutions",
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "eu ",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "Europe Onshoring Stocks Investors Are Watching As EU China Supply Chains Shift Yahoo Finance",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bbae834e11b0",
+   "title": "Asian port congestion could disrupt supply chains well into 2027",
+   "original_title": "Asian port congestion could disrupt supply chains well into 2027",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHM5N2ZmclUwQy01MURzOVN1djE4NWpETklNRVJhenVpZU1mSXBDSDZFbHpRR0tSUjRyRmtxX2NyMUZHVjgzZGhidGtmdnVrbXlBR1k3c0RDLWR3V2VJeHpwQm1zMXNSckpZTG1Nb2plWks4TFpPdEJQRFQzNmo3RzNDLU5Jc2doRnpVVEk1MjVncUFIOVduSjNMOW91M3htXy1z?oc=5",
+   "source": "Metro Global",
+   "published": "2026-09-30T13:48+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 15,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "congestion",
+    "port",
+    "port congestion",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "Asian port congestion could disrupt supply chains well into 2027 Metro Global",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -1000,6 +1413,66 @@
    ],
    "summary": "China's Thermal Coal Prices Surge to Three-Year High Crude Oil Prices Today | OilPrice.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "dfeb4a27c81e",
+   "title": "DP World’s Santos expansion advances with new quay cranes",
+   "original_title": "DP World’s Santos expansion advances with new quay cranes",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPejctM2taTTBKdFZPc3Z5bkxyTHVNS2xiYmpYNmxDc29ZQlhzeVh0QjNxWTBpUlRPNDBtellPSEwyZ3FMOFdkQm9vUERIVEh3ODN1Sk9DRHBUeXRodzlfR0pZVzhrZm5SNU1mVndla0habjRHRmF2ZXdNUENSTGhTRmlQakNYdw?oc=5",
+   "source": "Splash 24/7",
+   "published": "2026-09-30T10:15+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "quay"
+   ],
+   "summary": "DP World’s Santos expansion advances with new quay cranes Splash 24/7",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0d120026759a",
+   "title": "Russian Fertilizer Sector Fuels Explosives Production in War Against Ukraine",
+   "original_title": "Russian Fertilizer Sector Fuels Explosives Production in War Against Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtQTJwSEdEWFZpMTdVSkNTZXNiYVEtOTlrOEJXamE0amRkM2kxV2NvcnVWSlZiS01MZmtvU0NnSWVrQTI5NUlvY2lfTDNoY1NsWXNBVXZ4cGg?oc=5",
+   "source": "israeldefense.co.il",
+   "published": "2026-09-30T10:00+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus",
+    "Middle East"
+   ],
+   "tags": [
+    "fertilizer",
+    "russia",
+    "russian",
+    "ukraine",
+    "war"
+   ],
+   "summary": "Russian Fertilizer Sector Fuels Explosives Production in War Against Ukraine israeldefense.co.il",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -1300,6 +1773,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "9f5c86a39f5b",
+   "title": "Contecon installs two STS cranes in Manzanillo; electrical infrastructure limits expansion",
+   "original_title": "Contecon installs two STS cranes in Manzanillo; electrical infrastructure limits expansion",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU2EzUndhcERRVlBWbDdfRjZVeXRNM1psYWw4X1E5OFk4RV9pV3ZSNU1BWWcwOGVtcWFrYlVROS1ReVpfVE80MjRZeVZOcmNwSnBGdlBUNGQ1eVFZb0doeU9fUWdNaDlTZEd0SFh5TGZsR3VfSWJ3MXdpdnJHQTk4aDM2dWNyNHZ4dDRUbDRWc09QZzRBTmNFQ0MyRFU1ZmtpU2U0Wi1LcmxDWDU2VHR5cFpudzV2OVQyRDJZWml5YXd2UHUwMlV1Z0pZNmw3U1lFZVNJaQ?oc=5",
+   "source": "Data Portuaria",
+   "published": "2026-09-29T20:15+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "sts crane"
+   ],
+   "summary": "Contecon installs two STS cranes in Manzanillo; electrical infrastructure limits expansion Data Portuaria",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "cc14bebcb5b5",
    "title": "North Africa's Grain Import Shifts Amid Black Sea Disruptions",
    "original_title": "North Africa's Grain Import Shifts Amid Black Sea Disruptions",
@@ -1562,6 +2062,90 @@
    "summary_method": "feed"
   },
   {
+   "id": "cd0805158bac",
+   "title": "Baltic Dry Index Slips As Capesize Rates Cool Off",
+   "original_title": "Baltic Dry Index Slips As Capesize Rates Cool Off",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMk83VVBGSUhNVUZkMzRjRkxCRGFhNFRkVGdkcm94SGQtSEFZZFl3azYtN3hPdXNZNWZSWFRtR3Z0WU1GY3dpWjM0UkllV0JwLUtleW9rbE9sOUd3NkNxYXpOLUlKcDBUcld2ZjZ1MnJzOURsc1B2aTBRQ2FyTEgyd2M4LU5aMzA?oc=5",
+   "source": "Finimize",
+   "published": "2026-09-29T14:36+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "capesize"
+   ],
+   "summary": "Baltic Dry Index Slips As Capesize Rates Cool Off Finimize",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8948b3277c91",
+   "title": "Gantrex, Villari bring crack monitoring to port cranes",
+   "original_title": "Gantrex, Villari bring crack monitoring to port cranes",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUnlRSHhGQm1pcjJyMlhNejFGS0hlaEctSzg4YXh5ODhKNUswMzhZQ0RMYzZ6ai1NZVRIU2p3cFZ0Q1QyM25JS0J1NFFBM2E4V25FbXRULTlCWUM2VzFPd3dFNGE1LUtJZ0JCdVBlRW5MTUw5ZEgybWdJa0Y0bHJSTXVnX1lHejdZS09pY3NoWEE3c0NQYWlGM1hiVzA3U1l1RDc2MUJac3dqREZVck9F?oc=5",
+   "source": "Port Technology",
+   "published": "2026-09-29T13:49+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "port"
+   ],
+   "summary": "Gantrex, Villari bring crack monitoring to port cranes Port Technology",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "439ac7e128ec",
+   "title": "Tariff Driven Supply Chain Shift Puts Flex Stock And Factory Reshoring In Focus",
+   "original_title": "Tariff Driven Supply Chain Shift Puts Flex Stock And Factory Reshoring In Focus",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTVxaDF3YXR3MUxPOU1uSER0S2JpVTdqSEU2MFZORXB2Q0ZKeEl5anJ6STJiaWVwUG9mdXF0WEo4djRCWkR5S2c5N3BLR1g5dVVLQW56Vk9xb3JTVUFnTG51LVQ2UFBVbUFJcnFwNm9BU0EzeGp0UVpqQTZ0b0QtN21IbmhUM0xROGJhRmcyU2I4dWR2Nk5WclRVWlZOdw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-09-29T13:08+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "regulation",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "reshoring",
+    "supply chain",
+    "tariff"
+   ],
+   "summary": "Tariff Driven Supply Chain Shift Puts Flex Stock And Factory Reshoring In Focus Yahoo Finance",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "f95473859c8d",
    "title": "New electric rail cranes to raise container siding capacity to 1.2m TEUs",
    "original_title": "New electric rail cranes to raise container siding capacity to 1.2m TEUs",
@@ -1588,6 +2172,34 @@
    ],
    "summary": "New electric rail cranes to raise container siding capacity to 1.2m TEUs logisticsbusiness.com",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "09a3bac7f1b5",
+   "title": "Tightening Supply Chains and Trade Rules Create 'Nearshoring 2.0' Opportunities in Mexico",
+   "original_title": "Tightening Supply Chains and Trade Rules Create 'Nearshoring 2.0' Opportunities in Mexico",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSzJ6akRiMC1IS3I0M2E0NS1nM0ctRlgzalJQQXhTY3ZZSHpibnRKSFVEb2twcy1GdEhuNVp4Q0l2V0c3TG5abVNESk02YmRHYnY5MGN5cjZkbG5XSVVEcVl3bFZ5NTdEZTB4X1I4RVpsUC1uNmQzT1p6VEVUWkpMTWVjZDhVTTVpRUJZRjV1UXFHZmxGWjA3OHVKUFl1bHhhQUlMUHBPc3psMXFfYjlZZC1IcVJpaVpUdHNqeEx0LU9wcW5ScUtvWHpHQlg0emJYeV9WVE02WGJLeUU?oc=5",
+   "source": "PR Newswire",
+   "published": "2026-09-29T12:38+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "nearshoring",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "Tightening Supply Chains and Trade Rules Create 'Nearshoring 2.0' Opportunities in Mexico PR Newswire",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -1918,6 +2530,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "72bafb8cf89a",
+   "title": "Baltic dry bulk index drops to near four-week low",
+   "original_title": "Baltic dry bulk index drops to near four-week low",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1lXM3ZUZUhlMENuWHg5TEpqRFJuYWxMcW9GblBhRXlzNTJ0RU5TWGdVNFVaMWlRQ0JzUHJWcDhDUFRvUS11R19qRjhid2dJYW9tcHZQTVdjQzlaLU5oc3Z6LVlLbndmd0hFVzVqbkIzTWFiZlVHUmF4TmlZNUh2YnpWWWNtUHNxV2JBWklVay1GUlFNMUtEQ0VGYnF4cVBzRmpid0hleVRWQdIBtwFBVV95cUxOSEtiWk9Lek1Gd2dyakcxd1VScHNvNF90YUM1d0lvYUNWTE9TbzZCQlB1UWFkb1Rud2tNdXctSkZYdE9kd3ZSMHg4ZjY3RldScEVDblZYVzZfWk9LTHE3TzdFY0h2QWwwUmh6M3FEMFI0blJwVk9ZcklBbDc0M3ZxQ0EtWW5fUkFJc21KOFd3M0R0d1h0MjFzZjVyZmx0Y2ZpWG4wUjVQZFVscl9ZcTNUdlhwRXVmZUk?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-09-28T18:57+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "dry bulk"
+   ],
+   "summary": "Baltic dry bulk index drops to near four-week low Baird Maritime",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "28a63444490a",
    "title": "Shipping giants sail cautiously back into Red Sea despite Houthi threats - Al-Monitor",
    "original_title": "Shipping giants sail cautiously back into Red Sea despite Houthi threats - Al-Monitor",
@@ -1942,6 +2582,36 @@
     "shipping"
    ],
    "summary": "Shipping giants sail cautiously back into Red Sea despite Houthi threats Al-Monitor",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d05ce793bfab",
+   "title": "107 Vessels Join Russia Flag Registry Amid EU Sanctions",
+   "original_title": "107 Vessels Join Russia Flag Registry Amid EU Sanctions",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGY2TFp3UjJGTFl0d3ptUk9ibUkyTkZqeEhwY05tSUE5ZWhpS0x6bXBZZmxGVWN0Y2o4eDdfeko5MmFFUGdtYlJ2SVd3U2oxWkpOdkR4RGVXaWJuYzAzdkJ5QjRLOW1pSHNhM1B0Rk5Xa2xWa2xxbHJWQUl2QVpwMkZ3Mm4zY215VXJveDg4OUNiQQ?oc=5",
+   "source": "Sea News",
+   "published": "2026-09-28T17:15+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "russia",
+    "sanction",
+    "vessel"
+   ],
+   "summary": "107 Vessels Join Russia Flag Registry Amid EU Sanctions Sea News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -2028,6 +2698,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "c505c438bd5c",
+   "title": "Port of Houston faces challenges buying 10 STS cranes",
+   "original_title": "Port of Houston faces challenges buying 10 STS cranes",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1hZVnRVRTZYSDd4cFNuM0p2Z3A5NHJVd0VXMnNtVWUtTk5PdlQ2N2xmZmpvcmlhMVhFMWFyTVAzN0RLcHU3ekU4UnZzZ2J3ekZXc1FvdDQ5ZEU0RW02NXJhSF91MlA2T2tpZlhFYzNNRnhKY19iWjZpRzNKUEFEZ2lyazJyZXlBRzN0ZWxmeGN4dHFxVktfbUVTZFk0c2t0VGxaOGZyZE9sR3BBc2xabHlsU3JxTnNpa0E?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-09-28T11:53+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "port",
+    "sts crane"
+   ],
+   "summary": "Port of Houston faces challenges buying 10 STS cranes WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "59af0c404ffa",
    "title": "Operators reshape Gulf supply chains as momentum builds for Hormuz reopening",
    "original_title": "Operators reshape Gulf supply chains as momentum builds for Hormuz reopening",
@@ -2083,6 +2782,35 @@
    ],
    "summary": "VesselBot: EU ETS exposure varies sharply with container shipping routes safety4sea",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5d30c60aad65",
+   "title": "Turkey, Russia to hold fertiliser supply talks in October: report",
+   "original_title": "Turkey, Russia to hold fertiliser supply talks in October: report",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0FLb19XdXpPNk9QbWFXRGNyXzJJYklQUU9wMkp3bGpZdjcycE0tTWp6a2l5bFJoRWl4akgtTnVNVWJ0TmU5eWNaeU1GenBxRDVjQ21yUzh4NG9jV1M3T2pPNFNLQmNOUDczZk9HdjRHSS03VmR4a3pyMkp6NzBic3UwdkhSYVFxc0RURkN1Yi1pakZiRmFVb1FyZk54aEpSRWhZam5NYzBmdV9IWDdJRzR5Zmk?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-09-28T10:26+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "commodit",
+    "fertiliser",
+    "russia"
+   ],
+   "summary": "Turkey, Russia to hold fertiliser supply talks in October: report Quantum Commodity Intelligence",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -2370,6 +3098,34 @@
    "source_lang": "en"
   },
   {
+   "id": "570ce4373e28",
+   "title": "Greenore Port Sees Cranes Improved with New Safety Camera System",
+   "original_title": "Greenore Port Sees Cranes Improved with New Safety Camera System",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcUEzaXdrSGh4dU4wUnotYllQaTg2ODRzcDE3VVJKWENLbUY0Rk4wTnhCai1nVDI3RExUenpNaFJ0cnJTeFc3Mk5Nd3NDSHJwWmhDdHJnd2FGMU0xNGIxS2N6X3BIV3BqX1o4UGh1VHJVbzFBWTNyWldBXzMwOGdTQmdlWTZMRWgyVWxNbFloZWstM3lpLWNMQjlzcw?oc=5",
+   "source": "afloat.ie",
+   "published": "2026-09-27T09:30+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "port"
+   ],
+   "summary": "Greenore Port Sees Cranes Improved with New Safety Camera System afloat.ie",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "fbb42f777f62",
    "title": "Russia's strike near Poland put Ukraine's railway lifeline in focus. But the bigger threat lies elsewhere",
    "original_title": "Russia's strike near Poland put Ukraine's railway lifeline in focus. But the bigger threat lies elsewhere",
@@ -2397,6 +3153,66 @@
     "ukraine"
    ],
    "summary": "Russia's strike near Poland put Ukraine's railway lifeline in focus. But the bigger threat lies elsewhere The Kyiv Independent",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "12af7485e815",
+   "title": "ZPMC Debuts New Wind-Resistant Quay Crane at Qingdao Dagang Terminal - LM",
+   "original_title": "ZPMC Debuts New Wind-Resistant Quay Crane at Qingdao Dagang Terminal - LM",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX0lDa0pFU2hGenM3VlVFaGFOV09oRUIzbXpjT24xNl9Bd0ItTUJZemJIVl9GcmRVNUpmb3dtNjhDbWpZdFlqUno3bzZCTVp5MnhvM1BfYkhzOVNRaEI5NHpjMkh5NmRqVVFiQVBjdTVYSmprOW1id1NGOEcta0VVYkRvQkpFTzFOSU9fczc5bFBkdEFVQXpPZXkyRXAtWUNV?oc=5",
+   "source": "LM - Logistics Manager",
+   "published": "2026-09-26T08:45+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "crane",
+    "logistics",
+    "quay",
+    "terminal",
+    "zpmc"
+   ],
+   "summary": "ZPMC Debuts New Wind-Resistant Quay Crane at Qingdao Dagang Terminal LM - Logistics Manager",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1bb835174128",
+   "title": "The Shadow Fleet Battle: Sanctions, AIS Blackouts, and the Missing Context",
+   "original_title": "The Shadow Fleet Battle: Sanctions, AIS Blackouts, and the Missing Context",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY25FU1BGQXUzZWp1Unp3TlB5bDY2OVhqTTN6MEhsc25jTm53STllQkhsNnVxTkx2V2h1WXZuLTRSZTdWR0lKNzhncGEtX2JxMmJCX3FOYk5HRkRGSWtoQ0V6OTUwQWJkcF9yM3VPY1pLNFJvbXo2LVUtUWxjUW8xWVVhN3dpYVUwVldSYnBLMzZKVEt4MlotdDY4b1kxems?oc=5",
+   "source": "Frontier India",
+   "published": "2026-09-26T03:04+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "fleet",
+    "sanction",
+    "shadow fleet"
+   ],
+   "summary": "The Shadow Fleet Battle: Sanctions, AIS Blackouts, and the Missing Context Frontier India",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -2725,6 +3541,62 @@
    ],
    "summary": "Disruptions across Strait of Hormuz, Black Sea and alternative routes raise global food and fuel security risks Down To Earth",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4d6272a9bd33",
+   "title": "Russia expands fleet as crackdown on stateless vessels intensifies",
+   "original_title": "Russia expands fleet as crackdown on stateless vessels intensifies",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN040ZUg0Y3dLMXZST3R4VEpjaWZ3TmFKVGdLMVJhb3hienQ1T3V5emg1UFZ4LU5pWDFhSmRXZnIxVmVBcUdSRk1ZQ05tNGZxTGVkbmNYLWF0ZzNTckd1bWJEM0JvMEpIRWxVbVZRdERfWE5oTlgwTE1aMlYyWGkxMkdqMVk?oc=5",
+   "source": "Financial Times",
+   "published": "2026-09-25T04:04+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 9.0,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "russia",
+    "vessel"
+   ],
+   "summary": "Russia expands fleet as crackdown on stateless vessels intensifies Financial Times",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ad65154efaae",
+   "title": "GCC chief urges EU cooperation to shield supply chains from regional crisis",
+   "original_title": "GCC chief urges EU cooperation to shield supply chains from regional crisis",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYS04cW1pdlFxbG1sS0ppeFg3NVBSLXMwcWstOXN1Qmp6NkJmLUxYZWpZeFRiOWJPWGlYSXA4UVVsSFlpQ1BTVjlVM01RdF91LU1HN1Jvd2QxT0J5QmpRekx0LXd3V0FweXo2N1BWeHZEb1lqaGEtRkd5UTJDYXhwZTBKR1BpWVlfamNqQjFzWE5DNElMNmN5OHZncmxDUTc0UHVCRFNBOEx1RE1teGtxdnAxRkF3T0NBR3M2RlhR?oc=5",
+   "source": "bignewsnetwork.com",
+   "published": "2026-09-24T20:42+00:00",
+   "added": "2026-10-01T16:47+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "GCC chief urges EU cooperation to shield supply chains from regional crisis bignewsnetwork.com",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
