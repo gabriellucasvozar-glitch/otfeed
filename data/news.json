@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T18:03+00:00",
+ "generated_at": "2026-10-01T18:29+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,64 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "a2c4c544a899",
+   "title": "US sanctions target Iran's auto, rail sectors after blockade chokes shipping lanes",
+   "original_title": "US sanctions target Iran's auto, rail sectors after blockade chokes shipping lanes",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGQ5cWhPbnlFT0hFQU1VME1qVVB2SndmZVROdUpzUU1sVGxRcDZndDN0R1BwdGVXRThreEJhTnV4WWQzZ19xUjlqZ3hqWjBWSEJWQ1JtcExJNVVRTG95UHQ1RjFsc21pbWQ4Q3c3dnhvYWZXUF9uNmQ0UHhWT1pJRXg3Yk42b0dOS0FJVmNsbGJLeFZTQkNKcW5ocVZVSzBlS2tnSnRpM044NEhMZW1FMG94N1U2dW1fUXJkbng1clJZSHpaZVVGLXFyeDBYcXM?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-01T17:53+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9.0,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "sanction",
+    "shipping"
+   ],
+   "summary": "US sanctions target Iran's auto, rail sectors after blockade chokes shipping lanes Reuters",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ed2da9e3a53d",
+   "title": "Russia's attempt to reroute grain exports away from Black Sea falls short",
+   "original_title": "Russia's attempt to reroute grain exports away from Black Sea falls short",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaF82bXhYN0R0UXNURDdkMHhGWHotWmJrU2t5Zk1obVVPTkdJQUVHbU9oelJtSXc2WmcwNy1qR05fa0F6cjh6ekhIa1gyMUQ2d3VYOEJ2MWtSNUxqMjBtQ000TFZIYWtheEN5eVBZcmFaRE9aMkVlM01KaTZKeEhWVGVja2oyVTRPaHUtWDhPbF9oT2c?oc=5",
+   "source": "newsukraine.rbc.ua",
+   "published": "2026-10-01T17:26+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "black sea",
+    "grain",
+    "rerout",
+    "russia"
+   ],
+   "summary": "Russia's attempt to reroute grain exports away from Black Sea falls short newsukraine.rbc.ua",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "5d398c011588",
    "title": "Four Of Europe’s Largest Quay Cranes Arrive At DP World’s UK Ports",
@@ -188,6 +246,34 @@
    "summary": "CMA CGM's LNG-powered CMA CGM Jacques Saadé under construction at China State Shipbuilding Corporation in 2020. Photo courtesy CMA CGM Alternative-fuel ship orders rebounded sharply in the third quarter, with September delivering the strongest monthly total in nearly two years as LNG remained the dominant choice for new vessels. Shipowners placed orders for 69 alternative-fuelled vessels in September, the highest monthly total since October 2024, according to new figures from DNV’s Alternative Fuels Insight platform. The September activity brought third-quarter orders to 168 vessels, making it the busiest quarter since the third quarter of 2024. “September capped the strongest quarter for alternative-fuelled vessel contracting in the past two years, bringing year-to-date orders comfortably above the level seen at the same point last year.” LNG accounted for 48 of September’s 69 orders, covering containerships, car carriers, bulk carriers and ro-ro cargo vessels. Another 12 orders were for ethanol-fuelled bulk carriers, while nine LPG-fuelled vessels were ordered during the month. DNV warned in its latest Maritime Forecast to 2050 that regulatory outcomes could significantly change the economics of alternative fuels over the operating lives of vessels ordered today. Alternative-fuel-capable tonnage has already grown from just 0.4% of the global fleet in 2020 to 5.2% in 2026, according to DNV, led primarily by LNG and methanol systems.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "a217c1e8ef4e",
+   "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
+   "original_title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGNCX0VlMWRST1A0YVJxWVlHTGI2VGE2UUtRZXpnTTMwQW0zWmpDakdpTUI3ZFcwd0VLQ0xMemFfRkg1VkdjUGh1YUppeVNTdkZSbFVPX3lhMjZSR3ZITVJObHRJdC0ycklwUmF2d042VU5UeHlWWm1KNVJuVUQ4VW9PNHpfZHVRRW5iMzRiekdxWWhmWE42R011RXF6SjZUZktEdjZQZVdObkJXbVZqSlR3?oc=5",
+   "source": "The Guardian",
+   "published": "2026-10-01T15:52+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "hormuz",
+    "war"
+   ],
+   "summary": "Crude oil exports from strait of Hormuz largely return to pre-war levels The Guardian",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "af5d0d9f6a86",
@@ -414,6 +500,59 @@
    "summary": "Danish product tanker giant Torm has been linked to another fleet disposal, with brokers reporting the sale of one of its oldest MRs to China’s Seacon Shipping group for $22.5m. Splash understands the 2008-built Torm Laura has been picked up by Seacon Tankers Shipping. The 50,000 dwt scrubber-fitted vessel was built at Guangzhou Shipyard International. The 2008-built Torm Lene , from the same Guangzhou series, remains in the fleet and is now the oldest vessel listed by the company. Earlier this year, the company delivered the 2008-built LR2 Torm Maren to new owners while taking in two 2016-built LR2s and a 2018-built MR. Six MR resale newbuildings are due to arrive between 2027 and 2028, while the company confirmed in August that it had contracted another six MR newbuildings for delivery in 2029 with options on two more for 2030. Torm put the broker-assessed value of its fleet at $4.06bn at the end of June, up from $2.89bn a year earlier. At the end of March, the company said like-for-like fleet values had risen by $308m in just three months after adjusting for vessel purchases and sales.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "e544396a5c8c",
+   "title": "Poland’s Journey towards High-Speed Rail",
+   "original_title": "Poland’s Journey towards High-Speed Rail",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5PNlpDS1JyRFNLcnhhM2p2bVBjMFgtTzBRMUJlM2p3SG9FYXh1Y2hBVFBpOVJISnlnQnhoRzZpN0dYelBHUkVPankxdlFnd3NfSHFrd1k4ZGtYdnlraWU4dXZnU0cyc1lkZGdBWWVmUUNYbnNJUGloRjln?oc=5",
+   "source": "railwaypro.com",
+   "published": "2026-10-01T13:26+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "poland",
+    "railway"
+   ],
+   "summary": "Poland’s Journey towards High-Speed Rail railwaypro.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "039b3e2199b0",
+   "title": "Oil Jumps 5% as Iran Escalates Attacks on Gulf Shipping",
+   "original_title": "Oil Jumps 5% as Iran Escalates Attacks on Gulf Shipping",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWDUyRGJYSlY0WUxSUENpMFRLaUdDUFROSjV3WUxlbUU1TDY2QzI2a18yaVowZEpRdWQyYU5rdjE4d1RYQlNNUnNVSnN0VzlWemVvdVkwanlaQXBmS0lXdHZRUmJ5OVNBNHFpWkhjZ3p5SHVnN2xWRW5ZdUVGZUd6UDNHNTJKWnA5M2ZNRQ?oc=5",
+   "source": "energynow.ca",
+   "published": "2026-10-01T13:26+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "shipping"
+   ],
+   "summary": "Oil Jumps 5% as Iran Escalates Attacks on Gulf Shipping energynow.ca",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "2dd2e73880d7",
@@ -737,6 +876,34 @@
    "summary_method": "extract"
   },
   {
+   "id": "dcae18d885cf",
+   "title": "Russia detains cargo ship bound for Estonia's Sillamäe port",
+   "original_title": "Russia detains cargo ship bound for Estonia's Sillamäe port",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZENHT0NXbGNCcmMyWEE3U2wwd1ZyZjgzdm9BZHBLS08xX3lHSHBOVUlNbVFqUWlrWHlCWjFWQkhnUmFVN3NWLWc5R2ZHT2ROa19Fcy1tSnlFcnZieGhWRXhHSGJUQndOT3pXUTJVYzdjWGd2MGI5ZEt4Y2RVSGNMT0FCdlRtYVpPX0RYUkdHMHRHQWdX?oc=5",
+   "source": "ERR",
+   "published": "2026-10-01T11:48+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "port",
+    "russia"
+   ],
+   "summary": "Russia detains cargo ship bound for Estonia's Sillamäe port ERR",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "71dfd1869c0a",
    "title": "Georgian Railway Dir/Gen: Georgia plays one of most important roles in Middle Corridor",
    "original_title": "Georgian Railway Dir/Gen: Georgia plays one of most important roles in Middle Corridor",
@@ -790,6 +957,33 @@
    ],
    "summary": "News Investment in China's river ports brings ocean services closer to shippers The Loadstar",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1226dd4d33bb",
+   "title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
+   "original_title": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNE1fMzFiSjhrOFpJV21kajdMYkJEd20zcGM4Sm0yREpWU09IZnBwX0VyUk9LTWlHYWhDYXZCOS04eng0d1lPdVlKX2pZUjFwYzAwZkM4NWlDazVaSUFfRHlLaTczenpiZTdrb0lXd09XZTRiWHpNVGYxcDRjaHhoZ3JvcVFtb1VZM29raVc4RE9kUXBZWVdkbmktRU5FbV9hb1Fweg?oc=5",
+   "source": "EnergyNow.com",
+   "published": "2026-10-01T11:31+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "disruption",
+    "hormuz"
+   ],
+   "summary": "Alternative Routes for Middle East Oil and Gas Due to Hormuz Disruption EnergyNow.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -2283,6 +2477,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "f6e0d38e7d9e",
+   "title": "Growing Middle Corridor freight flows offer Georgia opportunity to expand regional logistics ecosystem - Georgian Deputy Economy Minister",
+   "original_title": "Growing Middle Corridor freight flows offer Georgia opportunity to expand regional logistics ecosystem - Georgian Deputy Economy Minister",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPTmRGa21ieFFnQklzU1plYmwxQnNkOEx6bWVoY1lDc2hfM3l6d1hsbEFud1lIbVIxUEtXWUdYLVBTNlVEMWtOcGY2VWc2MHZTTklpYTljZUY2SmhhUHdpNkJQbUdnUEVrS1F3Q1BVaDNkVzZuY1lGMUdHcUZEOVBGZFUzbUJQNjlMTzlBVzFGUE5wZmpwekxrcGRUMmlKaFZuTTFFOVBVeFZqQ2VSN29OSjVZUmFqZTNfeEZ5SGNHNUtaVDRwMlRVNEZsb09aLTFFQUl0Y0lJVHdDODZabHVOdTlkMzJGTFpMNDdPUXV3TmFoOUtNMHVqQ0d5bFN4VFJlVUhKZkNJQS0zMlBSTTRwYWZUTEJXWUhs?oc=5",
+   "source": "Business Insider Georgia",
+   "published": "2026-09-30T16:58+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Asia"
+   ],
+   "tags": [
+    "logistics",
+    "middle corridor"
+   ],
+   "summary": "Growing Middle Corridor freight flows offer Georgia opportunity to expand regional logistics ecosystem - Georgian Deputy Economy Minister Business Insider Georgia",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "82e60806f056",
    "title": "Marsa Maroc acquires a Liebherr LPS 550 for its bulk operations in Casablanca",
    "original_title": "Marsa Maroc acquires a Liebherr LPS 550 for its bulk operations in Casablanca",
@@ -3018,6 +3240,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "97e3edc8d016",
+   "title": "Ganesh Benzoplast sells terminal business to KKR-backed Cisternina",
+   "original_title": "Ganesh Benzoplast sells terminal business to KKR-backed Cisternina",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZ0YyTk5tczVTcVpSbmhfZmVSMnMxSXVMdm9fWmM4dS1nc0Zpd0FLV1RBT0dhNDZNamRhak15MUNqZ3VuOEVQM1lCTXFWQ3ZJd3dHck93Ni1McGNiWXZjQzYxZVVCZndTdU8wVnQ3M0h3Tmk3UWdyMjJhbmE0N1M3LWxRUVh1REpuZUdGNlpINkhaLXc?oc=5",
+   "source": "Splash 24/7",
+   "published": "2026-09-30T09:40+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "sells",
+    "terminal"
+   ],
+   "summary": "Ganesh Benzoplast sells terminal business to KKR-backed Cisternina Splash 24/7",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "145555569bc7",
    "title": "Poland’s planned Świnoujście terminal clears environmental appeal",
    "original_title": "Poland’s planned Świnoujście terminal clears environmental appeal",
@@ -3446,6 +3695,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "05ab9ede23dc",
+   "title": "Mideast Crude Oil Flows Hit 98% of Pre-War Level, JPMorgan Says",
+   "original_title": "Mideast Crude Oil Flows Hit 98% of Pre-War Level, JPMorgan Says",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNFdBaGUzVVdZd0VLaVlmTFVNeVhhVnowUnV5ajJDMTVKbkJlV3BOdlh5LVdWbktidGVEeXJNc2s0Rk1IMC1qaDhjYndoa2lFZlRLYVZzZ3g3TVp3b1lQeG5ZYVI4WkFVbUFabHFfdGFqTzM4M1RjZzBUUHRZbUNLbFIteW9meWJTNWVzcHRMbU9OZGpmOGJzemtTc0J1OVdybDRsVTlOTndsZFlGNTNNbUJR?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-09-30T03:41+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crude",
+    "war"
+   ],
+   "summary": "Mideast Crude Oil Flows Hit 98% of Pre-War Level, JPMorgan Says Bloomberg.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e6f45656d03d",
    "title": "Middle Corridor could emerge as efficient Europe-Asia trade route: WB",
    "original_title": "Middle Corridor could emerge as efficient Europe-Asia trade route: WB",
@@ -3469,6 +3745,34 @@
    ],
    "summary": "Middle Corridor could emerge as efficient Europe-Asia trade route: WB Fibre2Fashion",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "cc295047bc3d",
+   "title": "U.S. and Iran hold separate mediator talks as Mideast oil exports hit war-time high",
+   "original_title": "U.S. and Iran hold separate mediator talks as Mideast oil exports hit war-time high",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTlZydzBSczVKdWI1VDFFMkVUcmlONXhJSE1tSXBsbXBaMXFKWkNiTFplUVhtNHVtR0xuWlFQa2NaeElzZ3FYYVZfbjh2Qzl5Tnd2ajk0Z2xLYnE4QkdNTU1qRlBOTGUtYnh1OG1IUjFwME50UElsekxUcHNPZzYybk1URm9HNzdCMWpIWmRsVmJQVkxLNnlhWEljZllIdmtoODZ0Sm5SYmpLcVhtSVVTVUdqWDdnV045WEpEX1A0cmUzOHkxZEE?oc=5",
+   "source": "India Shipping News",
+   "published": "2026-09-30T03:11+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "shipping",
+    "war"
+   ],
+   "summary": "U.S. and Iran hold separate mediator talks as Mideast oil exports hit war-time high India Shipping News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -3552,6 +3856,33 @@
    ],
    "summary": "CCReB Advisors Expands CRE Portfolio with Strategic Fukuoka Logistics Acquisition TipRanks",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9d85e5229e79",
+   "title": "Brent Crude Near $103 As Strait Of Hormuz Uncertainty Offsets Saudi Supply Recovery",
+   "original_title": "Brent Crude Near $103 As Strait Of Hormuz Uncertainty Offsets Saudi Supply Recovery",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPMmpiX1pZTzR0S2czU1QweXFRbkp6eDBaU2ZyMzJ4M2ZDdl8yclprUGZ3aHJEWk1JZHNwaDNyclphUEF1NHliVl9wSk5KVXVyWDB4YTVHN0l5UHpOMkd5R21NMzJzd3BTWEVCaW9jNHhWN24xUUJBa01tcWRTN2NKWFFienpkLTdMbnAweTFwcVRJS0tranJJeDNEOUUxcHFoa29WUVNpMnVwdkVFd0tPRXFkWDh0M1VRUzJwRERzdkhfbW1JVWxTMHg0UUpSWTh5dExwbmt3RHZvUEt1RTN2X3lnVUdnTkNiWE15TU91dWRYazA3T214Qk9NSUpSMnFZTjV0Z2ZLUmnSAZACQVVfeXFMTlpiQ2FkcDlEUld4alExTTQtR1ZEanBNM1ZsUzhlV1diak1peDRKYVNTb1NEc1dySnhmNGUtWHhQcnpWaUlDY1cwZy1KUS1zejhoWXBPNEdDbDY5U2NRc1pPendjaFZfV3dSNXhJbVVCZEtHTTBfclJNOVhZajFFbVFVN2ZCNlRRQ3lUN3JNZzNhSzRpZWhnWUpTUW05VWJlVS00RjBHRllvMVBwUVVlaXVMSjE5S0VLeGFEMktNYk0wT1k4aWlzMnBFUUREZGxxS1JfbEFMaXgzeTYtRlpfb2d0bG04dFZ1N3Jsb3RMYTJ1M1k3ODNMdFlZenltdjhMVUtELVFYT1l4dzRxakFqRDY?oc=5",
+   "source": "NDTV Profit",
+   "published": "2026-09-30T00:59+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "hormuz"
+   ],
+   "summary": "Brent Crude Near $103 As Strait Of Hormuz Uncertainty Offsets Saudi Supply Recovery NDTV Profit",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -3748,6 +4079,33 @@
    ],
    "summary": "Budowa terminala w Świnoujściu. Skarga odrzucona TVP Szczecin",
    "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "86415af3cd75",
+   "title": "Oil prices down on recovering Middle East crude flows",
+   "original_title": "Oil prices down on recovering Middle East crude flows",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVFRrUUEtR0FrOUlWb29BRjhlM0xpeWUzZXhQVHFUWGJaMG5reGhVVXhjSDZ6RlpiRzZpZTJzWlhaNDR1THFaeDQtREdkVEtieWZxTG1zcksxdUVKVzJwU0NlYU5NVXBSZlJqQWs1WW9rdklfb0MyN01pSGZ5RGk4TWxjNmZSdjN0QlVkaVJFNlNmUmZEaWxETVAxaTVOZTE3TmfSAa8BQVVfeXFMTnNZeWNzTnM1NnFQZWJxX0l2cmRPQU5oY3VCTnZFWXdVNWE4QVYxQzR3SFB3MHdBWGtET0diM0pLTTF5cjA2N2VBeXpUNFJjYjJjTWd4Y1RHNndzck9uS01kYVRXQTZVUUx1aUkwV0RRU1d3RDM4YlBpRFdwcGh5OU5vNkZkajItMFBjZUdXNFVzZ3NaYW81alpBUnRxWXZTUFVTSUhwdll5SWhzQkRfbw?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-09-29T18:37+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Oil prices down on recovering Middle East crude flows Baird Maritime",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -4509,6 +4867,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "e03fa2e30109",
+   "title": "East of Suez: Dubai at monthly low, Singapore gasoil at 3-wk low",
+   "original_title": "East of Suez: Dubai at monthly low, Singapore gasoil at 3-wk low",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU2d3MGRXMW5aS0g1TUlRQ1o4OFp1QW5qcVRqQ184dE15SVN0Q1dVeWRWQ1huYVVJYzBKWFVsTlJscjVnUmJKV3V2aGxTZWw0MElIQ1ptbi1DTDBlUzlLWHBVSnNYb1owNE9VNEVDeU9wUjNOMDJLZVYzc01CWFRUN0J2ZmpwMExLakVPbFJlcG5MWVF0U29GUVZGRjJJaURHRVkwZUMtQk4?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-09-29T10:39+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "commodit",
+    "suez"
+   ],
+   "summary": "East of Suez: Dubai at monthly low, Singapore gasoil at 3-wk low Quantum Commodity Intelligence",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "9d73f51f1a29",
    "title": "Germany moves to block COSCO buyout of port logistics firm Zippel",
    "original_title": "Germany moves to block COSCO buyout of port logistics firm Zippel",
@@ -4651,6 +5037,88 @@
    ],
    "summary": "Qatar extends LNG force majeure, slight uptick in exports Quantum Commodity Intelligence",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "41ce7f21bd27",
+   "title": "British parliamentary delegation briefed on Middle Corridor prospects in Kazakhstan",
+   "original_title": "British parliamentary delegation briefed on Middle Corridor prospects in Kazakhstan",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LWHRhRmFaWVYtTXJZVXJtRTJrdVNVdXFYNFVrZXRMMWY0WXBpYUZPeWdCT01OX1EySGVSMnRZTThCd0M1UHJpdm1ubEJTSDU3MElQSE1yWQ?oc=5",
+   "source": "AzerNews",
+   "published": "2026-09-29T08:21+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor",
+    "parliament"
+   ],
+   "summary": "British parliamentary delegation briefed on Middle Corridor prospects in Kazakhstan AzerNews",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ecd805c7df40",
+   "title": "Integration: World-Class Trade Logistics Along the Trans-Caspian Transport Corridor",
+   "original_title": "Integration: World-Class Trade Logistics Along the Trans-Caspian Transport Corridor",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMGNqeEQtblBXa0szZmg5V2p2MUNSMUVYc3RmbFRUbW9mcXJseGJob01fUWlhQ29YY1pjQmtpaXdMOV9iWXJkU0Vva1lMMnMwSG1pZ2puMVBIZTFoUU5HbkhBSG9ENU5wR0hPWTdvZmxjOVNEcDMtQ3kwazg1aE5LUGNWb0RpM2JlMnNqLTBFd1hYQW5sUkYySG96TmhoUElIUlNOSzZ0V1pDenJsYWJqSnhGUUFxa3hOQjJUNHpnLVZGLWlvcVE?oc=5",
+   "source": "Polity.org.za",
+   "published": "2026-09-29T08:12+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "logistics",
+    "trans-caspian"
+   ],
+   "summary": "Integration: World-Class Trade Logistics Along the Trans-Caspian Transport Corridor Polity.org.za",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "496ec328673e",
+   "title": "Maritime drones: STARK unveils 12-meter unmanned surface vessel",
+   "original_title": "Maritime drones: STARK unveils 12-meter unmanned surface vessel",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmNTdXJpU3FzaWpCYUhlWDdFZmRXTzNfTHdSLVdTR2FBWTNkNWtjUWpyd0xwR21xZjNJWUI1Q2gxaWJ1N05PRjlvRm1uNGxXS05iN3FmT05TNzZmXzhCdE9yakgyeGZaNkZfX0NrUmpxZVhGOTdsNnluaEdrWWNfZGlYQnZuV2RKZkJPWmhyNEQxdlF1NFNsU3dCNTYtdkdYY2dxMWtGV1l6X2Y3Y0E?oc=5",
+   "source": "Table.Briefings",
+   "published": "2026-09-29T08:10+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "drone",
+    "vessel"
+   ],
+   "summary": "Maritime drones: STARK unveils 12-meter unmanned surface vessel Table.Briefings",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -5272,6 +5740,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "6887015a2cc2",
+   "title": "World Bank proposes creation of single logistics operator for Middle Corridor",
+   "original_title": "World Bank proposes creation of single logistics operator for Middle Corridor",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjkyTEFreFI4aThjSEpGa3FfSzQ2enQ0WGF0NVVPNkY5Vk1pQ19Sa01hVEdSMndXTmpYWWwybHFWN2dNUWcyQWhORk9zVXA4cVJPeF9GVzJ1cHJhZUxieEZvSlpkX3hiY284bjZkcmE4cFJKbEFDMjhSb2hPNTdOcTMycktYZlFobFF1ZTZwU2daNmpwWDFDSzYzejlnWXMtMnBWdlViR2JIQTQ0aE45RUxR?oc=5",
+   "source": "Apa.az",
+   "published": "2026-09-28T14:49+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "logistics",
+    "middle corridor"
+   ],
+   "summary": "World Bank proposes creation of single logistics operator for Middle Corridor Apa.az",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "72effd144c6b",
    "title": "EMF's first Trafigura-chartered VLAC/VLGC due for January delivery",
    "original_title": "EMF's first Trafigura-chartered VLAC/VLGC due for January delivery",
@@ -5322,6 +5817,63 @@
    ],
    "summary": "Ports, energy and corridors could take Mozambique–Botswana ties to a new level as Chapo visits clubofmozambique.com",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "89c5685f83e1",
+   "title": "WB recommends that Azerbaijan Railways continue tariff reforms",
+   "original_title": "WB recommends that Azerbaijan Railways continue tariff reforms",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGx6Wi10bWdTOGoteVFFLWZjUVE1cHBOVzBqUl9BdlJLeXZXOVYzMWlQZXFROXZpLU1OVWR4cmtsYzR2amoxejVET25vMWVzbXY3OVQ3Y1dIOWtkRmpVNktYSWdwYlN3OGxuZTBNRU1QS18wVG0xdUFvY2wxNTVKS1d3eE5IVndTTzktd3VSYWJsSW5JZEhlc25xejhmQkdLWHBzTNIBpAFBVV95cUxQSGx6Wi10bWdTOGoteVFFLWZjUVE1cHBOVzBqUl9BdlJLeXZXOVYzMWlQZXFROXZpLU1OVWR4cmtsYzR2amoxejVET25vMWVzbXY3OVQ3Y1dIOWtkRmpVNktYSWdwYlN3OGxuZTBNRU1QS18wVG0xdUFvY2wxNTVKS1d3eE5IVndTTzktd3VSYWJsSW5JZEhlc25xejhmQkdLWHBzTA?oc=5",
+   "source": "Report.az",
+   "published": "2026-09-28T13:56+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "railway",
+    "railways",
+    "tariff"
+   ],
+   "summary": "WB recommends that Azerbaijan Railways continue tariff reforms Report.az",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7b9bba84c913",
+   "title": "Ukraine Asks EU for €1.1 Billion to Reroute Agricultural Exports",
+   "original_title": "Ukraine Asks EU for €1.1 Billion to Reroute Agricultural Exports",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hVnMyaUJ6TjhmNWlyZUEzREtfaWdyLXFSUHpoWDZGQnhYVXdFbDRLc2VvODl2ODR0dWlGRXpvcGVEbHlldVpJM0dtbnVhbHhUaHdjUF9SeVJfS0s1VjNiNDBn?oc=5",
+   "source": "Межа. Новини України.",
+   "published": "2026-09-28T13:53+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Ukraine & Black Sea",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "rerout",
+    "ukraine"
+   ],
+   "summary": "Ukraine Asks EU for €1.1 Billion to Reroute Agricultural Exports Межа. Новини України.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -5632,6 +6184,36 @@
    ],
    "summary": "InfraRed announces SKr2.61bn acquisition of Scandinavian rail freight operator Hector Rail Railway Gazette International",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f583cb9b8cdd",
+   "title": "Kazakhstan asked Ukraine to cease attacks on vessels in the Black Sea",
+   "original_title": "Kazakhstan asked Ukraine to cease attacks on vessels in the Black Sea",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWnZlRy1PcTRrTUVybG5nTWNnRmdQYTdpbVZDWUdSZVVyWXZNeWNES3lBSnh1ejQwbkVrTmhBM2JrOVFueHFyQlRscWRQWmJlZjVjWE9vUnpkbm1qSWdqY1hOTFVWQ2VxTDhSejBRWkVwdGZGVjJiSnFrUVN2YUxHX1JHbi14N2diNUZzb2NacWZHT3JtS1dPM2o5MTQ1Z1FST0dZWXB5dXZjS1FUX3NrVlF6Q2Q?oc=5",
+   "source": "open.kg",
+   "published": "2026-09-28T09:49+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Asia"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "ukraine",
+    "vessel"
+   ],
+   "summary": "Kazakhstan asked Ukraine to cease attacks on vessels in the Black Sea open.kg",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -5962,6 +6544,62 @@
    ],
    "summary": "FG approves modernisation of Onne, Rivers, Delta, Calabar Ports Nigerian NewsDirect",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "55b71a7948ee",
+   "title": "$500M port investment to strengthen Saskatchewan potash exports",
+   "original_title": "$500M port investment to strengthen Saskatchewan potash exports",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOFFLUWxkeFJJeTFZczRGQnNYVzRYLW5GLWVxU3Nsb1ktN2tnaFo0WVBVV0hyaXgxa3Z0WEpEMk1IOFdCeUduQUhqVVFlUzFHT2RoWG01WFJVbm1BUFJmcDU3RnZ0b3pEbTRMbERhRndnTXlFX3R5VGlTNVlKc3pfRkpnNEd6ZUdMWmdpelNWdjdhWEI2NnNtUkZueDdDVnZPSk1v?oc=5",
+   "source": "westcentralonline.com",
+   "published": "2026-09-27T18:07+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "potash"
+   ],
+   "summary": "$500M port investment to strengthen Saskatchewan potash exports westcentralonline.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9739e4071d5d",
+   "title": "The UK-built drone boat that's set to bust Vladimir Putin's murky shadow fleet",
+   "original_title": "The UK-built drone boat that's set to bust Vladimir Putin's murky shadow fleet",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOekZ5b0J5dGFfMVoxVzFYR2VEeGR3a1JLX05UczZCVUJYQV9mOG1VQXhDNjRNQUtFb0YtUjNUMV9LMHNfZkQ3M2NXZkNXWmFlV3M2bENYM3BTeFp4MExKNmExbnRpQmJmenJUM0ZLa0ZxaDVjc0NZaTdYQ0JiRmEwd1JvQVY3SVFSQWpnNldSbl9JcTYwQThTZ3l3U0VXdWlGYThZVG5Iek3SAa4BQVVfeXFMTmtzdXNjVGhiZHVLQ0E1Z0RWQWFScTh2LUFJQ2Y0Q292RGRMTkpoSkdjVjJJOHlRMEdPTkNXdUdTTDNJaGJyQVpIQ1UyWDBPR0E4bkJ1LUF6OUVENFlBOEFaZVhrSm1UYjc1U2Y0SzZtbXc1OENEZk5DM3JZcmdUMGNTNWltMk42SVFjZi1oMWxhZlJZMlFkSExNRktuRWllSkVWaktqUXV1Rk1CWEhn?oc=5",
+   "source": "express.co.uk",
+   "published": "2026-09-27T13:19+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "drone",
+    "fleet",
+    "shadow fleet"
+   ],
+   "summary": "The UK-built drone boat that's set to bust Vladimir Putin's murky shadow fleet express.co.uk",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -6507,6 +7145,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "2c6fbfe715cc",
+   "title": "Middle Corridor becomes important route for regular int'l transport - Chinese official",
+   "original_title": "Middle Corridor becomes important route for regular int'l transport - Chinese official",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hVzcwRzRhVmgtSlZyNG40Y2VGLTBtX0hrNmtDbVh3UXBlTVpxNU1NdjlPZS1aQm8wQmROM0dlSDVVdmUzZms5TmhUMm5CVXdReXVQSHdacw?oc=5",
+   "source": "trend.az",
+   "published": "2026-09-25T11:19+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "chinese",
+    "middle corridor"
+   ],
+   "summary": "Middle Corridor becomes important route for regular int'l transport - Chinese official trend.az",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4f525119bf9b",
    "title": "Houthis tighten grip on Bab el-Mandeb – and African ports may lose out",
    "original_title": "Houthis tighten grip on Bab el-Mandeb – and African ports may lose out",
@@ -6534,6 +7199,33 @@
    ],
    "summary": "Houthis tighten grip on Bab el-Mandeb – and African ports may lose out The Africa Report",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fbc33f8d2484",
+   "title": "Opinion: The Southern Dimension of the Middle Corridor - Afghanistan’s Role in Eurasia’s New Logistics Landscape",
+   "original_title": "Opinion: The Southern Dimension of the Middle Corridor - Afghanistan’s Role in Eurasia’s New Logistics Landscape",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQUlOb1VKM3NHLU5CbTFFNXJwWklQTURzenlJYnZBWktfemNPem9ZaU9pdmJwWS13d0FaQ3Q1elU0OV9GMUFyMWhmVTB0ZFdDUnBEX184NlBwTTVlSENLaGs0bVhVWl93REJoUkNQMUx1aWlkY0g2V3YzT2VoRTlQRVVydEhLQ2pMSW5NN3dkQWR3WXR6QWp3U2owand1TmhMbW9jUWJxYlAzUFZKa1N5MWgxeVZtWUdhZWV5UA?oc=5",
+   "source": "The Times Of Central Asia",
+   "published": "2026-09-25T10:00+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "logistics",
+    "middle corridor"
+   ],
+   "summary": "Opinion: The Southern Dimension of the Middle Corridor - Afghanistan’s Role in Eurasia’s New Logistics Landscape The Times Of Central Asia",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -6653,6 +7345,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "d71628d3906a",
+   "title": "Record Diesel Prices and Energy Security Fears Fuel Biofuel Expansion",
+   "original_title": "Record Diesel Prices and Energy Security Fears Fuel Biofuel Expansion",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXY0V0VRQlFGT1ZHZmtqc3RnNzhoVzdHOWJtaFBNNURXY3dKV2x3RGhmQ2FDTWRVMTVRTVQyd2ZnV1ZxenQ5dTFHdGVIRjFvV2JKbV90ZUZhc1RMMW83RTJRRnRfQVV1MmxQZ0lzTmR4NWl4cGpuRTRNRndSVjUwdm5TTWNWOFlVZXcwa2lvTXpvSks1OWNTUnl6eTgycVVKY2dGLTdVakRRb1JIdGc?oc=5",
+   "source": "czapp.com",
+   "published": "2026-09-25T07:00+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "diesel",
+    "prices",
+    "security"
+   ],
+   "summary": "Record Diesel Prices and Energy Security Fears Fuel Biofuel Expansion czapp.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "01cd1420c05a",
    "title": "South Africa’s fertiliser waste could supply Europe’s defence magnets as China dominates rare earths",
    "original_title": "South Africa’s fertiliser waste could supply Europe’s defence magnets as China dominates rare earths",
@@ -6679,6 +7399,33 @@
    ],
    "summary": "South Africa’s fertiliser waste could supply Europe’s defence magnets as China dominates rare earths Business Insider Africa",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "958be4a109c8",
+   "title": "Kazakhstan and EU speed up Trans-Caspian route: what changes",
+   "original_title": "Kazakhstan and EU speed up Trans-Caspian route: what changes",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUF6NzlScHpYQlZzRklWTDBWbS1Ea1B2Z2dVakc1eWVWRmFHSk91V19fcVE4ZzM5ajJycEZYYXFzMGFEN0xJLWFibjVtLWxjQ1JxU0lfbVVoTXhhTFlweEFrdnUxY3dNSUZHN1hOUW96YUJsRFRzWnRfU3RKRml5ckhPc2dpc0Q3VndzOUVtdGRROFpDZGxWNG5tLU9vTE15?oc=5",
+   "source": "DKNews.kz",
+   "published": "2026-09-25T06:40+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "EU institutions",
+    "Asia"
+   ],
+   "tags": [
+    "eu ",
+    "trans-caspian"
+   ],
+   "summary": "Kazakhstan and EU speed up Trans-Caspian route: what changes DKNews.kz",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -6790,6 +7537,32 @@
     "terminal"
    ],
    "summary": "New Kapalama Container Terminal nears completion as $2.5B Sand Island redevelopment plans advance The Business Journals",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "dc432556006f",
+   "title": "Saving Fuel in Port Operations: Stevedoring Company Reduces CO₂ Emissions by 15 Tonnes Per Year - HUB-4.COM",
+   "original_title": "Saving Fuel in Port Operations: Stevedoring Company Reduces CO₂ Emissions by 15 Tonnes Per Year - HUB-4.COM",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlRSM3J6c0VsT0hMZERXTnJ4VHpyVjh2NHBxNllwb0h2cGlJcW1oU1lQUV8zYXp2Yk16Y1NBVWQtUXRZZ3RIVXM0RklwQzdhNDJUQk93N196anhaenlUMHZkM3FOeUlzZzg1NzlHdHNtZVF2U1VoQ1lWanZ3SnJhWUtpRDJEVnlqQkJvX2Q3aE5GOUZrN1d5TGhIUGFJVXRQcWxTYU5Ra1pqdTJrcGZvSExPaHBHaG8?oc=5",
+   "source": "HUB-4.COM",
+   "published": "2026-09-24T23:00+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "stevedor"
+   ],
+   "summary": "Saving Fuel in Port Operations: Stevedoring Company Reduces CO₂ Emissions by 15 Tonnes Per Year HUB-4.COM",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -7223,6 +7996,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "cf288aee90b3",
+   "title": "A 254-ton steel ring rolled out of an Australian port at night on a truck 180 feet long and wider than two traffic lanes, the front shield of a tunnel-boring machine so large that no road vehicle on Earth could move it assembled in one piece",
+   "original_title": "A 254-ton steel ring rolled out of an Australian port at night on a truck 180 feet long and wider than two traffic lanes, the front shield of a tunnel-boring machine so large that no road vehicle on Earth could move it assembled in one piece",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCSHpzV3hDWFNyZHB1TGpoTzd6ZTJWMUVZN3VoWkRnakt0YXNNZTVLdWVEM1gwdnFfWmQwN3FtQnJrSHFXbGJRd0VnRm1namlScEtadkVFTUlmQzlGcG8xLXMtdFBHaUJFYmdBSXJB?oc=5",
+   "source": "Autonocion.com",
+   "published": "2026-09-22T10:38+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "port",
+    "steel"
+   ],
+   "summary": "A 254-ton steel ring rolled out of an Australian port at night on a truck 180 feet long and wider than two traffic lanes, the front shield of a tunnel-boring machine so large that no road vehicle on Earth could move it assembled in one piece Autonocion.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "57aa44a5d717",
    "title": "Four cranes move SSA Marine’s Guaymas terminal closer to operations",
    "original_title": "Four cranes move SSA Marine’s Guaymas terminal closer to operations",
@@ -7248,6 +8048,35 @@
    ],
    "summary": "Four cranes move SSA Marine’s Guaymas terminal closer to operations WorldCargo News",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "29d89f5db767",
+   "title": "deugro Commissions New Port Setup for WTG Component Handling and Storage, Welcoming First Rotor Blade Shipment from China",
+   "original_title": "deugro Commissions New Port Setup for WTG Component Handling and Storage, Welcoming First Rotor Blade Shipment from China",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQW4yWnVpaHV1MG9LQ0xPVDhkOHp4Y2dsdzMxTXNyODNacmdhMHkta3FpZzVhNnYzcUFSY1dmV2lLQnNsdjFDa2NENVNRUVBIUk5sVnlicEhCb0VnOU9pR3pMUkxnd25HZ1MzbjlwZkRMeERIaG84NFY5bktjMDRJOXFDWEVsbHllMlEzbnRtcGQ3TW0zU1ktSW80U21ZdHVDdUxJdzZCTkhlcVExZEhvbWlaVmpDRlpEWnB6TVdqRW1BdXV2TEJ2MWdESWM1MXJpZnd1ZDVja09QSWRkZkRJSWxwQ21fS2NkWW5CU1k1b2lkcXc0TzN0Xw?oc=5",
+   "source": "India Shipping News",
+   "published": "2026-09-22T03:35+00:00",
+   "added": "2026-10-01T18:29+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "port",
+    "shipping"
+   ],
+   "summary": "deugro Commissions New Port Setup for WTG Component Handling and Storage, Welcoming First Rotor Blade Shipment from China India Shipping News",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
