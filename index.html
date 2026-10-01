@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>OT Logistics News Feed</title>
+<meta name="description" content="Sector news, regulation, M&amp;A, geopolitics and commodities for port and logistics leadership, ranked by priority.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Schibsted+Grotesk:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<!--APP-START-->
+<header class="mast">
+  <div class="mast-inner">
+    <div class="mast-top">
+      <div class="brand">
+        <svg class="brand-mark" viewBox="0 0 196 44" role="img" aria-label="OT Logistics">
+          <rect x="0" y="0" width="54" height="44" rx="6" fill="#d7182a"/>
+          <text x="27" y="31" text-anchor="middle" font-family="Schibsted Grotesk, Arial, sans-serif" font-size="25" font-weight="700" fill="#ffffff" letter-spacing="-0.5">OT</text>
+          <text x="64" y="30" font-family="Schibsted Grotesk, Arial, sans-serif" font-size="19" font-weight="600" fill="#ffffff" letter-spacing="2.6">LOGISTICS</text>
+        </svg>
+        <span class="brand-div" aria-hidden="true"></span>
+        <div>
+          <div class="brand-name">News Feed</div>
+          <div class="brand-sub">Sector intelligence for leadership</div>
+        </div>
+      </div>
+      <div class="mast-meta">
+        <span><span class="live-dot"></span><span id="updated">Loading…</span></span>
+        <span id="weekLabel"></span>
+        <button class="icon-btn" id="themeBtn" type="button" aria-label="Switch colour theme">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+          <span id="themeLabel">Theme</span>
+        </button>
+      </div>
+    </div>
+    <div class="pulse" id="pulse" aria-label="Snapshot"></div>
+  </div>
+</header>
+
+<nav class="tabs-wrap" aria-label="Views">
+  <div class="tabs" role="tablist" id="tabs">
+    <button class="tab" role="tab" data-view="feed" id="tab-feed" type="button">All news</button>
+    <button class="tab" role="tab" data-view="daily" id="tab-daily" type="button">Daily brief</button>
+    <button class="tab" role="tab" data-view="weekly" id="tab-weekly" type="button">Weekly brief</button>
+    <button class="tab" role="tab" data-view="reco" id="tab-reco" type="button">Recommended reads</button>
+    <button class="tab" role="tab" data-view="saved" id="tab-saved" type="button">Saved <span class="count" id="savedCount">0</span></button>
+  </div>
+</nav>
+
+<div class="shell">
+  <aside class="rail collapsed" id="rail" aria-label="Filters">
+    <label class="search">
+      <span class="sr-only">Search news</span>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" placeholder="Search headlines, ports, companies…" autocomplete="off">
+    </label>
+    <button class="btn filters-toggle" id="filtersToggle" type="button" aria-expanded="false">Show filters</button>
+    <section>
+      <h3>Section</h3>
+      <div class="cat-list" id="cats"></div>
+    </section>
+    <section>
+      <h3>Priority</h3>
+      <div class="seg" id="prios"></div>
+    </section>
+    <section>
+      <h3>Region</h3>
+      <div class="seg" id="regions"></div>
+    </section>
+    <section>
+      <h3>Published</h3>
+      <div class="seg" id="ranges"></div>
+    </section>
+    <div class="rail-foot">
+      <button class="link-btn" id="resetBtn" type="button">Reset filters</button>
+      <p>Stories are scored for relevance to Polish and Baltic ports, rail and inland logistics, forwarding and bulk cargo. <b>High</b> means a manager should look at it this week.</p>
+    </div>
+  </aside>
+
+  <main class="main" id="main"></main>
+</div>
+
+<footer class="site-foot" id="foot"></footer>
+
+<div class="scrim" id="scrim" hidden></div>
+<article class="reader" id="reader" aria-modal="true" role="dialog" aria-labelledby="readerTitle" hidden>
+  <div class="reader-bar">
+    <div class="nav">
+      <button class="btn" id="prevBtn" type="button" aria-label="Previous story">↑ Prev</button>
+      <button class="btn" id="nextBtn" type="button" aria-label="Next story">↓ Next</button>
+    </div>
+    <button class="btn" id="closeBtn" type="button">Close ✕</button>
+  </div>
+  <div class="reader-body" id="readerBody"></div>
+</article>
+<div class="toast" id="toast" hidden></div>
+<!--APP-END-->
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,102 @@
+{
+  "_comment": "Sources and scoring rules for the OT Feed collector. Edit freely: add feeds, tune keyword weights, or change thresholds. Keywords are matched case- and accent-insensitively (so 'swinoujscie' also matches 'Świnoujście').",
+  "retention_days": 60,
+  "max_items": 600,
+  "min_relevance": 3,
+  "max_age_days_on_ingest": 10,
+  "google_news": {
+    "en": "https://news.google.com/rss/search?q={q}&hl=en-GB&gl=GB&ceid=GB:en",
+    "pl": "https://news.google.com/rss/search?q={q}&hl=pl&gl=PL&ceid=PL:pl"
+  },
+  "queries": [
+    {"q": "\"OT Logistics\" OR Rentrans OR \"Kolej Bałtycka\" when:14d", "lang": "pl", "hint": "company"},
+    {"q": "\"OT Logistics\" when:14d", "lang": "en", "hint": "company"},
+    {"q": "Świnoujście OR Szczecin port OR terminal when:7d", "lang": "en", "hint": "ports"},
+    {"q": "port Świnoujście OR port Szczecin OR \"Przylądek Pomorski\" when:7d", "lang": "pl", "hint": "ports"},
+    {"q": "port Gdynia OR port Gdańsk terminal when:7d", "lang": "pl", "hint": "ports"},
+    {"q": "Gdynia OR Gdańsk port cargo OR terminal OR container when:7d", "lang": "en", "hint": "ports"},
+    {"q": "Polish ports throughput OR transshipment OR cargo when:7d", "lang": "en", "hint": "ports"},
+    {"q": "przeładunki porty morskie when:7d", "lang": "pl", "hint": "ports"},
+    {"q": "Baltic ports Rostock OR Klaipeda OR Hamburg terminal bulk when:7d", "lang": "en", "hint": "ports"},
+    {"q": "Odra waterway OR \"Oder\" inland navigation barge freight when:14d", "lang": "en", "hint": "rail"},
+    {"q": "Odrzańska Droga Wodna OR żegluga śródlądowa when:14d", "lang": "pl", "hint": "rail"},
+    {"q": "rail freight Poland OR \"PKP Cargo\" OR intermodal Poland when:7d", "lang": "en", "hint": "rail"},
+    {"q": "kolejowe przewozy towarowe OR intermodal OR \"PKP Cargo\" when:7d", "lang": "pl", "hint": "rail"},
+    {"q": "EU maritime regulation OR \"EU ETS\" shipping OR FuelEU when:7d", "lang": "en", "hint": "regulation"},
+    {"q": "European Commission ports OR logistics OR \"rail freight\" proposal OR directive when:7d", "lang": "en", "hint": "regulation"},
+    {"q": "ustawa OR rozporządzenie porty morskie OR transport kolejowy OR logistyka when:7d", "lang": "pl", "hint": "regulation"},
+    {"q": "EU customs OR tariff OR safeguard steel OR fertiliser OR grain imports when:7d", "lang": "en", "hint": "regulation"},
+    {"q": "port operator OR terminal operator OR logistics acquisition OR acquires OR merger Europe when:7d", "lang": "en", "hint": "mna"},
+    {"q": "freight forwarder acquisition OR acquires OR merger when:7d", "lang": "en", "hint": "mna"},
+    {"q": "przejęcie spedycja OR logistyka OR terminal OR port when:7d", "lang": "pl", "hint": "mna"},
+    {"q": "Baltic Sea shipping security OR sabotage OR \"shadow fleet\" when:7d", "lang": "en", "hint": "geopolitics"},
+    {"q": "Russia sanctions shipping OR ports OR \"maritime services\" when:7d", "lang": "en", "hint": "geopolitics"},
+    {"q": "Red Sea OR Suez OR Hormuz shipping container OR bulk when:7d", "lang": "en", "hint": "geopolitics"},
+    {"q": "Ukraine grain exports Poland OR Baltic ports OR transit when:7d", "lang": "en", "hint": "commodities"},
+    {"q": "Baltic Dry Index OR capesize OR panamax OR supramax rates when:7d", "lang": "en", "hint": "commodities"},
+    {"q": "coal imports Poland OR thermal coal Europe prices when:7d", "lang": "en", "hint": "commodities"},
+    {"q": "wheat OR rapeseed OR maize prices Europe Matif when:7d", "lang": "en", "hint": "commodities"},
+    {"q": "fertiliser OR urea OR ammonia prices Europe when:7d", "lang": "en", "hint": "commodities"},
+    {"q": "steel OR iron ore OR scrap prices Europe when:7d", "lang": "en", "hint": "commodities"},
+    {"q": "biomass OR wood pellets imports Poland OR Europe when:14d", "lang": "en", "hint": "commodities"}
+  ],
+  "feeds": [
+    {"name": "gCaptain", "url": "https://gcaptain.com/feed/"},
+    {"name": "Splash247", "url": "https://splash247.com/feed/"},
+    {"name": "Hellenic Shipping News", "url": "https://www.hellenicshippingnews.com/feed/"},
+    {"name": "The Loadstar", "url": "https://theloadstar.com/feed/"},
+    {"name": "RailFreight.com", "url": "https://www.railfreight.com/feed/"},
+    {"name": "Port Technology International", "url": "https://www.porttechnology.org/feed/"},
+    {"name": "Notes from Poland", "url": "https://notesfrompoland.com/feed/"},
+    {"name": "Council of the EU", "url": "https://www.consilium.europa.eu/en/rss/pressreleases.ashx"}
+  ],
+  "source_weight": {
+    "Reuters": 1.5, "Bloomberg": 1.5, "Financial Times": 1.5, "Lloyd's List": 1.5, "TradeWinds": 1.2,
+    "gCaptain": 1, "Splash247": 1, "The Loadstar": 1, "RailFreight.com": 1, "WorldCargo News": 1,
+    "Parkiet": 1, "Rzeczpospolita": 1, "Puls Biznesu": 1, "Business Insider Polska": 0.5,
+    "PAP Biznes": 1.2, "Gospodarka Morska": 1, "Portal Morski": 1, "Rynek Kolejowy": 1
+  },
+  "categories": {
+    "ports": {
+      "label": "Ports & Terminals",
+      "terms": {"port": 2, "ports": 2, "seaport": 3, "terminal": 2, "quay": 2, "berth": 2, "port authority": 3, "container terminal": 3, "bulk terminal": 3, "deepwater": 2, "deep-water": 2, "dredging": 2, "fairway": 2, "transshipment": 3, "throughput": 3, "cargo handling": 3, "stevedor": 3, "przeladun": 3, "nabrzez": 2, "port morski": 3, "porty morskie": 3, "zarzad portu": 3}
+    },
+    "shipping": {
+      "label": "Shipping & Freight",
+      "terms": {"shipping": 2, "vessel": 2, "freight rate": 3, "charter": 2, "carrier": 1, "container line": 2, "ro-ro": 2, "ferry": 1, "bulk carrier": 3, "bulker": 3, "dry bulk": 3, "short sea": 3, "shipowner": 2, "fleet": 1, "teu": 2, "zegluga": 2, "armator": 2, "fracht": 2, "forwarder": 3, "forwarding": 3, "spedycj": 3, "logistics": 1, "logistyk": 1, "supply chain": 1}
+    },
+    "rail": {
+      "label": "Rail, Inland & Intermodal",
+      "terms": {"rail freight": 3, "railway": 2, "railways": 2, "intermodal": 3, "wagon": 2, "locomotive": 2, "pkp cargo": 3, "pkp plk": 3, "rail cargo": 3, "kolej": 2, "przewozy towarowe": 3, "inland waterway": 3, "inland navigation": 3, "barge": 3, "odra": 3, "oder": 2, "vistula": 2, "wisla": 1, "zegluga srodladowa": 3, "drogi wodnej": 3, "droga wodna": 3, "trucking": 1, "road haulage": 2, "dry port": 3}
+    },
+    "regulation": {
+      "label": "Regulation & Policy",
+      "terms": {"regulation": 3, "directive": 3, "legislation": 3, "law": 1, "bill": 1, "ets": 3, "emissions trading": 3, "fueleu": 3, "mrv": 2, "cbam": 3, "customs": 2, "tariff": 2, "duty": 1, "safeguard": 3, "quota": 2, "european commission": 2, "council": 1, "parliament": 1, "ministry": 1, "permit": 2, "environmental decision": 3, "court": 2, "ruling": 2, "tender": 1, "ustaw": 3, "rozporzadzeni": 3, "ministerstwo infrastruktury": 3, "dyrektyw": 3, "clo": 1, "subsidy": 2, "state aid": 3, "kpo": 2, "cef": 2, "connecting europe facility": 3}
+    },
+    "mna": {
+      "label": "M&A & Corporate",
+      "terms": {"acquisition": 4, "acquire": 4, "acquires": 4, "acquired": 3, "merger": 4, "takeover": 4, "buyout": 4, "stake": 3, "divest": 3, "sells": 2, "sale of": 2, "ipo": 3, "private equity": 3, "joint venture": 3, "consortium": 2, "concession": 3, "ppp": 3, "public-private": 3, "results": 1, "quarterly": 1, "restructuring": 3, "bankruptcy": 3, "przejeci": 4, "fuzj": 4, "wezwani": 3, "restrukturyzacj": 3, "wyniki": 1}
+    },
+    "geopolitics": {
+      "label": "Geopolitics & Security",
+      "terms": {"sanction": 3, "war": 2, "ukraine": 2, "russia": 2, "russian": 2, "nato": 3, "military": 2, "defence": 2, "defense": 2, "drone": 2, "attack": 2, "houthi": 3, "black sea": 3, "red sea": 3, "suez": 3, "hormuz": 3, "bab el-mandeb": 3, "shadow fleet": 3, "sabotage": 3, "undersea cable": 3, "gps jamming": 3, "spoofing": 2, "belarus": 2, "china": 1, "chinese": 1, "embargo": 3, "dual-use": 3, "security": 1, "sankcj": 3, "wojna": 2}
+    },
+    "commodities": {
+      "label": "Commodities & Markets",
+      "terms": {"coal": 3, "grain": 3, "wheat": 3, "maize": 3, "corn": 2, "rapeseed": 3, "soybean": 2, "fertiliser": 3, "fertilizer": 3, "urea": 3, "ammonia": 2, "potash": 3, "phosphate": 3, "sulphur": 2, "sulfur": 2, "iron ore": 3, "steel": 3, "scrap": 2, "biomass": 3, "wood pellet": 3, "pellets": 2, "lng": 2, "crude": 2, "oil price": 2, "diesel": 2, "bunker": 2, "aluminium": 2, "copper": 2, "baltic dry": 3, "bdi": 2, "capesize": 3, "panamax": 3, "supramax": 3, "handysize": 3, "commodit": 2, "prices": 1, "futures": 1, "agri": 2, "wegiel": 3, "zboz": 3, "pszenic": 3, "nawoz": 3, "stal": 2, "ruda": 2, "biomas": 3}
+    }
+  },
+  "boosts": {
+    "company": {"weight": 8, "terms": ["ot logistics", "otlogistics", "rentrans", "kolej baltycka", "baltic railways", "otl sa", "port szczecin sp", "port handlowy swinoujscie", "phs swinoujscie"]},
+    "home_ports": {"weight": 5, "terms": ["swinoujscie", "szczecin", "przyladek pomorski", "cape pomerania", "zmpsis", "seaports authority", "police port"]},
+    "polish_ports": {"weight": 3, "terms": ["gdynia", "gdansk", "baltic hub", "dct", "gct", "bct", "kolobrzeg", "elblag", "port polska", "polish port", "polish seaport"]},
+    "poland": {"weight": 2, "terms": ["poland", "polish", "polska", "polski", "polskie", "warsaw", "warszawa"]},
+    "baltic": {"weight": 2, "terms": ["baltic", "baltyk", "rostock", "klaipeda", "riga", "tallinn", "gothenburg", "hamburg", "lubeck", "gulf of finland", "ust-luga", "kaliningrad"]},
+    "eu": {"weight": 1, "terms": ["eu ", "european union", "brussels", "unia europejska", "european commission", "eurostat"]}
+  },
+  "exclude_terms": ["cruise", "football", "soccer", "concert", "festival", "recipe", "celebrity", "horoscope", "airport lounge", "airline", "smartphone", "esports", "tennis", "olympic", "film", "movie"],
+  "priority": {
+    "high_score": 16,
+    "medium_score": 8
+  }
+}
