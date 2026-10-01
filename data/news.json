@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T16:47+00:00",
+ "generated_at": "2026-10-01T17:03+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -191,6 +191,37 @@
    "summary_method": "extract"
   },
   {
+   "id": "7d53f9a8ea54",
+   "title": "Torm cashes in on ageing MR",
+   "original_title": "Torm cashes in on ageing MR",
+   "url": "https://splash247.com/torm-cashes-in-on-ageing-mr/",
+   "source": "Splash247",
+   "published": "2026-10-01T13:30+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "mna",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "fleet",
+    "sale of",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Danish product tanker giant Torm has been linked to another fleet disposal, with brokers reporting the sale of one of its oldest MRs to China’s Seacon Shipping group for $22.5m. Splash understands the 2008-built Torm Laura has been picked up by Seacon Tankers Shipping. The 50,000 dwt scrubber-fitted vessel was built at Guangzhou Shipyard International. The 2008-built Torm Lene , from the same Guangzhou series, remains in the fleet and is now the oldest vessel listed by the company. Earlier this year, the company delivered the 2008-built LR2 Torm Maren to new owners while taking in two 2016-built LR2s and a 2018-built MR. Six MR resale newbuildings are due to arrive between 2027 and 2028, while the company confirmed in August that it had contracted another six MR newbuildings for delivery in 2029 with options on two more for 2030. Torm put the broker-assessed value of its fleet at $4.06bn at the end of June, up from $2.89bn a year earlier. At the end of March, the company said like-for-like fleet values had risen by $308m in just three months after adjusting for vessel purchases and sales.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
    "id": "2dd2e73880d7",
    "title": "Rio Tinto sell-down spreads to post-panamaxes",
    "original_title": "Rio Tinto sell-down spreads to post-panamaxes",
@@ -375,6 +406,64 @@
    "summary_method": "extract"
   },
   {
+   "id": "fb040f17f409",
+   "title": "Military aid prompts Thai Airways u-turn on cargo booking embargo",
+   "original_title": "Military aid prompts Thai Airways u-turn on cargo booking embargo",
+   "url": "https://theloadstar.com/military-aid-prompts-thai-airways-u-turn-on-cargo-booking-embargo/",
+   "source": "The Loadstar",
+   "published": "2026-10-01T11:50+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "embargo",
+    "military",
+    "shortage"
+   ],
+   "summary": "Thai Airways has landed something of a reprieve from an embargo on cargo services, after concerns over the country’s export sector prompted last-minute government intervention to tackle major labour and equipment shortages provoked by widespread flooding late last week. Having, on Tuesday, announced a six-day suspension on all cargo bookings from today, which it put down to equipment and personnel shortages, the flag-carrier last night issued a retraction. “In order to alleviate the inconvenience and operational impact on all stakeholders involved in air cargo transportation, Thai Cargo Terminal Operations has considered it appropriate to cancel the embargo on inbound, outbound, and transhipment cargo,” the carrier said. Those concerns led transport minister Phiphat Ratchakitprakarn to tell Thai Airways to keep cargo services operating, adding: “We will not leave the burden with any one party. We will work together and share responsibility.” Indeed, support has also been forthcoming from Airports of Thailand, which, with government support, made extra covered space available to Thai Airways to enable it to clear the backlog created by the cancellation of multiple services. Despite a month’s worth of rain falling on Bangkok and Central Thailand in just a few days, flights and airports were not directly affected, one MNC told The Loadstar this morning services had continued “running normally”.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "9dfc430e0b7b",
+   "title": "News Investment in China's river ports brings ocean services closer to shippers",
+   "original_title": "News Investment in China's river ports brings ocean services closer to shippers",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc29vLUZBUHJ5Y205YkJSVVh6MFh4LUJMWFBQZkVUNjg5ektTTjNKUzl1S1p2aUVEdk45dTZ2LXJzOWVydmFXQnhkUTZxMllJQ3dyMFppOHUyUXFGSHlKbXJXbUhKbU84Z2xOeDVQQ0w5NEZlYUpUdHo2ZEJmTFF5MGVTOTRpMmNQVGJ0b3ZLOVNidklpRXZxa0RDbmJoVzQ?oc=5",
+   "source": "The Loadstar",
+   "published": "2026-10-01T11:33+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "port",
+    "ports"
+   ],
+   "summary": "News Investment in China's river ports brings ocean services closer to shippers The Loadstar",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "6da451ca91a9",
    "title": "UK Unveils 31 Russia Sanctions, Targeting Shadow Fleet, Torturers, and Propagandists",
    "original_title": "UK Unveils 31 Russia Sanctions, Targeting Shadow Fleet, Torturers, and Propagandists",
@@ -462,6 +551,34 @@
    "summary": "UK Sanctions Five LNG Carriers in New Russia Package gCaptain",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
+  },
+  {
+   "id": "a9ba22a0f8c5",
+   "title": "Tanker Congestion Shunts Vital Oil Transfers Farther From Hormuz",
+   "original_title": "Tanker Congestion Shunts Vital Oil Transfers Farther From Hormuz",
+   "url": "https://gcaptain.com/tanker-congestion-shunts-vital-oil-transfers-farther-from-hormuz/",
+   "source": "gCaptain",
+   "published": "2026-10-01T10:27+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "congestion",
+    "hormuz",
+    "war"
+   ],
+   "summary": "Stock Photo: Tankers carrying out a ship-to-ship (STS) transfer at sea. Photo: Shutterstock/Vallehr Oct 1, 2026 (Bloomberg) –Persian Gulf oil producers are shifting critical cargo transfer operations even farther out of the war-hit region as waters just outside the Strait of Hormuz become congested with tankers. It’s another illustration of the maritime convulsions caused by the war, with delayed or diverted shipments helping to drive the cost of hiring a supertanker to above $1 million a day, adding to price pressures on crude and refined fuels. At least two more VLCCs are currently performing STS transfers in the region, the data show. The time it takes to complete an STS transfer from a fully-laden VLCC has grown to five or six days, according to the consultant. This bottleneck has become the main source of shipping delays in the area, Emma Li, Vortexa’s lead China oil market analyst, said in a report last week. Transfers off India’s west coast could also provide an additional security advantage, reducing the risk of vessels being caught in attacks that have sporadically targeted ships sailing through Hormuz.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
   },
   {
    "id": "2c00e1dea729",
@@ -678,6 +795,35 @@
    "summary_method": "extract"
   },
   {
+   "id": "a91de7081a18",
+   "title": "UBS says iron ore consensus is too low: What it means for BHP, RIO and FMG",
+   "original_title": "UBS says iron ore consensus is too low: What it means for BHP, RIO and FMG",
+   "url": "https://www.hellenicshippingnews.com/ubs-says-iron-ore-consensus-is-too-low-what-it-means-for-bhp-rio-and-fmg/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-01T10:00+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "iron ore",
+    "prices",
+    "steel"
+   ],
+   "summary": "Analysts have been bearish on iron ore for years, and the forecasts keep calling for lower prices. But prices have held up better than most expected, and UBS thinks the consensus view is too narrow. “We believe consensus underestimates the durability of steel demand outside China, overstates future iron-unit supply growth by focusing on ore tonnes rather than contained iron units, and assumes greater cost curve flexibility than industry data supports,” said UBS in a 29 September note. UBS’ three reasons for higher long term iron ore price UBS says the market is underestimating the forces shaping iron ore over the next decade. Blast furnaces, which use iron ore, are running near 90% capacity, and UBS says scrap is supplementing iron ore rather than replacing it, concluding that “Chinese iron ore demand is more resilient than domestic property demand would suggest.” #2 Global South drives strong steel demand and offsets China retreat The second reason UBS gives is the rise of what it calls the “Global South”, a group of 14 developing countries including India, Indonesia, Vietnam, Brazil and Saudi Arabia, with a combined population of about 2.9 billion.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
    "id": "2541f8cdcf92",
    "title": "China to Europe Without Russia: Why the Middle Corridor Is Becoming a Global Trade Route",
    "original_title": "China to Europe Without Russia: Why the Middle Corridor Is Becoming a Global Trade Route",
@@ -763,6 +909,34 @@
    ],
    "summary": "Asia vessel reliability falls as port congestion bites Port Technology",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "990b406e216a",
+   "title": "Hyster Delivers Hydrogen Fuel Cell ReachStacker to Rotterdam Shortsea Terminals in Port Decarbonization Project",
+   "original_title": "Hyster Delivers Hydrogen Fuel Cell ReachStacker to Rotterdam Shortsea Terminals in Port Decarbonization Project",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa0g4aW9hc0hjbmo2QWVWcGpiZkFXUGo1OTdGNjVMX1ZPcTkwbF8zYUs2UmVKNjloRkVRdGdxUTAtN1RBbW5PWm51ZXBxT29Eck9TMFBTczRuM1pEX1ZRX3luMzR1a1Zmd2tOS2QxLU9GZFVSWDRVZ1BkSDZ4bkZ0bEpqbTZKVzRmMGFJU1MwQzJObGZtOFVGbGRtRTFobU1KenJHQXJWb0Iwd1hhZndlN0RHXy1KT21uTlVaS2tzbDRzczhBc01ESEJCMGphQ21oaWlzZlNtQkpleTAz?oc=5",
+   "source": "Quiver Quantitative",
+   "published": "2026-10-01T09:10+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "hydrogen",
+    "port",
+    "terminal"
+   ],
+   "summary": "Hyster Delivers Hydrogen Fuel Cell ReachStacker to Rotterdam Shortsea Terminals in Port Decarbonization Project Quiver Quantitative",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -1003,6 +1177,87 @@
    "summary_method": "feed"
   },
   {
+   "id": "8bcc64106066",
+   "title": "CMES Inks $2.8bn 25-Year Simandou Iron Ore Shipping Contract - News and Statistics",
+   "original_title": "CMES Inks $2.8bn 25-Year Simandou Iron Ore Shipping Contract - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMW1WQUFwaFdKMFQ5dHY1YVp2OTVYSTYzaHV6c2hrQThMYnVmZDBGanlpNTJFRDlZTGEtMmFYVTMyYURVMFZ6YmtTcHpITjdzdVRaY0EtTlJXOHlPTk9pamdVeER0aUE1M040UC1nRHVZZ0h5TlhhdXRhc2ZuQjlEU0xCMFR5UW1JeFAwNkpPTi1vMExON1dRZjR1ZlNwb1BwM282RWxPYkM?oc=5",
+   "source": "indexbox.io",
+   "published": "2026-09-30T21:00+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore",
+    "shipping"
+   ],
+   "summary": "CMES Inks $2.8bn 25-Year Simandou Iron Ore Shipping Contract - News and Statistics indexbox.io",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d6a69cc8354b",
+   "title": "Shipping turmoil, grain rally stir global fert costs as local stocks dry up",
+   "original_title": "Shipping turmoil, grain rally stir global fert costs as local stocks dry up",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVVA2VkxRdjRnUlRJTmhQNC1xd1F5LWF2SnRPNjhWSzdGSFFTb2diUXpHckdwX2hVYWswMmFnbHIyQVRnaDc0VDB6XzRWMDF6ZFVlbHFzSEJQMk1rZ005cDFodFhkdzlrTGpHamtKd2t1ZmxUSmpZYlVZWEVWV2JQU19hZkhIS3BtR3FlUFFRYkJYQ0xzd1g1VkVHWV9PeFpPRTJnakk3MXJLdi1RY25xMVFB?oc=5",
+   "source": "Farm Online",
+   "published": "2026-09-30T20:05+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "grain",
+    "shipping"
+   ],
+   "summary": "Shipping turmoil, grain rally stir global fert costs as local stocks dry up Farm Online",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bdbb774fff4e",
+   "title": "GEODIS Strengthens Contract Logistics Business in France with Planned Acquisition of Part of the Transport and Logistics Activities of Deret",
+   "original_title": "GEODIS Strengthens Contract Logistics Business in France with Planned Acquisition of Part of the Transport and Logistics Activities of Deret",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRnB6VUFtNkZpcUhXWUNpdU5RMWZKcGFLbEVQT3VXa2dXSjVVR185TkpVRlRCYU5rLWpRalJCMy02alh4TmZVRVJqMFZBZjl6aWxYMmNWS2RJVnNVcTVlSnFfMmlmcWNibXk1QTBwSzJmcnRqR3QyQlgwOFQ0a0o2R3dURHI5Yng4dUQ1a1h6Z0JOZkRkVWtJRUtvb2liaEIxMUlSOVRlQi0wT3BsS1BnYzNRNm0tcHVnbHY0Zk9mMExVTE1VaEZwQUpwM3NvbkRJVVlwWWxDSzRfdDF2bjZjWC1IcFk4MUwtNXJMWTJWbHJ2U3VGblRKWml6cVk3dm1GSnFwU0h5TEVRWDA?oc=5",
+   "source": "citybiz",
+   "published": "2026-09-30T19:09+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "acquisition",
+    "logistics"
+   ],
+   "summary": "GEODIS Strengthens Contract Logistics Business in France with Planned Acquisition of Part of the Transport and Logistics Activities of Deret citybiz",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "c88599a117b1",
    "title": "Link Logistics acquires class A bulk distribution center in Charlotte",
    "original_title": "Link Logistics acquires class A bulk distribution center in Charlotte",
@@ -1206,6 +1461,61 @@
    "summary_method": "feed"
   },
   {
+   "id": "fe311ddbc0e9",
+   "title": "Nowy kierunek, nowe możliwości. Port Gdańsk wzmacnia relacje transatlantyckie",
+   "original_title": "Nowy kierunek, nowe możliwości. Port Gdańsk wzmacnia relacje transatlantyckie",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa2pFanRoT0taUnJIY0s5UllzTnNnTmpzal95dWVXWjFrT1FJZDJROWhuT21mb3hCTWp1VU8wTTg2YXQ1NXNYd3hRanZjb0c3VWpPSFI4RGpOMTJQTklTWk5NYTBuSmRKMzRWQ2xoQmxhSUtnQVo5dTZvR0JXWDRYZFRMdzZqQWpSWENUVExrNDAyVGNRSkY1QXVMNW5WYzJ3VS1z?oc=5",
+   "source": "Wyborcza.pl",
+   "published": "2026-09-30T14:00+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gdansk",
+    "port"
+   ],
+   "summary": "Nowy kierunek, nowe możliwości. Port Gdańsk wzmacnia relacje transatlantyckie Wyborcza.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1b487799bfc1",
+   "title": "Expert on why Lithuania is powerless against US-Belarus potash deal",
+   "original_title": "Expert on why Lithuania is powerless against US-Belarus potash deal",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOclVFeVF3UlVJLTNRN2lDa2E0cjZXaXZHTFFxbE9Mb2JIOXBWV252VjNrUkEtcml5T2VsQ0h6amlUQVpWb01mUFdwbWZ6OUI4VjhJME5vYVhpZHJST3V0SG1TZERHeEFOOEZFai1RRExEYk5KZmdwWkdaRHVZc3ZuUmlTeW1ZRFd0UC1iOThFc0NLRTE4NGlyYg?oc=5",
+   "source": "СБ. Беларусь сегодня",
+   "published": "2026-09-30T13:55+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "belarus",
+    "potash"
+   ],
+   "summary": "Expert on why Lithuania is powerless against US-Belarus potash deal СБ. Беларусь сегодня",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "bbae834e11b0",
    "title": "Asian port congestion could disrupt supply chains well into 2027",
    "original_title": "Asian port congestion could disrupt supply chains well into 2027",
@@ -1263,6 +1573,33 @@
     "ports"
    ],
    "summary": "One container, four inspections: why Polish ports lose cargo to Western Europe CEO Magazyn",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "caefe368f2f9",
+   "title": "Festiwal R@Port ponownie w Gdyni",
+   "original_title": "Festiwal R@Port ponownie w Gdyni",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yYWh0OHkxV1FGSjhvMEk4N1FjdERySHRaSHBrcm5OdlFLa1dnY0VvMGdQSWRZQVE2WF9VUHFObUp5OXpkLVdzU3doVmVIb0Nub3l6bS10NzBVTnlXWC1xQjB6ZUU3VENBMXlILVpqTQ?oc=5",
+   "source": "TVP Gdańsk",
+   "published": "2026-09-30T13:25+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gdansk",
+    "port"
+   ],
+   "summary": "Festiwal R@Port ponownie w Gdyni TVP Gdańsk",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -1444,6 +1781,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "a9610768982b",
+   "title": "Gantrex partners with Villari to add wireless crack detection for STS and RMG cranes",
+   "original_title": "Gantrex partners with Villari to add wireless crack detection for STS and RMG cranes",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY3VDQW9yaHo1Nl9SR3B5ZldFaUFQbUFMOXdGNllZX1Q5UEpSb1g4SFM0LUttZzN3cVdETWRxVVp4cFpCMHRjVV84YXpkX1EyVmlqdHp0WEo3YUlMVDNQbVVySTlkU1ExaUxaUjB4dG01WTVoS3Yzelh4SmFkSVdjMGdSRUVkNFIxa2Voa1Qxb1p0OWlCeElrdE9DLTVZd2NyM2RiNg?oc=5",
+   "source": "Container Management",
+   "published": "2026-09-30T10:13+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "cranes"
+   ],
+   "summary": "Gantrex partners with Villari to add wireless crack detection for STS and RMG cranes Container Management",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "0d120026759a",
    "title": "Russian Fertilizer Sector Fuels Explosives Production in War Against Ukraine",
    "original_title": "Russian Fertilizer Sector Fuels Explosives Production in War Against Ukraine",
@@ -1476,6 +1839,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "527914a594e8",
+   "title": "Kalmar expands maintenance deal at Algeciras terminal",
+   "original_title": "Kalmar expands maintenance deal at Algeciras terminal",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlZhM29YMGpRNGR0bmZud1JTc1B1YVc1Rms1WEpZTHVXSW1sWGExT1FnT2RtLWVmR1hwWndXaGlWeDlDMjRsd0V6OWI0MlByZVg5QTA5U3VYemx1X1ZEVzFHNXJ1Q2VDaEZvbFdCYlhzNUZVVVdtNG1RWXRacXJscnZTUDdWLUlvZVNpR1M1WHk3WkpRRzNDTmNtZ2ZmdVoxakExUlVKR3Q?oc=5",
+   "source": "Port Technology",
+   "published": "2026-09-30T09:50+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "ports",
+    "equipment"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "kalmar",
+    "port",
+    "terminal"
+   ],
+   "summary": "Kalmar expands maintenance deal at Algeciras terminal Port Technology",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "145555569bc7",
    "title": "Poland’s planned Świnoujście terminal clears environmental appeal",
    "original_title": "Poland’s planned Świnoujście terminal clears environmental appeal",
@@ -1501,6 +1892,33 @@
    ],
    "summary": "Poland’s planned Świnoujście terminal clears environmental appeal WorldCargo News",
    "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ec4f048628c4",
+   "title": "Konecranes Port Solutions President Tomas Myntti to retire",
+   "original_title": "Konecranes Port Solutions President Tomas Myntti to retire",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRk9uczFyaHAyejU2a1BzUkw3Qi1OQVR3dzJSUmJUckZMRnZfSXc3T3NQODBNZ3YzWjI5WHhlbVk1MjFaSTEwb3hDMTVqcTE4U2FMa3B5dFJxMl9WdXEzYnpCNVAxQjE5MElzNEJ0bUxhamlJWi1RY285bDlXVmk2VE5UMmRzdmpPeEtmdWVJc0FfQlZWbE9GYmI3LUdHWTJVa0tZQXpB?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-09-30T09:25+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "ports",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "konecranes",
+    "port"
+   ],
+   "summary": "Konecranes Port Solutions President Tomas Myntti to retire WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -1711,6 +2129,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "100bad288ed6",
+   "title": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties",
+   "original_title": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc085dFRab2IwS3k1aTh6RmhsV2tkSGRMbEJ1SGp1M2U1b09vTDZlOFBqVVNVQ2V4THFZUTRod3RqaXh4VS1rbmQzYnpZNmRZT3pTRTNXVm5yd3VJcDEzaWhuNFdLOGhkWHpralVSbmxaVjE5dnJoaHEzZDZHYXlBd1VKUTdUd3ZDZHdzMEZtSEw3aHdIRGJpOXQxQldadW1nbFRDakxHd2pMV1VWeEV3VzZsODPSAboBQVVfeXFMT3ZpOXNaLWgwNWROUDdaZXBMdHFxRGhEYkZoVTk4bnF4amgwVnhkTHoxQmdzdlplVk5FWE1tSTlxb1VJUDNUOW1fUEtYdlBNODZPZHFoaHlCOEowTEVpNkNxSnBvUHN6TGxicXVSSGFreUg1X3NjRm1HMVlGbHBUQTlVeGk3eGhnOFEyRzZ2ZkZ5T21SbW5PZkloNTZnd1VBUUo2SkhlMGphWkFsR2RDQnhIajNpd2hDNmhR?oc=5",
+   "source": "Al Jazeera",
+   "published": "2026-09-30T06:12+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "russia",
+    "steel"
+   ],
+   "summary": "Indian firm building $15bn Trump-announced steel mill has deep Russia ties Al Jazeera",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e75fec38b366",
    "title": "Range Le Havre – Gdańsk – polski port bije rekordy przeładunków. Odbiera rynek niemieckim terminalom?",
    "original_title": "Range Le Havre – Gdańsk – polski port bije rekordy przeładunków. Odbiera rynek niemieckim terminalom?",
@@ -1739,6 +2185,62 @@
    ],
    "summary": "Range Le Havre – Gdańsk – polski port bije rekordy przeładunków. Odbiera rynek niemieckim terminalom? pb.pl",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1fdb8e0ac8b5",
+   "title": "Morocco emerges as top Chinese ammonia importer to drive fertilizer exports",
+   "original_title": "Morocco emerges as top Chinese ammonia importer to drive fertilizer exports",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSE9EQzJlaFdWdjJWRDJRYms1TVFOYVAzNkY4OUtHUERTY1NnVy1YRU9SMWo2X2tEc3lYZ3ZPS3hQNmFkZ2lTM25BQ1lPekUySUxIOW5YaGQ3MzZxTlNrVGJPSVNVa3hEVjlkLVlBNlIwVTRPQVUwRjlqaTF5ZTVyTFVEa3NnazRyN2hv?oc=5",
+   "source": "english.pravda.ru",
+   "published": "2026-09-30T02:09+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia",
+    "Africa"
+   ],
+   "tags": [
+    "ammonia",
+    "chinese",
+    "fertilizer"
+   ],
+   "summary": "Morocco emerges as top Chinese ammonia importer to drive fertilizer exports english.pravda.ru",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "74fa91f91720",
+   "title": "CCReB Advisors Expands CRE Portfolio with Strategic Fukuoka Logistics Acquisition",
+   "original_title": "CCReB Advisors Expands CRE Portfolio with Strategic Fukuoka Logistics Acquisition",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaG9tMEN0V2V3YU1DV0JnN3NmWTE2UFJ6TXhvdXBLVlRCY2k3aWhJZDBWUExhVE16OTNaYTQwYlVfb1FYaVpsLUVsaUtDdG9UVFphYk1uTi1GeGVnc0ZvZV9mZ0lVOXNsMUZNaHJhcHJnYktkTWR0U2czbXFTNGxuUU9yU2dVTm8xTFh1MGRDVEpSWkE2WHZlbUpKNF9yRTh6ZkhoTzRodDk1Mk13ZllMbk4xMXh0UjcxaENmU2RGME82R3hxM2ZvbEdiSUg5dw?oc=5",
+   "source": "TipRanks",
+   "published": "2026-09-30T01:08+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquisition",
+    "logistics"
+   ],
+   "summary": "CCReB Advisors Expands CRE Portfolio with Strategic Fukuoka Logistics Acquisition TipRanks",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -2117,6 +2619,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "64c486264350",
+   "title": "Port Gdynia: kto zalądowi Basen II?",
+   "original_title": "Port Gdynia: kto zalądowi Basen II?",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMVVdhcHVEanN5S25RMllsQUhMVU9vaWxwZWlaNkhweUx1NUdnek5RZHVWdnN6QlE5alBmdzdoWkl2WXRTdjFvUmFWM3FjV3NoR01VUnRsckJFcG14cVdvLUdRY2xvejg3b3hNOHVTTDVoMFIwTk5WUm5TMA?oc=5",
+   "source": "gospodarkamorska.pl",
+   "published": "2026-09-29T13:35+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gdynia",
+    "port"
+   ],
+   "summary": "Port Gdynia: kto zalądowi Basen II? gospodarkamorska.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "439ac7e128ec",
    "title": "Tariff Driven Supply Chain Shift Puts Flex Stock And Factory Reshoring In Focus",
    "original_title": "Tariff Driven Supply Chain Shift Puts Flex Stock And Factory Reshoring In Focus",
@@ -2289,6 +2818,61 @@
    ],
    "summary": "Baltic States tighten checks to prevent Russian-Stolen grain from occupied Ukraine from entering markets Ukrinform",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "42f2a0a80a7a",
+   "title": "Navy ATC to manning cranes: Meet 3 women breaking barriers in male-dominated jobs",
+   "original_title": "Navy ATC to manning cranes: Meet 3 women breaking barriers in male-dominated jobs",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOblpXUGdnWmN0MjVSeDB3b1cyYWxfaFV3VGtwOXEzNi1wOTBweEg4cGpMVmVCM1ZSVVYweUZ6a1Z1Ulp0bDR0d0RqR0dIUW5WdmZSZHRGZUVFaHBnbU9PQ05OVkV3TU9Td2ctMmtJWXY1TE9vMVdGQWxEYW0tUUl3Sjc4ZmtaYlp3MDZjWnRkcnh3LVFSV0ZGT2ZDLU9xNVl6NmRzSjFERGFHVTg1bW82c0xJYzMtUTNQMmJDdl91WHFualRlNi1BU0FtV1RFcjB4aUlaU1JR0gHbAUFVX3lxTE9PNkRuME9lWV83Q3lHTUVuVUVPQ1FINHgwVzVrZW5nY19uWTAtVTNOdlN0dklvWkttT0VQSDZ5WUpuU2d2dXYxQXc3bUZEZTFWVUliMUt2THZJc3BpSW9QQXN5VW1VMW05d2V4dDh2bURWdkM3aW1XcWxVRXlnNnBYQ0o4eE03SzlfYzlNekhjMTFQcjloUW8ySFpIQV83b05wVUg2Y2xjeG1ycklDUlE5ODNCdnE3Y3Jnel9fZ0xieW5qVHY1QVRkaXpMYXU4c25kak9WV0VESGQyaw?oc=5",
+   "source": "India Today",
+   "published": "2026-09-29T11:11+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "crane",
+    "cranes"
+   ],
+   "summary": "Navy ATC to manning cranes: Meet 3 women breaking barriers in male-dominated jobs India Today",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9d73f51f1a29",
+   "title": "Germany moves to block COSCO buyout of port logistics firm Zippel",
+   "original_title": "Germany moves to block COSCO buyout of port logistics firm Zippel",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc1lscU40U09WY1Z0bXlCQzRlR1hZYTNPWFhxOFdkOExrWnRTSlcyak1xVV9ZcUlEUWxqV1lPSW5sT2FZbExUU1RLOWN1bTRieE4yQ2VHQ1htNDFXeDhLUTlnZXJ5NDh4TmZLWW1tQVE5TTNaSENBWXRLei1waVM1TkxoV09vcEQ4Z05RQ09qa1RybjVBUWhhWFpoTzZUdEN3QkZDeVhxSdIBtAFBVV95cUxPN2VvdFY3LXM2WVZhcm1mNFBDMU80NnlOamdaNWFsYUI1ZXREZkVuQ2xSRlVRVDU4bzBTdnBoa3lRVllndGJLWldaNnZIZUxvay1sbEh5c3VWX25uUjJkOFVoekU3dkZHNjA2N1d6Y3lsd2V5bUZzUDB4VlI2bXk1cGJkU1pTbEpHcVZ4YTlYWF9Bcml1QXNpVDRpdkZUWEpzUUl4VVlHYUVubWJ4bWs3eFZVZ2w?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-09-29T10:34+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "buyout",
+    "logistics",
+    "port"
+   ],
+   "summary": "Germany moves to block COSCO buyout of port logistics firm Zippel Baird Maritime",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -2474,6 +3058,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "7054ac339404",
+   "title": "Caribbean port delegation studies shore power and equipment electrification in Rotterdam, Vlissingen and Antwerp",
+   "original_title": "Caribbean port delegation studies shore power and equipment electrification in Rotterdam, Vlissingen and Antwerp",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbjY0ZU9vbl9xNnZhN3hwaXhfa0tSREt2VzlUTXN0dUJ0bUxfZ2FPZEd3eWxnVlhmc2N3ZWdnYkRhLXBZSlhiRG81bU1Lc2hydklWOXA0SmxGT0UxTE9zWGR2OHdjSmpieDlsM2h0QmlmbXA0NFRNRGpkRU9tdlpJSnFQQnRydWRNTEhIUWpNbnFQTW5WZTZ1YU1la1YtN3JsZjlNdA?oc=5",
+   "source": "Container Management",
+   "published": "2026-09-28T22:10+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "electrification",
+    "port",
+    "shore power"
+   ],
+   "summary": "Caribbean port delegation studies shore power and equipment electrification in Rotterdam, Vlissingen and Antwerp Container Management",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "68451d41bd06",
    "title": "Shadow transit worth millions: how Adelon AG helps Dmitry Kovalenko profit from sanctioned coal from Russia",
    "original_title": "Shadow transit worth millions: how Adelon AG helps Dmitry Kovalenko profit from sanctioned coal from Russia",
@@ -2502,6 +3114,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "3c358937ceeb",
+   "title": "Asia port congestion could bleed into 2027: analysts",
+   "original_title": "Asia port congestion could bleed into 2027: analysts",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa2Nfem1rakdFQ29tTG5vX1cxUHJzbXdmb1BxRWJOdHFFamlKUlZlNEl5YzUtVHpEdXBRVmFrZEtncGJRSGZYdGhNNXZUaWRBNkZ2eF9abXRuZDN4MzduOUR4Ymw2R0NibXZjMlhGMUtZMC1oSTAyZ3czWXdublBSS0Z0dDhMdGN0YUdUOUFmSUQ?oc=5",
+   "source": "Journal of Commerce",
+   "published": "2026-09-28T21:41+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "congestion",
+    "port",
+    "port congestion"
+   ],
+   "summary": "Asia port congestion could bleed into 2027: analysts Journal of Commerce",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "94635b72061e",
    "title": "Could the Central African Republic – Kribi iron ore corridor become the next major source of Capesize demand?",
    "original_title": "Could the Central African Republic – Kribi iron ore corridor become the next major source of Capesize demand?",
@@ -2527,6 +3167,34 @@
    ],
    "summary": "Could the Central African Republic – Kribi iron ore corridor become the next major source of Capesize demand? Hellenic Shipping News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "48c7b772ac72",
+   "title": "Hybrids make up 247 of 260 straddle carriers ordered since January 2025, with conversion to battery-electric left for later",
+   "original_title": "Hybrids make up 247 of 260 straddle carriers ordered since January 2025, with conversion to battery-electric left for later",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0ticFJTOS1NWUZvSmMwV0YtNFZ3bTdNUjJxNDJGY0tiTW9NWFNHajB0Uzh2ckJQbE1yaG1PNGJ4RV9ZcnpBODR6X3VrYXh1M1RzellXcXJDaU00Ql9lQWduaERsTVpkNU1CVFJsd3N2OUcyVUowSGlxRGFqR0NoTlNKa2t1VmRacU1TbU11WGNzaFYxWGN3WE4yWkNxSlA0cnJBbVln?oc=5",
+   "source": "Container Management",
+   "published": "2026-09-28T19:07+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "battery-electric",
+    "carrier",
+    "straddle carrier"
+   ],
+   "summary": "Hybrids make up 247 of 260 straddle carriers ordered since January 2025, with conversion to battery-electric left for later Container Management",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -2613,6 +3281,60 @@
    ],
    "summary": "107 Vessels Join Russia Flag Registry Amid EU Sanctions Sea News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d3916bdc6b9e",
+   "title": "Konecranes targets 7% growth for Port Solutions under new strategy",
+   "original_title": "Konecranes targets 7% growth for Port Solutions under new strategy",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjFleGg0ODA0Z2JXX0ZXaUVpZXhtczhKaWRMVHIwSDJZQXA5MjRndHFwR0hlOXE5MFJLWVR4M0hDeGNWZ2RxWGt3NWozcmdGSjhvdWpaT1UySkE1NjZmTFotcVJwTVVxSmZPUThmdUpNdXdvS0o4QlU5aEU3UkFueXpOd2JTNTZtYzFMb252NW5HZmQtT2EwTw?oc=5",
+   "source": "Container News",
+   "published": "2026-09-28T17:00+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "konecranes",
+    "port"
+   ],
+   "summary": "Konecranes targets 7% growth for Port Solutions under new strategy Container News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "be8bb4037c09",
+   "title": "National Farmers Union calls on STB to reject proposed Union Pacific-Norfolk Southern merger",
+   "original_title": "National Farmers Union calls on STB to reject proposed Union Pacific-Norfolk Southern merger",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdE00enN3dU5TeGU1eGpkVENRY3FObEdyRXh4RmVsRHZONjh1T2JxWWc2RF8tU0F2UzhnVlM4QmhUVzdYSS1qVGFPNUhld2w4UnM2R0xtYXpyM0c2ZkU4TXJHcTY4d3pUQjRtcVdHZXdNYWpZVTVYV1lHUTNyc2dpWEF5Ni1adUE1a1VQZ1dIWnBPUndlZmRDSF9oYndtdGlDcGhWdzZBeDdRTmY1bjRuNVNVYXBKNFpFX250WURJMTBTRDdQejBPT3h3?oc=5",
+   "source": "Logistics Management",
+   "published": "2026-09-28T16:38+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "logistics",
+    "merger"
+   ],
+   "summary": "National Farmers Union calls on STB to reject proposed Union Pacific-Norfolk Southern merger Logistics Management",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -3336,6 +4058,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "a323b8ac1cbf",
+   "title": "Baltic Dry Index Slipped, But Still Notched A Weekly Gain",
+   "original_title": "Baltic Dry Index Slipped, But Still Notched A Weekly Gain",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNanpfc0YwYnUtdEFNS0E1bXJjeF9EM2padE16ODAxMTZDOGFEWnptcnl4VGtoTkVsM0g5dmgzeHJKeE5iRmlxS3lsMVdiU3ZtdTZ4akhUYnJQSmViRTVaYkVoUVZtM2tCVDJxOVVWQTNkWTRSLTV4RG9pY0JLdWVqRWVFb1dWbkVyNDBnODJn?oc=5",
+   "source": "Finimize",
+   "published": "2026-09-25T13:05+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry"
+   ],
+   "summary": "Baltic Dry Index Slipped, But Still Notched A Weekly Gain Finimize",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d9b521420fb8",
    "title": "Baltic Hub adds two electric RMG cranes for rail",
    "original_title": "Baltic Hub adds two electric RMG cranes for rail",
@@ -3514,6 +4262,62 @@
    "summary_method": "feed"
   },
   {
+   "id": "9d2750ed7c94",
+   "title": "The CBAM fertiliser exemption that never was",
+   "original_title": "The CBAM fertiliser exemption that never was",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDVaVGlIUFhtUkExNG0yTGpHTjB1bDJDZ2xpcTN6Ny1xVURCa2VYaTVfcGU3NHk4clRXanNqM285SXNyR1paeHpVa2Y5NkEwdzdpMWd4Q2lwVDdGVXd5VHE2S21iTEJlcjF6b3VoaE1KWWNsUldTQXpxLWJzRURWQUdVT1hCUkhsNEJPVGliOVd3b2FYeDV2T19B?oc=5",
+   "source": "Contexte",
+   "published": "2026-09-25T07:00+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "cbam",
+    "fertiliser"
+   ],
+   "summary": "The CBAM fertiliser exemption that never was Contexte",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "01cd1420c05a",
+   "title": "South Africa’s fertiliser waste could supply Europe’s defence magnets as China dominates rare earths",
+   "original_title": "South Africa’s fertiliser waste could supply Europe’s defence magnets as China dominates rare earths",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcXl1NmhhMU95cS1NRGtqSEZPX2pGdkRtZFhFQkU1cG56VWVLQUQ3bkFLa3dQdzd3bWs3YWszVlowV2h6M0swYnJQQnBrYy1leXUzTng0SkRTOEkwRlh1Zkc1UkRUTlM3RTV3eGZ0QkxMUVVQdUt5LVdZeVhPVEVSNThQSzhaQXB0Q0Vxa1VVbU9YajlkSldfS2V2bkVYb1RaNUpfbVhsOG1URDhRMGtHOFdHR2g5RkZIX2JhSkdPTW12amdMWmVGQ3N4a09tZw?oc=5",
+   "source": "Business Insider Africa",
+   "published": "2026-09-25T06:51+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia",
+    "Africa"
+   ],
+   "tags": [
+    "china",
+    "defence",
+    "fertiliser"
+   ],
+   "summary": "South Africa’s fertiliser waste could supply Europe’s defence magnets as China dominates rare earths Business Insider Africa",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "8cffeffa998f",
    "title": "Disruptions across Strait of Hormuz, Black Sea and alternative routes raise global food and fuel security risks",
    "original_title": "Disruptions across Strait of Hormuz, Black Sea and alternative routes raise global food and fuel security risks",
@@ -3540,6 +4344,34 @@
     "security"
    ],
    "summary": "Disruptions across Strait of Hormuz, Black Sea and alternative routes raise global food and fuel security risks Down To Earth",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1fa521d71cb5",
+   "title": "Russia expands flagged tanker fleet as sanctions enforcement tightens",
+   "original_title": "Russia expands flagged tanker fleet as sanctions enforcement tightens",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEtSYUpfYndPR1dQOHczSWUxaFlkQWtiUktjSERsM0xDUjJQTWVKcXNSRjJwS3NqY3hnMFkzSDZNWDBmM3BxSEFfMVpiUWQ3T2tEWkZ6T3VCTGhFb0pSQ09SS2p0MzZ0U01mMXVOUXBHa1FsX2VoakdHdWREZ0NpZEJ3VmRzMTJRQ3NrZFdYdXZFMThPbU8wWWRoS1o?oc=5",
+   "source": "Traders Union",
+   "published": "2026-09-25T04:10+00:00",
+   "added": "2026-10-01T17:03+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "russia",
+    "sanction"
+   ],
+   "summary": "Russia expands flagged tanker fleet as sanctions enforcement tightens Traders Union",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
