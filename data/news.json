@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T23:12+00:00",
+ "generated_at": "2026-10-01T23:30+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b5f6d65a1e3c",
+   "title": "Mexico Nearshoring Rare Earth Supply Chain Risk Explained",
+   "original_title": "Mexico Nearshoring Rare Earth Supply Chain Risk Explained",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjJMc1MzakRjdmlVczFQNERtTVRySXB5OGNuM1hZbnFXNnd2b3FDSlZ3SnBCdjJRMm5WaXRuZk1xcUJFM25Kei1nR2tyUzBoQkhnMlV0bTNiWm1BNHZvTXlkLXlaaHFvbG8xV1ZLeEtJM3d0SGlObk5CamNfZXR6dDhBYw?oc=5",
+   "source": "Rare Earth Exchanges",
+   "published": "2026-10-01T22:02+00:00",
+   "added": "2026-10-01T23:30+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "nearshoring",
+    "supply chain"
+   ],
+   "summary": "Mexico Nearshoring Rare Earth Supply Chain Risk Explained Rare Earth Exchanges",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "b211e6b94db4",
    "title": "Terex RT for Port Szczenic",
@@ -64,6 +91,39 @@
    "summary": "Czech billionaires Tykač and Strnad team up on steel supply Around Prague",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
+  },
+  {
+   "id": "4f9f77c315d3",
+   "title": "UK Hits Eight Russian Ships in New Sanctions Package",
+   "original_title": "UK Hits Eight Russian Ships in New Sanctions Package",
+   "url": "https://gcaptain.com/uk-hits-eight-russian-ships-in-new-sanctions-package/",
+   "source": "gCaptain",
+   "published": "2026-10-01T21:37+00:00",
+   "added": "2026-10-01T23:30+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Western Europe",
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "logistics",
+    "russia",
+    "russian",
+    "sanction",
+    "ukraine",
+    "war"
+   ],
+   "summary": "UK Royal Marine Commandos take part in a maritime interdiction operation on the vessel SMYRTOS off the south coast of England, June 14, 2026. The boarding, carried out with National Crime Agency officers, was part of a UK operation targeting vessels suspected of attempting to evade sanctions linked to Russia’s war in Ukraine, authorities said. UK MOD Crown/LPhot Hutchins/Handout via REUTERS The United Kingdom has imposed sanctions on eight ships as part of a broader package targeting Russian energy revenues, maritime logistics and individuals accused of supporting Moscow’s war in Ukraine. The 31 new measures announced Thursday include 23 individuals and entities along with eight vessels that will be subject to UK shipping and trade sanctions. The UK previously announced that restrictions covering maritime transportation and related services for Russian LNG will expand from January 1, 2027. The exemption runs from January 1, 2027 through March 31, 2028 and does not cover new contracts or transactions involving designated persons. The UK said it has now sanctioned nearly 600 tankers linked to efforts to move Russian energy outside Western restrictions. Eight people were sanctioned over allegations involving the detention, torture and mistreatment of Ukrainian civilians in Russian-occupied territory, while seven others were targeted over programs involving Ukrainian children.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
   },
   {
    "id": "b1b2f39a8f39",
@@ -8269,6 +8329,58 @@
    ],
    "summary": "Oil Prices Lower As Focus Shifts To Middle East Supply Marine Link",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "912d42825c32",
+   "title": "DSA enforcement in Poland moves into practice as online platforms prepare for UKE oversight",
+   "original_title": "DSA enforcement in Poland moves into practice as online platforms prepare for UKE oversight",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmZzBTSUlveWQzaEtObVlpU0ZSRWZQNUxjYWllbmwya0psY0doTWkwVGliNER0eW1TUWVjT0YwcllOTlRFRVVNTndjdV9sUHd0VUplWGIwZnJ3aVYzcWI1M0dQMC1IRGZKa3RpU18wX1kxQjdCRHFFYTJQVTI?oc=5",
+   "source": "CEO Magazyn",
+   "published": "2026-09-29T21:04+00:00",
+   "added": "2026-10-01T23:30+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "magazyn",
+    "poland"
+   ],
+   "summary": "DSA enforcement in Poland moves into practice as online platforms prepare for UKE oversight CEO Magazyn",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7208a69717e5",
+   "title": "How much does an office retrofit cost in Poland? Modernisation ranges from PLN 370 to PLN 1,550 per sq m",
+   "original_title": "How much does an office retrofit cost in Poland? Modernisation ranges from PLN 370 to PLN 1,550 per sq m",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFBCSlpLU0dPSmRYb0lsbWpSVnk5dHdQamFVdWJaRjhCbG5WSHNJT2dKVGZfUy11eUY3d1IyZVZGaDNqaGMyT2FDLUxvLUpHRDJHRzJFd0dVQksxVXRLamluTUFBZ3JGeVhCcHpIbUpyS2VfUEI5MXlBeG1FaE1ENQ?oc=5",
+   "source": "CEO Magazyn",
+   "published": "2026-09-29T21:03+00:00",
+   "added": "2026-10-01T23:30+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "magazyn",
+    "poland"
+   ],
+   "summary": "How much does an office retrofit cost in Poland? Modernisation ranges from PLN 370 to PLN 1,550 per sq m CEO Magazyn",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
