@@ -33,6 +33,8 @@
   --c-mna: #2e7d4f;
   --c-geopolitics: #a4462c;
   --c-commodities: #9a6b00;
+  --c-supplychain: #b5476b;
+  --c-equipment: #4a6375;
 
   --f-display: "Newsreader", "Iowan Old Style", Georgia, serif;
   --f-ui: "Schibsted Grotesk", "Segoe UI", system-ui, -apple-system, sans-serif;
@@ -49,7 +51,7 @@
     --muted: #8797ad; --line: #24354d; --on-navy: #eef4fb; --on-navy-2: #8fa6c2; --focus: #6cc6f0;
     --p-high: #ff8a7a; --p-high-bg: #3a1c1c; --p-med: #f0b45a; --p-med-bg: #362812; --p-low: #9fb0c6; --p-low-bg: #1c2a3d;
     --c-company: #9cc3ef; --c-ports: #5aaee8; --c-shipping: #4fc1c9; --c-rail: #a99cf0; --c-regulation: #e08fcf;
-    --c-mna: #6fcf97; --c-geopolitics: #f08c6c; --c-commodities: #e6b84a;
+    --c-mna: #6fcf97; --c-geopolitics: #f08c6c; --c-commodities: #e6b84a; --c-supplychain: #f28fb0; --c-equipment: #9fb8cc;
     --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.25);
     color-scheme: dark;
   }
@@ -60,7 +62,7 @@
   --muted: #8797ad; --line: #24354d; --on-navy: #eef4fb; --on-navy-2: #8fa6c2; --focus: #6cc6f0;
   --p-high: #ff8a7a; --p-high-bg: #3a1c1c; --p-med: #f0b45a; --p-med-bg: #362812; --p-low: #9fb0c6; --p-low-bg: #1c2a3d;
   --c-company: #9cc3ef; --c-ports: #5aaee8; --c-shipping: #4fc1c9; --c-rail: #a99cf0; --c-regulation: #e08fcf;
-  --c-mna: #6fcf97; --c-geopolitics: #f08c6c; --c-commodities: #e6b84a;
+  --c-mna: #6fcf97; --c-geopolitics: #f08c6c; --c-commodities: #e6b84a; --c-supplychain: #f28fb0; --c-equipment: #9fb8cc;
   --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px rgba(0,0,0,.25);
   color-scheme: dark;
 }
@@ -151,6 +153,8 @@ button, input, select { font: inherit; color: inherit; }
 }
 .chip[aria-pressed="true"] { border-color: var(--blue); color: var(--blue); background: color-mix(in srgb, var(--blue) 9%, var(--surface)); font-weight: 600; }
 .chip .dot { width: 7px; height: 7px; border-radius: 50%; }
+.chip-n { font-family: var(--f-data); font-size: 11px; color: var(--muted); }
+.chip[data-empty="true"] { opacity: .5; }
 .rail-foot { font-size: 12px; color: var(--muted); line-height: 1.5; }
 .link-btn { border: 0; background: none; color: var(--blue); cursor: pointer; padding: 0; font-size: 13px; }
 .rail .filters-toggle { display: none; }

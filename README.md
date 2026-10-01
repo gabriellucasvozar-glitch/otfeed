@@ -1,6 +1,6 @@
 # OT Logistics News Feed
 
-A static news tracker for a Polish port and logistics group. It collects sector news (ports and terminals, shipping, rail and inland waterways, regulation, M&A, geopolitics, commodities), keeps only relevant stories, ranks them High / Medium / Low for managers, and shows each one with a summary of up to 300 words, a "why it matters" line and a link to the original article. Daily and weekly briefs, recommended reads and saved stories are built in.
+A static news tracker for a Polish port and logistics group. It collects sector news (ports and terminals, shipping, rail and inland waterways, regulation, M&A, geopolitics, commodities, supply chain shifts, equipment and technology) from every world region, keeps only relevant stories, ranks them High / Medium / Low for managers, and shows each one with a summary of up to 300 words, a "why it matters" line and a link to the original article. Daily and weekly briefs, recommended reads and saved stories are built in.
 
 ## How it works
 
@@ -10,11 +10,11 @@ A static news tracker for a Polish port and logistics group. It collects sector 
 | News data the site reads | `data/news.json` |
 | Collector: fetches feeds, filters, scores, summarises | `scripts/collect.py` |
 | Sources, keywords, weights, thresholds | `scripts/config.json` |
-| Scheduled refresh (4× per weekday, 1× weekend days) | `.github/workflows/update-news.yml` |
+| Scheduled refresh (every 5 minutes; key searches every run, the rest rotate so each refreshes every ~15 min) | `.github/workflows/update-news.yml` |
 | Hand-curated starter stories | `scripts/seed_items.json` → `python scripts/build_seed.py` |
 | One-file snapshot for sharing | `python scripts/build_preview.py` |
 
-**Relevance and priority.** Each story is matched against keyword sets per section and boosted when it mentions the group itself, the Szczecin–Świnoujście complex, other Polish ports, Poland, the Baltic or the EU. Stories with no link to the sector are dropped. Anything naming the group, or home-port news about ports, regulation or M&A, is always High. Tune everything in `scripts/config.json`.
+**Relevance and priority.** Each story is matched against keyword sets per section and boosted when it mentions the group itself, the Szczecin–Świnoujście complex, other Polish ports, Poland, the Baltic or the EU. Each story is also tagged with every world region it mentions (Poland, Baltic & Nordics, Western Europe, Central & Eastern Europe, Ukraine & Black Sea, Russia & Belarus, EU institutions, Middle East, Asia, North America, Latin America, Africa, Oceania). Stories with no link to the sector are dropped. Anything naming the group, or home-port news about ports, regulation or M&A, is always High. Tune everything in `scripts/config.json`.
 
 **Summaries.** Without an API key the collector builds an extractive summary from the article text (or the feed snippet if the page blocks bots). Add an `ANTHROPIC_API_KEY` repository secret and each new story is summarised by Claude in English (Polish sources included), with a "why it matters" line and a priority check that can also discard irrelevant items.
 

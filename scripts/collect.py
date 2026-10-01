@@ -97,7 +97,7 @@ def score_item(title: str, body: str, source: str, hint: str | None = None) -> d
     if hint in cat_scores:
         cat_scores[hint] += 1
 
-    sector = sum(cat_scores.get(k, 0) for k in ("ports", "shipping", "rail", "commodities"))
+    sector = sum(cat_scores.get(k, 0) for k in ("ports", "shipping", "rail", "commodities", "supplychain", "equipment"))
     boost, regions, flags = 0, [], set()
     for key, b in CONFIG["boosts"].items():
         found = hits(text, b["terms"])
@@ -105,12 +105,10 @@ def score_item(title: str, body: str, source: str, hint: str | None = None) -> d
             boost += b["weight"]
             flags.add(key)
             matched.update(found)
-    if flags & {"home_ports", "polish_ports", "poland", "company"}:
-        regions.append("Poland")
-    if "baltic" in flags or flags & {"home_ports", "polish_ports"}:
-        regions.append("Baltic")
-    if "eu" in flags or cat_scores.get("regulation", 0) >= 3:
-        regions.append("EU")
+    # Regions: every world region the story mentions (stories can sit in several).
+    regions = [name for name, terms in CONFIG["regions"].items() if hits(text, terms)]
+    if "company" in flags and "Poland" not in regions:
+        regions.insert(0, "Poland")
     if not regions:
         regions.append("Global")
 
@@ -125,7 +123,7 @@ def score_item(title: str, body: str, source: str, hint: str | None = None) -> d
 
     # Category = strongest topical signal, with regulation/M&A/geopolitics
     # winning ties because they are the "event type" managers filter on.
-    order = ["mna", "regulation", "geopolitics", "commodities", "ports", "rail", "shipping"]
+    order = ["mna", "regulation", "geopolitics", "equipment", "supplychain", "commodities", "ports", "rail", "shipping"]
     category = max(cat_scores, key=lambda k: (cat_scores[k] + (1 if k in order[:3] else 0), cat_scores[k], -order.index(k)))
     if "company" in flags:
         category = "company"
@@ -161,6 +159,8 @@ def why_it_matters(category: str, flags: set, cats: dict) -> str:
         "ports": "Competitor or partner port development on the Baltic.",
         "rail": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
         "shipping": "Freight market or carrier development affecting vessel calls and rates.",
+        "supplychain": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+        "equipment": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
     }
     base = lines.get(category, "Relevant to the group's sector.")
     if "polish_ports" in flags and category != "ports":
@@ -188,8 +188,14 @@ def fetch_feed(url: str) -> list:
 
 
 def gather_candidates() -> list[dict]:
+    """Fetch feeds. Key queries run every time; the rest rotate across runs so a
+    5-minute schedule doesn't hammer Google News (each query refreshes every ~15 min)."""
     out = []
-    for q in CONFIG["queries"]:
+    groups = max(1, CONFIG.get("rotation_groups", 1))
+    slot = int(NOW.timestamp() // 300) % groups
+    queries = [q for i, q in enumerate(CONFIG["queries"]) if q.get("always") or i % groups == slot]
+    print(f"  rotation slot {slot + 1}/{groups}: {len(queries)} searches")
+    for q in queries:
         url = CONFIG["google_news"][q["lang"]].format(q=quote_plus(q["q"]))
         for e in fetch_feed(url):
             src = (e.get("source") or {}).get("title") or "Google News"

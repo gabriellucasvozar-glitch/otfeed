@@ -10,13 +10,15 @@
     ["mna", "M&A & Corporate"],
     ["geopolitics", "Geopolitics & Security"],
     ["commodities", "Commodities & Markets"],
+    ["supplychain", "Supply Chain Shifts"],
+    ["equipment", "Equipment & Technology"],
     ["rail", "Rail, Inland & Intermodal"],
     ["shipping", "Shipping & Freight"],
   ];
   const CAT_LABEL = Object.fromEntries(CATS);
   const PRIOS = [["high", "High"], ["medium", "Medium"], ["low", "Low"]];
   const PW = { high: 3, medium: 2, low: 1 };
-  const REGIONS = ["Poland", "Baltic", "EU", "Global"];
+  const REGIONS = ["Poland", "Baltic & Nordics", "Western Europe", "Central & Eastern Europe", "Ukraine & Black Sea", "Russia & Belarus", "EU institutions", "Middle East", "Asia", "North America", "Latin America", "Africa", "Oceania", "Global"];
   const RANGES = [["24h", "24 hours", 1], ["7d", "7 days", 7], ["30d", "30 days", 30], ["all", "All", 9999]];
   const DAY = 864e5;
 
@@ -32,6 +34,7 @@
     store.get("state", {}),
     { q: "" }
   );
+  if (state.region !== "all" && !REGIONS.includes(state.region)) state.region = "all";
   let saved = new Set(store.get("saved", []));
   let read = new Set(store.get("read", []));
   let DATA = { items: [] };
@@ -68,10 +71,10 @@
       : (PW[b.priority] - PW[a.priority]) || b.published.localeCompare(a.published));
 
   // ------------------------------------------------------------------ filtering
-  function matches(it, { ignoreCat = false, ignoreRange = false } = {}) {
+  function matches(it, { ignoreCat = false, ignoreRange = false, ignoreRegion = false } = {}) {
     if (!ignoreCat && state.cat !== "all" && it.category !== state.cat) return false;
     if (!state.prios.includes(it.priority)) return false;
-    if (state.region !== "all" && !(it.regions || []).includes(state.region)) return false;
+    if (!ignoreRegion && state.region !== "all" && !(it.regions || []).includes(state.region)) return false;
     if (!ignoreRange) {
       const r = RANGES.find((x) => x[0] === state.range);
       if (r && ageDays(it) > r[2]) return false;
@@ -94,8 +97,9 @@
       CATS.map(([k, l]) => `<button class="cat-btn" type="button" data-cat="${k}" aria-pressed="${state.cat === k}">${catSw(k)}${esc(l)}<span class="n">${counts[k] || 0}</span></button>`).join("");
     $("#prios").innerHTML = PRIOS.map(([k, l]) =>
       `<button class="chip" type="button" data-prio="${k}" aria-pressed="${state.prios.includes(k)}"><span class="dot" style="background:var(--p-${k === "medium" ? "med" : k})"></span>${l}</button>`).join("");
+    const rc = {}; DATA.items.filter((it) => matches(it, { ignoreRegion: true })).forEach((it) => (it.regions || []).forEach((r) => (rc[r] = (rc[r] || 0) + 1)));
     $("#regions").innerHTML = ["all", ...REGIONS].map((r) =>
-      `<button class="chip" type="button" data-region="${r}" aria-pressed="${state.region === r}">${r === "all" ? "Any" : r}</button>`).join("");
+      `<button class="chip" type="button" data-region="${esc(r)}" aria-pressed="${state.region === r}"${r !== "all" && !rc[r] && state.region !== r ? ' data-empty="true"' : ""}>${r === "all" ? "Any" : esc(r)}${r !== "all" ? ` <span class="chip-n">${rc[r] || 0}</span>` : ""}</button>`).join("");
     $("#ranges").innerHTML = RANGES.map(([k, l]) =>
       `<button class="chip" type="button" data-range="${k}" aria-pressed="${state.range === k}">${l}</button>`).join("");
   }
@@ -108,7 +112,7 @@
       ${extra}
       <h2 class="card-title">${esc(it.title)}</h2>
       <p class="card-why">${esc(it.why || "")}</p>
-      <div class="card-foot">${(it.regions || []).map((r) => `<span class="tag">${esc(r)}</span>`).join("")}${isSaved ? '<span class="saved-mark">★ Saved</span>' : ""}</div>
+      <div class="card-foot">${(it.regions || []).slice(0, 3).map((r) => `<span class="tag">${esc(r)}</span>`).join("")}${isSaved ? '<span class="saved-mark">★ Saved</span>' : ""}</div>
     </button>`;
   }
 
@@ -186,6 +190,8 @@
     if (it.category === "mna") return "Competitive landscape";
     if (it.category === "geopolitics") return "Risk to cargo flows";
     if (it.category === "commodities") return "Cargo market signal";
+    if (it.category === "supplychain") return "Shifting cargo flows";
+    if (it.category === "equipment") return "Capex and technology";
     return it.priority === "high" ? "High priority" : "Useful context";
   }
 
@@ -382,7 +388,7 @@
   // ------------------------------------------------------------------ boot
   async function load() {
     if (window.OT_FEED_DATA) return window.OT_FEED_DATA;
-    const r = await fetch("data/news.json", { cache: "no-cache" });
+    const r = await fetch("data/news.json?t=" + Date.now(), { cache: "no-store" });
     if (!r.ok) throw new Error("HTTP " + r.status);
     return r.json();
   }
@@ -398,10 +404,28 @@
     const gen = DATA.generated_at ? new Date(DATA.generated_at) : null;
     $("#updated").textContent = gen ? "Updated " + fmtDate(gen.toISOString(), true) : "Updated";
     $("#weekLabel").textContent = "Week " + isoWeek(new Date(NOW)) + " · " + new Date(NOW).getFullYear();
-    $("#foot").innerHTML = `${DATA.items.length} stories from public news sources. Summaries condense the original article; open the source before acting on any figure. Refreshed automatically several times a day.`;
+    $("#foot").innerHTML = `${DATA.items.length} stories from public news sources. Summaries condense the original article; open the source before acting on any figure. Checked for new stories every 5 minutes.`;
     renderPulse(); render();
     const m = /^#story-([\w-]+)$/.exec(location.hash);
     if (m) openReader(m[1], false);
+    if (!window.OT_FEED_DATA) setInterval(refresh, 5 * 60 * 1000);
   }
+
+  // Pull fresh data every 5 minutes while the page is open; keep the reader undisturbed.
+  async function refresh() {
+    if (document.hidden) return;
+    try {
+      const next = await load();
+      if (!next || next.generated_at === DATA.generated_at) return;
+      const known = new Set(DATA.items.map((i) => i.id));
+      const added = next.items.filter((i) => !known.has(i.id)).length;
+      DATA = next; NOW = Date.now();
+      $("#updated").textContent = "Updated " + fmtDate(new Date(DATA.generated_at).toISOString(), true);
+      renderPulse();
+      if (!openId) render(); else renderRail();
+      if (added) toast(added === 1 ? "1 new story added" : added + " new stories added");
+    } catch { /* offline or mid-deploy; try again next time */ }
+  }
+  document.addEventListener("visibilitychange", () => { if (!document.hidden && !window.OT_FEED_DATA) refresh(); });
   boot();
 })();

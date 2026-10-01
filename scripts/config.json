@@ -9,94 +9,1051 @@
     "pl": "https://news.google.com/rss/search?q={q}&hl=pl&gl=PL&ceid=PL:pl"
   },
   "queries": [
-    {"q": "\"OT Logistics\" OR Rentrans OR \"Kolej Bałtycka\" when:14d", "lang": "pl", "hint": "company"},
-    {"q": "\"OT Logistics\" when:14d", "lang": "en", "hint": "company"},
-    {"q": "Świnoujście OR Szczecin port OR terminal when:7d", "lang": "en", "hint": "ports"},
-    {"q": "port Świnoujście OR port Szczecin OR \"Przylądek Pomorski\" when:7d", "lang": "pl", "hint": "ports"},
-    {"q": "port Gdynia OR port Gdańsk terminal when:7d", "lang": "pl", "hint": "ports"},
-    {"q": "Gdynia OR Gdańsk port cargo OR terminal OR container when:7d", "lang": "en", "hint": "ports"},
-    {"q": "Polish ports throughput OR transshipment OR cargo when:7d", "lang": "en", "hint": "ports"},
-    {"q": "przeładunki porty morskie when:7d", "lang": "pl", "hint": "ports"},
-    {"q": "Baltic ports Rostock OR Klaipeda OR Hamburg terminal bulk when:7d", "lang": "en", "hint": "ports"},
-    {"q": "Odra waterway OR \"Oder\" inland navigation barge freight when:14d", "lang": "en", "hint": "rail"},
-    {"q": "Odrzańska Droga Wodna OR żegluga śródlądowa when:14d", "lang": "pl", "hint": "rail"},
-    {"q": "rail freight Poland OR \"PKP Cargo\" OR intermodal Poland when:7d", "lang": "en", "hint": "rail"},
-    {"q": "kolejowe przewozy towarowe OR intermodal OR \"PKP Cargo\" when:7d", "lang": "pl", "hint": "rail"},
-    {"q": "EU maritime regulation OR \"EU ETS\" shipping OR FuelEU when:7d", "lang": "en", "hint": "regulation"},
-    {"q": "European Commission ports OR logistics OR \"rail freight\" proposal OR directive when:7d", "lang": "en", "hint": "regulation"},
-    {"q": "ustawa OR rozporządzenie porty morskie OR transport kolejowy OR logistyka when:7d", "lang": "pl", "hint": "regulation"},
-    {"q": "EU customs OR tariff OR safeguard steel OR fertiliser OR grain imports when:7d", "lang": "en", "hint": "regulation"},
-    {"q": "port operator OR terminal operator OR logistics acquisition OR acquires OR merger Europe when:7d", "lang": "en", "hint": "mna"},
-    {"q": "freight forwarder acquisition OR acquires OR merger when:7d", "lang": "en", "hint": "mna"},
-    {"q": "przejęcie spedycja OR logistyka OR terminal OR port when:7d", "lang": "pl", "hint": "mna"},
-    {"q": "Baltic Sea shipping security OR sabotage OR \"shadow fleet\" when:7d", "lang": "en", "hint": "geopolitics"},
-    {"q": "Russia sanctions shipping OR ports OR \"maritime services\" when:7d", "lang": "en", "hint": "geopolitics"},
-    {"q": "Red Sea OR Suez OR Hormuz shipping container OR bulk when:7d", "lang": "en", "hint": "geopolitics"},
-    {"q": "Ukraine grain exports Poland OR Baltic ports OR transit when:7d", "lang": "en", "hint": "commodities"},
-    {"q": "Baltic Dry Index OR capesize OR panamax OR supramax rates when:7d", "lang": "en", "hint": "commodities"},
-    {"q": "coal imports Poland OR thermal coal Europe prices when:7d", "lang": "en", "hint": "commodities"},
-    {"q": "wheat OR rapeseed OR maize prices Europe Matif when:7d", "lang": "en", "hint": "commodities"},
-    {"q": "fertiliser OR urea OR ammonia prices Europe when:7d", "lang": "en", "hint": "commodities"},
-    {"q": "steel OR iron ore OR scrap prices Europe when:7d", "lang": "en", "hint": "commodities"},
-    {"q": "biomass OR wood pellets imports Poland OR Europe when:14d", "lang": "en", "hint": "commodities"}
+    {
+      "q": "\"OT Logistics\" OR Rentrans OR \"Kolej Bałtycka\" when:14d",
+      "lang": "pl",
+      "hint": "company",
+      "always": true
+    },
+    {
+      "q": "\"OT Logistics\" when:14d",
+      "lang": "en",
+      "hint": "company",
+      "always": true
+    },
+    {
+      "q": "Świnoujście OR Szczecin port OR terminal when:7d",
+      "lang": "en",
+      "hint": "ports",
+      "always": true
+    },
+    {
+      "q": "port Świnoujście OR port Szczecin OR \"Przylądek Pomorski\" when:7d",
+      "lang": "pl",
+      "hint": "ports",
+      "always": true
+    },
+    {
+      "q": "port Gdynia OR port Gdańsk terminal when:7d",
+      "lang": "pl",
+      "hint": "ports"
+    },
+    {
+      "q": "Gdynia OR Gdańsk port cargo OR terminal OR container when:7d",
+      "lang": "en",
+      "hint": "ports"
+    },
+    {
+      "q": "Polish ports throughput OR transshipment OR cargo when:7d",
+      "lang": "en",
+      "hint": "ports"
+    },
+    {
+      "q": "przeładunki porty morskie when:7d",
+      "lang": "pl",
+      "hint": "ports"
+    },
+    {
+      "q": "Baltic ports Rostock OR Klaipeda OR Hamburg terminal bulk when:7d",
+      "lang": "en",
+      "hint": "ports"
+    },
+    {
+      "q": "Odra waterway OR \"Oder\" inland navigation barge freight when:14d",
+      "lang": "en",
+      "hint": "rail"
+    },
+    {
+      "q": "Odrzańska Droga Wodna OR żegluga śródlądowa when:14d",
+      "lang": "pl",
+      "hint": "rail"
+    },
+    {
+      "q": "rail freight Poland OR \"PKP Cargo\" OR intermodal Poland when:7d",
+      "lang": "en",
+      "hint": "rail"
+    },
+    {
+      "q": "kolejowe przewozy towarowe OR intermodal OR \"PKP Cargo\" when:7d",
+      "lang": "pl",
+      "hint": "rail"
+    },
+    {
+      "q": "EU maritime regulation OR \"EU ETS\" shipping OR FuelEU when:7d",
+      "lang": "en",
+      "hint": "regulation"
+    },
+    {
+      "q": "European Commission ports OR logistics OR \"rail freight\" proposal OR directive when:7d",
+      "lang": "en",
+      "hint": "regulation"
+    },
+    {
+      "q": "ustawa OR rozporządzenie porty morskie OR transport kolejowy OR logistyka when:7d",
+      "lang": "pl",
+      "hint": "regulation"
+    },
+    {
+      "q": "EU customs OR tariff OR safeguard steel OR fertiliser OR grain imports when:7d",
+      "lang": "en",
+      "hint": "regulation"
+    },
+    {
+      "q": "port operator OR terminal operator OR logistics acquisition OR acquires OR merger Europe when:7d",
+      "lang": "en",
+      "hint": "mna"
+    },
+    {
+      "q": "freight forwarder acquisition OR acquires OR merger when:7d",
+      "lang": "en",
+      "hint": "mna"
+    },
+    {
+      "q": "przejęcie spedycja OR logistyka OR terminal OR port when:7d",
+      "lang": "pl",
+      "hint": "mna"
+    },
+    {
+      "q": "Baltic Sea shipping security OR sabotage OR \"shadow fleet\" when:7d",
+      "lang": "en",
+      "hint": "geopolitics"
+    },
+    {
+      "q": "Russia sanctions shipping OR ports OR \"maritime services\" when:7d",
+      "lang": "en",
+      "hint": "geopolitics"
+    },
+    {
+      "q": "Red Sea OR Suez OR Hormuz shipping container OR bulk when:7d",
+      "lang": "en",
+      "hint": "geopolitics"
+    },
+    {
+      "q": "Ukraine grain exports Poland OR Baltic ports OR transit when:7d",
+      "lang": "en",
+      "hint": "commodities"
+    },
+    {
+      "q": "Baltic Dry Index OR capesize OR panamax OR supramax rates when:7d",
+      "lang": "en",
+      "hint": "commodities"
+    },
+    {
+      "q": "coal imports Poland OR thermal coal Europe prices when:7d",
+      "lang": "en",
+      "hint": "commodities"
+    },
+    {
+      "q": "wheat OR rapeseed OR maize prices Europe Matif when:7d",
+      "lang": "en",
+      "hint": "commodities"
+    },
+    {
+      "q": "fertiliser OR urea OR ammonia prices Europe when:7d",
+      "lang": "en",
+      "hint": "commodities"
+    },
+    {
+      "q": "steel OR iron ore OR scrap prices Europe when:7d",
+      "lang": "en",
+      "hint": "commodities"
+    },
+    {
+      "q": "biomass OR wood pellets imports Poland OR Europe when:14d",
+      "lang": "en",
+      "hint": "commodities"
+    },
+    {
+      "q": "supply chain Europe nearshoring OR reshoring when:3d",
+      "lang": "en",
+      "hint": "supplychain"
+    },
+    {
+      "q": "nearshoring Poland OR \"Central Europe\" manufacturing logistics when:7d",
+      "lang": "en",
+      "hint": "supplychain"
+    },
+    {
+      "q": "\"Middle Corridor\" OR \"China-Europe rail\" OR Malaszewicze freight when:7d",
+      "lang": "en",
+      "hint": "supplychain"
+    },
+    {
+      "q": "port congestion North Europe OR Baltic OR Hamburg when:3d",
+      "lang": "en",
+      "hint": "supplychain"
+    },
+    {
+      "q": "łańcuch dostaw OR nearshoring OR centrum logistyczne Polska when:7d",
+      "lang": "pl",
+      "hint": "supplychain"
+    },
+    {
+      "q": "warehouse OR \"logistics park\" Poland investment when:7d",
+      "lang": "en",
+      "hint": "supplychain"
+    },
+    {
+      "q": "port cranes order OR \"ship-to-shore\" OR RTG OR \"straddle carrier\" when:7d",
+      "lang": "en",
+      "hint": "equipment"
+    },
+    {
+      "q": "terminal automation OR port electrification OR \"shore power\" Europe when:7d",
+      "lang": "en",
+      "hint": "equipment"
+    },
+    {
+      "q": "bulk handling equipment OR shiploader OR unloader port when:14d",
+      "lang": "en",
+      "hint": "equipment"
+    },
+    {
+      "q": "Liebherr OR Konecranes OR Kalmar OR ZPMC port equipment when:7d",
+      "lang": "en",
+      "hint": "equipment"
+    },
+    {
+      "q": "freight locomotive OR wagons order Poland OR Europe when:14d",
+      "lang": "en",
+      "hint": "equipment"
+    },
+    {
+      "q": "suwnice OR dźwigi portowe OR automatyzacja terminal OR lokomotywy towarowe when:14d",
+      "lang": "pl",
+      "hint": "equipment"
+    },
+    {
+      "q": "port OR terminal acquisition OR expansion Asia when:3d",
+      "lang": "en",
+      "hint": "ports"
+    },
+    {
+      "q": "US ports OR tariffs shipping OR freight when:3d",
+      "lang": "en",
+      "hint": "regulation"
+    },
+    {
+      "q": "Middle East ports OR shipping OR Suez when:3d",
+      "lang": "en",
+      "hint": "geopolitics"
+    },
+    {
+      "q": "Africa ports OR terminal concession OR logistics when:7d",
+      "lang": "en",
+      "hint": "ports"
+    },
+    {
+      "q": "Brazil OR Argentina grain exports OR soybean shipping when:7d",
+      "lang": "en",
+      "hint": "commodities"
+    },
+    {
+      "q": "Australia iron ore OR coal exports shipping when:7d",
+      "lang": "en",
+      "hint": "commodities"
+    },
+    {
+      "q": "Rotterdam OR Antwerp OR Hamburg port volumes OR terminal when:3d",
+      "lang": "en",
+      "hint": "ports"
+    },
+    {
+      "q": "Black Sea OR Danube ports shipping OR grain corridor when:3d",
+      "lang": "en",
+      "hint": "geopolitics"
+    },
+    {
+      "q": "Central Asia OR Kazakhstan logistics OR rail corridor freight when:7d",
+      "lang": "en",
+      "hint": "supplychain"
+    }
   ],
   "feeds": [
-    {"name": "gCaptain", "url": "https://gcaptain.com/feed/"},
-    {"name": "Splash247", "url": "https://splash247.com/feed/"},
-    {"name": "Hellenic Shipping News", "url": "https://www.hellenicshippingnews.com/feed/"},
-    {"name": "The Loadstar", "url": "https://theloadstar.com/feed/"},
-    {"name": "RailFreight.com", "url": "https://www.railfreight.com/feed/"},
-    {"name": "Port Technology International", "url": "https://www.porttechnology.org/feed/"},
-    {"name": "Notes from Poland", "url": "https://notesfrompoland.com/feed/"},
-    {"name": "Council of the EU", "url": "https://www.consilium.europa.eu/en/rss/pressreleases.ashx"}
+    {
+      "name": "gCaptain",
+      "url": "https://gcaptain.com/feed/"
+    },
+    {
+      "name": "Splash247",
+      "url": "https://splash247.com/feed/"
+    },
+    {
+      "name": "Hellenic Shipping News",
+      "url": "https://www.hellenicshippingnews.com/feed/"
+    },
+    {
+      "name": "The Loadstar",
+      "url": "https://theloadstar.com/feed/"
+    },
+    {
+      "name": "RailFreight.com",
+      "url": "https://www.railfreight.com/feed/"
+    },
+    {
+      "name": "Port Technology International",
+      "url": "https://www.porttechnology.org/feed/"
+    },
+    {
+      "name": "Notes from Poland",
+      "url": "https://notesfrompoland.com/feed/"
+    },
+    {
+      "name": "Council of the EU",
+      "url": "https://www.consilium.europa.eu/en/rss/pressreleases.ashx"
+    }
   ],
   "source_weight": {
-    "Reuters": 1.5, "Bloomberg": 1.5, "Financial Times": 1.5, "Lloyd's List": 1.5, "TradeWinds": 1.2,
-    "gCaptain": 1, "Splash247": 1, "The Loadstar": 1, "RailFreight.com": 1, "WorldCargo News": 1,
-    "Parkiet": 1, "Rzeczpospolita": 1, "Puls Biznesu": 1, "Business Insider Polska": 0.5,
-    "PAP Biznes": 1.2, "Gospodarka Morska": 1, "Portal Morski": 1, "Rynek Kolejowy": 1
+    "Reuters": 1.5,
+    "Bloomberg": 1.5,
+    "Financial Times": 1.5,
+    "Lloyd's List": 1.5,
+    "TradeWinds": 1.2,
+    "gCaptain": 1,
+    "Splash247": 1,
+    "The Loadstar": 1,
+    "RailFreight.com": 1,
+    "WorldCargo News": 1,
+    "Parkiet": 1,
+    "Rzeczpospolita": 1,
+    "Puls Biznesu": 1,
+    "Business Insider Polska": 0.5,
+    "PAP Biznes": 1.2,
+    "Gospodarka Morska": 1,
+    "Portal Morski": 1,
+    "Rynek Kolejowy": 1
   },
   "categories": {
     "ports": {
       "label": "Ports & Terminals",
-      "terms": {"port": 2, "ports": 2, "seaport": 3, "terminal": 2, "quay": 2, "berth": 2, "port authority": 3, "container terminal": 3, "bulk terminal": 3, "deepwater": 2, "deep-water": 2, "dredging": 2, "fairway": 2, "transshipment": 3, "throughput": 3, "cargo handling": 3, "stevedor": 3, "przeladun": 3, "nabrzez": 2, "port morski": 3, "porty morskie": 3, "zarzad portu": 3}
+      "terms": {
+        "port": 2,
+        "ports": 2,
+        "seaport": 3,
+        "terminal": 2,
+        "quay": 2,
+        "berth": 2,
+        "port authority": 3,
+        "container terminal": 3,
+        "bulk terminal": 3,
+        "deepwater": 2,
+        "deep-water": 2,
+        "dredging": 2,
+        "fairway": 2,
+        "transshipment": 3,
+        "throughput": 3,
+        "cargo handling": 3,
+        "stevedor": 3,
+        "przeladun": 3,
+        "nabrzez": 2,
+        "port morski": 3,
+        "porty morskie": 3,
+        "zarzad portu": 3
+      }
     },
     "shipping": {
       "label": "Shipping & Freight",
-      "terms": {"shipping": 2, "vessel": 2, "freight rate": 3, "charter": 2, "carrier": 1, "container line": 2, "ro-ro": 2, "ferry": 1, "bulk carrier": 3, "bulker": 3, "dry bulk": 3, "short sea": 3, "shipowner": 2, "fleet": 1, "teu": 2, "zegluga": 2, "armator": 2, "fracht": 2, "forwarder": 3, "forwarding": 3, "spedycj": 3, "logistics": 1, "logistyk": 1, "supply chain": 1}
+      "terms": {
+        "shipping": 2,
+        "vessel": 2,
+        "freight rate": 3,
+        "charter": 2,
+        "carrier": 1,
+        "container line": 2,
+        "ro-ro": 2,
+        "ferry": 1,
+        "bulk carrier": 3,
+        "bulker": 3,
+        "dry bulk": 3,
+        "short sea": 3,
+        "shipowner": 2,
+        "fleet": 1,
+        "teu": 2,
+        "zegluga": 2,
+        "armator": 2,
+        "fracht": 2,
+        "forwarder": 3,
+        "forwarding": 3,
+        "spedycj": 3,
+        "logistics": 1,
+        "logistyk": 1,
+        "supply chain": 1
+      }
     },
     "rail": {
       "label": "Rail, Inland & Intermodal",
-      "terms": {"rail freight": 3, "railway": 2, "railways": 2, "intermodal": 3, "wagon": 2, "locomotive": 2, "pkp cargo": 3, "pkp plk": 3, "rail cargo": 3, "kolej": 2, "przewozy towarowe": 3, "inland waterway": 3, "inland navigation": 3, "barge": 3, "odra": 3, "oder": 2, "vistula": 2, "wisla": 1, "zegluga srodladowa": 3, "drogi wodnej": 3, "droga wodna": 3, "trucking": 1, "road haulage": 2, "dry port": 3}
+      "terms": {
+        "rail freight": 3,
+        "railway": 2,
+        "railways": 2,
+        "intermodal": 3,
+        "wagon": 2,
+        "locomotive": 2,
+        "pkp cargo": 3,
+        "pkp plk": 3,
+        "rail cargo": 3,
+        "kolej": 2,
+        "przewozy towarowe": 3,
+        "inland waterway": 3,
+        "inland navigation": 3,
+        "barge": 3,
+        "odra": 3,
+        "oder": 2,
+        "vistula": 2,
+        "wisla": 1,
+        "zegluga srodladowa": 3,
+        "drogi wodnej": 3,
+        "droga wodna": 3,
+        "trucking": 1,
+        "road haulage": 2,
+        "dry port": 3
+      }
     },
     "regulation": {
       "label": "Regulation & Policy",
-      "terms": {"regulation": 3, "directive": 3, "legislation": 3, "law": 1, "bill": 1, "ets": 3, "emissions trading": 3, "fueleu": 3, "mrv": 2, "cbam": 3, "customs": 2, "tariff": 2, "duty": 1, "safeguard": 3, "quota": 2, "european commission": 2, "council": 1, "parliament": 1, "ministry": 1, "permit": 2, "environmental decision": 3, "court": 2, "ruling": 2, "tender": 1, "ustaw": 3, "rozporzadzeni": 3, "ministerstwo infrastruktury": 3, "dyrektyw": 3, "clo": 1, "subsidy": 2, "state aid": 3, "kpo": 2, "cef": 2, "connecting europe facility": 3}
+      "terms": {
+        "regulation": 3,
+        "directive": 3,
+        "legislation": 3,
+        "law": 1,
+        "bill": 1,
+        "ets": 3,
+        "emissions trading": 3,
+        "fueleu": 3,
+        "mrv": 2,
+        "cbam": 3,
+        "customs": 2,
+        "tariff": 2,
+        "duty": 1,
+        "safeguard": 3,
+        "quota": 2,
+        "european commission": 2,
+        "council": 1,
+        "parliament": 1,
+        "ministry": 1,
+        "permit": 2,
+        "environmental decision": 3,
+        "court": 2,
+        "ruling": 2,
+        "tender": 1,
+        "ustaw": 3,
+        "rozporzadzeni": 3,
+        "ministerstwo infrastruktury": 3,
+        "dyrektyw": 3,
+        "clo": 1,
+        "subsidy": 2,
+        "state aid": 3,
+        "kpo": 2,
+        "cef": 2,
+        "connecting europe facility": 3
+      }
     },
     "mna": {
       "label": "M&A & Corporate",
-      "terms": {"acquisition": 4, "acquire": 4, "acquires": 4, "acquired": 3, "merger": 4, "takeover": 4, "buyout": 4, "stake": 3, "divest": 3, "sells": 2, "sale of": 2, "ipo": 3, "private equity": 3, "joint venture": 3, "consortium": 2, "concession": 3, "ppp": 3, "public-private": 3, "results": 1, "quarterly": 1, "restructuring": 3, "bankruptcy": 3, "przejeci": 4, "fuzj": 4, "wezwani": 3, "restrukturyzacj": 3, "wyniki": 1}
+      "terms": {
+        "acquisition": 4,
+        "acquire": 4,
+        "acquires": 4,
+        "acquired": 3,
+        "merger": 4,
+        "takeover": 4,
+        "buyout": 4,
+        "stake": 3,
+        "divest": 3,
+        "sells": 2,
+        "sale of": 2,
+        "ipo": 3,
+        "private equity": 3,
+        "joint venture": 3,
+        "consortium": 2,
+        "concession": 3,
+        "ppp": 3,
+        "public-private": 3,
+        "results": 1,
+        "quarterly": 1,
+        "restructuring": 3,
+        "bankruptcy": 3,
+        "przejeci": 4,
+        "fuzj": 4,
+        "wezwani": 3,
+        "restrukturyzacj": 3,
+        "wyniki": 1
+      }
     },
     "geopolitics": {
       "label": "Geopolitics & Security",
-      "terms": {"sanction": 3, "war": 2, "ukraine": 2, "russia": 2, "russian": 2, "nato": 3, "military": 2, "defence": 2, "defense": 2, "drone": 2, "attack": 2, "houthi": 3, "black sea": 3, "red sea": 3, "suez": 3, "hormuz": 3, "bab el-mandeb": 3, "shadow fleet": 3, "sabotage": 3, "undersea cable": 3, "gps jamming": 3, "spoofing": 2, "belarus": 2, "china": 1, "chinese": 1, "embargo": 3, "dual-use": 3, "security": 1, "sankcj": 3, "wojna": 2}
+      "terms": {
+        "sanction": 3,
+        "war": 2,
+        "ukraine": 2,
+        "russia": 2,
+        "russian": 2,
+        "nato": 3,
+        "military": 2,
+        "defence": 2,
+        "defense": 2,
+        "drone": 2,
+        "attack": 2,
+        "houthi": 3,
+        "black sea": 3,
+        "red sea": 3,
+        "suez": 3,
+        "hormuz": 3,
+        "bab el-mandeb": 3,
+        "shadow fleet": 3,
+        "sabotage": 3,
+        "undersea cable": 3,
+        "gps jamming": 3,
+        "spoofing": 2,
+        "belarus": 2,
+        "china": 1,
+        "chinese": 1,
+        "embargo": 3,
+        "dual-use": 3,
+        "security": 1,
+        "sankcj": 3,
+        "wojna": 2
+      }
     },
     "commodities": {
       "label": "Commodities & Markets",
-      "terms": {"coal": 3, "grain": 3, "wheat": 3, "maize": 3, "corn": 2, "rapeseed": 3, "soybean": 2, "fertiliser": 3, "fertilizer": 3, "urea": 3, "ammonia": 2, "potash": 3, "phosphate": 3, "sulphur": 2, "sulfur": 2, "iron ore": 3, "steel": 3, "scrap": 2, "biomass": 3, "wood pellet": 3, "pellets": 2, "lng": 2, "crude": 2, "oil price": 2, "diesel": 2, "bunker": 2, "aluminium": 2, "copper": 2, "baltic dry": 3, "bdi": 2, "capesize": 3, "panamax": 3, "supramax": 3, "handysize": 3, "commodit": 2, "prices": 1, "futures": 1, "agri": 2, "wegiel": 3, "zboz": 3, "pszenic": 3, "nawoz": 3, "stal": 2, "ruda": 2, "biomas": 3}
+      "terms": {
+        "coal": 3,
+        "grain": 3,
+        "wheat": 3,
+        "maize": 3,
+        "corn": 2,
+        "rapeseed": 3,
+        "soybean": 2,
+        "fertiliser": 3,
+        "fertilizer": 3,
+        "urea": 3,
+        "ammonia": 2,
+        "potash": 3,
+        "phosphate": 3,
+        "sulphur": 2,
+        "sulfur": 2,
+        "iron ore": 3,
+        "steel": 3,
+        "scrap": 2,
+        "biomass": 3,
+        "wood pellet": 3,
+        "pellets": 2,
+        "lng": 2,
+        "crude": 2,
+        "oil price": 2,
+        "diesel": 2,
+        "bunker": 2,
+        "aluminium": 2,
+        "copper": 2,
+        "baltic dry": 3,
+        "bdi": 2,
+        "capesize": 3,
+        "panamax": 3,
+        "supramax": 3,
+        "handysize": 3,
+        "commodit": 2,
+        "prices": 1,
+        "futures": 1,
+        "agri": 2,
+        "wegiel": 3,
+        "zboz": 3,
+        "pszenic": 3,
+        "nawoz": 3,
+        "stal": 2,
+        "ruda": 2,
+        "biomas": 3
+      }
+    },
+    "supplychain": {
+      "label": "Supply Chain Shifts",
+      "terms": {
+        "supply chain": 3,
+        "supply chains": 3,
+        "nearshoring": 3,
+        "near-shoring": 3,
+        "reshoring": 3,
+        "friend-shoring": 3,
+        "friendshoring": 3,
+        "trade flow": 3,
+        "trade flows": 3,
+        "trade route": 3,
+        "trade routes": 3,
+        "middle corridor": 3,
+        "trans-caspian": 3,
+        "new silk road": 3,
+        "china-europe rail": 3,
+        "eurasian rail": 3,
+        "rerout": 2,
+        "diversion": 2,
+        "port congestion": 3,
+        "congestion": 2,
+        "disruption": 2,
+        "bottleneck": 2,
+        "shortage": 2,
+        "lead time": 2,
+        "inventory": 1,
+        "stockpil": 2,
+        "warehouse": 2,
+        "warehousing": 2,
+        "logistics park": 3,
+        "logistics hub": 3,
+        "distribution centre": 2,
+        "distribution center": 2,
+        "manufacturing": 1,
+        "relocat": 2,
+        "sourcing": 2,
+        "trade war": 3,
+        "decoupling": 2,
+        "de-risking": 2,
+        "lancuch dostaw": 3,
+        "lancuchy dostaw": 3,
+        "magazyn": 2,
+        "centrum logistyczne": 3,
+        "nearshoringu": 3
+      }
+    },
+    "equipment": {
+      "label": "Equipment & Technology",
+      "terms": {
+        "crane": 3,
+        "cranes": 3,
+        "ship-to-shore": 3,
+        "sts crane": 3,
+        "rtg": 3,
+        "rubber-tyred gantry": 3,
+        "rubber-tired gantry": 3,
+        "rail-mounted gantry": 3,
+        "straddle carrier": 3,
+        "reach stacker": 3,
+        "mobile harbour crane": 3,
+        "mobile harbor crane": 3,
+        "shiploader": 3,
+        "ship loader": 3,
+        "unloader": 3,
+        "conveyor": 2,
+        "grab": 1,
+        "bulk handling": 3,
+        "terminal automation": 3,
+        "automated terminal": 3,
+        "automation": 2,
+        "electrification": 2,
+        "electrified": 2,
+        "shore power": 3,
+        "onshore power": 3,
+        "battery-electric": 2,
+        "hydrogen": 2,
+        "alternative fuel": 2,
+        "digitalisation": 2,
+        "digitalization": 2,
+        "digital twin": 3,
+        "port community system": 3,
+        "terminal operating system": 3,
+        "autonomous": 2,
+        "robotic": 2,
+        "artificial intelligence": 1,
+        "liebherr": 3,
+        "konecranes": 3,
+        "kalmar": 3,
+        "zpmc": 3,
+        "cargotec": 3,
+        "terex": 2,
+        "sany": 2,
+        "newag": 3,
+        "pesa": 2,
+        "stadler": 2,
+        "siemens mobility": 2,
+        "wabtec": 3,
+        "suwnic": 3,
+        "dzwig": 3,
+        "automatyzacj": 3,
+        "elektryfikacj": 2
+      }
     }
   },
   "boosts": {
-    "company": {"weight": 8, "terms": ["ot logistics", "otlogistics", "rentrans", "kolej baltycka", "baltic railways", "otl sa", "port szczecin sp", "port handlowy swinoujscie", "phs swinoujscie"]},
-    "home_ports": {"weight": 5, "terms": ["swinoujscie", "szczecin", "przyladek pomorski", "cape pomerania", "zmpsis", "seaports authority", "police port"]},
-    "polish_ports": {"weight": 3, "terms": ["gdynia", "gdansk", "baltic hub", "dct", "gct", "bct", "kolobrzeg", "elblag", "port polska", "polish port", "polish seaport"]},
-    "poland": {"weight": 2, "terms": ["poland", "polish", "polska", "polski", "polskie", "warsaw", "warszawa"]},
-    "baltic": {"weight": 2, "terms": ["baltic", "baltyk", "rostock", "klaipeda", "riga", "tallinn", "gothenburg", "hamburg", "lubeck", "gulf of finland", "ust-luga", "kaliningrad"]},
-    "eu": {"weight": 1, "terms": ["eu ", "european union", "brussels", "unia europejska", "european commission", "eurostat"]}
+    "company": {
+      "weight": 8,
+      "terms": [
+        "ot logistics",
+        "otlogistics",
+        "rentrans",
+        "kolej baltycka",
+        "baltic railways",
+        "otl sa",
+        "port szczecin sp",
+        "port handlowy swinoujscie",
+        "phs swinoujscie"
+      ]
+    },
+    "home_ports": {
+      "weight": 5,
+      "terms": [
+        "swinoujscie",
+        "szczecin",
+        "przyladek pomorski",
+        "cape pomerania",
+        "zmpsis",
+        "seaports authority",
+        "police port"
+      ]
+    },
+    "polish_ports": {
+      "weight": 3,
+      "terms": [
+        "gdynia",
+        "gdansk",
+        "baltic hub",
+        "dct",
+        "gct",
+        "bct",
+        "kolobrzeg",
+        "elblag",
+        "port polska",
+        "polish port",
+        "polish seaport"
+      ]
+    },
+    "poland": {
+      "weight": 2,
+      "terms": [
+        "poland",
+        "polish",
+        "polska",
+        "polski",
+        "polskie",
+        "warsaw",
+        "warszawa"
+      ]
+    },
+    "baltic": {
+      "weight": 2,
+      "terms": [
+        "baltic",
+        "baltyk",
+        "rostock",
+        "klaipeda",
+        "riga",
+        "tallinn",
+        "gothenburg",
+        "hamburg",
+        "lubeck",
+        "gulf of finland",
+        "ust-luga",
+        "kaliningrad"
+      ]
+    },
+    "eu": {
+      "weight": 1,
+      "terms": [
+        "eu ",
+        "european union",
+        "brussels",
+        "unia europejska",
+        "european commission",
+        "eurostat"
+      ]
+    }
   },
-  "exclude_terms": ["cruise", "football", "soccer", "concert", "festival", "recipe", "celebrity", "horoscope", "airport lounge", "airline", "smartphone", "esports", "tennis", "olympic", "film", "movie"],
+  "exclude_terms": [
+    "cruise",
+    "football",
+    "soccer",
+    "concert",
+    "festival",
+    "recipe",
+    "celebrity",
+    "horoscope",
+    "airport lounge",
+    "airline",
+    "smartphone",
+    "esports",
+    "tennis",
+    "olympic",
+    "film",
+    "movie"
+  ],
   "priority": {
     "high_score": 16,
     "medium_score": 8
+  },
+  "rotation_groups": 3,
+  "regions": {
+    "Poland": [
+      "poland",
+      "polish",
+      "polska",
+      "polski",
+      "polskie",
+      "warsaw",
+      "warszawa",
+      "gdynia",
+      "gdansk",
+      "szczecin",
+      "swinoujscie",
+      "przyladek pomorski",
+      "cape pomerania",
+      "pkp",
+      "odra",
+      "wroclaw",
+      "krakow",
+      "poznan",
+      "lodz",
+      "katowice",
+      "silesia",
+      "slask",
+      "kielce",
+      "malaszewicze"
+    ],
+    "Baltic & Nordics": [
+      "baltic",
+      "baltyk",
+      "lithuania",
+      "klaipeda",
+      "latvia",
+      "riga",
+      "estonia",
+      "tallinn",
+      "finland",
+      "helsinki",
+      "gulf of finland",
+      "sweden",
+      "gothenburg",
+      "stockholm",
+      "denmark",
+      "copenhagen",
+      "aarhus",
+      "norway",
+      "oslo",
+      "ust-luga",
+      "kaliningrad",
+      "primorsk",
+      "gdynia",
+      "gdansk",
+      "szczecin",
+      "swinoujscie",
+      "baltic hub"
+    ],
+    "Western Europe": [
+      "germany",
+      "german",
+      "hamburg",
+      "bremerhaven",
+      "rostock",
+      "lubeck",
+      "netherlands",
+      "dutch",
+      "rotterdam",
+      "amsterdam",
+      "belgium",
+      "antwerp",
+      "zeebrugge",
+      "france",
+      "french",
+      "le havre",
+      "marseille",
+      "spain",
+      "valencia",
+      "algeciras",
+      "barcelona",
+      "italy",
+      "genoa",
+      "trieste",
+      "portugal",
+      "sines",
+      "austria",
+      "switzerland",
+      "uk",
+      "britain",
+      "british",
+      "felixstowe",
+      "ireland"
+    ],
+    "Central & Eastern Europe": [
+      "czech",
+      "slovakia",
+      "hungary",
+      "romania",
+      "constanta",
+      "bulgaria",
+      "varna",
+      "slovenia",
+      "koper",
+      "croatia",
+      "rijeka",
+      "serbia",
+      "moldova",
+      "danube",
+      "balkan",
+      "central europe",
+      "eastern europe",
+      "cee"
+    ],
+    "Ukraine & Black Sea": [
+      "ukraine",
+      "ukrainian",
+      "odesa",
+      "odessa",
+      "black sea",
+      "izmail",
+      "danube ports",
+      "yuzhny",
+      "pivdennyi",
+      "novorossiysk",
+      "bosphorus",
+      "turkey",
+      "turkiye",
+      "istanbul",
+      "georgia",
+      "poti",
+      "batumi"
+    ],
+    "Russia & Belarus": [
+      "russia",
+      "russian",
+      "moscow",
+      "st petersburg",
+      "belarus",
+      "minsk",
+      "shadow fleet",
+      "murmansk",
+      "vladivostok"
+    ],
+    "EU institutions": [
+      "eu",
+      "european union",
+      "european commission",
+      "brussels",
+      "european parliament",
+      "council of the eu",
+      "unia europejska",
+      "eurostat",
+      "european court"
+    ],
+    "Middle East": [
+      "middle east",
+      "red sea",
+      "suez",
+      "egypt",
+      "houthi",
+      "yemen",
+      "bab el-mandeb",
+      "hormuz",
+      "iran",
+      "iraq",
+      "saudi",
+      "uae",
+      "dubai",
+      "jebel ali",
+      "abu dhabi",
+      "ad ports",
+      "oman",
+      "qatar",
+      "israel",
+      "haifa",
+      "jordan",
+      "gulf states"
+    ],
+    "Asia": [
+      "china",
+      "chinese",
+      "shanghai",
+      "ningbo",
+      "shenzhen",
+      "qingdao",
+      "tianjin",
+      "hong kong",
+      "beijing",
+      "japan",
+      "korea",
+      "busan",
+      "taiwan",
+      "india",
+      "indian",
+      "mumbai",
+      "singapore",
+      "malaysia",
+      "indonesia",
+      "vietnam",
+      "thailand",
+      "philippines",
+      "kazakhstan",
+      "central asia",
+      "middle corridor",
+      "trans-caspian",
+      "bangladesh",
+      "chittagong",
+      "pakistan"
+    ],
+    "North America": [
+      "united states",
+      "u.s.",
+      "usa",
+      "american",
+      "us gulf",
+      "new york",
+      "los angeles",
+      "long beach",
+      "houston",
+      "savannah",
+      "canada",
+      "canadian",
+      "vancouver",
+      "mexico",
+      "mexican",
+      "washington",
+      "us tariff",
+      "us ports",
+      "us imports",
+      "us exports",
+      "us government",
+      "us steel",
+      "us-china",
+      "us navy",
+      "us forces",
+      "us military"
+    ],
+    "Latin America": [
+      "brazil",
+      "santos",
+      "argentina",
+      "recalada",
+      "rosario",
+      "chile",
+      "peru",
+      "colombia",
+      "panama canal",
+      "panama",
+      "latin america",
+      "south america",
+      "uruguay",
+      "ecuador"
+    ],
+    "Africa": [
+      "africa",
+      "african",
+      "south africa",
+      "durban",
+      "nigeria",
+      "lagos",
+      "kenya",
+      "mombasa",
+      "morocco",
+      "tanger med",
+      "tangier",
+      "egyptian",
+      "ghana",
+      "senegal",
+      "angola",
+      "mozambique"
+    ],
+    "Oceania": [
+      "australia",
+      "australian",
+      "west australia",
+      "port hedland",
+      "new zealand",
+      "pilbara"
+    ]
   }
 }
