@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T19:49+00:00",
+ "generated_at": "2026-10-01T20:03+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "89ac106d7615",
+   "title": "Tankers enter the death zone",
+   "original_title": "Tankers enter the death zone",
+   "url": "https://splash247.com/tankers-enter-the-death-zone/",
+   "source": "Splash247",
+   "published": "2026-10-01T18:04+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "prices",
+    "shipping"
+   ],
+   "summary": "Like climbers entering the death zone above 8,000 metres en route to the summit of Everest, VLCCs have entered their own peak: the moment where prices for secondhand tonnage surpass newbuild prices, and sell signs flash hard. These moments tend to be fleeting and have historically been associated with the hottest stages of shipping cycles. The question is how often the market has reached this altitude before, and how long it can survive there. The previous maximum premium for a five-year-old VLCC over a newbuild was 21% in December 2007. Veson data shows a 15-year-old VLCC overtook the newbuild value for the first time on September 27. Danish Ship Finance takes a broader approach, using a monthly secondhand-to-newbuilding price ratio for tankers stretching back to January 2000. Its series identifies 11 distinct episodes, including the current one. “To stay with your analogy: the death zone usually punishes those who linger — but in 2003–08, the market camped up there for nearly six years,” Danish Ship Finance told Splash. The completed episodes have averaged around 12 months, although that number is heavily distorted by the extraordinary 2003-08 supercycle, which accounts for more than half of all the months its tanker index has spent above parity.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "a2c4c544a899",
    "title": "US sanctions target Iran's auto, rail sectors after blockade chokes shipping lanes",
@@ -237,6 +264,33 @@
     "copper"
    ],
    "summary": "Bank of America strategists raised their long-term copper price forecast by 20% to $12,000 per ton, or $5.44 per pound in 2026 dollars, according to a commodities update report. The bank cited ongoing supply issues as the main driver behind copper’s continued price strength. The forecast adjustment comes after more than 12 months of policy and other market surprises, with risks of volatility from war in the Middle East continuing to persist. Bank of America strategists noted potential risks including a possible energy-induced demand shock or a pause in data center capital expenditures. The bank made minimal other changes to its commodity forecasts. It lowered its 2027 aluminum price forecast by 5% to $3,625 per ton. Bank of America said higher interest rates and a stronger dollar create a bearish outlook for gold prices. Source: Investing.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "f7999fd358d5",
+   "title": "India reduces windfall taxes on diesel and jet fuel exports",
+   "original_title": "India reduces windfall taxes on diesel and jet fuel exports",
+   "url": "https://www.hellenicshippingnews.com/india-reduces-windfall-taxes-on-diesel-and-jet-fuel-exports/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-01T17:00+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "diesel",
+    "duty"
+   ],
+   "summary": "India lowered windfall taxes on diesel and aviation turbine fuel exports starting October 1, according to a government order released today. The export duty on diesel fell to 16 rupees per litre from 20 rupees per litre. The levy on aviation turbine fuel exports dropped to 10.5 rupees per litre from 15 rupees per litre. The export duty on petroleum products remained at 0.5 rupees per litre. Source: Investing.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   },
@@ -1027,6 +1081,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "696a59a768ff",
+   "title": "Transpetrol trims aframax fleet in $73m deal",
+   "original_title": "Transpetrol trims aframax fleet in $73m deal",
+   "url": "https://splash247.com/transpetrol-trims-aframax-fleet-in-73m-deal/",
+   "source": "Splash247",
+   "published": "2026-10-01T12:30+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fleet",
+    "vessel"
+   ],
+   "summary": "Belgian tanker owner Transpetrol Maritime Services has offloaded its 2016-built aframax in a $73m deal with Turkish buyers. VesselsValue data identified Transpetrol as the seller of the Hyundai Samho-built 114,070 dwt TP Affinity and put the ship’s current market value at $80.72m. Transpetrol’s own fleet records show it was delivered in July 2016 and completed a scheduled drydock in Singapore in July. The reported disposal comes as Transpetrol pours capital into younger tonnage. Splash covered the company’s most recent order of two 75,000 dwt LR1 product tankers at Yangzijiang Shipbuilding for delivery in 2030, its first newbuildings in the segment. Earlier this year, it also booked two 90,000 cu m dual-fuel VLGCs at HD Hyundai Samho and has been taking delivery of a series of LR2s. Transpetrol currently lists TP Affinity and TP Spirit as its two aframaxes. Completion of the sale would therefore leave the company with a single ship in the segment while its LR1, LR2 and gas carrier fleets expand. The privately held outfit has also recently been linked to a sale of two 2011 Japanese-built MR2s, Turmoil and Luctor .",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
    "id": "f458e3b940ce",
    "title": "Cabinet approves Transnet National Ports Authority as independent entity",
    "original_title": "Cabinet approves Transnet National Ports Authority as independent entity",
@@ -1140,6 +1220,58 @@
    ],
    "summary": "Today, Thursday, October 1 2026, the Baltic Dry Index climbed 27 points, 3140 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore. The index is based on a daily survey of agents all over the world. Baltic Dry hit a temporary peak on May 20, 2008, when the index hit 11,793. The lowest level ever reached was on Wednesday the 10th of February 2016, when the index dropped to 290 points.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "36ec2034a348",
+   "title": "Akrotiri Tankers doubles suezmax order at New Times",
+   "original_title": "Akrotiri Tankers doubles suezmax order at New Times",
+   "url": "https://splash247.com/akrotiri-tankers-doubles-suezmax-order-at-new-times/",
+   "source": "Splash247",
+   "published": "2026-10-01T12:00+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "chinese",
+    "crude"
+   ],
+   "summary": "Greek tanker newcomer Akrotiri Tankers has returned to New Times Shipbuilding for a second suezmax, continuing a rapid expansion of its Chinese newbuilding programme. Shipbroking sources place the latest order at $84.4m for a 157,000 dwt crude tanker scheduled for delivery in June 2029. The contract takes Akrotiri’s suezmax orderbook to two ships. The Marielena Procopiou and Konstantinos Lampsias-led company made its first move into the segment earlier this year, booking a ship of the same size at New Times for around $82m, also with delivery in 2029. That order marked Akrotiri’s expansion beyond the LR1 product tanker segment on which it initially built its fleet. New Times has quickly become Akrotiri’s main newbuilding partner. The owner started out with two LR1s at the yard late last year before moving into larger crude tonnage, and earlier this month added two 93,000 cu m VLACs for 2029 delivery in its first venture into gas shipping.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "e1a5a4acf335",
+   "title": "WiseTech air cargo push challenges independent booking platforms",
+   "original_title": "WiseTech air cargo push challenges independent booking platforms",
+   "url": "https://theloadstar.com/wisetech-air-cargo-push-challenges-independent-booking-platforms/",
+   "source": "The Loadstar",
+   "published": "2026-10-01T11:58+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "forwarder"
+   ],
+   "summary": "In a move that could be a blow to air cargo booking platforms, WiseTech Global expects more forwarders to book airfreight directly within CargoWise, as it expands its airline connections and opens the platform to general sales and service agents. ATC Aviation Services, part of World Freight Company (WFC), has become the first GSSA to connect to CargoWise AirlineConnect, allowing users to search, compare, and book services from its represented airlines in Germany, Switzerland, and Austria. The connection brings capacity, schedules, and dynamic pricing into the same system forwarders use to manage shipments, with booking confirmations, amendments, cancellations, and status updates feeding into their workflow. “That clearly benefits accuracy, speed, and cost, so yes, we expect more forwarders to take advantage of these efficiencies.” According to WiseTech, AirlineConnect now provides digital booking access to airlines accounting for 75% of the air waybills its customers execute, up 15 percentage points from a year ago. WiseTech expects coverage to expand through WFC’s network over the coming months, and through other GSSA connections. WiseTech did not specify whether airlines or GSSAs pay connection or transaction fees. However, Freightos founder and former CEO Zvi Schreiber argued that independent booking platforms retained advantages over a service tied to a particular transport management system.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   },
   {
@@ -2071,6 +2203,56 @@
    "summary_method": "extract"
   },
   {
+   "id": "b13c24ff873a",
+   "title": "Dimerco October Freight Report: Peak Season Runs Longer as AI Demand and Congestion Keep Capacity Tight",
+   "original_title": "Dimerco October Freight Report: Peak Season Runs Longer as AI Demand and Congestion Keep Capacity Tight",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTWJKZTBYeFp3cHVzcTExYWhqYnJiRmR2TG1pSHc3b0ZCSWdzczdsRWRyY1IxOUdNNnVvRV9maXlnVXM0RF9EWTNHdXF2T0NuaDJrcWNZMkNkejFMZ0w2bzUtVFZkNEpzS3h0NF8waHdhWHJpZk96aGgyb016bzNieFhPTkh1aW0zNzJOR3kwbUpMMW5XN0VGMzFma1JOUXNmbDAwUnVHcEFzenNnSUhuSUF4UUROMWtaX2hlR2F3a0ZWY0JVVzhWdFZNR19ONXhsRDBoY0tRYTY4N0s4aURrTDUtcw?oc=5",
+   "source": "EIN Presswire",
+   "published": "2026-10-01T10:00+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "congestion"
+   ],
+   "summary": "Dimerco October Freight Report: Peak Season Runs Longer as AI Demand and Congestion Keep Capacity Tight EIN Presswire",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f8265e526736",
+   "title": "Why Saskatchewan potash is taking a 4,300-km detour on its way to market",
+   "original_title": "Why Saskatchewan potash is taking a 4,300-km detour on its way to market",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaFF6RlhRdnA3TE9HMzJmMmpveElUaHZHSWc5bjB5RU9oY2FJVXByQW9kaG0xdkhkY3JXc3VDZDhfT2dzWkU4T1N6SlRNanJtaGxJa2ZyeXdaZXNOVExjck9ibkVzUnprN3R6OURQZnhZWnU3eGlBcmp3VEUyeXpVZktkcw?oc=5",
+   "source": "Be Giant",
+   "published": "2026-10-01T10:00+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "potash"
+   ],
+   "summary": "Why Saskatchewan potash is taking a 4,300-km detour on its way to market Be Giant",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "2541f8cdcf92",
    "title": "China to Europe Without Russia: Why the Middle Corridor Is Becoming a Global Trade Route",
    "original_title": "China to Europe Without Russia: Why the Middle Corridor Is Becoming a Global Trade Route",
@@ -2737,6 +2919,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "a48a6d16e12b",
+   "title": "HMM to launch Mombasa–India shipping service",
+   "original_title": "HMM to launch Mombasa–India shipping service",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT3hacV85YTJuNFZBamR6a2x0NHNvVnN5aGViSzVrcEVVellNSmxjNl9YV1ZaNFRDZDZTMTA4VURGRDhldDlYRUZOd3ktdVhVSjc3anhGaTlGNGFFV0poZWJFeUplWEZLRDFRVEVXTGl5aHNNY1dFTUIyVHhZaEFvejQxbzVLVV83RmpodkFIYW9NTm1UckM40gGcAUFVX3lxTE5nQnRwVG1rZUJqYmRUX3BaOXp0MTN6RE5TUFFSdW5xQktIQmFGOHRBWHl6NjRVc2o0c1lWcnZ4cG9sTk15RGJYMVVaVnRhTldBbjFWVkhZWWxpbjJWUUpxLTFBcWFXbVNtaERxSktPU3g3OXNXMmFWOVNzQS02aExMZE5tVXVBako0c1lpS1BNanFTWmFXaEdPRHU5dg?oc=5",
+   "source": "Logistics Update Africa",
+   "published": "2026-10-01T05:33+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia",
+    "Africa"
+   ],
+   "tags": [
+    "logistics",
+    "shipping"
+   ],
+   "summary": "HMM to launch Mombasa–India shipping service Logistics Update Africa",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
    "id": "2aef50300455",
    "title": "RCG expands automotive wagon fleet",
    "original_title": "RCG expands automotive wagon fleet",
@@ -2817,6 +3026,33 @@
    "summary": "The Coast Guard, Port Authority of New York and New Jersey, Newark Fire Department, and multiple state and area agencies respond to a fire in Port Newark on the vehicle carrier ship, Grande Costa D’Avorio. Fire fighting crews are working to extinguish the fire both from the pier and from FDNY fireboats. (U.S. Coast Guard photo by Dan Henry) A new federal watchdog report says gaps in training, coordination and emergency planning continue to complicate the response to ship fires at U.S. The Government Accountability Office report found 886 nearshore marine fires were reported to the U.S. gCaptain covered the firefighting response at the time . The Coast Guard established a National Salvage and Marine Firefighting Task Force in January 2024 and has since developed online training and other tools. GAO said Coast Guard officials and marine firefighting providers described a broader “wait and see” problem in which vessel operators may hesitate to activate response plans because of the expense associated with mobilizing commercial firefighting and salvage resources. The watchdog also issued five recommendations to the Coast Guard, including assigning marine firefighting coordination duties to specific field personnel, working with local fire departments to arrange vessel tours and exercises, creating a system for sharing lessons and best practices, and providing clearer guidance on when vessel response plans should be activated.",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "025527e2c63d",
+   "title": "Durban port crisis sparks calls for urgent parliament debate",
+   "original_title": "Durban port crisis sparks calls for urgent parliament debate",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMUJ3SDlXZllFSWZGS2h5dGlPSks1aVd6VFkzWEQyRXpHbTJHWDJEeTRLdXpsUGJmNlFBU0JUTXA1eW04SnpUZ1llcERLZ3Z6cWc4RHE4ZUJLTHZXQUNuRWhxMlJFN01wU2ZXMHNEN2dYczUxUlY1clNUM3g5QWFSa2hPOXdZUDJLanYydg?oc=5",
+   "source": "novanews.co.za",
+   "published": "2026-10-01T03:20+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "parliament",
+    "port"
+   ],
+   "summary": "Durban port crisis sparks calls for urgent parliament debate novanews.co.za",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "5cd0822cbe0e",
@@ -2923,6 +3159,31 @@
    ],
    "summary": "Iron ore futures higher Business Recorder",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "141685f6363c",
+   "title": "Activities of Port Qasim",
+   "original_title": "Activities of Port Qasim",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSQ3VZQmJXWW41U2xFb2duZTlGakZMRnpJakxUakIyX0NIaWF6R2hQcjFpaHlkSU5naTNEZDI1N3RnbkFLU21iMzRhS1BIbVlZMUhTWFdXbUQzajNCV1pReF95VVBlZWdnM2lXUHI3ekJQd9IBVkFVX3lxTFAwamF0RmlacF9fVUo1bkVGenFabXhIcFp2MEkzdURxUVFYNGs1WThnLVQ3LVBjOGk0R0hzWDNGdVNZYVhIbU4tdkNsdF9xV1FtdFludkx3?oc=5",
+   "source": "Business Recorder",
+   "published": "2026-10-01T00:39+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Activities of Port Qasim Business Recorder",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -3665,6 +3926,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "73cb5eb8a643",
+   "title": "To save its manufacturing base, Europe needs to look east",
+   "original_title": "To save its manufacturing base, Europe needs to look east",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN09sM216UEpRT0hHbnlBQUptdWw0TEkzSFlnVVhHdk5vQkw0Zmk5MjkycXdpdEtpS2dFdTJvWGF3dWdqSEtNd0ozMmIzcWRwSzY2eWZ6WGE2bW1XWENYS2MxdndfWVQtTXhXT01CeHVxQUNVdHZGMWJxejNPOVFSM0oyME95cFNlUDlVcWpWQWdqcE1ub1MzYWNoYW5aUDlzVjdLWmo0UHRUQ2t5MHc?oc=5",
+   "source": "Atlantic Council",
+   "published": "2026-09-30T14:30+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "council",
+    "manufacturing"
+   ],
+   "summary": "To save its manufacturing base, Europe needs to look east Atlantic Council",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b3af4a1477e8",
    "title": "Przetarg na nowy terminal znowu przesunięty. Lotnisko szuka oszczędności i przesuwa terminy",
    "original_title": "Przetarg na nowy terminal znowu przesunięty. Lotnisko szuka oszczędności i przesuwa terminy",
@@ -3803,6 +4091,33 @@
     "supply chains"
    ],
    "summary": "Asian port congestion could disrupt supply chains well into 2027 Metro Global",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8aacdca73159",
+   "title": "Air Cargo Expansion Puts Nigeria’s Logistics Infrastructure and Warehousing in Focus",
+   "original_title": "Air Cargo Expansion Puts Nigeria’s Logistics Infrastructure and Warehousing in Focus",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWpuRHVuTml1MlV2TVJzOXI4Mm5FS1g0SDBHM01FV3hKNGlHRUd0ZTBLbmxjWlVDakd0cVNFUDNIM0J6a1JtamZLUWlyVzVmQkFOb0VGWGtBaW9MV0paYWxSZTI5TEdtXzdmRmM0UE1GTUFob2tVNVhYNDVCQ0xYa0E4Sm5HREkxWlBhMW5XRlAwZ0tJNnJVVHkwdw?oc=5",
+   "source": "nigeriahousingmarket.com",
+   "published": "2026-09-30T13:46+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "logistics",
+    "warehousing"
+   ],
+   "summary": "Air Cargo Expansion Puts Nigeria’s Logistics Infrastructure and Warehousing in Focus nigeriahousingmarket.com",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
@@ -4001,6 +4316,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "d0a7eaa704c9",
+   "title": "AM Green bags €585 million green ammonia deal",
+   "original_title": "AM Green bags €585 million green ammonia deal",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZi1tR0pVSGdDZ3l0NGY2TzZBS0xxUGFDN1hOQWJacks5cXBOaVFnbzBTUkltdlFpMEVBUTBxQUkzX3N1a2ExNUF6WkRLZUpyR0JFdTZKYjF0VFRISHdPRzEyQXZkZ2JFOEFTaVd5SVp6TTg1UG9ySVVwYlk5b1ROWVdadVU1TWZHLTltY21iT2g2cWFSQzNjaWhDTU9YSXNZdS01YlV5bXFjSHPSAbIBQVVfeXFMUFo4cl9TVHBDMzQ3cFVLb1hUYVB0TV84UnIwNUpqNTJuVy0xelFCWVZJeFc2WWV0N1lacS1TOXFRTFZzQnZtTzZvUGsyQVpmdk5jWk1DV0xzQXF5RFBvTTlwSUhhaGhKdFZ3TjJzcy1BdGlMM1RmZjlGbDFGa1F4VjdmazZMaEhNNEgtNVBUbU9MWUZKVHV4NmluRUstZnZMSUdTMmZ0M0J6ckRzd3B0Y2J1dw?oc=5",
+   "source": "The Hindu",
+   "published": "2026-09-30T13:03+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia"
+   ],
+   "summary": "AM Green bags €585 million green ammonia deal The Hindu",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a7bbf3f40789",
    "title": "Farmers must make fertiliser declaration - even if they have no stock",
    "original_title": "Farmers must make fertiliser declaration - even if they have no stock",
@@ -4126,6 +4466,31 @@
     "ports"
    ],
    "summary": "Africa: ports and maritime routes at the heart of trade Capmad",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "07d9a7e9ca46",
+   "title": "South Africa’s Tshipi puts 828 000 t of manganese through Namibia’s Port of Lüderitz",
+   "original_title": "South Africa’s Tshipi puts 828 000 t of manganese through Namibia’s Port of Lüderitz",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWGJ3ajdfdC0yOVd3Zmc0V090X0hwUURGSkhpUlIyMjZYU1lteTZFbUpLUXVCU1JLbEdtOVd3bDhjNk80Vk9obldfbkdEbWJBck03SU9GZmI5ZUI2RGVDeGhSNTRNTGVuQ0tNLWZWWTNnTnFqeEd0bERFemZ6VFI4bk5YN1ppMUNLYmdYZUhMWXFVVTNpeFpIYWtiNVN1RHBNVjMtNlBWcjBoZ3RPRXplbTdOSzlYYlJIcGVLX3pIdVdDU0ZaSHNiOA?oc=5",
+   "source": "Mining Weekly",
+   "published": "2026-09-30T12:29+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "South Africa’s Tshipi puts 828 000 t of manganese through Namibia’s Port of Lüderitz Mining Weekly",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -4883,6 +5248,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "984ffd0993c7",
+   "title": "NG3 pitches self-mating shore power link for tankers",
+   "original_title": "NG3 pitches self-mating shore power link for tankers",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHVQd3kxOWE3VVN5bW1PWV91MElqdy1QZFpsWnFxc2EtQzlILXRxV3g0bVQ1dlJoOC1ERlhCcW9FNlJqMEhjSDR6TmR5RW1iTmN0bnJsaG4xazRxRXYyWm5SNm01cW5PcmlVdkYxa0dqNzdlTW04TjZQVGc4YUd3QQ?oc=5",
+   "source": "Splash 24/7",
+   "published": "2026-09-30T09:10+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "shore power"
+   ],
+   "summary": "NG3 pitches self-mating shore power link for tankers Splash 24/7",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "6d8b2fbd8a7c",
    "title": "Supreme court clears way for Świnoujście deepwater container terminal",
    "original_title": "Supreme court clears way for Świnoujście deepwater container terminal",
@@ -5544,6 +5934,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "55ea2573319d",
+   "title": "Pengambengan port expansion targets major fisheries boost",
+   "original_title": "Pengambengan port expansion targets major fisheries boost",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdm5aLWVQaUtoREVKRl9YWjg1ZG0xcFl0QUxYalZ0V0VZS0ZvRExycGdNNDFwTDJZNXhMZURGS19hdlQta01UV3BFOXBFUGNwVWRmRTY4X3J5bWdnNTJkeVZKMXJjUXlRczQ3Y0pTQlhHR0JRSUF1U0ktR3JQSDZ2RWtSNjVZWU1acEhfZVdDQnZkWWI5SDByS0JtNU52Zw?oc=5",
+   "source": "Petromindo",
+   "published": "2026-09-30T01:10+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Pengambengan port expansion targets major fisheries boost Petromindo",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "74fa91f91720",
    "title": "CCReB Advisors Expands CRE Portfolio with Strategic Fukuoka Logistics Acquisition",
    "original_title": "CCReB Advisors Expands CRE Portfolio with Strategic Fukuoka Logistics Acquisition",
@@ -5652,6 +6067,81 @@
    ],
    "summary": "Ukraine Faces Crop Storage Shortfall as EU Rejects Higher Wheat Quota. ubn.news",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fb4dc71fd5f3",
+   "title": "Transition to new system at Port of Durban caused delays — Daily Maverick",
+   "original_title": "Transition to new system at Port of Durban caused delays — Daily Maverick",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeG81NUU0bzRLR3A0a3huSUpKeFU4QXNuSU9zRS1EUlkxUEZjUENuNnlieWhaQ1hlRmV6MHBaTS0tWE9qNXNOOTEyRF84X2I5VkxqSG1nWFV2ekswamN3LVVWRjhOLU9FTDl6OGtLcW5XVmlIWlB4TkJlcm9rNlRZTlBXT3pPQktaQkpWX0ViV2VnZVlaUHMtSG82UnZYVVFrSkE?oc=5",
+   "source": "UA.NEWS",
+   "published": "2026-09-29T21:51+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Transition to new system at Port of Durban caused delays — Daily Maverick UA.NEWS",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8342d839329c",
+   "title": "Durban’s latest port crisis fuels doubt in Transnet tie-up with private sector",
+   "original_title": "Durban’s latest port crisis fuels doubt in Transnet tie-up with private sector",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdUdxVXFHc3A5S3BrTC1YV3B6dlNMVFEzc2dHQmlfcmhPZzVHbm1jYUN1aG9OVTBwLWR0T19JN2dRZVIySEdwZ1djSFNfTVdaRTI4aEpZYkY1b1B2NmtLamxsX1hISkJpb3hrdmlPNVRkVlNhVDd3bGxtbzZKa0tYSnZxeXNHbVc5MkhoZ01EYjZhdDYwNjZWa1NUNko3eEpZN3hVbVlUTXlKLVhodWpvVDFwQ2tMZFZ5cl9LRGZyOVBLS1dFdHhRaA?oc=5",
+   "source": "Daily Maverick",
+   "published": "2026-09-29T21:46+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Durban’s latest port crisis fuels doubt in Transnet tie-up with private sector Daily Maverick",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c8289bf80e33",
+   "title": "Manitoba's Port of Churchill signs agreement with Dutch port",
+   "original_title": "Manitoba's Port of Churchill signs agreement with Dutch port",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWVEbGZES0FaN1JCeG9hcy16UkcxTmZJb1hOQy1kUTdQQnNaZ3VkWW9QaTR2LXQ1bDZjeEtVejVycnpOLWdKMkNMVV9CVHpGV1ZfYVlnSGxDeWMxcVk2REFKeVNlcjhRQTFaM1poQ0JaWTA0ZjJTa3FJRy1KQkxnRHhKRDhKYzRxYTg0b3dHV2o5TlNJRzczS2J4eVF2NmZuMTNMVmtB?oc=5",
+   "source": "winnipegfreepress.com",
+   "published": "2026-09-29T21:40+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Manitoba's Port of Churchill signs agreement with Dutch port winnipegfreepress.com",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -6342,6 +6832,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "b40f09cf2925",
+   "title": "Diamond Line adds APM Terminals Aarhus to weekly BSX short-sea service from October",
+   "original_title": "Diamond Line adds APM Terminals Aarhus to weekly BSX short-sea service from October",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWVvcG5GNURJeWUyTmtwYWI1RXhwZHhJX0hUMzMybXJtdFJFUjVaWE81RmV6MjdBTkxGU2xmU2tOS0NSZDlISTRGOEJZN2c2WXFieG9RZUZ4TjBsNFcwbGZUdFpWYzFVSklEZlZSTmZjcHJFblJCa202WlM2czhsblVwUU9ycGJSQU9BQklja09DQkhNdGE1MTlpLWo1b3YtRUhyeA?oc=5",
+   "source": "Container Management",
+   "published": "2026-09-29T14:13+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Diamond Line adds APM Terminals Aarhus to weekly BSX short-sea service from October Container Management",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b07e3e5e9637",
    "title": "Conveyor Pulleys Market Forecast to 2035: Mining Automation and Bulk Handling to Drive Growth - News and Statistics",
    "original_title": "Conveyor Pulleys Market Forecast to 2035: Mining Automation and Bulk Handling to Drive Growth - News and Statistics",
@@ -6671,6 +7186,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "35bebc695b94",
+   "title": "The Port of Bilbao showcases commitment to produce sector",
+   "original_title": "The Port of Bilbao showcases commitment to produce sector",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMldtRTNkV3FFNXVhTTQ1M0RvQmZhdjlBY1ZtTjhnQTBKb29FTGhzYk5FMkgwZVYtcHJTd3FFVDlJVFBtM2szajRJWUItVWpXR2pDOHRIbHdHRWZMeVBqSDU4Rk9tUm50NGVhWC1Sa24zOTJpNUt4UDdTZUhKU0ZyQ1J5dlBtRll0ZEVoMzNBajZ6bl9DMzBLanFtS1pVd3VrM1dhXzE1bklwdlU?oc=5",
+   "source": "Fruitnet",
+   "published": "2026-09-29T11:36+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "The Port of Bilbao showcases commitment to produce sector Fruitnet",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b1b703a90f88",
    "title": "Baltic States tighten checks to prevent Russian-Stolen grain from occupied Ukraine from entering markets",
    "original_title": "Baltic States tighten checks to prevent Russian-Stolen grain from occupied Ukraine from entering markets",
@@ -6956,6 +7496,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "e2d4786753d7",
+   "title": "DP World signs agreement for Nigeria deep-sea port",
+   "original_title": "DP World signs agreement for Nigeria deep-sea port",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQelk3clFfZWZCSW5BOTNUZHh0a1hoOWhaUnVNNzJ0NG9aSWlKYk1telpFVTFnUVNSU2VOUEhQTUlkVlQtMmU5T2VadGM5UmhYM2U5ZlZydXhiU0lnaGJMSlBvTnEwV3U1SzBMMVVaLUdYMnNoaVhnc0NYWms1YkxqelhycE9qa2NwN1dVbXloSTI3N2I5X0ljLVFWaE53dmpzazdsUkdMQQ?oc=5",
+   "source": "porttechnology.org",
+   "published": "2026-09-29T09:01+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "DP World signs agreement for Nigeria deep-sea port porttechnology.org",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "df21231a701a",
    "title": "Port IslandGdańsk",
    "original_title": "Port IslandGdańsk",
@@ -7006,6 +7571,31 @@
    ],
    "summary": "British parliamentary delegation briefed on Middle Corridor prospects in Kazakhstan AzerNews",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3a6319084018",
+   "title": "Port operational updates from around the world (23 - 29 Sep 2026)",
+   "original_title": "Port operational updates from around the world (23 - 29 Sep 2026)",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFBSZVEyMnQ4RFJjWjh2UXJuSndYQjVJYnRaRkVxVU82M2pxWWctNVlFQ29sSF9RTDlfb2lkUHZRMlVhZFBELXU5SnZlOE5iOXl3YkJBck9UNWhsdEhtQmowTVV3Vjd2cE1CNEpxX3BTV3hVQVRNZXlHaVpQUGdESVVMb0plWW9NR0xB?oc=5",
+   "source": "Kuehne+Nagel",
+   "published": "2026-09-29T08:21+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port operational updates from around the world (23 - 29 Sep 2026) Kuehne+Nagel",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -7198,6 +7788,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "4674b94786f3",
+   "title": "TNPA flags delays and equipment failures at Durban port",
+   "original_title": "TNPA flags delays and equipment failures at Durban port",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2NwLVQ5dDN0UHRwTC1JaGgwbUFGdmt2MWdHS1hDNXlzbTNMMi1oZmt1emVWNFN0SXFhWFNldnpvVzNua2N2c0NDOFdvVFk5OVh5OTNUZXphaTZIZXNoZlF5RExkVzM0Tkl5TVlBM25oekZBbkZZVEtfUHd2ZUk3R3FOYXZ2aU01d3N5YmFPRDRrd3dsd0tJQWllM0FNQWlYeXl1U1lBOVNKMUVMLVprb3ptSnZmbkhV?oc=5",
+   "source": "IOL",
+   "published": "2026-09-29T07:00+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "TNPA flags delays and equipment failures at Durban port IOL",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "f15269da1a93",
    "title": "Russia rejects all proposals to resume Black Sea grain exports",
    "original_title": "Russia rejects all proposals to resume Black Sea grain exports",
@@ -7227,6 +7842,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "2300fd7e9dc5",
+   "title": "Cabinet rejects cap on foreign ownership of Dutch terminals",
+   "original_title": "Cabinet rejects cap on foreign ownership of Dutch terminals",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemFPRWEtTmJfQ1VJRnppVDRyc05OejVVZDdsc2lTcm5rSG10aUc2QVYtSDgtUURvaEpLTVVaRGxmVUw4X3lNb2luZDBHb256czdPUGRpTVRtYW91cHhkRng5aENtWVI3ZHRDbVkyRmJxc1oyTWZYSkpMT2FkOHRjbjRxWWt2UVBsalB0enhxM0tyc3g0RHdpLVkzcDRIVU95ajV4U3lLTQ?oc=5",
+   "source": "worldcargonews.com",
+   "published": "2026-09-29T06:18+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Cabinet rejects cap on foreign ownership of Dutch terminals worldcargonews.com",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "c83326fd8334",
    "title": "China leads Canada’s oil pivot to Asia as Mid-East war reshapes crude trade",
    "original_title": "China leads Canada’s oil pivot to Asia as Mid-East war reshapes crude trade",
@@ -7253,6 +7893,56 @@
    ],
    "summary": "China leads Canada’s oil pivot to Asia as Mid-East war reshapes crude trade Gulf News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d2257e397529",
+   "title": "Hapag-Lloyd and DP World Advance Strategic Port Partnership Across Africa",
+   "original_title": "Hapag-Lloyd and DP World Advance Strategic Port Partnership Across Africa",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0N5RUltUVkweUFmMGEwQnRzV0dGSUQycWdXeERfUHdzS0p3T3JvWW82WVFubnk0dWhhWno2S2N2RnU3allwaUxKRS1JMzhWZlNJZ2JOcGE4bXRRRXFIMk9wYzRIdW1xd3NDRG9yQzEzWDc2QXdaRG15b21wRWpnd2RSd0h2VmNqVHlZY3FiVkhRb0tQOGZNZmthemMzQWxnUXFwX2JKeGdJRk5FWTIzaw?oc=5",
+   "source": "cbnme.com",
+   "published": "2026-09-29T06:05+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Hapag-Lloyd and DP World Advance Strategic Port Partnership Across Africa cbnme.com",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "44c7fab0ad9b",
+   "title": "South Africa and Mozambique Move to Resolve Lebombo Border Congestion as Truck Volumes Surge",
+   "original_title": "South Africa and Mozambique Move to Resolve Lebombo Border Congestion as Truck Volumes Surge",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOVBvc2RHeS0zcmhOdlNwRTgtRldIOExod1k4WWZUcDRpODFxX2pYWnR4NlhSWV9VTmRzbzdhTVlZaFB5RkRSQW9wX1dHV0JvRUV4UmwxTDhtazdiVTdUVzd3dlNpel8xMlU0OTRrLXFhcHBBNWxIeV9LRkROaTBUQUd4b1NiaVVVYXM5S3p0Y3JKWmJ2b2R5a29PZnpxMUlBSDZhVEhma19vdXZGbWR6QzNiVjhWLW80TzdOX1FlNHBCSG1G?oc=5",
+   "source": "streamlinefeed.co.ke",
+   "published": "2026-09-29T06:04+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "congestion"
+   ],
+   "summary": "South Africa and Mozambique Move to Resolve Lebombo Border Congestion as Truck Volumes Surge streamlinefeed.co.ke",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -9088,6 +9778,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "2caa20d99657",
+   "title": "Djibouti – New Regional Energy hub : 375,000 m³ terminal under construction",
+   "original_title": "Djibouti – New Regional Energy hub : 375,000 m³ terminal under construction",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUVqeGxMQkVUT3hqbjctQm5wbU8yT2J0Rks3eUJUT09sNVV3TURLZ3p4NGpLczBOSzR0VlBlOXpkNGVCdS0zdlM0ck90dnpTSHhadndpREdOZ1RvR3V4UkFaY1VNNmRsbXRtZkJNR1RVcnBmNEd3OHFmVFl3ZWViTnFNSmNURW9tNGVxQ2kxZUtpMFUxQlBtVVhLN2RhNzR4?oc=5",
+   "source": "Africa24 TV",
+   "published": "2026-09-27T18:43+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Djibouti – New Regional Energy hub : 375,000 m³ terminal under construction Africa24 TV",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "55b71a7948ee",
    "title": "$500M port investment to strengthen Saskatchewan potash exports",
    "original_title": "$500M port investment to strengthen Saskatchewan potash exports",
@@ -9472,6 +10187,33 @@
    ],
    "summary": "The Middle Corridor’s Real Winners Aren’t Armenia and Azerbaijan Modern Diplomacy",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4f4636efcaae",
+   "title": "China-US port ties run deep",
+   "original_title": "China-US port ties run deep",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SdGdHWEJOaTB5MlRGeW9HMDVqeXpPUWVEMXRUTVFRUDgtVTRfLXdBN2pJTkViOHNhNkw4ejVjRkx4ZGcxcFY4OW1zWXJIcVRETC1NNHBhVmNwR054UWRDdm01LXc3Tno0eGpheU1QR3JTZDUzeHJoaWZrbGd3dw?oc=5",
+   "source": "China Daily",
+   "published": "2026-09-26T00:20+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "port"
+   ],
+   "summary": "China-US port ties run deep China Daily",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -10518,6 +11260,31 @@
    ],
    "summary": "Russia expands fleet as crackdown on stateless vessels intensifies Financial Times",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "785ba2d8230b",
+   "title": "Ethiopia, Djibouti Presidents Hail Dangote’s $660 Million Oil Terminal, Pipeline Project",
+   "original_title": "Ethiopia, Djibouti Presidents Hail Dangote’s $660 Million Oil Terminal, Pipeline Project",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV3FydG42WUliTjdmNm12cU40SU1VeXFDZm1yS1lhQi1ZV3lsRFdmYUJsOVlzS21nMHpKcmRpdm5CeTQ0YmxGYmcyTmVwYWdsd3VHZlBZLWNRTGxPVi1ES1RReEloSUNLZ01NdVVzbm5jWmhBeGkxQm9YUzlNNzVvNktUdFlSMjhUVV9CVWhwSWZzb1c2TC0zUllQZXByeHR0NWdLOTEtYV9NTmZTWkg1NmdIc05vLWZyeksxdHBpTW5VZw?oc=5",
+   "source": "THISDAYLIVE",
+   "published": "2026-09-25T02:49+00:00",
+   "added": "2026-10-01T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Ethiopia, Djibouti Presidents Hail Dangote’s $660 Million Oil Terminal, Pipeline Project THISDAYLIVE",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
