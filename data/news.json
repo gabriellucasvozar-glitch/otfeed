@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T04:01+00:00",
+ "generated_at": "2026-10-02T04:24+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,90 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "071add5945d6",
+   "title": "Iron ore prices dip to lowest level in past year",
+   "original_title": "Iron ore prices dip to lowest level in past year",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5GazFtM0cyalFYb0FHV0lDc01ORkJDVmVBaXJHalFrZ01UMURhWFptbmpZMklEZUQ1Z2pPTTFyX2FhX2ppaXNOV1VBQUJpQ0dMMU9nWm9jcHV4dEhTUnZ5aFZIYlVwcXpRcnpUdWRFWDBzd2ZLUkVMM1FSMA?oc=5",
+   "source": "Mining.com.au",
+   "published": "2026-10-02T03:33+00:00",
+   "added": "2026-10-02T04:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore",
+    "prices"
+   ],
+   "summary": "Iron ore prices dip to lowest level in past year Mining.com.au",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "74607288a041",
+   "title": "Hong Kong Advances Green Maritime Fuel Bunkering with New Legislation and Expanded Port Facilities.",
+   "original_title": "Hong Kong Advances Green Maritime Fuel Bunkering with New Legislation and Expanded Port Facilities.",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWi1KUXlMeURpbWNGUi0tbWptUnZmcGM2eTFwbE1hYVMxWnZpSzBUdC1YS1FiTEdFbHVSdmFLMWZrQ19oUDdjdGFTNGs0Z2I1bExGQUc5VDZQZ0xDcWVmWDJiZWJSdEVrTFo0UXlJWjczRWljd3JtWklDclBhQ05seFY0R0FSYjlLRXVzYTZJSWZ0SXQ2NmxQNDNhYm1qbU1CNFNWOURVSVYwcmdqX3FEYkhBMEFnV24xLTZIQTVxWm9JeEZRTmZCSWVqdkpXUzJybHBNN2NOLTRYcnVmNnhyei1IVDM?oc=5",
+   "source": "bastillepost.com",
+   "published": "2026-10-02T03:12+00:00",
+   "added": "2026-10-02T04:24+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bunker",
+    "legislation",
+    "port"
+   ],
+   "summary": "Hong Kong Advances Green Maritime Fuel Bunkering with New Legislation and Expanded Port Facilities. bastillepost.com",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fb9269cd558d",
+   "title": "Korea customs pushes FTA tariffs on U.S. crude via Panama to cut import costs - CHOSUNBIZ",
+   "original_title": "Korea customs pushes FTA tariffs on U.S. crude via Panama to cut import costs - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80Tkx6UWdIdElCSjFNaG15Q2JNMVBpUDBORGpXR0lrREkwaDV4eFAtUEplbnVtM2puLTh5c0VnMXMxMktUd0xSeDBpNE00RXdiOXp2R295aHJwS3dkNThGYVFVMDY2SHFGR1FTcEp5SHZ5ZUQ5ak9EWDluTFp4cjTSAZMBQVVfeXFMUDNUMGhQTTFNWGhIU09rLWVXOEFPSjRNMlJINUpuMlJhVWw2TDZnQVV6Q1hDT0xWck4xeTFIVk5LOUgwbDZsLVYwMEhCVy1Zd2tTX2VmUHRXSFlZSXpaTkQzbk1icHNVMG54UGVOMG9XUFlKN1ZSZncyQzRVUjl0VGlEZWwxR3haMHkwYkNCcE1wblZJ?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-10-02T03:05+00:00",
+   "added": "2026-10-02T04:24+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia",
+    "Latin America"
+   ],
+   "tags": [
+    "crude",
+    "customs",
+    "tariff"
+   ],
+   "summary": "Korea customs pushes FTA tariffs on U.S. crude via Panama to cut import costs - CHOSUNBIZ Chosunbiz",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
   {
    "id": "8910ec630809",
    "title": "The Paradox of Maritime Transport (Part 1): Record Ship Orders, Why Do Container Freight Rates Remain Stuck at Peak?",
@@ -63,6 +147,35 @@
    ],
    "summary": "Latam’s oil trade is being rerouted by the Middle East crisis Cyprus Shipping News",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1a662159d7ff",
+   "title": "Canada's tariff rate quotas (TRQs) on steel imports from countries out",
+   "original_title": "Canada's tariff rate quotas (TRQs) on steel imports from countries out",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSFZsLUhHYlZNbG53YmZoTThhNGlVTkVmUHFuc3FRNGRhWmdrNU93VGVaNmVJNHpiWnZvdEtYRzNsbHBmQnRvTWRVX3lYOG9nWkZSWU9vVklMZTJ5WklhV016QWZ5cGk5ZmdYT1dreE1OMVdOVjFmRVpzbEs4ZnhnYjB1M2xfM3owa0w2T0NBOUJSazY1RndfVWRmLWQ4RVRzVzItclNReUFmUURheGVuakg1a0JDTVJoSkNrbmQwRmFLbVBKekFxS2V1VGx1YmEyY0xONElsQWNKLWxDYk12MGZiM3FzdHN5ck5Z?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-02T01:52+00:00",
+   "added": "2026-10-02T04:24+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia",
+    "North America"
+   ],
+   "tags": [
+    "quota",
+    "steel",
+    "tariff"
+   ],
+   "summary": "Canada's tariff rate quotas (TRQs) on steel imports from countries out Shanghai Metals Market",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   },
   {
@@ -174,6 +287,33 @@
     "ukraine"
    ],
    "summary": "Ukraine Seeks US Sanctions on Russia’s Starlink Rival and Oil Fleet. ubn.news",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "596ef7efed8b",
+   "title": "Turkey, U.N. Plan Black Sea Talks to Protect Grain",
+   "original_title": "Turkey, U.N. Plan Black Sea Talks to Protect Grain",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc2NzaVJLZ3d0dkRUODVrTjg2R05GSHRrSXNEMmFOZW1ZeS1xYmNmVDVHUHFZYk56bUtUVnJ0Zi1kNl9CcEpHWkwtZkZtRFMyMWxDNjVjVXZQeFBtX0dOdXR6WU9QVl8zcWZKV20wU3ZmMDRXcGRuUE5YVG5lbDhNZ19ZY2pPU3ZDbDkxemZtUlBoUQ?oc=5",
+   "source": "briefs.co",
+   "published": "2026-10-01T23:02+00:00",
+   "added": "2026-10-02T04:24+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "grain"
+   ],
+   "summary": "Turkey, U.N. Plan Black Sea Talks to Protect Grain briefs.co",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -6285,6 +6425,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "4a9269115711",
+   "title": "Labrador Iron Ore Royalty Stock Faces Fresh Downside Pressure as Iron Ore Volatility Tests Investor Confidence",
+   "original_title": "Labrador Iron Ore Royalty Stock Faces Fresh Downside Pressure as Iron Ore Volatility Tests Investor Confidence",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMTNiOW1vTGIyb3BvWWlKVUtqaS1RSkhaUUZVb0Uya2pGd3V6YTFSaHVkRE95NUJoWjRFNDhMcXNyaUtZeXFjS3RGMEROTkVKOFZMYnl4c0tFMTRHTkZxTVNYbWRWaC1zVXVKXzVUdUw1RGVGWmZyczJiNTF5cTFxZGN5VmJsNXJsQlBpX0NlaEtBRWt6N0szT3lKTE5qM29naGM1MEhrNTNkaXlzUFcxTTkxU21jQnpHc1dVS0o5ZVNNZHNoenN2eEx5a0dPX1ZmVnNCY3BIVjA?oc=5",
+   "source": "kalkine.ca",
+   "published": "2026-09-30T13:48+00:00",
+   "added": "2026-10-02T04:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "Labrador Iron Ore Royalty Stock Faces Fresh Downside Pressure as Iron Ore Volatility Tests Investor Confidence kalkine.ca",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "8aacdca73159",
    "title": "Air Cargo Expansion Puts Nigeria’s Logistics Infrastructure and Warehousing in Focus",
    "original_title": "Air Cargo Expansion Puts Nigeria’s Logistics Infrastructure and Warehousing in Focus",
@@ -8056,6 +8221,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "b4d37b62ddbf",
+   "title": "97 hektarów poszło pod młotek. W Jaworze powstanie potężne centrum logistyczno-magazynowe",
+   "original_title": "97 hektarów poszło pod młotek. W Jaworze powstanie potężne centrum logistyczno-magazynowe",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdjFoTjM0ZUMzVVlyTHBHYl8tV3lGUWtFSlRuOE9raHNETHRMLUp4S1VlRUtzTy04MlpBSV83UTdnZTFqSW1XNVBuRkJWVS12dkwzRld1S1Q0NlRRZVowTHBpVkh1R2tyaEk5QlBWMTlQTUtLa25mTHJTTkFtckFYUHdxRE01bDBBZm4wVFI5WlpkWS1hYzNjc0ZHMjFXU3JMTHJsdlMzWEZfZW1P?oc=5",
+   "source": "Wyborcza.pl",
+   "published": "2026-09-30T08:32+00:00",
+   "added": "2026-10-02T04:24+00:00",
+   "lang": "pl",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "magazyn"
+   ],
+   "summary": "97 hektarów poszło pod młotek. W Jaworze powstanie potężne centrum logistyczno-magazynowe Wyborcza.pl",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "95fb4eefd805",
    "title": "Refineries, ports and the future of East African integration – 6",
    "original_title": "Refineries, ports and the future of East African integration – 6",
@@ -8296,6 +8486,33 @@
    ],
    "summary": "O’Leary: Radom to porażka, Port Polska to strata czasu i pieniędzy rynek-lotniczy.pl",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d790cc8e9200",
+   "title": "COMMENTARY: China's metal-heavy commodity imports map a messy energy transition",
+   "original_title": "COMMENTARY: China's metal-heavy commodity imports map a messy energy transition",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNW1fS1c5RmstV3VOaDMya3NQSjlTTE5NNGdteVU4b0JJdGM2aUpVaHk4LVRJRjdBeE9BejE3YjZoQ08yenNKNlBveXNIUXVhd0g5ajRtSlA2alQ0YkViZWx5WmRqbXQzandfS2VGWEszMFhKeHJkcWV6RGVpZnc4NTFXLWJ1Sk1UTkZHT1hHV2tfRlFnQ1Q4NGczUTVRLTRpSGxWRUlLckY2SHJCZFpFQzh5TFVGYlRKTWRlcWVhdzlkLUU1WVNzV1NVcmxqUQ?oc=5",
+   "source": "Reuters",
+   "published": "2026-09-30T07:00+00:00",
+   "added": "2026-10-02T04:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6.0,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "commodit"
+   ],
+   "summary": "COMMENTARY: China's metal-heavy commodity imports map a messy energy transition Reuters",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -12068,6 +12285,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "d9a18e21a4e4",
+   "title": "India’s first port-based e-methanol plant to produce green bunker fuel for ships",
+   "original_title": "India’s first port-based e-methanol plant to produce green bunker fuel for ships",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZEQwenYxOVcyWkJPMmdWZ1hlUnZBZ0xud3dlS3h2TDJQRVp5NmpZZEVrUVVwNWxLVi1oS0Z1YjJFdzFaNEhGYldxc3BCT2xQdUNIM2V5alkyRmJqZ1NtY25WNGRYOUZFN3BtczdUOUlLVzBmejhXVjhlcG05VEJ2TnZnemhETDNidHN5RHZPQ3pRWUZmbnczTVpnUEQ5UEVmS0tiUmFNOTh4NGxLemtvd3RxV29DQQ?oc=5",
+   "source": "Manifold Times",
+   "published": "2026-09-29T05:52+00:00",
+   "added": "2026-10-02T04:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bunker",
+    "port"
+   ],
+   "summary": "India’s first port-based e-methanol plant to produce green bunker fuel for ships Manifold Times",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "0b45b1f40514",
    "title": "Malaysia targets 100 million TEUs port capacity by 2035",
    "original_title": "Malaysia targets 100 million TEUs port capacity by 2035",
@@ -12335,6 +12579,31 @@
     "red sea"
    ],
    "summary": "Oil prices fall as crude exports recover at Saudi Arabia's Red Sea ports CNBC",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "05eb56d06f7f",
+   "title": "[SMM Iron Ore] Sharp spot declines push imported iron ore margins into loss",
+   "original_title": "[SMM Iron Ore] Sharp spot declines push imported iron ore margins into loss",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzdIZTV5ZHBZZ21ZYmZMeGZ3bWp1d2lXWmVNN042U0EwRmU4azB6ckwxS3Q1bTkxRUp6SENqZVhVek1ncXdkSXh5SURpZFdVTWE4M1VFQk4weUtEZDI0aXJhZF9xbTUzeVZtY0x1TzBhRXBhb2o2RmhXTGpIMVVkZTFud2ZwdE5ZOGtTVklkdVdVSkNTRHRlYWp2a2hjbEtVcVhTaTBOWF9KV1hvMXU2bEtDaU5nODJqM3kzRzRB?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-09-29T01:30+00:00",
+   "added": "2026-10-02T04:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "[SMM Iron Ore] Sharp spot declines push imported iron ore margins into loss Shanghai Metals Market",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -14942,6 +15211,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "fe6fecbda262",
+   "title": "Latest locomotive procurements and supplies: Newag, SNCF, CRRC, BMZ",
+   "original_title": "Latest locomotive procurements and supplies: Newag, SNCF, CRRC, BMZ",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUtRLWNmODhfVmV2Zk5VX2owdGZpYWdWV1BvZ0tkR1JqN0pyMTJpSmFNemRPSEhiaHNIc212NC1MazhVVlU4UnVjbHdjMmxLX3Y5Z2hwcnFtRjZXcDBJcWptUEZDRnB5bHg1OGVtTF9UNkdXTEZkLUhMZkEzdy1UNnlNUDJPTWowUlZHVC1uclVBbFU3N2Q3cGMxRVNCeDZHa283Vm92enRjUQ?oc=5",
+   "source": "rollingstockworld.com",
+   "published": "2026-09-27T11:34+00:00",
+   "added": "2026-10-02T04:24+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "locomotive",
+    "newag"
+   ],
+   "summary": "Latest locomotive procurements and supplies: Newag, SNCF, CRRC, BMZ rollingstockworld.com",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d62093dd598b",
    "title": "Port of A’Suwaiq Records Notable Growth in Cargo Handling, Vessel Traffic During H1 2026",
    "original_title": "Port of A’Suwaiq Records Notable Growth in Cargo Handling, Vessel Traffic During H1 2026",
@@ -16042,310 +16338,6 @@
    ],
    "summary": "Baltic Dry Index Slipped, But Still Notched A Weekly Gain Finimize",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "325b5093d72d",
-   "title": "Houthis reassure EU on European shipping as Bab al-Mandeb traffic climbs",
-   "original_title": "Houthis reassure EU on European shipping as Bab al-Mandeb traffic climbs",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUJPOEg1RE43MUxwaEFlU3JKZ0xnMlAxWUZmZE5wTjg5Z0pGNVk5SHBuN2dZbU9qVDJmMXdTUFc4bmpCaWU4NE40aXNrY28zNkJMT29QMHpoM0VfWlR3OG1GUFVEOHZ0OWNDZmJFdjFJNVh4dVFlQ2NZWXl5c0JsUFo3cFI3b1BzbGZwMGxpTTFRa04wcl93?oc=5",
-   "source": "Traders Union",
-   "published": "2026-09-25T12:54+00:00",
-   "added": "2026-10-01T18:52+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "EU institutions",
-    "Middle East"
-   ],
-   "tags": [
-    "eu ",
-    "houthi",
-    "shipping"
-   ],
-   "summary": "Houthis reassure EU on European shipping as Bab al-Mandeb traffic climbs Traders Union",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0220918d40e8",
-   "title": "The EU raises a new barrier to Chinese electric steel to protect its networks",
-   "original_title": "The EU raises a new barrier to Chinese electric steel to protect its networks",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYi1CSTBZOG5GcnlRWWR3cUNseEpiWExZOHhCNmk3cmM3d3VNdG1CSVVyRkN4Ni1mc3RJN3lFZWVjdGd3ck44a2tMd0ZEVE1vV2ZPSS1sbUk1Z2h6M1FaX2NKVEo5NXYzNDJMQVdmUXFUTzZkcTdqNEg0eVBTRm1vVkJMYXJDV09Rd05yQngtWjJBVnhwUU00UVBGOXfSAaIBQVVfeXFMT0hlMHBubU5hbUtlT0dJR21nUklIaDd0cjRPU0hxLUNkTzdtZEtGTnQwVTRMYURETFRnNkFnU3pod0lPeG43U0tuZE5lUEFVMkkybS1lUUJ0OGZhM2hRSTh3TUZWb0FEUGJxSlVTMi1zaDcwWnBxVHVHY01rZFF5WjZDYlB1NFR3TmhXbjQzekVsajJCT21tVEFzYTFadXliRWFB?oc=5",
-   "source": "Demócrata",
-   "published": "2026-09-25T12:10+00:00",
-   "added": "2026-10-01T22:38+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "EU institutions",
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "eu ",
-    "steel"
-   ],
-   "summary": "The EU raises a new barrier to Chinese electric steel to protect its networks Demócrata",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d3397c082d6d",
-   "title": "Turkmenistan calls for coordinated approach to strengthen Middle Corridor",
-   "original_title": "Turkmenistan calls for coordinated approach to strengthen Middle Corridor",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYklmVHlsZUpkRnRQbTJGZzhrOVVBQlM4aExObDRscDk0Nm5TUWREVWpLTzl0RmFLTFJXREk5X3V4My1WeDgxODJ3NmpNNjNTb1FITDM5WlhBWTFhcmlXYkdnb243OENUNUZWOV9hSUdJTXQ5dXlMQlhCbEEtQ1NJaXNDckxUZEt1LWpfTGx3RndEM2JwYkdWeTlVZldOdDBlakE?oc=5",
-   "source": "Caliber.Az",
-   "published": "2026-09-25T12:10+00:00",
-   "added": "2026-10-01T19:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Turkmenistan calls for coordinated approach to strengthen Middle Corridor Caliber.Az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d9b521420fb8",
-   "title": "Baltic Hub adds two electric RMG cranes for rail",
-   "original_title": "Baltic Hub adds two electric RMG cranes for rail",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWHRfcHNPT2NVSlBkRVI3QzVVbWw5Mk9QZXFJRlo3RWE0WEZnZlF3Mm5MVl9UT2dXSXJsRjNtTlFNY04tQzJuMlAwY3pudi1SV09FRmpQVWFUTW13LWxWbGlMR3ZkNGt2SFFPOGlpN3prT3AzeWF1U2RGN05wVGtBZEtqYy1XUURQcDE5VGE5bHB4cXpteWt4ZUFnamYtTU5Zb2c?oc=5",
-   "source": "Port Technology",
-   "published": "2026-09-25T12:02+00:00",
-   "added": "2026-10-01T16:27+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic hub",
-    "crane",
-    "cranes",
-    "port"
-   ],
-   "summary": "Baltic Hub adds two electric RMG cranes for rail Port Technology",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity. Involves a Polish port.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1964db727c9f",
-   "title": "India Weighs Mandatory Imported Coal Blending as Plant Stocks Crumble",
-   "original_title": "India Weighs Mandatory Imported Coal Blending as Plant Stocks Crumble",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNenZVQllsRVVaTHpZMVBuM2x5QUpHNEk4MnY1LVp0UTBTVUptX0xHZXRUZDJ6MmhBZjFqTV84bE1ubk9DUk5WUWRkU1pSNmhoLWlTQXR1V053Rnd1dm1aVHFBRldYY29qU1ZRZ3ZhR2dwT2hDVkFPekgtbXFlYzNCYlNwa0F3ZzV5UVctR2dmMTJtWVdlUnBKbFJnN1hkVl9EU0JHX1V4dTFrY0ZXalJsQVh0VFNBT0wtYjFCaGh1a1FoTUnSAcgBQVVfeXFMTlljd2loXzBWbkl4M0pfaDRsM3dxZnlDOUoxck04em1xbk9VU2pZeWFvRXRuSFk2cllSVC1XMUVLOGJrSmQ0U2RLYkdqOTlUTHZvTWlhUkhnRHhtLUpqZVk4czVYdVRrWWtpb0NHbjVNaVk5Q3BROTFfSVBwUW5PbldwZm0zWURIeEplUXJRdEN2X1FCRXUtLW9nQzQ1X1V2US1HbWQ0RVNhZzY0bDhXZU9KMGRDV2pZX2R2bXJfcThhTDBLSTNIdUI?oc=5",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "2026-09-25T12:00+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "coal",
-    "crude",
-    "oil price",
-    "prices"
-   ],
-   "summary": "India Weighs Mandatory Imported Coal Blending as Plant Stocks Crumble Crude Oil Prices Today | OilPrice.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "373bafbfeaa4",
-   "title": "Vale has acquired a 30% stake in the Brazilian iron ore producer Ligga",
-   "original_title": "Vale has acquired a 30% stake in the Brazilian iron ore producer Ligga",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmw1TTAzZ3R4VWdBb2Y5Umg1T0lLZHJlN21SeTBtSVlDdmo5eHhGTzhCMUJiOE1jNzNZd1FhMWpTdlVmZjBPTFhIQngwZ1dpRUJZVDJXZVM2SVI4MVdxdkdYMTBMNmJiMWdsZDRVZl9hYmIxWEVWeWQ4VVBYUVFEay1IWFBSZmVWdV9aM1pkUG1rMkRONmh5X2J4ZUpBUdIBowFBVV95cUxPaXZiaEZCeWx3SmFtZkgzRkhFbWs3b1FDMlFaVktUSDRaazVTd3RnaS1Fb0hIVGZUcHN2cGt2TWhNdlVSTzFSam15S01MeWdhN1MyXzBjLXBFeEs5Y0JzM25CZW1oWXlfbHRGVGprS21pRFhPUnBrS0dYT194bklJbUhsa1BTQkFkRE1rbHkxZmxIRkZHazhuV1ZpNVRSbzRMN0hJ?oc=5",
-   "source": "GMK Center",
-   "published": "2026-09-25T11:45+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "acquire",
-    "acquired",
-    "iron ore",
-    "stake"
-   ],
-   "summary": "Vale has acquired a 30% stake in the Brazilian iron ore producer Ligga GMK Center",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "066a62c5d1f7",
-   "title": "Yusen Logistics opens £200m automated distribution centre in Northampton",
-   "original_title": "Yusen Logistics opens £200m automated distribution centre in Northampton",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT0IzdG1WNG94TGJDWURZdFBJQ1Vxa2VvOFZFcG45NVBpZXFZcnEzRFg2MkxnY2FEWERSZG1WUjJNYXlwR05TR2JzdjM0XzlJTzI5UGdwR0JjMHhXYk4wZTRqYmRMQ0VPcVI3b08ydHhIYjhGb0dsa0xTUFVSTjdRcWctVnFZcVJFV1RuM0Y5S0c3VGpmRFhuRU4yYVI1aVVkcU5pb2FmNVNwcDFQS0pBejhSWTUzTlVreVg2Qnl0emd6NHNDS0k4?oc=5",
-   "source": "Motor Transport",
-   "published": "2026-09-25T11:35+00:00",
-   "added": "2026-10-01T19:49+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "distribution centre",
-    "logistics"
-   ],
-   "summary": "Yusen Logistics opens £200m automated distribution centre in Northampton Motor Transport",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "66cd4552e473",
-   "title": "Bałtycki Terminal Zbożowy w Gdyni: Kiedy ruszy? Kluczowa decyzja KE",
-   "original_title": "Bałtycki Terminal Zbożowy w Gdyni: Kiedy ruszy? Kluczowa decyzja KE",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWtiUDltNjNnVXByTTItVzBjZWNSVjNaZVQ4UnBwcG1RR3VZNXltSlFDUlhlZTRMekdHZ2tGa0ZRakVXV0VseTlaZUNtcnp6Vng3Uzk5MW9wbDNoaFJpUEpiUE5DUGVNWFpsYlV0RlNUNmdnZXJzM01mYlBsZXhhRnlKU2lpM2ZDXzlENVFuZjhGb1pXNkNoNG5WWkdudFJCWnVMSFZUa19zUS1zRG9z?oc=5",
-   "source": "Zawsze Pomorze",
-   "published": "2026-09-25T11:27+00:00",
-   "added": "2026-10-01T19:49+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Bałtycki Terminal Zbożowy w Gdyni: Kiedy ruszy? Kluczowa decyzja KE Zawsze Pomorze",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2c6fbfe715cc",
-   "title": "Middle Corridor becomes important route for regular int'l transport - Chinese official",
-   "original_title": "Middle Corridor becomes important route for regular int'l transport - Chinese official",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hVzcwRzRhVmgtSlZyNG40Y2VGLTBtX0hrNmtDbVh3UXBlTVpxNU1NdjlPZS1aQm8wQmROM0dlSDVVdmUzZms5TmhUMm5CVXdReXVQSHdacw?oc=5",
-   "source": "trend.az",
-   "published": "2026-09-25T11:19+00:00",
-   "added": "2026-10-01T18:29+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "middle corridor"
-   ],
-   "summary": "Middle Corridor becomes important route for regular int'l transport - Chinese official trend.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c93b44f9f6a7",
-   "title": "A state of emergency has been declared in the Krasnodar region due to the blocking of grain exports.",
-   "original_title": "A state of emergency has been declared in the Krasnodar region due to the blocking of grain exports.",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDZLXzFGZnQ2cThCSk85UXNpc09KbDlXNVRzRXo1aDVjdnZwRlA3dEx3SU5oX2Q1U3JuaTBwRGxfQlBzU0xNclZZQUxfaTBGV1JhdUttV1VHcDBtZERLQXBncXQ1TS1ncUdVMG1JMWh0ajhBMHNSeENxYVdybW0welBmNWFQRTdSamJwQ19ETlJPb19xdkJDa1J1eWZqcVdXZndnU1ZFeGRNQQ?oc=5",
-   "source": "Говорит НеМосква",
-   "published": "2026-09-25T10:53+00:00",
-   "added": "2026-10-01T20:26+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "A state of emergency has been declared in the Krasnodar region due to the blocking of grain exports. Говорит НеМосква",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4f525119bf9b",
-   "title": "Houthis tighten grip on Bab el-Mandeb – and African ports may lose out",
-   "original_title": "Houthis tighten grip on Bab el-Mandeb – and African ports may lose out",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQekNiVmNRNVlHZnJfdUVINVpaODNoZmVQQzUxSWJpaWoyT0NZNzVxLUNUQUtiM2RlT1dMVk9TaERmUnB3UjNudFBUOUZEY1hDM1FlRElrdUNYWmxudkY1RWJSSmk4ZXE0S3JRVGlyZlpSbzhRTzJUSXpOeklFQXFRNHFxWGl1aHYxc3RlUlNIVllmOVJUZmJmS213T0xzRld0Zi1wWVFhSDIybTZy?oc=5",
-   "source": "The Africa Report",
-   "published": "2026-09-25T10:45+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Middle East",
-    "Africa"
-   ],
-   "tags": [
-    "bab el-mandeb",
-    "houthi",
-    "port",
-    "ports"
-   ],
-   "summary": "Houthis tighten grip on Bab el-Mandeb – and African ports may lose out The Africa Report",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
