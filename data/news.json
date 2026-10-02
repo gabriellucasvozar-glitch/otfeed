@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T23:09+00:00",
+ "generated_at": "2026-10-02T23:26+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -2159,6 +2159,32 @@
    "summary": "A sailor observes the oil tanker HELGA, which is moored at one of Iraq's southern offshore oil terminals near Basra, as it prepares to load crude oil, April 24, 2026. Picture taken with a mobile phone. REUTERS/Mohammed Aty Oct 2, 2026 (Bloomberg) –The tanker captain summoned his years of experience when he saw the blast in front of him. The maneuver in the Strait of Hormuz with drones and missiles overhead is the sort of quick thinking that’s proving vital to getting oil supplies to the global market as Washington and Tehran fail to reach agreement on reopening the waterway to regular traffic. His vessel is among the ships engaged in shuttle runs through the strait, ferrying barrels often at night and with strict instructions about what equipment can be used — no lights, no phones and with only one radar. They were often just a mile from the coast of Oman, though the depth of the sea there is about 100 meters, more than enough for even the biggest supertankers to sail through. American forces “have assisted thousands of ships through the Strait of Hormuz in recent months by providing coordinated protection,” US Central Command said in a statement. Much of the time crossing Hormuz is spent talking to the US Navy.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "401777e230e2",
+   "title": "Newmark hires regional director for Polish warehouse department",
+   "original_title": "Newmark hires regional director for Polish warehouse department",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWXhfa1pocmp3MUlpZXlEU0pYSXNlX3VDQkxyZ19Pb2F0WFA0MVdWdTA3RmlFSnZLSzY3REM4X3UwVWotUUpmczltMjhPZWxXVGZjaC1QdFRkTWo1VUU1UjQ0N3A4cC03MW51RGdMb215OHpMYmNEVFFZaGFRVW01aGFZaGlnaFlzeXJFRUhwWXVFTnJFZnNoS2YtMlhfUFJRc0E?oc=5",
+   "source": "Green Street News",
+   "published": "2026-10-02T11:38+00:00",
+   "added": "2026-10-02T23:26+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polish",
+    "warehouse"
+   ],
+   "summary": "Newmark hires regional director for Polish warehouse department Green Street News",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
   },
   {
    "id": "05fb70b141a4",
@@ -16349,34 +16375,6 @@
    ],
    "summary": "New electric rail cranes to raise container siding capacity to 1.2m TEUs logisticsbusiness.com",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "09a3bac7f1b5",
-   "title": "Tightening Supply Chains and Trade Rules Create 'Nearshoring 2.0' Opportunities in Mexico",
-   "original_title": "Tightening Supply Chains and Trade Rules Create 'Nearshoring 2.0' Opportunities in Mexico",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSzJ6akRiMC1IS3I0M2E0NS1nM0ctRlgzalJQQXhTY3ZZSHpibnRKSFVEb2twcy1GdEhuNVp4Q0l2V0c3TG5abVNESk02YmRHYnY5MGN5cjZkbG5XSVVEcVl3bFZ5NTdEZTB4X1I4RVpsUC1uNmQzT1p6VEVUWkpMTWVjZDhVTTVpRUJZRjV1UXFHZmxGWjA3OHVKUFl1bHhhQUlMUHBPc3psMXFfYjlZZC1IcVJpaVpUdHNqeEx0LU9wcW5ScUtvWHpHQlg0emJYeV9WVE02WGJLeUU?oc=5",
-   "source": "PR Newswire",
-   "published": "2026-09-29T12:38+00:00",
-   "added": "2026-10-01T16:47+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "nearshoring",
-    "supply chain",
-    "supply chains"
-   ],
-   "summary": "Tightening Supply Chains and Trade Rules Create 'Nearshoring 2.0' Opportunities in Mexico PR Newswire",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
