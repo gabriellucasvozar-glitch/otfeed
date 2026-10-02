@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T13:49+00:00",
+ "generated_at": "2026-10-02T14:06+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,64 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "5fc8dd2037fc",
+   "title": "A line of 150 ships has formed off Russian ports on the Baltic Sea",
+   "original_title": "A line of 150 ships has formed off Russian ports on the Baltic Sea",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmluZFV2YWxSNS1iM0R1dVU3ZGhJYkQ0d2N6Z1dHZDVwVzJEa1NrNjFvcjlPdE1RWElqYjlOcEY0OG9LRXRvZDRVSHN1SmQ2Ung1NV9yVUxzQUg4ZVBhZlRvNGo2ZHp5UzRmTHNFamRmekF1RnRjX1ZqOEVtVjAwX3dsYU9XY2E4U25SQzZnMnM5SlhubGtkMXNNU1pvRHl2dlFfZg?oc=5",
+   "source": "UA.NEWS",
+   "published": "2026-10-02T14:02+00:00",
+   "added": "2026-10-02T14:06+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "baltic",
+    "port",
+    "ports",
+    "russia",
+    "russian"
+   ],
+   "summary": "A line of 150 ships has formed off Russian ports on the Baltic Sea UA.NEWS",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "324645d30575",
+   "title": "Abu Dhabi container shuttles keep Hormuz trade flowing",
+   "original_title": "Abu Dhabi container shuttles keep Hormuz trade flowing",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdkF5X2pIUDYwa0l1emxORjlhTGM3ZkphdS1OR0NjTk9oM0g5YlJzY3ZWZTZVcmUyY256Q1JWVFdjdjFqV3B6NGhaNHJBQldJRjQyYUNoQkF6VHZlUXY4ZWx2cFN2WGRTZGltWlpPNmJNb0VUTmNSdmJsTU1TTU9GUFdmWnZWZTVPUk5ZNDdOZHZ1cWJCeTB0bg?oc=5",
+   "source": "Arabian Gulf Business Insight | AGBI",
+   "published": "2026-10-02T13:04+00:00",
+   "added": "2026-10-02T14:06+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "hormuz",
+    "trade flow"
+   ],
+   "summary": "Abu Dhabi container shuttles keep Hormuz trade flowing Arabian Gulf Business Insight | AGBI",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "251fdfdaffff",
    "title": "EU farmers face falling prices as fuel and fertiliser costs rise",
@@ -146,6 +204,31 @@
    "summary": "Colombo’s increasing popularity as a transhipment hub is heaping cost pressure onto forwarders and shippers on the India-US tradelane, the Sri Lankan gateway’s newfound revenue stream having provoked a worsening tide of congestion. Recognising India is facing its own congestion issues, particularly at Mundra and Nhava Sheva, CH Robinson said Colombo’s status as a transhipment hot-spot was elevating the risks of rolled cargo. “When mainline services omit Colombo to recover schedules, South India cargo can miss planned connections even when space is available on the onward vessel. Feeder timing, container availability, dwell time during transhipping, and whether the mainline vessel makes its planned Colombo port call determine whether the container can use space,” it said. Consequently, the forwarder warned, the issue cargo owners were being left to grapple with was not just whether they could secure allocations, but whether the feeder and mainline connections on these routings would hold together. Much of the congestion Colombo is contending with is a consequence of vessels and services routing away from their traditional transhipment hubs in the Middle East, amid the war between the US and Iran – a situation that seems to have affected US consumers most.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "c3955d7b9cb1",
+   "title": "Food price surge highlights mounting pressure from disrupted grain routes",
+   "original_title": "Food price surge highlights mounting pressure from disrupted grain routes",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjY0YnBQQlMybng3VDlQeF9DS3dKbTRWWXBENlhhcnhtQncxRGlqclVhcDVSZ0lzdXNGNU1US0lPTWpTaHRHaHNHY2JtZzU5LTQ4a1F1aENPM0hzRTZPQTZBX3IzYWlVb1cwN2J3OFh2b0VEQ1FjbV9MRk1ON3U3V2g5V0JIczJ4UG9sZk1ERzhGRUprY09URzl6MmJRVzEtdHZYSXZjQk1DQmNiMWNr?oc=5",
+   "source": "Lloyd's List",
+   "published": "2026-10-02T12:07+00:00",
+   "added": "2026-10-02T14:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6.0,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Food price surge highlights mounting pressure from disrupted grain routes Lloyd's List",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "4861f5f650a2",
@@ -387,6 +470,33 @@
    ],
    "summary": "Opencast And Open Pit Mining Excavators Market To 2035: Copper and Battery-Metal Demand Lifts Equipment Orders - News and Statistics indexbox.io",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7b216dccc0ac",
+   "title": "UAE shipping costs surge 300% to 500% after maritime disruptions",
+   "original_title": "UAE shipping costs surge 300% to 500% after maritime disruptions",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3M0MmNWdlBERFNDaGFmS3RSdTB3c09JdGxtT1dSSnlvUkVfNkp6ekVrTi1HLWVIR1BRczhqQ1FBTDh2bzlOenRLOVZiNmt0UEdsbXJYVEVBbnhURUV1SmptRjdaTjc0ZUdUZ3pHTTd5MEJQMEFUaFBOV3hvdmdRWDlRV0c2bVJta2RUWWQzQTlDblBFQVdOTllWQ3RLaW5tcHpoV2l2bXRHSm5TODRQMGl0cGI3TWtBclZIZ1IzTDjSAcABQVVfeXFMTUtzNDJjVnZQRERTQ2hhZkt0UnUwd3NPSXRsbU9XUkp5b1JFXzZKenpFa04tRy1lSEdQUXM4akNRQUw4dm85Tnp0SzlWYjZrdFBHbG1yWFRFQW54VEVFdUpqbUY3Wk43NGVHVGd6R003eTBCUDBBVGhQTld4b3ZnUVg5UVdHNm1SbWtkVFlkM0E5Q25QRUFXTk5ZVkN0S2lubXB6aFdpdm10R0puUzg0UDBpdHBiN01rQXJWSGdSM0w4?oc=5",
+   "source": "Gulf News",
+   "published": "2026-10-02T10:32+00:00",
+   "added": "2026-10-02T14:06+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "disruption",
+    "shipping"
+   ],
+   "summary": "UAE shipping costs surge 300% to 500% after maritime disruptions Gulf News",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -1564,6 +1674,31 @@
    ],
    "summary": "Adriatic Gate Container Terminal in Rijeka hits 4m TEU milestone WorldCargo News",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e9de6ee14154",
+   "title": "Turkey increased steel exports by 3.1% y/y in January–August",
+   "original_title": "Turkey increased steel exports by 3.1% y/y in January–August",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR3RIdGRhZV9hV3RrRmVSNHZ3emJTcEk2bUJoYmlRQVFrLXdlU3JUVUJwaWw4bDRZQzFjejVHRTNSNkhwRTVZVFpYQzZNOWF2QWtBUVRhMGJTLWVvMkxCUXQ5RFFBY2h4bTlrZzdoM3p5X2FIQk5GQWU4VlRGUjBBUXdsN0hvaEpxbkg3X1BCWEE5RlRtVWfSAZYBQVVfeXFMTkd0SHRkYWVfYVd0a0ZlUjR2d3piU3BJNm1CaGJpUUFRay13ZVNyVFVCcGlsOGw0WUMxY3o1R0UzUjZIcEU1WVRaWEM2TTlhdkFrQVFUYTBiUy1lbzJMQlF0OURRQWNoeG05a2c3aDN6eV9hSEJORkFlOFZURlIwQVF3bDdIb2hKcW5IN19QQlhBOUZUbVVn?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-02T07:31+00:00",
+   "added": "2026-10-02T14:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "Turkey increased steel exports by 3.1% y/y in January–August GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -14159,6 +14294,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "e86f674bdfb2",
+   "title": "Cleveland-Cliffs Backed Trump’s Steel Tariffs. Now, Its Canadian Operations Are Idled.",
+   "original_title": "Cleveland-Cliffs Backed Trump’s Steel Tariffs. Now, Its Canadian Operations Are Idled.",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZXZ3STJtQ1Fad1ZyQ2ozazByVThQd1E3UlotQ05KN19XaHA3clAwWVpTZ3UzSWFObUtGLUNIS1VycWZyTnlfSm90UHRPZWdfdjZFSmN3UWU4M0MwZXNhdE1xZG5VTE1BM2FNamhNOUFXZGlLbFdyWl8xb29NanE5UkJ1WEwtczdxX09sZmE3TnRLYmttcDZMcG9IdHFBMmdsUl9zLWVmUlRXUQ?oc=5",
+   "source": "the deep dive",
+   "published": "2026-09-29T10:21+00:00",
+   "added": "2026-10-02T14:06+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "steel",
+    "tariff"
+   ],
+   "summary": "Cleveland-Cliffs Backed Trump’s Steel Tariffs. Now, Its Canadian Operations Are Idled. the deep dive",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
    "id": "33375ad0ee43",
    "title": "Elbląski port czeka na pogłębienie toru wodnego. W planach terminal T2",
    "original_title": "Elbląski port czeka na pogłębienie toru wodnego. W planach terminal T2",
@@ -16171,167 +16333,6 @@
    ],
    "summary": "Steel roll prices in Europe are rising amid weak demand and limited imports Металлургпром",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b63be5a26a83",
-   "title": "Additional investments in Middle Corridor will need to be considered in 2030s – WB",
-   "original_title": "Additional investments in Middle Corridor will need to be considered in 2030s – WB",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yS05BeXhZS1Jtb3RXZXZuVTRsT2lLOHA3eWEyRS1SSXJNelh2ZFBDTTV3S0JVbFdNTzFxeG50QUNVZE1rdm1LaXU1YjlUcWgz?oc=5",
-   "source": "trend.az",
-   "published": "2026-09-28T17:58+00:00",
-   "added": "2026-10-01T19:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Additional investments in Middle Corridor will need to be considered in 2030s – WB trend.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2fd5cfee0b07",
-   "title": "Middle Corridor could become catalyst for job creation – WB",
-   "original_title": "Middle Corridor could become catalyst for job creation – WB",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80Q2xnb1RISU5xbkVPR1A3SG1PakhFYmhFMEdNOVNzSTFlak5MNWtmZU5fQ3dBMml6THpyelVVa2x6NkttZm5WTW1QdjlUQjdy?oc=5",
-   "source": "trend.az",
-   "published": "2026-09-28T17:54+00:00",
-   "added": "2026-10-01T19:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Middle Corridor could become catalyst for job creation – WB trend.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ad4620cefc7f",
-   "title": "Britain needs tougher steel trade defenses, Cabinet minister says",
-   "original_title": "Britain needs tougher steel trade defenses, Cabinet minister says",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU21LUmhRWVZ1TGZtVXR6eXRzRmFQS29XMElkblBhXy1Vd1lVWXRzYmxQeFZTNHUzLVA0bzBaenl2RjJPLTFzT2ZJbXVleGcwaldxUXBrSlBlOU1uNWdybzRuZnJTd0xmYkhKM3cxWWllNXlIRTFFUlVnQ1BFeHo0NE5USmtyT3NOT2lMRmlvNA?oc=5",
-   "source": "politico.eu",
-   "published": "2026-09-28T17:32+00:00",
-   "added": "2026-10-01T21:22+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Western Europe",
-    "EU institutions"
-   ],
-   "tags": [
-    "defense",
-    "eu ",
-    "steel"
-   ],
-   "summary": "Britain needs tougher steel trade defenses, Cabinet minister says politico.eu",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d05ce793bfab",
-   "title": "107 Vessels Join Russia Flag Registry Amid EU Sanctions",
-   "original_title": "107 Vessels Join Russia Flag Registry Amid EU Sanctions",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGY2TFp3UjJGTFl0d3ptUk9ibUkyTkZqeEhwY05tSUE5ZWhpS0x6bXBZZmxGVWN0Y2o4eDdfeko5MmFFUGdtYlJ2SVd3U2oxWkpOdkR4RGVXaWJuYzAzdkJ5QjRLOW1pSHNhM1B0Rk5Xa2xWa2xxbHJWQUl2QVpwMkZ3Mm4zY215VXJveDg4OUNiQQ?oc=5",
-   "source": "Sea News",
-   "published": "2026-09-28T17:15+00:00",
-   "added": "2026-10-01T16:47+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Russia & Belarus",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "russia",
-    "sanction",
-    "vessel"
-   ],
-   "summary": "107 Vessels Join Russia Flag Registry Amid EU Sanctions Sea News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d3916bdc6b9e",
-   "title": "Konecranes targets 7% growth for Port Solutions under new strategy",
-   "original_title": "Konecranes targets 7% growth for Port Solutions under new strategy",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZjFleGg0ODA0Z2JXX0ZXaUVpZXhtczhKaWRMVHIwSDJZQXA5MjRndHFwR0hlOXE5MFJLWVR4M0hDeGNWZ2RxWGt3NWozcmdGSjhvdWpaT1UySkE1NjZmTFotcVJwTVVxSmZPUThmdUpNdXdvS0o4QlU5aEU3UkFueXpOd2JTNTZtYzFMb252NW5HZmQtT2EwTw?oc=5",
-   "source": "Container News",
-   "published": "2026-09-28T17:00+00:00",
-   "added": "2026-10-01T17:03+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "konecranes",
-    "port"
-   ],
-   "summary": "Konecranes targets 7% growth for Port Solutions under new strategy Container News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "22e1c94ace50",
-   "title": "WB: Reforms, infrastructure investments in Middle Corridor to cut transit time by two-thirds",
-   "original_title": "WB: Reforms, infrastructure investments in Middle Corridor to cut transit time by two-thirds",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPemJQM3BsQnh3ZEswdWE2OGljZ1I1YVhLcjBPa3dGX3ZSUEY0cWI4dk1OUmVER0JTbHFVOTdwVUJCbU1QT3hfVlBkRFNOSFNSNDdZbndnd054TWpaN2o1NHluemlUc3d2akhQZ09FTTdVakptV2VyVkI5UXA1M3NGdlU3R0NURTdhQjQwUHphQnBVTzRzTEZ5cnAwbVQ2c3A3ZnVkbll1emNDUnNReDNPVXJVeWxkUWNkeVNNb2dBRWNzVkpkNEZDQUln0gHKAUFVX3lxTE96YlAzcGxCeHdkSzB1YTY4aWNnUjVhWEtyME9rd0ZfdlJQRjRxYjh2TU5SZURHQlNscVU5N3BVQkJtTVBPeF9WUGREU05IU1I0N1lud2d3TnhNalo3ajU0eW56aVRzd3ZqSFBnT0VNN1VqSm1XZXJWQjlRcDUzc0Z2VTdHQ1RFN2FCNDBQemFCcFVPNHNMRnlycDBtVDZzcDdmdWRuWXV6Y0NSc1F4M09VclV5bGRRY2R5U01vZ0FFY3NWSmQ0RkNBSWc?oc=5",
-   "source": "Report.az",
-   "published": "2026-09-28T16:47+00:00",
-   "added": "2026-10-01T19:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "WB: Reforms, infrastructure investments in Middle Corridor to cut transit time by two-thirds Report.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
