@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T12:43+00:00",
+ "generated_at": "2026-10-02T13:02+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "38c1373d6a57",
+   "title": "Peru's Callao port to increase reefer plugs by 25%",
+   "original_title": "Peru's Callao port to increase reefer plugs by 25%",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeEZPSmRUSlk0ZGFiME9mLWNzNC0zUmpZb0FIdzJEWnZISzhzQTNxdDJtUndaaXRwN1l0eDJlYy1mQ3BkSGh4QVVualpKU3VoakhzdkdnV1BjU0o1MmFSWVg1azA1NlVUREg2OEw0clJQcndyWnlzOFEtQjRaXzFuZDctdzFIc05QOTRmZlJSa3h3QWIxa2tQUExRWXlpdlhxZUE?oc=5",
+   "source": "Fresh Plaza",
+   "published": "2026-10-02T12:43+00:00",
+   "added": "2026-10-02T13:02+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Peru's Callao port to increase reefer plugs by 25% Fresh Plaza",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "6fab50e429e5",
    "title": "Pressure on India-US trades as Colombo becomes a transhipment hot-spot",
@@ -149,6 +174,34 @@
    "summary": "Later this month, finance ministers from APEC’s 21 member economies meet in Hong Kong, the first time the city has hosted the gathering. On their table is a digital infrastructure financing initiative, prepared with the Asian Infrastructure Investment Bank (AIIB), aimed at funding gaps in broadband, cloud computing and data centers. It will be presented as development policy. Shippers, forwarders and port operators should read it as trade policy, because data centers now behave like ports: they concentrate cargo, ...",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "ae556076c156",
+   "title": "Hamburg Port Could Become Key NATO Hub for Moving Troops and Heavy Equipment",
+   "original_title": "Hamburg Port Could Become Key NATO Hub for Moving Troops and Heavy Equipment",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc1hUOGw0UnB2VFdkdHllUS1zYmM0ck10dGdDSzVSRWdxMW50ZGJLcmEzLVU2NEZ1MUNNVlpEZzFhY2pqZFJsQXBOTm5mWnNKeGdBLUFzMkt4QklSYnlJRTJFbHU3VjM0NV9rSElTb21PQWVhcmRlLXhKQWgtMTFwQ2N3a2s2bS14a2l2TU5fb0VXM3BLUlZ1akdheXlIUDBaOUtES1ZYbVJWd0tfbTFET1JBajJfVW1XRkRN?oc=5",
+   "source": "Rus Tourism News",
+   "published": "2026-10-02T10:22+00:00",
+   "added": "2026-10-02T13:02+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "hamburg",
+    "nato",
+    "port"
+   ],
+   "summary": "Hamburg Port Could Become Key NATO Hub for Moving Troops and Heavy Equipment Rus Tourism News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "20fc58744c6d",
@@ -1409,6 +1462,33 @@
    ],
    "summary": "Four new STS cranes boost DP World UK capacity WorldCargo News",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "50575ea5a874",
+   "title": "Zmiany w zarządzie PKP CARGO. Spółka kontynuuje proces restrukturyzacji",
+   "original_title": "Zmiany w zarządzie PKP CARGO. Spółka kontynuuje proces restrukturyzacji",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUEhxMUluSHdiM2U5SEVwOEVBRmFOVjV6NW4tNlZLdFl6ekE1ZkNwQUFkaDVTdkc1dGI5aVdPUnlTQUdvMGxNUXlELVdiaXFudmZQWHY0RHFvQVYzYlA2ZE5ZWW5Obkd3UXJWRkZpMEV6N3RSS2o2UDF3SmItd1RJZVRsbU5sMUtobmNoOGRMaWJULWl4czNzRkxDOGpNQQ?oc=5",
+   "source": "Raport Kolejowy",
+   "published": "2026-10-02T06:27+00:00",
+   "added": "2026-10-02T13:02+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "pkp cargo",
+    "restrukturyzacj"
+   ],
+   "summary": "Zmiany w zarządzie PKP CARGO. Spółka kontynuuje proces restrukturyzacji Raport Kolejowy",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -16247,90 +16327,6 @@
    ],
    "summary": "WB recommends that Azerbaijan Railways continue tariff reforms Report.az",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7b9bba84c913",
-   "title": "Ukraine Asks EU for €1.1 Billion to Reroute Agricultural Exports",
-   "original_title": "Ukraine Asks EU for €1.1 Billion to Reroute Agricultural Exports",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hVnMyaUJ6TjhmNWlyZUEzREtfaWdyLXFSUHpoWDZGQnhYVXdFbDRLc2VvODl2ODR0dWlGRXpvcGVEbHlldVpJM0dtbnVhbHhUaHdjUF9SeVJfS0s1VjNiNDBn?oc=5",
-   "source": "Межа. Новини України.",
-   "published": "2026-09-28T13:53+00:00",
-   "added": "2026-10-01T18:29+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Ukraine & Black Sea",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "rerout",
-    "ukraine"
-   ],
-   "summary": "Ukraine Asks EU for €1.1 Billion to Reroute Agricultural Exports Межа. Новини України.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8d94488ec6fc",
-   "title": "Szczecin-Goleniów wydłuża termin drugiego przetargu na rozbudowę terminala - rynek-lotniczy.pl",
-   "original_title": "Szczecin-Goleniów wydłuża termin drugiego przetargu na rozbudowę terminala - rynek-lotniczy.pl",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd1R6Q01DbWFTZHBrRUp6anRCb3hpUUxueVg4d2dtZnBtSGxoWHdRVDhjSFRzdVkzVDVOQjRJejhsSzRkY0FkaWRYZnV6bEEtZm1TTEUxcTBqTFU0ZXZPbnV3Z0FQMWgyS0R4bkNSdzRwOWpXblBST1Z5dXl0Y3lGbmxWYnNzaHROMFFBQ0hWZ2lVWjAtNHZ5Z1NvdklUblVtb0EzVGNBN3BhRTlpdlZYV2d1SW1Sc3ptTy1mMmRwY2tkeUxN?oc=5",
-   "source": "rynek-lotniczy.pl",
-   "published": "2026-09-28T13:36+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "high",
-   "score": 8,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "szczecin",
-    "terminal"
-   ],
-   "summary": "Szczecin-Goleniów wydłuża termin drugiego przetargu na rozbudowę terminala rynek-lotniczy.pl",
-   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "06611c5acea3",
-   "title": "Indonesia's Coal Exports Sink 23% as Global Demand Heads for a Record",
-   "original_title": "Indonesia's Coal Exports Sink 23% as Global Demand Heads for a Record",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOUNaN1YyVXB3ZU54d2U3SEh6djNyeU9ILUlpd2JIZm1zSmRZaXhIdWVxaTFlWEY1U3AwdGVrcHZPY3BxYTZBUXFJeF9acG5GNHpJMzRZVzNNZ2dLTUxtMFhDRm1SMjJCeEJ6bWNXTENUZURxMFV1UVlBbENhQWk4eTRvQkRjT1lVZlNDR01ScnFiQ1NsWUlnYUd2TkFRcXY5c21TeUlmVTl1MjNRU3BhMExoNWdOTTRyUkVYdmUzY3TSAcYBQVVfeXFMUFFfWHRiX1J3RHN4WlRlSk5PbDhDMGh4NVVQSTNUZVZza2ZoRGdSdlJ2emJRUWR0VWZ1T1JObTBOWk1ueUdPTXA1S2xWWVM0emVmNlRuWU1LX2YzcnZPWkQ4R1YySjVHcXBrd010cU9Ccy13cWpyaGR5MGtwaEN6MkYxQ3pwTS1JT3FRTlRWaE9tVi1VZDF1QjNPZXZ1MTF2QWRVc3lzSXhVT1lLamowbHdrZUZKRF82UEpYS3VyOTVsSGUzb01n?oc=5",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "2026-09-28T13:30+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "coal",
-    "crude",
-    "oil price",
-    "prices"
-   ],
-   "summary": "Indonesia's Coal Exports Sink 23% as Global Demand Heads for a Record Crude Oil Prices Today | OilPrice.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
