@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T12:17+00:00",
+ "generated_at": "2026-10-02T12:43+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6fab50e429e5",
+   "title": "Pressure on India-US trades as Colombo becomes a transhipment hot-spot",
+   "original_title": "Pressure on India-US trades as Colombo becomes a transhipment hot-spot",
+   "url": "https://theloadstar.com/pressure-on-india-us-trades-as-colombo-becomes-transhipment-hot-spot/",
+   "source": "The Loadstar",
+   "published": "2026-10-02T12:19+00:00",
+   "added": "2026-10-02T12:43+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "congestion",
+    "forwarder"
+   ],
+   "summary": "Colombo’s increasing popularity as a transhipment hub is heaping cost pressure onto forwarders and shippers on the India-US tradelane, the Sri Lankan gateway’s newfound revenue stream having provoked a worsening tide of congestion. Recognising India is facing its own congestion issues, particularly at Mundra and Nhava Sheva, CH Robinson said Colombo’s status as a transhipment hot-spot was elevating the risks of rolled cargo. “When mainline services omit Colombo to recover schedules, South India cargo can miss planned connections even when space is available on the onward vessel. Feeder timing, container availability, dwell time during transhipping, and whether the mainline vessel makes its planned Colombo port call determine whether the container can use space,” it said. Consequently, the forwarder warned, the issue cargo owners were being left to grapple with was not just whether they could secure allocations, but whether the feeder and mainline connections on these routings would hold together. Much of the congestion Colombo is contending with is a consequence of vessels and services routing away from their traditional transhipment hubs in the Middle East, amid the war between the US and Iran – a situation that seems to have affected US consumers most.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "4861f5f650a2",
    "title": "Haoxin Holdings Limited Announces U.S. Logistics Acquisition Initiative as Part of North American Expansion",
@@ -16304,31 +16331,6 @@
    ],
    "summary": "Indonesia's Coal Exports Sink 23% as Global Demand Heads for a Record Crude Oil Prices Today | OilPrice.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6c3e6cdecdfd",
-   "title": "WB estimates benefits of Middle Corridor for Azerbaijan at $1.3B in GDP growth",
-   "original_title": "WB estimates benefits of Middle Corridor for Azerbaijan at $1.3B in GDP growth",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUkhLWjR6Zk1qXzVtb29HZzRKTWtVV2U5UkJmY2RsWHNKbm5BaHVUNTlfelVxeXNmRGsteEt0UnBjU3JYLWVxd2dVSzAzLU5JV21SZ3RCVWxWbU44VllWelpiSVFxc2VfR3ZLVFhWOHZJaVZULTFfcEdkWXBIR3J6di1xSmJNbmxpblc3QUNja1VZN2xvZ3ZLbkswcnk3SVR4ZTZIb0hiU0IwR21oQUJMUHdEX0ZzZUow0gG4AUFVX3lxTE9SSEtaNHpmTWpfNW1vb0dnNEpNa1VXZTlSQmZjZGxYc0pubkFodVQ1OV96VXF5c2ZEay14S3RScGNTclgtZXF3Z1VLMDMtTklXbVJndEJVbFZtTjhWWVZ6WmJJUXFzZV9HdktUWFY4dklpVlQtMV9wR2RZcEhHcnp2LXFKYk1ubGluVzdBQ2NrVVk3bG9ndktuSzByeTdJVHhlNkhvSGJTQjBHbWhBQkxQd0RfRnNlSjA?oc=5",
-   "source": "Report.az",
-   "published": "2026-09-28T13:29+00:00",
-   "added": "2026-10-01T20:26+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "WB estimates benefits of Middle Corridor for Azerbaijan at $1.3B in GDP growth Report.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
