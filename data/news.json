@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T05:00+00:00",
+ "generated_at": "2026-10-02T05:22+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,62 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "5f5f500bedce",
+   "title": "South Africa advances landmark ports shake-up",
+   "original_title": "South Africa advances landmark ports shake-up",
+   "url": "https://splash247.com/south-africa-advances-landmark-ports-shake-up/",
+   "source": "Splash247",
+   "published": "2026-10-02T05:07+00:00",
+   "added": "2026-10-02T05:22+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "restructuring"
+   ],
+   "summary": "South Africa is pressing ahead with one of the most significant restructurings of its troubled ports sector in decades, with cabinet backing the separation of Transnet National Ports Authority (TNPA) from Transnet and its establishment as a standalone state-owned company. The move would see the country’s national port landlord owned directly by the state rather than sitting within the Transnet group. Cabinet has also approved a feasibility study into bringing in a minority equity partner from one of South Africa’s development finance institutions. South Africa’s ports have endured a prolonged period of congestion, equipment shortages, inadequate maintenance and declining productivity. Durban plunged back into heavy congestion in August, with vessels facing waits of eight to 12 days and some carriers reporting delays of up to 20 days following disruption around the terminal’s operating-system change. Private capital is increasingly central to Pretoria’s attempted ports revival. ICTSI began operating Durban’s flagship Pier 2 terminal this year under a 25-year partnership involving around R11bn ($638m) of investment after a lengthy legal battle delayed the concession. TNPA has also launched private-sector processes covering Cape Town’s multipurpose terminal, a new floating drydock there and the Richards Bay dry bulk terminal, while Transnet last week opened the qualification process for a private partner for the R30bn-R44bn Ngqura manganese corridor.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "5085a81e5bdf",
+   "title": "Pakistan export orders at risk as Middle East shipping disruption raises costs",
+   "original_title": "Pakistan export orders at risk as Middle East shipping disruption raises costs",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYmhpZjV5Y2dLZllwN1pfbUJCV3pBQzFwRV9zWTBrbWZ5clcxNjNFN1N5OTFHWEM4amNiMWdvTFFqRmNzZkQ5YlhuSW9YZS1RUDIwSDAwcHRvdmczX1c3YlBxZ0pkX3VVR2prTDZwd0NLU25oMUhJb3R3YXNKRG8yNzkzWGNVY1hicnFtc19nQ29UUG5qWDhncXViZEx5VjNncUxiNHB1bjI0MDREZ05HM2ZzTzNOMHNXRmlV?oc=5",
+   "source": "Arab News PK",
+   "published": "2026-10-02T04:41+00:00",
+   "added": "2026-10-02T05:22+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "disruption",
+    "shipping"
+   ],
+   "summary": "Pakistan export orders at risk as Middle East shipping disruption raises costs Arab News PK",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "071add5945d6",
    "title": "Iron ore prices dip to lowest level in past year",
@@ -10536,6 +10592,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "582c392ab503",
+   "title": "Grain Transit from Belarus Sharply Increased in Latvia. In Nine Months, 913 Times More Than in the Entire Las",
+   "original_title": "Grain Transit from Belarus Sharply Increased in Latvia. In Nine Months, 913 Times More Than in the Entire Las",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EMGlVUlNiMDVaN2RqUU5GTmh0ZkFadGRUazFSRjFfakYwXzJONEZVcnJtZUNOODJzRUlEUVQzWGpzNHpGWEp5bEk0QdIBS0FVX3lxTE5EMGlVUlNiMDVaN2RqUU5GTmh0ZkFadGRUazFSRjFfakYwXzJONEZVcnJtZUNOODJzRUlEUVQzWGpzNHpGWEp5bEk0QQ?oc=5",
+   "source": "nashaniva.com",
+   "published": "2026-09-29T13:34+00:00",
+   "added": "2026-10-02T05:22+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "belarus",
+    "grain"
+   ],
+   "summary": "Grain Transit from Belarus Sharply Increased in Latvia. In Nine Months, 913 Times More Than in the Entire Las nashaniva.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4fc7aef5cd88",
    "title": "Fears for Welsh steel plant after India handed expanded import quota",
    "original_title": "Fears for Welsh steel plant after India handed expanded import quota",
@@ -11484,6 +11568,34 @@
    ],
    "summary": "Port IslandGdańsk Investmap.pl",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f399eff06101",
+   "title": "China: Iron ore spot prices decline by $1/t ahead of holidays",
+   "original_title": "China: Iron ore spot prices decline by $1/t ahead of holidays",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZU9JZ1hpaFZuNDAzcUp5NjAtMG83Z0tnZFdpcWU0c01HaHBhTjdUVXFOQ3A3RVAzZTBJU1dqWlJoVVlfOXFHMHlKTUxvbmJLREVNUEVXU2xwRFJ6Z3FFSjd4ZmtFYmZSaFdlSDRCOUVtRHdHQTFseFlFUzdCeXdxUWZMeS1FUzhpSkJZRE5KVDlrbFZVUUtyR0FTWndqaVNFd3U0ZEtPcmM?oc=5",
+   "source": "BigMint",
+   "published": "2026-09-29T08:34+00:00",
+   "added": "2026-10-02T05:22+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "iron ore",
+    "prices"
+   ],
+   "summary": "China: Iron ore spot prices decline by $1/t ahead of holidays BigMint",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -14868,6 +14980,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "ab66c2d6a466",
+   "title": "EU Urges US to Avoid Diesel Export Ban: Europe's Supply at Risk - News and Statistics",
+   "original_title": "EU Urges US to Avoid Diesel Export Ban: Europe's Supply at Risk - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZl9QTk5ocHN5d2NlaXRVTVp2ZHRiY3ZrU3h3Q3lzQUxkOWxNQTNlWllpVXhKT3BYZXR2aDNNeF9vV1NkMTkwNVUtcG9hanRySHl4YmF2Qk4xM3pFb1RTMWtfbVZxUmM2WU5leDY0TUZ5YTg4QUJpZEs4N0tSWF9zMWVrVUhURVZ1bjR5RG9GY2NXa3RTSHFuaktTQ2VDZw?oc=5",
+   "source": "IndexBox",
+   "published": "2026-09-28T04:21+00:00",
+   "added": "2026-10-02T05:22+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "diesel",
+    "eu "
+   ],
+   "summary": "EU Urges US to Avoid Diesel Export Ban: Europe's Supply at Risk - News and Statistics IndexBox",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "8b56cb215013",
    "title": "Interferry: Unlock the Full Electrification Potential Through EU ETS",
    "original_title": "Interferry: Unlock the Full Electrification Potential Through EU ETS",
@@ -16203,140 +16341,6 @@
    ],
    "summary": "Middle Corridor Debate Shifts From Geopolitics to Commercial Viability The Times Of Central Asia",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bf092a353eef",
-   "title": "Transnet Issues RFQ for Strategic Partner in Ngqura Manganese Export Corridor Project",
-   "original_title": "Transnet Issues RFQ for Strategic Partner in Ngqura Manganese Export Corridor Project",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2VLXzNLNkpaTGt6SnNnUnlaM1VIU2NmUmc3RkZLaHJVR0RLWVVMQnE1bnpEcXd2eWJpNjUzZ3ltd3hYcHg1bl9QME5TN2lKYTR5UGZ0LW9LV0laVjhFMU0ycTNfeXV3TVp2dTR6QzhIN2NRS0YtRWc3M2tSb09SX18tQzZ0MHdsWDRoLVQtSmNibEhjZ0s5dl92OERIY3BmMms0MnFJM0o1THVZeXdtS18ya3cwOHVPQWF6ek5B?oc=5",
-   "source": "railwaysafrica.com",
-   "published": "2026-09-25T13:46+00:00",
-   "added": "2026-10-01T19:49+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "railway",
-    "railways"
-   ],
-   "summary": "Transnet Issues RFQ for Strategic Partner in Ngqura Manganese Export Corridor Project railwaysafrica.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fcbd2bd823f8",
-   "title": "EU Farm Ministers Face CAP and Fertiliser Decisions as 2028 Budget Talks Advance",
-   "original_title": "EU Farm Ministers Face CAP and Fertiliser Decisions as 2028 Budget Talks Advance",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PaTRFMjZlMHY4cG5fM3ZIaWtIVGZWQ2liSjJnOWtEOWZFenVwR2dRb2lPbW1EYU0ydGpZV3RtRGpiQmd1VXhKYm1iVEFTeXh5S0RQNW1sempRNUNXOG9tdERST0dyYm5aaE5hZDRqUHdyQzA?oc=5",
-   "source": "EU Today",
-   "published": "2026-09-25T13:37+00:00",
-   "added": "2026-10-01T17:47+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "fertiliser"
-   ],
-   "summary": "EU Farm Ministers Face CAP and Fertiliser Decisions as 2028 Budget Talks Advance EU Today",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cf2140774383",
-   "title": "Record-breaking ‘InnoTrans of superlatives’ concludes",
-   "original_title": "Record-breaking ‘InnoTrans of superlatives’ concludes",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWV9HRGd5RG4wUWVnN3A0ek9PUURxUkUtLXVwbDhaT1c1c0p5NVE3RGZsV1hfNXc0ZVRiT3l4VVJHNUJ3akkxSHM2U1NDUm9ldDNHcXBodUNUMXNzb0ZxUkdyOWhJY0VLRk1mUjNMc1A5cHJic2V1RmN3OVRSQmVhTWZ6eUFndHA3UDdFc01LeXFyS1k1S0k5TGZBV2hOQ3h0Wmp2WGpBRQ?oc=5",
-   "source": "railwaygazette.com",
-   "published": "2026-09-25T13:19+00:00",
-   "added": "2026-10-01T20:26+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "railway"
-   ],
-   "summary": "Record-breaking ‘InnoTrans of superlatives’ concludes railwaygazette.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4b6ae14436ad",
-   "title": "EU Electrical-Steel Safeguards Take Effect as Grid Supply Chain Faces Import Pressure",
-   "original_title": "EU Electrical-Steel Safeguards Take Effect as Grid Supply Chain Faces Import Pressure",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZcUxReFVYTTVfT040ekdvNDFlWkJhd2NMWnpnWXllTGRNMFJDLUlSTzBTLUJIU2hfZ2NmcUw5cWV1bmNJaHlfUlQtWmJNcWNreXNadGdJS2NfWTFFTVJHQlBEMGdHUTFsWFRIbjc2QV8?oc=5",
-   "source": "EU Today",
-   "published": "2026-09-25T13:17+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "high",
-   "score": 11,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "safeguard",
-    "steel",
-    "supply chain"
-   ],
-   "summary": "EU Electrical-Steel Safeguards Take Effect as Grid Supply Chain Faces Import Pressure EU Today",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d32f4e87b959",
-   "title": "Latvia Urgently Introduces Border Controls to Block Stolen Ukrainian Grain Transit",
-   "original_title": "Latvia Urgently Introduces Border Controls to Block Stolen Ukrainian Grain Transit",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTQ4NHhkTkg0eDlQeWV3NUpDaFZnc05IWl9JSU00czY5Y05qc3NURlMtTnRqdFlHaU5DRFlVSVViM2ZIbDh3MkNRWGZzd2N4TUxneTZRejM2NFgwVXJYRUhrS05va2thb2xpUTlndHU2RWZjS0JuSmxlY29hUmtpeUJEdHAzSHNFaWRtRW9DWXhhYUNjdjZEU203T1E1bGdfVHNLaTJnaDZWeHFJQ0Q3NUI1VGE4T1dlTWR2Zw?oc=5",
-   "source": "UNITED24 Media",
-   "published": "2026-09-25T13:17+00:00",
-   "added": "2026-10-01T19:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Baltic & Nordics",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "Latvia Urgently Introduces Border Controls to Block Stolen Ukrainian Grain Transit UNITED24 Media",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
