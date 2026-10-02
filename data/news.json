@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T13:26+00:00",
+ "generated_at": "2026-10-02T13:49+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "251fdfdaffff",
+   "title": "EU farmers face falling prices as fuel and fertiliser costs rise",
+   "original_title": "EU farmers face falling prices as fuel and fertiliser costs rise",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0xvdHc2ZzdxR1M4UUhnM0ZtRkZNWUlQSkl6Y2VTdG5oUm9TazRkVG14UzVySk1PUWFEbE9pOHozMFBveTlaMTVjblVRR2RRcWpOZm5PeVEtYnRDY3NsNWQ4Y255UnE2TzRpcUM3MFpBS2M4RHoxVng1dHo5b0E2VjVnYWQ0MzhtQURmanBaNDEwR3dTeTBUWGlXVW45TDhxOUpLWmlGY0ZoT2lp?oc=5",
+   "source": "Euronews.com",
+   "published": "2026-10-02T13:04+00:00",
+   "added": "2026-10-02T13:49+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "fertiliser",
+    "prices"
+   ],
+   "summary": "EU farmers face falling prices as fuel and fertiliser costs rise Euronews.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "40b887c2250a",
    "title": "Wheat prices climb as Russia, Ukraine seek export workarounds",
@@ -5401,6 +5428,33 @@
    ],
    "summary": "UK Unveils 31 Russia Sanctions, Targeting Shadow Fleet, Torturers, and Propagandists UNITED24 Media",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "43d187b1e5ca",
+   "title": "Portugal records biggest EU rise in house prices in second quarter",
+   "original_title": "Portugal records biggest EU rise in house prices in second quarter",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb1J5RXlhMzJNRzRBRU43aC1naC16VUFrUkRTb2hOYWY4U25QX0VKSEc2azFfbDBCVDRZT010V3hsX05Vd1JPWnNiMU9yMHhwV2tUZTViYlFkMEUyU2EtSkVEc1JOV3YtNE9iTGx3c3ZSSmllejlhUDctc1BsNTY4a1p0VG1KcUNmN3RpTXBmVTljR0taR2RQSWwwTjlyTjF2OW0xSg?oc=5",
+   "source": "Euronews.com",
+   "published": "2026-10-01T10:49+00:00",
+   "added": "2026-10-02T13:49+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "prices"
+   ],
+   "summary": "Portugal records biggest EU rise in house prices in second quarter Euronews.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16278,58 +16332,6 @@
    ],
    "summary": "WB: Reforms, infrastructure investments in Middle Corridor to cut transit time by two-thirds Report.az",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1d6faf01dfbc",
-   "title": "Taylor Machine Works expands reach stacker line with high-capacity container models",
-   "original_title": "Taylor Machine Works expands reach stacker line with high-capacity container models",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGlWbFBJR2ItcFRTYlcxa2dOQVowRUtsdXNXOWlzNUJVMFF2VDg0d0ZiQXRtNGhtNHJNem1PNXdtS09MbE93aXA0aWJjc0FtN1h4UWt4djZnSl9DMVhRb2NzeXMxRklPVVMtTGJmUUZJNzZPVFlRaTNaWTdHb1had0E0eGZsN3pfem5abXgzV21KeWdMQnpsOVp2SllEdFg1YjVIWDR1enU3OHExU3c?oc=5",
-   "source": "American Journal of Transportation",
-   "published": "2026-09-28T16:39+00:00",
-   "added": "2026-10-01T20:26+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "reach stacker"
-   ],
-   "summary": "Taylor Machine Works expands reach stacker line with high-capacity container models American Journal of Transportation",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "be8bb4037c09",
-   "title": "National Farmers Union calls on STB to reject proposed Union Pacific-Norfolk Southern merger",
-   "original_title": "National Farmers Union calls on STB to reject proposed Union Pacific-Norfolk Southern merger",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdE00enN3dU5TeGU1eGpkVENRY3FObEdyRXh4RmVsRHZONjh1T2JxWWc2RF8tU0F2UzhnVlM4QmhUVzdYSS1qVGFPNUhld2w4UnM2R0xtYXpyM0c2ZkU4TXJHcTY4d3pUQjRtcVdHZXdNYWpZVTVYV1lHUTNyc2dpWEF5Ni1adUE1a1VQZ1dIWnBPUndlZmRDSF9oYndtdGlDcGhWdzZBeDdRTmY1bjRuNVNVYXBKNFpFX250WURJMTBTRDdQejBPT3h3?oc=5",
-   "source": "Logistics Management",
-   "published": "2026-09-28T16:38+00:00",
-   "added": "2026-10-01T17:03+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistics",
-    "merger"
-   ],
-   "summary": "National Farmers Union calls on STB to reject proposed Union Pacific-Norfolk Southern merger Logistics Management",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   }
  ]
