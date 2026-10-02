@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T14:06+00:00",
+ "generated_at": "2026-10-02T14:30+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "403744bfd7b2",
+   "title": "Baltic dry bulk freight index edges up on capesize gains",
+   "original_title": "Baltic dry bulk freight index edges up on capesize gains",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjlkMkhNNF9WWVk1T2hiekYtcHNvY09VdFFrV2h5Qk1xTzR2WTZGRUMtYlRQRWt5YVY3NEUzYVBhQ1AyTFdaOWIyeVZTMHdrZ3NQZS1VTTlCOGF4dHEwN3VFLWppOC1IQ3poWmh4LVFpamVKX1J2V2MwbW1MQVpaZDdPb1FOaGVVQmY2VjhHZkdZR0ZwemJ3eGl5NEFWVEhHamRiRzhCQnFfbTR2dWdZN0NXTVVXcVBq?oc=5",
+   "source": "Investing.com",
+   "published": "2026-10-02T14:11+00:00",
+   "added": "2026-10-02T14:30+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "capesize",
+    "dry bulk"
+   ],
+   "summary": "Baltic dry bulk freight index edges up on capesize gains Investing.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "5fc8dd2037fc",
    "title": "A line of 150 ships has formed off Russian ports on the Baltic Sea",
@@ -42,6 +71,60 @@
    ],
    "summary": "A line of 150 ships has formed off Russian ports on the Baltic Sea UA.NEWS",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9ba1b31d90c3",
+   "title": "LVO group acquires majority stake in Seatram Logistics Group",
+   "original_title": "LVO group acquires majority stake in Seatram Logistics Group",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1I1UEI4UExUZkhnaTkzU3RtcjFMREt6LUhpSm1aUklwTWZCTW03bjJPcG81UmMwV0lQU0dWMV9iREFlOFNwdTQzWS13RE0tbDBPSXl6aE9lbmZMWjgzUHFsZjBQSktMMWtpRjBPV05qRWZvRmdvRXIxVDkzelNmakJXbWx0U1psdEFsZmFCMXR4ZUQ0NUdGVXZHUmVFbHc?oc=5",
+   "source": "Leaders League",
+   "published": "2026-10-02T13:56+00:00",
+   "added": "2026-10-02T14:30+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "logistics",
+    "stake"
+   ],
+   "summary": "LVO group acquires majority stake in Seatram Logistics Group Leaders League",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "84b647db151d",
+   "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
+   "original_title": "Trump vs Europe as US presses for release of emergency diesel stocks",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1ZaZUFQNlF2dlhrSzh4S3NTdk4wRnZlZGw1cXBKQmduVEUwSFV0NUFyQ1pIOHlEMjhVTXpCMmFtanJibll4UTk1RGhGOU9NYlBCcFZqNEN0cUNtdENTZllrTWVyS3dsYkN4QkVLWnR2cFlLQ3R1SGxCa0VybWZwc2xHbDJvNmdUWWJNSWh4anhrel9PWXdDdWtBOEc2YmxpeVNrSGdCVVFEemZWTWfSAbMBQVVfeXFMUGp2VFd5Ym5MR0l3YzR6YmFSOU1FcGRNQUhaNFJrWGc4N1ZRRC01UFFEbXNaQUF4aWZIdkdTcDFicjJtVnE3VWEyYVEzMGZHVnM5MjFBWnpFNy0zS3NOb3lmY2JkcFdVZUd6YzhvNDZocFN3Y1BMODlPOHItSkRXc3JMWDZRd2dmdjBkSU5SNzlUenphZ056ZW1veGNjNmNrSE5KTVdyOHFzTmhMdnc4NWdMY0E?oc=5",
+   "source": "Al Jazeera",
+   "published": "2026-10-02T13:26+00:00",
+   "added": "2026-10-02T14:30+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "diesel"
+   ],
+   "summary": "Trump vs Europe as US presses for release of emergency diesel stocks Al Jazeera",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -2215,6 +2298,33 @@
     "terminal"
    ],
    "summary": "New TOS for Turkey’s KUMPORT Terminal WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1ef31b5cf87b",
+   "title": "Kaduna Inland Dry Port emerges Best Dry Port in Africa",
+   "original_title": "Kaduna Inland Dry Port emerges Best Dry Port in Africa",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdjNRVmlFYlVaeFVtTUZRdVdlY21jLWFjbmwtckl1YWF5WDl4eF90R2dyTEpzWFV6ZlF1N0lNaWdvLXRGaEFzbHEzWjlSUjJjbUhGS2lOdGtrbnZZaEQwaGdISjgzallPV1M0NmtPSGdWWlFtU0R6LU5lczhSVVlzT0JOLWVMcFk?oc=5",
+   "source": "The Guardian Nigeria News",
+   "published": "2026-10-02T04:02+00:00",
+   "added": "2026-10-02T14:30+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "dry port",
+    "port"
+   ],
+   "summary": "Kaduna Inland Dry Port emerges Best Dry Port in Africa The Guardian Nigeria News",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -12142,6 +12252,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "96f9d722b657",
+   "title": "Chancay Port rides a new trade current",
+   "original_title": "Chancay Port rides a new trade current",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRHJ5RTNMSXRQSFlpb3NSR1Vyb2ZTd3dBT1ZIMlJyOFhtQ0hjcG5mMUpMUTFEeVJULWxta2RieVdfbTJyRjZ5Z2JwYldsSDJGejRSZElKdDc1RGtIa2EzTDd5a3V6a2dJNDdDdF9LRW1EUHdleUxyWWhZYnl3am5ZaXFR?oc=5",
+   "source": "China Daily Global Edition",
+   "published": "2026-09-30T00:58+00:00",
+   "added": "2026-10-02T14:30+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "port"
+   ],
+   "summary": "Chancay Port rides a new trade current China Daily Global Edition",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b878a84fb211",
    "title": "Shipping’s climate deal is drifting off course, expert warns",
    "original_title": "Shipping’s climate deal is drifting off course, expert warns",
@@ -16200,138 +16337,6 @@
     "dry bulk"
    ],
    "summary": "Baltic dry bulk index drops to near four-week low Baird Maritime",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bb71719b5b1c",
-   "title": "Middle Corridor could cut delivery times to 18–19 days by 2040 – WB",
-   "original_title": "Middle Corridor could cut delivery times to 18–19 days by 2040 – WB",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OUmxpMW13UGgxcE9yWTVGRFc0Y1VJSFpBRGRhUmdNWlhEcXFyYXRaNzdJM08xNFhzdVgzZEpMNzNxMEtRTXVnSzdKbGlxTGUy?oc=5",
-   "source": "trend.az",
-   "published": "2026-09-28T18:35+00:00",
-   "added": "2026-10-01T19:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Middle Corridor could cut delivery times to 18–19 days by 2040 – WB trend.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "28a63444490a",
-   "title": "Shipping giants sail cautiously back into Red Sea despite Houthi threats - Al-Monitor",
-   "original_title": "Shipping giants sail cautiously back into Red Sea despite Houthi threats - Al-Monitor",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzVQSk41TEExc0JjdWhXMFBYVVBJcDNTU2toaFpiRE1Ma0dyWXlEZWJJWGNmR214dHY3ZFRHalJnckZLeERRdmlmN3lBb2N5SjI4RzJpbDhXV2FLQjJ1SDJNSl9VbG12dkNOb1FrMDlvZ3EydHlGVmVRa2pLUGpQQkVvZFU1bzhWTUYxZjFLV3B5SVFxUEZtSkE3aFBtRlc4Wldqb0RZY2dMSERQMWpwZjh3?oc=5",
-   "source": "Al-Monitor",
-   "published": "2026-09-28T18:29+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "houthi",
-    "red sea",
-    "shipping"
-   ],
-   "summary": "Shipping giants sail cautiously back into Red Sea despite Houthi threats Al-Monitor",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ebf6057dfd2a",
-   "title": "Największy amerykański statek ro-ro wypłynął z Gdańska",
-   "original_title": "Największy amerykański statek ro-ro wypłynął z Gdańska",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVFhSSjJybnFXamQ1Tmc0QV9NbjhMODB2VTNwajVvdXJqVExjeDE2R0llQWRWZ3ZBbVlVc1ljZmhzMEVVMnBfc2lnTk9WdF83dzV4MVVMZ2x0YXZKLUdYZ2kzcFZMbE1HZk9YdlJuRUVxWDdINGwyVGdkRm0yVXpfMHhxNloxZGxBZTRRaTRZRnhKS0ViMzNz?oc=5",
-   "source": "GospodarkaMorska.pl",
-   "published": "2026-09-28T18:09+00:00",
-   "added": "2026-10-01T22:38+00:00",
-   "lang": "pl",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "gdansk",
-    "ro-ro"
-   ],
-   "summary": "Największy amerykański statek ro-ro wypłynął z Gdańska GospodarkaMorska.pl",
-   "why": "Freight market or carrier development affecting vessel calls and rates. Involves a Polish port.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8c187908f4c9",
-   "title": "Prices for rolled steel products in Italy are rising against the background of higher prices of raw materials and costs",
-   "original_title": "Prices for rolled steel products in Italy are rising against the background of higher prices of raw materials and costs",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeW5lMUstd2U0dWh3R2QyS1BWWEQ3am9YMVV1SDlhMUFiYl90UjVOdE1oTjhzV3JubEo0dllidGJTdEdydzIyWnAxbDBYelZ1V3dTWFFzN0NoTHZNRmtpMDFEdTFiRnlmTlNFNzhLejJ1czVfa2F0SS1jU3J5NHRWSWNEVmtpMDdhVTRoQmE4U2VvUU9aZE1KWUVaTlVNSWZ1ZlhZYnBsMk1VbmJoYU0zR0JPNVdtOENFalhmM1lVcXFJUDlnMDk3cjRNSGM2bUFwTXfSAeMBQVVfeXFMTnBnVHNIcWJ1TkdkMkFaNlVTQ2RLYlJOOGE0cWd3aXpvUTJndGtsR05vY2UxRVVfbGg0RWUxLUU0V1BpZm9PWGF0ZUhpSTFWeGhTUmFoMm03SEY5QXRWMFljcHZHT3hxaTJOc3V6ZWpTdEt1d0UzVXJVdXZVSHRhZTctcTVmODk5N0dsaDNPMWR3eTA5ekpocWVyQ3BVQ1NwaXQ5U1EzUlFPTnlnS2ZLX0pVelVReDl5YkNMTEtHWThkSHJjbi1CcjBabnpVaWRLSTAzbWRGcktWNWFGUGw0d21PbEE?oc=5",
-   "source": "Металлургпром",
-   "published": "2026-09-28T18:00+00:00",
-   "added": "2026-10-01T22:38+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "prices",
-    "steel"
-   ],
-   "summary": "Prices for rolled steel products in Italy are rising against the background of higher prices of raw materials and costs Металлургпром",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "275cea54f21c",
-   "title": "Steel roll prices in Europe are rising amid weak demand and limited imports",
-   "original_title": "Steel roll prices in Europe are rising amid weak demand and limited imports",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmQtZkR2Zjg4MGI4UV93dHZMQ1doMGFsRWZqTVlnNllCMmRNM1VTMzIyYU1YZVFQSF8za19lSjdTRGRnU1UzTG5zWFZReUVlUUhJYW1RSlVnQjlIczk5aXZzbnZ3SlBfVGJTNjB2aGxJOHV1bGo5RjZRcmpERWNVcm8tcHI0RHZoUXExNko2QXpHbkxtdVBGbkZBVW5jSFlUNmF3UC1LQ3kzbmpfU0NfWGFQNDM4Y1FDMWowVTN1TzdMN1o5bUs2dXFiV3VBakZyX2tz0gHkAUFVX3lxTE9lSEFoREJYbmMwWkZOY0xaSDJNSE9VYVZ5ckQwcnBlYUZFay1pZHpteXpOeFZwNmt5ODBIcDR6amNpbEZrNVBYQ29ucFlTMGU5ZDZWc25XUFpZYkc2WElWLWh5c192TGdxdzdCbV90Tnd3cTJORVI0T0hKSkQ4blh3Tl9xbDl3dUM3bVpRRG5mRWV6RnhYdDA0X1hKWkZBNXFvaEkxZUdlSEVnaDBiRHE2THpycHJnZjN5T3NPZzgtSFZLUmxWMlJldTluNGRZX1I1TlhoRVNsdi1yU1ZjR0NpSFhNQg?oc=5",
-   "source": "Металлургпром",
-   "published": "2026-09-28T18:00+00:00",
-   "added": "2026-10-01T22:54+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "prices",
-    "steel"
-   ],
-   "summary": "Steel roll prices in Europe are rising amid weak demand and limited imports Металлургпром",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
