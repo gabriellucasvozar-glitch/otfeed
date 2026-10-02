@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T05:41+00:00",
+ "generated_at": "2026-10-02T05:57+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "aaa3528853d2",
+   "title": "NYK plants flag in Silicon Valley",
+   "original_title": "NYK plants flag in Silicon Valley",
+   "url": "https://splash247.com/nyk-plants-flag-in-silicon-valley/",
+   "source": "Splash247",
+   "published": "2026-10-02T05:31+00:00",
+   "added": "2026-10-02T05:57+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "artificial intelligence",
+    "shipping"
+   ],
+   "summary": "Nippon Yusen Kaisha (NYK) is opening a new outpost in Silicon Valley as the Japanese shipping major looks to get closer to the startups, investors and research institutions shaping artificial intelligence, energy and digital technology. NYK Group Americas will establish a branch in Sunnyvale, California, this month, using it as a scouting and business development base for the wider Americas. The office will search for technologies and business models with potential applications across NYK’s shipping and logistics operations, with prospective ideas put through proof-of-concept projects, partnerships and, potentially, equity investments. The Japanese owner has previously invested in maritime technology venture fund theDOCK, AI company Ghelia and, earlier this year, unmanned surface vessel developer Oceanic Constellations. Silicon Valley and the wider San Francisco Bay Area already have some notable shipping connections. Its AI ship-performance technology has been deployed across more than 300 K Line vessels, while Mitsui OSK Lines has also worked with the company on fuel consumption and emissions optimisation. Across the bay in Alameda, Saildrone designs and builds autonomous surface vessels for ocean intelligence, mapping and defence. Its investors include shipping group Crowley, alongside a roster of Silicon Valley venture funds. Maersk Growth invested in Silicon Valley-based Prometheus Fuels in 2021, targeting its direct-air-capture technology as a potential route to low-carbon marine fuels.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "cbc7fa1c21c1",
    "title": "Gas prices: The US-Iran war is making Australia’s gas industry richer",
@@ -16310,33 +16337,6 @@
     "ukraine"
    ],
    "summary": "Ukraine Investigates Possible Polish Limits on Grain Storage During Transit Межа. Новини України.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2672cee58f47",
-   "title": "Ukraine's steel industry is nearing collapse — and calling for help from abroad",
-   "original_title": "Ukraine's steel industry is nearing collapse — and calling for help from abroad",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbGdtb2FXNW42X0JvTkJRQTRSQkVoS21WcW9obTU0UG5ETVdONndHUzN3czlnNUlJNnRXbnpzNm9SUU1YVUlVVmRPb3BiNXFQa09PV0hQN0dKdllOcEpUVVlzRVgtTk1JQ2psQVVRRHhqMWxWaVJEOHg3TUowd1lrOU5rTFlybndkTFl3SUFybDZzRVJrQXNlTHAxaEprT1dEWHpBMS05RDE?oc=5",
-   "source": "The Kyiv Independent",
-   "published": "2026-09-25T15:23+00:00",
-   "added": "2026-10-01T21:22+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "steel",
-    "ukraine"
-   ],
-   "summary": "Ukraine's steel industry is nearing collapse — and calling for help from abroad The Kyiv Independent",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
