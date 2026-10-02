@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T08:36+00:00",
+ "generated_at": "2026-10-02T08:54+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -14,13 +14,13 @@
  },
  "items": [
   {
-   "id": "5fd59fe321ac",
-   "title": "Attacks on grain ships in the Black Sea threaten to raise global food prices even more | CBC News",
-   "original_title": "Attacks on grain ships in the Black Sea threaten to raise global food prices even more | CBC News",
+   "id": "a33bc9454a44",
+   "title": "The Black Sea is the most dangerous it's been since the start of Russia’s war. And it's choking global grain",
+   "original_title": "The Black Sea is the most dangerous it's been since the start of Russia’s war. And it's choking global grain",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDB6enNFVXJjZ2tIU1IzdUJWdmhiNDc5bTJUeXpRWi1rUFU1UlNhdENxeE50YXdxOVppemlVVDNMaHpIenVHYVJneXN1ZXFFaFB0ZkpZc0tMNV9qOGJzLVhSNFJBdE5nOGhYbEkyNERqRzFFMDF3M2MyY1N2aW1laWxZV1Y?oc=5",
-   "source": "CBC",
+   "source": "cbc.ca",
    "published": "2026-10-02T08:00+00:00",
-   "added": "2026-10-02T08:36+00:00",
+   "added": "2026-10-02T08:54+00:00",
    "lang": "en",
    "category": "geopolitics",
    "categories": [
@@ -28,17 +28,18 @@
     "commodities"
    ],
    "priority": "medium",
-   "score": 10,
+   "score": 11,
    "regions": [
-    "Ukraine & Black Sea"
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
    ],
    "tags": [
-    "attack",
     "black sea",
     "grain",
-    "prices"
+    "russia",
+    "war"
    ],
-   "summary": "Attacks on grain ships in the Black Sea threaten to raise global food prices even more | CBC News CBC",
+   "summary": "The Black Sea is the most dangerous it's been since the start of Russia’s war. And it's choking global grain cbc.ca",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -5888,6 +5889,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "0946cd08380f",
+   "title": "India's steel secretary Sandeep Poundrik said the new policy targets 6",
+   "original_title": "India's steel secretary Sandeep Poundrik said the new policy targets 6",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZDNpZ1MtbUhTSTIzWkVaajY5cG0xbVZEOHFRWTIxWFJBZmNXek96US1FNXRqaWJxTXhRbldfZk5kb0hXNm9Uc3JQMTVsT3pYdl9TZkVHbExuLXdOckplUnl6MF9MdDk5TDRQYkpJQ0FxVVhVa1hqc1dkUVd3dXhFZXVsMF9uQ2F4dGtNMmdmTEZSMWN1NUV2eTByaFAxakNjTkdVZ2ZXcTNNUXh3aFFBQ3l0ZkxRYmQwYkpjNEhuZmo?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-01T02:46+00:00",
+   "added": "2026-10-02T08:54+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "India's steel secretary Sandeep Poundrik said the new policy targets 6 Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b36b3017eed6",
    "title": "[SMM Analysis] Behind the USD 15 Billion Iowa Mill, How Real Is America’s Steel Fortress and Who Pays for It",
    "original_title": "[SMM Analysis] Behind the USD 15 Billion Iowa Mill, How Real Is America’s Steel Fortress and Who Pays for It",
@@ -9380,6 +9406,33 @@
    ],
    "summary": "US tariffs are deepening the crisis in Canada's steel industry. Stelco Shanghai Metals Market",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3ac9123698b2",
+   "title": "Power Ministry Weighs Mandatory Imported Coal Blending",
+   "original_title": "Power Ministry Weighs Mandatory Imported Coal Blending",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZGM2cWtRanVidGxOWTMtUnJqLWFnSEN3d0ktLThYUUg1dHRJcWhKV3lmencwUDA1SWktX3dTV3p4TUlaSmhLc1YzVDhDeXAzOWUzaWphRVctd1lLWDVIYzdLWTNFU29HRENvdDNPZkZXMnB5UnlvWW9xcHJibHMwSmxsYmtCakszU21PZVROd2xOZEZhOGNKaGZMSVJ6R1lpSHhIcjJGMWJEckRwTXV6MDZSTnExWTFsX1lSeFZLV1ZaMWwzalVJQlJfdm9UZlFxWVVNZWltVlBiZw?oc=5",
+   "source": "Construction World",
+   "published": "2026-09-30T07:33+00:00",
+   "added": "2026-10-02T08:54+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "coal",
+    "ministry"
+   ],
+   "summary": "Power Ministry Weighs Mandatory Imported Coal Blending Construction World",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -13445,6 +13498,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "db87f0ff0583",
+   "title": "JNPA secures US$70 million IFC financing for shore power project - container-news.com",
+   "original_title": "JNPA secures US$70 million IFC financing for shore power project - container-news.com",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFdLUGxGSU1qN1ZqYWNZV09YaWZJUTY2aDdHeDF4RGFVMVlWRTRBNXdXZ1Eyei0ya1F1U3ZJWnBVdDJPRUN0ZWctSmJIcU5FOGdlRE84M183b2ZSLUVQUjB0bGZWVDRDLVRLeEZXRGRwN05PSUtQSUJmNWw1Q01Vcm5UQ2k1ZWJxclRiaFZhdzZkdXlDMXc?oc=5",
+   "source": "container-news.com",
+   "published": "2026-09-29T05:00+00:00",
+   "added": "2026-10-02T08:54+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "shore power"
+   ],
+   "summary": "JNPA secures US$70 million IFC financing for shore power project container-news.com",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "0b45b1f40514",
    "title": "Malaysia targets 100 million TEUs port capacity by 2035",
    "original_title": "Malaysia targets 100 million TEUs port capacity by 2035",
@@ -15852,6 +15930,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "d61dbf0afbd3",
+   "title": "Thyssenkrupp Extends Jacobs Contract at Hydrogen-Ready Duisburg Plant as Chinese Output Cuts Lift St",
+   "original_title": "Thyssenkrupp Extends Jacobs Contract at Hydrogen-Ready Duisburg Plant as Chinese Output Cuts Lift St",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObHpYM09xM1VVU2ltREZlMHpNa1hVemEtNHJiZ3B0b0RXaG9wRTVQYjBCSWkwQlhLRWFlbmZ5VTVvRHpFaXUybFp4Y2M3VThvNWw0NzZRWWhJd1B2REM5clhNUDZfc1M0V1BnLU5FRTdMYjhQU3ozaldBU09ZaTRSVVFYZGFBSmxlWDBmNTVxdGlFejFpUFlGNmlnY0JLbTY2MTZMd1NhOTJUN3V1S0dRVnkycEFFQ1pVZ3RCQi1lUkhOQ18wMUFLeVR4d3Qwb1MyTmhxa0JtUmdGMHBZ?oc=5",
+   "source": "AD HOC NEWS",
+   "published": "2026-09-28T07:10+00:00",
+   "added": "2026-10-02T08:54+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "chinese",
+    "hydrogen"
+   ],
+   "summary": "Thyssenkrupp Extends Jacobs Contract at Hydrogen-Ready Duisburg Plant as Chinese Output Cuts Lift St AD HOC NEWS",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "60016bcf48b8",
    "title": "Nafith to develop truck yard at Sokhna Port",
    "original_title": "Nafith to develop truck yard at Sokhna Port",
@@ -16233,109 +16338,6 @@
    ],
    "summary": "Are Coal Stocks Still Worth Buying in 2024? Key Risks, Returns & Investment Outlook Explained 36 Kr",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7dccac769859",
-   "title": "LDC upgrades to boost south-east’s bumper exports",
-   "original_title": "LDC upgrades to boost south-east’s bumper exports",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQktsa3JTUVNJbmxGdHdDbHNBeFpPQmxtdmU5Q1BCcEdRcG1Lbm9xTGJqM09NT3V4dTQxa2Z5ZDRoLWZzd0lqVng5emN3a2Y5bGdnUFBUcHJ0dEZGbUVnN25mSmZQV0hJXzIzS2xfOWxNUTBKYnBpZ1RRVko4TkJOLWtxWk9KWlA2ZnRV?oc=5",
-   "source": "Grain Central",
-   "published": "2026-09-27T23:35+00:00",
-   "added": "2026-10-02T01:52+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "LDC upgrades to boost south-east’s bumper exports Grain Central",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "babdeaae28d8",
-   "title": "Dry Bulk September 2026",
-   "original_title": "Dry Bulk September 2026",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGVFZrLWdnREpXVWlVOF9ZM296N21lT3FmMHlBczFldlFQMEk5TzlQYmUtanI2dWVheE8zOXEzclBwQ1NFaFRfajhDT1VWZW9tU1d1MmxCcFJPcnpsMG9wZHBvc2NuSDJRQWpr?oc=5",
-   "source": "World Coal",
-   "published": "2026-09-27T22:41+00:00",
-   "added": "2026-10-01T17:25+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "coal",
-    "dry bulk"
-   ],
-   "summary": "Dry Bulk September 2026 World Coal",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4ebf8361f901",
-   "title": "FG approves modernisation of Onne, Rivers, Delta, Calabar Ports",
-   "original_title": "FG approves modernisation of Onne, Rivers, Delta, Calabar Ports",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS2xrcjc5YUtNOXJES25XM0hnUno4UFZ4Y3MxNjI2ZTJ2ZFFJcWJLNkpaZU1DcVg4OERiaEVYTmttLW1MUEZZNHdGc0U4Y19WTk5nNlE3V1pvRGdxLXF2V1V1eHlTZXBhc04zSlRuN0w2eUI3ZWtrSGNyTHI0ZzhyWWc0amdUYXdBVkR6Zkh5RERFSzh4ZG9z?oc=5",
-   "source": "Nigerian NewsDirect",
-   "published": "2026-09-27T19:07+00:00",
-   "added": "2026-10-01T18:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "FG approves modernisation of Onne, Rivers, Delta, Calabar Ports Nigerian NewsDirect",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2caa20d99657",
-   "title": "Djibouti – New Regional Energy hub : 375,000 m³ terminal under construction",
-   "original_title": "Djibouti – New Regional Energy hub : 375,000 m³ terminal under construction",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMUVqeGxMQkVUT3hqbjctQm5wbU8yT2J0Rks3eUJUT09sNVV3TURLZ3p4NGpLczBOSzR0VlBlOXpkNGVCdS0zdlM0ck90dnpTSHhadndpREdOZ1RvR3V4UkFaY1VNNmRsbXRtZkJNR1RVcnBmNEd3OHFmVFl3ZWViTnFNSmNURW9tNGVxQ2kxZUtpMFUxQlBtVVhLN2RhNzR4?oc=5",
-   "source": "Africa24 TV",
-   "published": "2026-09-27T18:43+00:00",
-   "added": "2026-10-01T20:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Djibouti – New Regional Energy hub : 375,000 m³ terminal under construction Africa24 TV",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
