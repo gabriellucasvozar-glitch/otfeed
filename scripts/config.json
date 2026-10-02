@@ -2,6 +2,7 @@
   "_comment": "Sources and scoring rules for the OT Feed collector. Edit freely: add feeds, tune keyword weights, or change thresholds. Keywords are matched case- and accent-insensitively (so 'swinoujscie' also matches 'Świnoujście').",
   "retention_days": 60,
   "max_items": 600,
+  "archive_days": 365,
   "min_relevance": 3,
   "max_age_days_on_ingest": 10,
   "google_news": {

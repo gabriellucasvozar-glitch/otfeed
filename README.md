@@ -18,6 +18,10 @@ A static news tracker for a Polish port and logistics group. It collects sector 
 
 **Summaries.** Without an API key the collector builds an extractive summary from the article text (or the feed snippet if the page blocks bots). Add an `ANTHROPIC_API_KEY` repository secret and each new story is summarised by Claude in English (Polish sources included), with a "why it matters" line and a priority check that can also discard irrelevant items.
 
+## Feed size and archive
+
+The main feed (`data/news.json`) holds at most 600 stories from the last 60 days (`max_items`, `retention_days` in `scripts/config.json`). When new stories push older ones out, they move to monthly files in `data/archive/` and appear under the site's **Archive** tab. Archived stories are deleted after 365 days (`archive_days`).
+
 ## Keeping it private, then going live
 
 The repository is private. The scheduled workflow still runs there and keeps `data/news.json` current, but nothing is visible on the web yet.

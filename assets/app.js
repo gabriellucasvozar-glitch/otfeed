@@ -41,6 +41,10 @@
   let NOW = Date.now();
   let currentList = [];
   let openId = null;
+  // Archive: stories that left the main feed, in monthly files listed by data/archive/index.json.
+  const ARCH = { index: null, months: {}, sel: null, error: null };
+  const archItems = () => Object.values(ARCH.months).flat();
+  const findItem = (id) => DATA.items.find((x) => x.id === id) || archItems().find((x) => x.id === id);
 
   const persist = () => store.set("state", { view: state.view, cat: state.cat, prios: state.prios, region: state.region, range: state.range, sort: state.sort });
   const ageDays = (it) => (NOW - new Date(it.published).getTime()) / DAY;
@@ -208,16 +212,57 @@
   }
 
   function viewSaved() {
-    const list = sortItems(DATA.items.filter((it) => saved.has(it.id)), "newest");
+    const pool = new Map([...archItems(), ...DATA.items].map((it) => [it.id, it]));
+    const list = sortItems([...pool.values()].filter((it) => saved.has(it.id)), "newest");
     currentList = list;
     return `<div class="view-head"><div><h1>Saved stories</h1><p>Stories you starred. They are kept in this browser only.</p></div></div>
       ${list.length ? `<div class="list">${list.map((it) => card(it)).join("")}</div>` : `<div class="empty"><p>Nothing saved yet. Open a story and choose <b>Save</b> to keep it here.</p></div>`}`;
   }
 
+  const monthLabel = (m) => new Date(m + "-15T12:00:00Z").toLocaleString("en-GB", { month: "long", year: "numeric" });
+  async function loadArchiveIndex() {
+    if (ARCH.index || ARCH.error) return;
+    try {
+      if (window.OT_FEED_DATA) throw new Error("not available in this offline preview");
+      const r = await fetch("data/archive/index.json?t=" + Date.now(), { cache: "no-store" });
+      if (r.status === 404) { ARCH.index = { months: [] }; return; }
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      ARCH.index = await r.json();
+    } catch (err) { ARCH.error = err.message; }
+  }
+  async function loadArchiveMonth(m) {
+    if (ARCH.months[m]) return;
+    const r = await fetch("data/archive/" + m + ".json?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    ARCH.months[m] = (await r.json()).items || [];
+  }
+  async function showArchive(month) {
+    $("#main").innerHTML = `<div class="view-head"><div><h1>Archive</h1><p>Loading…</p></div></div>`;
+    await loadArchiveIndex();
+    const months = (ARCH.index && ARCH.index.months) || [];
+    ARCH.sel = month || ARCH.sel || (months[0] && months[0].month) || null;
+    if (ARCH.sel && !months.some((x) => x.month === ARCH.sel)) ARCH.sel = months[0] ? months[0].month : null;
+    try { if (ARCH.sel) await loadArchiveMonth(ARCH.sel); } catch (err) { ARCH.error = err.message; }
+    if (state.view === "archive") renderMain();
+  }
+  function viewArchive() {
+    const head = `<div class="view-head"><div><h1>Archive</h1><p>Stories that have left the main feed, which keeps the newest 600 from the last 60 days. Archived stories are kept for 12 months. Section, priority, region and search filters apply here too.</p></div></div>`;
+    if (ARCH.error) return head + `<div class="empty"><p>The archive could not be loaded (${esc(ARCH.error)}).</p></div>`;
+    if (!ARCH.index || (ARCH.sel && !ARCH.months[ARCH.sel])) { setTimeout(() => showArchive(), 0); currentList = []; return head + `<div class="empty"><p>Loading the archive…</p></div>`; }
+    const months = ARCH.index.months || [];
+    if (!months.length) { currentList = []; return head + `<div class="empty"><p>Nothing archived yet. Stories move here once newer ones push them out of the main feed.</p></div>`; }
+    const list = sortItems((ARCH.months[ARCH.sel] || []).filter((it) => matches(it, { ignoreRange: true })), "newest");
+    currentList = list;
+    const picker = `<div class="arch-months" role="group" aria-label="Month">${months.map((x) =>
+      `<button class="chip" type="button" data-month="${esc(x.month)}" aria-pressed="${x.month === ARCH.sel}">${esc(monthLabel(x.month))} <span class="chip-n">${x.count}</span></button>`).join("")}</div>`;
+    return head + picker + `<p class="arch-count">${list.length} ${list.length === 1 ? "story" : "stories"} in ${esc(monthLabel(ARCH.sel))}${state.q ? ` matching “${esc(state.q)}”` : ""}</p>` +
+      (list.length ? `<div class="list">${list.map((it) => card(it)).join("")}</div>` : `<div class="empty"><p>No archived stories match these filters in this month.</p><button class="btn" type="button" data-action="reset">Clear filters</button></div>`);
+  }
+
   function renderMain() {
     document.querySelectorAll(".tab").forEach((t) => t.setAttribute("aria-selected", String(t.dataset.view === state.view)));
     const v = state.view;
-    $("#main").innerHTML = v === "daily" || v === "weekly" ? viewBrief(v) : v === "reco" ? viewReco() : v === "saved" ? viewSaved() : viewFeed();
+    $("#main").innerHTML = v === "daily" || v === "weekly" ? viewBrief(v) : v === "reco" ? viewReco() : v === "saved" ? viewSaved() : v === "archive" ? viewArchive() : viewFeed();
     $("#savedCount").textContent = saved.size;
     const ss = $("#sortSel");
     if (ss) ss.addEventListener("change", () => { state.sort = ss.value; persist(); renderMain(); });
@@ -239,7 +284,7 @@
 
   // ------------------------------------------------------------------ reader
   function openReader(id, push = true) {
-    const it = DATA.items.find((x) => x.id === id);
+    const it = findItem(id);
     if (!it) return;
     openId = id;
     read.add(id); store.set("read", [...read]);
@@ -326,11 +371,12 @@
   // ------------------------------------------------------------------ events
   function bind() {
     document.addEventListener("click", (e) => {
-      const t = e.target.closest("[data-open],[data-cat],[data-prio],[data-region],[data-range],[data-view],[data-action]");
+      const t = e.target.closest("[data-open],[data-month],[data-cat],[data-prio],[data-region],[data-range],[data-view],[data-action]");
       if (!t) return;
       if (t.dataset.open) return openReader(t.dataset.open);
+      if (t.dataset.month) return showArchive(t.dataset.month);
       if (t.dataset.view) { state.view = t.dataset.view; persist(); renderMain(); window.scrollTo({ top: 0 }); return; }
-      if (t.dataset.cat) { state.cat = t.dataset.cat; if (state.view !== "feed") state.view = "feed"; }
+      if (t.dataset.cat) { state.cat = t.dataset.cat; if (state.view !== "feed" && state.view !== "archive") state.view = "feed"; }
       else if (t.dataset.prio) {
         const p = t.dataset.prio;
         state.prios = state.prios.includes(p) ? state.prios.filter((x) => x !== p) : [...state.prios, p];
@@ -342,7 +388,7 @@
         if (a === "reset") resetFilters();
         else if (a === "print") window.print();
         else if (a === "copy-brief") copy(briefText(t.dataset.kind), "Brief copied. Paste it into an email.");
-        else if (a === "copy-link") { const it = DATA.items.find((x) => x.id === t.dataset.id); if (it) copy(it.url, "Article link copied"); }
+        else if (a === "copy-link") { const it = findItem(t.dataset.id); if (it) copy(it.url, "Article link copied"); }
         else if (a === "clear-read") { read = new Set(); store.set("read", []); }
         else if (a === "save") {
           const id = t.dataset.id;
@@ -358,7 +404,7 @@
       persist(); render();
     });
     let qt;
-    $("#q").addEventListener("input", (e) => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value.trim(); if (state.view !== "feed") state.view = "feed"; render(); }, 140); });
+    $("#q").addEventListener("input", (e) => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value.trim(); if (state.view !== "feed" && state.view !== "archive") state.view = "feed"; render(); }, 140); });
     $("#resetBtn").addEventListener("click", resetFilters);
     $("#filtersToggle").addEventListener("click", (e) => {
       const rail = $("#rail"); const c = rail.classList.toggle("collapsed");
@@ -407,7 +453,17 @@
     $("#foot").innerHTML = `${DATA.items.length} stories from public news sources. Summaries condense the original article; open the source before acting on any figure. Checked for new stories every 5 minutes.`;
     renderPulse(); render();
     const m = /^#story-([\w-]+)$/.exec(location.hash);
-    if (m) openReader(m[1], false);
+    if (m) {
+      if (findItem(m[1])) openReader(m[1], false);
+      else {
+        // A shared link to a story that has since moved to the archive.
+        await loadArchiveIndex();
+        for (const x of (ARCH.index && ARCH.index.months) || []) {
+          try { await loadArchiveMonth(x.month); } catch { continue; }
+          if (ARCH.months[x.month].some((i) => i.id === m[1])) { ARCH.sel = x.month; openReader(m[1], false); break; }
+        }
+      }
+    }
     if (!window.OT_FEED_DATA) setInterval(refresh, 5 * 60 * 1000);
   }
 

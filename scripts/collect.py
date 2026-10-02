@@ -38,6 +38,7 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = json.loads((ROOT / "scripts" / "config.json").read_text(encoding="utf-8"))
 OUT = ROOT / "data" / "news.json"
+ARCHIVE_DIR = ROOT / "data" / "archive"
 UA = "Mozilla/5.0 (compatible; OTFeedBot/1.0; +https://github.com/)"
 NOW = datetime.now(timezone.utc)
 MAX_WORDS = 300
@@ -356,6 +357,52 @@ def dedupe(items: list[dict]) -> list[dict]:
     return kept
 
 
+# --------------------------------------------------------------------------- archive
+def archive_cutoff() -> datetime:
+    return NOW - timedelta(days=CONFIG.get("archive_days", 365))
+
+
+def load_archive_titles() -> tuple[set[str], set[str]]:
+    """Titles and ids already archived, so a story that left the feed isn't re-added as new."""
+    titles, ids = set(), set()
+    for f in ARCHIVE_DIR.glob("20??-??.json"):
+        for i in json.loads(f.read_text(encoding="utf-8")).get("items", []):
+            titles.add(norm_title(i["title"])); ids.add(i["id"])
+    return titles, ids
+
+
+def write_archive(evicted: list[dict]) -> None:
+    """Move stories that left the main feed into monthly files (data/archive/YYYY-MM.json),
+    keep them for archive_days (default one year) and rebuild the month index."""
+    if not evicted and (ARCHIVE_DIR / "index.json").exists():
+        return
+    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+    cutoff = archive_cutoff()
+    by_month: dict[str, list[dict]] = {}
+    for it in evicted:
+        if datetime.fromisoformat(it["published"]) >= cutoff:
+            by_month.setdefault(it["published"][:7], []).append(it)
+    for month, new in by_month.items():
+        f = ARCHIVE_DIR / f"{month}.json"
+        cur = json.loads(f.read_text(encoding="utf-8"))["items"] if f.exists() else []
+        merged = {i["id"]: i for i in cur} | {i["id"]: i for i in new}
+        items = sorted(merged.values(), key=lambda i: i["published"], reverse=True)
+        f.write_text(json.dumps({"month": month, "items": items}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    months = []
+    for f in sorted(ARCHIVE_DIR.glob("20??-??.json"), reverse=True):
+        data = json.loads(f.read_text(encoding="utf-8"))
+        items = [i for i in data["items"] if datetime.fromisoformat(i["published"]) >= cutoff]
+        if not items:
+            f.unlink()
+            continue
+        if len(items) != len(data["items"]):
+            f.write_text(json.dumps({"month": data["month"], "items": items}, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+        months.append({"month": data["month"], "count": len(items),
+                       "oldest": items[-1]["published"], "newest": items[0]["published"]})
+    (ARCHIVE_DIR / "index.json").write_text(json.dumps(
+        {"generated_at": NOW.isoformat(timespec="minutes"), "months": months}, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
@@ -364,7 +411,8 @@ def main() -> None:
 
     existing = json.loads(OUT.read_text(encoding="utf-8")) if OUT.exists() else {"items": []}
     items = {i["id"]: i for i in existing.get("items", [])}
-    seen_titles = {norm_title(i["title"]) for i in items.values()}
+    archived_titles, archived_ids = load_archive_titles()
+    seen_titles = {norm_title(i["title"]) for i in items.values()} | archived_titles
     seen_tokens = [title_tokens(i.get("original_title") or i["title"]) for i in items.values()]
 
     client = None
@@ -426,12 +474,15 @@ def main() -> None:
         if args.dry_run:
             print(f"  + [{rec['priority']:6}] {rec['category']:11} {rec['title'][:90]}")
 
+    # Main feed: the newest max_items stories within retention_days. Anything pushed out
+    # (oldest first) moves to the archive instead of being deleted.
     keep_after = NOW - timedelta(days=CONFIG["retention_days"])
-    kept = [i for i in items.values()
-            if i.get("pinned") or datetime.fromisoformat(i["published"]) >= keep_after]
-    kept = dedupe(kept)
-    kept.sort(key=lambda i: i["published"], reverse=True)
-    kept = kept[: CONFIG["max_items"]]
+    unique = dedupe(list(items.values()))
+    unique.sort(key=lambda i: i["published"], reverse=True)
+    fresh_enough = [i for i in unique if i.get("pinned") or datetime.fromisoformat(i["published"]) >= keep_after]
+    kept = fresh_enough[: CONFIG["max_items"]]
+    kept_ids = {i["id"] for i in kept}
+    evicted = [i for i in unique if i["id"] not in kept_ids and i["id"] not in archived_ids]
 
     payload = {"generated_at": NOW.isoformat(timespec="minutes"),
                "categories": {k: v["label"] for k, v in CONFIG["categories"].items()} | {"company": "Company Watch"},
@@ -440,7 +491,8 @@ def main() -> None:
         print(f"Dry run: {len(kept)} items would be written.")
         return
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"Wrote {len(kept)} items to {OUT.relative_to(ROOT)}")
+    write_archive(evicted)
+    print(f"Wrote {len(kept)} items to {OUT.relative_to(ROOT)}; archived {len(evicted)}")
 
 
 if __name__ == "__main__":

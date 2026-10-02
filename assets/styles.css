@@ -311,3 +311,11 @@ button, input, select { font: inherit; color: inherit; }
   .brief { border: 0; padding: 0; }
   body { background: #fff; color: #000; }
 }
+
+/* Archive */
+.arch-months { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 14px; }
+.arch-count { color: var(--muted); font-size: 13px; margin: 0 0 12px; }
+@media (max-width: 600px) {
+  .arch-months { flex-wrap: nowrap; overflow-x: auto; margin: 0 -16px 12px; padding: 0 16px 4px; scrollbar-width: none; }
+  .arch-months .chip { flex: none; }
+}
