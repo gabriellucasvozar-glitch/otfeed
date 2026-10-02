@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T09:15+00:00",
+ "generated_at": "2026-10-02T09:36+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -39,6 +39,31 @@
    ],
    "summary": "Dr Zagrajek (Port Polska): Polski rynek cargo ma dużo do poprawy Rynek Lotniczy",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "99014d4d881a",
+   "title": "Europe and Central Asia target faster Trans-Caspian trade",
+   "original_title": "Europe and Central Asia target faster Trans-Caspian trade",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2JWZ25pSF92Z3ZZSE1Db0lGSkFXVlYyX1ZDSTh5SzNXR09RcGZDelRZdVZWRVYwWDc0LVFySkVaQlZST0N3SkNZRGtUUVVmWEZKdjJaMEhoMTBpX1dNZUpjT01pRnN5ZkpzWE15SHpqZUV6VG13QnExUjhIWDJEQ3RkNHQyZ3FLMXNySEZJWW0xREd2NzIxT1ItaGJjdnQ5UDBTSQ?oc=5",
+   "source": "Euronews.com",
+   "published": "2026-10-02T09:02+00:00",
+   "added": "2026-10-02T09:36+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "trans-caspian"
+   ],
+   "summary": "Europe and Central Asia target faster Trans-Caspian trade Euronews.com",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16307,40 +16332,6 @@
    ],
    "summary": "Whyalla’s blast furnace is dead but green steel moonshot worth it AFR",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e29e3560e45f",
-   "title": "Baltic and Caspian routes offset only 25% of Russia’s grain export losses through Black Sea ports",
-   "original_title": "Baltic and Caspian routes offset only 25% of Russia’s grain export losses through Black Sea ports",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNmtCQlZUa29sUmJOdThCVjctVzlHNklpN2ppa1FLUHBFbDNRVEIwU1hEMzJhVUJfV2g2ZnV0VnRQVGdFZkFRSGlpb3liRk9DYkc5a2otWnhlTTFSZm1WcWZxNTF3QTU3dzFTM0tfN0dXR1hkSzJNTnR3VHM4Skw5QzluLUl6LWE1SXdaV3BvTnhGaDRnUW1GaUQtc0RJaXk0V3M1VzhuOXdvUk5QY2l4Y2haUGJwQllFTDVWMVZWWlBVcGE2Q2xOb2E5QQ?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-09-28T05:46+00:00",
-   "added": "2026-10-01T16:27+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 15,
-   "regions": [
-    "Baltic & Nordics",
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "baltic",
-    "black sea",
-    "grain",
-    "port",
-    "ports",
-    "russia"
-   ],
-   "summary": "Baltic and Caspian routes offset only 25% of Russia’s grain export losses through Black Sea ports UkrAgroConsult",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
