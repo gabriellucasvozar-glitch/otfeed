@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T07:53+00:00",
+ "generated_at": "2026-10-02T08:13+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,144 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "fbf69abdbb83",
+   "title": "Fresh attacks hit Hormuz tanker and Saudi oil gateway",
+   "original_title": "Fresh attacks hit Hormuz tanker and Saudi oil gateway",
+   "url": "https://splash247.com/fresh-attacks-hit-hormuz-tanker-and-saudi-oil-gateway/",
+   "source": "Splash247",
+   "published": "2026-10-02T07:55+00:00",
+   "added": "2026-10-02T08:13+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "port",
+    "security"
+   ],
+   "summary": "Kuwait Oil Tanker Company has suffered its second VLCC strike in four days, while a separate projectile attack at Saudi Arabia’s Yanbu port briefly disrupted loading operations, piling fresh security pressure on two of the Middle East’s key oil export routes. Maritime security firm Vanguard Tech identified the latest Hormuz casualty as the Kuwait-flagged Kazimah III , which was struck by an unknown projectile while transiting the Strait of Hormuz on Thursday. UK Maritime Trade Operations, which did not name the vessel, said it received a third-party report that a tanker had been hit, triggering a fire onboard. Maritime security sources identified them as ADNOC-operated VLCC Mersin Prosperity , the 115,949 dwt Sinbad and product tanker Al Ruwais . Yanbu had only just returned to crude export operations after drone attacks forced Saudi Arabia to shut its East-West Pipeline on September 11. The pipeline restarted on September 22 and tanker loading resumed several days later, with crude exports from Yanbu estimated at about 2m barrels per day. Satellite imagery from September 27 showed almost 10m barrels being loaded across Yanbu and the nearby Al Muajjiz terminal as Saudi Arabia stepped up use of its Red Sea outlet to reduce reliance on Hormuz.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "19027601f105",
+   "title": "Polish president backs down and approves government’s windfall tax on fuel companies",
+   "original_title": "Polish president backs down and approves government’s windfall tax on fuel companies",
+   "url": "https://notesfrompoland.com/2026/10/02/polish-president-backs-down-and-approves-governments-windfall-tax-on-fuel-companies/",
+   "source": "Notes from Poland",
+   "published": "2026-10-02T07:50+00:00",
+   "added": "2026-10-02T08:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polish",
+    "prices"
+   ],
+   "summary": "Notes from Poland is run by a small editorial team and is published by an independent, non-profit foundation that is funded through donations from our readers. President Karol Nawrocki has reversed course and signed into law a windfall tax on fuel companies’ excess profits that he had previously blocked. To rząd ponosi pełną odpowiedzialność za ceny paliw -… pic.twitter.com/7AX8v4a9Q0 The windfall tax will levy a one-off charge of 60% of excess profits from liquid fuel sales, calculated as the amount that would have been generated using a company’s average 2025 fuel sales margin, increased by 20%. The tax was intended to offset some of the roughly 4.7 billion zloty the government spent on keeping fuel prices lower for consumers amid the crisis in the Middle East by cutting VAT and excise duty and introducing a maximum daily price. President @NawrockiKn has obstructed a planned windfall tax on fuel companies by sending it to the constitutional court, where it could stay for years The tax aimed to offset fuel price protection costs after the Iran war surge https://t.co/UojVuYhvdV In September, the government’s majority in parliament passed the windfall tax bill a second time.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "0a9beac922e9",
+   "title": "Britain has warned that Russia is building a new \"shadow fleet\"",
+   "original_title": "Britain has warned that Russia is building a new \"shadow fleet\"",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbS1mclo1RWlsb0hUU1NiQkxTc2JuYVVGaVdiU3VGNk9CWDlzcWl6d1VIZU1yUl9BRjVhNmc4VFMtTGFKbjFwWl9ZMU16SHBTbldCX01CRzc1Q2VaRDVMN1ZIb2xnZU9aSElHb1VWWFNjU2FINDQ4MmxOT19naDNEVXlNQ3lxdGZvTFk0eTh2TDdVck9vaDFFdFRVMjAzNTBmMXc?oc=5",
+   "source": "news.liga.net",
+   "published": "2026-10-02T07:47+00:00",
+   "added": "2026-10-02T08:13+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "russia",
+    "shadow fleet"
+   ],
+   "summary": "Britain has warned that Russia is building a new \"shadow fleet\" news.liga.net",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "994eca7b3545",
+   "title": "Adriatic Gate Container Terminal in Rijeka hits 4m TEU milestone",
+   "original_title": "Adriatic Gate Container Terminal in Rijeka hits 4m TEU milestone",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPakg0aDR4RTFRcXNkQ3d0QkhWbjlvaE5XYW5ZYS1UZEZXcmZzczhDQzRGRFZvUXJwT2dmMzVsUWt3RlZGdGYzcEZUaUJMby1rNTh1ZDhjVGZwOXJ3SDRhNGRIdHViLVYyd3pyOHNyM2FYY2t5ei1tdVp4X2t0bGs1T2w1U1dQVE1oeEd5YS1leDFlVnBrWVoxb0RwaHRKV21iTE5xQXlXMFdtT1pWUVE?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-02T07:44+00:00",
+   "added": "2026-10-02T08:13+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Central & Eastern Europe"
+   ],
+   "tags": [
+    "container terminal",
+    "terminal",
+    "teu"
+   ],
+   "summary": "Adriatic Gate Container Terminal in Rijeka hits 4m TEU milestone WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "10b088430c39",
+   "title": "Kazakhstan, Denmark discuss Middle Corridor, Maersk cooperation",
+   "original_title": "Kazakhstan, Denmark discuss Middle Corridor, Maersk cooperation",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XRVB0cG5oMS05X09senJzMDF0RENsaVJMZU1GbTBLMmlYSzhzX2JIY2Fxd0huWjlFWDdjTk9VSTkwSVlseExBd1p6UGhEUHZEVDI2T3lYZWR3V0pKWDBv?oc=5",
+   "source": "trend.az",
+   "published": "2026-10-02T07:27+00:00",
+   "added": "2026-10-02T08:13+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Baltic & Nordics",
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "Kazakhstan, Denmark discuss Middle Corridor, Maersk cooperation trend.az",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "5c65ea83353d",
    "title": "Shipping ministry moves to appoint Saudi RSGT as Chattogram Container Terminal operator",
@@ -375,6 +513,31 @@
    ],
    "summary": "Pakistan export orders at risk as Middle East shipping disruption raises costs Arab News PK",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "49e81c59eef8",
+   "title": "Chart of the day: Ten years of diesel rebates almost pays for a new truck",
+   "original_title": "Chart of the day: Ten years of diesel rebates almost pays for a new truck",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWtqQzVYR0VVbXpQeVRCUVkzTTYyaDkwdHlabFlZNEdiaUtWbm1hZmp2dnUxWTc5ejhxZHBQTGZSU0VpOWJrcFpDRjNnMnVyMFlFVUJpSVdZYXpMbjZkYzRYa3FOdkF0bkVNYmkyX0E0V08xd1puczhiMlNJakw1ZGktZC05T1Q1RngxMWx0OEJBbjZlcDd0WTRHXzZ6aGhjSWpIMldfRUPSAagBQVVfeXFMTTFrakM1WEdFVW16UHlUQlFZM002Mmg5MHR5WmxZWTRHYmlLVm5tYWZqdnZ1MVk3OXo4cWRwUExmUlNFaTlia3BaQ0YzZzJ1cjBZRVVCaUlXWWF6TG42ZGM0WGtxTnZBdG5FTWJpMl9BNFdPMXdabnM4YjJTSWpMNWRpLWQtOU9UNUZ4MTFsdDhCQW42ZXA3dFk0R182emhoY0lqSDJXX0VD?oc=5",
+   "source": "Renew Economy",
+   "published": "2026-10-02T04:34+00:00",
+   "added": "2026-10-02T08:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "diesel"
+   ],
+   "summary": "Chart of the day: Ten years of diesel rebates almost pays for a new truck Renew Economy",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -7189,6 +7352,32 @@
    ],
    "summary": "Russia-China Coal Freight From Vostochny Port Reaches Record Highs russia's pivot to asia",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c57c7c0f82d6",
+   "title": "Poland draws foreign e-commerce logistics",
+   "original_title": "Poland draws foreign e-commerce logistics",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnVmZXltVGpyVmpnN3NNRXFsVFg4UVp4LWRzSXZMaDUzbkQyd19VVkZ5aXBXY3hnWkl6enRnYXAtOGNtbndhakVSd3J4am0yal96WmQ2bWhsTDlic3oyc2N1LWo1NmxTYXQ1ZUFMSi1KZFFPQms1elZFZVJxYnd4Q0Ntd3ZpcU0?oc=5",
+   "source": "EurobuildCEE",
+   "published": "2026-09-30T13:14+00:00",
+   "added": "2026-10-02T08:13+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "logistics",
+    "poland"
+   ],
+   "summary": "Poland draws foreign e-commerce logistics EurobuildCEE",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -14395,6 +14584,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "5281889e0590",
+   "title": "WB proposes establishing JV to manage container shipments along Middle Corridor",
+   "original_title": "WB proposes establishing JV to manage container shipments along Middle Corridor",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHZ4NWZkYTlFdDZsSFE5c0dad2JmZmZXTXcyYnhHRy1UVWhDZmU3bFJwb2tEcFNZVGFoR1JYMFo3aVJaVWFIeThTc25fZXhEMkRuQ3cxTHZZY1k2bGNPWm42TW82YkhRX05vX1FkNkhvXzc0Y2hzUzU1RHRjWGdaaEliSUJ4aWhKZHQzVm9aYkNVNjQwLWc3NkVQRWUwN2xmdUlmMU1JbmFaWnJlMXNvamg3cExtQdIBuwFBVV95cUxOOU9BWG4zc1R2c3FqakJtYV95Q2ItZkc4alVZaGw0M3BseDNrOFd0QXpXcDlfTEItRE9SMzZGMmlQamJwcEt2M2h6OUtia3gxMmVGRGVNTDl1V3MtWmpCYkMzT0NMMGtSem8wS1RrM2lLOVdHV1JhaUtLdFVoUFVGa1NoWmp1RE9BQTV6ODVBNTBZLUJsRDFzbzFldEJZTDBGMVVCYTVZekh4SW9UNjhQRUhrWHlOQlRKeHVB?oc=5",
+   "source": "Report.az",
+   "published": "2026-09-28T13:20+00:00",
+   "added": "2026-10-02T08:13+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "WB proposes establishing JV to manage container shipments along Middle Corridor Report.az",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "045a80db35ec",
    "title": "WB: ASCO needs to expand fleet to eliminate Middle Corridor bottlenecks on Caspian Sea",
    "original_title": "WB: ASCO needs to expand fleet to eliminate Middle Corridor bottlenecks on Caspian Sea",
@@ -16138,218 +16352,6 @@
    ],
    "summary": "Russia's strike near Poland put Ukraine's railway lifeline in focus. But the bigger threat lies elsewhere The Kyiv Independent",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "21e9b0392cc9",
-   "title": "Scrap dealers threaten strike action and here’s why it’s your business",
-   "original_title": "Scrap dealers threaten strike action and here’s why it’s your business",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzJ6aGlJZ09wU0VOaXRjUFEyUDZvb203RThrSlRrWHZSTzcybUROdE1iOFlqRllZMDBJeWxIdTRnWUVLSktUdnlxSHFFY2p3dzJpblllYzRNZFMtSFdRa2JMaTY1UVlrUDZmNE9pSDlSc1RGZmtYTnNHMWhKUTZSTm82OHJSZ2xISEVKM1Q1d2tiUHU2aHBJ?oc=5",
-   "source": "Pulse Nigeria",
-   "published": "2026-09-26T23:25+00:00",
-   "added": "2026-10-02T01:52+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "scrap"
-   ],
-   "summary": "Scrap dealers threaten strike action and here’s why it’s your business Pulse Nigeria",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d2a7b038cfff",
-   "title": "Global Gas Squeeze Could Last Through Next Summer",
-   "original_title": "Global Gas Squeeze Could Last Through Next Summer",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT2xKanY3RkhubmRWYVdFUGtMN20yM1J6dU9VeFVXZnB3N1ZBeHBvVnFCcy1MWkl4MkhKSVkxWUZ0QkhyUUsyQ2QxQV9BVE40aVpXTWhybnlKQjczN3Z2bnJlajlNTjJnb2FpeFhVRnZWZ0RwUlNZWm1iaE1KbmdCTkFsbUJUWGNoMTFxeDJJWEltYVh0SHNXN1pB0gGfAUFVX3lxTE5COEV1WmxSUWpTaEd1ZjM5WFhlNkN3WXQ3Y1pKdFo2UUhyaXJaQjZyQmxzZkthME8tekJOMGhITWJhNjlNamFvRTBvSnotQnRDeWh0R1BVa2dIQmRTZ0x0aXUwMHJQUW1aN29aa3FxbWdzRGo0UHYtc2k1WDlHaXd4ZEFiOGJLSktoVXl3NFAza1JYRVRrbjhxdTM1SVUybw?oc=5",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "2026-09-26T23:00+00:00",
-   "added": "2026-10-01T21:22+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crude",
-    "oil price",
-    "prices"
-   ],
-   "summary": "Global Gas Squeeze Could Last Through Next Summer Crude Oil Prices Today | OilPrice.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "58c0e1ff548f",
-   "title": "Canpotex breaks ground on $500M potash terminal upgrade at Port of Vancouver",
-   "original_title": "Canpotex breaks ground on $500M potash terminal upgrade at Port of Vancouver",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOW1Fa2tEY281VUM5bmlWeTZZRTBrT3dKVDBuSU14OUNvSFk4VGh2N2ZaQlFLeXhEeVlzYUxSX1dfVjJaa2FlQnpfalAyMUVuMGdCSHl5OVZ2NExtNGNuTWE3aTVnZlFIVFZ5V3ZSQTdia01MTGpNMHAyOWZWZFE0Qw?oc=5",
-   "source": "Yahoo News Canada",
-   "published": "2026-09-26T16:26+00:00",
-   "added": "2026-10-01T17:25+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "port",
-    "potash",
-    "terminal"
-   ],
-   "summary": "Canpotex breaks ground on $500M potash terminal upgrade at Port of Vancouver Yahoo News Canada",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1d64543f5b59",
-   "title": "Kayode Akinmade: Beyond signing - How Ogun’s $7bn Deep Seaport, Blue Marine SEZ could transform Nigeria’s economy",
-   "original_title": "Kayode Akinmade: Beyond signing - How Ogun’s $7bn Deep Seaport, Blue Marine SEZ could transform Nigeria’s economy",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPczFhT3pvbTZPTzlFSnRsUHVEeEpFcE9HdGZkSDRoX1hua2VENWJ5M0o4RmE0b2N0RjB5X1ZuMUhSbDF2am1HQUNpX0Q0d01nM1hMVEhYeWR6NDdoemw1bkdfQl81WFBDZS11SjZ3RmNBMTB1dzVqeE1YTHc1c2pzZEEyVi1QSS1LU09ZWWZ5dHV1OURScmN5dmo3emVGTHltRjdIZUFkRXpJajVyc0ZSZHUza2FDbUZBVU9USGRzZGx6SkM4Q2l5Q0U5UmlJdjNwdjNfMWtB?oc=5",
-   "source": "Daily Post Nigeria",
-   "published": "2026-09-26T14:19+00:00",
-   "added": "2026-10-01T19:49+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "seaport"
-   ],
-   "summary": "Kayode Akinmade: Beyond signing - How Ogun’s $7bn Deep Seaport, Blue Marine SEZ could transform Nigeria’s economy Daily Post Nigeria",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7e8cafb1ca27",
-   "title": "Star Bulk Carriers: Richer H2 '26 Dividends With De-escalation Of Downside Risks; Reiterate Buy",
-   "original_title": "Star Bulk Carriers: Richer H2 '26 Dividends With De-escalation Of Downside Risks; Reiterate Buy",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVzVSTFY3dU9CSlJjLVRQdmUyOWwxVEM4VDZWa1ZtNTNmVV93eFFCQ1BsdjA3aFVTZFJXSGFEQk10c0tjVV9iR3VEQjU4NnhoWUFnZ01CaHZ4Z3lYazRucjlJQ01Vd05tb2R3Q0JPX1Zjam5OeHJNcXpMWlotTkc5Nm1JQm1mY1pwZkFCN1RSX3JBdG9XY2dPdmlmV2pKcF9qSFREVHZEUG5mVXVhaHI3a05PcGM4RVVRc0FyNGdkZ01kWGRaM3JURw?oc=5",
-   "source": "Seeking Alpha",
-   "published": "2026-09-26T13:56+00:00",
-   "added": "2026-10-01T19:31+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bulk carrier",
-    "carrier"
-   ],
-   "summary": "Star Bulk Carriers: Richer H2 '26 Dividends With De-escalation Of Downside Risks; Reiterate Buy Seeking Alpha",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d700622d84d7",
-   "title": "Kazakhstan pushes Middle Corridor Agenda in UNGA talks",
-   "original_title": "Kazakhstan pushes Middle Corridor Agenda in UNGA talks",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLXlsMUN4aWQzeF9rbFRBcW9rS25va2V5WXdFQ0RzenVzZ01yUFgzSWVkV1ItSXd5dVNkd1VmbEpONEUxVWF5MHltNWpwRlBjUUVuMFRxYS10VlZja08tUWtDbUxOUENqc2JTbkZXcGY0cUF0SDQ2T3pHUHNmcWhkNFBFWnNEZS1iTkRyUlAzSVlFWGtjMjlPcFQtNUE?oc=5",
-   "source": "DKNews.kz",
-   "published": "2026-09-26T13:32+00:00",
-   "added": "2026-10-01T20:26+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Kazakhstan pushes Middle Corridor Agenda in UNGA talks DKNews.kz",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e9c74582db61",
-   "title": "Here's What Happens To Shipping When The Strait Of Hormuz Reopens",
-   "original_title": "Here's What Happens To Shipping When The Strait Of Hormuz Reopens",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNckxYV05CakZ2OElsWjJQWm1pUkw1OGxPVzdsRVdsZ21CcHJGeTkxS2NhODYyUVVWV21KR1ZOU1hJdVBCLS0tVUdMaGlfenRjUnp3VnZiLTVGaFRQU0FTWExzMmY4c0g1UnFib1Nlb2R2OVB2S2tUdzlEd1llSXlENEhmYnFMR2UzYjVrSWJwYXZlbVFRQnBHRS1ldnlQNGQwLUlZ?oc=5",
-   "source": "Seeking Alpha",
-   "published": "2026-09-26T12:30+00:00",
-   "added": "2026-10-01T21:22+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "shipping"
-   ],
-   "summary": "Here's What Happens To Shipping When The Strait Of Hormuz Reopens Seeking Alpha",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fde14937fa73",
-   "title": "Poland has banned the storage of transit grain from Ukraine",
-   "original_title": "Poland has banned the storage of transit grain from Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmVDazd3a1phZFRwSnRGb1VNQkxWck84UlZITHhEWERpNDZGQWV0dE9mV0c2QXBwNlVwbDhMUF9MQ1JoUVdIc2ZvN3Q5b0loV2pNdnN3ZlBRdnc1WmhLX1R0UjBZRzQyZVpNYXpOZXd6M3N2SV9vanpEb3htbzBkdF8yRXRiTGxTM2lMRmJvSVpQUQ?oc=5",
-   "source": "Новини аграрного бізнесу",
-   "published": "2026-09-26T10:09+00:00",
-   "added": "2026-10-02T07:11+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Poland",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain",
-    "poland",
-    "ukraine"
-   ],
-   "summary": "Poland has banned the storage of transit grain from Ukraine Новини аграрного бізнесу",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
