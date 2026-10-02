@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T17:21+00:00",
+ "generated_at": "2026-10-02T17:40+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "88a8aa9e9973",
+   "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
+   "original_title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
+   "url": "https://gcaptain.com/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
+   "source": "gCaptain",
+   "published": "2026-10-02T17:07+00:00",
+   "added": "2026-10-02T17:40+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "houthi",
+    "red sea",
+    "shipping"
+   ],
+   "summary": "Vessels in the Strait of Hormuz, as seen from Musandam, Oman, August 3, 2026. REUTERS/Stringer RIYADH, Oct 2 (Reuters) – Saudi Arabia is planning an offensive against Iran-backed Houthi militants in Yemen, with options being considered including a coastal push to secure the Red Sea shipping route or an assault on multiple fronts, regional and Western officials told Reuters. The operation, expected to be launched in the coming weeks, will by led by Yemeni forces on the ground, which are overseen by Riyadh, and supported by Saudi air strikes, according to six people with knowledge of the preparations. A truce agreed between the warring parties in 2022 largely held until this year when the Houthis launched missile and drone attacks on Saudi shipping and oil infrastructure in a spillover from the Iran war. France, meanwhile, has announced it will send defensive systems and troops to Saudi Arabia to help protect the Red Sea port ?city of Yanbu. Any ground operation inside Yemen will rely on the disparate coalition of Yemeni fighting factions that Saudi Arabia and the United Arab Emirates armed and trained at earlier stages of the civil war when the conflict ground to a bloody stalemate.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "6eebc25bcb03",
    "title": "Diversis Capital Acquires Majority Ownership Of Tideworks Technology From Carrix",
@@ -103,6 +131,61 @@
    "summary_method": "extract"
   },
   {
+   "id": "231142901905",
+   "title": "G7 to Release Up to 100 Million Barrels of Diesel, Crude",
+   "original_title": "G7 to Release Up to 100 Million Barrels of Diesel, Crude",
+   "url": "https://gcaptain.com/g7-to-release-up-to-100-million-barrels-of-diesel-crude/",
+   "source": "gCaptain",
+   "published": "2026-10-02T16:58+00:00",
+   "added": "2026-10-02T17:40+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crude",
+    "diesel",
+    "prices"
+   ],
+   "summary": "(Bloomberg) — The Group of Seven nations and its partners are to release as much as 100 million barrels of emergency oil and diesel stocks amid pressure from the Trump administration to quell rising fuel prices. The release, being coordinated by the International Energy Agency, will take place over the next four months, Emmanuel Macron, France’s president and the current chair of the G7, told journalists in a briefing on Friday. The G7 would like to trigger a drop in fuel prices, he added. The IEA already coordinated a plan to release 400 million barrels in March soon after the Iran war broke out, but US President Donald Trump has criticized Europe for not making those barrels available fast enough. A subsequent G7 statement suggested that the 100 million barrels may include barrels that have not yet been made available under the March release. “Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil,” Trump said. “The process will begin immediately.” Diesel’s premium over crude oil, a closely watched measure of market strength, slumped as low as $69 a barrel, down from $76.77 on Thursday, fair-value data compiled by Bloomberg show.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "5eeaa3dcdf1c",
+   "title": "U.S. Adds Carrier and 10,000 Troops to Middle East",
+   "original_title": "U.S. Adds Carrier and 10,000 Troops to Middle East",
+   "url": "https://gcaptain.com/us-adds-carrier-and-10000-troops-to-middle-east/",
+   "source": "gCaptain",
+   "published": "2026-10-02T16:55+00:00",
+   "added": "2026-10-02T17:40+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East",
+    "North America"
+   ],
+   "tags": [
+    "attack",
+    "carrier"
+   ],
+   "summary": "The Nimitz-class aircraft carrier USS Theodore Roosevelt conducts a refueling-at-sea with the Military Sealift Command fleet replenishment oiler USNS Big Horn (T-AO 198), middle, and the French Navy Aquitaine-class frigate FS Bretagne, June 6, 2024. (U.S. Navy photo by Aaron Haro Gonzalez) (Bloomberg) — The Pentagon is deploying an additional aircraft carrier and 10,000 sailors and Marines to the Persian Gulf, according to a US official, a move that gives American commanders more options if President Donald Trump chooses to escalate attacks on Iran. The USS Theodore Roosevelt carrier left its San Diego home port on Sunday and is headed to the Middle East, the official said. Before this year’s operations against Iran, the last time the US had three carrier strike groups in the Middle East was in 2003, when they supported the early phase of the invasion of Iraq. On Monday, the USS Makin Island amphibious readiness group — with an assault ship, aircraft and 2,200 Marines — also set sail to the Middle East, giving Centcom additional options, the US official said.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
    "id": "881c1776e6ec",
    "title": "AD Ports completes $835 million Brazil port acquisition",
    "original_title": "AD Ports completes $835 million Brazil port acquisition",
@@ -157,6 +240,32 @@
    "summary": "Hydrogen – Prime Minister Jetten visits the Port of Rotterdam hydrogen-central.com",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
+  },
+  {
+   "id": "904fef66ee1f",
+   "title": "U.S. Coast Guard Intercepts ‘Dark Fleet’ Fuel Shipment to Cuba",
+   "original_title": "U.S. Coast Guard Intercepts ‘Dark Fleet’ Fuel Shipment to Cuba",
+   "url": "https://gcaptain.com/u-s-coast-guard-intercepts-dark-fleet-fuel-shipment-to-cuba/",
+   "source": "gCaptain",
+   "published": "2026-10-02T15:53+00:00",
+   "added": "2026-10-02T17:40+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fleet",
+    "vessel"
+   ],
+   "summary": "Coast Guard Cutters Alert (WMEC-630) and Charles Sexton (WPC-1108) escort the motor vessel Grace in early September 2026. The Coast Guard interdicted the vessel following a coordinated international enforcement operation concerning its suspected illicit transport of fuel to Cuba. Coast Guard has intercepted a vessel carrying fuel to Cuba after an international enforcement operation found large quantities of fuel concealed inside the ship’s ballast tanks. Coast Guard has intercepted a vessel carrying fuel to Cuba after an international enforcement operation found large quantities of fuel concealed inside the ship’s ballast tankAccording to the Coast Guard, the vessel was suspected of using tactics associated with the so-called “dark fleet,” a term generally applied to ships using deceptive practices to obscure their ownership, movements or cargoes.Following the boarding, the Coast Guard escorted Grace to Progreso, Mexico, where a Mexican Navy inspection team found large quantities of fuel stored in the vessel’s ballast tanks. “Dark fleet actors who employ deceptive tactics to engage in illicit activities will not evade justice.”The interdiction follows the earlier boarding and detention of the M/V Jaira Provider , which the Coast Guard said was also carrying illicit fuel to Cuba.The Coast Guard said the operations are part of a broader effort with U.S.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "3914011c9f86",
@@ -16249,112 +16358,6 @@
     "russia"
    ],
    "summary": "Russia rejects all proposals to resume Black Sea grain exports Latifundist.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c89fd2516b9d",
-   "title": "Największy polski operator logistyczny Rohlig SUUS Logistics inwestuje w Olsztynie",
-   "original_title": "Największy polski operator logistyczny Rohlig SUUS Logistics inwestuje w Olsztynie",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnFjZ29HcG94LWlsakZOekpvbTZieEpHaUk1U0V3ZWFqdEEtRnVuNXZYWkxUN3NyakFIWDEyNWJoQVFod2dyVXBTbTF1cEhhWGxQeFFEVWwwVnlFY0RYNkUtMDJWeDVhR2twWmM4VVVsb3d5cHE5aFhNdXM4b2pPQjFLWXVVMUZvX18xRmdZemFuOWpYVGJjSldqWWlpSmJQU3V0VzdaVkxFOXhNeTA4T2hya9IBswFBVV95cUxQZnFjZ29HcG94LWlsakZOekpvbTZieEpHaUk1U0V3ZWFqdEEtRnVuNXZYWkxUN3NyakFIWDEyNWJoQVFod2dyVXBTbTF1cEhhWGxQeFFEVWwwVnlFY0RYNkUtMDJWeDVhR2twWmM4VVVsb3d5cHE5aFhNdXM4b2pPQjFLWXVVMUZvX18xRmdZemFuOWpYVGJjSldqWWlpSmJQU3V0VzdaVkxFOXhNeTA4T2hyaw?oc=5",
-   "source": "Investmap.pl",
-   "published": "2026-09-29T06:43+00:00",
-   "added": "2026-10-02T01:52+00:00",
-   "lang": "pl",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "logistics",
-    "polski"
-   ],
-   "summary": "Największy polski operator logistyczny Rohlig SUUS Logistics inwestuje w Olsztynie Investmap.pl",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ba57f88c1d1a",
-   "title": "Brent Crude Oil Price Today (September 29): Brent Climbs Above $106, WTI Rises Near $94 as US-Iran Conflict Fuels Supply Concerns; Check Latest Brent Crude & WTI Oil Rates Today",
-   "original_title": "Brent Crude Oil Price Today (September 29): Brent Climbs Above $106, WTI Rises Near $94 as US-Iran Conflict Fuels Supply Concerns; Check Latest Brent Crude & WTI Oil Rates Today",
-   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPV2V0NW1rT0JONENxRWNzX2kybHdMVHZuaVVhU2ZCOVZiRkpNd1BBeS1VUGpwZlF3azFKTmc0UEItbGVyaGdFMVJtZE9iR3ZqbDBGV1gyZi1OZHhrRTU4UWpKNE81V1VNVlA4NTU0OUs1NzVuNEJtajBUazZDRkZBNExoT1hpNWpFdGdoS2NSbW1OSUFXbXZpU24yVThPUTdrVWY1VTFUUWNwOEJvalN4aW5GVlVwZ1hsRHZUTk5hbmw4NEptTU5GZXl3UGthSDlVZWE5YWZPRTNOTktZX2tJNThQYkxzNkNJc0VsQzdMWGJ0cko1RllHcGk0S1lUQTB2QXI3b3ZlNG1yWkVGR0FUT2dBbG1lRi1MbGtUMDI0SW5Tc0d2SVJuM01sVmh3ZHZWQ3ktSU5NS3B3YjhV0gHCAkFVX3lxTE5kbDFlTkZuUlV0SkpVaVUzS1VoNU0taERkaHplc2N1SjdMYWRZVERBX2ZHMHhmMXZpcWRYQ3RxcGNZSUtLeHlaaG1JamxxbjlubnVJam5qQlhISlc3SFdqMjB1c2R2UHBRZjBwN0tkYnRCWkhaNzZXYWZDc2Z2VHZPeXhjQm9TQm5HNThOd0hNeTZ0Y0t2QWZzQ2h2YjNzb29OS0ozeENlMG5VcVk0Y3FGeG8yNDlKUDBfNU55bEFVaWt5OVc4TjJLNS0xbTl6MGlLRkZoclQ1MGt3MFp0RVhLZG5ZbUdQNEhzSWxxajkwdlJ5cklWblAybDY3UFZEbEpnU1lpQlhsYVFkTlRUX1ZFei1OaFN0dUs0QWtDOEVsMXhqS0R3ZW9vUHB1Mnl2a21SUk1RS25lX3dCSU1NTVJ6eUE?oc=5",
-   "source": "The Sunday Guardian",
-   "published": "2026-09-29T06:25+00:00",
-   "added": "2026-10-01T20:26+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "oil price"
-   ],
-   "summary": "Brent Crude Oil Price Today (September 29): Brent Climbs Above $106, WTI Rises Near $94 as US-Iran Conflict Fuels Supply Concerns; Check Latest Brent Crude & WTI Oil Rates Today The Sunday Guardian",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2300fd7e9dc5",
-   "title": "Cabinet rejects cap on foreign ownership of Dutch terminals",
-   "original_title": "Cabinet rejects cap on foreign ownership of Dutch terminals",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemFPRWEtTmJfQ1VJRnppVDRyc05OejVVZDdsc2lTcm5rSG10aUc2QVYtSDgtUURvaEpLTVVaRGxmVUw4X3lNb2luZDBHb256czdPUGRpTVRtYW91cHhkRng5aENtWVI3ZHRDbVkyRmJxc1oyTWZYSkpMT2FkOHRjbjRxWWt2UVBsalB0enhxM0tyc3g0RHdpLVkzcDRIVU95ajV4U3lLTQ?oc=5",
-   "source": "worldcargonews.com",
-   "published": "2026-09-29T06:18+00:00",
-   "added": "2026-10-01T20:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Cabinet rejects cap on foreign ownership of Dutch terminals worldcargonews.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c83326fd8334",
-   "title": "China leads Canada’s oil pivot to Asia as Mid-East war reshapes crude trade",
-   "original_title": "China leads Canada’s oil pivot to Asia as Mid-East war reshapes crude trade",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbU9acFNqRW1xMDU0RjVEN2ZLS2hqZks4OEtQM2VkMEkwbDg4RkluT2xUbXFqZUozU1ZVMVhFY2tadnd4cmZqYnREcEtZUHFVa2RiXy1VMmJUY2hoeDZBR2x3b2FkMFRINWlGYXRCVXFmb051UHlQa2VsczNkZ2RYdWRrY1I4NHhwYzlpMUtiY185dmdUZmlvTFhJaS01eGhUZURZZWpXZWVZWUY3dDFMcS1MTnZ3UHR1V0c5dUJJaVHSAdMBQVVfeXFMTnFGeS1aODZqSENGT2V4b1NJSk1wbWEwUjVzTTE5aWJQeUQzc0FMOE1KUWxGS0JvZmRxaDNybnA0VUJ4Wmp4dEZXTU1NWVdwd2lYOXJ3R0pwZW1LUHJHaWx6aEJZTGpRMnpNSDVKVWRRTkhFUmYydnhiZTd5UlpSVFI3cjJqZERObEtiWVNET1NoTHZwTWNCZmd5SkV1RmpFTEpJYkhCaXh5MXptdDdUX2l2UUZHNnZiM0tDTkhrNHlsaDhsS2xhLWpiN3dyS1BwUWZMdw?oc=5",
-   "source": "Gulf News",
-   "published": "2026-09-29T06:17+00:00",
-   "added": "2026-10-01T18:03+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia",
-    "North America"
-   ],
-   "tags": [
-    "china",
-    "crude",
-    "war"
-   ],
-   "summary": "China leads Canada’s oil pivot to Asia as Mid-East war reshapes crude trade Gulf News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
