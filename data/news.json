@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T04:47+00:00",
+ "generated_at": "2026-10-03T05:01+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -93,6 +93,33 @@
    ],
    "summary": "Erstwhile FATA, PATA: FBR notifies lower sales tax rates for steel units Business Recorder",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "400cdae402e5",
+   "title": "Nike shifts to nearshoring to speed supply chain",
+   "original_title": "Nike shifts to nearshoring to speed supply chain",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS21lUDlEZWluUVV1X1VfOXlOTzZIMnpFckx5UXNlbGh4eWxlR0J4Umx5cUNUNlVhRDN3c1JrQnJSUTVJcVI2LUN3TnJhekpYVFVDSW90T3JaQngxLVdGbTRiZ0dYWmNCN09WZk9vS3c3X2prS2ZlUXVBdmwzNVZUQm02UnRtVkY2WTFvSkt0VlMzUQ?oc=5",
+   "source": "briefs.co",
+   "published": "2026-10-02T23:54+00:00",
+   "added": "2026-10-03T05:01+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "nearshoring",
+    "supply chain"
+   ],
+   "summary": "Nike shifts to nearshoring to speed supply chain briefs.co",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16348,31 +16375,6 @@
    ],
    "summary": "Kagwe warns farmers against using fertiliser without soil testing peopledaily.digital",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b40f09cf2925",
-   "title": "Diamond Line adds APM Terminals Aarhus to weekly BSX short-sea service from October",
-   "original_title": "Diamond Line adds APM Terminals Aarhus to weekly BSX short-sea service from October",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVWVvcG5GNURJeWUyTmtwYWI1RXhwZHhJX0hUMzMybXJtdFJFUjVaWE81RmV6MjdBTkxGU2xmU2tOS0NSZDlISTRGOEJZN2c2WXFieG9RZUZ4TjBsNFcwbGZUdFpWYzFVSklEZlZSTmZjcHJFblJCa202WlM2czhsblVwUU9ycGJSQU9BQklja09DQkhNdGE1MTlpLWo1b3YtRUhyeA?oc=5",
-   "source": "Container Management",
-   "published": "2026-09-29T14:13+00:00",
-   "added": "2026-10-01T20:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Diamond Line adds APM Terminals Aarhus to weekly BSX short-sea service from October Container Management",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
