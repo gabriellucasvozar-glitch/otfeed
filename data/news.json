@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T10:14+00:00",
+ "generated_at": "2026-10-03T10:36+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -7172,6 +7172,31 @@
    ],
    "summary": "Jubileusz PKP PLK gdansk.tvp.pl",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity. Involves a Polish port.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e36ffa64a0f1",
+   "title": "Thyssenkrupp Reshapes Auto and Steel Units as Analysts Split on Valuation",
+   "original_title": "Thyssenkrupp Reshapes Auto and Steel Units as Analysts Split on Valuation",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOemJzQWZqaUo5UXpwRkVKeHk3c2tUNmh0S1hKY0hXUmZUX21SV1BQVDB3RjVxQmxQNUhUZU01eS1MMDVjdEtDVXJmQTdjT0x1M1Z5aF9pLXd1enZlMENwUFVNeFg4LW5TMW5iTTJidWVxTnlDWU9VRUpFclJuMmJwTG04ZDBTVEU4ZG4wWWozcXRxOWVDLWM5RFA3QXNvOHhTd0lYdjI1UWlLeXVqbC11Mjlud3dCQzFINDhzRU8yc244TkRtZ3NxTkVaMFZCa1FWTURUc0U5SkYxd0VDeUE?oc=5",
+   "source": "AD HOC NEWS",
+   "published": "2026-10-01T14:11+00:00",
+   "added": "2026-10-03T10:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "Thyssenkrupp Reshapes Auto and Steel Units as Analysts Split on Valuation AD HOC NEWS",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16337,35 +16362,6 @@
     "port"
    ],
    "summary": "Niemcy przegrali walkę o port w Świnoujściu. Jest decyzja sądu businessinsider.com.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e4f9066e1291",
-   "title": "Baltic port cargo throughput tops 8 million tonnes in August",
-   "original_title": "Baltic port cargo throughput tops 8 million tonnes in August",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObExnakVLLWVVNE04OU1CUC00a1VRQkRoLTRlUmN2WkVQamw0ZEdieFNLTURTdXpiR0F4R0lqd01IX0g3VVpjU25fa2FfUDZvaWdqbEdDNUhSQnhmOTMxdUk4RjVVWWZFSjgtWkNpWVpCdWgzclJNUmZtbS1kZmRpMVlzLV9CdjZGQmM5UlVlU0J3cWJiT3lVOFV1UTBOZVlPMVpaZEpZLUhVb2RrS3YzWDdvb1o1TTNCTXlRd3B5UmZDRW1JWVdBaw?oc=5",
-   "source": "logisticsbusiness.com",
-   "published": "2026-09-29T16:43+00:00",
-   "added": "2026-10-01T16:27+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "logistics",
-    "port",
-    "throughput"
-   ],
-   "summary": "Baltic port cargo throughput tops 8 million tonnes in August logisticsbusiness.com",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
