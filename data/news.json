@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T02:22+00:00",
+ "generated_at": "2026-10-03T02:51+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -1013,6 +1013,33 @@
    "summary": "The Nimitz-class aircraft carrier USS Theodore Roosevelt conducts a refueling-at-sea with the Military Sealift Command fleet replenishment oiler USNS Big Horn (T-AO 198), middle, and the French Navy Aquitaine-class frigate FS Bretagne, June 6, 2024. (U.S. Navy photo by Aaron Haro Gonzalez) (Bloomberg) — The Pentagon is deploying an additional aircraft carrier and 10,000 sailors and Marines to the Persian Gulf, according to a US official, a move that gives American commanders more options if President Donald Trump chooses to escalate attacks on Iran. The USS Theodore Roosevelt carrier left its San Diego home port on Sunday and is headed to the Middle East, the official said. Before this year’s operations against Iran, the last time the US had three carrier strike groups in the Middle East was in 2003, when they supported the early phase of the invasion of Iraq. On Monday, the USS Makin Island amphibious readiness group — with an assault ship, aircraft and 2,200 Marines — also set sail to the Middle East, giving Centcom additional options, the US official said.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "0c2a032d2fc0",
+   "title": "Canadian steel faces tariffs, layoffs and cheap imports — but industry insiders see a way forward",
+   "original_title": "Canadian steel faces tariffs, layoffs and cheap imports — but industry insiders see a way forward",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaUM4OUhoZTVaRUNjSXNQV0ZlMlBfOEoxVXdmVUVNZkpHd3ZEc1lxNzhla0xvY2tjT1hPRGQ3Z3hBUnU3R0lDUm9GNVVURTdqRUtvd3pTM09ZTEh0Y1RfX0xTY250dlUwWWxZUjAwckc1YWc4NEd3RHBRYXlINFlaUGNIa2pISlVqTnRfUlhXWTZQTHZvQzNhSHhSWVp6Qmt2OUsweGJlRW81Umo0MmotMFo5a1B6cVM0WG5JOVFWLTlDLXFTRHFsSlVTb1BKb2dJR3FiRENTaE5BXy1IVmhDdEptU2FxWTdhRlpPamp1R0l4dnFWQTNmWlQ4Q00zMHpvdG5LOA?oc=5",
+   "source": "Toronto Star",
+   "published": "2026-10-02T16:52+00:00",
+   "added": "2026-10-03T02:51+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "steel",
+    "tariff"
+   ],
+   "summary": "Canadian steel faces tariffs, layoffs and cheap imports — but industry insiders see a way forward Toronto Star",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
   },
   {
    "id": "706a6e380f77",
@@ -16347,33 +16374,6 @@
    ],
    "summary": "LNG Canada moves ahead with Phase 2 expansion at B.C. terminal The Globe and Mail",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4fc7aef5cd88",
-   "title": "Fears for Welsh steel plant after India handed expanded import quota",
-   "original_title": "Fears for Welsh steel plant after India handed expanded import quota",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2dKc25zeWVJYWd4ekp5MDlSS0REVHJwZUFOSWpoZWhJUHNJT2dUb0tSSEw0LVBZcDViSTlDVVBlZ1oxNV8xanRPamdndFJuT2lfaENoaVdtOU5FMi1sWkVYelhNZlh5SDcyXzRhUU9JaHhUZmI0SFJ5NkZyZnF4Wk9uTTU4QmdRaGh6VVBqLVhpSzdUZUVPbEhnLUtzaWRpQTJBeTFCSQ?oc=5",
-   "source": "Herald.Wales",
-   "published": "2026-09-29T13:26+00:00",
-   "added": "2026-10-01T21:22+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "quota",
-    "steel"
-   ],
-   "summary": "Fears for Welsh steel plant after India handed expanded import quota Herald.Wales",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   }
  ]
