@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T07:11+00:00",
+ "generated_at": "2026-10-03T07:35+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -175,6 +175,34 @@
    ],
    "summary": "AD Ports Group completes $835m acquisition of Brazilian terminal operator CLI Baird Maritime",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7cfa5be33149",
+   "title": "Indian oil refiners hire tankers to cross Hormuz as crude flows recover: Report",
+   "original_title": "Indian oil refiners hire tankers to cross Hormuz as crude flows recover: Report",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2hzNTd6RkRzSllhUEhJNUhDT21Ua2xqZkEtbFMxWTE5bTY2Z0duelZUVTZjakxPalJYdXhGTmJMcFJ1dkJKM2s3NnRrX1hMeW9HUDcyVDVUWF9DODFaNkhvcUtYZmZha2JSZm9qeE9fSVN3ZWhTV01lbXdybE5mU3FmUGVCa1hYSXdqaE9QQnpmQ1d4ekJuSnJKWC1rZXJrZkI1cDRLTHZnWnVjeGdxN3J4dGE0LVBWX1c3VUpwRlQ2bUkxaVU2NnRUQnJ5YnlwVnQ40gHYAUFVX3lxTE9BZUI2WU5vYm1hSVBxRUFkYTMtNXZKcDYxTmtfeGVZbGlhd2RMNVVyRV9ndTR6OVdSZEYxeVRBal9OdE0tV3N3d1VLWVF6Ulp1SzVfYV91M1ViWWM4OEwzVVVGamIyNEE3Mi1hSmdEaHdrbGVLSzczc0VZNnBDZm1la0htN0E4bnNVVUlNTENvMko1dW85SU00OTI4TVNiWWE3XzVlRkkwLUVTYXBnRGxBS1p1d1BMQVA5QTA2ak5UTGVId1B4NDVUVkJIOGRLVmtVSHJUMGlnWA?oc=5",
+   "source": "ET Infra",
+   "published": "2026-10-03T02:43+00:00",
+   "added": "2026-10-03T07:35+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "crude",
+    "hormuz"
+   ],
+   "summary": "Indian oil refiners hire tankers to cross Hormuz as crude flows recover: Report ET Infra",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16347,35 +16375,6 @@
    ],
    "summary": "Corn, Wheat, and Soybean Prices Face a Wet Blanket as Heavy Rains Disrupt Crops Barchart.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fe293b2df664",
-   "title": "Qatar Extends LNG Force Majeure as Hormuz Disruptions Persist",
-   "original_title": "Qatar Extends LNG Force Majeure as Hormuz Disruptions Persist",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTW1FUWVNTWs3Wk5XZkFwRXl1Z0U4cC15bXVIUjg3MU1FX2wyTzc3UnNZMXlxZEpLT1VnSFY1eFRwWGdKQ21KYWpPUTVCNW1Kby1NM1hfY0RRdmZTaDNYYk5laDFiR3dvUUVfbU9uTklQanM5bXg0b3VibGdyc2w0S1lxQVN0T1YxT3UxeXg4ME1Yd0RhR2JUVmt2b0QwOTdFdTJ0NXFMalJ3cGZHMUFqRE53?oc=5",
-   "source": "ChemAnalyst",
-   "published": "2026-09-29T15:21+00:00",
-   "added": "2026-10-02T22:17+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "disruption",
-    "hormuz",
-    "lng"
-   ],
-   "summary": "Qatar Extends LNG Force Majeure as Hormuz Disruptions Persist ChemAnalyst",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
