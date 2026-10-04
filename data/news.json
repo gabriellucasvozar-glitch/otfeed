@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T02:19+00:00",
+ "generated_at": "2026-10-04T04:17+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,36 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "880bf36a52ed",
+   "title": "Asian port congestion may prolong shipping crunch into 2027",
+   "original_title": "Asian port congestion may prolong shipping crunch into 2027",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdUkyOC1GdEMyWFVRRzNMeXFBeHJ2S215UnhJY05HOE9oSEtNZTEyYzhkaXZXY1hKVE5SS2FFVWhzbjJZTUFpT3MxSTJaUXVKVS1WNFJfTkJwcHBaNzF6TExNdUhsUEpVdG1mTmxBdEZ2YkZkN0FDNGtVZi0waFFLRjB3bHBEbnZrTlQxajlFOWVDM1JkNEZWam1ReVF4OGdCWldwNnNwZ1dYNDRZcTN3TDQ5ZklQTFphcnY2TdIBwgFBVV95cUxQcjJPM2VxMk9UUUxZNnlCeDhXSGt5dk1sTmxGTndxVl82TGxLeVNfTFpJTlBRWUZfUVN4WkpJU0RMNE45MjF4WFJJTTlXZF9pTGtDbkZtb0k4Y0NFT0pka0RCUnduZHNDNWlvdmw2WXpFbmFUVk5BN0tSa2tFOVpNbGpOR0xhTnJlengxbk5zd2IzOUs3WXh0Zmd1bjMtVVNfWGk3YU9pcnE3eU00REI5NXYza1ZXMmwySFNFVl9CQzBhQQ?oc=5",
+   "source": "The Manila Times",
+   "published": "2026-10-04T02:35+00:00",
+   "added": "2026-10-04T04:17+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "congestion",
+    "port",
+    "port congestion",
+    "shipping"
+   ],
+   "summary": "Asian port congestion may prolong shipping crunch into 2027 The Manila Times",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "b06fb81d33e7",
    "title": "Guam port’s three gantry cranes knocked out in collision",
@@ -65,6 +95,33 @@
    ],
    "summary": "How Ports Can Catalyse the Blue Economy orfonline.org",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b7b0943b4b86",
+   "title": "Port of Szczecin daily activity",
+   "original_title": "Port of Szczecin daily activity",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zd3k1RzloM2xLWHRIcThkMy1DUi1ES0tfZm9yc2tuYkx6N0pwVGJlamUtQlQ5WGNPM202ZjVvUHZodGtDT2xvM3Bva1o2ZVVNbHVfb0Fnc1NCbkRET0VIYXRWczdJT2JJTVRDRlZIdU1UeXhI?oc=5",
+   "source": "El Estrecho Digital",
+   "published": "2026-10-03T22:37+00:00",
+   "added": "2026-10-04T04:17+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "high",
+   "score": 8,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "port",
+    "szczecin"
+   ],
+   "summary": "Port of Szczecin daily activity El Estrecho Digital",
+   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
    "summary_method": "feed"
   },
   {
@@ -10584,6 +10641,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "217671155dc6",
+   "title": "Global ports caught in a perfect storm",
+   "original_title": "Global ports caught in a perfect storm",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkZ0bjRubXVDb0E1Wk1Xd2hRdUhKVkFTakQ2U3VIWjJGcDBpOUpXQ0REbmZRS3dBSE4ydXkwRXlkSlRDWm1HQVE2VnF5U2VvQk5ZbzlQNFhBdTlqQkVpVHptUmMxLXptdzU2c0ExTHh5SE9qVEk0RmhoTWNzdEdWWU5PVnN5LXNCTTNxTm5rQVp3d0xQWmdRakNn?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-01T06:57+00:00",
+   "added": "2026-10-04T04:17+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Global ports caught in a perfect storm WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "ac7be6356e61",
    "title": "United States Pledges $201 Million to Trans-Caspian Trade Route at Baku Regional Forum",
    "original_title": "United States Pledges $201 Million to Trans-Caspian Trade Route at Baku Regional Forum",
@@ -16287,84 +16370,6 @@
    ],
    "summary": "AI adoption in Poland reaches 32.3% in 2026 CEO Magazyn",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ecc78e5c904a",
-   "title": "Polish industry faces a workplace safety information gap",
-   "original_title": "Polish industry faces a workplace safety information gap",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SalVnRGhfUXg2M0tKdTRzT1N4ZjNuclhJbENRMy1PWTZLRGpYZWE1bEhOVk5WM0xtdTU1R0VnenRyOGRNSXJ0eW02V0FtMmlTTzlGMUJ2SXNTd3RBUncwVGQ3bkVGN1dQNE9xcWpHSWVOal82MHU5aA?oc=5",
-   "source": "CEO Magazyn",
-   "published": "2026-09-29T21:02+00:00",
-   "added": "2026-10-04T02:19+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "magazyn",
-    "polish"
-   ],
-   "summary": "Polish industry faces a workplace safety information gap CEO Magazyn",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c9596dd266f3",
-   "title": "Corn Exports Lose Momentum in September, Widening Gap With 2025",
-   "original_title": "Corn Exports Lose Momentum in September, Widening Gap With 2025",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDM0RUVtaVl3aFM1azZTSTVoSjl6dFh0WjE5T0d0U0F2Vkk3SUxpY0JKUFB5QnViNUFpaUZMOVdMNlVQTXE2bmc2NkxYVW1PUlpIcFlyanZaakVIR05kS0Z5RS13RWgyZTI0RE1nNDlZUjNLWHhGOG1nbEo2eHhhd1RicGVHcGtRYXRfR3ZYY1U5X0RwTDh0cW80Ykw?oc=5",
-   "source": "datamarnews.com",
-   "published": "2026-09-29T20:40+00:00",
-   "added": "2026-10-02T06:52+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "corn"
-   ],
-   "summary": "Corn Exports Lose Momentum in September, Widening Gap With 2025 datamarnews.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9f5c86a39f5b",
-   "title": "Contecon installs two STS cranes in Manzanillo; electrical infrastructure limits expansion",
-   "original_title": "Contecon installs two STS cranes in Manzanillo; electrical infrastructure limits expansion",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU2EzUndhcERRVlBWbDdfRjZVeXRNM1psYWw4X1E5OFk4RV9pV3ZSNU1BWWcwOGVtcWFrYlVROS1ReVpfVE80MjRZeVZOcmNwSnBGdlBUNGQ1eVFZb0doeU9fUWdNaDlTZEd0SFh5TGZsR3VfSWJ3MXdpdnJHQTk4aDM2dWNyNHZ4dDRUbDRWc09QZzRBTmNFQ0MyRFU1ZmtpU2U0Wi1LcmxDWDU2VHR5cFpudzV2OVQyRDJZWml5YXd2UHUwMlV1Z0pZNmw3U1lFZVNJaQ?oc=5",
-   "source": "Data Portuaria",
-   "published": "2026-09-29T20:15+00:00",
-   "added": "2026-10-01T16:47+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "sts crane"
-   ],
-   "summary": "Contecon installs two STS cranes in Manzanillo; electrical infrastructure limits expansion Data Portuaria",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   }
  ]
