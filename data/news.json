@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T22:48+00:00",
+ "generated_at": "2026-10-04T23:02+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "70f6fa9b5f22",
+   "title": "Where freight forwarders actually lose money",
+   "original_title": "Where freight forwarders actually lose money",
+   "url": "https://theloadstar.com/where-freight-forwarders-actually-lose-money/",
+   "source": "The Loadstar",
+   "published": "2026-10-04T23:01+00:00",
+   "added": "2026-10-04T23:02+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "forwarder"
+   ],
+   "summary": "More often than not, a forwarder closes a clean month and still watches the margins come in light. Most forwarders already know where it went: into the charges that were never recovered and the costs that were never meant to happen. A demurrage charge that was never passed on to the customer. Forwarders already have more data than they can read. Everything after is just a record of money already gone. So, the job is narrower than what most tech pitches: flag the handful of shipments where an unexpected charge is about to be incurred, whether that is demurrage building, a customs delay, port congestion that holds up haulage, or a misinterpreted contract, and put them in front of the operator early enough for them to act. Command Center surfaces the risks, the AI agents take routine tracking and reconciling off the operator’s plate, and Freight Audit checks carrier invoices against the contract and the actual shipment, so overcharges and miscalculated D&D are caught before they are paid rather than written off after. BCOs are already benchmarking their forwarders on exactly that, and it is often the difference between an account that renews and one that goes out to tender. For most forwarders, the honest answer is uncomfortable, and it is also the easiest money they will find all year.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "176ea5e3b2fc",
    "title": "Gunvor rebrands as Centalion and heads for Singapore",
@@ -16374,37 +16399,6 @@
     "lng"
    ],
    "summary": "Canadian PM Welcomes Major LNG Expansion to Double Production For Asia Malaysia-China Insight",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "408189a6224a",
-   "title": "Metinvest: Ukrainian steel industry recovery depends on attacks, port access and EU trade restrictions",
-   "original_title": "Metinvest: Ukrainian steel industry recovery depends on attacks, port access and EU trade restrictions",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQTg0Qlp4cDByeDQxNF9FMWhwRVg3STZnbk15dW1GbDktUGl2Z2RpTzlpRlRKSC1pZzBSbDFrRmFKVzQtTmpQOXhVM0owNGVSWlZiMVpiY2NQR0JTcUV6TUxjYmpwWlVGQzlxZDYyX05tN29DM2FmZjBOWDBWME1ROU9BYk9iNnNuem1qWE5ua0NpVkY0RTdQSTc4RF9DX0xMMUdrZmEtSm1ZRXhKWGN3aXRITjFaeUVOUmxvWXZzWEFmM1dfWnNDTzBRaFFrUlM3VThQVHR4ck8wUkZZaHR1WWRDZE1RZzFqYVpQcV9jdFlKWnVj?oc=5",
-   "source": "Steel Orbis",
-   "published": "2026-09-30T09:25+00:00",
-   "added": "2026-10-01T18:52+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea",
-    "EU institutions"
-   ],
-   "tags": [
-    "attack",
-    "eu ",
-    "port",
-    "steel"
-   ],
-   "summary": "Metinvest: Ukrainian steel industry recovery depends on attacks, port access and EU trade restrictions Steel Orbis",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
