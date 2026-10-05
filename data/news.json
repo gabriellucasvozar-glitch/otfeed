@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T08:36+00:00",
+ "generated_at": "2026-10-05T08:57+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -166,6 +166,37 @@
    ],
    "summary": "DP World is in talks with the Peruvian government over a 30-year extension of its concession at Callao in return for a further $1.47bn investment programme. Peru’s Ministry of Transport and Communications (MTC) has held fresh discussions with DP World Callao over proposed Addendum No. 4 to the concession for the South Pier container terminal. The amendment would extend DP World’s tenure from 2036 to 2066. The investment package would expand terminal infrastructure and equipment, improve road access and create the long-planned Callao antepuerto, or truck staging facility, designed to tackle congestion around Peru’s principal container gateway. The proposal is now being evaluated by the government and will require coordination between the MTC, National Port Authority, Provías and Callao municipality. DP World has already invested heavily at the port. Its $400m Bicentennial Pier expansion, completed in 2024, increased annual capacity to 2.7m teu and gave the terminal a 1,050 m quay capable of handling three ultra-large containerships simultaneously. The South Pier handled a record 2.079m teu last year, accounting for around 62.5% of Callao’s container throughput.",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "347bb0cbea92",
+   "title": "Japan targets 35 shadow fleet ships in first vessel sanctions",
+   "original_title": "Japan targets 35 shadow fleet ships in first vessel sanctions",
+   "url": "https://splash247.com/japan-targets-35-shadow-fleet-ships-in-first-vessel-sanctions/",
+   "source": "Splash247",
+   "published": "2026-10-05T07:45+00:00",
+   "added": "2026-10-05T08:57+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "fleet",
+    "russia",
+    "sanction",
+    "shadow fleet",
+    "vessel"
+   ],
+   "summary": "Japan has imposed sanctions directly on individual vessels for the first time, targeting 35 ships linked to Russia’s shadow fleet as Tokyo steps up efforts to restrict Moscow’s oil-export network. The measures took effect on October 2 under Japan’s Foreign Exchange and Foreign Trade Act. Japanese companies will now need government permission to provide specified services to the 35 vessels and for capital transactions, including loans and debt guarantees, connected with their sale, purchase, lease or charter. Japan’s foreign ministry has identified all 35 ships by IMO number. It is the first time Tokyo has placed vessels themselves under sanctions, bringing Japan closer to the approach already adopted by the UK and European Union against ageing tankers moving Russian oil outside mainstream Western shipping, finance and insurance channels. The shipping measures formed part of a wider package that also froze the assets of 33 Russian organisations and nine individuals and introduced export restrictions against four entities in Turkey and the UAE. Tokyo said the vessel measures were aimed at ships being used to transport Russian crude and petroleum products while circumventing existing sanctions. Seventy-two of those ships subsequently transported an estimated €7.5bn ($8.8bn) of Russian fossil fuels. Clarksons data showed the Russian registry up 38.2% this year through September 1.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
   },
   {
@@ -16408,32 +16439,6 @@
    ],
    "summary": "Russia-China Coal Freight From Vostochny Port Reaches Record Highs russia's pivot to asia",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c57c7c0f82d6",
-   "title": "Poland draws foreign e-commerce logistics",
-   "original_title": "Poland draws foreign e-commerce logistics",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnVmZXltVGpyVmpnN3NNRXFsVFg4UVp4LWRzSXZMaDUzbkQyd19VVkZ5aXBXY3hnWkl6enRnYXAtOGNtbndhakVSd3J4am0yal96WmQ2bWhsTDlic3oyc2N1LWo1NmxTYXQ1ZUFMSi1KZFFPQms1elZFZVJxYnd4Q0Ntd3ZpcU0?oc=5",
-   "source": "EurobuildCEE",
-   "published": "2026-09-30T13:14+00:00",
-   "added": "2026-10-02T08:13+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "logistics",
-    "poland"
-   ],
-   "summary": "Poland draws foreign e-commerce logistics EurobuildCEE",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   }
  ]
