@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T10:28+00:00",
+ "generated_at": "2026-10-05T10:51+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,67 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "486f03b2957b",
+   "title": "CH Robinson losing the headline war – the plaintiffs’ bar has noticed",
+   "original_title": "CH Robinson losing the headline war – the plaintiffs’ bar has noticed",
+   "url": "https://theloadstar.com/ch-robinson-losing-the-headline-war-the-plaintiffs-bar-has-noticed/",
+   "source": "The Loadstar",
+   "published": "2026-10-05T10:31+00:00",
+   "added": "2026-10-05T10:51+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "fleet",
+    "logistics",
+    "trucking",
+    "war"
+   ],
+   "summary": "Recap: on September 23, six family-owned trucking companies filed a RICO complaint (here’s my previous analysis) against CH Robinson and Total Quality Logistics in the Eastern District of Texas. Among them were Stevens Trucking, Western Flyer Express and Freymiller. The complaint alleges wire fraud, forced labor and a scheme to route freight through chameleon carriers that undercut compliant fleets. Within a week FreightWaves, Land Line, CDLLife and Law360 had all run it and…",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "d9c84b3c5eab",
+   "title": "Almi expands China orderbook with three more ultramaxes",
+   "original_title": "Almi expands China orderbook with three more ultramaxes",
+   "url": "https://splash247.com/almi-expands-china-orderbook-with-three-more-ultramaxes/",
+   "source": "Splash247",
+   "published": "2026-10-05T10:30+00:00",
+   "added": "2026-10-05T10:51+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bulker",
+    "china",
+    "dry bulk",
+    "fleet",
+    "shipping"
+   ],
+   "summary": "Greek dry bulk owner Almi Marine Management has added another three ultramax newbuildings in China, expanding a fleet renewal drive that began earlier this year. Greek shipping sources report that the Athens-based owner has booked three 64,000 dwt bulkers at COSCO Shipping Heavy Industry’s Zhoushan yard, with delivery scheduled for 2030. The fresh deal follows Almi’s return to the newbuilding market in February after a four-year absence. Managing director Christos Hadjigeorgiou confirmed at the time that the company had signed for two 64,000 dwt next-generation ultramaxes at Nantong COSCO KHI Ship Engineering, or NACKS, for delivery in the second quarter of 2029. The latest Zhoushan trio takes Almi’s known forward programme to five 64,000 dwt newbuilds across two COSCO-linked yards. The owner already has close ties with the Chinese-Japanese NACKS and DACKS yards, taking three ultramaxes from DACKS in 2024. Almi currently controls six bulkers. Its fleet renewal has also included the disposal of older supramax tonnage, including the 2008-built Anasa. For a price marker, Splash noted in August that Xclusiv was assessing a standard Chinese-built ultramax at around $36m, which would put three ships at roughly $108m if Almi contracted near prevailing levels.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "9303d9cecbcb",
    "title": "South Africa’s port reform takes an important step forward",
@@ -44,6 +105,36 @@
    "summary": "One battle doesn’t win a war, but just getting to a stage where South Africa’s port system can now be reformed is an achievement by itself. The decision of South Africa’s government to formally endorse the separation of Transnet National Port Authority (TNPA), the country’s de facto port landlord, from the Transnet rail operations is a step in the right direction – one that its shippers, forwarders, and other supply chain stakeholders have been demanding for years. Operations at South Africa’s key container gateways of Durban, Cape Town, Coega and Port Elizabeth have been plagued by congestion and delays for years. And while it’s great the government has finally kicked off the reform process of Transnet, it also means some of the really hard work begins now, as the South African Association of Freight Forwarders argues when it says the real imperative is “getting corporatisation right”. The central point of the reform is that TNPA will be moved out of the Transnet group – which will continue to manage Transnet Port Terminals, but with much reduced investment power – and become a standalone state organisation with the ability to take its own investment decisions on both infrastructure and superstructure, and independently manage landlord revenues.",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "3daaac56bcd8",
+   "title": "EU Taxonomy: General Court largely upholds aviation and shipping criteria, Julia Voskoboinikova - Linklaters",
+   "original_title": "EU Taxonomy: General Court largely upholds aviation and shipping criteria, Julia Voskoboinikova - Linklaters",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNUxSUngxYUhxXzJidmdpa0cwd3F6Y1JuUTRwd25zWjF5ZmIxTjFxRG93MnZYUVo1WXNsZ3lpTzM1MmptUlJVQkw0OFE4YnFtYW1oZGp1YjJkOGVLbzQxLXhuMGJnazBZR1ZHa3dsWUJWVmFLeG1RQnZ2QVhGM1o3S01xXzVMMU1TT2c0OEFBZmxYXzhwWWdBMVZXbmVWcWo1X09ERElVSzE3djZORTBLcHVTZW9YVEVPdUFYS1ZIQUY4LTlVWUE?oc=5",
+   "source": "Linklaters - Sustainable Futures",
+   "published": "2026-10-05T10:06+00:00",
+   "added": "2026-10-05T10:51+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 7,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "court",
+    "eu ",
+    "futures",
+    "shipping"
+   ],
+   "summary": "EU Taxonomy: General Court largely upholds aviation and shipping criteria, Julia Voskoboinikova Linklaters - Sustainable Futures",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
   },
   {
    "id": "a7cb8ff51f24",
@@ -478,6 +569,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "d83a6f8fe4f6",
+   "title": "Bulgarian locomotive and railcar factory revived following a EUR 60 million investment",
+   "original_title": "Bulgarian locomotive and railcar factory revived following a EUR 60 million investment",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSlJOS0pRZ3Y5MkpRbmt6cTc4RVAzckNOcVAzSVY0WmxSbXh2WDFDejVCV21sUEtXeW1hZTAydmRzVUFYdlUxTlRjRHFjbm5VWkM2RTM0VHBtOTZCT0h4UXJYZzhXOFA4ZFVxamRxUjQtT2huOWtBOGlILW9ETS1aOGdxQjBIUQ?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-05T09:47+00:00",
+   "added": "2026-10-05T10:51+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Central & Eastern Europe"
+   ],
+   "tags": [
+    "locomotive",
+    "railway"
+   ],
+   "summary": "Bulgarian locomotive and railcar factory revived following a EUR 60 million investment Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "77254a282ee1",
    "title": "Brčko Port performance lifted by RIKON crane",
    "original_title": "Brčko Port performance lifted by RIKON crane",
@@ -606,6 +723,34 @@
     "terminal"
    ],
    "summary": "Yilport invests €100m in Leixões North Container Terminal WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "998930199727",
+   "title": "Ukraine faces US$8bn loss due to closure of ports",
+   "original_title": "Ukraine faces US$8bn loss due to closure of ports",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oNC1idzY0Unk5RkluekMzQzVXSXpfUFlLbWdvY2wtSUJtQXVSamlhQllhU2JRc24wcVR1a0JFUEZCTHYzWWNnSkcyWHk4VnhxR3pXaUwxbFJ3elFPNXllbVYyQkjSAXBBVV95cUxOVXlQYWRFT2NvOEl0MVBOMEpFSHZLQWowMUd0YXA2QUh3NjRYLVl1QW5zamNjdHU5cVl2b25CaTBjZ2U5YnIzZUJkNzFQTWxGbE5BN3owbmtFUlVDNGxyeV85QXNaQ2R5MExUQ1MzTnl6?oc=5",
+   "source": "Українська правда",
+   "published": "2026-10-05T08:53+00:00",
+   "added": "2026-10-05T10:51+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "ukraine"
+   ],
+   "summary": "Ukraine faces US$8bn loss due to closure of ports Українська правда",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -760,6 +905,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "74b12e811cca",
+   "title": "Łańcuch dostaw: Logistyka będzie kształtować wzrost w nadchodzącym okresie.",
+   "original_title": "Łańcuch dostaw: Logistyka będzie kształtować wzrost w nadchodzącym okresie.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmlnQkYxMDdsV0ZEd1dlRm96NkVIMkJNQktDaWVMZ1J4NzlEOVo4M2F4ZUFuT2FJcERGOXRNNklLMV9tSUtOWnNoazFySk5zbGJjb1htRmRWVkFRTjBVSU1RWnpkTjlzbGdQUEdKUUtxdjNFNF9xejFEakRYRm1ReVVScWs4eGJQRG9qblk1TmFURmZEVUp3?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-05T08:02+00:00",
+   "added": "2026-10-05T10:51+00:00",
+   "lang": "pl",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "lancuch dostaw",
+    "logistyk"
+   ],
+   "summary": "Łańcuch dostaw: Logistyka będzie kształtować wzrost w nadchodzącym okresie. Vietnam.vn",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3269270eec82",
    "title": "Port returns one gantry crane to service, inspections continue to determine how Gantry 6 became dislodged",
    "original_title": "Port returns one gantry crane to service, inspections continue to determine how Gantry 6 became dislodged",
@@ -901,6 +1073,31 @@
    ],
    "summary": "20261005 port cranes 01.jpg guampdn.com",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0f639a1d57c3",
+   "title": "BigMint's India steel index rises 1.8% w-o-w on tight trade-level supplies, surging raw material costs",
+   "original_title": "BigMint's India steel index rises 1.8% w-o-w on tight trade-level supplies, surging raw material costs",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQLUZKaHg4QjFZMG1IQ281ZmYzWXFhWUlOSlJDUGViUTg3RVB0dzJNWnlTZ2dBY0EyUEhVZGVZRXFzMnRuRG4yUTY3VHBmTEMzY3VNaU1Pa1llNlBhR0R4WXV1NDJFN1hSZkFjVUpNcW9abWNPN3VDci1rcDZNeU5BOUJIZEFWMEpFbGplQ00yY0cydmJleFRqQmh3VVRiWXpFVVN2dHJRMjBBdThrMkxIMmRudm5SYXpwVlhRNE5pcE10bUt4VFkwYmxMUGU0ak9meC1VbkNXbnNLQ1dwTTBN?oc=5",
+   "source": "BigMint",
+   "published": "2026-10-05T07:12+00:00",
+   "added": "2026-10-05T10:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "BigMint's India steel index rises 1.8% w-o-w on tight trade-level supplies, surging raw material costs BigMint",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16259,201 +16456,6 @@
    ],
    "summary": "Higher Global Supply Makes It Harder for Brazil to Export Its Corn Crop DatamarNews",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2e4aa27288fa",
-   "title": "Europe's Maize Shortfall Meets Ukraine's Glut and an Unmoved Quota",
-   "original_title": "Europe's Maize Shortfall Meets Ukraine's Glut and an Unmoved Quota",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRDFkX05CR0REWjNxQURBSXlEMHdFR0J6bHhzLVZ3WDh0VXVXZXdHWEpaNTdYSjItWWFpUzl5NUN5aHZBOTBzY01OOFRxRWZOUXVpaUlkektwNVMzaER0RlNNdnBmVjl2V0lYYzAyMVdUeFhnOFktNjdnSzRyckt1bWxoRjhVb1BHSDVUQnlRdFdUaEs2ZkZ0SkNHdjRYVlhIaFB3WA?oc=5",
-   "source": "StoneX",
-   "published": "2026-09-30T20:25+00:00",
-   "added": "2026-10-04T23:21+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "maize",
-    "quota",
-    "ukraine"
-   ],
-   "summary": "Europe's Maize Shortfall Meets Ukraine's Glut and an Unmoved Quota StoneX",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d6a69cc8354b",
-   "title": "Shipping turmoil, grain rally stir global fert costs as local stocks dry up",
-   "original_title": "Shipping turmoil, grain rally stir global fert costs as local stocks dry up",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVVA2VkxRdjRnUlRJTmhQNC1xd1F5LWF2SnRPNjhWSzdGSFFTb2diUXpHckdwX2hVYWswMmFnbHIyQVRnaDc0VDB6XzRWMDF6ZFVlbHFzSEJQMk1rZ005cDFodFhkdzlrTGpHamtKd2t1ZmxUSmpZYlVZWEVWV2JQU19hZkhIS3BtR3FlUFFRYkJYQ0xzd1g1VkVHWV9PeFpPRTJnakk3MXJLdi1RY25xMVFB?oc=5",
-   "source": "Farm Online",
-   "published": "2026-09-30T20:05+00:00",
-   "added": "2026-10-01T17:03+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "grain",
-    "shipping"
-   ],
-   "summary": "Shipping turmoil, grain rally stir global fert costs as local stocks dry up Farm Online",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3922d1da1660",
-   "title": "Port Polska pokazał zaplecze cateringu. Dwa obiekty dla dwóch operatorów",
-   "original_title": "Port Polska pokazał zaplecze cateringu. Dwa obiekty dla dwóch operatorów",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWhQZng0b2NadEFXQ3dLcnNWUmlaV09MM2FxT0lORm5ZWWJ3TW1yQU81d3c1dnQtSzB5OWtGOTl3dGk5bnlPOUlsSTd0Y3ptLUpUeldjS1IxT1NYR1hIdmhiSWxwS3VXT3NKUjlnVG9malhhMzYyek5UclVZeDBmM2xFUno2dUxqT1lOd05IYkRrZFlIdEY5cXI3aXRCcU16MXlR?oc=5",
-   "source": "transinfo.pl",
-   "published": "2026-09-30T19:55+00:00",
-   "added": "2026-10-03T18:41+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polska",
-    "port",
-    "port polska"
-   ],
-   "summary": "Port Polska pokazał zaplecze cateringu. Dwa obiekty dla dwóch operatorów transinfo.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8f50ba8a0555",
-   "title": "Tincan Island Container Terminal Graduate Trainee Program 2026",
-   "original_title": "Tincan Island Container Terminal Graduate Trainee Program 2026",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlUHF0Y2h5UEx6WXBsMmZyZV9yZXR0em5JN2kyYjJVTWtGajZtUGhQcjJvTE50TnpjdjBhVHM4eENxZ0tEN3VaUXhDbzdTWTlLdTQ5ck4wMlZlX0JXcEQ5WGNlMGxRaVFleWJMb3hvMA?oc=5",
-   "source": "After School Africa",
-   "published": "2026-09-30T19:26+00:00",
-   "added": "2026-10-03T01:46+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "container terminal",
-    "terminal"
-   ],
-   "summary": "Tincan Island Container Terminal Graduate Trainee Program 2026 After School Africa",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bdbb774fff4e",
-   "title": "GEODIS Strengthens Contract Logistics Business in France with Planned Acquisition of Part of the Transport and Logistics Activities of Deret",
-   "original_title": "GEODIS Strengthens Contract Logistics Business in France with Planned Acquisition of Part of the Transport and Logistics Activities of Deret",
-   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRnB6VUFtNkZpcUhXWUNpdU5RMWZKcGFLbEVQT3VXa2dXSjVVR185TkpVRlRCYU5rLWpRalJCMy02alh4TmZVRVJqMFZBZjl6aWxYMmNWS2RJVnNVcTVlSnFfMmlmcWNibXk1QTBwSzJmcnRqR3QyQlgwOFQ0a0o2R3dURHI5Yng4dUQ1a1h6Z0JOZkRkVWtJRUtvb2liaEIxMUlSOVRlQi0wT3BsS1BnYzNRNm0tcHVnbHY0Zk9mMExVTE1VaEZwQUpwM3NvbkRJVVlwWWxDSzRfdDF2bjZjWC1IcFk4MUwtNXJMWTJWbHJ2U3VGblRKWml6cVk3dm1GSnFwU0h5TEVRWDA?oc=5",
-   "source": "citybiz",
-   "published": "2026-09-30T19:09+00:00",
-   "added": "2026-10-01T17:03+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "acquisition",
-    "logistics"
-   ],
-   "summary": "GEODIS Strengthens Contract Logistics Business in France with Planned Acquisition of Part of the Transport and Logistics Activities of Deret citybiz",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c88599a117b1",
-   "title": "Link Logistics acquires class A bulk distribution center in Charlotte",
-   "original_title": "Link Logistics acquires class A bulk distribution center in Charlotte",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmxfeFNYMGQzQWdrZklpNGh2TUxZSFp1Q2hMWnVKRUdJeUZmX2RqcGZhYzFKdENXa0U3ZG9vLUN5Tml3WlZaZ2xybFdXTHJiS2d6d1ZEUXItZTZhTEd6aXBqalpaUXhpQjRuZkQzTFJUWEtXbERMRFpPVzctbnRXc3I2RWN3ejFfc1VuSUtJQnZiMy1sZS0w?oc=5",
-   "source": "Institutional Real Estate, Inc.",
-   "published": "2026-09-30T19:08+00:00",
-   "added": "2026-10-01T16:47+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquire",
-    "acquires",
-    "distribution center",
-    "logistics"
-   ],
-   "summary": "Link Logistics acquires class A bulk distribution center in Charlotte Institutional Real Estate, Inc.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "59561b7ec2b3",
-   "title": "Falling vessel rates push Baltic dry bulk index to fresh low",
-   "original_title": "Falling vessel rates push Baltic dry bulk index to fresh low",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFJwNG5xMmtPMHA3cXhwZ2ZjMzlqSFl0cUx3SE9UVjZrdFU5N3k5NE9Pa2RqYVN1cmlNTDZVQmFhQUh1RTNKREd4M3E5VEJTQTJKZ1VDZnI1NzBhYTQydTlBU1RtNk8tbHRxcFMxbVhXOG1NNm9Va3cyVHRuYlExSm4wYWVVNVhBcjFJbFl3WHdoamdHRVBzT3FnaTV6UU80cDBYMEZMTUhYOUdpVWlxVFJUSE9UWWdi0gHGAUFVX3lxTFBzcU9QbGN1ZmFRRzI5R0pSc3lQVDFPSWlEbUprazYxSmZYNHk3LWgyd3dBUkxPQkI1QzhISVpyZmhoMTV2Nm5XdDNjVTE4UFBGcTA3aGRJNXI4LW12Qkx1RDkxVGZYZWxiY25NM0hwUkJOVHdHM0tKbXlFbm5XOEVRUktacHpMcE93UUJQeHBnNGJjNWdJdnI0Ykx5RzBWRG84S0RDM0tHUUxwX0RPWUxPMTVrVHcyUG1zU2p5WUZoamNidGVYZw?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-09-30T18:56+00:00",
-   "added": "2026-10-01T16:47+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry",
-    "dry bulk",
-    "vessel"
-   ],
-   "summary": "Falling vessel rates push Baltic dry bulk index to fresh low Baird Maritime",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   }
  ]
