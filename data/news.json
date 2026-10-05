@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T22:22+00:00",
+ "generated_at": "2026-10-05T22:39+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "00797b3be6ea",
+   "title": "Five Hormuz Incidents Reported Monday as Tanker Attacks Mount",
+   "original_title": "Five Hormuz Incidents Reported Monday as Tanker Attacks Mount",
+   "url": "https://gcaptain.com/five-hormuz-incidents-reported-monday-as-tanker-attacks-mount/",
+   "source": "gCaptain",
+   "published": "2026-10-05T22:28+00:00",
+   "added": "2026-10-05T22:39+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe",
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Vessels in the Strait of Hormuz, as seen from Musandam, Oman, August 3, 2026. REUTERS/Stringer UK Maritime Trade Operations reported five separate incidents involving commercial shipping in or near the Strait of Hormuz on Monday, including four tanker attacks and an incident in which Iran’s Islamic Revolutionary Guard Corps threatened another vessel with attack. Three of the four attack notices were time-late reports covering incidents from October 3 and 4, while the latest strike occurred Monday afternoon. The latest incident, UKMTO 156-26, occurred at 1637 UTC Monday when the master of a tanker reported being struck by an unknown projectile while transiting the Strait of Hormuz. In another notice Monday, an inbound tanker approximately 11 nautical miles north of Khasab, Oman, reported being hailed by the IRGC and ordered to turn around or face being targeted. The Joint Maritime Information Center’s October 4 update documented four confirmed tanker attacks between October 2 and October 3, all involving unknown-projectile strikes on vessels transiting Hormuz. forces redirected the 130th commercial vessel on October 5 as part of enforcement against ships attempting to enter or depart Iranian ports.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "0641576b19cc",
    "title": "PKP Cargo stock faces a management reset during restructuring - ad-hoc-news.de",
@@ -1177,6 +1206,31 @@
    ],
    "summary": "NW Europe CFR ammonia prices ease on steady Trinidad line-up Quantum Commodity Intelligence",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c9b352dfb275",
+   "title": "Nasz Patronat. Port Rzeszów XXX Jubileuszowe Dni Kultury Marynistycznej",
+   "original_title": "Nasz Patronat. Port Rzeszów XXX Jubileuszowe Dni Kultury Marynistycznej",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOVR6YWhkTHUzX2FPSHlGcTR2SzZjVUlESVFybzBFQWlNc0tCeXliMHktYzVTcGNad2Y5Rm94MWotR2FGZTFfMXpoMlpPbFMyTmg1eEF1bEJTSm9lZGFaTThNQUhBb0NxX0s2RG9ZR3RxaHI0cWtTdzBuVVpkdE85VXdCZVcwYUNKLWpCU3M4SUUzQ2RXbDhSYlVFbFBLS01wM3Ftdzdqb0JoNXc?oc=5",
+   "source": "Nowiny 24",
+   "published": "2026-10-05T16:28+00:00",
+   "added": "2026-10-05T22:39+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Nasz Patronat. Port Rzeszów XXX Jubileuszowe Dni Kultury Marynistycznej Nowiny 24",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -7469,6 +7523,33 @@
    ],
    "summary": "India Oil Import News: Gulf Crude Flows Rise Despite Hormuz Risk, September Imports Hit 2026 High The Sunday Guardian",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "783cdc66dadf",
+   "title": "German steel industry urged to maintain budget support for network tariffs",
+   "original_title": "German steel industry urged to maintain budget support for network tariffs",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUjRTUjREclV5ZVhsNEdUdkJuN0Rpd2ZybDBWQ05uc0I5MTF6QjNwVW0xTlFKM3dYZDlVTmJhS3hIcHh5Y2NENTY5TV82YzIxOXVSajFMVjdWaXUweUl4R2t3aGthc0M1aUNkTExsbmpoV2MycUh4d3phQmhIRDQtczNLY01kMnlmMzhuQ3duZ2FoeHZ6cGVqXzNhT0dPT2FQZHdIVUZFdndmRkN6bXpTVDU1ckNxNDBaaWJkTUtiTGVDRTBpcTNyUDdkOUhQdVEtNVZGR2JJMW_SAeoBQVVfeXFMUEQzWk9qYlFPM3pUQ2N5RFVFdXdERHlUY21nZFZHaGJmYkp6Snpsc1hta3NZZUxRSmdkSUFqTjIzRHN6RWZHN0ZDRDY3ZTJONXd2ZXpYcU03dDFRMGdCZjkyTGJLNUhJbTMwelZjSEJRaW80Y2xjVmRwc0hNNWJaZnFKR0h6NVJ6UzlRRlhQSGM4MEwzY29PNGx3M0tEUmtZUjczS3RYNmNmdDJORTFlTFNheEM3TTVGc1F0NFNZNmZoUDhpVnJuM29Qc1FyV3c2T0h5Z0JjMTB0WW12VUNndC1DN0JtOEROZEhB?oc=5",
+   "source": "Металлургпром",
+   "published": "2026-10-03T11:00+00:00",
+   "added": "2026-10-05T22:39+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "steel",
+    "tariff"
+   ],
+   "summary": "German steel industry urged to maintain budget support for network tariffs Металлургпром",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16413,85 +16494,6 @@
     "terminal"
    ],
    "summary": "METRANS expands Polish terminal capacity Port Strategy",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "15c7de433ebe",
-   "title": "Melamine Urea Formaldehyde Resin Market Outlook to 2035",
-   "original_title": "Melamine Urea Formaldehyde Resin Market Outlook to 2035",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmJrcGZiOHFyNUlqY2EyRjV3VU9Md3BmMThPWlVrZy1keDZyLTgzeHpJUVo0cWxKdFNTYURNNDdaQW9TcVc2SzVfZm90WGl6QXBBS3NfYkRFWnNaaWUwS1RWQmV6V1RkUFh6V3REY2dlYU1xbk5RejBTa1ZnZGhsZ2MybVA1QTJzS0dsZHFB?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-01T12:36+00:00",
-   "added": "2026-10-01T19:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "urea"
-   ],
-   "summary": "Melamine Urea Formaldehyde Resin Market Outlook to 2035 IndexBox",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a10cd433eb79",
-   "title": "Fourth LNG tank at Gate terminal ready: strengthening energy supply for the Netherlands and Northwest Europe",
-   "original_title": "Fourth LNG tank at Gate terminal ready: strengthening energy supply for the Netherlands and Northwest Europe",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQWhMNEloOVNYbGpkQ2N1Wlp0b01RYnFiZHduUzFRdV8ybkVxMVBVX3lZS0IyMklvRXM5emJrOEJZTFcyVGJ0T09EbkdNZFowYXFPWnJrM1d4Vi16TWlLRDVnWENzSFQ1NFdwbEdBY0VYZE1jaEhscmhTS1JTdDFqS21vcTRQdFVsRkNld3p3X0tPWjVjemxtM1F4UEc4U3U3RlpkbjFNTk1RYnp5SnNRZUVTV3dfVHBMU2xyXy02Mjh5bEUtaHJZTkVjT0JDWWRSOWp2R3ZfMWs3UlJmOTE4?oc=5",
-   "source": "euro petrole",
-   "published": "2026-10-01T12:35+00:00",
-   "added": "2026-10-01T18:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "lng",
-    "terminal"
-   ],
-   "summary": "Fourth LNG tank at Gate terminal ready: strengthening energy supply for the Netherlands and Northwest Europe euro petrole",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "576416ce9341",
-   "title": "Dutch LNG terminal capacity rises to 20 billion cubic meters with 4th tank",
-   "original_title": "Dutch LNG terminal capacity rises to 20 billion cubic meters with 4th tank",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0dzT2UwQTdmbE9aV1UxcmdNajJuajIyLV9BX3Y2QkRheDdxX185Y2VSYTlYalM4cnpnWUJKV21fY0l2Tzk3emY4QVBwT3VCV09nVW9JQVU0ZkpDa2s4U3hDV05tQ1dUVVhkVThYUzYzQXNwTWJJM1JDeXlNVkQwT1JPRzJtbWxtSWtvVFpER3hoTmVEUlVPNkpYaXZ4QS1vSHRBLUJjZFdTTmg0ZWtFWlhLNA?oc=5",
-   "source": "Offshore Energy",
-   "published": "2026-10-01T12:35+00:00",
-   "added": "2026-10-01T18:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "lng",
-    "terminal"
-   ],
-   "summary": "Dutch LNG terminal capacity rises to 20 billion cubic meters with 4th tank Offshore Energy",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
