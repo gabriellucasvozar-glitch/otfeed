@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T11:32+00:00",
+ "generated_at": "2026-10-05T11:53+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,104 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "d4d33ac2d41a",
+   "title": "OceanX: Liner profits surge; EU trucking and national security; clock ticking on booking platforms",
+   "original_title": "OceanX: Liner profits surge; EU trucking and national security; clock ticking on booking platforms",
+   "url": "https://theloadstar.com/oceanx-liner-profits-surge-eu-trucking-and-national-security-clock-ticking-on-booking-platforms/",
+   "source": "The Loadstar",
+   "published": "2026-10-05T11:51+00:00",
+   "added": "2026-10-05T11:53+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "rail",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "carrier",
+    "eu ",
+    "security",
+    "trucking"
+   ],
+   "summary": "If you are on the carrier side that certainly is the case, for example Hapag Lloyd just raised its earnings outlook – a little bump that tells you that this industry is truly no longer about strategy and execution, but merely about luck. So those “geopolitical challenges“ and that “high degree of uncertainty“ is likely to pay off again. Employees at these highly profitable liners seem less happy though, take those on strike ...",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "b664187bb53a",
+   "title": "South Korea-Russia ocean volumes boosted by rail congestion in China",
+   "original_title": "South Korea-Russia ocean volumes boosted by rail congestion in China",
+   "url": "https://theloadstar.com/south-korea-russia-ocean-volumes-boosted-by-rail-congestion-in-china/",
+   "source": "The Loadstar",
+   "published": "2026-10-05T11:48+00:00",
+   "added": "2026-10-05T11:53+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "ports",
+    "rail",
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 14,
+   "regions": [
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "congestion",
+    "port",
+    "ports",
+    "railway",
+    "railways",
+    "russia",
+    "shipping"
+   ],
+   "summary": "Growing congestion along the Trans-China and Trans-Siberian railways, linking China and Russia, has boosted South Korea-Russia container volumes, encouraging shipping lines to consider deploying larger vessels this month. In August, more than 33,000 teu was transported from Busan to ports in Russia’s far east, such as Vladivostok, a slight increase on July. Of this, exports, excluding transhipment cargo, were 8,000 teu. Volumes are said to have remained at the same level in September, as South Korean shippers rushed to get cargo out before the country’s Thanksgiving Day holiday on 25-26 September and China’s week-long National Day on 1 October. Consequently, cargo “rollovers”, where shipments are delayed due to a lack of space, are becoming increasingly frequent and Busan-Vladivostok freight rates now average $1,700 per teu, up from $1,500 per teu in August, which had seen a $300 jump from July. A representative at Dong Young Shipping, which offers South Korea-Russia services, said: “We’re considering deploying larger vessels than those currently in use, so we can offer more slots.” Congestion around major Chinese hub ports following the East Asia typhoon season in August resulted in more Chinese shippers opting for rail freight to Europe. And as rail capacity has failed to keep pace with the surge in cargo volume, waiting times for train departures now exceed one week.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "097b55a153fb",
+   "title": "Empty box pile-up at port of Manila sparks truckers’ strike",
+   "original_title": "Empty box pile-up at port of Manila sparks truckers’ strike",
+   "url": "https://theloadstar.com/empty-boxes-chaos-at-port-of-manila-sparks-truckers-strike/",
+   "source": "The Loadstar",
+   "published": "2026-10-05T11:35+00:00",
+   "added": "2026-10-05T11:53+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "ports",
+    "regulation",
+    "shipping",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "customs",
+    "port",
+    "trucking"
+   ],
+   "summary": "Customs brokers and hauliers are expected to voluntarily stop work today in advance of a three-day trucking strike in Manila, as a year-long standoff on carriers failing to remove their empties reaches its limit – Hapag-Lloyd having suspended bookings amid the chaos. Warning the protest could “last a week”, Reynaldo Soliman, chair of the Practicing Customs Brokers and Port Truckers Alliance, urged brokers not to secure gate passes, book trucks, or release shipments, until carriers reduced the number of empties at Manila. “Even though we want to ship, we cannot move,” Mr Soliman told local reporters, with the number of empties scattered around terminals, hauliers yards, and waiting on flatbeds to be removed, measured in the thousands with just 10% of volumes moving out of Manila’s ports. In a letter seen by The Loadstar , Bureau of Customs commissioner Ariel Nepomuceno told Port of Manila it needed to take measures to address the worsening empties backlog, suggesting boxes that had been waiting for more than 10 days be moved offsite. “Increasing yard utilisation levels at the Manila International Container Port and the port of Manila continue to adversely affect the efficient movement of cargo and the overall flow of port operations,” he wrote.",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "extract"
+  },
   {
    "id": "75d52885de14",
    "title": "Grace Energy nearly doubles money on ex-Dynacom suezmax",
@@ -16371,89 +16469,6 @@
     "wheat"
    ],
    "summary": "Wheat prices fall amid efforts to ease Black Sea Export disruptions Marine Link",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0d699d60e822",
-   "title": "J.B. Hunt Stock And Freight Names Riding New US China Trade Flows",
-   "original_title": "J.B. Hunt Stock And Freight Names Riding New US China Trade Flows",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVHlPUjltVHdmWmNJR1p3MTVJTEN6dTUyVl9idkxGbGx2ZWF1US1kNEJJX3k5blBTNFFmMGdaUGU3Nzk5YklzbFlzR0p4OEFZTTRydzc3QklUSWVNMnFOXzFyWVNRdFItTEJ3eHNkWnNvcFZHMk9TckVndzB3YnhUV3BXNFd5azRILVJLc2p0aXFHc1dEa3lqeHBuZXdlQlQyM3hJc1JYTEM1VUJOcGMxZ05wcFlER3RtcHVvVHlkRkMzU3plSEUwcXYzZVQ3UVdCZTNSUFRUd24xZVhjWFFQMHc3cmp2bTMwTlN6Q0JjTdIB9AFBVV95cUxNMzBFZG45UUVUNm5RSnM0Z2lfOFlOS2VCSUFUeGQ5UkVuWmV2TG1UU2pwVmUwWXBkYkVIZVExSHVhNC0yQVgxdlA4UWNiY3J3SHNqajNVZVhuUlg5ME52a2NvQk9HVFJPcGZ2T2dOMkt3UWF6bTR2UTdhM01aQWtSU0VXRElXb3VGT3F4dDR4Y0wtVzdFUFRhSnRDdERBSHljaGo0MEFZQjNKNzlrb0swYnJGRzhEUXQ3SkZzaF9oZE5qUmJzc1ZlSldHd2prMjB1LTlhN3M0bjc4YklCRDNpc0NEOVhzMjljbHRWQWZYRWRMMmtI?oc=5",
-   "source": "Simply Wall Street",
-   "published": "2026-09-30T22:00+00:00",
-   "added": "2026-10-01T18:52+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "trade flow",
-    "trade flows"
-   ],
-   "summary": "J.B. Hunt Stock And Freight Names Riding New US China Trade Flows Simply Wall Street",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "06446f3a821b",
-   "title": "China Crane Manufacturers: What Global Buyers Need to Know in 2026",
-   "original_title": "China Crane Manufacturers: What Global Buyers Need to Know in 2026",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQmtqRi1sYWlwbEFaZVNTcGNGd09lT2lGWGNVdEZISUJnT2NBTnBpYnRrdEt4RkN5ai05Vkh4cENCQjYtRmFpd1VFVHgtT3FKYmRWc2VqYmQzQm0tMFFpTm9tbDJJdGt1XzlPWDhlbGhvVXpZalRiM2t3aFRMaGw2T21FUWNiSVpXWU5DNFRDbnJrZ0NvVFoyLUtIdW9lSDRPSHlmV1dPVQ?oc=5",
-   "source": "BNO News",
-   "published": "2026-09-30T21:45+00:00",
-   "added": "2026-10-01T17:47+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "crane"
-   ],
-   "summary": "China Crane Manufacturers: What Global Buyers Need to Know in 2026 BNO News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "970ba1d7d3bf",
-   "title": "Red Sea Disruptions Put Direct Pressure On Egypt’s Budget, Military Expert Says",
-   "original_title": "Red Sea Disruptions Put Direct Pressure On Egypt’s Budget, Military Expert Says",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWl94QjRDbE1TOW15em05dHU3Ry1iRlpkWURjbjRrNE1NaWZEeHZONnpaV3V6QnhtQ2lSN2hVc1ZPRTVKcW81QjBfc1JwYV9LMmxvRWRJd21vUkppaF9sMFlFb29jWkRfQ3A4UVRNVVFVQnJqa0RST2tLbjdQaTZFRmU5RDFaQ2Zza081a2ZJUGdQd29kMXY0Q3Nn?oc=5",
-   "source": "Sada Elbalad English",
-   "published": "2026-09-30T21:15+00:00",
-   "added": "2026-10-01T17:25+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "disruption",
-    "military",
-    "red sea"
-   ],
-   "summary": "Red Sea Disruptions Put Direct Pressure On Egypt’s Budget, Military Expert Says Sada Elbalad English",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
