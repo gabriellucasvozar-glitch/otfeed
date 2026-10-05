@@ -98,7 +98,9 @@ button, input, select { font: inherit; color: inherit; }
 .mast-inner { max-width: 1240px; margin: 0 auto; padding-block: 20px 22px; position: relative; z-index: 1; display: grid; gap: 18px; }
 .mast-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
 .brand { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
-.brand-mark { height: 40px; width: auto; flex: none; display: block; }
+/* Official logo, used unaltered on a white plate so its dark lettering stays legible on navy. */
+.brand-plate { display: block; flex: none; background: #fff; border-radius: 8px; padding: 8px 12px; line-height: 0; box-shadow: 0 1px 2px rgba(0,0,0,.18); }
+.brand-mark { height: 30px; width: auto; display: block; }
 .brand-div { width: 1px; align-self: stretch; background: rgba(255,255,255,.25); }
 .brand-name { font-family: var(--f-display); font-size: 26px; font-weight: 600; letter-spacing: -.01em; line-height: 1; }
 .brand-sub { font-size: 12.5px; color: var(--on-navy-2); letter-spacing: .02em; margin-top: 3px; }
@@ -268,7 +270,7 @@ button, input, select { font: inherit; color: inherit; }
   .card-title { font-size: 18px; }
   .view-head h1 { font-size: 25px; }
   .brand-name { font-size: 22px; }
-  .brand-mark { height: 34px; }
+  .brand-mark { height: 26px; }
   .brand-div { display: none; }
 }
 
