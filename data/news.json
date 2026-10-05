@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T00:51+00:00",
+ "generated_at": "2026-10-05T01:10+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -604,6 +604,34 @@
     "ports"
    ],
    "summary": "‘Rest day’ protest set at Manila ports business.inquirer.net",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5e6ccfdb0724",
+   "title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
+   "original_title": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2E5OUdvNktidzdxOXpkVHVxYmpCTHNkZldCdjRxQVFTaG51eUhnbS03YjZwYnFnNHVYSk1iSUhMUlNNSHl3bUk1ZGl5QTVLX25NNnF6eF9GV1FlYk0tYm53NEhiNnZFeHFselRJbXBZLXpIS21fdUo4TUxoQWk5LTA2dS1HMjZpZkV0bVRLZWdENzNYeUZTR0p2dw?oc=5",
+   "source": "EnergyNow",
+   "published": "2026-10-04T17:26+00:00",
+   "added": "2026-10-05T01:10+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "war"
+   ],
+   "summary": "PIPELINES AND PORTS: Iran War Spurs Gulf Infrastructure Investment EnergyNow",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -16365,31 +16393,6 @@
     "coal"
    ],
    "summary": "Asia’s Seaborne Coal Trade Is Set to Shrink Gradually as Supply Tightens Межа. Новини України.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0d314424408c",
-   "title": "MMi Daily Iron Ore Report (September 30)",
-   "original_title": "MMi Daily Iron Ore Report (September 30)",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlZJTDlxTUt6T0tMQnNYTHgyVlg0NjdBS3JKVjFoQzZVN1AtWHoteU0yZVpxc1ZUOWRBd2ZIdXROTUZmYmpHX3RyNkVyN2VEejdmSDdLRHhmWHA1cEFGOWttNWRiLW1qaFJzNjdtbDdvbEZvaVg3UXJoRUd1a2tLMGZrWFgySl9CVmZzNktlQQ?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-09-30T09:51+00:00",
-   "added": "2026-10-01T22:54+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "iron ore"
-   ],
-   "summary": "MMi Daily Iron Ore Report (September 30) Shanghai Metals Market",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
