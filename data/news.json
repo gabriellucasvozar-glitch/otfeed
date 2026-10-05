@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-04T23:54+00:00",
+ "generated_at": "2026-10-05T00:23+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -3481,6 +3481,34 @@
    "summary": "The Nimitz-class aircraft carrier USS Theodore Roosevelt conducts a refueling-at-sea with the Military Sealift Command fleet replenishment oiler USNS Big Horn (T-AO 198), middle, and the French Navy Aquitaine-class frigate FS Bretagne, June 6, 2024. (U.S. Navy photo by Aaron Haro Gonzalez) (Bloomberg) — The Pentagon is deploying an additional aircraft carrier and 10,000 sailors and Marines to the Persian Gulf, according to a US official, a move that gives American commanders more options if President Donald Trump chooses to escalate attacks on Iran. The USS Theodore Roosevelt carrier left its San Diego home port on Sunday and is headed to the Middle East, the official said. Before this year’s operations against Iran, the last time the US had three carrier strike groups in the Middle East was in 2003, when they supported the early phase of the invasion of Iraq. On Monday, the USS Makin Island amphibious readiness group — with an assault ship, aircraft and 2,200 Marines — also set sail to the Middle East, giving Centcom additional options, the US official said.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "03f2b05a18d0",
+   "title": "At Great Lakes Ports, Steel Is Slowing Even As Trump Hails A Comeback",
+   "original_title": "At Great Lakes Ports, Steel Is Slowing Even As Trump Hails A Comeback",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ3ZJYXp4d21YUURXTXNhb2pDZTc0WUEyZFNSTkVqNS1JSC1DUS05UTA1dHhWdXZBdVhPTWhRVDMzWHhXaDY1Z3RlZWlTRERfWkJjX2p3eHVJMWc4VFFRbTFPY09ReHd5bFpNNjg2eUYtTHdXekQxSDMtVWFTMUFvQUJCRUJUOFE0V1Fwd0M2ZDdVRVp0bEZCbldHLTc5dWE2WkZoODhZczBfdUk?oc=5",
+   "source": "Urban Milwaukee",
+   "published": "2026-10-02T16:55+00:00",
+   "added": "2026-10-05T00:23+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "steel"
+   ],
+   "summary": "At Great Lakes Ports, Steel Is Slowing Even As Trump Hails A Comeback Urban Milwaukee",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "0c2a032d2fc0",
@@ -16363,34 +16391,6 @@
    ],
    "summary": "MMi Daily Iron Ore Report (September 30) Shanghai Metals Market",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "527914a594e8",
-   "title": "Kalmar expands maintenance deal at Algeciras terminal",
-   "original_title": "Kalmar expands maintenance deal at Algeciras terminal",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSlZhM29YMGpRNGR0bmZud1JTc1B1YVc1Rms1WEpZTHVXSW1sWGExT1FnT2RtLWVmR1hwWndXaGlWeDlDMjRsd0V6OWI0MlByZVg5QTA5U3VYemx1X1ZEVzFHNXJ1Q2VDaEZvbFdCYlhzNUZVVVdtNG1RWXRacXJscnZTUDdWLUlvZVNpR1M1WHk3WkpRRzNDTmNtZ2ZmdVoxakExUlVKR3Q?oc=5",
-   "source": "Port Technology",
-   "published": "2026-09-30T09:50+00:00",
-   "added": "2026-10-01T17:03+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "ports",
-    "equipment"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "kalmar",
-    "port",
-    "terminal"
-   ],
-   "summary": "Kalmar expands maintenance deal at Algeciras terminal Port Technology",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   }
  ]
