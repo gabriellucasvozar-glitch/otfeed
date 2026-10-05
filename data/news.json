@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T16:18+00:00",
+ "generated_at": "2026-10-05T16:41+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,67 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "deb9c061ea06",
+   "title": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
+   "original_title": "Opinion: Oil’s New Problem Isn’t Supply. It’s Logistics",
+   "url": "https://gcaptain.com/opinion-oils-new-problem-isnt-supply-its-logistics/",
+   "source": "gCaptain",
+   "published": "2026-10-05T16:13+00:00",
+   "added": "2026-10-05T16:41+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "crude",
+    "hormuz",
+    "logistics",
+    "oil price",
+    "prices",
+    "war"
+   ],
+   "summary": "A ship off the port of Aden, where traffic remained steady after the Iran-aligned Houthis said their forces had carried out missile and drone strikes on Saudi oil tankers, in Aden, Yemen, July 23, 2026. REUTERS/Stringer LONDON, Oct 5 (Reuters) – Middle East crude exports recently climbed to their highest levels since the start of the Iran war as more Gulf producers resume transit through the Strait of Hormuz – despite the continued threat of Iranian attacks. Yet oil prices remain stubbornly elevated, suggesting logistical problems are proving as disruptive as outright supply losses. Instead, Brent remains above $100 a barrel, more than 40% above pre-war levels. At the same time, buyers are increasingly sourcing crude from the Atlantic Basin and shipping it to Asia over longer routes, further tightening tanker supply. Rates to transport crude from the Middle East to Asia aboard a VLCC recently exceeded $1.2 million per day, up from roughly $30,000 a day in January, according to shipping broker Poten & Partners. As a result, freight costs that once accounted for around 3% of the delivered price of a barrel now represent roughly 27%.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "5883bdedb64d",
+   "title": "Strong Freight Markets Keep Aging Ships Out of Recycling Yards",
+   "original_title": "Strong Freight Markets Keep Aging Ships Out of Recycling Yards",
+   "url": "https://gcaptain.com/strong-freight-markets-keep-aging-ships-out-of-recycling-yards/",
+   "source": "gCaptain",
+   "published": "2026-10-05T16:01+00:00",
+   "added": "2026-10-05T16:41+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "prices",
+    "scrap",
+    "vessel"
+   ],
+   "summary": "Strong freight markets kept aging vessels trading through the third quarter despite rising scrap prices and strong demand from ship recyclers, according to a new market review from GMS, the world’s largest cash buyer of ships for recycling. The ship recycling market entered the quarter looking ripe for an increase in demolition activity. GMS said it was tracking roughly 550 merchant vessels preparing to exit the Gulf at the start of July, including around 200 bulk carriers, while recycling yards in the major South Asian markets had available capacity and appetite for tonnage. The report argues that owners were weighing recycling offers against a much broader set of alternatives, including freight earnings, secondhand sale opportunities, remaining vessel life, route risks and compliance costs. GMS expects recycling supply to remain tight into the fourth quarter as long as vessel earnings remain strong, particularly where ships continue to find lucrative employment linked to the Strait of Hormuz. But those delayed recycling decisions may be creating a larger pool of aging tonnage that will eventually need to leave the fleet. If freight earnings normalize, secondhand liquidity weakens or employment opportunities narrow, GMS said some of that deferred supply could reach recycling markets over a much shorter period.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
   {
    "id": "baa5df5eed1c",
    "title": "Oil spill at Deurganckdock disrupts Antwerp port operations",
@@ -114,6 +175,31 @@
    ],
    "summary": "Mullooly demands immediate €46m fertiliser support and review of CBAM Irish Farmers Journal",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "91dd704b6f61",
+   "title": "Więcej pasażerów. Port Lotniczy Olsztyn-Szymany podsumowuje minione miesiące",
+   "original_title": "Więcej pasażerów. Port Lotniczy Olsztyn-Szymany podsumowuje minione miesiące",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONEw0cGF3SkZBYlpXSGhqN1l3dF9OTUlySFhsc2xnSTlmWWNMTkpHOFNSNXBlTVNrMWJrSG9GWmZpYzk5QjN0Nl92YTdYdmNOV1hDSURTQU9Ja0xwckpHRmxaQzJkSUdFWTlURE9STVA5eXhfNXJlLXExSTBnaDQ5X29jaV9TWDdYVDVWYzBTTXFtS3JxRktjcEFSVXpvWnFlUVhZeGVNcG1ERkE?oc=5",
+   "source": "TVP Olsztyn",
+   "published": "2026-10-05T14:53+00:00",
+   "added": "2026-10-05T16:41+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Więcej pasażerów. Port Lotniczy Olsztyn-Szymany podsumowuje minione miesiące TVP Olsztyn",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -10961,6 +11047,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "196c3c4dc418",
+   "title": "World Bank Group-organized Regional Connectivity Forum Middle Corridor: Next Stage",
+   "original_title": "World Bank Group-organized Regional Connectivity Forum Middle Corridor: Next Stage",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUttUWxjUkdLYWdXcFRvNWczcGNoam83RlVLa0QyWGNrMGo4QUlPQmg1T3lhQmFacGxsdUpxTHJic1E0NFp0eDRKeXVRTVF0UVdSbzNpZnhfRGVOeW1zZTA0RkVWelk2TXhvNUp6QlNCLTJITFA1UEdzdlQ4WEY5Q3R4bzBaTjZEV2RzdHQ0Wk5iOFMySi1kVkd2NXR3NDA5WXdTNUE0VXppQQ?oc=5",
+   "source": "Georgia Today",
+   "published": "2026-10-02T05:46+00:00",
+   "added": "2026-10-05T16:41+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "World Bank Group-organized Regional Connectivity Forum Middle Corridor: Next Stage Georgia Today",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "aaa3528853d2",
    "title": "NYK plants flag in Silicon Valley",
    "original_title": "NYK plants flag in Silicon Valley",
@@ -16388,116 +16500,6 @@
    ],
    "summary": "Rolande Pryce: Reforms to integrate Middle Corridor will strengthen Georgia's trade and revenue potential 1TV.GE",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "224aba9005b2",
-   "title": "Steel Authority of India Ltd (SAIL) outlined a target of selling appro",
-   "original_title": "Steel Authority of India Ltd (SAIL) outlined a target of selling appro",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQVNudExMb3FYS2M4Tm5mdXBndWM0d1cyT0JaOXBfS0dzNXZPUGxwbk5HeTBxb1U1WkhlZUpMd19SSHM4UGxnNWZ2TFFuTUk3S2ZLdlo4eFdacXRPRllFVFYyOF9hb3hMNXU1NVpmcFI1aVBWNGprVW5RTW1RZzMwT01HSFYwSGdUNjk0OWVBRUFZTUwxQkVKTmU4VV9OeF85cjFadUdzNEpqT3dYOER5YnltdVo0aHFwdm1va0I2WTJZVFEwU0o0X0d3?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-01T08:42+00:00",
-   "added": "2026-10-03T09:54+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "Steel Authority of India Ltd (SAIL) outlined a target of selling appro Shanghai Metals Market",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b0eff2ea53cd",
-   "title": "Liebherr ships LPS 500 to Casablanca",
-   "original_title": "Liebherr ships LPS 500 to Casablanca",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOG01ZnNrckJXdHo2S2p3cmJGblBXT19FX2xhNnJkck52eWdva1dQSUpWbE1lay1maG1iU1NZdFVhVmxhMDQtZHhjSGd5aTdPcE44UXpEeUk0Q1htWFlqTnhLbnBVVnRRS2JwRGwxV2JWaTN0dld3QUhMV2ZPWjNUTnE0dDdNLVN2?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-01T08:35+00:00",
-   "added": "2026-10-05T11:32+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "liebherr"
-   ],
-   "summary": "Liebherr ships LPS 500 to Casablanca WorldCargo News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "70dbaf649fb4",
-   "title": "Baltic Sea shipper Tallink and sailors want state passenger ferry support to continue",
-   "original_title": "Baltic Sea shipper Tallink and sailors want state passenger ferry support to continue",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcHJvMjc0eWhrSFF4QU5JYkNHRW1QZThCc2YzZm45Mm9GZlZjR2tZODFKdWNrYl9Xa2RybV94aWJzUUFLeWNjRGtnRUxZVWZmLUdRc3Jhb1VqaU53UFU2bEt5V21JWnRJdTI5YlZVZWVrMkY5TkpjOHRHM2hSam9xd1V2TXh3OVR2Q0x1WjdRZ0dtZ1Z2UGlwUXNiZHViNTE1S0FXM1I3bTdwZkptZUdxd1haTmREVW8?oc=5",
-   "source": "ERR",
-   "published": "2026-10-01T08:33+00:00",
-   "added": "2026-10-01T20:26+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "ferry"
-   ],
-   "summary": "Baltic Sea shipper Tallink and sailors want state passenger ferry support to continue ERR",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3f2dfeb0f09e",
-   "title": "Estonia bans transit of Russian and Belarusian grain in response to blockade of Ukrainian ports",
-   "original_title": "Estonia bans transit of Russian and Belarusian grain in response to blockade of Ukrainian ports",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RM3lMU25wVndOVkNKV3N1WU5JS0NOLVBiYTZJaDZNNDgxNWxmNFI1QV9WSzhCN0U5ZllqdC1kQTU0NjEzN1hEdmw3cFVCM0c4STRaZTNrYUk2MlB4aVhzSlJmR3LSAXBBVV95cUxQNnBLcVRCbkw1NE1PLVJqU2xLYUg2NUZGSzQ1Mi1jSmhKTklOSGFaUFN4NjJBNFZuWThNV001dDU5bXNjbXZnbVBBTk5uRUhDdFlyWkg5QnBSaTlUSXJCSUZPZzlkZ0tVaU1XejBSeW5i?oc=5",
-   "source": "pravda.com.ua",
-   "published": "2026-10-01T08:31+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Baltic & Nordics",
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "belarus",
-    "grain",
-    "port",
-    "ports",
-    "russia",
-    "russian"
-   ],
-   "summary": "Estonia bans transit of Russian and Belarusian grain in response to blockade of Ukrainian ports pravda.com.ua",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
