@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T10:04+00:00",
+ "generated_at": "2026-10-05T10:28+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,38 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "9303d9cecbcb",
+   "title": "South Africa’s port reform takes an important step forward",
+   "original_title": "South Africa’s port reform takes an important step forward",
+   "url": "https://theloadstar.com/south-africas-port-reform-takes-an-important-step-forward/",
+   "source": "The Loadstar",
+   "published": "2026-10-05T10:11+00:00",
+   "added": "2026-10-05T10:28+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping",
+    "supplychain",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "forwarder",
+    "port",
+    "port authority",
+    "supply chain",
+    "war"
+   ],
+   "summary": "One battle doesn’t win a war, but just getting to a stage where South Africa’s port system can now be reformed is an achievement by itself. The decision of South Africa’s government to formally endorse the separation of Transnet National Port Authority (TNPA), the country’s de facto port landlord, from the Transnet rail operations is a step in the right direction – one that its shippers, forwarders, and other supply chain stakeholders have been demanding for years. Operations at South Africa’s key container gateways of Durban, Cape Town, Coega and Port Elizabeth have been plagued by congestion and delays for years. And while it’s great the government has finally kicked off the reform process of Transnet, it also means some of the really hard work begins now, as the South African Association of Freight Forwarders argues when it says the real imperative is “getting corporatisation right”. The central point of the reform is that TNPA will be moved out of the Transnet group – which will continue to manage Transnet Port Terminals, but with much reduced investment power – and become a standalone state organisation with the ability to take its own investment decisions on both infrastructure and superstructure, and independently manage landlord revenues.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
   {
    "id": "a7cb8ff51f24",
    "title": "Vale doubles ethanol-capable ship charters",
@@ -364,6 +396,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "f53c70647bd1",
+   "title": "Chicago corn and soybeans fall Friday as wheat trades mixed",
+   "original_title": "Chicago corn and soybeans fall Friday as wheat trades mixed",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSjBvTmprWnZCWFZDZTRhcmZsM2pEX0hLZzJ0NW5HamZkbk9oR1JPV2ZzUTloQ3AydFctTzYtcWt6MnVxZlBvV2pkaWtxSlFCdmVWZkROdjIyNzNOcTBKMFJkcEl0UlNad19Vbnd1dGY3eFRGR3FLQTgwZlc5RWFHTFhxR0xVY2xxMHVseG8xdENKamJrSVdsRnMzQQ?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-05T10:00+00:00",
+   "added": "2026-10-05T10:28+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "corn",
+    "soybean",
+    "wheat"
+   ],
+   "summary": "Chicago corn and soybeans fall Friday as wheat trades mixed UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "bbec4b984916",
    "title": "Copper Rises as Fed Rate Hike Bets Ease",
    "original_title": "Copper Rises as Fed Rate Hike Bets Ease",
@@ -388,6 +447,61 @@
    ],
    "summary": "Copper futures climbed above $6.5 per pound on Monday, recovering some of last week’s losses as weaker-than-expected US jobs data reduced pressure on the Federal Reserve to raise interest rates further. Higher interest rates would generally weigh on non-yielding assets such as commodities. Longer-term demand expectations tied to the global expansion of data centers and ...",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fea7d5d3587b",
+   "title": "Grain under blockade: What is preventing Ukraine from expanding exports via the Danube",
+   "original_title": "Grain under blockade: What is preventing Ukraine from expanding exports via the Danube",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUM1X3B4WlhxckJCUC1YQTBvb0daWGMxb0MzX3I2QUp3dmNFNm9LTjVwZG5uSGpSb0VHYlEtMU1Tekg0UlY3ZnRCZE1TYzJnUXJhTmlpcEVGcVNhajJzZXM5Qmp4NF80TGJScy1DdURKOFh3b0hQMWFNV2themh0WXVjMzZ4OEc4eW44RmhlRjRlbEtycE1zTmVhWm16MTk0akdXdndnekMyZ1pHWnhrSjNZcDBob1BPMHBiNEVSSy11LVdSMnFv0gHAAUFVX3lxTE1ZYnFOTUlQYmN6aUZLczdtOXliWTdtNDhGWVJTRF9QZHZpbUk2YzJSWUV5LWVfSHJWX1dBeHNWSGZyV2RyaFkzTV90LXRVUzVfMjMtOTlhSU9RaTAxX1M4NFAxcDlvUDMteU9WYXpzendQUlpsNTR0Nzk1ZmtNWTQ2QWpoRnJWZDZnLUVqRWdXN2NvVmVpWmk3XzZ1OTUxR1YtcjgtQ1NsWm1fZEN6Mkw3SnpYeS1aR3pocTA2LUFtZw?oc=5",
+   "source": "english.nv.ua",
+   "published": "2026-10-05T09:55+00:00",
+   "added": "2026-10-05T10:28+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "ukraine"
+   ],
+   "summary": "Grain under blockade: What is preventing Ukraine from expanding exports via the Danube english.nv.ua",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "77254a282ee1",
+   "title": "Brčko Port performance lifted by RIKON crane",
+   "original_title": "Brčko Port performance lifted by RIKON crane",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMWlVeVkzaGN0Qmd0OHdVcFRDUlZvWU1WM210VmFOakNlQjZkY2NGem1KRTN5R043dDdfdjZJQnlOTHNFWExNTXdETXFFUVBRV1NrQjVIWjkxTnQtQ0xWTHNxdmU1Y1NRaUR0Rm5qU3Zua1h3aUl2andGMzJPb0tkWjJOUlBQT1JXT1ZsUTZDaXl5U28?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-05T09:40+00:00",
+   "added": "2026-10-05T10:28+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "port"
+   ],
+   "summary": "Brčko Port performance lifted by RIKON crane WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -732,6 +846,34 @@
    "summary": "Japan has imposed sanctions directly on individual vessels for the first time, targeting 35 ships linked to Russia’s shadow fleet as Tokyo steps up efforts to restrict Moscow’s oil-export network. The measures took effect on October 2 under Japan’s Foreign Exchange and Foreign Trade Act. Japanese companies will now need government permission to provide specified services to the 35 vessels and for capital transactions, including loans and debt guarantees, connected with their sale, purchase, lease or charter. Japan’s foreign ministry has identified all 35 ships by IMO number. It is the first time Tokyo has placed vessels themselves under sanctions, bringing Japan closer to the approach already adopted by the UK and European Union against ageing tankers moving Russian oil outside mainstream Western shipping, finance and insurance channels. The shipping measures formed part of a wider package that also froze the assets of 33 Russian organisations and nine individuals and introduced export restrictions against four entities in Turkey and the UAE. Tokyo said the vessel measures were aimed at ships being used to transport Russian crude and petroleum products while circumventing existing sanctions. Seventy-two of those ships subsequently transported an estimated €7.5bn ($8.8bn) of Russian fossil fuels. Clarksons data showed the Russian registry up 38.2% this year through September 1.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "705f4e039831",
+   "title": "Aktau Port launches dredging to boost Middle Corridor capacity",
+   "original_title": "Aktau Port launches dredging to boost Middle Corridor capacity",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdi1kNjRYaGp5OFFrSHEzbzF6YWJyVTdVMWVRY2t4WThpejBXNjB4c0l0WVJuT19weklUbDdDeVd0VWx3UDZRdkdsZUl3cmZQSHhsbGNHOGp1TkxoUHVoOTlxMF9VbTNVMlpXMFQycU5BY1RqeDQ4MlZBTzgwdFgzQV9EakVHdTNjakZPNEQyX2E1T3Y5X2ZCVVRBcTEzTm_SAaQBQVVfeXFMTkNPc3RDZVQxQ2tsZXdmeV91S2NGb0pKNTJubDhKS3FwNUZQREFEUTdVLUU0UzBTcE9reW81VEVNcDNUMGd4UjdmM2Z6S2FQYjkzT2NUazM4dHJSeHliSFY4QWo3S29lVmF0dS1SUTlNNGU4eFR2RnFxbjJOTHhYM0ExNGFNdFdWSWl4cURsSXd6M3RnVmVsWHE4TDFTZldHUnpLcGM?oc=5",
+   "source": "report.az",
+   "published": "2026-10-05T07:28+00:00",
+   "added": "2026-10-05T10:28+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "ports",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "dredging",
+    "middle corridor",
+    "port"
+   ],
+   "summary": "Aktau Port launches dredging to boost Middle Corridor capacity report.az",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
   },
   {
    "id": "4d19c2e7d3a2",
@@ -16312,141 +16454,6 @@
    ],
    "summary": "Falling vessel rates push Baltic dry bulk index to fresh low Baird Maritime",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c344553de49c",
-   "title": "Steel forum calls for more tariffs, fewer subsidies to fight excess capacity - KELO-AM",
-   "original_title": "Steel forum calls for more tariffs, fewer subsidies to fight excess capacity - KELO-AM",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbnZ6V2NqWWVIYndfU0gwR1FndVJkMDdZTTU1ekg0UVJSc3J6b2ozTVpqRW1UQ2N6RjNjZ1Vnb3ZMTHdET3duVDlXT00yYmVBZGpubkRzNG1JQVQ1ZDZWNy1BakhJZkZRaDRiczVxSmZ2Z0Q5QjdSSVVfQ1g0YVJYS19jVURYMVAtZ2ptT3hid0g1TkQwSnVvMFNUMHpXN2RZZ3ZWeXZsZnZjZ0pjTnJ2aWRqMjZQbXJU?oc=5",
-   "source": "KELO-AM",
-   "published": "2026-09-30T18:18+00:00",
-   "added": "2026-10-01T22:38+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "steel",
-    "tariff"
-   ],
-   "summary": "Steel forum calls for more tariffs, fewer subsidies to fight excess capacity KELO-AM",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d36b66a62d5b",
-   "title": "Restoring Steel Production in Ukraine",
-   "original_title": "Restoring Steel Production in Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Dcm45UkFoVVk5SE91VDFpS0wtR05CekVZWHBtbjVmQnYtVkJaSThtMDhrQ2szQ2hETTN2alNuQTctXzhQQTczcWV5aVFNR2F1Wk1YUjRxZWtjUy1JOEFLSEQxSnBKUEI2aUNjemYyRjc5aFls?oc=5",
-   "source": "Новини аграрного бізнесу",
-   "published": "2026-09-30T18:04+00:00",
-   "added": "2026-10-02T22:35+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "steel",
-    "ukraine"
-   ],
-   "summary": "Restoring Steel Production in Ukraine Новини аграрного бізнесу",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "95593abe4cec",
-   "title": "China-US truce to reduce some tariffs, and likely postpone port fees - September 30, 2026 Update",
-   "original_title": "China-US truce to reduce some tariffs, and likely postpone port fees - September 30, 2026 Update",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaFgzRXpUVjZhS01mZDdQTThsSTgtQXZJLUVTajdWanZWYm5fQ1ZQZk9SWnlvaWFEMUU4a3AycXJqYUV6dWlfbHpramVoNXR2c2dzY1VtVnVPUmZ5M2FnYnp1T0F1RmFGQkJEOGIwdndsTGd6Z01ueExYUk1tWXI0c2t3all5OWNUdTBaNENhVEZxRGhzdjRXeERPcXlsZUpObUhEeVYyRW1tUEVmc2ZqRXJVMTBYMGRNY3Jzd1NzaENFRUM2YUNUSDd2SHhfNE94emY0?oc=5",
-   "source": "Freightos",
-   "published": "2026-09-30T18:00+00:00",
-   "added": "2026-10-01T17:47+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "ports",
-    "regulation",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "port",
-    "tariff"
-   ],
-   "summary": "China-US truce to reduce some tariffs, and likely postpone port fees - September 30, 2026 Update Freightos",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1df4d6e9f727",
-   "title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility",
-   "original_title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWnlkZlEwb3E4TmhIYTAyOWhET3VMTmFkbDNYeWVQZmIycDI5Z0FaNDlmN2lnUkZUcVc2VVA4aVBySEltc0VrR1hWcVZmaE1FbDNxNDFIS2MwMGlmNzJ5OTdXczVmbGIxb3A4Zml6MGtCTFRhM2tJLUQ5RmFBOGY1ZUlFNVkwclBNTEdtME1YeGJpRzFlZ3ZfLUhUOTh5bVp4ckxfMDJ2ZnpyN3VBbkFEMjRjTjVfX1c1dmQ4Qy0xMnhvc3piQ3lrbNIByAFBVV95cUxPWnlkZlEwb3E4TmhIYTAyOWhET3VMTmFkbDNYeWVQZmIycDI5Z0FaNDlmN2lnUkZUcVc2VVA4aVBySEltc0VrR1hWcVZmaE1FbDNxNDFIS2MwMGlmNzJ5OTdXczVmbGIxb3A4Zml6MGtCTFRhM2tJLUQ5RmFBOGY1ZUlFNVkwclBNTEdtME1YeGJpRzFlZ3ZfLUhUOTh5bVp4ckxfMDJ2ZnpyN3VBbkFEMjRjTjVfX1c1dmQ4Qy0xMnhvc3piQ3lrbA?oc=5",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "2026-09-30T17:31+00:00",
-   "added": "2026-10-01T21:22+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crude",
-    "oil price",
-    "prices"
-   ],
-   "summary": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility Crude Oil Prices Today | OilPrice.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f5a4b4969356",
-   "title": "PKP Cargo po I półroczu z zyskiem. Bardzo udany II kwartał",
-   "original_title": "PKP Cargo po I półroczu z zyskiem. Bardzo udany II kwartał",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGFtTkhmTWlPT2RlemNnamNoOVg1QWl1d1pJeVNTeWdHNUNkc1gyeDBKVmszTVc1bHBZUGI5bUF1YmpwRUpVYmJNdVRoRU9DMUE0a3JYd3otMnZpcm5ya1BmOHpTaE9vMTdhdE1FZ3Y5U3dMazl6djFBYndpYUdCakNRNDRlYndLSS13TDFXSGd1WXpmTGdJOE1jTm5ra1lhdUdhcVdR?oc=5",
-   "source": "Parkiet",
-   "published": "2026-09-30T17:31+00:00",
-   "added": "2026-10-01T18:03+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "pkp cargo"
-   ],
-   "summary": "PKP Cargo po I półroczu z zyskiem. Bardzo udany II kwartał Parkiet",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   }
  ]
