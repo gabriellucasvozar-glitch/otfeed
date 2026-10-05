@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T22:00+00:00",
+ "generated_at": "2026-10-05T22:22+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -464,6 +464,62 @@
    "summary_method": "extract"
   },
   {
+   "id": "faeb8a488a82",
+   "title": "Diana Shipping secures time charter for m/v DSI Polaris at US$18,000 daily rate",
+   "original_title": "Diana Shipping secures time charter for m/v DSI Polaris at US$18,000 daily rate",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNalFPbjVYLUh2RTBRUXdaQ3VZWEI5WjFHRXFMbS1EWHVBdjIxX1NTcmJRVW5lOF9Ua25jSDRSOVJROXRTd3I3MEdqUG9hVzNydF9SZUJmaGVJR2FmY05sVzcxUFM3ZGwzc0xMWXdPYkh2alNjRFdTYVQyMWJXeFF2WWRxMk1PZzRyd2x2Wl9aMkxkRDV6LWRiUFdGLXE1MmtiRDFqandFaG5GUTZSX2piRHJ5Z05mSUVYU2s0TVU2WThWeFZFQXdreGhsX3ZzS2xaMFRhcQ?oc=5",
+   "source": "Data Portuaria",
+   "published": "2026-10-05T20:25+00:00",
+   "added": "2026-10-05T22:22+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "charter",
+    "shipping"
+   ],
+   "summary": "Diana Shipping secures time charter for m/v DSI Polaris at US$18,000 daily rate Data Portuaria",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8df16855016a",
+   "title": "Russian Drones Sink Royad Mammadov Dry Cargo Ship Carrying Ukrainian Grain",
+   "original_title": "Russian Drones Sink Royad Mammadov Dry Cargo Ship Carrying Ukrainian Grain",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XeldUcFhlM2dfUHFxVEt0QWZqcElQSmJsZC1SWHRrZkFIY2xZa3lrM2hTS0l6cWFsbXkyMVUyUFZIbGdPWHR4Uk91Y09QOXMxTDdyTG1heV8wc0NGQU5nQ18zYXNialdCbGtreHhJbDJPRjJHRHRzR2dYSllrUQ?oc=5",
+   "source": "Мілітарний",
+   "published": "2026-10-05T20:13+00:00",
+   "added": "2026-10-05T22:22+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "drone",
+    "grain",
+    "russia",
+    "russian"
+   ],
+   "summary": "Russian Drones Sink Royad Mammadov Dry Cargo Ship Carrying Ukrainian Grain Мілітарний",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "c62f7e6227d2",
    "title": "National Fertilisers lifts FY26 profit on subsidy arrears and trading gains",
    "original_title": "National Fertilisers lifts FY26 profit on subsidy arrears and trading gains",
@@ -545,6 +601,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "8d0300ba5b62",
+   "title": "U.S. Grain/Oilseed Review: Soybeans, wheat advance to start week",
+   "original_title": "U.S. Grain/Oilseed Review: Soybeans, wheat advance to start week",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVZJM01ULS0wNzVaYVRCcjBWRE9IZmcwNVRkZk92djFSb1NTUnRET0dpS0I3SDlaQjVtSmZlWHJtOFktS3dRQWlqLVNrbkJHSjhRU1NreVFlUWlMaHN6dmNiQXRVVHNDM2RERWFWWHJtWXlvb3h6c1N6Y1RHUm9Pa2dReG40TExvZWN2QlQ1ZWFhNlBuX0c4Z0tHeW9hSGQycUln?oc=5",
+   "source": "The Western Producer",
+   "published": "2026-10-05T19:09+00:00",
+   "added": "2026-10-05T22:22+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "grain",
+    "soybean",
+    "wheat"
+   ],
+   "summary": "U.S. Grain/Oilseed Review: Soybeans, wheat advance to start week The Western Producer",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "c9cd97c414ce",
    "title": "Latin America Commodities 2027: El Niño, Freight, US Trade",
    "original_title": "Latin America Commodities 2027: El Niño, Freight, US Trade",
@@ -567,6 +650,33 @@
    ],
    "summary": "Latin America Commodities 2027: El Niño, Freight, US Trade Kpler",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "30cb18506018",
+   "title": "A cargo ship leaving a Ukrainian port caught fire and sank in the Black Sea - ИА Ореанда-Новости",
+   "original_title": "A cargo ship leaving a Ukrainian port caught fire and sank in the Black Sea - ИА Ореанда-Новости",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFRQZ1E2LTFQV21RSEE0M185bnhmX3FySGp0bUpyWDBUTy1rYXpEcVNqZFQ1NDluVnFDV3NYN0NDLXZhaXp6N2VYRnROcG91b3lrcGJZVmRsNUo3UGdGZmprUF9IX0gzQmtOMHFTdUlaM1VKWGcwZDl4YU9Rc0dSdjRNdWVxYnMxWTJwcTFVT1RtZzU1Nmswb29hOGUwVjV5dk0yYXJvbF9OV3pwbGctNUx5dlBTU3lOTVBGdVhlcG9ETl91WHFjWHFn?oc=5",
+   "source": "ИА Ореанда-Новости",
+   "published": "2026-10-05T18:53+00:00",
+   "added": "2026-10-05T22:22+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "port"
+   ],
+   "summary": "A cargo ship leaving a Ukrainian port caught fire and sank in the Black Sea ИА Ореанда-Новости",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -789,6 +899,34 @@
    ],
    "summary": "Almost no locomotives left: How Russia's strikes are choking Ukraine's lifeline India Today",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5a6ed4ad1f9a",
+   "title": "What We Know About The Black Sea Grain Ship Fire Off Romania",
+   "original_title": "What We Know About The Black Sea Grain Ship Fire Off Romania",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tWDZjUlJYT3lwRHM0MC1SeFg1VGFIMS1UWGlaTVh6VW5sN0ZhSEdKcU5hTXBzSWRCNkJPWEFFTnlhRzFndk95YWxULUtXSzBRaXg0cVlHZHh6NFZMZVNGOXk1RV9RYXk5aGJwZjRHd2lxYUVVS3c?oc=5",
+   "source": "ИФЗ РАН",
+   "published": "2026-10-05T17:18+00:00",
+   "added": "2026-10-05T22:22+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "grain"
+   ],
+   "summary": "What We Know About The Black Sea Grain Ship Fire Off Romania ИФЗ РАН",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -1179,6 +1317,31 @@
    ],
    "summary": "Raid Al Rubaiey to succeed Emile Hoogsteden as CEO of SOHAR Port and Freezone Container Management",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3226fc30b686",
+   "title": "Grain freight costs from Giurgiulești to Constanța soar to $75/t - logos-pres.md",
+   "original_title": "Grain freight costs from Giurgiulești to Constanța soar to $75/t - logos-pres.md",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjdsRXo5WGVHcW90ZW53UV93VmpMZkJiZzhDWE5sbkVxYm9udUpuRWpEM2l1Y2ktYnQ1NEVlSFl2NVh1SXFZYlcxdWNGZVFpcFFmSmw4bWFtVlBiYU9ERDNGek9VaG9CVFFlVDZPLTJ4QmMyWnBFMlNLVkVLblFDdTN5NzZrLXF1RGoxWGxhMzBLUVdaTUtTVzNya19vVGxVS0tEeFpUbkF6QzE4TDFYekRya09TRktSSVRTaGJmUGxiUQ?oc=5",
+   "source": "logos-pres.md",
+   "published": "2026-10-05T16:11+00:00",
+   "added": "2026-10-05T22:22+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Central & Eastern Europe"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Grain freight costs from Giurgiulești to Constanța soar to $75/t logos-pres.md",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -4153,6 +4316,32 @@
    ],
    "summary": "Aktau Port launches dredging to boost Middle Corridor capacity report.az",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ca158ed9a9ef",
+   "title": "The EU reduced steel imports by 5% y/y in 1H2026 — EUROFER",
+   "original_title": "The EU reduced steel imports by 5% y/y in 1H2026 — EUROFER",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFVOdHBNQlN6Qk5TWkx1dThjdHZnLXhMcHcxRUR1QU94YmVxWTlRVUZwUzA2YkJKR1p3LWxiTjdFZEE5a1JmdDl5NFlsc3VsbTZ3RmhFZ0ZTTmZabGZZdEJzUXVnbDVhTjAyUXRnTHZBUjJycVVLV3hOWHYzR1dqUHlRNjlBX3ZLUHRB0gGQAUFVX3lxTE1oLWs1UHlOU1VzeGVUZ0YxWkUwZDVCQ0VkbVdNTi1PaGxjYzdFTGRxZjdWSVE4Xzg1ZmFyYTZRMGVqdUhFQlg0cFZhV0w0SGFVSmhrTWlBM0tla2lWUzlvM1RQSUxOcnFENUpzSGVSSkFuSHFvanJwREJmUEdPeGJ4U0F3Y2RJTXB0UzltYUFrNw?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-05T07:27+00:00",
+   "added": "2026-10-05T22:22+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "steel"
+   ],
+   "summary": "The EU reduced steel imports by 5% y/y in 1H2026 — EUROFER GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -7223,6 +7412,35 @@
    ],
    "summary": "Kalmar wins crane maintenance contract at TTI Algeciras Container News",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a0c409b48a53",
+   "title": "Russia Detains Cyprus-Flagged Cargo Ship En Route To Estonian Port Of Sillamae In Gulf Of Finland",
+   "original_title": "Russia Detains Cyprus-Flagged Cargo Ship En Route To Estonian Port Of Sillamae In Gulf Of Finland",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2czTUpXX0hmOWQwZWxfYWVBTGxOM3IxMUY0X0lFcUp6Qmg4bWVIb2NSOW41VkVIWk8teGtfUWUtdktQY1pXZlpwUmxNUklmN0tRNUd0WGRiNkI5ODBudDdQaElJQmgtNUV3TXBDMUNCcHZzNTNMWjFzUGJSdEcwemhmSjVyV29kYzM5Z3R6RTYxNWZnS0FVcE5wSUlsZlI3enpsbF9OTlhSci1Wb3RlcDI4MDNJWHphZjl0VEJlQS0xcFR1ODdB?oc=5",
+   "source": "Marine Insight",
+   "published": "2026-10-03T11:47+00:00",
+   "added": "2026-10-05T22:22+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "gulf of finland",
+    "port",
+    "russia"
+   ],
+   "summary": "Russia Detains Cyprus-Flagged Cargo Ship En Route To Estonian Port Of Sillamae In Gulf Of Finland Marine Insight",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16275,229 +16493,6 @@
    ],
    "summary": "Dutch LNG terminal capacity rises to 20 billion cubic meters with 4th tank Offshore Energy",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "696a59a768ff",
-   "title": "Transpetrol trims aframax fleet in $73m deal",
-   "original_title": "Transpetrol trims aframax fleet in $73m deal",
-   "url": "https://splash247.com/transpetrol-trims-aframax-fleet-in-73m-deal/",
-   "source": "Splash247",
-   "published": "2026-10-01T12:30+00:00",
-   "added": "2026-10-01T20:03+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fleet",
-    "vessel"
-   ],
-   "summary": "Belgian tanker owner Transpetrol Maritime Services has offloaded its 2016-built aframax in a $73m deal with Turkish buyers. VesselsValue data identified Transpetrol as the seller of the Hyundai Samho-built 114,070 dwt TP Affinity and put the ship’s current market value at $80.72m. Transpetrol’s own fleet records show it was delivered in July 2016 and completed a scheduled drydock in Singapore in July. The reported disposal comes as Transpetrol pours capital into younger tonnage. Splash covered the company’s most recent order of two 75,000 dwt LR1 product tankers at Yangzijiang Shipbuilding for delivery in 2030, its first newbuildings in the segment. Earlier this year, it also booked two 90,000 cu m dual-fuel VLGCs at HD Hyundai Samho and has been taking delivery of a series of LR2s. Transpetrol currently lists TP Affinity and TP Spirit as its two aframaxes. Completion of the sale would therefore leave the company with a single ship in the segment while its LR1, LR2 and gas carrier fleets expand. The privately held outfit has also recently been linked to a sale of two 2011 Japanese-built MR2s, Turmoil and Luctor .",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "f458e3b940ce",
-   "title": "Cabinet approves Transnet National Ports Authority as independent entity",
-   "original_title": "Cabinet approves Transnet National Ports Authority as independent entity",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNakxsNXZQamF5UkRvOGpvZ1VjMVNzdVdTMWl6alA3RW55ZHJLZlNxVHVsUFF2Sk1WUmJjeS12R25pOFR3WDBaMFN3N0E2cmVOajMwMWdiNmNLUnlKQnJXYjZBTVljQm5zcFZKblpOTmxYc0kybUJIRHkwQ3JaNmYzYVdETldIR1MtRjltTVhSVzN3ZExKUHczTk9DdDVCUUtGSzBlN3dEN2pYX1pwZE5TYm1weEdxalhzRENpeTU2VWdjMVowb3lhR0tB?oc=5",
-   "source": "Fresh Plaza",
-   "published": "2026-10-01T12:27+00:00",
-   "added": "2026-10-01T18:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Cabinet approves Transnet National Ports Authority as independent entity Fresh Plaza",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "75b8d44e57a3",
-   "title": "EU demand lifts Argentine soybean meal premium to highest since May",
-   "original_title": "EU demand lifts Argentine soybean meal premium to highest since May",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT21yZDB5UkRaQmlGN2FIY2xsN0xiRGU0TEdvZV8tYjBXcHlQZ3VXemdZaVQxNXJETGJvM2oweWtaUmpReDl1RXZWZW1ueE9wUm1kZmFNM1lBeXFPbXV0bGx1aVJpX1BFSWhrZWxlWE9pU0NPTktXZlpZYkJSczVKc05CaU5YLURCWW1NV3pQdlNORWJmNE9wMzZoTXlJa19VYmp4VU5n?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-01T12:19+00:00",
-   "added": "2026-10-02T00:54+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "soybean"
-   ],
-   "summary": "EU demand lifts Argentine soybean meal premium to highest since May UkrAgroConsult",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "921fec1e2a5e",
-   "title": "Szybka kolej zmieni podlaskie",
-   "original_title": "Szybka kolej zmieni podlaskie",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tWTg3eHVONWZ5M2FPQVNGOTBOV0M2MzA4X0tmQUhkZnplSG1FQzAyVnlwTUZJRGx0Tld2WEE3SEIwRGt0X3NpUURFTHhYVWFpUzZxRENwdWw0czlidmJNdmN0VElYdXdoLWNSdHpZSUpFVmVQcDVF?oc=5",
-   "source": "Port Polska",
-   "published": "2026-10-01T12:09+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "rail"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "kolej",
-    "polska",
-    "port",
-    "port polska"
-   ],
-   "summary": "Szybka kolej zmieni podlaskie Port Polska",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4b26573da81e",
-   "title": "150 Ships Bound For Russian Ports Stuck In Gulf Of Finland In 50 Km Long Queue",
-   "original_title": "150 Ships Bound For Russian Ports Stuck In Gulf Of Finland In 50 Km Long Queue",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXdqWFJtNEo0X2lpVlE2emZVY3dZUU9oRUUxbGUyQnRneFhvWF9oQVdzMmtmR29jVWRNd2NYRDRfZ0pwWF9fdU83aG81RDJDQ3Q4cklscmJLVUF4ZVFhZnNaYXZ0ekFYZXBoUE9vWFNZc25RdGdyY3RUbjJmYW5tSzJ2azdxTXVjTmhKQ3BDZEpsRDRsd3l6UW9Ic0h6UnZ1QWZoNHNCZ2lNN09zV0E?oc=5",
-   "source": "Marine Insight",
-   "published": "2026-10-01T12:06+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Baltic & Nordics",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "gulf of finland",
-    "port",
-    "ports",
-    "russia",
-    "russian"
-   ],
-   "summary": "150 Ships Bound For Russian Ports Stuck In Gulf Of Finland In 50 Km Long Queue Marine Insight",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "65ad0330290a",
-   "title": "Baltic Dry Index climbs to 3140 up 27 points",
-   "original_title": "Baltic Dry Index climbs to 3140 up 27 points",
-   "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-3140-up-27-points/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-01T12:00+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry",
-    "coal",
-    "grain",
-    "iron ore",
-    "prices"
-   ],
-   "summary": "Today, Thursday, October 1 2026, the Baltic Dry Index climbed 27 points, 3140 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore. The index is based on a daily survey of agents all over the world. Baltic Dry hit a temporary peak on May 20, 2008, when the index hit 11,793. The lowest level ever reached was on Wednesday the 10th of February 2016, when the index dropped to 290 points.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "36ec2034a348",
-   "title": "Akrotiri Tankers doubles suezmax order at New Times",
-   "original_title": "Akrotiri Tankers doubles suezmax order at New Times",
-   "url": "https://splash247.com/akrotiri-tankers-doubles-suezmax-order-at-new-times/",
-   "source": "Splash247",
-   "published": "2026-10-01T12:00+00:00",
-   "added": "2026-10-01T20:03+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "crude"
-   ],
-   "summary": "Greek tanker newcomer Akrotiri Tankers has returned to New Times Shipbuilding for a second suezmax, continuing a rapid expansion of its Chinese newbuilding programme. Shipbroking sources place the latest order at $84.4m for a 157,000 dwt crude tanker scheduled for delivery in June 2029. The contract takes Akrotiri’s suezmax orderbook to two ships. The Marielena Procopiou and Konstantinos Lampsias-led company made its first move into the segment earlier this year, booking a ship of the same size at New Times for around $82m, also with delivery in 2029. That order marked Akrotiri’s expansion beyond the LR1 product tanker segment on which it initially built its fleet. New Times has quickly become Akrotiri’s main newbuilding partner. The owner started out with two LR1s at the yard late last year before moving into larger crude tonnage, and earlier this month added two 93,000 cu m VLACs for 2029 delivery in its first venture into gas shipping.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "182c05cf7547",
-   "title": "Chinese start-up behind laser mosquito killer set to start shipping orders",
-   "original_title": "Chinese start-up behind laser mosquito killer set to start shipping orders",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUjM2eVd6TzdHamVUR3NRMHFsX1RvbUZxVzBnZGpSaTRsYjJHczZhTjdxSURLUFctMXJkTkZ3SExsUEJLTjVYblU2dXd3YXpxVVpYdXU4MVFiNTdJSjJ2dGpKSlk5Y3VTSW9wYVZSeDhIemlqc0JOZWZiaVBhaW1pR2xYLW9GSjRKYlhxbEVSRUJRUy1UaEdwN1NiQTBFcWpOUWY2SHhoelpLQjF1MEZUdTlBbDIxdGVnX0l3TFNPYTd4eXhUWndzOWNiNkdMSjYt0gHQAUFVX3lxTE9FcW82X2xKLU1zVndwVHZFY3FCeHkzUERHQVFRTUlYU3V2NXJJdGZFTGk0cXFndG9jQ0dkZ1ZXWHBfS1FaQnhLN1JuYWZjNXhYMXV4bjNUblk5RjAxanRROGZXOEdXNG54aHhTUmhodnZJQkFtVHc3Zk5DSXY2SWlnME5iMlpfcFRFSkg1dnVueEZ1bmRfUkZmV3NyLThRMVVRVUFWdmRlMmZMajU0bmtpMlJLUjNKNnpFTF8wOWsxdll2a1pFZHd6TXYxN0I1bW4?oc=5",
-   "source": "South China Morning Post",
-   "published": "2026-10-01T12:00+00:00",
-   "added": "2026-10-02T03:25+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "chinese",
-    "shipping"
-   ],
-   "summary": "Chinese start-up behind laser mosquito killer set to start shipping orders South China Morning Post",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
