@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T06:34+00:00",
+ "generated_at": "2026-10-05T07:02+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "a35a0667a8e5",
+   "title": "Oil exports surge back through Hormuz despite mounting attacks",
+   "original_title": "Oil exports surge back through Hormuz despite mounting attacks",
+   "url": "https://splash247.com/oil-exports-surge-back-through-hormuz-despite-mounting-attacks/",
+   "source": "Splash247",
+   "published": "2026-10-05T06:51+00:00",
+   "added": "2026-10-05T07:02+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "crude",
+    "hormuz",
+    "war"
+   ],
+   "summary": "Oil flows from the Middle East have climbed back above pre-war levels even as attacks on tankers around the Strait of Hormuz accelerate to their fastest pace since the conflict with Iran erupted on February 28. Provisional Kpler data shows regional crude exports exceeded pre-war volumes on four days during the final week of September, reaching between 19.5m and 22.5m barrels per day. The seven-day moving average stood at 18.5m barrels per day on October 1, compared with an average of around 18m barrels per day in the year before the war. The numbers cover Hormuz and Red Sea movements as well as terminal exports and ship-to-ship transfers in the Gulf of Oman. Iraqi Oil Tankers Company has transported a 2m-barrel cargo through Hormuz on a chartered VLCC, taking responsibility for the crude beyond the strait rather than selling it on the traditional free-on-board basis at Basra. The surge in cargoes transiting Hormuz is being matched, however, by an equally sharp escalation in attacks. The 115,100 dwt Lipsi, operated by Greece’s Dynacom Tankers Management, was hit by an unknown projectile in Hormuz on Sunday, suffering engine-room damage. Off Yemen, the Marshall Islands-flagged tanker Chrystal Sky reported several explosions around 60 nautical miles south of Al Mukha on Sunday.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "a10195fa7860",
    "title": "Fertiliser prices, Hormuz disruption threaten global food security: Nirmala Sitharaman",
@@ -202,6 +231,31 @@
     "teu"
    ],
    "summary": "Hambantota International Port crosses 1 million TEUs as it builds towards 2 million TEU capacity Maritime Gateway",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2f9e6564e3d8",
+   "title": "ICT: Durban Gateway Terminal transition delays",
+   "original_title": "ICT: Durban Gateway Terminal transition delays",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkxtM3JCZEhwV1ozTXlsNzU0U0hwWVM5YmZueWlJSi02dFNidTZDOWpwdWpseE5wNko5Rnh0eGVVc3k0UHJhaUJQTVd6WWc2MDI2TGVkMTl0VGRaZkJKTmMxTG81T2t3a2RxUmUwNGRGQnpseFFqek9GNWVQU1NXZ3hSQVpCby1WZWU2RnRWLWtnc0xmeUlYc0Q1YWdndnc1Q2RVMTFB0gGmAUFVX3lxTE12TG0zckJkSHBXWjNNeWw3NTRTSHBZUzliZm55aUlKLTZ0U2J1NkM5anB1amx4TnA2SjlGeHR4ZVVzeTRQcmFpQlBNV3pZZzYwMjZMZWQxOXRUZFpmQkpOYzFMbzVPa3drZHFSZTA0ZEZCemx4UWp6T0Y1ZVBTU1dneFJBWkJvLVZlZTZGdFYta2dzTGZ5SVhzRDVhZ2d2dzVDZFUxMUE?oc=5",
+   "source": "Philstar.com",
+   "published": "2026-10-05T02:01+00:00",
+   "added": "2026-10-05T07:02+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "ICT: Durban Gateway Terminal transition delays Philstar.com",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -1766,6 +1820,32 @@
    ],
    "summary": "Port continues fixes to downed gantry cranes, reports 100 mph winds guampdn.com",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7a9b7723611f",
+   "title": "OSLO PORT AUTHORITY",
+   "original_title": "OSLO PORT AUTHORITY",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFlNeWRnMENIa2VFd1NGWXRHZHFFeEF3Zjd2MFBrLVJ0eFliZVhQWGlGMlFUWmRCQmNuTzNTLXpXTGlDM0lMdmxDZEUza0k2amVpUWZpQ3ZKTDBTMUlKd3lWamJxb1lVVkt6anVYOXVtQTU5NjBuRkpobC0zUkRZcFp3U2M?oc=5",
+   "source": "AIVP",
+   "published": "2026-10-04T02:55+00:00",
+   "added": "2026-10-05T07:02+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "port",
+    "port authority"
+   ],
+   "summary": "OSLO PORT AUTHORITY AIVP",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16322,83 +16402,6 @@
    ],
    "summary": "Deputy Economy Minister Genadi Arveladze: Growing strategic importance of Middle Corridor unlocks fresh opportunities for broader regional growth 1TV.GE",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3e53c2f9d0fd",
-   "title": "Jedna kontrola zamiast czterech. Branża chce zmian w polskich portach",
-   "original_title": "Jedna kontrola zamiast czterech. Branża chce zmian w polskich portach",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWEo4QU5ibDM0RmJkclJUbXBnR09fbW1pR0NubVhsMUdXbTRKelNiaUdpR25LLTN3VWtoTkZhWi15RzFzMnc2S29FdTNVZGMyU3V2eWxaV214M0hQNXhSdTlwVTZETHo0RnVSSjZsblVPYkFva2ZEbV96ZHJhRUJOV2pSRGI5ZGJ0Y3c1bUxSdTZWSUEweF9mVHk2NlBKTzBLQ2t2NXBR?oc=5",
-   "source": "CEO Magazyn",
-   "published": "2026-09-30T12:03+00:00",
-   "added": "2026-10-01T22:54+00:00",
-   "lang": "pl",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "magazyn",
-    "polski"
-   ],
-   "summary": "Jedna kontrola zamiast czterech. Branża chce zmian w polskich portach CEO Magazyn",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c83fcde9d807",
-   "title": "APM Terminals and Aalborg port launch weekly container rail link in Denmark",
-   "original_title": "APM Terminals and Aalborg port launch weekly container rail link in Denmark",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16UXpJMXBoQlBQRGtUOXlSdDV3MGdhd3Mzai1EYkpHaDIxQWtYLWg4RjBvUVVHRzdETks3Z1QwOWlEblJlbkxfcjB4WQ?oc=5",
-   "source": "PortNews IAA",
-   "published": "2026-09-30T11:51+00:00",
-   "added": "2026-10-01T18:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "port",
-    "terminal"
-   ],
-   "summary": "APM Terminals and Aalborg port launch weekly container rail link in Denmark PortNews IAA",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e04d03abe869",
-   "title": "Terra 2 Refloated After Running Aground at Düsseldorf Port",
-   "original_title": "Terra 2 Refloated After Running Aground at Düsseldorf Port",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYXRPTjdkOGpvbzJ3YUROTGxXOGpsczNMTm4wNm41ZTN6dVRzYk1LVlphcjdQT2VVOUwxR3JNMkdiTUxWU1Q4eGljNjM3U1cxY3oxaDNEVXFQMTM4YlBGYXYyUklPdmt3bkZVREl5LW5EVVBMVE5pa1BVMjNGRVFIUVFFc05mSGl5QWM4Y1VKR1pnWjZZUnY3MC03c0JwNXBGTW4zTVF0SUQ4OGNEeXNoWDMzUGVjdUNa?oc=5",
-   "source": "Data Portuaria",
-   "published": "2026-09-30T11:50+00:00",
-   "added": "2026-10-03T04:47+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Terra 2 Refloated After Running Aground at Düsseldorf Port Data Portuaria",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
