@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T08:10+00:00",
+ "generated_at": "2026-10-05T08:36+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,131 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "122c2b43acc2",
+   "title": "Russia hits another four ships in the Black Sea",
+   "original_title": "Russia hits another four ships in the Black Sea",
+   "url": "https://splash247.com/russia-hits-another-four-ships-in-the-black-sea/",
+   "source": "Splash247",
+   "published": "2026-10-05T08:20+00:00",
+   "added": "2026-10-05T08:36+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports",
+    "shipping",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "defence",
+    "ministry",
+    "port",
+    "russia",
+    "ukraine",
+    "vessel"
+   ],
+   "summary": "Russia has stepped up attacks on commercial vessels and port infrastructure in and around Ukraine’s Odesa region, with Moscow claiming strikes on several cargo ships in the northwestern Black Sea over the weekend. Russia’s defence ministry said its forces struck four dry cargo vessels across Chornomorsk Port, the Bug Estuary, and the northwestern Black Sea. Russian forces also hit logistics infrastructure in Chornomorsk. Russia separately said it had targeted the port of Vylkove, fuel storage facilities at Chornomorsk, and cargo vessels in the region. The ministry did not disclose the vessels’ identities. The latest attacks follow a strike on a Liberian-flagged civilian cargo vessel at an Odesa region port on October 3. One motorman was killed, and three crew members were injured, with another 13 seafarers evacuated from the vessel. Ukraine’s government said last month that Russian attacks since the start of the full-scale invasion had damaged or partially destroyed 1,173 port infrastructure facilities and 274 civilian vessels. pic.twitter.com/jhr4xqcLa5",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "810256931ba9",
+   "title": "EU’s new steel import rules tighten supply chain scrutiny and reshape market dynamics",
+   "original_title": "EU’s new steel import rules tighten supply chain scrutiny and reshape market dynamics",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTWtxTkViRFJzRjhFTXpkczVEZUwteGR1MVhyWlN6QnZnWEh3eDV2Y2pvWkl6TUFmQTFiZDZqSTB3YkNjMmNaZ2JESXFsaVdzZGt5M3g5QU40RHFrLXVZTzAwZGJmZllvYWhiZVptTWhJNnFncEUwMFhZd25YVkNGd2xQRWpMRGFfdjh5WWVWb0M1ZGJnbG9RZk4waFdKb1NteEk4UjQ2cDJEZ0g1b0NzR1kzeTFUR1FLZ3hqTVZPNXBwVXRQdnBWaERWV0JCRjJHUEF2S0pJQWNLTktJTERKb2tsTHhsUQ?oc=5",
+   "source": "Global Sources",
+   "published": "2026-10-05T08:19+00:00",
+   "added": "2026-10-05T08:36+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "commodities",
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "steel",
+    "supply chain"
+   ],
+   "summary": "EU’s new steel import rules tighten supply chain scrutiny and reshape market dynamics Global Sources",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "670589ccb5e1",
+   "title": "Shadow Fleet Traffic on Northern Sea Route Surges as Arctic Safety Concerns Grow",
+   "original_title": "Shadow Fleet Traffic on Northern Sea Route Surges as Arctic Safety Concerns Grow",
+   "url": "https://gcaptain.com/shadow-fleet-traffic-on-northern-sea-route-surges-as-arctic-safety-concerns-grow/",
+   "source": "gCaptain",
+   "published": "2026-10-05T08:06+00:00",
+   "added": "2026-10-05T08:36+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 14,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "lng",
+    "russia",
+    "russian",
+    "shadow fleet",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Nuclear icebreaker Vaygach escorting a convoy of crude oil and oil product tankers along the Northern Sea Route in July 2024. (Source: Atomflot) The number of shadow-fleet vessels carrying Russian oil and LNG through the Northern Sea Route has surged this summer, according to a new analysis by Bellona’s Environmental Transparency Center, raising concerns about the ability to respond to accidents in one of the world’s most remote shipping environments. Bellona has identified more sanctioned oil tankers and LNG carriers on Russia’s Northern Sea Route in the first two months of the 2026 navigation season than during the whole of 2025, with many vessels lacking meaningful ice capability and information about accidents increasingly difficult to obtain. Sanctioned vessels accounted for about three-quarters of all oil tankers and almost 40% of LNG carriers observed on the route during the period, according to Bellona’s monitoring. Bellona notes that Russia’s Northern Sea Route administration has stopped publishing information about incidents and accidents along the route since 2025. Russian insurer AlfaStrakhovanie recently disclosed that it had paid compensation for damage to a tanker hull following an accident while the vessel was sailing along the Northern Sea Route under icebreaker escort.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "62dd03b6b58b",
+   "title": "AD Ports enters South America as Dh3.1 billion Brazil deal stands complete",
+   "original_title": "AD Ports enters South America as Dh3.1 billion Brazil deal stands complete",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWdpaFhKWGtYdUpJRFBPUmJ5V1FsdmxrTUFqdEp6a09kMnpQY2RybG1FQTFxUzVGc21nTzkyWWpNaFVCOWp5Nms3b1NwWHN1a3ROenVYbElQbWFGMHI5aUxJQndVUThHVGNlYXAteEM2VUJYMVpHSE51NkVzMDJiRXJ3SVAtaEx2b253dlk2M1FXUkhjN1JUNGQzT3FWdVHSAbIBQVVfeXFMUDFpOHFzSXNVMmhURmFZNndsbERwdkVNVUhydjZTd0FwY2hiS3pLV3RFYjF6ZzljbnhpT1RMZE0yQU92R2YtenFkWE12T2kwR1c4ZGFGREpRMS03X09IczAwMkxwZTU4N0RVaWVhVjYxV09wZDJhZDdpUXJfNW14alYyU3dKal9UNG9TV0lYcm5TMWJ2S1JhZ01yTjJNN3AxVF9BUUczZ1FValhCd3BNQVQ1dw?oc=5",
+   "source": "gulfnews.com",
+   "published": "2026-10-05T08:06+00:00",
+   "added": "2026-10-05T08:36+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East",
+    "Latin America"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "AD Ports enters South America as Dh3.1 billion Brazil deal stands complete gulfnews.com",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "70b99aee9309",
    "title": "DP World in talks to extend Callao concession to 2066",
@@ -42,6 +167,32 @@
    "summary": "DP World is in talks with the Peruvian government over a 30-year extension of its concession at Callao in return for a further $1.47bn investment programme. Peru’s Ministry of Transport and Communications (MTC) has held fresh discussions with DP World Callao over proposed Addendum No. 4 to the concession for the South Pier container terminal. The amendment would extend DP World’s tenure from 2036 to 2066. The investment package would expand terminal infrastructure and equipment, improve road access and create the long-planned Callao antepuerto, or truck staging facility, designed to tackle congestion around Peru’s principal container gateway. The proposal is now being evaluated by the government and will require coordination between the MTC, National Port Authority, Provías and Callao municipality. DP World has already invested heavily at the port. Its $400m Bicentennial Pier expansion, completed in 2024, increased annual capacity to 2.7m teu and gave the terminal a 1,050 m quay capable of handling three ultra-large containerships simultaneously. The South Pier handled a record 2.079m teu last year, accounting for around 62.5% of Callao’s container throughput.",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "5040d33d515c",
+   "title": "[Turkey] The Turkish steel market operated under broad downward pressu",
+   "original_title": "[Turkey] The Turkish steel market operated under broad downward pressu",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVTMyU0kxT1lWWEZ5ZXlLWmFrNVlub0tnWmw5OW4zNUxYell2U1dJRXdvbFdVbUs3UEpnUkRkc1l4OW5PZXlfcFlMcmtBckhPNE45MkNVQkN1UUttV1h3WngxaTY0VFlXLWtfM1RxSkRxdUpYY2Jsa3FHaGxVRmJSU3g4bER3d3ZlaUgycm96LUpRU2V1bU50WUdJc2xyYi12UWtSc09mZzA3VnR3M2NDSXR3VUszRUwtem5PbkVhT1g0T3hXYXBsTjByS1BsQ3AxTEJqMV9rZXJUanVoSllIdVk3R1ZMVzQ?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-05T06:55+00:00",
+   "added": "2026-10-05T08:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Asia"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "[Turkey] The Turkish steel market operated under broad downward pressu Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "a35a0667a8e5",
@@ -14050,6 +14201,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "1cd2c0a70174",
+   "title": "Scotch whisky prices fall in India as UK trade pact halves import tariffs",
+   "original_title": "Scotch whisky prices fall in India as UK trade pact halves import tariffs",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzhIWW4yZkFoUGFOMy1mcmJOcU8wODVNajRtNG5heHFISXNPTHRmalV3OGxMVDVDTlFmcXdpeWlNaThXZjdjTkRGckowVDBlaUkwanJIZ21YSHZvQzZpNF9JSFhoVzFxNXdnWWtqM0UxaUozb09wS2FzbkZQU21SMEtoOTJBNEplc3BqYjJvMkVFdjhGUWc5d1hXMk5zSEw2U1o2Ty02TWRwdDg?oc=5",
+   "source": "streamlinefeed.co.ke",
+   "published": "2026-10-01T05:33+00:00",
+   "added": "2026-10-05T08:36+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "prices",
+    "tariff"
+   ],
+   "summary": "Scotch whisky prices fall in India as UK trade pact halves import tariffs streamlinefeed.co.ke",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a48a6d16e12b",
    "title": "HMM to launch Mombasa–India shipping service",
    "original_title": "HMM to launch Mombasa–India shipping service",
@@ -16255,161 +16434,6 @@
    ],
    "summary": "Poland draws foreign e-commerce logistics EurobuildCEE",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d66e210fcf1d",
-   "title": "Casablanca Port Gets Africa’S First Liebherr LPS Crane",
-   "original_title": "Casablanca Port Gets Africa’S First Liebherr LPS Crane",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PTWJQU2hMa1FvNTJvOEh5R2N6SlEyTG90NGxjbkRtamZEM0dMM2ZmNFZFSDVIZ2R5NlNKUVVfZlpfTEdXajc0ZnljNEhYZVYtcW4tWjhXTUlKZVhCYU5pbW1yREtKLUpFMWg5Zk05a2xHZGdiUnJxOElFNFE4dw?oc=5",
-   "source": "Marine Link",
-   "published": "2026-09-30T13:13+00:00",
-   "added": "2026-10-01T16:27+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "crane",
-    "liebherr",
-    "port"
-   ],
-   "summary": "Casablanca Port Gets Africa’S First Liebherr LPS Crane Marine Link",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "449da83c07f8",
-   "title": "Port Zewnętrzny w Gdyni: tylko jedna oferta w przetargu",
-   "original_title": "Port Zewnętrzny w Gdyni: tylko jedna oferta w przetargu",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFFsdldob0lJLXk3aUlwd2VrMl9FdEFpNlV4eUp2aWdyNzhHLVZjMk10Ql9EanRMX0lsdnd5SncxQkx0UHlRel80dG5sVFhZbTk3VzFnbElqdDRZSXRpUDE2cEhydnM4T0VZNG9XYjhiS3ZUdUlFdUdBaGV0dHY1anJVWmV4SUw2SEdQQmNhQ25DMUJwaUln?oc=5",
-   "source": "GospodarkaMorska.pl",
-   "published": "2026-09-30T13:08+00:00",
-   "added": "2026-10-01T19:49+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port Zewnętrzny w Gdyni: tylko jedna oferta w przetargu GospodarkaMorska.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d0a7eaa704c9",
-   "title": "AM Green bags €585 million green ammonia deal",
-   "original_title": "AM Green bags €585 million green ammonia deal",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZi1tR0pVSGdDZ3l0NGY2TzZBS0xxUGFDN1hOQWJacks5cXBOaVFnbzBTUkltdlFpMEVBUTBxQUkzX3N1a2ExNUF6WkRLZUpyR0JFdTZKYjF0VFRISHdPRzEyQXZkZ2JFOEFTaVd5SVp6TTg1UG9ySVVwYlk5b1ROWVdadVU1TWZHLTltY21iT2g2cWFSQzNjaWhDTU9YSXNZdS01YlV5bXFjSHPSAbIBQVVfeXFMUFo4cl9TVHBDMzQ3cFVLb1hUYVB0TV84UnIwNUpqNTJuVy0xelFCWVZJeFc2WWV0N1lacS1TOXFRTFZzQnZtTzZvUGsyQVpmdk5jWk1DV0xzQXF5RFBvTTlwSUhhaGhKdFZ3TjJzcy1BdGlMM1RmZjlGbDFGa1F4VjdmazZMaEhNNEgtNVBUbU9MWUZKVHV4NmluRUstZnZMSUdTMmZ0M0J6ckRzd3B0Y2J1dw?oc=5",
-   "source": "The Hindu",
-   "published": "2026-09-30T13:03+00:00",
-   "added": "2026-10-01T20:03+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "ammonia"
-   ],
-   "summary": "AM Green bags €585 million green ammonia deal The Hindu",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2bda7daa607c",
-   "title": "The Transcaspian Corridor Becomes a New Global Logistics Link",
-   "original_title": "The Transcaspian Corridor Becomes a New Global Logistics Link",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMHExbGN1U1B4SkpJaGJRN0JweGdQQV9MQ2x1Q1JiaXVNbFJRckVaSGFFRE9oUlRSVl9mSWxDaUZJeVVQMFAyLVJMeVZIMEZvbUY4R2M4dGNMYUNlYkxLSVk5UjBrNjJNckhJOTd2YUpLQjVhazFoVTRyTEVXQmJQRklRSW1DUUNVYk9DNFZkRXF0dnVOX185Tg?oc=5",
-   "source": "russia's pivot to asia",
-   "published": "2026-09-30T12:48+00:00",
-   "added": "2026-10-01T21:43+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "logistics",
-    "russia"
-   ],
-   "summary": "The Transcaspian Corridor Becomes a New Global Logistics Link russia's pivot to asia",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a7bbf3f40789",
-   "title": "Farmers must make fertiliser declaration - even if they have no stock",
-   "original_title": "Farmers must make fertiliser declaration - even if they have no stock",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUlhbm9QYmk1QWtxQTlVd014Wl9ZcWcxUjVXQVhZaGZ0UnVORGs0eWdiSFBOa1RNYmgtRlVMd2lmOHlOb21aSHl2dnQ5WFM5VDkxVGU4dW15amFzb00tdDhUT3o1eXN6RlgyekhhOWM3ZUpvdm9KS3hPUUJVQmJqQmhnT3gxb2pMaTFwUVNrVFhxVFg3RFRycUQwekZ5Tlp2a2IxSnBaSDU?oc=5",
-   "source": "Agriland",
-   "published": "2026-09-30T12:45+00:00",
-   "added": "2026-10-01T19:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fertiliser"
-   ],
-   "summary": "Farmers must make fertiliser declaration - even if they have no stock Agriland",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "853b4c009bc4",
-   "title": "Middle Corridor cargo volumes rise 22% in first eight months of 2026",
-   "original_title": "Middle Corridor cargo volumes rise 22% in first eight months of 2026",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrYjExbHNoODg3RHJzWjlHZDR1QzVCYUlsZW5mMFdiZUFYWk9haDdyTWdLTGI5Y05JWm5YLWRjSHpVdGZ4cmVmVWZwNmNuNXRRU0lZTmQ2aw?oc=5",
-   "source": "AzerNews",
-   "published": "2026-09-30T12:43+00:00",
-   "added": "2026-10-01T19:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Middle Corridor cargo volumes rise 22% in first eight months of 2026 AzerNews",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
