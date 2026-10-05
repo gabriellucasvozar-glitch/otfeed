@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T07:27+00:00",
+ "generated_at": "2026-10-05T07:50+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,36 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "70b99aee9309",
+   "title": "DP World in talks to extend Callao concession to 2066",
+   "original_title": "DP World in talks to extend Callao concession to 2066",
+   "url": "https://splash247.com/dp-world-in-talks-to-extend-callao-concession-to-2066/",
+   "source": "Splash247",
+   "published": "2026-10-05T07:48+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "mna",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "concession",
+    "container terminal",
+    "ministry",
+    "terminal"
+   ],
+   "summary": "DP World is in talks with the Peruvian government over a 30-year extension of its concession at Callao in return for a further $1.47bn investment programme. Peru’s Ministry of Transport and Communications (MTC) has held fresh discussions with DP World Callao over proposed Addendum No. 4 to the concession for the South Pier container terminal. The amendment would extend DP World’s tenure from 2036 to 2066. The investment package would expand terminal infrastructure and equipment, improve road access and create the long-planned Callao antepuerto, or truck staging facility, designed to tackle congestion around Peru’s principal container gateway. The proposal is now being evaluated by the government and will require coordination between the MTC, National Port Authority, Provías and Callao municipality. DP World has already invested heavily at the port. Its $400m Bicentennial Pier expansion, completed in 2024, increased annual capacity to 2.7m teu and gave the terminal a 1,050 m quay capable of handling three ultra-large containerships simultaneously. The South Pier handled a record 2.079m teu last year, accounting for around 62.5% of Callao’s container throughput.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
   {
    "id": "a35a0667a8e5",
    "title": "Oil exports surge back through Hormuz despite mounting attacks",
@@ -43,6 +73,36 @@
    "summary_method": "extract"
   },
   {
+   "id": "6c93596074d0",
+   "title": "Wheat Futures Edges Higher Toward $700 as Russia Threatens Ukraine Escalation",
+   "original_title": "Wheat Futures Edges Higher Toward $700 as Russia Threatens Ukraine Escalation",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFR6TjkyTVVjM095NVozWFpOc3BSd2F3VHlHTno4WTk3eEJnV0I1UWxfVElLRUllY2lzdkdydVdlMkVRNjlMZkJ4SlBfSVBkSVFteURyVmVBcUN0YWpGRk5JVGlPV19FMzlGSHhzcnoxWFlEYnlac3lLcVgyTTZFaWNHVVRRLVl5X1lTUzRkN294SjFkMk9kMndtQ1pab29kZnpKdTJ3RDVhRlV1WGluX0ZCY0JXZTBCU1NV?oc=5",
+   "source": "FXLeaders",
+   "published": "2026-10-05T06:43+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "futures",
+    "russia",
+    "ukraine",
+    "wheat"
+   ],
+   "summary": "Wheat Futures Edges Higher Toward $700 as Russia Threatens Ukraine Escalation FXLeaders",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a10195fa7860",
    "title": "Fertiliser prices, Hormuz disruption threaten global food security: Nirmala Sitharaman",
    "original_title": "Fertiliser prices, Hormuz disruption threaten global food security: Nirmala Sitharaman",
@@ -71,6 +131,84 @@
    ],
    "summary": "Fertiliser prices, Hormuz disruption threaten global food security: Nirmala Sitharaman Moneycontrol.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3fcfac6fcae0",
+   "title": "Russia Is Losing Ground in the Global Coal Market",
+   "original_title": "Russia Is Losing Ground in the Global Coal Market",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeWRiWnBlcFJ3M1RPdHhLQUQ5SU8tQXlYOUhXSmsyOE1leDZtd0xGc25PLVF5WnNoVkZmSnhBVVJmZElVV3FWT3dhaW5oZ3ZQekxnaUZ3QlNhbE0zRndzZ2xXVGxJV1BBaTQyUjY1c0Q4MGVhLWtMNWV2c1pnRUk1Y01KWkQwdw?oc=5",
+   "source": "ua.news",
+   "published": "2026-10-05T06:14+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "coal",
+    "russia"
+   ],
+   "summary": "Russia Is Losing Ground in the Global Coal Market ua.news",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b08683c5a108",
+   "title": "Trade Tops the List of Grain Market Drivers",
+   "original_title": "Trade Tops the List of Grain Market Drivers",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wTWtIRDNRVVcyUDlIdWViTllIcEhxR0NfMG40eGc3STNOOEwycGVnZkU1SVlfLVZmeGZ2dnBJcFZZa29OdURSd2daXzBWYXlxck43SA?oc=5",
+   "source": "Southern Farm Network",
+   "published": "2026-10-05T06:07+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Trade Tops the List of Grain Market Drivers Southern Farm Network",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "19565754e593",
+   "title": "Italy's Gioia Tauro Port awards channel dredging contract to Spanish firm",
+   "original_title": "Italy's Gioia Tauro Port awards channel dredging contract to Spanish firm",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWklXcTBabDQ4SndXYmtJV2RDTnRPMUVtSlFaaTFQT0RraUNGUkYyZjUxUG5ZZFhJSnFsdHI5bmpZM01oaDJqQjN6X0pqWk1CbDBEUk1TWEYtU3pFaDFHbldwT2RMLUIzVU56Ykh6a0FTQTRhVGEtbnc3UWlOQkg0Q1hKUi1rMER3Z0paUk4weDfSAZ4BQVVfeXFMTnhfaXFTQ3BiY0N4SlIwOGVMNTBjVUlNWkZCZ29PX3RFd2liVzU1ZGRRaVVMZVdvRXFZOUtEV3NkblVnMV8ycktneDhqdGdHX0VHNm1JWW1XbnpkM2dCOFE3MXlLLThPbFdwc2ZETTdxcUN4UWRkeDdNb1RoVVpEdTRJVmZkamdJNmo3WjhEVHZZVG4wUHpVdEVBYWJBRnc?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-05T05:37+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "dredging",
+    "port"
+   ],
+   "summary": "Italy's Gioia Tauro Port awards channel dredging contract to Spanish firm Baird Maritime",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -129,6 +267,38 @@
    "summary_method": "feed"
   },
   {
+   "id": "e885c61ead83",
+   "title": "Russian Coal Exports Lose Ground as Shipping Costs and Tariffs Rise",
+   "original_title": "Russian Coal Exports Lose Ground as Shipping Costs and Tariffs Rise",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qMGthRGxQU1VOak15MGowNkZYLXlIbE9MWTBYeWFkS09lNjVRcGFvd0RfY3pRVnZ6Z1FIek92SzRZaTdod1pSZVRNbFBndEk4aDFTVUpod1pRU0ZFN0xQSFBvWlNuTVZC?oc=5",
+   "source": "Межа. Новини України.",
+   "published": "2026-10-05T03:47+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "shipping",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "coal",
+    "russia",
+    "russian",
+    "shipping",
+    "tariff"
+   ],
+   "summary": "Russian Coal Exports Lose Ground as Shipping Costs and Tariffs Rise Межа. Новини України.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b3768bd40bed",
    "title": "Middle East crude exports rebound past pre-war levels: Kpler",
    "original_title": "Middle East crude exports rebound past pre-war levels: Kpler",
@@ -152,6 +322,34 @@
     "war"
    ],
    "summary": "Middle East crude exports rebound past pre-war levels: Kpler en.royanews.tv",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "00c522733562",
+   "title": "Strait of Hormuz will not reopen until conditions are met, says Iran",
+   "original_title": "Strait of Hormuz will not reopen until conditions are met, says Iran",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGl6a1ZkREdlVjJxOTFDSlVkbGtBRlI3djRUc0xwclQzcGFadFB0NVZxdlV6VWlWVHhTNWh4SWZNRVNsWkRhVzk2c3Vsbl9kSGFSbEFtVjh0MHh4enZpV2dEaHdYYVhhbHBlLXFNVHQ0cHNubHVVTHBKTGp5SVRjcXdRcmdER2V6Z3hGNHpVOHZWb25jY2RocF81b0s3czRBTm9pbWFOUE5ROXAxZ0VNNl90Nnc2UDloSTlfQkln?oc=5",
+   "source": "India Shipping News",
+   "published": "2026-10-05T03:21+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Strait of Hormuz will not reopen until conditions are met, says Iran India Shipping News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -208,6 +406,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "3fb1b4d728ae",
+   "title": "During its latest Economic and Steel Market Outlook published on Octob",
+   "original_title": "During its latest Economic and Steel Market Outlook published on Octob",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenFmaU1mX3VEWF91enM4NnJwNlJsbEE1ZE1QbjN5bVQ0ZXNqcUw4SmtWV3N1eTVQbjQtUXBLaHlvM25ZSl9pZzBnQWxHN0lwWXlTbkh0bEx0OGduVTh2Qm40a0xKRGFGcEtsc2J0bHFaRXJ2TWF6ZzNKVmhZUF9wTnlnc0dmeEMxb1prYi13aU1SRVVWS1dYdFRLNWZzX2haUklWcXFXR29qSFU?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-05T02:49+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "During its latest Economic and Steel Market Outlook published on Octob Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "23ade542967f",
    "title": "Hambantota International Port crosses 1 million TEUs as it builds towards 2 million TEU capacity",
    "original_title": "Hambantota International Port crosses 1 million TEUs as it builds towards 2 million TEU capacity",
@@ -235,6 +458,59 @@
    "summary_method": "feed"
   },
   {
+   "id": "40bec4875013",
+   "title": "Fuel Switch Snapshot: Gas slide narrows LNG and LBM premiums over fuel oil – ENGINE",
+   "original_title": "Fuel Switch Snapshot: Gas slide narrows LNG and LBM premiums over fuel oil – ENGINE",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWmVHSk0waDNvb1RPWDd0VnpyZDc2UWs4WXNpZVhQLXVvc2RtTWJRQlZ1Z3o1SWtGdnNORTk5ODhxVTFHSks3UlQwT2NNU0VaZF8xR1h6NVhWNjQtWDA2NlRWMTZQQWRjam9jQlc2U0paR2xBRTlUcTZmR0RBOGVXamF1V3l6WEpkZ0YxakZlWWFXVnc1N1VhTGtVMXhsWHl6WVFEa3o4c1VBaEh3Q0hjNDBVOFhJRldTdW4zdjQzTXQ?oc=5",
+   "source": "Cyprus Shipping News",
+   "published": "2026-10-05T02:46+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "lng",
+    "shipping"
+   ],
+   "summary": "Fuel Switch Snapshot: Gas slide narrows LNG and LBM premiums over fuel oil – ENGINE Cyprus Shipping News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bc46efa3c307",
+   "title": "Golden Energy Offshore wins back-to-back PSV charter deals",
+   "original_title": "Golden Energy Offshore wins back-to-back PSV charter deals",
+   "url": "https://splash247.com/golden-energy-offshore-wins-back-to-back-psv-charter-deals/",
+   "source": "Splash247",
+   "published": "2026-10-05T02:10+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "charter",
+    "vessel"
+   ],
+   "summary": "Norwegian offshore vessel owner Golden Energy Offshore Services (GEOS) has won two new charter deals for one of its PSVs with two unnamed international charterers. The first contract for the PSV, revealed to be the 2005-built Energy Swan , includes a firm period of about one month, with additional options, and is scheduled to commence in October 2026. The second contract provides employment on the Norwegian Continental Shelf for an estimated firm period of 290 days, with options for a further approximately 500 days. Commencement is expected in January 2027. The two contracts represent a combined estimated firm contract value of approximately $8.7m. If all options are exercised, their total estimated contract value would increase to approximately $23.5m. The combined estimated remaining firm contract backlog for Energy Pace , Energy Paradise , and Energy Swan vessel is approximately $17.9m as of October 1, 2026. If all remaining options under these contracts are exercised, the total estimated remaining contract value would increase to approximately $42.2m.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
    "id": "2f9e6564e3d8",
    "title": "ICT: Durban Gateway Terminal transition delays",
    "original_title": "ICT: Durban Gateway Terminal transition delays",
@@ -256,6 +532,32 @@
     "terminal"
    ],
    "summary": "ICT: Durban Gateway Terminal transition delays Philstar.com",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a82c2cda1a83",
+   "title": "WTWFI National Conference asks govt to halt privatisation of major ports",
+   "original_title": "WTWFI National Conference asks govt to halt privatisation of major ports",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVjFPZ21VNFlTSldscWdvUzl6clBjTjBVQ2tXUlo4MDVoLTlza2NQdkg1WTJrOHFhQlBVMVBGLWNDQTJlYTdmMEVaWXFuVTVKZ3pTREhHeGwwdWNPNE9ELUxZNHBLWjJ6RWN6RXo5dGZvR1JxeGNDWWJHX0hkRXFGalRwTGRvaGdEamg3SHplZmxLTXMtdWNBenVMZ21QZWRLSVhRc1V6a2wtcnkwV1NqOHZnZTNva1ZjRVFobGgyOGZmdm1jYVQ4eEFzNjBadTVHYTNZa3I1OHMtS1AxWGdEbC1CNNIB4wFBVV95cUxPVjFPZ21VNFlTSldscWdvUzl6clBjTjBVQ2tXUlo4MDVoLTlza2NQdkg1WTJrOHFhQlBVMVBGLWNDQTJlYTdmMEVaWXFuVTVKZ3pTREhHeGwwdWNPNE9ELUxZNHBLWjJ6RWN6RXo5dGZvR1JxeGNDWWJHX0hkRXFGalRwTGRvaGdEamg3SHplZmxLTXMtdWNBenVMZ21QZWRLSVhRc1V6a2wtcnkwV1NqOHZnZTNva1ZjRVFobGgyOGZmdm1jYVQ4eEFzNjBadTVHYTNZa3I1OHMtS1AxWGdEbC1CNA?oc=5",
+   "source": "ET Infra",
+   "published": "2026-10-05T01:58+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "WTWFI National Conference asks govt to halt privatisation of major ports ET Infra",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -7430,6 +7732,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "3cdead50ab57",
+   "title": "Chicago No1 Busheling Ferrous Scrap (Fastmarkets) Overview",
+   "original_title": "Chicago No1 Busheling Ferrous Scrap (Fastmarkets) Overview",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXltcmdITFNNZEl6TEtXcTZxWUlydlpZYlJaZW9Uc0FCS3lqRXdUUDhoNVN4QkkxYWgxdmNqLVhaY25oLWhtWm9sS2RJeV9hRTdfT1U5YWUxMmlHWW9CbHZScTgybDB0MEk1b3ByNjE4R1ZYNy1JQmtiLW5pczVWVEFCZVJyNndTd3ZtMno5TFFlay1IajVaT3k4aEw1aE1Tb3c?oc=5",
+   "source": "CME Group",
+   "published": "2026-10-02T07:00+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "scrap"
+   ],
+   "summary": "Chicago No1 Busheling Ferrous Scrap (Fastmarkets) Overview CME Group",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "412aca8ba560",
    "title": "Four new STS cranes boost DP World UK capacity",
    "original_title": "Four new STS cranes boost DP World UK capacity",
@@ -9415,6 +9742,32 @@
    "summary": "A nuclear-powered LNG carrier could cost roughly 2.5 times as much to build as a conventional vessel, but lower fuel costs could significantly change the economics over the ship’s operating life, according to a new study supported by the American Bureau of Shipping. Presented at Gastech 2026, the study examined a 174,000-cubic-meter LNG carrier equipped with a 20-25 MWe high-temperature gas-cooled reactor, or HTGR, under development by Japan’s Blossom Energy. ABS, Blossom Energy and an unnamed global shipping company compared the nuclear design with a conventional LNG-fueled newbuild, assessing vessel arrangement, propulsion systems and operating conditions under a range of potential regulatory penalty scenarios. The study found that initial investment for the nuclear-powered vessel would be approximately 2.5 times that of a conventional LNG carrier. In 2024, ABS and Herbert Engineering Corporation studied the integration of an HTGR into a 145,000-cubic-meter LNG carrier , examining heat and energy management, shielding, weight distribution and other design challenges. In July, ABS awarded Approval in Principle for a nuclear-powered 15,000 TEU containership concept developed with the Korea Research Institute of Ships and Ocean Engineering and KAERI.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "d6e4f4d77d12",
+   "title": "Türkiye’s crude steel production decreased in August.",
+   "original_title": "Türkiye’s crude steel production decreased in August.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkxFbGxfVnJxTWJGLXZnQl9FM2hxN0hfRkZfRmVxV2lGYWdRODZtbE1aVXZKTEJqcjlNTjJoSnZvdEVHMUpPdFBucFhVNUZlVTQ1ZXhIeHJNamo0ejFucFItWFNNSjhYVk9WYXNaQ0l6QUZTVUtCbFBXamMxQlhCaFFJMExrdWF4T0FKZlZUYXFLdlF5?oc=5",
+   "source": "SteelRadar",
+   "published": "2026-10-01T17:34+00:00",
+   "added": "2026-10-05T07:50+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "crude",
+    "steel"
+   ],
+   "summary": "Türkiye’s crude steel production decreased in August. SteelRadar",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "d3be46481c69",
@@ -16056,351 +16409,6 @@
     "middle corridor"
    ],
    "summary": "Middle Corridor cargo volumes rise 22% in first eight months of 2026 AzerNews",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3ff8a1e6ce8f",
-   "title": "Thyssenkrupp Steel advances restructuring, targets at least €1.2 billion EBITDA",
-   "original_title": "Thyssenkrupp Steel advances restructuring, targets at least €1.2 billion EBITDA",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQlJyWHFSVmtRVDBoRER3d3VXNUlsTFFpTGF3THpwYnpsUGxmVVBiSTVOOW8xa1JscDNLUkdwMFNIWnlyd0tfT1lRV3BNRGJaVDJhY3ZrUXcwZHB5Nm1kd0o1OFZvTDA4Sm03ZXFBbHRBZlZTaEsxRUpaU0FzUXRtVUgxWHNhZ0tjR2lpaFpMT2hPR0NpOG1wUGdudHVabEM3UEdXX3FELWpWbGJGMEt6RXNOUkI1cXJrYkVhbFg3am16NkVacUI5aERaVWR1b0NNZGVmYQ?oc=5",
-   "source": "Steel Orbis",
-   "published": "2026-09-30T12:40+00:00",
-   "added": "2026-10-01T18:52+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "restructuring",
-    "steel"
-   ],
-   "summary": "Thyssenkrupp Steel advances restructuring, targets at least €1.2 billion EBITDA Steel Orbis",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a1879607ce2b",
-   "title": "Global Logistics Company Rhenus Advances Plans for Multimodal Terminal in Aktau",
-   "original_title": "Global Logistics Company Rhenus Advances Plans for Multimodal Terminal in Aktau",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTDlxaDdsYV9QSE5LeTNONVl0ekhEMXJETzA2dzR6V0thd0l5OGozUk4xbnVTdzVoWm93TkhjZG10VGRJcEp5bkI1eEUzUHZMMmg4VXFMTlFRZHBqMkREWTBISGJ4S1ZfS1JpeWxWbnMtYm00LV93alAyQUlJbkdmci1sZ2gzWUNvVHMtSXNYMjJxcEp1cGhkc1J5MDRJQWRscE5PYVo2ODBDdC16bXhOV1pn?oc=5",
-   "source": "The Astana Times",
-   "published": "2026-09-30T12:40+00:00",
-   "added": "2026-10-01T21:43+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistics",
-    "terminal"
-   ],
-   "summary": "Global Logistics Company Rhenus Advances Plans for Multimodal Terminal in Aktau The Astana Times",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "177a88725ef0",
-   "title": "Hamburg Port Hopes for Recovery After Poor Start",
-   "original_title": "Hamburg Port Hopes for Recovery After Poor Start",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdktZaVR4Q3FYQ1U5UncyR3FJYlItQkdoTjVEbksyTzJhcE4yanp6RTRBclV0NktwRHctWkxlRHJYeHpaUmpJNnp0dEhjZm5jWDZvaF9zeEw0UHJoX0JhSFVSRjFwY09FNUpxTlY4VU4yczQ3RE9uWnM0VEQtcGhSbnRVeFYxdUxzWFhUMFZTSy1jc0luTDNBUWVySkg0T2h5RTFJ?oc=5",
-   "source": "marketscreener.com",
-   "published": "2026-09-30T12:39+00:00",
-   "added": "2026-10-01T18:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "hamburg",
-    "port"
-   ],
-   "summary": "Hamburg Port Hopes for Recovery After Poor Start marketscreener.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d83170eb23e0",
-   "title": "3 Logistics Stocks That Could Benefit First From Lower US China Tariffs",
-   "original_title": "3 Logistics Stocks That Could Benefit First From Lower US China Tariffs",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMmZPR0ZMam9Pakx2WGQwb19LbFhhNkQ4NFgzT3dkMkVJUHFKdVR1UHlYdVpWZ2ZpMmVKR0EtSkVZMlE3TUlDNGNNUkU0VG9sVjBPaFFuS2ZuWEhmalVoRF81aFVaclljRkpYLWs3RGJNQVI4MnJVWWdlMkxGNkU2MkJKSEV0el9Md3dmUGZzcmlZRmFiOTRQZF9zU0w2LVR2TnBaNG5JcllycjhEcXc0Q2tGQWNVVmxyNDcxdUZwZE9iUWp1QndBS1NuQTQ4cU5XaDVlR3k5cmNfaUJqYVowRNIB4AFBVV95cUxNMmZPR0ZMam9Pakx2WGQwb19LbFhhNkQ4NFgzT3dkMkVJUHFKdVR1UHlYdVpWZ2ZpMmVKR0EtSkVZMlE3TUlDNGNNUkU0VG9sVjBPaFFuS2ZuWEhmalVoRF81aFVaclljRkpYLWs3RGJNQVI4MnJVWWdlMkxGNkU2MkJKSEV0el9Md3dmUGZzcmlZRmFiOTRQZF9zU0w2LVR2TnBaNG5JcllycjhEcXc0Q2tGQWNVVmxyNDcxdUZwZE9iUWp1QndBS1NuQTQ4cU5XaDVlR3k5cmNfaUJqYVowRA?oc=5",
-   "source": "Simply Wall Street",
-   "published": "2026-09-30T12:38+00:00",
-   "added": "2026-10-01T22:54+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "logistics",
-    "tariff"
-   ],
-   "summary": "3 Logistics Stocks That Could Benefit First From Lower US China Tariffs Simply Wall Street",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "55d60a8d7c06",
-   "title": "Africa: ports and maritime routes at the heart of trade",
-   "original_title": "Africa: ports and maritime routes at the heart of trade",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZEwyc1RhUXdNQ0daRTFvaFkzbjV0Qm5hN1FGYS1QWGpHTU5UMzZZa3Q4YnVEazNvSnJmMXNyWFM0clBvZmRWdUMzb05hLWZreTB2V190V3V4dnZvOGxjOHBIVzRkb0M0aGl0THZYcEE2dV9tclBORG9STlpCV2FqakRKVjVjU01IUGc?oc=5",
-   "source": "Capmad",
-   "published": "2026-09-30T12:35+00:00",
-   "added": "2026-10-01T18:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Africa: ports and maritime routes at the heart of trade Capmad",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0275d45ce231",
-   "title": "Metals that withstand heat that melts most others are headed to the U.S. defense stockpile.",
-   "original_title": "Metals that withstand heat that melts most others are headed to the U.S. defense stockpile.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNVVKVE1lbTJ2TjFMU3AwYVg1WEk2ZnZ4S3hDTXhjZWhMZEtsdFprV3VpR3Z4WXRKeF9JOVR6cnRlWVJYZzlsYkFHWTRia2plYlF6blBhcWlVMmVEYkdTUUFFdkZRSFBJVDRpcDJtbGk4dDZuUmVkMGtpN3k0VnpoeXhhZVBJS01VR0VmUVRaU1o2cS14Ry04MGM2d0ppVWNfSUpBLXFTQVpHUFl0OXFMeENwSjdXcHdH?oc=5",
-   "source": "stocktitan.net",
-   "published": "2026-09-30T12:30+00:00",
-   "added": "2026-10-04T15:49+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "defense",
-    "stockpil"
-   ],
-   "summary": "Metals that withstand heat that melts most others are headed to the U.S. defense stockpile. stocktitan.net",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "07d9a7e9ca46",
-   "title": "South Africa’s Tshipi puts 828 000 t of manganese through Namibia’s Port of Lüderitz",
-   "original_title": "South Africa’s Tshipi puts 828 000 t of manganese through Namibia’s Port of Lüderitz",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWGJ3ajdfdC0yOVd3Zmc0V090X0hwUURGSkhpUlIyMjZYU1lteTZFbUpLUXVCU1JLbEdtOVd3bDhjNk80Vk9obldfbkdEbWJBck03SU9GZmI5ZUI2RGVDeGhSNTRNTGVuQ0tNLWZWWTNnTnFqeEd0bERFemZ6VFI4bk5YN1ppMUNLYmdYZUhMWXFVVTNpeFpIYWtiNVN1RHBNVjMtNlBWcjBoZ3RPRXplbTdOSzlYYlJIcGVLX3pIdVdDU0ZaSHNiOA?oc=5",
-   "source": "Mining Weekly",
-   "published": "2026-09-30T12:29+00:00",
-   "added": "2026-10-01T20:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "South Africa’s Tshipi puts 828 000 t of manganese through Namibia’s Port of Lüderitz Mining Weekly",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "830a90c40280",
-   "title": "AM Green Secures €585M H2Global Green Ammonia Deal",
-   "original_title": "AM Green Secures €585M H2Global Green Ammonia Deal",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2d0M040RGk1Snh2QUpkaXRwaEZINTNBc2R5c3AwT2dsRnpqODB6Q000UzRTTDJ5S2dWd3BvakJqZWVyRDhTbU1IV3pBbnlYX1R6WkNXNWFTemxNbzBOTGF2RzRjTEpXblNQNWlvalhlUjZ3NmZlbFpHWVE1dGxWTXJoZmRDTkZwSFZHaFVuY1dtR3FfMHRRMkQtMi1rRmlKcVU4RzZTYk1nQQ?oc=5",
-   "source": "Fuel Cells Works",
-   "published": "2026-09-30T12:29+00:00",
-   "added": "2026-10-05T06:01+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "ammonia"
-   ],
-   "summary": "AM Green Secures €585M H2Global Green Ammonia Deal Fuel Cells Works",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7c87905b6612",
-   "title": "Inflation hits 4% in Poland as fuel prices surge",
-   "original_title": "Inflation hits 4% in Poland as fuel prices surge",
-   "url": "https://notesfrompoland.com/2026/09/30/inflation-hits-4-in-poland-as-fuel-prices-surge/",
-   "source": "Notes from Poland",
-   "published": "2026-09-30T12:25+00:00",
-   "added": "2026-10-01T20:47+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "poland",
-    "prices"
-   ],
-   "summary": "Notes from Poland is run by a small editorial team and is published by an independent, non-profit foundation that is funded through donations from our readers. Poland’s inflation accelerated to an annual rate of 4.0% in September, up from 3.4% a month earlier, driven primarily by higher fuel prices amid the ongoing conflict in the Middle East and the end of Polish government subsidies that kept down prices at the pump. The development means that inflation has now risen above the upper bound of 3.5% set by the National Bank of Poland (NBP), which aims to keep the figure at 2.5%, plus or minus one percentage point. The new preliminary inflation figures from Statistics Poland (GUS), a state agency, show that prices in September were 4% higher than a year earlier, the fastest rise since June 2025. On a monthly basis, prices in September were up 0.7% from August. The rise was caused in particular by the price of fuel for private transport, which was up 36.1% on a year earlier and 9.2% from the previous month. However, it argues that Nawrocki’s decision to block a proposed windfall tax on fuel companies makes the measures harder to fund Food and non-alcoholic beverage prices provided some offset, falling 0.5% from a year earlier, although they edged up 0.1% from August.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "bd208ca96f34",
-   "title": "AM Green Wins H2Global Green Ammonia Contract for Germany",
-   "original_title": "AM Green Wins H2Global Green Ammonia Contract for Germany",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkRsV1VSTVR5MTI3cEtRYnFDWDFFU2FXQWp4Wkg1RVlTM0J2ZVB4bllfcFJkOUFCYjVVQWUxQVZPMHJjWlVNa2QzUzA3QjVKZzF6UkxLeHR0SEZSSGc5eUVMU2NQSDhPU1ZQMTRRaG9kY2lWQ0RBd0gyUGs0TFlraUNaVF84TzJKZzRtMnBxZTMtQ3dZb3l2V3VtLWktSDhGdmFlVE0tVk9Xdy1fVDJocmNJd9IBswFBVV95cUxOWkRsV1VSTVR5MTI3cEtRYnFDWDFFU2FXQWp4Wkg1RVlTM0J2ZVB4bllfcFJkOUFCYjVVQWUxQVZPMHJjWlVNa2QzUzA3QjVKZzF6UkxLeHR0SEZSSGc5eUVMU2NQSDhPU1ZQMTRRaG9kY2lWQ0RBd0gyUGs0TFlraUNaVF84TzJKZzRtMnBxZTMtQ3dZb3l2V3VtLWktSDhGdmFlVE0tVk9Xdy1fVDJocmNJdw?oc=5",
-   "source": "Rediff MoneyWiz",
-   "published": "2026-09-30T12:25+00:00",
-   "added": "2026-10-01T19:49+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "ammonia"
-   ],
-   "summary": "AM Green Wins H2Global Green Ammonia Contract for Germany Rediff MoneyWiz",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a21414ca67ab",
-   "title": "Hormuz closure a fatal blow for Dubai and Abu Dhabi transhipment volumes",
-   "original_title": "Hormuz closure a fatal blow for Dubai and Abu Dhabi transhipment volumes",
-   "url": "https://theloadstar.com/hormuz-closure-a-fatal-blow-for-dubai-and-abu-dhabi-transhipment-volumes/",
-   "source": "The Loadstar",
-   "published": "2026-09-30T12:20+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "port",
-    "ports",
-    "vessel"
-   ],
-   "summary": "The closure of the Hormuz Straits, now approaching its eighth month, has been predicted to lead to the permanent loss transhipment traffic for the Gulf’s two largest container facilities, Jebel Ali and Khalifa. Prior to the outbreak of the US-Israel-Iran conflict, the two UAE ports were a favoured waypoint for relay transhipment operations – boxes moving between Asia-Europe vessels and ships deployed on north-south trades. However, a combination of soaring insurance premiums on vessels passing though Hormuz and the major carriers redesigning their networks to insert alternative transhipment calls could spell the death knell for port operators DP World and AD Ports’ hopes of reinvigorating their transhipment volumes when the conflict ends. And he further argued that the July agreement signed between by DP World and Fujairah Port Authority for a 50-year concession to construct two terminals outside Hormuz indicated that DP World management had likely come to a similar conclusion. “DP World is building 2.5m teu capacity outside of Hormuz and is marketing it as an extension of the Jebel Ali ecosystem – I don’t think you can simultaneously argue for a full Jebel Ali transhipment recovery, whilst its owner is planning for the opposite,” he said.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "8f13b32c7f65",
-   "title": "Nigeria approves modernization of four eastern ports outside Lagos",
-   "original_title": "Nigeria approves modernization of four eastern ports outside Lagos",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSjdMem1WSUY2bjdKa0FjWnJCaFBwVVFzdndHVzk3U3kybjVZMUc2QnhlQXBrYk1zNXdaV1BiaVp3QXg2R0xZalN4OHRQbVRTa2ZSUXNCNldReW8yZ1RWZUVHMVFMa1BhS0NYMzF4clhNS2FZVWNyVy16aldvdUVzVUY5OGxBX1RZR0NudkNNeHR4S2ZVSDB6c0pZVzFMLTFk?oc=5",
-   "source": "Food Business Middle East & Africa",
-   "published": "2026-09-30T12:18+00:00",
-   "added": "2026-10-01T20:26+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East",
-    "Africa"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Nigeria approves modernization of four eastern ports outside Lagos Food Business Middle East & Africa",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d7d0a603d3d3",
-   "title": "Deputy Economy Minister Genadi Arveladze: Growing strategic importance of Middle Corridor unlocks fresh opportunities for broader regional growth",
-   "original_title": "Deputy Economy Minister Genadi Arveladze: Growing strategic importance of Middle Corridor unlocks fresh opportunities for broader regional growth",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWFNJaXBrZU42cnIwSWdjS3pXTHJVcU9yci1hQW5DZC1mTHVSM3BFMUlPVmxJbXZ4S1BGbHV6MjdkRXNUb0xseTlid0FCMGxaT19uYXBOeHhodktqZ05YSTVOQkNWNlplbF95aFVoazYzanlIcXRXcTNUaFdVMHdVekxmcFliNUdhMHVlNjVzaWNYSnRHUkMxWlJfc2pxc2Qwc2luZGwzbWxqYnFqMEpVT2xndlkzcWkzcmhqNTdYSUM4YmRmRUdxVWRxN0Rwbk1ZVnBuLUpPLVV1bnpsOGZyVlVwR1piaFdhMnpqRXhUNEFzZlZCR25GcDlXRjY1VGVhLXdN?oc=5",
-   "source": "1TV.GE",
-   "published": "2026-09-30T12:17+00:00",
-   "added": "2026-10-01T20:26+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Deputy Economy Minister Genadi Arveladze: Growing strategic importance of Middle Corridor unlocks fresh opportunities for broader regional growth 1TV.GE",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
