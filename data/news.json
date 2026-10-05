@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T22:39+00:00",
+ "generated_at": "2026-10-05T22:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -41,6 +41,32 @@
    "summary": "Vessels in the Strait of Hormuz, as seen from Musandam, Oman, August 3, 2026. REUTERS/Stringer UK Maritime Trade Operations reported five separate incidents involving commercial shipping in or near the Strait of Hormuz on Monday, including four tanker attacks and an incident in which Iran’s Islamic Revolutionary Guard Corps threatened another vessel with attack. Three of the four attack notices were time-late reports covering incidents from October 3 and 4, while the latest strike occurred Monday afternoon. The latest incident, UKMTO 156-26, occurred at 1637 UTC Monday when the master of a tanker reported being struck by an unknown projectile while transiting the Strait of Hormuz. In another notice Monday, an inbound tanker approximately 11 nautical miles north of Khasab, Oman, reported being hailed by the IRGC and ordered to turn around or face being targeted. The Joint Maritime Information Center’s October 4 update documented four confirmed tanker attacks between October 2 and October 3, all involving unknown-projectile strikes on vessels transiting Hormuz. forces redirected the 130th commercial vessel on October 5 as part of enforcement against ships attempting to enter or depart Iranian ports.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "a96021c3b21b",
+   "title": "Rail investments to bolster VIC’s supply chain capabilities",
+   "original_title": "Rail investments to bolster VIC’s supply chain capabilities",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDE4MEs0V0thN2VjemNmb2pCUG56d0t1SW5jbzFndlpHdVU3SWJCa09wTzFxWWduWHJNek1uQS1oVlBrQUxCYXRBcFRkQUNZY1BQNmpQOUtlUU1tbVdSSEdEenNPM2lkTXZlNDF3eWRnNmFGQlozZ09xemhXVFA3QkdCRkxnWXhTMWw4NHZNeHRZMzRo?oc=5",
+   "source": "Rail Express",
+   "published": "2026-10-05T22:16+00:00",
+   "added": "2026-10-05T22:55+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "supply chain"
+   ],
+   "summary": "Rail investments to bolster VIC’s supply chain capabilities Rail Express",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
   },
   {
    "id": "0641576b19cc",
@@ -9081,6 +9107,37 @@
    "summary_method": "feed"
   },
   {
+   "id": "d8c4cfcadcbd",
+   "title": "Tankers and cargo ships form 60-kilometer queue in Gulf of Finland waiting to enter northern Russian ports",
+   "original_title": "Tankers and cargo ships form 60-kilometer queue in Gulf of Finland waiting to enter northern Russian ports",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44eVRUTUFJelFUNi1iRXl6d1ZDeE1JS3E1WFBRdURQR2xjcFF3dzNrVWFJT1lxbXBkZXZRVzJXX2NzM0hqdnJ1SFJoOA?oc=5",
+   "source": "theins.press",
+   "published": "2026-10-02T17:13+00:00",
+   "added": "2026-10-05T22:55+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "gulf of finland",
+    "port",
+    "ports",
+    "russia",
+    "russian"
+   ],
+   "summary": "Tankers and cargo ships form 60-kilometer queue in Gulf of Finland waiting to enter northern Russian ports theins.press",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "88a8aa9e9973",
    "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
    "original_title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
@@ -16443,58 +16500,6 @@
    ],
    "summary": "Saudi Arabia Resumes Crude Oil Loadings At Red Sea Port Of Yanbu Amid Strait Of Hormuz Disruption Marine Insight",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "27a8321e2325",
-   "title": "Opinion: Is the next fertiliser crunch incoming?",
-   "original_title": "Opinion: Is the next fertiliser crunch incoming?",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOamNacl9wUGc5X2V4MkxoYmRxQ1BqNjZmUGtkdEx3U2hvcHNvZ1NfV0Vacl9yZms1Yk9EN1EzNHozRHFHSVdtZThZREsxUVNJeExxVktadldhX0M2ZnFfLWFaTVNVR2N1VkNiMTQ2SUMwb3lfUi1BXzVPQVNZM3hSN1B4SnV3aE84WkE?oc=5",
-   "source": "Farmers Guardian",
-   "published": "2026-10-01T12:41+00:00",
-   "added": "2026-10-01T19:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fertiliser"
-   ],
-   "summary": "Opinion: Is the next fertiliser crunch incoming? Farmers Guardian",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "583fe4355bd0",
-   "title": "METRANS expands Polish terminal capacity",
-   "original_title": "METRANS expands Polish terminal capacity",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMlRiRUFHZnFfb2J0YlNucGdzdmNEb3hELTFNLWU1cEt5anZEMUIxZXdmZE9rcWdQaVEwd2JaVFdkMWZLUzFMQmdMME1uVUtMbVpsVnVsUFJLSTNVU21SSEZ2NExYSnlwVVN4R1Y5djJycWdUY0s5dGpyc1U5QmlQNkZRLVBoRF9GOXlTbDNab09JY1lQNjNYUS1R?oc=5",
-   "source": "Port Strategy",
-   "published": "2026-10-01T12:36+00:00",
-   "added": "2026-10-01T17:25+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polish",
-    "port",
-    "terminal"
-   ],
-   "summary": "METRANS expands Polish terminal capacity Port Strategy",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
