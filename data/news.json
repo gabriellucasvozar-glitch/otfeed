@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T15:26+00:00",
+ "generated_at": "2026-10-06T15:48+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "83ffda345035",
+   "title": "Port of Melbourne completes Appleton Dock rail upgrade",
+   "original_title": "Port of Melbourne completes Appleton Dock rail upgrade",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZGhMWEVERXpwZ2poWm51cUY1cjhYTUwtSkhHQjNlN2VqYnR5RTQ0c1RubTBwbGctSmk5dE40dEJwb180VkZMRkpPN3lDVDBFUzlxYnpuTmNELXlvMW8yM1BuN3VxRkd3NzRzbDhLdjhqQWM2Z2oxMnlEaXdsZDRaNDdkQ3RRM1dWMC1kQUNyeW16OHV5WHJ1bS1rOGNoSTQ0?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-06T15:12+00:00",
+   "added": "2026-10-06T15:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port of Melbourne completes Appleton Dock rail upgrade WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "bc9dc6750b1f",
    "title": "Przetarg na powiększenie terytorium Polski. W Świnoujściu powstanie ogromny terminal",
@@ -65,6 +90,33 @@
    ],
    "summary": "Putin Orders Priority Rail Transit for Russian Grain – Kommersant The Moscow Times",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "efa6400371d7",
+   "title": "Dłuższa blokada terenów pod Port Polska. Rząd zabezpiecza grunty, by uniknąć opóźnień",
+   "original_title": "Dłuższa blokada terenów pod Port Polska. Rząd zabezpiecza grunty, by uniknąć opóźnień",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSW5ZVkVDekVRckM3djNIU0pkeGQtVWZoM0JWVVpKS2xVcTRRT00tREkwc014ZjY0WmZ5Q1Zsa2JiMkZUNWNJeWNhQzc2VGw2S25TamhHUXVFV19tNFBMM1FkU3ZwUFh4M05HUWZ1Snp5TnJBcG9DZURHd2RJMHF3TFdwcmExemRuaGtlOU9pYWRiNktMelNaM2xuMl9pTnN5X0pSXzRlTTNFM1RfQmFNczdLa01wWHF6cDJnLUpsU21CT1YyMVZaRg?oc=5",
+   "source": "Bankier.pl",
+   "published": "2026-10-06T14:38+00:00",
+   "added": "2026-10-06T15:48+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Dłuższa blokada terenów pod Port Polska. Rząd zabezpiecza grunty, by uniknąć opóźnień Bankier.pl",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -8271,6 +8323,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "30b833ec0d03",
+   "title": "Kalmar to supply electric reachstackers to Port of Helsingborg",
+   "original_title": "Kalmar to supply electric reachstackers to Port of Helsingborg",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0dZYlpzaTB2dlBWMkRBQ3MtMXVOMHN4QXVmT1F2bnlFbWJ5Mm41bk9Hc1NWYUZwOE5MTFVUSTRGYkZOT0xtNE1HZzFra0RBS1hKZmRCQ0JJZUZYQjB5MXlJeHdmV3FpZXV0cXFKdGx5SVFVclpyTTc4NmdBR3BPLUsyejczUThhVURaNkZYNGhKc2V3Y1Jvc1B6eEVSalQ2NkNqS2ZWc3ZnZ0Z4QnRNb1U2ZjFoVW54Z2c?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-05T09:45+00:00",
+   "added": "2026-10-06T15:48+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "kalmar",
+    "port"
+   ],
+   "summary": "Kalmar to supply electric reachstackers to Port of Helsingborg Port Technology",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "77254a282ee1",
    "title": "Brčko Port performance lifted by RIKON crane",
    "original_title": "Brčko Port performance lifted by RIKON crane",
@@ -16366,86 +16445,6 @@
    ],
    "summary": "The Valenciaport Sandbox adds a new pilot to its track record as a testing ground for innovation in the port and logistics environment. This time, the spotlight was on a new passive radiative cooling film developed by the startup Cooling Photonics, which was tested with very positive results at the Transbase Soler depot last summer, and whose results are now being presented. The trial was made possible thanks to the collaboration of the port community, the Fundación Valenciaport and the support of Opentop, Valenciaport’s open innovation hub, which acted as facilitator, connecting the innovative company with the real-world environment in which its technology could prove its value. A test in real summer conditions This summer, over fifteen consecutive days, four identical 20-foot containers with the same solar exposure were monitored: one untreated as a reference, one with a conventional internal thermal blanket, a third with the material on the roof only, and the fourth with the material on the roof and side walls. A material like this opens up applications of great interest for ports, terminals, logistics operators and depots: Juan Manuel Díez, Head of Innovation at the Port Authority of Valencia, stated that the Valenciaport Sandbox was created so that innovative ideas can prove their value in a real port operations environment, with data gathered on the ground.",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "7bd9d40a4719",
-   "title": "Mine permitting litigation easing as US government clears barriers: Rio Tinto executive",
-   "original_title": "Mine permitting litigation easing as US government clears barriers: Rio Tinto executive",
-   "url": "https://www.hellenicshippingnews.com/mine-permitting-litigation-easing-as-us-government-clears-barriers-rio-tinto-executive/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-02T10:00+00:00",
-   "added": "2026-10-02T10:17+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "copper",
-    "permit"
-   ],
-   "summary": "Mine permitting in the US is getting easier as the federal government moves to smooth the process, Vicky Peacey, president and general manager of Resolution Copper, told Platts. Resolution, a planned underground mine in Arizona owned by Rio Tinto and BHP, is expected to become one of the largest copper mines in North America and could eventually supply more than a quarter of US copper demand. The project has spent years navigating environmental reviews and legal challenges, including litigation from Native American tribes opposed to the land transfer needed for development. As copper demand accelerates from electrification, artificial intelligence and data center expansion, the need for new mine supply is becoming increasingly urgent. We spent years co-designing the mine plan with the six nearest communities and 11 Native American tribes with historic and ancestral ties to the land. If Resolution enters production as scheduled, would the existing US smelting system be capable of processing its concentrate, or would the industry need significant new investments in smelting and refining before then? Rio Tinto owns the biggest one, which is part of the Kennecott integrated complex. How confident are you that new mine supply globally, including projects such as Resolution, will be sufficient to avoid structural deficits and higher prices?",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "838badf1500a",
-   "title": "Soybeans Near 5-Week Low",
-   "original_title": "Soybeans Near 5-Week Low",
-   "url": "https://www.hellenicshippingnews.com/soybeans-near-5-week-low/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-02T10:00+00:00",
-   "added": "2026-10-02T15:13+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "futures",
-    "prices",
-    "soybean"
-   ],
-   "summary": "Soybean futures fell to around $12.7 per bushel, nearing a five-week low as harvest pressure from an expected record-large US crop weighed on prices. A wet late summer and early autumn slowed the harvest pace, but the arrival of new supplies continued to pressure the market. The harvest was 17% complete as of September 27, matching the five-year average, with the crop rated 58% good or excellent. Expectations of a weaker August soybean crush added pressure, with processors crushing 209.6 million bushels, below the average trade estimate. Weak Chinese demand also weighed on prices as soybeans were excluded from China’s latest US agricultural tariff cuts and remain subject to an additional 10% tariff. Chinese crushers have covered much of their needs through early 2027 with South American supplies, while high inventories and weak margins limit fresh purchases. Still, US export demand remains firm, with weekly sales at 1.03 million tonnes for 2026/27, including 589,400 tonnes to China. Source: Trading Economics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "dbb4ceba6e78",
-   "title": "Electric and hybrid ferries could cut emissions by 63% in Sea of Marmara, IMO study finds",
-   "original_title": "Electric and hybrid ferries could cut emissions by 63% in Sea of Marmara, IMO study finds",
-   "url": "https://www.hellenicshippingnews.com/electric-and-hybrid-ferries-could-cut-emissions-by-63-in-sea-of-marmara-imo-study-finds/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-02T10:00+00:00",
-   "added": "2026-10-02T10:17+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "ferry",
-    "vessel"
-   ],
-   "summary": "Türkiye’s Sea of Marmara ferry network could cut greenhouse gas emissions by 63% by switching to a mix of hybrid and fully electric vessels, while avoiding nearly half a billion euros in health and environmental damage costs and supporting around 1,100 jobs a year, according to a new IMO study. Commissioned by IMO’s GreenVoyage2050 programme in partnership with Türkiye’s Ministry of Transport and Infrastructure, the study assessed 67 Ro-Ro and Ro-Pax ferries carrying vehicles and passengers across 26 ports. The network transports around 25 million passengers and seven million vehicles each year. Significant potential to cut emissions The study found that battery-electric and hybrid propulsion are technically feasible options across all Ro-Pax and Ro-Ro ferry operations assessed in the Sea of Marmara. It identified an optimum scenario combining hybrid and fully electric vessels to balance emissions reductions and costs. Under this scenario, annual GHG emissions could fall by around 63% by 2050 compared with business-as-usual operations using diesel fuel. The transition would also reduce local air pollution and could avoid an estimated €492 million in cumulative health and environmental damage costs. Going further, converting the entire fleet to fully electric operations could cut GHG emissions by 84% by 2050.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   }
  ]
