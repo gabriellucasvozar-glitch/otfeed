@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T06:54+00:00",
+ "generated_at": "2026-10-06T07:15+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,56 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "04adc7d06149",
+   "title": "Panama Canal extends long-term slot system to panamax locks",
+   "original_title": "Panama Canal extends long-term slot system to panamax locks",
+   "url": "https://splash247.com/panama-canal-extends-long-term-slot-system-to-panamax-locks/",
+   "source": "Splash247",
+   "published": "2026-10-06T06:56+00:00",
+   "added": "2026-10-06T07:15+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "panamax"
+   ],
+   "summary": "The Panama Canal is extending its long-term slot allocation programme to the Panamax locks for the first time as it looks to give more customers greater certainty through the coming dry season. The new Long-term Slot Allocation, or LoTSA, phase will cover January 3 to April 3, 2027, with the established neopanamax system running alongside a new panamax pilot. For neopanamax vessels, 36 packages covering 270 slots will be offered, split between 165 northbound and 105 southbound passages. The panamax pilot will offer 51 packages and 288 slots, evenly spread at roughly three transits per day. The move builds on a system first introduced for the larger locks in 2024, when the Panama Canal Authority began offering blocks of future reservations to customers seeking greater scheduling certainty after the severe 2023-24 drought. Splash reported in May that neopanamax auction prices had surged to as much as $4m as Middle East disruption redirected more US energy cargoes through Panama. By August, one LPG carrier had paid a record $5.3m for priority passage as deteriorating water conditions and strong demand squeezed capacity. The canal subsequently cut daily booking capacity to 32 ships and tightened draft limits as rainfall disappointed, before recent rains allowed some restrictions to be eased again.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "e02d9b62d7e6",
+   "title": "South Africa backs TNPA separation from Transnet",
+   "original_title": "South Africa backs TNPA separation from Transnet",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUjB1WWVvSEFzRHpJS2F6TGJTaFpLQkNicGZZZ1gzT3ZNU0UyY2g5NUVwTE9nbk1BSXY2XzE2ZHJXREhxMjZjRXBKaTFHNnowdGxaOEZLM0ZOdHpwdVZUNTc1NkczZG9vN2lQN2J2Wk5acHR1V1lJc29aQnZKaGY5TjE1OWszbTNIbVRDQVg0dGFCaFV5RGtWbzFB?oc=5",
+   "source": "Heavy Lift & Project Forwarding International",
+   "published": "2026-10-06T06:48+00:00",
+   "added": "2026-10-06T07:15+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "forwarding"
+   ],
+   "summary": "South Africa backs TNPA separation from Transnet Heavy Lift & Project Forwarding International",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
   {
    "id": "d01cd78a8fc5",
    "title": "Geekplus Deploys over 1,600 Robots for LPP Logistics in Poland",
@@ -194,6 +244,61 @@
     "grain"
    ],
    "summary": "Turkish ship carrying Ukrainian grain hit in Romania’s Black Sea exclusive economic zone IntelliNews",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3cc25612d3fd",
+   "title": "Carey Island, Midport developments won’t undermine Port of Tanjung Pelepas expansion — Loke",
+   "original_title": "Carey Island, Midport developments won’t undermine Port of Tanjung Pelepas expansion — Loke",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWaXp2dXk5LThxZktEaXJDbk0yV0t1ZlZRRXJFMDlFb096Z1ZwemNVYjMtRGdWVXhSd1BWOXNlVnBxWEJBMm5pd29lUnNkbWVI?oc=5",
+   "source": "The Edge Malaysia",
+   "published": "2026-10-06T05:30+00:00",
+   "added": "2026-10-06T07:15+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Carey Island, Midport developments won’t undermine Port of Tanjung Pelepas expansion — Loke The Edge Malaysia",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9715b0607a16",
+   "title": "Commission approves €170 million Bulgarian state aid for farmers facing increased fuel and fertilizer prices",
+   "original_title": "Commission approves €170 million Bulgarian state aid for farmers facing increased fuel and fertilizer prices",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHhJcEJqYkZBdk1SbnNBaUZyRk5JbHp1WU1iWDR6ZUNFWldfZ3BScXBrcWJpV0hCZElLaGtDOTdDeUpHdUFQa0FSXzhYdWh3aGhOdHFfbEVBbTgtWFNiV0hhbWhWWXVKRW94cHQweU1TVE1vTE45Q1c1ZWNVOTFkV21zaDUxbURNZ0l5aVRqX0VoU0ZsUXJXdzdUeHJqM3lYN0RlTHMtOUgtc1BDUi13RE9FcGc2d2J0dzN3T0JWbm96UTU0RWRnYjNfekM3cG9HcTdPTzNXRXZJeTAwNFR2ZmRsLVUzaE9yWHJ6UUNtU2ZpaTdQRUt6QU1n?oc=5",
+   "source": "EU Reporter",
+   "published": "2026-10-06T05:26+00:00",
+   "added": "2026-10-06T07:15+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Central & Eastern Europe",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "fertilizer",
+    "prices",
+    "state aid"
+   ],
+   "summary": "Commission approves €170 million Bulgarian state aid for farmers facing increased fuel and fertilizer prices EU Reporter",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -711,6 +816,36 @@
    ],
    "summary": "Southern Ports posts record trade in 2025–26 thedcn.com.au",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "38c4bd8f49c6",
+   "title": "TODAY: Thailand is back for seconds with Adnoc + AD Ports finalizes Brazilian takeover",
+   "original_title": "TODAY: Thailand is back for seconds with Adnoc + AD Ports finalizes Brazilian takeover",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ29OY2hYUlBKM0t0WTh4ZnVDZHU0SkczWXNPODlWODJoVkMyZE9KaVJQZE9nTHRXQmJDdzFGYUNNVVowY3kzN3otR2d4ZzdFSjFHZzNxVFNscUxkcFRVbWh6aXVRT3BrQ0JMV0ZQSldvMW94VUhzdHpfb3lZX0p6M1VRaUtFTHJ2SlVEcmF0WHJyQ0JjbEpsTlZPNV8wN2U1ZTl6WGJKWGRLN2RNMDJncUoyWnBSOUd5LTJYVUtnc2plMzFpZ3lYZFVB?oc=5",
+   "source": "EnterpriseAM",
+   "published": "2026-10-06T00:00+00:00",
+   "added": "2026-10-06T07:15+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "ports",
+    "mna"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East",
+    "Asia",
+    "Latin America"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "takeover"
+   ],
+   "summary": "TODAY: Thailand is back for seconds with Adnoc + AD Ports finalizes Brazilian takeover EnterpriseAM",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -1405,6 +1540,34 @@
     "diesel"
    ],
    "summary": "Digging mining out of diesel dependence Institute for Energy Economics and Financial Analysis (IEEFA)",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d9a04c055890",
+   "title": "War, Oil Prices and Computing Power: The Rising Cost Floor Beneath the AI Bull Market",
+   "original_title": "War, Oil Prices and Computing Power: The Rising Cost Floor Beneath the AI Bull Market",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS1piMEU3YUs1Mm5FRGw0NlpPSUx0OHBZTlRRTFQwbHNncmFuQncwZDZuUjE1T2VpTnVaWGdKOEc3QWpIQ2dUUnJ5dzFwZGdRVGZKM3h1NW1tVTM0UzhkRnpKMi1tZ2xWRDBUYkdndkZ3THVUTF9XVTZBS1ZvZzUwUkRrWGdfdkFzLWRfc3JfVjRCVWcybE5qTnVwd2lNTWRrUEtqN2k3RFJQZm4zcHJqZ3FMckZVdzg?oc=5",
+   "source": "TradingKey",
+   "published": "2026-10-05T19:43+00:00",
+   "added": "2026-10-06T07:15+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "oil price",
+    "prices",
+    "war"
+   ],
+   "summary": "War, Oil Prices and Computing Power: The Rising Cost Floor Beneath the AI Bull Market TradingKey",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -5586,6 +5749,35 @@
    ],
    "summary": "AM Green Bags Asian Lot in H2Global Tender for Green Ammonia Supply to Germany Chemical Industry Digest",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "66712f1a6ee0",
+   "title": "AD Ports Group Expands Global Footprint with USD 835m Acquisition in Brazil",
+   "original_title": "AD Ports Group Expands Global Footprint with USD 835m Acquisition in Brazil",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUThrTU9qaDV4X2ZfUXo1ejM2S29jdzNtc3lhd1BFNkNNV3VGR1d0ODlObWZVaENVNTl2eGlvTEJKSmREcGpON2JYR2lOUmdTeXdQSHItbkFhMzBEX2RQcFgzUktpdWtGQmRfN0NFSmczTXVNZGZWQzdGRmlJdHJ3RldsVXpLMnlwNEc3SzlSSG03ZTBGbGhkcm9vRzBOaWVxNDJfUE5mV0ZaRmNDaDdGSlh1UQ?oc=5",
+   "source": "Construction Business News Middle East",
+   "published": "2026-10-05T06:41+00:00",
+   "added": "2026-10-06T07:15+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "mna"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East",
+    "Latin America"
+   ],
+   "tags": [
+    "acquisition",
+    "port",
+    "ports"
+   ],
+   "summary": "AD Ports Group Expands Global Footprint with USD 835m Acquisition in Brazil Construction Business News Middle East",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16275,202 +16467,6 @@
    ],
    "summary": "Terminal Tractor Market Forecast to 2035: Electrification and Automation to Reshape Demand - News and Statistics IndexBox",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2c591e25b4e5",
-   "title": "Turkey and UN Broker New Talks on Russia-Ukraine Black Sea Truce",
-   "original_title": "Turkey and UN Broker New Talks on Russia-Ukraine Black Sea Truce",
-   "url": "https://gcaptain.com/turkey-and-un-broker-new-talks-on-russia-ukraine-black-sea-truce/",
-   "source": "gCaptain",
-   "published": "2026-10-01T17:27+00:00",
-   "added": "2026-10-01T19:31+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "black sea",
-    "grain",
-    "russia",
-    "ukraine"
-   ],
-   "summary": "Vessels are seen as they await inspection under the Black Sea Grain Initiative, brokered by the United Nations and Turkey, in the southern anchorage of the Bosphorus in Istanbul, Turkey December 11, 2022. REUTERS/Yoruk Isik/File Photo (Bloomberg) — Turkey and the United Nations have set up fresh talks in Russia and Ukraine to discuss a Black Sea ceasefire , trying to coalesce scattered efforts to protect grain shipments as global food prices surge. The meetings will take place in early October, according to a senior diplomat. The initiative, which launched in September with buy-in from other global powers, attempts to replicate a successful 2022 push to secure Black Sea grain shipping. The talks are picking up steam as Russia and Ukraine, which make up more than a quarter of the world’s wheat shipments, increase attacks on each other’s Black Sea port facilities, helping push wheat futures to a three-year high in August. Turkey and the UN bring credibility to the campaign, having also steered the 2022 ceasefire, which ensured the safe passage of grain, fertilizer and food from Ukrainian ports. Russia has set out tough conditions for resurrecting any Black Sea deal, including some sanctions relief and significant military concessions from Ukraine.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "ed2da9e3a53d",
-   "title": "Russia's attempt to reroute grain exports away from Black Sea falls short",
-   "original_title": "Russia's attempt to reroute grain exports away from Black Sea falls short",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaF82bXhYN0R0UXNURDdkMHhGWHotWmJrU2t5Zk1obVVPTkdJQUVHbU9oelJtSXc2WmcwNy1qR05fa0F6cjh6ekhIa1gyMUQ2d3VYOEJ2MWtSNUxqMjBtQ000TFZIYWtheEN5eVBZcmFaRE9aMkVlM01KaTZKeEhWVGVja2oyVTRPaHUtWDhPbF9oT2c?oc=5",
-   "source": "newsukraine.rbc.ua",
-   "published": "2026-10-01T17:26+00:00",
-   "added": "2026-10-01T18:29+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "black sea",
-    "grain",
-    "rerout",
-    "russia"
-   ],
-   "summary": "Russia's attempt to reroute grain exports away from Black Sea falls short newsukraine.rbc.ua",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5d398c011588",
-   "title": "Four Of Europe’s Largest Quay Cranes Arrive At DP World’s UK Ports",
-   "original_title": "Four Of Europe’s Largest Quay Cranes Arrive At DP World’s UK Ports",
-   "url": "https://www.hellenicshippingnews.com/four-of-europes-largest-quay-cranes-arrive-at-dp-worlds-uk-ports/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-01T17:00+00:00",
-   "added": "2026-10-01T17:25+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "ports",
-    "equipment"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "port",
-    "ports",
-    "quay"
-   ],
-   "summary": "DP World has welcomed four of Europe’s largest quay cranes to its UK ports, as part of its continued investment to expand capacity and support the growth of UK trade. The first pair of cranes, weighing more than 2,000 tonnes each and standing nearly 150 metres high, taller than world-famous London landmarks such as the London Eye and St Paul’s Cathedral, arrived fully assembled by sea at London Gateway on Friday 25 September, having completed their round the world journey from Shanghai. They will be installed at the new all-electric Berth 5, currently under construction as part of DP World’s £1 billion expansion of the port, which is due to become operational in 2027. The second pair are due to arrive at Southampton next week and follow the delivery of two new cranes in June, bringing the total number servicing the terminal to 16. Capable of consecutive ‘tandem lifts’ of two 40ft containers at once, the new cranes can service the largest container ships currently in operation, including 24,000 TEU megaships, enabling both terminals to accommodate growing trade volumes and the increasing size of vessels serving global shipping routes. • 46% share of UK containerised trade now handled by the combined DP World operations at London Gateway and Southampton.",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "9aac6efedd74",
-   "title": "Bidding Announcement of 15,785t Bulk Carrier “XIE HAI 107”",
-   "original_title": "Bidding Announcement of 15,785t Bulk Carrier “XIE HAI 107”",
-   "url": "https://www.hellenicshippingnews.com/bidding-announcement-of-15785t-bulk-carrier-xie-hai-107/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-01T17:00+00:00",
-   "added": "2026-10-01T17:47+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "bulk carrier",
-    "carrier",
-    "vessel"
-   ],
-   "summary": "Entrusted by the transferor (the Seller), our company (the “Bidding Company”) is scheduled to hold an online public bidding (the “Bidding”) on the Shipbid website ( www.shipbid.com ) from 10:00 to 10:30 (Beijing Time) on October 29th, 2026 (the “Bidding Day”), which is hereby announced as follows: 1.Bidding Target: Vessel’s Name: XIE HAI 107; Type of Vessel: Bulk Carrier; Port of Registry: Hangzhou; Classification Society: ZC; LOA/MLB/MLD: 146.00 m×21.00m×11.30m; DWCC: 15,785t on 8.20m draft; GT/NT: 9956/5575; Cargo Holds: 3;Total Hold Capacity: 24374.31m3 Main Engine: Wuxi Antai X8320ZC4B-1, 2,941 kW × 625 rpm, 1 set; Built: July 28th 2009; Builder: Zhejiang Xintian Shipbuilding Co., Ltd. (All the information and data in reference to the Vessel provided in this Announcement, the Special Provisions as well as its Annexes (if any), are for reference only.) 2. Bidding Rules: 2.1 This Bidding will be held with a reserve price.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "f7003c1cb54c",
-   "title": "BofA raises long-term copper forecast to $12,000 per ton",
-   "original_title": "BofA raises long-term copper forecast to $12,000 per ton",
-   "url": "https://www.hellenicshippingnews.com/bofa-raises-long-term-copper-forecast-to-12000-per-ton/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-01T17:00+00:00",
-   "added": "2026-10-01T19:49+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "commodit",
-    "copper"
-   ],
-   "summary": "Bank of America strategists raised their long-term copper price forecast by 20% to $12,000 per ton, or $5.44 per pound in 2026 dollars, according to a commodities update report. The bank cited ongoing supply issues as the main driver behind copper’s continued price strength. The forecast adjustment comes after more than 12 months of policy and other market surprises, with risks of volatility from war in the Middle East continuing to persist. Bank of America strategists noted potential risks including a possible energy-induced demand shock or a pause in data center capital expenditures. The bank made minimal other changes to its commodity forecasts. It lowered its 2027 aluminum price forecast by 5% to $3,625 per ton. Bank of America said higher interest rates and a stronger dollar create a bearish outlook for gold prices. Source: Investing.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "f7999fd358d5",
-   "title": "India reduces windfall taxes on diesel and jet fuel exports",
-   "original_title": "India reduces windfall taxes on diesel and jet fuel exports",
-   "url": "https://www.hellenicshippingnews.com/india-reduces-windfall-taxes-on-diesel-and-jet-fuel-exports/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-01T17:00+00:00",
-   "added": "2026-10-01T20:03+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "diesel",
-    "duty"
-   ],
-   "summary": "India lowered windfall taxes on diesel and aviation turbine fuel exports starting October 1, according to a government order released today. The export duty on diesel fell to 16 rupees per litre from 20 rupees per litre. The levy on aviation turbine fuel exports dropped to 10.5 rupees per litre from 15 rupees per litre. The export duty on petroleum products remained at 0.5 rupees per litre. Source: Investing.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "32b443204473",
-   "title": "Terminal kontenerowy w Świnoujściu z prawomocną decyzją środowiskową. Czy inwestycja może być jeszcze zablokowana? Mamy odpowiedź",
-   "original_title": "Terminal kontenerowy w Świnoujściu z prawomocną decyzją środowiskową. Czy inwestycja może być jeszcze zablokowana? Mamy odpowiedź",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbENVYklPTXM4RzZzNWRDV3BmS0ZNU3pLa0UtQ1BocW1PQTNkb3l2NUxvaVd4aGZHcHY2ZHZOSGZoTC1LVm5wVmFmVmtJdjVmSjVCZXpaYXlNMG9NWDZhLUlucFZ4OWMxY1drZElRRy1RUDEzTnlYakV2ZnQta1dwMnl6OGlkbVNYV01uaE1aSS1RSG5YWG9NYVFlMklTUlZfRFZnQmhUUC1fSjlyTkNReTZMOGxnZlFlczVnalpfM203RGFjOGstdGZhVWI2cnBWU2JuYmhpajF5cC0xWDh3VXNfZlhCN25hQWg4OXA0UnB1Zw?oc=5",
-   "source": "GS24",
-   "published": "2026-10-01T17:00+00:00",
-   "added": "2026-10-03T14:39+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Terminal kontenerowy w Świnoujściu z prawomocną decyzją środowiskową. Czy inwestycja może być jeszcze zablokowana? Mamy odpowiedź GS24",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
