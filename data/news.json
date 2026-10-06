@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T16:29+00:00",
+ "generated_at": "2026-10-06T16:51+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,40 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "3f787c48b79d",
+   "title": "War in Ukraine Escalates With Drone Strikes on Cargo Ships",
+   "original_title": "War in Ukraine Escalates With Drone Strikes on Cargo Ships",
+   "url": "https://gcaptain.com/war-in-ukraine-escalates-with-drone-strikes-on-cargo-ships/",
+   "source": "gCaptain",
+   "published": "2026-10-06T16:20+00:00",
+   "added": "2026-10-06T16:51+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "high",
+   "score": 18,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "drone",
+    "nato",
+    "trade flow",
+    "trade flows",
+    "ukraine",
+    "vessel"
+   ],
+   "summary": "Cargo ships are seen from a patrol boat of Ukraine’s coast guard as they sail in the Black Sea, amid Russia’s attack on Ukraine, February 7, 2024. REUTERS/Thomas Peter (Bloomberg) — Attacks on commercial vessels off the Black Sea’s western coast are on the rise, threatening already-choked trade flows in the region while testing NATO’s readiness to react. Two general cargo ships were hit by air and naval drones overnight in the exclusive economic zone of Bulgaria, a member of the North Atlantic Treaty Organization, Prime Minister Rumen Radev told reporters on Tuesday. “What is happening severely hampers shipping in the Black Sea, drives up insurance costs even further, and makes maritime operations extremely difficult.” The strikes in NATO countries’ exclusive economic zones add to previous cases of drone incursions in countries such as Poland and Romania, helping Russia to test the alliance’s readiness to protect its borders while remaining short of full-fledged attacks on its territory. Radev said the strikes can’t trigger NATO’s protective clauses — including formal consultations and the principle that an attack against one member state is an attack against the alliance — on the ground that more serious incidents have happened in the past without such a forceful response.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "6a4b416a13f5",
    "title": "Gateway to Central and Eastern Europe: Poland’s ports are growing, driving the expansion of logistics infrastructure",
@@ -45,6 +79,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "ca99df6ea1d2",
+   "title": "Panama Canal Expands Advance Transit Reservations for 2027 Dry Season",
+   "original_title": "Panama Canal Expands Advance Transit Reservations for 2027 Dry Season",
+   "url": "https://gcaptain.com/panama-canal-expands-advance-transit-reservations-for-2027-dry-season/",
+   "source": "gCaptain",
+   "published": "2026-10-06T15:58+00:00",
+   "added": "2026-10-06T16:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "panamax",
+    "shipping"
+   ],
+   "summary": "The Panama Canal is expanding its long-term transit reservation program to the Panamax locks for the first time, giving more shipping customers the ability to secure passage months in advance during the 2027 dry season. The Panama Canal Authority said Monday that the next phase of its Long-term Slot Allocation, or LoTSA, program will cover transits from January 3 through April 3, 2027. The program will continue at the Neopanamax locks while a new pilot program introduces long-term slot allocations for vessels using the Panamax locks. The expansion comes as the Panama Canal continues adjusting its operating model following the severe drought that sharply restricted daily transits in 2023 and 2024 and exposed the vulnerability of the freshwater-dependent waterway to changing rainfall conditions. For carriers and vessel operators, the attraction of LoTSA is straightforward: guaranteed access to scarce transit capacity can make voyage planning more reliable, particularly during the dry season when water availability has historically placed the greatest pressure on Canal operations. By extending the program to the Panamax locks, the Canal is making that option available to a broader portion of the commercial fleet for the first time. The Panama Canal is easing restrictions on vessel draft and daily transits after improved rainfall and water-saving measures helped stabilize conditions in the waterway’s drought-sensitive watershed.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
    "id": "83ffda345035",
    "title": "Port of Melbourne completes Appleton Dock rail upgrade",
    "original_title": "Port of Melbourne completes Appleton Dock rail upgrade",
@@ -67,6 +128,32 @@
    ],
    "summary": "Port of Melbourne completes Appleton Dock rail upgrade WorldCargo News",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "216afdf5059c",
+   "title": "UBS sees BHP and Rio Tinto leading iron ore quarter as prices hit more than 10-year lows",
+   "original_title": "UBS sees BHP and Rio Tinto leading iron ore quarter as prices hit more than 10-year lows",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RVV85Mmdnd0xWSTFlNkNkLXZjODRHdDcta3Z3cnZWM19zXzRjNzh6dXY3dldaaTdIdDRvNVJnUDcxeHJseTVBZHIxNHVINXFkb0hxZWloX0kzTDJ6Q2plQmJuWWlma01qMWloOUxhT21VM2RtWk40a29uQQ?oc=5",
+   "source": "Yahoo Finance UK",
+   "published": "2026-10-06T15:00+00:00",
+   "added": "2026-10-06T16:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "iron ore",
+    "prices"
+   ],
+   "summary": "UBS sees BHP and Rio Tinto leading iron ore quarter as prices hit more than 10-year lows Yahoo Finance UK",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -259,6 +346,31 @@
    ],
    "summary": "EBA urges action to curb Russian grain exports through Baltic ports UkrAgroConsult",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b7946ec82c2b",
+   "title": "Brazil’s soybean crushing capacity rises 13%",
+   "original_title": "Brazil’s soybean crushing capacity rises 13%",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYUdnVDlzLThSOHVyRm1vOVROYXpmUXJ0T0dmeDJqaXotV042dk9TSWlaYWlZMnQ1aU9wUUhHNlVWSk1jTi04NEtWa2VKZUtkWFJxZ1B4LXMzSnFRQnlvRktCTFI4QUoxUWhaWVVQeHRzc3BOTG5tVUVZdE9SSmFMRDdldVY?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-06T13:58+00:00",
+   "added": "2026-10-06T16:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "soybean"
+   ],
+   "summary": "Brazil’s soybean crushing capacity rises 13% UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -2695,6 +2807,41 @@
    ],
    "summary": "On April 20, Splash reported that a 20-year-old VLCC had fetched $60.5m in a sale by Mitsui OSK Lines to Lila Global. The vessel, then known as Kasagisan, was renamed Lila Vadinar in March after Lila Global acquired it. In July, it was renamed Vadin. This is the second VLCC Lila Global has sold in recent months. In June, it sold the 2008-built Lila Kochi after owning it for about a year. Lila Global acquired the ship in May 2025 for $46.75m and sold it for $79m. The tanker segment has become an increasingly important part of Lila Global’s activity this year. Having added six tankers in 2026, its latest purchase is the 2010-built suezmax Cape Benat, the former Front Loki, which it recently acquired for $62.5m. The ship has since been renamed Renat and is listed with a market value of $74.4m, according to the VesselsValue sales register.",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "0e2775ad4b1a",
+   "title": "Drone Sinks Ship Off Bulgaria, as Fears Grow About Hybrid Attacks By Russia",
+   "original_title": "Drone Sinks Ship Off Bulgaria, as Fears Grow About Hybrid Attacks By Russia",
+   "url": "https://gcaptain.com/drone-sinks-ship-in-bulgarias-black-sea-media-reports/",
+   "source": "gCaptain",
+   "published": "2026-10-06T08:24+00:00",
+   "added": "2026-10-06T16:51+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "drone",
+    "law",
+    "nato",
+    "russia",
+    "vessel"
+   ],
+   "summary": "A civilian vessel is on fire, as Ukraine's navy spokesman reported a Russian military strike on a civilian vessel, amid Russia's attack on Ukraine, near the Black Sea port of Odesa, Ukraine, July 14, 2026. Picture taken with a mobile phone. REUTERS/ SOFIA, Oct 6 (Reuters) – The crew of a merchant ship was missing on Tuesday after the vessel sank in the Black Sea off NATO member Bulgaria following a drone strike that Prime Minister Rumen Radev described as a gross violation of international law. It was not immediately clear who carried out the attack by air and sea drones about 70 miles (112 km) off the coastal town of Byala in eastern Bulgaria, but there are growing concerns about hybrid attacks by Russia as it wages war in Ukraine. The drone attack follows an incident in which Romanian authorities said on Monday two people had died in a fire on a ship in the Black Sea outside Romania’s territorial waters. “The attacks represent a significant escalation in the threat to commercial shipping in the western Black Sea,” maritime security firm MARISKS said in an advisory in which it advised captains and operators to watch out for drone activity in the area.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
   },
   {
@@ -8703,6 +8850,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "1880b8268430",
+   "title": "China Steel Raises November List Prices by NT$900 Per Ton, Second Consecutive Monthly Increase",
+   "original_title": "China Steel Raises November List Prices by NT$900 Per Ton, Second Consecutive Monthly Increase",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UVFJjVlp6RlktQkZvVDdZdThOYllMNS1jaF9kSDcxNVltOG9KN29UcnJMRUlpaUcyUXliSzd6UVJhajVBdjdVWnNld0lja0N6Nll2MjdXaXFDLWtaWWxpbHdOdV9YMWVmb2duS3JSdmFwZW4zbHc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-10-05T08:25+00:00",
+   "added": "2026-10-06T16:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "prices",
+    "steel"
+   ],
+   "summary": "China Steel Raises November List Prices by NT$900 Per Ton, Second Consecutive Monthly Increase BigGo Finance",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "122c2b43acc2",
    "title": "Russia hits another four ships in the Black Sea",
    "original_title": "Russia hits another four ships in the Black Sea",
@@ -8765,6 +8940,34 @@
    ],
    "summary": "EU’s new steel import rules tighten supply chain scrutiny and reshape market dynamics Global Sources",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6682a6ba7efc",
+   "title": "CBAM De Minimis Threshold: Brussels Reviews Too Late, No Data",
+   "original_title": "CBAM De Minimis Threshold: Brussels Reviews Too Late, No Data",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pY1hpenlQQVFnZnZweVlwZ0hhVWdzWXJiVUtWS2FlanZQTmRkWHhXbFJfVUNWdWVTY0NaWjI1U0FQYWpnekRqZXRnd3ZjMXFqdGFRSHRCYnAyWHdaY0RjbXZlM2UyakdGckNRMENKRGlEYjdoQnN2Wg?oc=5",
+   "source": "Steel and Stainless Steel News",
+   "published": "2026-10-05T08:18+00:00",
+   "added": "2026-10-06T16:51+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "high",
+   "score": 8,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "brussels",
+    "cbam",
+    "steel"
+   ],
+   "summary": "CBAM De Minimis Threshold: Brussels Reviews Too Late, No Data Steel and Stainless Steel News",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   },
   {
@@ -15080,6 +15283,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "9d4826cb35ea",
+   "title": "EUROFER's new president calls for stronger EU steel market and competitive exports",
+   "original_title": "EUROFER's new president calls for stronger EU steel market and competitive exports",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORW5JbS1NeWRLdVFVOXhmeGxURWRmdmxuMURHUmk2SXVEOXRQVjgzamZWdW5Pbm1jYWs1VDZJekRqS0ozTTlvY1lxdy1pSGlua1Q5UUlxeE1XMXdpcldBWW5KQkFKSkYxM3FteTRKVHRZRmJaX1p1UG1GV3BfVDJTd0lrZzk4Si1HbEV0Tnl3T0tsT09BSDNXSDdSemZHT1lpQmZKX1hnbFRKN25XR0p4UjcyYnFPOFhiSzdmdEp1YTNiT2E5ZTJjTmVfU2VmSXBzSDc4elRzTzMwblU?oc=5",
+   "source": "Steel Orbis",
+   "published": "2026-10-02T12:57+00:00",
+   "added": "2026-10-06T16:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "steel"
+   ],
+   "summary": "EUROFER's new president calls for stronger EU steel market and competitive exports Steel Orbis",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "02c6eec84b90",
    "title": "New Zealand’s Lyttelton Port reports 19 per cent jump in FY2026 gross profit",
    "original_title": "New Zealand’s Lyttelton Port reports 19 per cent jump in FY2026 gross profit",
@@ -16227,231 +16456,6 @@
    ],
    "summary": "Norwegian offshore vessel owner DOF has received a letter of intent to hire an I-class vessel in 2028. The scope of work includes DOF’s in-house project management and engineering, procurement, and logistics support services. DOF expects to confirm the full contract award by mid-November 2026. If the contract is awarded, the vessel will begin work in the first half of 2028. No precise financial details were revealed. However, DOF defined the contract as large, placing it between $50m and $100m. The company also did not disclose the vessel’s name. The vessel will be chosen from the four I-class vessels in DOF’s fleet – the 2018-built Skandi Implementer , the 2017-built Skandi Installer , the 2018-built Skandi Inventor , and the 2017-built Skandi Involver .",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "620b7b9a8625",
-   "title": "Aviation Connect: air cargo’s favourite event, but with an unfortunate early dip…",
-   "original_title": "Aviation Connect: air cargo’s favourite event, but with an unfortunate early dip…",
-   "url": "https://theloadstar.com/aviation-connect-air-cargos-favourite-event-but-with-an-unfortunate-early-dip/",
-   "source": "The Loadstar",
-   "published": "2026-10-02T10:14+00:00",
-   "added": "2026-10-02T10:17+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "cargo handling"
-   ],
-   "summary": "Athens provided the backdrop for Aviation Connect 2026 this week, with sunshine, warm temperatures, and the occasional rain shower – a fittingly changeable setting for an event that had plenty going on. The Tuesday-to-Thursday event spread delegates across a collection of rooms and tracks covering pharma, GSSAs, air cargo handling, cargo airport development, road feeder services, airline ground services, GSE, and ramp operations. It is one of the things that makes Aviation Connect different from the traditional air cargo conference: rather than sitting through a 45-minute panel because it happens to be on the agenda, delegates could pick and choose sessions relevant to them. There was also an exhibition hall, with companies showing off their latest products and services, as well as plenty of networking. The rooftop event featured synchronised swimmers – six women dressed as cabin crew, who removed their outfits to reveal swimwear before performing a 10-minute routine in the pool. The performance was impressive, but its positioning immediately before the Women in Air Cargo Awards, however, felt rather awkward. Celebrating women’s professional achievements directly following a performance of women dressed as air staff stripping off, seemed an unfortunate juxtaposition.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c9992377a1a3",
-   "title": "EU court challenges shipping taxonomy over methane emissions",
-   "original_title": "EU court challenges shipping taxonomy over methane emissions",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORWh2Q1NvemkyNUtfOFNyOHhDLVJrVnIyQlIxWDUybjlKSjEwMGJDVEZnVDhTX0NkbTdoUFhScWdGRW9Ia1lac0pEa3ZmQ1FMenFuRWNubE5nWkJRNHJsT3VGZ0xuTi1EYmZmZE9ucjFDNkpWdjhDaGhINFdSMmd3WHFxVGJ1VjlVWjUtag?oc=5",
-   "source": "safety4sea",
-   "published": "2026-10-02T10:13+00:00",
-   "added": "2026-10-02T10:36+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 6,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "court",
-    "eu ",
-    "shipping"
-   ],
-   "summary": "EU court challenges shipping taxonomy over methane emissions safety4sea",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "55929c49d8aa",
-   "title": "The Port of Liverpool has untapped rail freight potential, study finds",
-   "original_title": "The Port of Liverpool has untapped rail freight potential, study finds",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYzdpNUxPWE5MdExidU5pZXRQRUVQUmdHMllrLVIzSXV4bzl5emlpT2xZSF9XTlJ0WmEtLUdUekZwb1c1QVh6NjcyWGV5bm1XSnBkVG9neFlTVHNJMVRGVFJCY1ZFWm5kYWRHdHZ4WlZWbFN3U1NONHpVYlV6WlJkWW9meURZTEhmV0FDUnhWYVctaTJUaEhfNzlqMTJrOUliVzdsSTNpc243QWdtNFBINXN3?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-02T10:11+00:00",
-   "added": "2026-10-05T13:57+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "rail freight"
-   ],
-   "summary": "The Port of Liverpool has untapped rail freight potential, study finds RailFreight.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "05327ed3aaa0",
-   "title": "Counting the billions with Mærsk and Hapag",
-   "original_title": "Counting the billions with Mærsk and Hapag",
-   "url": "https://theloadstar.com/counting-the-billions-with-maersk-and-hapag/",
-   "source": "The Loadstar",
-   "published": "2026-10-02T10:09+00:00",
-   "added": "2026-10-02T10:17+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "carrier",
-    "quarterly",
-    "results",
-    "shipping"
-   ],
-   "summary": "Hapag-Lloyd duly raised its 2026 profit guidance this week – a palatable appetiser before Mærsk, its partner in the Gemini shipping alliance, does the same (again) in a month’s time? The Danish carrier, which reports third-quarter results on 5 November, is forecast to disclose quarterly Ebitda ranging between $5.4bn and $5.5bn, up about 80% on the second quarter and roughly double a year ago. Its German ally reports a week later.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "acd25ee7f17d",
-   "title": "MOL lands Vale charter for two tri-fuel ore carriers",
-   "original_title": "MOL lands Vale charter for two tri-fuel ore carriers",
-   "url": "https://splash247.com/mol-lands-vale-charter-for-two-tri-fuel-ore-carriers/",
-   "source": "Splash247",
-   "published": "2026-10-02T10:05+00:00",
-   "added": "2026-10-02T10:17+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 15,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "bulker",
-    "capesize",
-    "carrier",
-    "charter",
-    "iron ore",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Japanese shipping giant Mitsui OSK Lines (MOL) will operate two 210,000-dwt ore carriers for Vale under a 25-year contract, introducing tri-fuel propulsion to the long-haul iron ore trade. MOL Ocean Bulk, the group’s Singapore-based capesize bulker operator, signed the agreement with Vale International for vessels scheduled to enter service in 2030. The ships will primarily transport Brazilian iron ore to China and other global destinations. MOL described the project as the first involving 210,000-dwt ore carriers with this three-fuel configuration. The 210,000-dwt size places the ships in the newcastlemax segment, widely used on the Brazil–Asia iron ore route. MOL said ethanol could reduce lifecycle carbon emissions by up to 90% against heavy fuel oil, depending on the fuel’s production pathway. The deal forms part of Vale’s shipping decarbonisation strategy and is intended to lower the miner’s Scope 3 emissions from seaborne transport. It also adds to a wider wave of Vale-backed tri-fuel ore carrier commitments, including eight similar 210,000-dwt ships chartered from HMM under 25-year agreements beginning in 2030. MOL said it would work with Vale and other partners across ethanol and methanol procurement, supply, and bunkering to develop the required fuel chain.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "0f684408652c",
-   "title": "Xeneta: US container freight rates reach post-Hormuz peak",
-   "original_title": "Xeneta: US container freight rates reach post-Hormuz peak",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNVM1R29uWEJLUWpHM3NEMWtVTGVlTTV3ZUo4elA5c2xUdElsU1VfTWJmVlZ1ejEwTWJfY2FMdExGTk1yazFGZjJWTWFlNmpnVWo4ZUJ4NzJUM2tsRVFPRHVXLW1VejdOOHNJQVhsYU13X3dWX3A3dEx0OXZaWXFoVXNLOHFaSW8?oc=5",
-   "source": "safety4sea",
-   "published": "2026-10-02T10:04+00:00",
-   "added": "2026-10-02T10:17+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "freight rate",
-    "hormuz"
-   ],
-   "summary": "Xeneta: US container freight rates reach post-Hormuz peak safety4sea",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "396aef09f3b8",
-   "title": "Port relocation to Thilafushi top project for economic expansion: Pres",
-   "original_title": "Port relocation to Thilafushi top project for economic expansion: Pres",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Na2NtVkt5SG83czhmRzkxeXpGTkN4eU5HazNqOTBOdFR4OHdoTWFCNE9FT1g4S29Jd3I3M3B3Y1hKYjJWR2tOZHhiQ01IT05LZFFz?oc=5",
-   "source": "edition.mv",
-   "published": "2026-10-02T10:03+00:00",
-   "added": "2026-10-02T10:17+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "ports",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "relocat"
-   ],
-   "summary": "Port relocation to Thilafushi top project for economic expansion: Pres edition.mv",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0272248fe9ab",
-   "title": "Copper Set for Weekly Drop",
-   "original_title": "Copper Set for Weekly Drop",
-   "url": "https://www.hellenicshippingnews.com/copper-set-for-weekly-drop/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-02T10:00+00:00",
-   "added": "2026-10-02T10:17+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "copper",
-    "futures",
-    "oil price",
-    "prices"
-   ],
-   "summary": "Copper futures steadied around $6.52 per pound on Friday, but remained on track for a nearly 3% weekly decline as signs of weakening industrial activity in top consumer China weighed on the demand outlook. The metal also came under pressure from a stronger dollar, elevated bond yields and rising oil prices, as the risk of an escalation in the US-Iran conflict heightened concerns over inflation. Supply developments remained in focus, with Chilean output potentially disrupted by a strike at a site owned by Antofagasta Plc, while Panama’s government proposed resuming operations at a major mine in the country. Elsewhere, the Trump administration has so far postponed a decision on tariffs on refined copper. Previous threats of US tariffs on refined metals prompted traders to redirect shipments to American warehouses and helped fuel a rally in copper prices. Source: Trading Economics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
  ]
