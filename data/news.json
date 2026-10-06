@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T17:09+00:00",
+ "generated_at": "2026-10-06T17:29+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "dcec55d8edb6",
+   "title": "Tanker attacks continue in Hormuz as Gulf shipping rates remain elevated",
+   "original_title": "Tanker attacks continue in Hormuz as Gulf shipping rates remain elevated",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPejNDYnk2TUlTVkxybzhJdWVlZXkyX1NBbEx3LVdNYjJUTXBNY3R4WGpEZDk4cXViOWhmUmxJZ3RHOWJOdjJhR3lNUHhQMXRybDlydjRWeUk1Z3AzMHVsandISElwSXozaTNrTGxIMGpQWjBxOFFsNVdjcXlrREJkeGNkYUU3bzBwMzB5ZFdvVHo3dFhlTTE2SVU3UFYtd2hnV0tXb0FJM3VIZHUwOUd1S1RVYUg0eGRl?oc=5",
+   "source": "Anadolu Ajansı",
+   "published": "2026-10-06T17:12+00:00",
+   "added": "2026-10-06T17:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Tanker attacks continue in Hormuz as Gulf shipping rates remain elevated Anadolu Ajansı",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "3f787c48b79d",
    "title": "War in Ukraine Escalates With Drone Strikes on Cargo Ships",
@@ -16431,32 +16459,6 @@
    ],
    "summary": "Hamburg Port Could Become Key NATO Hub for Moving Troops and Heavy Equipment Rus Tourism News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0478d002dae9",
-   "title": "Grains and oilseeds: fierce competition and slow exports",
-   "original_title": "Grains and oilseeds: fierce competition and slow exports",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNjJLdnlOaTFzRFVTT1pQV2dvVFBJWmlzU2tOZk5Ed2Nkek1xamtGWi1PN21qQi05SlJ4UUp1c1U1ck95Q3ktTnhpaE5RcC1vYzlqSEE0V2wwYVF3eGhwOHp4ZVhta2huZWtWMmI0SmNWVWlhbGpwVExzb2pVQk9WRFVqb0hPdV93bmtVbHc4dEhaN1NuRmc?oc=5",
-   "source": "Mundus Agri",
-   "published": "2026-10-02T10:22+00:00",
-   "added": "2026-10-02T13:26+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "agri",
-    "grain"
-   ],
-   "summary": "Grains and oilseeds: fierce competition and slow exports Mundus Agri",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
