@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T07:15+00:00",
+ "generated_at": "2026-10-06T07:37+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "a2978ccb78ce",
+   "title": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight",
+   "original_title": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGY5NGcyT0NDUXdnaGNQSFN3enJWVG1SaUhmS0pucU4tS0YwNFZMYlVVNGY5SjE5eHZMUEdjcXhFa3pIMDViQ1RCTXpqUUtKUURKaHMwb0hXcTBVSmJOMFRTcU1qdVRyLUtXNDM2YWg0RVdzSGJzSzRWQUkxaGpEdmhjMmFLQXZyS0FzQ1pFc1BwZEJYS05Sbl94c3VTcFVKeDlzcktDTTV3b29GY0dZWlFsb3ZyYV9HM1lzc3hyZ1E3bFN1?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-06T07:16+00:00",
+   "added": "2026-10-06T07:37+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4.5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "forwarder"
+   ],
+   "summary": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight Reuters",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
   {
    "id": "04adc7d06149",
    "title": "Panama Canal extends long-term slot system to panamax locks",
@@ -37,6 +62,31 @@
    "summary": "The Panama Canal is extending its long-term slot allocation programme to the Panamax locks for the first time as it looks to give more customers greater certainty through the coming dry season. The new Long-term Slot Allocation, or LoTSA, phase will cover January 3 to April 3, 2027, with the established neopanamax system running alongside a new panamax pilot. For neopanamax vessels, 36 packages covering 270 slots will be offered, split between 165 northbound and 105 southbound passages. The panamax pilot will offer 51 packages and 288 slots, evenly spread at roughly three transits per day. The move builds on a system first introduced for the larger locks in 2024, when the Panama Canal Authority began offering blocks of future reservations to customers seeking greater scheduling certainty after the severe 2023-24 drought. Splash reported in May that neopanamax auction prices had surged to as much as $4m as Middle East disruption redirected more US energy cargoes through Panama. By August, one LPG carrier had paid a record $5.3m for priority passage as deteriorating water conditions and strong demand squeezed capacity. The canal subsequently cut daily booking capacity to 32 ships and tightened draft limits as rainfall disappointed, before recent rains allowed some restrictions to be eased again.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
+  },
+  {
+   "id": "1972bddb440b",
+   "title": "The UK's scrap gap",
+   "original_title": "The UK's scrap gap",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OMFdQN1VYSWhMbE5CcmZCN3ZZS19saWM1cm00N1JaQkZVQWtfUGt2NDhRaG9PUFcwQzN5aUphTS1FSVRsczIxY25BeUV2OGwtcHVpWmZoamhSWmxmS2Vldw?oc=5",
+   "source": "Energy & Climate Intelligence Unit | ECIU",
+   "published": "2026-10-06T06:53+00:00",
+   "added": "2026-10-06T07:37+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "scrap"
+   ],
+   "summary": "The UK's scrap gap Energy & Climate Intelligence Unit | ECIU",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "e02d9b62d7e6",
@@ -16414,60 +16464,6 @@
    "summary": "A nuclear-powered LNG carrier could cost roughly 2.5 times as much to build as a conventional vessel, but lower fuel costs could significantly change the economics over the ship’s operating life, according to a new study supported by the American Bureau of Shipping. Presented at Gastech 2026, the study examined a 174,000-cubic-meter LNG carrier equipped with a 20-25 MWe high-temperature gas-cooled reactor, or HTGR, under development by Japan’s Blossom Energy. ABS, Blossom Energy and an unnamed global shipping company compared the nuclear design with a conventional LNG-fueled newbuild, assessing vessel arrangement, propulsion systems and operating conditions under a range of potential regulatory penalty scenarios. The study found that initial investment for the nuclear-powered vessel would be approximately 2.5 times that of a conventional LNG carrier. In 2024, ABS and Herbert Engineering Corporation studied the integration of an HTGR into a 145,000-cubic-meter LNG carrier , examining heat and energy management, shielding, weight distribution and other design challenges. In July, ABS awarded Approval in Principle for a nuclear-powered 15,000 TEU containership concept developed with the Korea Research Institute of Ships and Ocean Engineering and KAERI.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "d6e4f4d77d12",
-   "title": "Türkiye’s crude steel production decreased in August.",
-   "original_title": "Türkiye’s crude steel production decreased in August.",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMkxFbGxfVnJxTWJGLXZnQl9FM2hxN0hfRkZfRmVxV2lGYWdRODZtbE1aVXZKTEJqcjlNTjJoSnZvdEVHMUpPdFBucFhVNUZlVTQ1ZXhIeHJNamo0ejFucFItWFNNSjhYVk9WYXNaQ0l6QUZTVUtCbFBXamMxQlhCaFFJMExrdWF4T0FKZlZUYXFLdlF5?oc=5",
-   "source": "SteelRadar",
-   "published": "2026-10-01T17:34+00:00",
-   "added": "2026-10-05T07:50+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "crude",
-    "steel"
-   ],
-   "summary": "Türkiye’s crude steel production decreased in August. SteelRadar",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d3be46481c69",
-   "title": "Terminal Tractor Market Forecast to 2035: Electrification and Automation to Reshape Demand - News and Statistics",
-   "original_title": "Terminal Tractor Market Forecast to 2035: Electrification and Automation to Reshape Demand - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSVlEMTZiSXkyN2JiNWhKTTFnOWJsOUVEeDNhQWczUjNwUmRQZlpQUnJWdmQybWRCbkpDcDVTU1FMbzUyRGQ2Sl9scVdWbVJGdTVyQzFSeFBNTlRsaFA2aGxPMlBSRjhrYS1HdXVScWRvdlh5OS05VXc3azF2QWFJWFpjSUN4a0NNZnVhZm9idjkwZTYwWFgwZ1hOTDd5UTZ3NkZLUFlMaHgtR3pKYkFBQkNDMWl3Q0plekVNWFZBWlpwQTQ?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-01T17:31+00:00",
-   "added": "2026-10-01T19:49+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "automation",
-    "electrification",
-    "terminal"
-   ],
-   "summary": "Terminal Tractor Market Forecast to 2035: Electrification and Automation to Reshape Demand - News and Statistics IndexBox",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
   }
  ]
 }
