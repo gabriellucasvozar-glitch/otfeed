@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T22:55+00:00",
+ "generated_at": "2026-10-06T23:14+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "1181cae47be3",
+   "title": "The end of double keying: why we built OceanRate for the whole industry",
+   "original_title": "The end of double keying: why we built OceanRate for the whole industry",
+   "url": "https://theloadstar.com/ship-angel-oceanrate-ocean-rate-sheet-ai/",
+   "source": "The Loadstar",
+   "published": "2026-10-06T23:01+00:00",
+   "added": "2026-10-06T23:14+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "forwarder",
+    "logistics",
+    "tender"
+   ],
+   "summary": "Two years ago we launched the first AI for ocean rates . We had become Anthropic’s very first global supply chain partner and our early products included multiple world first’s that were built for our enterprise customers, global shippers managing thousands of lanes and dozens of carrier contracts, and it reads any rate sheet from any carrier or forwarder, every minute of every day. Those customers have cut about 85% of the time they used to spend managing rates. But it only ever reached the companies that bought the whole Ship Angel platform, and that is a small fraction of the people who have to deal with a rate sheet. It is the first product from Ship Angel Labs, and the first thing we have built for the whole industry rather than for our enterprise customers alone. Upload any ocean rate sheet in any layout, Excel, PDF, Word, EDI, CSV, an email, even a photo of the page, and get it back in minutes as one clean, structured format: origin, destination, container type, rate, currency, surcharges and validity dates, ready to use in Excel or as JSON for whatever system sits downstream. It runs on the same engine that runs rate management for some of the world’s biggest shippers.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "40ab9a247d84",
    "title": "RADIANT LOGISTICS ACQUIRES WHITACRE LOGISTICS' DALLAS OPERATIONS",
@@ -2966,6 +2995,33 @@
    "summary": "South Korean logistics group LX Pantos has completed a $167m logistics centre in Katowice, Poland, as it expands its footprint in Central and Eastern Europe. The 109,000 sq metre complex of five buildings was jointly acquired by LX Pantos, the Korea Overseas Infrastructure & Urban Development Corp, and PIS No 2 Fund, the latter under South Korea’s Ministry of Land, Infrastructure and Transport, with financing provided in part by Korea Ocean Business Corp. LX Pantos said the facility in Upper Silesia would become a strategic hub for its Eastern European operations, supporting customers in sectors including automotive, consumer goods, and home appliances. “We were in the right place at the right time, and we took advantage of that.” For logistics providers, industrial expansion is creating demand beyond ecommerce, with Mr Kaźmierczak highlighting pharmaceuticals, aircraft parts, and automotive manufacturing as important cargo flows in the region. Poland’s role as a logistics gateway is also being shaped by the war in Ukraine. We’re seeing a lot of business coming this way and then flying out of Poland, flying out of Slovakia.” And at the same time, Poland remains less exposed to the surge of Chinese ecommerce airfreight seen at some other Central European gateways.",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "extract"
+  },
+  {
+   "id": "9174661f1fb5",
+   "title": "News Content Hub - South Korean port deploys AI, digital twins to prevent accidents",
+   "original_title": "News Content Hub - South Korean port deploys AI, digital twins to prevent accidents",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1hoWlByYTdjVTBxV1BoSERONVUxSFVsUWhSY3JUbDFFa042X2FnLVVNNG11MHg2S2ViYTdabjBtSlNaQWYxeGxEUDRvYjg2Slg2QmQ3dzJCeW1uTVZISzg1ZFZCVWVPNGM3TUVRQlJQN1ZuR1BFMGh6UmpwUjhhNExwVGgtckhGckwxM0wySTVDTmlkWTVZdldoRThOQVZmOWxRenJkcjVBRmZsLUlTMDln?oc=5",
+   "source": "Riviera Maritime Media",
+   "published": "2026-10-06T11:01+00:00",
+   "added": "2026-10-06T23:14+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "digital twin",
+    "port"
+   ],
+   "summary": "News Content Hub - South Korean port deploys AI, digital twins to prevent accidents Riviera Maritime Media",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
   },
   {
    "id": "375afaca6cdc",
@@ -16474,61 +16530,6 @@
    "summary": "Polish state-owned mining firm Jastrzębska Spółka Węglowa (JSW), which is the EU’s largest producer of coking coal and one of Poland’s biggest employers, has announced that it will cut over 4,000 jobs, 21% of its workforce, by the end of this year. Więcej: https://t.co/7Sxrhuuaja pic.twitter.com/evJoQal0c3 On Wednesday, JSW’s management board announced that it expected the size of its workforce to decline by 4,248 by the end of this year, bringing it below 16,000, down from 20,135 at the end of March. News service Strefa Inwestorów says that, on this basis, more than 3,000 JSW employees have the option to take so-called mining or mineral-processing leave while just under 1,200 can opt for one-off severance payments. When asked how the workforce reduction would affect production, Oleksy said the company would optimise its operations to make more efficient use of employees and equipment. In the first half of 2026, the cost of extraction per tonne fell to 609 zloty (€139) from 778 zloty a year earlier. JSW posted a net loss of just over 1.0 billion zloty in the first half of 2026, around half the 2.1 billion zloty figure from the same period a year earlier. Polish state-owned mining giant JSW, the EU's largest producer of coking coal, has reported a record annual loss of 7.3bn zloty.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
-  },
-  {
-   "id": "92cb06005f6e",
-   "title": "L’indiana AM Green vince il lotto asiatico dell’asta H2Global per la fornitura di ammoniaca verde alla Germania",
-   "original_title": "L’indiana AM Green vince il lotto asiatico dell’asta H2Global per la fornitura di ammoniaca verde alla Germania",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNamVDakRCd3Zqcm9JdVE5b1RpbHp4NXN2djM3aldJYm9NXzJXalhmcjVJVWh4ekJpaTBFa1c2RElGcE4tcTZRUWxYaDUtRzhjblRRMEtIOElBV1dNVTdtTS03aVNDTUI1eUpnQTBYWFdUX25HNmRmN0h1WXBqZ1g1MTR1YlVTZUU5Q2dwVkVVaW4yMU1FMk1lNTRNSC10TlZzdGJEWl9zNUFVOGxkWEpqLWZTU2thWUUzUjF1VTZGcmpKdHFFZ1JLSVlsaDNHSG1r0gHcAUFVX3lxTE1JMUdfWC04ZjEwS3RBYUtJSXI4NUdLaFRvWVlOeWVDZGoyNEp6SDlVaW0xVzYtSTFNUGgtVXEwRkdYeUxsT1dRSHZQZVhDd0lOb3BaQTFQNURMTGZtQnREREx1OEFULVhxbUw5Y1hOS05xOVZBR3k1cGkxV3p1ekF2ZE92TzlYM2tZY2g1YXVzMkYxeEwyTW1IZ0tfMHRpZDdvZV81d0VLeHREeXFtb2xJUkVFOFdmOTlxbkJmNFQzM1hKeHV4c0lyRHItSjBxVE5qYnNYTUpGOWhIcFo?oc=5",
-   "source": "HydroNews",
-   "published": "2026-10-02T14:14+00:00",
-   "added": "2026-10-05T09:47+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe",
-    "Asia"
-   ],
-   "tags": [
-    "ammonia"
-   ],
-   "summary": "L’indiana AM Green vince il lotto asiatico dell’asta H2Global per la fornitura di ammoniaca verde alla Germania HydroNews",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "403744bfd7b2",
-   "title": "Baltic dry bulk freight index edges up on capesize gains",
-   "original_title": "Baltic dry bulk freight index edges up on capesize gains",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSjlkMkhNNF9WWVk1T2hiekYtcHNvY09VdFFrV2h5Qk1xTzR2WTZGRUMtYlRQRWt5YVY3NEUzYVBhQ1AyTFdaOWIyeVZTMHdrZ3NQZS1VTTlCOGF4dHEwN3VFLWppOC1IQ3poWmh4LVFpamVKX1J2V2MwbW1MQVpaZDdPb1FOaGVVQmY2VjhHZkdZR0ZwemJ3eGl5NEFWVEhHamRiRzhCQnFfbTR2dWdZN0NXTVVXcVBq?oc=5",
-   "source": "Investing.com",
-   "published": "2026-10-02T14:11+00:00",
-   "added": "2026-10-02T14:30+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry",
-    "capesize",
-    "dry bulk"
-   ],
-   "summary": "Baltic dry bulk freight index edges up on capesize gains Investing.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
