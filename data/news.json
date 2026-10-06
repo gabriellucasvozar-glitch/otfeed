@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T23:14+00:00",
+ "generated_at": "2026-10-06T23:34+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -41,6 +41,34 @@
    "summary": "Two years ago we launched the first AI for ocean rates . We had become Anthropic’s very first global supply chain partner and our early products included multiple world first’s that were built for our enterprise customers, global shippers managing thousands of lanes and dozens of carrier contracts, and it reads any rate sheet from any carrier or forwarder, every minute of every day. Those customers have cut about 85% of the time they used to spend managing rates. But it only ever reached the companies that bought the whole Ship Angel platform, and that is a small fraction of the people who have to deal with a rate sheet. It is the first product from Ship Angel Labs, and the first thing we have built for the whole industry rather than for our enterprise customers alone. Upload any ocean rate sheet in any layout, Excel, PDF, Word, EDI, CSV, an email, even a photo of the page, and get it back in minutes as one clean, structured format: origin, destination, container type, rate, currency, surcharges and validity dates, ready to use in Excel or as JSON for whatever system sits downstream. It runs on the same engine that runs rate management for some of the world’s biggest shippers.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "7f54a4f2deff",
+   "title": "TA Services acquires 2 Texas cross-border carriers, adds 133 trucks",
+   "original_title": "TA Services acquires 2 Texas cross-border carriers, adds 133 trucks",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmtRZUdvUkJFV0lyQ1ZldWlrZUZqNFFueExpZFBTdjc5Y0lWMERfOXpUYzYzaDFybm1hc295SW1vd1RvN0JjQldQMjZNdTczTC1hcEh6bnJENDV4blhWV2ZVVEtBTjRYOERUcTUzYm9kbGNOWDRHZUZjdkpWNU5JNkVRU0ZWeFM1QXJpSHJWYzZFcW9lTm52M3pfTHg5TnQ3Nnc?oc=5",
+   "source": "FreightWaves",
+   "published": "2026-10-06T22:03+00:00",
+   "added": "2026-10-06T23:34+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "carrier"
+   ],
+   "summary": "TA Services acquires 2 Texas cross-border carriers, adds 133 trucks FreightWaves",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
   },
   {
    "id": "40ab9a247d84",
@@ -11793,6 +11821,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "370c8599f025",
+   "title": "Indian Ocean ports: Durban, Djibouti and Mombasa under scrutiny for clearance times and costs",
+   "original_title": "Indian Ocean ports: Durban, Djibouti and Mombasa under scrutiny for clearance times and costs",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWmVwVENtVkhKVnRYZG5iSDN4c0lwV3BJREJ5ZnROVWhBS3JUVWpPT3NaNkhIZ3U5WlZoTm01cVA1Mzg1TEI1cXBfclB3azRjNWpXUUxFbzc4aHU2dkhValpuU0hpVk9oX3VLUmZDX05wallBVGRUaGZ1Q1VlcDRYM1poMHlLNVFBaUk1eVlFTjRrUHR2d0NxU1RjV3lRaFBhTG9pZ1hYRXZlMHQ4SmxqSDR0aDkyaWV5R1R3?oc=5",
+   "source": "Capmad",
+   "published": "2026-10-05T01:08+00:00",
+   "added": "2026-10-06T23:34+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia",
+    "Africa"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Indian Ocean ports: Durban, Djibouti and Mombasa under scrutiny for clearance times and costs Capmad",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "df54c9da3945",
    "title": "TODAY: Egypt’s Alexandria gets its first dry port + Gulf crude transfers spill into India's Gulf of Kutch",
    "original_title": "TODAY: Egypt’s Alexandria gets its first dry port + Gulf crude transfers spill into India's Gulf of Kutch",
@@ -14207,6 +14262,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "a084c26b664f",
+   "title": "Baltic Dry Index rises as Capesize freight rates rebound",
+   "original_title": "Baltic Dry Index rises as Capesize freight rates rebound",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGpOUksxTXZiUEI5ZHdMWFVtZmU4WGNhTnYwVFZ5V3pOU0ZhNHE2OHZnU0JSYzlNbU44QnctTnlJbC1NcmNzakFSU1dzT0dobExGQmE1UDF4TWhOT2YwMEpHTmR5aU0zOXhjOURERWpLQk9jLU5lSTRpSW0wS1RBeUJLMmlmUVZDSGhMLUdCMkFZdjhrV0RmQ0VxbHozelJwQkNpWQ?oc=5",
+   "source": "BigMint",
+   "published": "2026-10-03T07:27+00:00",
+   "added": "2026-10-06T23:34+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "capesize",
+    "freight rate"
+   ],
+   "summary": "Baltic Dry Index rises as Capesize freight rates rebound BigMint",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "f629cc8c525c",
    "title": "CMA CGM Group Completes Acquisition of FedEx Supply Chain",
    "original_title": "CMA CGM Group Completes Acquisition of FedEx Supply Chain",
@@ -15449,6 +15533,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "21516b54d148",
+   "title": "Baltic dry bulk index gains for second day, but posts weekly loss",
+   "original_title": "Baltic dry bulk index gains for second day, but posts weekly loss",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTJhRWF3V01lMWI4WlB2TzN0TF9ESmZYVndoNllicVlWRXlVc2ZiMGZLT2JXU2VzQldJS0RTNl9WS2Q1Yk80di1wZnpRNlhBanROdEtCTTV5U1RZZERNWW1QV1JhR3pyUnFXd0ZaX21HV2FidDZDUlEtNW1EbzZ3LVhOeFhJQkVTZmYtYTJkQ1RWRkh3a251RFQ3NFhCRWtBWV9TdDU0bnZWcm8wcUFNNEFQWmpmNVlBcXdjT0NB0gHLAUFVX3lxTE9haEg4eC02WTVnekFIUWx5V21fckdHNWVtQWlHZDNlenNFSXh1LWJkTHIyY0ZaVTh5WGhRWDlnX3lYVzVvd2JxVEJHS1lYZE9wVHVTRTdhLWw4Yi0wWDdTZEZLaEFNU1Q0SnhSNVl6VTBmZ3FEZ253UUY1M0laUFJwSE1mXzlTNGFaWU16NXBScjZOX3NBa3VXLXBhWkNOeHo0WGNsejlySkV3andsdUEySmYycnhsMl9aY09YMFRTUkU4X2g4bGt1Mk9j?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-02T18:30+00:00",
+   "added": "2026-10-06T23:34+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "dry bulk"
+   ],
+   "summary": "Baltic dry bulk index gains for second day, but posts weekly loss Baird Maritime",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "ba770a8c0d8e",
    "title": "Belgium backs Mombasa Port as trade gateway, eyes new logistics deals",
    "original_title": "Belgium backs Mombasa Port as trade gateway, eyes new logistics deals",
@@ -16425,111 +16537,6 @@
    "summary": "October changes EU rules on steel, medical data, deforestation and machinery Informat.ro",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "b312b1c6e0c5",
-   "title": "Thyssenkrupp Rides EU Steel Shield and Deutsche Bank Upgrade as Turnaround Enters Proof Phase",
-   "original_title": "Thyssenkrupp Rides EU Steel Shield and Deutsche Bank Upgrade as Turnaround Enters Proof Phase",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUTl3dXpUNThBaWdDdlJ6TERuS3d6UjJxNVNNNmFWYVRQX3puZlVqMDJXQkRkUHM3dTh6X3N4SkpNSnUzRGNwMGxLUXJST3h1NDFFWkpOX2ZlWlI0bVVXcEVRaUlNVTVFNmN6N1ZvR0RmM1AyNWJ0aWxTREdORjlBd1RJQTR3TVNnMVMyNDBUcTVfRk53ZGwySzd2Ynpjc2oyQzZEYW1NMEU5NWZlY2JIUDgzWFI4TWVuX1lNd05QeGI0RnFHMXFIbTNlQUFkVVlxUkhXMVpYN2c5SXZqM1Fv?oc=5",
-   "source": "AD HOC NEWS",
-   "published": "2026-10-02T14:40+00:00",
-   "added": "2026-10-02T14:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "steel"
-   ],
-   "summary": "Thyssenkrupp Rides EU Steel Shield and Deutsche Bank Upgrade as Turnaround Enters Proof Phase AD HOC NEWS",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6119d5db5d86",
-   "title": "OT Logistics Spółka Akcyjna [OTS] - notowania, kursy giełdowe spółek",
-   "original_title": "OT Logistics Spółka Akcyjna [OTS] - notowania, kursy giełdowe spółek",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01dzFObXVXRHpRbGoyZ08yWUdzaWJqWERQbnJUU084TFgwdGNMMkdMZmZZWWdjb3lvWl9OQ2pEd0tDejJUaFBYTlF0WGJ3bkFiWWtmZzdpT0pyRURoZDNRa3FTNW8?oc=5",
-   "source": "wnp.pl",
-   "published": "2026-10-02T14:37+00:00",
-   "added": "2026-10-04T22:11+00:00",
-   "lang": "pl",
-   "category": "company",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "high",
-   "score": 9,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "logistics",
-    "ot logistics"
-   ],
-   "summary": "OT Logistics Spółka Akcyjna [OTS] - notowania, kursy giełdowe spółek wnp.pl",
-   "why": "Directly concerns OT Logistics or one of its group companies.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "499e82e30947",
-   "title": "You don't own enough coal.",
-   "original_title": "You don't own enough coal.",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU3pDaW5CZTNWT2hpdEFxUTR0cll0UVBLNTNQanlQTmhMcGlaMUwxeUxEMFV1cFprdDhUVUQzMVluZnVsbi1rRGdpdDZKNDktOVBMVXBhUjhRQXJONWlXNktDbEtaMzJZV3ZVSms5TlFXSFhFb2R5c3pMeUZSSGRDMmt5Rmo?oc=5",
-   "source": "marketscreener.com",
-   "published": "2026-10-02T14:37+00:00",
-   "added": "2026-10-02T14:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "You don't own enough coal. marketscreener.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4fc6195cd52d",
-   "title": "Polish coal mining giant JSW to shed 4,200 jobs – 21% of its workforce – this year",
-   "original_title": "Polish coal mining giant JSW to shed 4,200 jobs – 21% of its workforce – this year",
-   "url": "https://notesfrompoland.com/2026/10/02/polish-coal-mining-giant-jsw-to-shed-4200-jobs-21-of-its-workforce-this-year/",
-   "source": "Notes from Poland",
-   "published": "2026-10-02T14:31+00:00",
-   "added": "2026-10-02T14:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Poland",
-    "EU institutions"
-   ],
-   "tags": [
-    "coal",
-    "eu ",
-    "polish"
-   ],
-   "summary": "Polish state-owned mining firm Jastrzębska Spółka Węglowa (JSW), which is the EU’s largest producer of coking coal and one of Poland’s biggest employers, has announced that it will cut over 4,000 jobs, 21% of its workforce, by the end of this year. Więcej: https://t.co/7Sxrhuuaja pic.twitter.com/evJoQal0c3 On Wednesday, JSW’s management board announced that it expected the size of its workforce to decline by 4,248 by the end of this year, bringing it below 16,000, down from 20,135 at the end of March. News service Strefa Inwestorów says that, on this basis, more than 3,000 JSW employees have the option to take so-called mining or mineral-processing leave while just under 1,200 can opt for one-off severance payments. When asked how the workforce reduction would affect production, Oleksy said the company would optimise its operations to make more efficient use of employees and equipment. In the first half of 2026, the cost of extraction per tonne fell to 609 zloty (€139) from 778 zloty a year earlier. JSW posted a net loss of just over 1.0 billion zloty in the first half of 2026, around half the 2.1 billion zloty figure from the same period a year earlier. Polish state-owned mining giant JSW, the EU's largest producer of coking coal, has reported a record annual loss of 7.3bn zloty.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
   }
  ]
 }
