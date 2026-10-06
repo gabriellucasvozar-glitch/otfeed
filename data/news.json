@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T01:20+00:00",
+ "generated_at": "2026-10-06T01:38+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -2180,6 +2180,33 @@
     "steel"
    ],
    "summary": "Kazakhstan steel faces up to €374/t EU landed-cost gap trend.az",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "471fa8eb7e25",
+   "title": "George Dumitru: Carbon, quotas and traceability risks will determine the true cost of steel",
+   "original_title": "George Dumitru: Carbon, quotas and traceability risks will determine the true cost of steel",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ2xVZUJGdDN3SlRNYnVkSEt2QTdueUY1eFV2QUYyVC1WSEFQWFFhdkZFMUhqdmdaa3o5WGpIZ24yNEdDVlprZ21WZVBHNVlzWGIxTThpeEtNN1JPekE2WmR4UDhRNVlYVUctNWFqeGxueHhkQnBFRzRJZVIwQmp6c1Q0NkpoLVFpMlZPS0xfMmFoTVlBU3FMSWhHQmNiUXRuQlFaTXBnb1IxWUUxUEJpdmNwSlZoV3RHYWp6Tm42cWdVWlBV?oc=5",
+   "source": "SteelRadar",
+   "published": "2026-10-05T13:08+00:00",
+   "added": "2026-10-06T01:38+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "quota",
+    "steel"
+   ],
+   "summary": "George Dumitru: Carbon, quotas and traceability risks will determine the true cost of steel SteelRadar",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16460,33 +16487,6 @@
    ],
    "summary": "UK Hits Russia LNG Shadow Fleet Vessels with Sanctions Sea News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b2e2d8cef78b",
-   "title": "Chinese Electrolytic Chromium Coated Steel Market Softens Amid Raw Material Shifts and Weak Peak-Season Demand",
-   "original_title": "Chinese Electrolytic Chromium Coated Steel Market Softens Amid Raw Material Shifts and Weak Peak-Season Demand",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSjRFQURyR0Z3MlYtVXpiVmhXQUhsN1pTenlDbDlaWm5sd2E0MHU3Zl9YYzV6NUdzcUVTbHR5LUxiTkxfXzd4bzVnN1VldGI3RHBhTGxGQWpNNkN0R0NzYkVzaGxKdHZ6UzFzOUhIUEhPdTczSVkybnZ5cXdXZ1k1cEY0Sy14VnF2NnJZNmF3Q1BTWDNlOWpHYi1MaHk4ZjNQVU9GSTg2cmpBRlVIX3VzNVZKNS1CSjA?oc=5",
-   "source": "ChemAnalyst",
-   "published": "2026-10-01T13:01+00:00",
-   "added": "2026-10-04T23:21+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "steel"
-   ],
-   "summary": "Chinese Electrolytic Chromium Coated Steel Market Softens Amid Raw Material Shifts and Weak Peak-Season Demand ChemAnalyst",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
