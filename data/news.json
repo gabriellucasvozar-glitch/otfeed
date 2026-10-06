@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T07:37+00:00",
+ "generated_at": "2026-10-06T07:56+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "0e8d3777eee0",
+   "title": "Tanker attacks around Hormuz hit wartime high",
+   "original_title": "Tanker attacks around Hormuz hit wartime high",
+   "url": "https://splash247.com/tanker-attacks-around-hormuz-hit-wartime-high/",
+   "source": "Splash247",
+   "published": "2026-10-06T07:56+00:00",
+   "added": "2026-10-06T07:56+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Western Europe",
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping",
+    "war"
+   ],
+   "summary": "Commercial shipping around the Strait of Hormuz is enduring its most intense spell of attacks since the US-Iran war began on February 28, with four tankers struck and another directly threatened in incidents disclosed by UK Maritime Trade Operations on Monday. The latest attack came at 1637 UTC yesterday when a tanker transiting Hormuz was hit by an unknown projectile, starting a fire in the engine room. The crew was fighting the blaze when UKMTO issued its warning, with no casualties or pollution initially reported. Separately, an inbound tanker around 11 nautical miles north of Khasab was hailed by Iran’s Islamic Revolutionary Guard Corps and ordered to turn around or face attack. Oil exports through Hormuz have returned close to, and on several days exceeded, pre-war levels, leaving an increasingly uncomfortable combination of more barrels moving through the strait and more ships being attacked. That is feeding directly into extraordinary tanker economics. Owners willing to undertake Gulf shuttle voyages are commanding huge premiums, with some round trips reportedly costing charterers as much as $40m. BRS Shipbrokers said in its latest tanker report the pool of tonnage prepared to trade the region remains central to freight pricing.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "cf2d1a0720d5",
+   "title": "Szczecin: Pięć ofert na budowę nowego terminala pasażerskiego",
+   "original_title": "Szczecin: Pięć ofert na budowę nowego terminala pasażerskiego",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1AyaEU0RzhLT2syRTFOMlNJTDd3ZzZlYnhMUzRKd2Q2OGFFVjVkTnlLQkxoR0hKdXM0eU1pV00ycktUaTJ3SkswclpRemMxaEprakEwSjlCYkZZRWRnWE9yY05ySm5yMzlfOGh0c1FOR1dHaVJQaFI5dXZsc1BPS3dLUUROTnI4SGZ6bzAyZmRiOXQ4QVJNdmkyVGF0Q0RiR1lHVDRTVmtFa0NPazhkc0FB?oc=5",
+   "source": "Rynek Lotniczy",
+   "published": "2026-10-06T07:44+00:00",
+   "added": "2026-10-06T07:56+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "high",
+   "score": 8,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "szczecin",
+    "terminal"
+   ],
+   "summary": "Szczecin: Pięć ofert na budowę nowego terminala pasażerskiego Rynek Lotniczy",
+   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
   {
    "id": "a2978ccb78ce",
    "title": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight",
@@ -36,6 +93,31 @@
    ],
    "summary": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight Reuters",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f53d302b8850",
+   "title": "Vugar Mammadov: Azerbaijan well positioned to play connecting role in Middle Corridor",
+   "original_title": "Vugar Mammadov: Azerbaijan well positioned to play connecting role in Middle Corridor",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaU1HZEhkOEJVdEdZaG1qVGlhOGpETlZDQUxzaXNLajAyTWNPQ1Z3NFYyYUFWZ0xmQlpuVDc4WUFQYkF1aEZxY1JrSXJnSVM1eXNublNPQUpWVlpfLXU1R2g4QmQwZG1lYll0NTdfSXpVblZRSWt2QmYxbWdJVTUzalBrY2lIMUdQRE1MTFJjNmpNQ1N5QXRNejNrTzNSd1U3ZHlBRTJvTWdpQ0NBS1lFck1pb1h3Y0ZDcnlz?oc=5",
+   "source": "Apa.az",
+   "published": "2026-10-06T07:08+00:00",
+   "added": "2026-10-06T07:56+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "Vugar Mammadov: Azerbaijan well positioned to play connecting role in Middle Corridor Apa.az",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -111,6 +193,32 @@
    ],
    "summary": "South Africa backs TNPA separation from Transnet Heavy Lift & Project Forwarding International",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "db945a6a8db9",
+   "title": "TX Logistik doubles the frequency on the 2,500 km Sweden–Italy route",
+   "original_title": "TX Logistik doubles the frequency on the 2,500 km Sweden–Italy route",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOampFNWVKYl9PUTdTMlZLMGloZ2otR0toQjNQSUtFaHlDV0tBS0FQZ01CVDdzTk1GQjd0a0VVNlhON1U3UnN3LVdSMHM4M3V3akQ3b3ZnbnhNdFVYUUlqb0wxMUNmUHp6RkdxV1AwMVhITUZKcXlSQ1o1a3YwU1ZJa2gtNS12TE5zZmg2SkhFYw?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-06T06:46+00:00",
+   "added": "2026-10-06T07:56+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Baltic & Nordics",
+    "Western Europe"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "TX Logistik doubles the frequency on the 2,500 km Sweden–Italy route Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -408,6 +516,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "e075c35015d7",
+   "title": "Forklift Batteries Market To 2035: Lithium-Ion Adoption and Automation Fuel Expansion - News and Statistics",
+   "original_title": "Forklift Batteries Market To 2035: Lithium-Ion Adoption and Automation Fuel Expansion - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0QyMGJSLWtwMGtubng5WkFqcmFmRF9DM01XRWJmT0F4TUQ0aU9SbnF4VnppYWxvX3VsRk9uakkzREpVWWFObk05ZUVhX3ltdXd5Q253Yk1KdHdFbEdKSWpva0F6YlM0R3lXMnBPYVA1YU1ZTGtKVTdOZC1iY2FZTHM4ZUpyMjdUamhJOWNRT3EyblIwdmlZaU40MWtkXzZ6Y0s4NmRLbE1ESGQ0VEpJX0JOVzMwT2g1cElkLWZZZ0Z2STYwanJF?oc=5",
+   "source": "indexbox.io",
+   "published": "2026-10-06T05:01+00:00",
+   "added": "2026-10-06T07:56+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "automation"
+   ],
+   "summary": "Forklift Batteries Market To 2035: Lithium-Ion Adoption and Automation Fuel Expansion - News and Statistics indexbox.io",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4956544918cb",
    "title": "Macro Metals Targets Near-Surface Iron Ore Assets across WA’s Pilbara Region",
    "original_title": "Macro Metals Targets Near-Surface Iron Ore Assets across WA’s Pilbara Region",
@@ -429,6 +562,33 @@
     "iron ore"
    ],
    "summary": "Macro Metals Targets Near-Surface Iron Ore Assets across WA’s Pilbara Region smallcaps.com.au",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "768e8c058bca",
+   "title": "Romania moves to streamline grain exports from local farmers through Constanta port",
+   "original_title": "Romania moves to streamline grain exports from local farmers through Constanta port",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDBLMHU5eGV3QXVTZkpHU0VSYlBPYldILUZ2SW5mcDY2c1lXYnZzMmpfS2dPc0lrNk1SWjdHNFEyUlE0eFI3WGxrZTlQUUU1bFk3VVIzR3NVQzF6RlJZVVExQUlYNXAzYXhXRDhSTlZyTkdsSGp0eUh2czJzTHp0YVZSU1l1WkhtYkZrWFlhWmNneHpYcUVvMVBJMUVRZG5KOG9N?oc=5",
+   "source": "Romania Insider",
+   "published": "2026-10-06T03:29+00:00",
+   "added": "2026-10-06T07:56+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Central & Eastern Europe"
+   ],
+   "tags": [
+    "grain",
+    "port"
+   ],
+   "summary": "Romania moves to streamline grain exports from local farmers through Constanta port Romania Insider",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -4386,6 +4546,33 @@
     "lng"
    ],
    "summary": "More Qatari LNG cargoes transit Strait of Hormuz despite ongoing risks ET Infra",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "09b7fe473328",
+   "title": "Oil price today: Why Brent stays above $100 despite G7 supply boost and rising Middle East war risks | Hindustan Times",
+   "original_title": "Oil price today: Why Brent stays above $100 despite G7 supply boost and rising Middle East war risks | Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOS1l6TGZVcTZmT3o2REtMYmJHd0VxRVdBSTkxVWEtY1VQSC1BRWdhRGFYQzZEUWpDc253V2VEQUhuODZuWEcxUTJwU2VzQU9wcWhwOUN0TVZsUDJMLTdMSjFwN19wa1JYck1SWE84SF9pNk1wNHRzVDRaSHduT2VaLUNXZS1WTkZkTVFzRnFtc21sOV9CTXVjTXBza1BvZkJfMWQ5c0l4UHlLMC1PUUhoczAzMFNxUTB6SnZWakE5cnEzRVp6Tmt6THZSZDV3RE9LTUtEdS1Nci1MTzFfR2VXUkc0VUVwNWV1SE8tWURVX3VoZDVid3NQVDlEclJTd9IBgwJBVV95cUxOanZIN3Y3VDR0WkF4VFJGbmR2VnVyQy1oWnUwNElvTndzY1BMLVJPSzd1Q3FKQURPMlBKWGxldTVLNkN1VzRtVHYyM3VzdndYT1lVR0dZNWl5QzFhNzlqalhqOGduS21TNGpVTDhHZnFIdmVuM0FMV2pQcFBBLUNyWDdubVJrRWJJcmwyRFlNUGNxYWhRX0JkV2lTWi0tS1c2Z3lhRlVaWE1tT08tZnR5VUMwTDA5bDlVbnpDcTBOQmdtNGZnNU9qb0JEWjYxbXBCaExuQUtQTG1RVVRkS05JVnlZU2FmZWx0UTFLSVhDVWM5MFlaWFBKbGdhN2JQVGszanRj?oc=5",
+   "source": "hindustantimes.com",
+   "published": "2026-10-05T10:40+00:00",
+   "added": "2026-10-06T07:56+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "oil price",
+    "war"
+   ],
+   "summary": "Oil price today: Why Brent stays above $100 despite G7 supply boost and rising Middle East war risks | Hindustan Times hindustantimes.com",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -16270,200 +16457,6 @@
    "summary": "Middle East Oil Exports Stage a Remarkable Comeback Crude Oil Prices Today | OilPrice.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "23054dae70e4",
-   "title": "Expert reveals US business owners set to bear brunt of Canadian tariff fallout as trade war uncertainty looms",
-   "original_title": "Expert reveals US business owners set to bear brunt of Canadian tariff fallout as trade war uncertainty looms",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlVVYXhGY0k0cHdVMUtTTG9wakxhbURYam1vRzFnU3Q5MWxjWlpmeWx5TU1nWkdrZldqb2FKMkIzclJ1YjlCajFicjZHVkFCNVFTdExPX1E3MXUtelI5aXljUVJaQWJXeVUyWVBPdTRQWjNacFZ4UlVHSS0xMW93U1RWMzJFaGRka2txUWFqQzBpUjVkb2p3bVZVSkFDTjRTdUVhazBoVlNsOGpibVJsSFNnNXFTOWQxTkl0RS15MWJvc1llSVQyazZRT3dYQdIB0wFBVV95cUxQV05JcFJ3ZmhMd3ZOTkhUOGlfQUpJb09XRlZRclhBX0pfRHVreUJYVUtMVVR0WjNCS1JZZk1zY0xpenVVNXJMQUc5V29iWGpxVWdCbVpTdlF0QmxpUE9CR1lLdm4xWWlQZlBVNzdBSWduZ1pRWjVRSGdSZ0pjWjhBU0k2NFlGS2F6a2VkWFQ5SmwwTmJ0eXhVWkJMLTVndFFjcGRYbHQ3SzV0S2VTTUx4ZW9NMVdzeWFMVjRlS2xyMjlTZkhxTGRXLUp4TkdnM0F5RHZJ?oc=5",
-   "source": "Fox Business",
-   "published": "2026-10-01T18:58+00:00",
-   "added": "2026-10-02T17:21+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "supplychain",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "tariff",
-    "trade war",
-    "war"
-   ],
-   "summary": "Expert reveals US business owners set to bear brunt of Canadian tariff fallout as trade war uncertainty looms Fox Business",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "85029fc0e5e2",
-   "title": "Terminal Gate increases its LNG capacity to 20 billion m³ per year",
-   "original_title": "Terminal Gate increases its LNG capacity to 20 billion m³ per year",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6YkdRcV9pb3JocjAyMmZaazNFNTc1WndWWG4yWkhtOFZhb0FIaGE1blpteUpHU0E0ak9IdlhVNElBS2hWMXgwdDN4bEpJVEh6T1NpWnlwdWE4Um85cE5UQTh3aXF0NENRLXBWd1FnVQ?oc=5",
-   "source": "Inspenet",
-   "published": "2026-10-01T18:57+00:00",
-   "added": "2026-10-03T01:46+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "lng",
-    "terminal"
-   ],
-   "summary": "Terminal Gate increases its LNG capacity to 20 billion m³ per year Inspenet",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ab1a47a6f615",
-   "title": "Supply Chain: 5 Bold Ways Reshoring Is Winning in 2026",
-   "original_title": "Supply Chain: 5 Bold Ways Reshoring Is Winning in 2026",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LMmdsRlBuVVQtTnFPSUhRNzJUSzJ3cEhtbHhKMVY3YmVybUx3N0ZFY1BwVmszQzdzT3NTNVA2bF9zTnZUYXc0YVduZ3V5YjNyaTR3bG4zc3ZiSEpmbHh3emNfMk84djVCdno2UA?oc=5",
-   "source": "globalbrandsmagazine.com",
-   "published": "2026-10-01T18:51+00:00",
-   "added": "2026-10-02T18:45+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "reshoring",
-    "supply chain"
-   ],
-   "summary": "Supply Chain: 5 Bold Ways Reshoring Is Winning in 2026 globalbrandsmagazine.com",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e69e6f8ea345",
-   "title": "Baltimore port eyes volume growth from expanded grain, intermodal capacity",
-   "original_title": "Baltimore port eyes volume growth from expanded grain, intermodal capacity",
-   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQW16Z3c2SmZrbmdQd0J3bGd3TTNvXzFIMlhaRzk4aVdxVkFrNXVlZ0ZwOUJrQnlwanp0aU5aejhUTWVtTVNSSzUtdERiTkZ4RkZWU1ZoZV9kNG5ieUZWdlhHYjVwTWZYNWtYcG9BX1NNcVdWRFVTMlhWQy04QURialFrMVBPYWc4dXB0WkNJQUlRZl93Rmg0OGhRN3FhVFY0Y29aQklZY1ZwU1BIU01YYmRqbDRfaGx0YU1QeDhfWTRfTHNMTzZsbF9TSjF5cGJQdFF3amtVZnozWEdfd3Q1TnpKcDBDYjV2V2Raam1SWU8ta01tbzhrclJOZ0hnVGFrZWxteDIxd3FfWlBXQkhfX3NLTGtPQnNKT3RWaU5vb3JlRFZvRG1oeDFRRElNQ3hI?oc=5",
-   "source": "Progressive Railroading",
-   "published": "2026-10-01T18:30+00:00",
-   "added": "2026-10-02T22:17+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "ports",
-    "rail",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "grain",
-    "intermodal",
-    "port"
-   ],
-   "summary": "Baltimore port eyes volume growth from expanded grain, intermodal capacity Progressive Railroading",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "89ac106d7615",
-   "title": "Tankers enter the death zone",
-   "original_title": "Tankers enter the death zone",
-   "url": "https://splash247.com/tankers-enter-the-death-zone/",
-   "source": "Splash247",
-   "published": "2026-10-01T18:04+00:00",
-   "added": "2026-10-01T20:03+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "prices",
-    "shipping"
-   ],
-   "summary": "Like climbers entering the death zone above 8,000 metres en route to the summit of Everest, VLCCs have entered their own peak: the moment where prices for secondhand tonnage surpass newbuild prices, and sell signs flash hard. These moments tend to be fleeting and have historically been associated with the hottest stages of shipping cycles. The question is how often the market has reached this altitude before, and how long it can survive there. The previous maximum premium for a five-year-old VLCC over a newbuild was 21% in December 2007. Veson data shows a 15-year-old VLCC overtook the newbuild value for the first time on September 27. Danish Ship Finance takes a broader approach, using a monthly secondhand-to-newbuilding price ratio for tankers stretching back to January 2000. Its series identifies 11 distinct episodes, including the current one. “To stay with your analogy: the death zone usually punishes those who linger — but in 2003–08, the market camped up there for nearly six years,” Danish Ship Finance told Splash. The completed episodes have averaged around 12 months, although that number is heavily distorted by the extraordinary 2003-08 supercycle, which accounts for more than half of all the months its tanker index has spent above parity.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a2c4c544a899",
-   "title": "US sanctions target Iran's auto, rail sectors after blockade chokes shipping lanes",
-   "original_title": "US sanctions target Iran's auto, rail sectors after blockade chokes shipping lanes",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMGQ5cWhPbnlFT0hFQU1VME1qVVB2SndmZVROdUpzUU1sVGxRcDZndDN0R1BwdGVXRThreEJhTnV4WWQzZ19xUjlqZ3hqWjBWSEJWQ1JtcExJNVVRTG95UHQ1RjFsc21pbWQ4Q3c3dnhvYWZXUF9uNmQ0UHhWT1pJRXg3Yk42b0dOS0FJVmNsbGJLeFZTQkNKcW5ocVZVSzBlS2tnSnRpM044NEhMZW1FMG94N1U2dW1fUXJkbng1clJZSHpaZVVGLXFyeDBYcXM?oc=5",
-   "source": "Reuters",
-   "published": "2026-10-01T17:53+00:00",
-   "added": "2026-10-01T18:29+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9.0,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "sanction",
-    "shipping"
-   ],
-   "summary": "US sanctions target Iran's auto, rail sectors after blockade chokes shipping lanes Reuters",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "97ea2d47094b",
-   "title": "Nuclear-Powered LNG Carrier Would Cost 2.5 Times More to Build, Study Finds",
-   "original_title": "Nuclear-Powered LNG Carrier Would Cost 2.5 Times More to Build, Study Finds",
-   "url": "https://gcaptain.com/nuclear-powered-lng-carrier-would-cost-2-5-times-more-to-build-study-finds/",
-   "source": "gCaptain",
-   "published": "2026-10-01T17:35+00:00",
-   "added": "2026-10-01T19:31+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "carrier",
-    "lng",
-    "vessel"
-   ],
-   "summary": "A nuclear-powered LNG carrier could cost roughly 2.5 times as much to build as a conventional vessel, but lower fuel costs could significantly change the economics over the ship’s operating life, according to a new study supported by the American Bureau of Shipping. Presented at Gastech 2026, the study examined a 174,000-cubic-meter LNG carrier equipped with a 20-25 MWe high-temperature gas-cooled reactor, or HTGR, under development by Japan’s Blossom Energy. ABS, Blossom Energy and an unnamed global shipping company compared the nuclear design with a conventional LNG-fueled newbuild, assessing vessel arrangement, propulsion systems and operating conditions under a range of potential regulatory penalty scenarios. The study found that initial investment for the nuclear-powered vessel would be approximately 2.5 times that of a conventional LNG carrier. In 2024, ABS and Herbert Engineering Corporation studied the integration of an HTGR into a 145,000-cubic-meter LNG carrier , examining heat and energy management, shielding, weight distribution and other design challenges. In July, ABS awarded Approval in Principle for a nuclear-powered 15,000 TEU containership concept developed with the Korea Research Institute of Ships and Ocean Engineering and KAERI.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
