@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T22:19+00:00",
+ "generated_at": "2026-10-06T22:38+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -1808,6 +1808,34 @@
    ],
    "summary": "Colombo West Terminal doubles capacity to 3.2 million TEUs Port Technology",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9344138a295d",
+   "title": "News Content Hub - EU ETS exacts its toll on ferry operators’ bottom line",
+   "original_title": "News Content Hub - EU ETS exacts its toll on ferry operators’ bottom line",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbk5GaFJiYUdfb1B3RktaYzRaWC0xVV9GMG0wQWNJWGtBa0pETW11TkxsQm1BaFRJTWcyaTZLZ3NmNnhiaThHc0x0NHBTY2oyOHhEcGpXMWFBeHFtV2JWMkkzSnQycURnc3YwQUxsME9hY1ZSSWNfMy0ydGxqZjR3ZE9zV1lFMTJ1WHprZ2ZSRUJpWkpDLUY2dGd2UUxRLW1Rb1JJSA?oc=5",
+   "source": "www.rivieramm.com",
+   "published": "2026-10-06T13:06+00:00",
+   "added": "2026-10-06T22:38+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 6,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "ets",
+    "eu ",
+    "ferry"
+   ],
+   "summary": "News Content Hub - EU ETS exacts its toll on ferry operators’ bottom line www.rivieramm.com",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   },
   {
@@ -9882,6 +9910,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "dc7369c656a3",
+   "title": "Shipping groups seek counter-drone protection after wave of attacks",
+   "original_title": "Shipping groups seek counter-drone protection after wave of attacks",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmYycWNpLTV5bXo3c04zYXRrT0RfMHVCZmtJcnpzOGhCUTVkWDkwbHpvOEtxS2lFcWNGT281TGhHcGwzdXpYVm1SaFdZVVVSbUxpM2hsSkxBaVVFcm1jaUdvZWZVbHdXS2hnRTlpWE1ZOG5pckczYjJvVjVIbmdJbjk0TzM?oc=5",
+   "source": "Financial Times",
+   "published": "2026-10-05T09:53+00:00",
+   "added": "2026-10-06T22:38+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9.0,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "attack",
+    "drone",
+    "shipping"
+   ],
+   "summary": "Shipping groups seek counter-drone protection after wave of attacks Financial Times",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "947154f826d7",
    "title": "METRANS expands Polish terminal capacity by 80 per cent",
    "original_title": "METRANS expands Polish terminal capacity by 80 per cent",
@@ -16472,62 +16528,6 @@
    ],
    "summary": "Baltic dry bulk freight index edges up on capesize gains Investing.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6f2f89f7f7f5",
-   "title": "Farm View: Trump’s fuel dilemma threatens Europe’s diesel supply",
-   "original_title": "Farm View: Trump’s fuel dilemma threatens Europe’s diesel supply",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HTk9jdk55c1cyMXd1SzVRLUt0UHhCLXFKSHYxLUVFOUFXRy1ieDVJeVl0b2JVYlJpdmlyZjVVVWJjVnJmdXhQLWxtWXVVbU8xNGJudFNDdjRma2tBakFPOWdOdC0wWUE?oc=5",
-   "source": "Irish Examiner",
-   "published": "2026-10-02T14:09+00:00",
-   "added": "2026-10-02T16:19+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "diesel"
-   ],
-   "summary": "Farm View: Trump’s fuel dilemma threatens Europe’s diesel supply Irish Examiner",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e65556cdad0a",
-   "title": "Inside Odesa port attacks: How Russia targets Ukraine's Black Sea trade",
-   "original_title": "Inside Odesa port attacks: How Russia targets Ukraine's Black Sea trade",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMEhDUUtnLUdHNGFNTHFNampkanpsNG1SNmxfYk5VZm9Wa05SS2pwdmM3eUwwdkhfTzczQ0l4Wk1WSHppcXIyQ3NTM1hPdTZ0ZXJzbGppZWFlbXB6UDl4WWlqb2VTZkdjSkZoUks2UHJER1k1aXlQc0RBV0RYSTVLb2x5cTNsWHoyWlZyUDJBSnpEOVcwRDVMTjBtMElaWTQ?oc=5",
-   "source": "The Kyiv Independent",
-   "published": "2026-10-02T14:05+00:00",
-   "added": "2026-10-02T14:53+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "port",
-    "russia",
-    "ukraine"
-   ],
-   "summary": "Inside Odesa port attacks: How Russia targets Ukraine's Black Sea trade The Kyiv Independent",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
