@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T18:04+00:00",
+ "generated_at": "2026-10-06T18:28+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,57 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "a5f5e846bbd8",
+   "title": "Minister silent as iron ore miners miss royalties",
+   "original_title": "Minister silent as iron ore miners miss royalties",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYU5DQmw5Z1JKOF85Z3RQMlVmMWNpYW9oZHNtU3VvdTZSVjdES05wd1otOHJZMXpRdHFrSFdRRlFMaHppam5VZFBJOW5kVEVORno5ZGJnWG9seFhmNzJYblQ2aU9LUXcwQkJ6R3Z1T2U1dHBpYnJfaVpyMDJqOVdqb3JOSGVIVHAzTktPLXJUU1NLTktJVWRpM1hkc3g3MDFhS183Q2Z2NEFkVEhsVnYxamJ4aVYtRzZENGRhMjVRTnFqQVFUQ0pPanA3TlRiai1waFdRb2RaOGlxdWV4SmdaWWd4ejY?oc=5",
+   "source": "The West Australian",
+   "published": "2026-10-06T18:00+00:00",
+   "added": "2026-10-06T18:28+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "Minister silent as iron ore miners miss royalties The West Australian",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f95b91ee0b13",
+   "title": "Europe’s new trade route runs through Caspian: Middle Corridor needs $55 billion",
+   "original_title": "Europe’s new trade route runs through Caspian: Middle Corridor needs $55 billion",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mMzBQXzlTOU1wZ1dkUFBSanBYTnNleG9YY3UtdDlyNGxObnY3d29hNzUzWVVBS3B5Y1AxeGhNQU1PV0xlaEFJMWluLUhRWFU2UkkzeHZfQQ?oc=5",
+   "source": "Azernews.az",
+   "published": "2026-10-06T17:34+00:00",
+   "added": "2026-10-06T18:28+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor",
+    "trade route"
+   ],
+   "summary": "Europe’s new trade route runs through Caspian: Middle Corridor needs $55 billion Azernews.az",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "dcec55d8edb6",
    "title": "Tanker attacks continue in Hormuz as Gulf shipping rates remain elevated",
@@ -15512,6 +15563,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "1e8ff53ac329",
+   "title": "Georgia Plans $342 Million Rail Upgrade for Middle Corridor",
+   "original_title": "Georgia Plans $342 Million Rail Upgrade for Middle Corridor",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdDZuejBVMmFhZzNsUDN3a1NwN1NoTThHbURRU2VheG12Y2hzVTltYWJvUF9ld0NlbTFod3BZWWJkeDJEN1hxVE4xT19hUURpdTVlaE9vWm9uUWdMWkl4SHhDMXk0LWIyNV95NVYwejdPR1M3MGhUNDQ0ZzdFa3pkNVJnN0c1U2ROM2xGbEgxNFktRkdp?oc=5",
+   "source": "Caspian Post",
+   "published": "2026-10-02T13:13+00:00",
+   "added": "2026-10-06T18:28+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "Georgia Plans $342 Million Rail Upgrade for Middle Corridor Caspian Post",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "38ab5d8e6110",
    "title": "EUROFER expects the recovery in EU steel demand to gain momentum in 2027",
    "original_title": "EUROFER expects the recovery in EU steel demand to gain momentum in 2027",
@@ -16392,85 +16469,6 @@
    ],
    "summary": "Tankers Stack Up as Venezuela Sells Oil Faster Than Its Ports Can Handle EnergyNow.com",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "38ee4befc3d8",
-   "title": "APM Terminals launches new rail service in Denmark",
-   "original_title": "APM Terminals launches new rail service in Denmark",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQemVTenVSeWRaVm1mSWZOZVJFWmd6dkJHZ0xpWUo5TXIzbmhkREU3TW9saUhhVTV5WmRWTXQ0SlQ5Uk9wekdGNEdsOElDTUdDMnZuZlliSjdzdUFDWEUyZE5HMzRCNWxKTlJsTDROcTdIdzh6LWtacVNWOHpjcUFYa1RDYU5vV2xCZ2RTT1lDRkJIMndsd2xmbnFRZkw0T21TMWU4?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-02T11:02+00:00",
-   "added": "2026-10-05T09:47+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "APM Terminals launches new rail service in Denmark RailFreight.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c2480a4db4c3",
-   "title": "Union Maritime sells 14 ships as it hedges Middle East risks with chartered tankers",
-   "original_title": "Union Maritime sells 14 ships as it hedges Middle East risks with chartered tankers",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRGQ2aENDVUxPLTlaaVNrY04zSzhBVVJrb3dBcUJDOUcwOC1SUGtoRldzRVEtcXVyOHJhcmNZdHJ4VnpWTjE2akhqcmliRk9zeTZNakZINVhvd0ppUUk3UDMxcDZEaWdPWlpLYnBJOW05SXhwUl9zaEFlVWRnM2lzRENsVHdXb0dYOGFjSmNlTGdMYkVGbWktbHJhaWxVa1o5NFZRRU1ISThlcTJWSjVMOEpYTGRJLXlPUGNseWc0T2VDRHBuUGswRzhUeWpJMGc?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-10-02T10:58+00:00",
-   "added": "2026-10-05T02:28+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "shipping",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "charter",
-    "sells"
-   ],
-   "summary": "Union Maritime sells 14 ships as it hedges Middle East risks with chartered tankers TradeWinds News",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a96d125d739b",
-   "title": "LNG Canada yields $15 billion prize for joint venture: Deals of the Week",
-   "original_title": "LNG Canada yields $15 billion prize for joint venture: Deals of the Week",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeXJJUzBmQ2JmU3ZLbTJvYzZtdmhvYlVncW5GYUJPeWpIdW9WaHZyejFZeHBDdDYyd3NtV3VFUmQ4VWFTOU80NGxuMkw3QnFJUnp4SWl3Y05nOHNuTVViMjh0U2g3cUI4bW1wYldoRUZVM0RPNDlFdGxMRDZYTTdJQWZ4NjJDUEhsX0ZLNGpEV2FuV2FIdzFyWUFTcTNvSWxrQTQ1OElrUTh0NEU2dTBvcFQyUlNnMDZfbHFuMmtB?oc=5",
-   "source": "Upstream Online",
-   "published": "2026-10-02T10:54+00:00",
-   "added": "2026-10-02T22:17+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "joint venture",
-    "lng"
-   ],
-   "summary": "LNG Canada yields $15 billion prize for joint venture: Deals of the Week Upstream Online",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   }
  ]
