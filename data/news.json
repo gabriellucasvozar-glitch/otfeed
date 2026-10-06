@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T02:36+00:00",
+ "generated_at": "2026-10-06T02:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6c475750dd81",
+   "title": "Nuclear-powered LNG carriers could offset higher upfront investment by fuel savings",
+   "original_title": "Nuclear-powered LNG carriers could offset higher upfront investment by fuel savings",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeERKVmpiTk9mbG1NR2tKU1U0aHNwYmF5YXJJd2xwa0Z4S0tnYUx6cjFNUEJOX3laNVlhSDR5enNVeldJY2dHdXNpMXVpOThWZVJKS2RqR3JCeVhfdUZPay1LTndtMkZlcmU0c0NRR0V1RWNwLWJtRmM2RVBYTnBRcWdOZm82eHBGT0hweGctbnVFNUo5RHFadVhGZ3hNVUxzakk3elN6Q1VqT2V1RGhiaVI0MUNwSTNGbkRSelVyclhFQWM0aWtEUFRSbF80MFF0?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-10-06T01:00+00:00",
+   "added": "2026-10-06T02:55+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "lng",
+    "shipping"
+   ],
+   "summary": "Nuclear-powered LNG carriers could offset higher upfront investment by fuel savings Shipping Telegraph",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
   {
    "id": "1e48b54561a9",
    "title": "Precious Shipping inks long-term ultramax charter to Asyad",
@@ -90,6 +118,32 @@
    ],
    "summary": "UK grants Korea LNG sanctions waiver pulse.mk.co.kr",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d4301bcce04d",
+   "title": "Southern Ports posts record trade in 2025–26",
+   "original_title": "Southern Ports posts record trade in 2025–26",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVmNPWU52NVUzZk9BdFpMeUpOWGRyRTJMa3pqQlM5T3lBS3dfQlJBVU5lNEZvMGtibDFZMEF5bHBzWUcxcDJqNlRaWlhVOHJZY1Fwa0JDSnJnNEc5bHpCLVZXV05WSkJ6MXZ5cmxONlR2UDZ6TVFZYUc4WXFuTGJoLdIBkAFBVV95cUxQSHFaNlc4Tkhwc1BUa1NSM1I2ajNMVzRsNEhXb2lXWmhxUVd2OGo0OWF0R0JLU1FZamlHT3dXM0ZNeHR1ejhKM1VJcS0tNGVqRVZVVERoXzRLc3hpZnljNkdqUmEzd1lJXzZ3Ti1qWmhUeHBXVF9tR19zZkNIdFFkUGpFb2JnMTdTU3I3a1JYLXM?oc=5",
+   "source": "thedcn.com.au",
+   "published": "2026-10-06T00:15+00:00",
+   "added": "2026-10-06T02:55+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Southern Ports posts record trade in 2025–26 thedcn.com.au",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -4266,6 +4320,34 @@
    ],
    "summary": "Argentina Corn Exports 2025-26: Latest Argentina Export Data for HS Code 1005 TradeImeX",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2fbba33c2855",
+   "title": "Kazakhstan, Uzbekistan, UAE back railway linking Central Asia to Pakistan’s seaports",
+   "original_title": "Kazakhstan, Uzbekistan, UAE back railway linking Central Asia to Pakistan’s seaports",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxUTNkWUlWcTRXcWs4MVFUMV9nTGx4MFpWM3NTY1hKZUFNUmJSdnB2dmgzN1pMTHlIcUJzc3pqMVFxekFKUmVSR1lhcWFlMnJlbFJJY193bGFoY3Y3YWRpNm5WcFlJYmwwVk0tUw?oc=5",
+   "source": "The Jerusalem Post",
+   "published": "2026-10-05T09:09+00:00",
+   "added": "2026-10-06T02:55+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "railway",
+    "seaport"
+   ],
+   "summary": "Kazakhstan, Uzbekistan, UAE back railway linking Central Asia to Pakistan’s seaports The Jerusalem Post",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16399,88 +16481,6 @@
    "summary": "Thyssenkrupp Reshapes Auto and Steel Units as Analysts Split on Valuation AD HOC NEWS",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "44bcafd41f32",
-   "title": "Terberg drives Malaysia-made tractors into global ports",
-   "original_title": "Terberg drives Malaysia-made tractors into global ports",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSXM1anhwRk9kZnQ1eXhRTFcyRzUxSjZobXZ1cXhZTE9iY1I1MWRwQzV1ajkxOWVOVWdXNmE4VzlxWFFCR0VqUzE3aVZVbWF2TktMdlJOQy1zcHBXMDczRVhVLVVEekt5VXgxeVpnbUNTT1Z2aXdVT3pxSDVSQzhWREhNYk91RGZGZTEzLWp0eWQtREROOUdQYUtGZUpiY2V6cjh5SEo2elM?oc=5",
-   "source": "klsescreener.com",
-   "published": "2026-10-01T14:04+00:00",
-   "added": "2026-10-01T18:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Terberg drives Malaysia-made tractors into global ports klsescreener.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0f790461e321",
-   "title": "Precious adds Asyad deal to ultramax fixing run",
-   "original_title": "Precious adds Asyad deal to ultramax fixing run",
-   "url": "https://splash247.com/precious-adds-asyad-deal-to-ultramax-fixing-run/",
-   "source": "Splash247",
-   "published": "2026-10-01T14:00+00:00",
-   "added": "2026-10-01T16:07+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bulker",
-    "charter",
-    "dry bulk",
-    "fleet",
-    "shipping"
-   ],
-   "summary": "Thai dry bulk owner Precious Shipping has fixed its recently delivered ultramax Rossarin Naree to Asyad Shipping for up to 14 months in the latest index-linked deal for its larger bulker fleet. The Khalid Hashim-led company said the 63,500 dwt ship started a 12-to-14-month charter with Asyad on October 1 at a gross variable rate equivalent to 108% of the Baltic Exchange Supramax Index 63K weighted time-charter average over the preceding 15 days. Precious put the current equivalent rate at around $24,000 per day. The Rossarin Naree joined the fleet from China’s Taizhou Sanfu Ship Engineering at the end of May as the first in a four-ship ultramax series ordered in 2024 for a combined $133.46m, or about $33.36m apiece. Newly delivered sistership Ratima Naree went straight to Trafigura Maritime Logistics last month for 12 to 14 months at 107.5% of the BSI 63K, equivalent to around $22,800 per day when the charter started. A couple of weeks later, the 2016-built ultramax Sunisa Naree was fixed to Singapore’s PACC Line for 11 to 13 months at 103% of the same index, then equivalent to about $23,000 per day. The fixture comes as Precious continues to expand its ultramax exposure.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "1f87175aaa42",
-   "title": "Leading Polish business owners invest in small nuclear reactor venture",
-   "original_title": "Leading Polish business owners invest in small nuclear reactor venture",
-   "url": "https://notesfrompoland.com/2026/10/01/leading-polish-business-owners-invest-in-small-nuclear-reactor-venture/",
-   "source": "Notes from Poland",
-   "published": "2026-10-01T14:00+00:00",
-   "added": "2026-10-01T20:47+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "fleet",
-    "poland",
-    "polish"
-   ],
-   "summary": "Notes from Poland is run by a small editorial team and is published by an independent, non-profit foundation that is funded through donations from our readers. We cannot do what we do without your support. A group of prominent Polish businesspeople have announced that they are investing in a project to develop small modular nuclear reactors being led by the country’s richest man, Michał Sołowow. We are proud to announce that today our founder, Michał Sołowow, unveiled a PLN 500 million investment by a group of leading Polish entrepreneurs in SGE’s… pic.twitter.com/J2SerVjIlG The investment, which was formally announced at a business conference in Warsaw on Wednesday, comes as Sołowow seeks to expand his nuclear project beyond SGE’s troubled partnership with Polish state energy giant Orlen, where disagreements have delayed plans to build SMRs in Poland. Synthos Green Energy, a firm owned by Polish billionaire Michał Sołowow, has announced plans to build 14 small modular nuclear reactors in the UK. The 3.75-gigawatt project is scheduled to be commissioned in 2036 . Sołowow has also been pursuing the deployment of SMRs in Poland through Orlen Synthos Green Energy (OSGE) , a joint venture between SGE and state energy giant Orlen, Poland’s largest company, to develop BWRX-300 reactors in Poland.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
