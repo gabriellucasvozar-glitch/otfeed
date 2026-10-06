@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T07:56+00:00",
+ "generated_at": "2026-10-06T08:20+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "4ecbffcee23c",
+   "title": "HD Hyundai delivers world’s first lashing-free containership",
+   "original_title": "HD Hyundai delivers world’s first lashing-free containership",
+   "url": "https://splash247.com/hd-hyundai-delivers-worlds-first-lashing-free-containership/",
+   "source": "Splash247",
+   "published": "2026-10-06T08:06+00:00",
+   "added": "2026-10-06T08:20+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "shipping",
+    "teu",
+    "vessel"
+   ],
+   "summary": "HD Hyundai has delivered what it says is the world’s first containership designed to eliminate manual lashing, removing one of the most labour-intensive jobs in container shipping. The 13,000 teu vessel, which is methanol dual-fuelled, has been handed over toFrance’s CMA CGM after being built using HD Hyundai’s proprietary hybrid lashing-free system. HD Hyundai Heavy Industries developed and verified the core technology, while HD Hyundai Samho carried out detailed design and construction. HD Hyundai’s new arrangement does away with that work by extending cell guides above deck, allowing containers to be held in place without traditional lashing. The breakthrough centres on what HD Hyundai calls a portable bench, a standardised structure fitted between cell guides. The unit is the same size as a 40 ft container, meaning terminal cranes can handle it as part of normal cargo operations. HD Hyundai says the design boosts deck cargo capacity by more than 10% compared with similar existing ships while improving operational stability in heavy weather. The technology was presented to the IMO’s Sub-Committee on Carriage of Cargoes and Containers in 2024 and has since secured multiple patents. The Korean yard plans to expand the lashing-free technology to small and mid-sized vessels soon.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "0e8d3777eee0",
    "title": "Tanker attacks around Hormuz hit wartime high",
@@ -40,6 +67,38 @@
     "war"
    ],
    "summary": "Commercial shipping around the Strait of Hormuz is enduring its most intense spell of attacks since the US-Iran war began on February 28, with four tankers struck and another directly threatened in incidents disclosed by UK Maritime Trade Operations on Monday. The latest attack came at 1637 UTC yesterday when a tanker transiting Hormuz was hit by an unknown projectile, starting a fire in the engine room. The crew was fighting the blaze when UKMTO issued its warning, with no casualties or pollution initially reported. Separately, an inbound tanker around 11 nautical miles north of Khasab was hailed by Iran’s Islamic Revolutionary Guard Corps and ordered to turn around or face attack. Oil exports through Hormuz have returned close to, and on several days exceeded, pre-war levels, leaving an increasingly uncomfortable combination of more barrels moving through the strait and more ships being attacked. That is feeding directly into extraordinary tanker economics. Owners willing to undertake Gulf shuttle voyages are commanding huge premiums, with some round trips reportedly costing charterers as much as $40m. BRS Shipbrokers said in its latest tanker report the pool of tonnage prepared to trade the region remains central to freight pricing.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "c785346f1a02",
+   "title": "Black Sea merchant shipping comes under fresh drone attack",
+   "original_title": "Black Sea merchant shipping comes under fresh drone attack",
+   "url": "https://splash247.com/grain-carrier-sinks-off-romania-after-suspected-russian-drone-strike/",
+   "source": "Splash247",
+   "published": "2026-10-06T07:53+00:00",
+   "added": "2026-10-06T08:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Western Europe",
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "drone",
+    "security",
+    "shipping"
+   ],
+   "summary": "Commercial shipping in the western Black Sea has come under a fresh wave of attacks, with another general cargoship sinking and a second catching fire off Bulgaria barely a day after the loss of the Royad Mammadov off Romania. According to UK maritime security specialist Vanguard Tech, the Togo-flagged Alfa Watan and Palau-flagged Able issued distress signals around 70–80 nautical miles east of Byala and Cape St Atanas, inside Bulgaria’s exclusive economic zone. Bulgarian sources state that both vessels had been struck by drones. The Turkish-owned, St Kitts and Nevis-flagged vessel was carrying corn from Izmail to Italy when it caught fire and sank around 30 nautical miles south of Sfantu Gheorghe. Two seafarers were killed and 11 rescued. If the Bulgarian reports are confirmed, the latest incidents would mark a significant westward expansion of the threat facing merchant shipping in the Black Sea, taking the danger well beyond waters immediately off Ukraine. The attacks also come just as Turkey and the United Nations are trying to revive talks aimed at securing a limited Black Sea maritime truce. Ankara has been pushing a framework focused on protecting commercial navigation, ports and energy infrastructure, drawing in part on the architecture of the former Black Sea Grain Initiative.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
   },
@@ -538,6 +597,31 @@
    ],
    "summary": "Forklift Batteries Market To 2035: Lithium-Ion Adoption and Automation Fuel Expansion - News and Statistics indexbox.io",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "625d504b6aba",
+   "title": "Saudi Arabia’s steel industry: a national priority",
+   "original_title": "Saudi Arabia’s steel industry: a national priority",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUlRPclRIMGwzd0Eya0kxT0o5VjZhMGVqMG9YQzJwYXhVVmVVSy1JYm53TEIzMEFjelNtY2Exa3RjZ1o0Z1F6SHN6U0VMY1ZYNTZObm5KVlNJQ3E0MmpkOWVkM0dDbHFPbXRTNmpmaUVjWGdQRUN0T1B0NFdRMk5EWE9ybWjSAYoBQVVfeXFMT1RxTGFmZ2xMU2NueTNGRGFWV1Q1T2Z3b0t1R3ZUMTZtdEtUN0cwaTcxS3NSeG1VVE1PRlVtUE53eUJOUFR4UFlkZTMxZlQwMU9XREsyTTVoQ3FxVFVDUUVuZ1psc3BZX2cwenYtelI2Wkh6ZXFIcms1TnFhRm1UaFdSOWhmRnVFNmV3?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-06T05:00+00:00",
+   "added": "2026-10-06T08:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "Saudi Arabia’s steel industry: a national priority GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16374,87 +16458,6 @@
     "grain"
    ],
    "summary": "Pure Hedge - Livestock and Grain The Globe and Mail",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "992808b3a2b1",
-   "title": "US targets Russian shadow banking network, including financial facilitators of Iran’s dark fleet",
-   "original_title": "US targets Russian shadow banking network, including financial facilitators of Iran’s dark fleet",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV0ZPbE1aMzZxYndxWUlGakg0Mi04V1hnSlFkczdER0JId09kTXF4RmNvZnRTOHlXd1VMc0ZTUzBKSTVDd1owUnZhR2hYaGFBb2dTY25NZFdpWjVIOWVZMU0tSVNuLUdoZmFpNC13czFydW5XSHlwdWQ0QjBUaU5jaUtGVnFYVjJ0YmZSdk1KQVIxMkE1T1p3UWZHQloxbC1vQVhjVklMWmN1R2tlZXU1aXc2ZDBkVXBnU1huTUxvdnpOU0JZMUVxMUNuRWVDVlhBR1JlMlctdXBhZ1R6dU9z?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-10-01T19:45+00:00",
-   "added": "2026-10-02T09:15+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East"
-   ],
-   "tags": [
-    "fleet",
-    "russia",
-    "russian"
-   ],
-   "summary": "US targets Russian shadow banking network, including financial facilitators of Iran’s dark fleet TradeWinds News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3ab804c2a8ff",
-   "title": "Scrap dealers on strike over foreign infiltration of Kano steer industry",
-   "original_title": "Scrap dealers on strike over foreign infiltration of Kano steer industry",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGczMGRwY0NTWXdGZDBjN2RtTHdwSDFOZVlDazRzcUd1dXF4WWMxQU0wbFp1aTRjbEF5dWJnYThyX2ZhczZtT0JLRzR0ZlNHVkNFWUk1NmxQSlp5ZEl0bmVSQXJFaGxobnYyQmltVTAzanhoWEJMalBDQzJUQ0tXaUZUR1JjQ3dsZ2dqVDlsQ3pxdU1XUG5TaGI1cExCNEE?oc=5",
-   "source": "The Guardian Nigeria News",
-   "published": "2026-10-01T19:15+00:00",
-   "added": "2026-10-03T09:38+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "scrap"
-   ],
-   "summary": "Scrap dealers on strike over foreign infiltration of Kano steer industry The Guardian Nigeria News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a2be26300291",
-   "title": "Middle East Oil Exports Stage a Remarkable Comeback",
-   "original_title": "Middle East Oil Exports Stage a Remarkable Comeback",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1IwaGFidXlsWVlFUXJ0TWNtVG1lVVBxeFdQTUtzUzBranFUVGdCazFwcF81Q2Y2UFRWTlRaSi1hV1RKcHdtMjNRTENKSEI4d3ZpWENHbVdpOHd1ZVhLV0hzT2tqTzhza2pJOVpyRkFBUzJJZF9vZlp6YzFEeUt4WHo3X2F1V0h6UnVKTi1YbFQ1VGotYVRGRS1GbFNQRnQw0gGmAUFVX3lxTE9LS25zYmNHT3B4YjZIaFFqeVFLWTJJVHJ1NmJJRThuZnpVUjdSTlBFX1VBQTl6VUNLd3hXMnJjTkViQ3F6N3lQLVFaWlpqU2VFNEluSEZxNWtManVwcUdJNjRtNkIwcWxPV1ZvanlEQ2psV2NkZWVhek12a1dybWpNMkZJcjlFM3RJNlpfVWRCaDJQWm1tZGQ1Q3A2XzkwczVTV1BkSHc?oc=5",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "2026-10-01T19:00+00:00",
-   "added": "2026-10-02T02:11+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "oil price",
-    "prices"
-   ],
-   "summary": "Middle East Oil Exports Stage a Remarkable Comeback Crude Oil Prices Today | OilPrice.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
