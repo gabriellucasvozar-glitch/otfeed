@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T01:38+00:00",
+ "generated_at": "2026-10-06T01:54+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "901b28ef063e",
+   "title": "Australian canola exports surge in August",
+   "original_title": "Australian canola exports surge in August",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdjgtMF9KUTJRYTFVcWdsZms3Z2cySVNtLTFmZ0xMczlwdFBCdGtiZTgzeEpSXzBjZVZKZkJqblFjdUY3RXBDdlhfaWtsdHFVcWRwY1pJRXc4R1VLVlpaTFA4WEIwekU5Q0kzMHdnczVhQ2R5WlNsdTFiYXNmNmM0TVdGUVZkdw?oc=5",
+   "source": "Grain Central",
+   "published": "2026-10-06T00:42+00:00",
+   "added": "2026-10-06T01:54+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Australian canola exports surge in August Grain Central",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "00797b3be6ea",
    "title": "Five Hormuz Incidents Reported Monday as Tanker Attacks Mount",
@@ -16455,39 +16480,6 @@
    "summary": "Rio Tinto’s owned-vessel sell-down appears to be extending beyond the newcastlemax fleet it cleared out this year, with a pair of 2013-built post-panamax bulkers reported sold en bloc for $42.8m. Broker reports list the 89,892 dwt RTM Dias and RTM Flinders , both built by Namura in Japan, at $21.4m each. The ships are part of Rio Tinto’s owned shipping operation. RTM Dias was delivered by Namura to Rio Tinto Shipping in 2013, while current fleet records list RTM Flinders under Rio Tinto Shipping Asia ownership and Rio Tinto Shipping management. The deal is separate from the newcastlemax sell-down Splash has tracked throughout 2026. Earlier this year, Rio Tinto moved the final two ships from its eight-strong owned newcastlemax fleet, with Yasa Shipping taking RTM Drake and RTM Tasman . That completed a disposal programme which had earlier seen six other 205,000 dwt-class vessels leave the miner’s fleet. Rio Tinto’s latest marine figures show the mining giant operates more than 230 chartered vessels, moving more than 300m tonnes of cargo across roughly 2,700 voyages a year.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "63584e349b3f",
-   "title": "UK Hits Russia LNG Shadow Fleet Vessels with Sanctions",
-   "original_title": "UK Hits Russia LNG Shadow Fleet Vessels with Sanctions",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS1RVM0F5VlBIR0dFX3BxOEJ0UUJfWllycnAwUk1MTDlVcEE4c18zWmg5LWROOXM3LUt6OWhHUVI3dnNMQWFKeTNsc3U1eEJaRXpDODFOVzZrd2Q5LVQxZXFpdjVNMEhCdDVkV01mYnlHZjcxVGUta2puVUFjakhUZ2RkSkRnNnVJVUt3UjdyOWtCMVFWSlE?oc=5",
-   "source": "Sea News",
-   "published": "2026-10-01T13:01+00:00",
-   "added": "2026-10-02T03:04+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Western Europe",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "fleet",
-    "lng",
-    "russia",
-    "sanction",
-    "shadow fleet",
-    "vessel"
-   ],
-   "summary": "UK Hits Russia LNG Shadow Fleet Vessels with Sanctions Sea News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
   }
  ]
 }
