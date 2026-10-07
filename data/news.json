@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T04:30+00:00",
+ "generated_at": "2026-10-07T04:53+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "93adbb1ed286",
+   "title": "Porty w Gdańsku i Gdyni zwiększają przeładunki. W regionie rośnie zapotrzebowanie na obsługę logistyczną",
+   "original_title": "Porty w Gdańsku i Gdyni zwiększają przeładunki. W regionie rośnie zapotrzebowanie na obsługę logistyczną",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96V3diWEJzdjBGX19mTExEVDlnandNMm96MVlPYVU4VVQ4YmhDa3BnSnN1cVNtY0hteWNXaEMwS19mVllzU1RiWFNHY2hRZXpjVzU2eVF5SExtcGl6T0Nqc29SM2FabFVybTBXUUJhUExZS1RU?oc=5",
+   "source": "Newseria BIZNES",
+   "published": "2026-10-07T04:25+00:00",
+   "added": "2026-10-07T04:53+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gdansk",
+    "przeladun"
+   ],
+   "summary": "Porty w Gdańsku i Gdyni zwiększają przeładunki. W regionie rośnie zapotrzebowanie na obsługę logistyczną Newseria BIZNES",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "12224a5b4727",
    "title": "China revives push for US LNG as PetroChina pursues long-term deals - CHOSUNBIZ",
@@ -16506,35 +16533,6 @@
    ],
    "summary": "Dated Brent Above $120 Signals a Serious Oil Squeeze Crude Oil Prices Today | OilPrice.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "881c1776e6ec",
-   "title": "AD Ports completes $835 million Brazil port acquisition",
-   "original_title": "AD Ports completes $835 million Brazil port acquisition",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVXc2V3E2aF9CdWdYeDk4emowbjZJY2tYRkRMNFZFV2Y5NzRfSGN6WGRJTDRoQTRvNjJsczVqWThyaEd4cmV3VE1JUVFoano3R2pvdWJKUjVzanVsZzUwSURObEMyZXlPOHRZN2JadG93aXpWTk80NkpEdGRCbUpZVUtKQVg4cXZZd2l6UUZ2LUdSZ0FWNUNDdzc0dUtpekNHcVdRakhRNkV1SEsxbmM0aQ?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-02T16:48+00:00",
-   "added": "2026-10-02T16:58+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East",
-    "Latin America"
-   ],
-   "tags": [
-    "acquisition",
-    "port",
-    "ports"
-   ],
-   "summary": "AD Ports completes $835 million Brazil port acquisition Port Technology",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   }
  ]
