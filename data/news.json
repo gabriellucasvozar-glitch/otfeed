@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T12:06+00:00",
+ "generated_at": "2026-10-07T12:36+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,91 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "07264443d677",
+   "title": "German port strikes averted, but low Rhine still delaying barge cargo",
+   "original_title": "German port strikes averted, but low Rhine still delaying barge cargo",
+   "url": "https://theloadstar.com/german-port-strikes-averted-but-low-rhine-still-delaying-barge-cargo/",
+   "source": "The Loadstar",
+   "published": "2026-10-07T12:32+00:00",
+   "added": "2026-10-07T12:36+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "barge",
+    "hamburg",
+    "port",
+    "ports",
+    "seaport"
+   ],
+   "summary": "The prospect of widespread industrial action at Germany’s ports retreated yesterday after dockworker members of the ver.di union agreed to accept new contract terms offered by the Central Association of German Seaport Operators (ZDS). “Strikes at the ports of Hamburg, Bremen, Bremerhaven, Emden, Brake, and Wilhelmshaven have thus been averted for the time being,” said ver.di. Workers have won: a 3.4% wage increase for the next year, backdated to 1 August; a €200 increase in holiday pay; and dockers involved in “high-turnover container operations” will receive an additional annual lump sum, increased by €416 from 1 January. “It was a difficult round, but the bottom line was acceptable,” added ver.di, while union officials said a 24-hour ‘warning strike’ by members in mid-August had been the catalyst for this week’s agreement. The agreement staves off the potential for further cargo backlogs building in Germany’s three main container gateways of Hamburg, Bremerhaven, and Wilhelmshaven – although shippers and freight forwarders are still encountering some congestion. However, German shippers in the central Rhine industrial belt continue to face hinterland congestion caused by low water levels on the Rhine, and the subsequent restrictions on barge movements to the key gateways of Rotterdam and Antwerp.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "de4cc901b73b",
+   "title": "CMA CGM przejmuje logistykę FedEx. Armator jeszcze mocniej wchodzi w łańcuch dostaw",
+   "original_title": "CMA CGM przejmuje logistykę FedEx. Armator jeszcze mocniej wchodzi w łańcuch dostaw",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWE1U0hINlRkLTQ2U3FPMzQzb0J2NXRiRkRwTGNmR0FfZXpmQWVqYzlNOWpucjFDRDk0eDM5SGlJdUJUS25yUV9QdklsYUY3akIzVlhNSVBxV2s2aU84bUF4QkFsS2VEX2cyYlEyM2JCVndyYUk1MGZtd3hfVExMMUtvekY2Nk9ISmV6dl91SmFGRzFxOGJfV29wMmZfSnJydEtVeFpDWXRVczBuRjE0aQ?oc=5",
+   "source": "Trans.INFO",
+   "published": "2026-10-07T12:31+00:00",
+   "added": "2026-10-07T12:36+00:00",
+   "lang": "pl",
+   "category": "supplychain",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "armator",
+    "lancuch dostaw",
+    "logistyk"
+   ],
+   "summary": "CMA CGM przejmuje logistykę FedEx. Armator jeszcze mocniej wchodzi w łańcuch dostaw Trans.INFO",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "789247467ce3",
+   "title": "Red Sea container transits hit post-crisis high as carriers accelerate return",
+   "original_title": "Red Sea container transits hit post-crisis high as carriers accelerate return",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFk3VjVOWVBFQ2huWWVNS05QcGRyX2xOYTBPUGVUVUI5SnRjWnIzMTNUOWV4MlN6cW5nRmJiTVRJOUdvbVpzS0UySDRMT2JkcWtwampqM3lOMXJBbUtiZlZhR01ZS0sxVUVOOThnMkRCZk5Yc2RCQVoyU19KZ2J2M29rdDhLWVFZQS0xRi1RQXdGeTMyc0tCY2d5cnZvS0xGbTVnRUJHeVZTcENmTkJlSEZHMGQ?oc=5",
+   "source": "Lloyd's List",
+   "published": "2026-10-07T12:11+00:00",
+   "added": "2026-10-07T12:36+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7.5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "carrier",
+    "red sea"
+   ],
+   "summary": "Red Sea container transits hit post-crisis high as carriers accelerate return Lloyd's List",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "6ef226cb0aa2",
    "title": "JP Morgan-backed NOCC expands China car carrier programme",
@@ -16471,84 +16556,6 @@
    ],
    "summary": "Guam port’s three gantry cranes knocked out in collision splash247.com",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "566cad6d2813",
-   "title": "How Ports Can Catalyse the Blue Economy",
-   "original_title": "How Ports Can Catalyse the Blue Economy",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMVppcDgwQ3RTVlBYZHVyMXYxNGRjdnkweTJqS2dZdmItaDNVcVJadUZ3U2ZXUWdvckdNTWQ5dTdQSEVIVGRTUnNrMzZuRGtscmkxbDNVYkpZcnIyai15ZWJfTE0wVVUxOHc0eVZkZnIzVVZDT0tNS0QxRmUxQ0h2SDVHbzc?oc=5",
-   "source": "orfonline.org",
-   "published": "2026-10-04T00:33+00:00",
-   "added": "2026-10-04T02:19+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "How Ports Can Catalyse the Blue Economy orfonline.org",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2bba937df550",
-   "title": "LHM Unplugged Battery-powered mobile harbour crane | Liebherr",
-   "original_title": "LHM Unplugged Battery-powered mobile harbour crane | Liebherr",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUmdITWE1ckl6X09RbzJsZEhqVlR3WjdjYmtTT2ZncnBvbWhSS2dhMGZfODFpYlRNbmJMdFNfNmhGb3lKQlRmVDZ5QjZ4ZGFza3BQc3F5YnE2dXZkWkdXUF9zUWtVRU0tQ1BQZm52RnJjdlJ3emQ0c2FlVDJCNjdQMUEtMWc1MmpVZzhfTkdhRTRvQ2JVZ1AwdDVSakdfd3FQN1VV?oc=5",
-   "source": "Aerocontact",
-   "published": "2026-10-04T00:09+00:00",
-   "added": "2026-10-04T08:46+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "liebherr",
-    "mobile harbour crane"
-   ],
-   "summary": "LHM Unplugged Battery-powered mobile harbour crane | Liebherr Aerocontact",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "15b05c374298",
-   "title": "PE in oil, gas, coal hits $14.7B, topping 2025 total",
-   "original_title": "PE in oil, gas, coal hits $14.7B, topping 2025 total",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUzNaVV94Y0ZMVnl4cHN5M1R4WlJTNTRYaDJlRk9zcjk1SWtyX2dJVnZmeG1xUkI2bVd2aDRpZFUzXzlnUlVJT2tlcG4tU1k4bnEzRkFUZWtZRmRZMmR3dnYyNjdqZG1RUHdQdHZOSXZqTHNGMm9NQjNOU1JvbEtZeEg5aEN3R0ZjNUp3RWtqaDVIWlFIanRqcUxwaG1OZURHUk4wNg?oc=5",
-   "source": "scanx.trade",
-   "published": "2026-10-03T23:58+00:00",
-   "added": "2026-10-04T21:52+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "PE in oil, gas, coal hits $14.7B, topping 2025 total scanx.trade",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
