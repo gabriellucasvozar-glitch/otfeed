@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T07:31+00:00",
+ "generated_at": "2026-10-07T07:52+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,88 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "5b1320e2cdf7",
+   "title": "Busan shipmanager launches Arctic LNG fleet push",
+   "original_title": "Busan shipmanager launches Arctic LNG fleet push",
+   "url": "https://splash247.com/busan-shipmanager-launches-arctic-lng-fleet-push/",
+   "source": "Splash247",
+   "published": "2026-10-07T07:41+00:00",
+   "added": "2026-10-07T07:52+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "fleet",
+    "lng",
+    "vessel"
+   ],
+   "summary": "New South Korean shipmanager IOB has started operations with four ice-class LNG carriers and is already targeting a move into full icebreaking Arc7 tonnage. The Busan-based company says it currently has four Arc4 LNG carriers under management, with plans to add three to six Arc7 vessels in 2027, followed by additional Arc7 newbuilding management from 2028. The four 174,000 cu m ships have been identified as the North Moon, North Light, North Ocean and North Valley . All were built at Hanwha Ocean in 2024 and 2025 for Mitsui OSK Lines. The quartet traces back to a 2021 project in which MOL, through a subsidiary, signed time-charter contracts for four LNG newbuildings with NOVATEK Gas & Power Asia, a wholly owned unit of Russia’s Novatek. Three of the ships — North Moon, North Light and North Ocean — were placed on the European Union sanctions list in May 2025 before being removed two months later. The vessels subsequently spent extended periods idle amid uncertainty around Russian LNG trades. IOB describes itself as an Arctic LNG shipmanagement specialist covering technical, marine and QHSE, crewing and shore-based operational support. Despite only beginning operations this year, the company says its team brings 13 years of accumulated LNG fleet-management experience.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "510f61c183d4",
+   "title": "Klimczak (MI): Port Polska w 2032 roku, nasze lotniska rosną jak na drożdżach",
+   "original_title": "Klimczak (MI): Port Polska w 2032 roku, nasze lotniska rosną jak na drożdżach",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNTFkSjBuRkRoREs2YnB1dktiLTNUelh1RWFfdnVpOEpUb3I1dVhaekJJUTMxREE1Rk5tMkhyWHhDYzZONGZUbE5IVWU0dnBydFljOWpiVXdvTDNldEg5RmY5dXZ0TXpVNV93OHlqcUxuQ2wyaS1ScjFQT21RenFsUEZiZVRNWTBna0ZhMjlOR2l3T1hPQUE0TGZNamNfZ3M2VGVsTGoxRVFRc2xrYUhWN0JtS09SZXliZzl6VFpUQkZuUEE?oc=5",
+   "source": "Rynek Lotniczy",
+   "published": "2026-10-07T07:40+00:00",
+   "added": "2026-10-07T07:52+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Klimczak (MI): Port Polska w 2032 roku, nasze lotniska rosną jak na drożdżach Rynek Lotniczy",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a9b888fd9f1d",
+   "title": "From Marine Biomass to Marine Fuels: India’s Emerging Opportunity",
+   "original_title": "From Marine Biomass to Marine Fuels: India’s Emerging Opportunity",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYXp6a3ZodDVzQVotaVNXYXIwUW5zWFQ0ejNuN2NvYnQzaDZjb011bTZoeTZlVFNreXI2N3pxd1VBeGhxU091VzJZX0NLY3dvRWJsLW5JUXZaTl9IZWQyODBXd19ycVlZRmd2eEt1YXl1NXRtUzRsdFdieExMT3ZIdTFYSUlEd1lFRFJWQ3hpemg0VDdZU3FQbThCS0FxVzlFa3Y1bi1R?oc=5",
+   "source": "orfonline.org",
+   "published": "2026-10-07T07:35+00:00",
+   "added": "2026-10-07T07:52+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "biomas",
+    "biomass"
+   ],
+   "summary": "From Marine Biomass to Marine Fuels: India’s Emerging Opportunity orfonline.org",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "eadf7b52ade5",
    "title": "Aframax Rio blaze underscores widening Black Sea threat",
@@ -129,6 +211,31 @@
     "terminal"
    ],
    "summary": "Azerbaijan's Baku Port to put up new container and fertiliser terminals Baird Maritime",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d3f89dff4b7c",
+   "title": "Port Praski będzie rósł przez lata. Teraz 1270 mieszkań, później wieżowce",
+   "original_title": "Port Praski będzie rósł przez lata. Teraz 1270 mieszkań, później wieżowce",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR19tZDJNZXViTEp5OFR3YjAxRGoxYWRjd1hPSGU4Um9fT0hta3ZVZ0hyeFZTbzZBWW50OUVsN1ZHTW1iWXFVbTA5NWRfUTRWcHVMa2dHR3k2d0NfUGU4QkdsVU5QSHZVX3lTbHg2Y3RMcVQ2LVpQMUQtV1pyak9hMHZmWTd6bldGUzR4OHlqRS1ZelhoS0ZXbHRLTkg4LWlkUHU4NDdVQktTVHFLZmpPZXFldGdzNUpza1A4WXMzVnFOQlJxS2s0SVZn?oc=5",
+   "source": "TVN24",
+   "published": "2026-10-07T05:26+00:00",
+   "added": "2026-10-07T07:52+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port Praski będzie rósł przez lata. Teraz 1270 mieszkań, później wieżowce TVN24",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -16426,120 +16533,6 @@
    ],
    "summary": "Polska Żegluga Bałtycka ma zaległości wobec portów w Szwecji. Armator zapowiada spłatę zobowiązań transinfo.pl",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "33d7c6708db0",
-   "title": "LNG Canada to use Chinese steel on $33B expansion project in Kitimat, B.C.",
-   "original_title": "LNG Canada to use Chinese steel on $33B expansion project in Kitimat, B.C.",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1aQWZEN010RG42dmduWFFRX0QtS3E0NTFRSl95bVV3QjJJTUdVQndiZ3ZQVG9ZSlVRWlpjU1JkcEw3WEl6VmVEZWFndXBFSWkyOFE4WFM2VzctOHU5U3A3dmNRaEdHMVRDc180U2t2UFFwNHMybVlacXdB?oc=5",
-   "source": "CBC",
-   "published": "2026-10-02T17:51+00:00",
-   "added": "2026-10-02T18:45+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia",
-    "North America"
-   ],
-   "tags": [
-    "chinese",
-    "lng",
-    "steel"
-   ],
-   "summary": "LNG Canada to use Chinese steel on $33B expansion project in Kitimat, B.C. CBC",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a3f99a806aed",
-   "title": "Dutch PM Rob Jetten Visits Maasvlakte to Discuss Port Logistics and Investment Climate",
-   "original_title": "Dutch PM Rob Jetten Visits Maasvlakte to Discuss Port Logistics and Investment Climate",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTEV1alc4MFFtalRiM09UYlhuN0xTZ1U2Q3JHVXZ1eUtGVlhQd0hDbm5XSHJDaFJKOEhQZjhZcTBjSUxPc0J5aW5vQUQ5LVY5TjZna05leTRqUUc1ajhHSm84N1dyZUdFYlpiUnlETElEa2hzVzhHRUFZVWx5dTdVdEVRQ2RjM09MZlRoYnlDeld3eE5KUGhDMjE3cm5adWNnVVB6WXhxWktIQWVKYjhIY293T1JFUXc?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-02T17:41+00:00",
-   "added": "2026-10-02T18:45+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "logistics",
-    "port"
-   ],
-   "summary": "Dutch PM Rob Jetten Visits Maasvlakte to Discuss Port Logistics and Investment Climate IndexBox",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fde7a24bd454",
-   "title": "Port Congestion Ties Up 12% of Global Global Container Shipping Capacity",
-   "original_title": "Port Congestion Ties Up 12% of Global Global Container Shipping Capacity",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQalZMY09LWkVMSHR5NU1FamtvQ3Btck00Q1BRdE5Ncm8ycEpueS1IZE5KSXVJR2FHVE00anlWZDBwbWF6ZEw4RUF4R0JuaHJsUXZiaEFkQ3NCN05TX0FrV3FMVEFORVZINF9jNEViS3lkX2JNUmNVbDJlLW9wakZrT2c4bS0tSUZFa1JHQmNhZU93bXA4M3NZQw?oc=5",
-   "source": "gCaptain",
-   "published": "2026-10-02T17:23+00:00",
-   "added": "2026-10-02T18:45+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "congestion",
-    "port",
-    "port congestion",
-    "shipping"
-   ],
-   "summary": "Port Congestion Ties Up 12% of Global Global Container Shipping Capacity gCaptain",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dba5cb3953fc",
-   "title": "EU backs €170m aid for Bulgarian farmers amid surging fuel and fertiliser costs",
-   "original_title": "EU backs €170m aid for Bulgarian farmers amid surging fuel and fertiliser costs",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVERFRmVidUM1cmdKUEZkdERlSFduZ1Q1X0ZBMGtFTVlFX1NNcDBycGJlN2RRMk9XLWpwLUF3VGRzTElHMGg2UzRRTXdrMFk1MWpEamkwNXJrdkVSSEJ2d0pOckZlUzYxOXJMNnFESkI5MVl2NlY0aVhlVHFaRld6d193Yk5udnloeDVBTVIybFIzQTdZaVlqVm94X2p0Wm1yR1JEVWtRTjNFZ243NVViT3A2ZXVoTGNaeVJxUTk2U1FEa2x2Nmln?oc=5",
-   "source": "The Brussels Times",
-   "published": "2026-10-02T17:18+00:00",
-   "added": "2026-10-02T18:45+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Central & Eastern Europe",
-    "EU institutions"
-   ],
-   "tags": [
-    "brussels",
-    "eu ",
-    "fertiliser"
-   ],
-   "summary": "EU backs €170m aid for Bulgarian farmers amid surging fuel and fertiliser costs The Brussels Times",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
