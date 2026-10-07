@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T19:02+00:00",
+ "generated_at": "2026-10-07T19:25+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13444,6 +13444,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "019378ca358f",
+   "title": "Poland and Romania resist Ukraine’s push to expand grain transit routes",
+   "original_title": "Poland and Romania resist Ukraine’s push to expand grain transit routes",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTEd0eXdfWW4zLUpINjl5cmNoYVpqbkpyWk9lZC1RQkxWMktibzBheGFnRk9YWUU2ZnFkSlhSbWJ1UFR0emwzTU52OHpmSmZUXzhPbktJb3lwZm1MenB2OW9makttOVJoVTJobUZfd3VvUURUaDlIZHpmRlFVaW8teXB6RThCY2tuMnBmZ3oyS1pMUQ?oc=5",
+   "source": "TVP World",
+   "published": "2026-10-05T11:18+00:00",
+   "added": "2026-10-07T19:25+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland",
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "poland",
+    "ukraine"
+   ],
+   "summary": "Poland and Romania resist Ukraine’s push to expand grain transit routes TVP World",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a662991c0c4d",
    "title": "World Bank Says Middle Corridor Needs More Than $55 Billion by 2040",
    "original_title": "World Bank Says Middle Corridor Needs More Than $55 Billion by 2040",
@@ -16527,37 +16557,6 @@
    ],
    "summary": "This year’s IMO theme for World Maritime Day is “From Policy to Practice: Powering Maritime Excellence”. Can you tell us what this actually means from a shipowners’ and managers’ perspective? For owners and managers, it comes down to what happens once new requirements or standards are introduced following the adoption of international regulations. This is where The Bahamas Maritime Authority, as a Flag State, has an important role to play. Equally important is the feedback we receive from owners, managers and seafarers, who are often the first to identify what works well in practice and where challenges may arise. As regulation becomes more complex, how can Flag States help owners in understanding the changes? One of the key responsibilities of a Flag State is to provide clarity, ensuring that stakeholders understand their obligations and can achieve compliance without unnecessary disruption to operations. Today, the Greek-owned fleet under the Bahamian flag comprises more than 275 vessels, representing approximately 13 million gross tonnes. For The Bahamas, our role as a Flag State is to remain actively engaged within the IMO, ILO and other international bodies while working closely with owners, managers and industry partners.",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "0a5a42f8006e",
-   "title": "Drewry: Intra Asia Container Index Up 2% Last Week",
-   "original_title": "Drewry: Intra Asia Container Index Up 2% Last Week",
-   "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-up-2-last-week/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-04T21:00+00:00",
-   "added": "2026-10-04T21:31+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "carrier",
-    "congestion",
-    "disruption",
-    "port",
-    "port congestion"
-   ],
-   "summary": "Drewry’s Intra-Asia Container Index (IACI) edged up 2% this week to $1,518 per 40ft container. The IACI Composite Index reached an all-time high for the sixth consecutive week, as typhoon disruption and port congestion tightened capacity. Carriers used blank sailings and port omissions to limit capacity, while higher operating costs added to upwards pressure on rates. IACI hits another record high • The Drewry Intra-Asia Container Index (IACI), the benchmark widely referenced by procurement teams, edged up 2% this week to $1,518 per 40ft container. • Spot rates from China to Southeast and South Asia strengthened this week, supported by strong pre-Golden Week demand, tighter effective capacity and ongoing network adjustments following operational disruptions. Shanghai and Ningbo continued to face vessel bunching and schedule delays, with average waiting times reaching 82 hours and 56 hours, respectively, in Week 39. Drewry expects rates to stabilise in the coming weeks as the Golden Week volume dip helps clear backlogs and ease rates on some Southeast Asia routes. • The intra-Asia container freight market has remained resilient this year, with the index up 212% YoY, supported by higher bunker costs and ongoing geopolitical disruptions. Drewry’s Intra-Asia Container Index (IACI) reports actual spot container freight rates for major intra-Asia trade routes.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "extract"
   }
  ]
