@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T19:25+00:00",
+ "generated_at": "2026-10-07T19:45+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -39,6 +39,35 @@
    ],
    "summary": "Baltic index slips as Capesize slump spoils smaller vessel gains Baird Maritime",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bdd441caf818",
+   "title": "Security concerns scupper COSCO's buyout of German logistics firm",
+   "original_title": "Security concerns scupper COSCO's buyout of German logistics firm",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUtJSG93OFRIYUphVG1FVVdQWjk5NE1UdWtwcjZsRUdzdXlVVVp1SlF0dEJFMExCS29jY0tjQ01NOFdxMlJSdUFLdVdxaGVOM0hsMXJJc0pFWHA5ZGpod3RmNTN0TTg4VmtWOGpjYThrZkhvWmdCTUJnWkJtSFctNVdQQ1VDQ082cDNYVjR0NG8zYUhDSkFnT1NTbUkwclM1NG1UbUR30gGzAUFVX3lxTE1SU0xHZDN5bnBBYXpYbWVMRDhXUkZRODNmQ214OEIzMUlVYV9LUG1oRkFINjdhOXVzN1N2elVQVTRieEVpZGlrY2FZdDQ4b0t6SzlLUnNPNG9hTDNYUUhPTm5BQW1aNnhzb2NpRFNNYXlLSTQyWm1NWFhJaHQyNTlRY3Utcm9tYVVWYlMzZFlVZUxOemdaaHJoQjhITElDNHNwTVhUcHJaQ1pnSXhPX2RZX2s4?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-07T18:11+00:00",
+   "added": "2026-10-07T19:45+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "buyout",
+    "logistics",
+    "security"
+   ],
+   "summary": "Security concerns scupper COSCO's buyout of German logistics firm Baird Maritime",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -16526,37 +16555,6 @@
    ],
    "summary": "Japan’s K Line has been linked to another pair of LNG carrier newbuildings at Samsung Heavy Industries worth KRW672.2bn ($494m). Samsung disclosed on Friday that it had secured an order from an unnamed Asian shipowner for two LNG carriers, with delivery of both ships scheduled by the end of May 2029. Shipbuilding sources identify Kawasaki Kisen Kaisha as the owner behind the order, with the ships understood to be headed for employment with Mitsubishi Corporation subsidiary Diamond Global Energy. In May, K Line named the 174,000 cu m Diamond Gas Jade at the same yard. K Line has been particularly active in taking LNG tonnage out of Samsung this year. In September, it named another 174,000 cu m unit, Toho Emerald , jointly owned with Toho LNG Shipping through Singapore-based T.K. Samsung has had a standout year in the LNG sector. Including Friday’s order, the yard said it has secured 20 LNG carrier orders in 2026, helping take commercial ship orders to $8bn. K Line has identified LNG shipping as one of the businesses driving its growth, targeting additional long-term contracts as it expands exposure to major energy companies and LNG projects.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "914128429b61",
-   "title": "From Regulation to Implementation: Why the Flag State Matters",
-   "original_title": "From Regulation to Implementation: Why the Flag State Matters",
-   "url": "https://www.hellenicshippingnews.com/from-regulation-to-implementation-why-the-flag-state-matters/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-04T21:00+00:00",
-   "added": "2026-10-04T21:31+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "shipping",
-    "equipment",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "alternative fuel",
-    "digitalisation",
-    "regulation",
-    "shipowner",
-    "shipping"
-   ],
-   "summary": "This year’s IMO theme for World Maritime Day is “From Policy to Practice: Powering Maritime Excellence”. Can you tell us what this actually means from a shipowners’ and managers’ perspective? For owners and managers, it comes down to what happens once new requirements or standards are introduced following the adoption of international regulations. This is where The Bahamas Maritime Authority, as a Flag State, has an important role to play. Equally important is the feedback we receive from owners, managers and seafarers, who are often the first to identify what works well in practice and where challenges may arise. As regulation becomes more complex, how can Flag States help owners in understanding the changes? One of the key responsibilities of a Flag State is to provide clarity, ensuring that stakeholders understand their obligations and can achieve compliance without unnecessary disruption to operations. Today, the Greek-owned fleet under the Bahamian flag comprises more than 275 vessels, representing approximately 13 million gross tonnes. For The Bahamas, our role as a Flag State is to remain actively engaged within the IMO, ILO and other international bodies while working closely with owners, managers and industry partners.",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "extract"
   }
  ]
