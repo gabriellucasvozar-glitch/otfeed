@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T05:36+00:00",
+ "generated_at": "2026-10-07T05:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,37 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "7e49491ab5e0",
+   "title": "Twelve injured in latest Hormuz attack",
+   "original_title": "Twelve injured in latest Hormuz attack",
+   "url": "https://splash247.com/twelve-injured-in-latest-hormuz-attack/",
+   "source": "Splash247",
+   "published": "2026-10-07T05:55+00:00",
+   "added": "2026-10-07T05:55+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Middle East",
+    "Latin America"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping",
+    "vessel",
+    "war"
+   ],
+   "summary": "Twelve seafarers have been injured after the Panama-flagged tanker On Peace was struck by a projectile while transiting the Strait of Hormuz yesterday, the latest casualty in what has become the most intense spell of attacks on commercial shipping since the US-Iran war began in February. The vessel, owned by Dubai-based Onex, was carrying 19 crew, 17 of them Indian nationals. Eleven Indians were among those injured. Onex ordered the 2021-built 114,600 dwt ship at Hyundai Samho for $57m in 2019 as part of a three-ship package. The attack follows a remarkable cluster of incidents around the strait in recent days. On October 5, another tanker north of Khasab was ordered by Iran’s Islamic Revolutionary Guard Corps to turn around or face being targeted; the master complied. Since late February, 93 ships have been hit and 24 seafarers killed. Tanker captains are reportedly being offered as much as $100,000 a month plus $50,000 per Hormuz transit, with some crew earning multiples of normal wages. War-risk insurance for individual tanker voyages has climbed to as much as $20m, while extreme voyage economics have pushed some tanker earnings towards $1.3m a day.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "93adbb1ed286",
    "title": "Porty w Gdańsku i Gdyni zwiększają przeładunki. W regionie rośnie zapotrzebowanie na obsługę logistyczną",
@@ -16509,33 +16540,6 @@
    ],
    "summary": "At Great Lakes Ports, Steel Is Slowing Even As Trump Hails A Comeback Urban Milwaukee",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0c2a032d2fc0",
-   "title": "Canadian steel faces tariffs, layoffs and cheap imports — but industry insiders see a way forward",
-   "original_title": "Canadian steel faces tariffs, layoffs and cheap imports — but industry insiders see a way forward",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQaUM4OUhoZTVaRUNjSXNQV0ZlMlBfOEoxVXdmVUVNZkpHd3ZEc1lxNzhla0xvY2tjT1hPRGQ3Z3hBUnU3R0lDUm9GNVVURTdqRUtvd3pTM09ZTEh0Y1RfX0xTY250dlUwWWxZUjAwckc1YWc4NEd3RHBRYXlINFlaUGNIa2pISlVqTnRfUlhXWTZQTHZvQzNhSHhSWVp6Qmt2OUsweGJlRW81Umo0MmotMFo5a1B6cVM0WG5JOVFWLTlDLXFTRHFsSlVTb1BKb2dJR3FiRENTaE5BXy1IVmhDdEptU2FxWTdhRlpPamp1R0l4dnFWQTNmWlQ4Q00zMHpvdG5LOA?oc=5",
-   "source": "Toronto Star",
-   "published": "2026-10-02T16:52+00:00",
-   "added": "2026-10-03T02:51+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "steel",
-    "tariff"
-   ],
-   "summary": "Canadian steel faces tariffs, layoffs and cheap imports — but industry insiders see a way forward Toronto Star",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   }
  ]
