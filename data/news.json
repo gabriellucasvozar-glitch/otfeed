@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T23:34+00:00",
+ "generated_at": "2026-10-07T23:52+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "3a24d015c5c8",
+   "title": "Shore power dramatically cuts emissions at ports – but will anyone use it?",
+   "original_title": "Shore power dramatically cuts emissions at ports – but will anyone use it?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEZEUmhmc1N6ZzRUQnlYc2ZqTkRldFlQMWNhQWgyUzJBRUZPN1dLakFXNjJzSTlzajdPQnBRd3ZxemtVeFV5UWh0d2dXd2lmb1dtYnVMRl9XQ0V3akZsVlBjdTJFR3lvRWFfNkJuSE1nVEhpUUdsb0pkc0hpc25nSTI5SUhfU3R3WkdiUkROVDI3WnlHb3V2Wlk2YjByQkwxSWxHczlB?oc=5",
+   "source": "Electrek",
+   "published": "2026-10-07T23:42+00:00",
+   "added": "2026-10-07T23:52+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "ports",
+    "equipment"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "shore power"
+   ],
+   "summary": "Shore power dramatically cuts emissions at ports – but will anyone use it? Electrek",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "e6c591dc8868",
    "title": "Fortescue Flags Softer Iron Ore Shipments and Higher Net Debt Amid China Sales Talks",
@@ -16551,32 +16579,6 @@
    ],
    "summary": "Hansa Dock quay renewal and concession area expansion project dataportuaria.com",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "19565754e593",
-   "title": "Italy's Gioia Tauro Port awards channel dredging contract to Spanish firm",
-   "original_title": "Italy's Gioia Tauro Port awards channel dredging contract to Spanish firm",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWklXcTBabDQ4SndXYmtJV2RDTnRPMUVtSlFaaTFQT0RraUNGUkYyZjUxUG5ZZFhJSnFsdHI5bmpZM01oaDJqQjN6X0pqWk1CbDBEUk1TWEYtU3pFaDFHbldwT2RMLUIzVU56Ykh6a0FTQTRhVGEtbnc3UWlOQkg0Q1hKUi1rMER3Z0paUk4weDfSAZ4BQVVfeXFMTnhfaXFTQ3BiY0N4SlIwOGVMNTBjVUlNWkZCZ29PX3RFd2liVzU1ZGRRaVVMZVdvRXFZOUtEV3NkblVnMV8ycktneDhqdGdHX0VHNm1JWW1XbnpkM2dCOFE3MXlLLThPbFdwc2ZETTdxcUN4UWRkeDdNb1RoVVpEdTRJVmZkamdJNmo3WjhEVHZZVG4wUHpVdEVBYWJBRnc?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-10-05T05:37+00:00",
-   "added": "2026-10-05T07:50+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "dredging",
-    "port"
-   ],
-   "summary": "Italy's Gioia Tauro Port awards channel dredging contract to Spanish firm Baird Maritime",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
