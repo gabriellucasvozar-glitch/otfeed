@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T11:48+00:00",
+ "generated_at": "2026-10-07T12:06+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,67 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6ef226cb0aa2",
+   "title": "JP Morgan-backed NOCC expands China car carrier programme",
+   "original_title": "JP Morgan-backed NOCC expands China car carrier programme",
+   "url": "https://splash247.com/jp-morgan-backed-nocc-expands-china-car-carrier-programme/",
+   "source": "Splash247",
+   "published": "2026-10-07T12:00+00:00",
+   "added": "2026-10-07T12:06+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Baltic & Nordics",
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "china",
+    "lng",
+    "vessel"
+   ],
+   "summary": "JP Morgan-backed Norwegian Car Carriers (NOCC) has expanded its newbuilding programme in China, adding another pair of 7,100 ceu ships at CIMC Raffles. Shipbuilding sources place the latest vessels at the group’s Yantai Raffles facility for delivery in 2030, extending a relationship that has already produced four LNG dual-fuel car carriers for the Oslo-based tonnage provider. The latest pair would take NOCC’s confirmed programme with CIMC Raffles to six ships. In addition to two 7,100 ceu units listed as hulls 641 and 642 for delivery in 2030, the databases show another two ships, hulls 651 and 652, against NOCC for delivery in 2030 and 2031. Schulte Marine Concept, which is supervising construction, said last month that hull 612 was the fourth ship in the four-vessel series and is scheduled for delivery in June 2027. Splash tracked NOCC’s expansion at CIMC Raffles last December when chief executive Olav Sollie revealed that the company had signed for its fourth vessel shortly before the end of 2025. That ship followed an initial pair contracted in 2024 and a subsequent third unit. NOCC operates as a tonnage provider, chartering its vessels to global and regional car carrier operators.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "51ac860043ac",
+   "title": "Black sea blockade: Ukraine to lose 30 mln tonnes of agri exports",
+   "original_title": "Black sea blockade: Ukraine to lose 30 mln tonnes of agri exports",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSktNU3ViRDB2R0RIUkY0ZVROcU0xVlFkS2l1TFE4NnhFWWloOEpld3hVaVpYemxhT3hGVHdlblFfLTFrVm9FZENKczUtTGoyTHJITUZyQmxfUWtwNGxvUHd6cFY2d1R3bXdkRGhkUENJN0M5Rm1uTnd2eUtBV1VjMHktZ3duOG1rbjZ1dm5GRWlQcWQ0VGtnRW5jY0lNdm5VT3JMN28tMTVxb3RZZEE?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-10-07T11:49+00:00",
+   "added": "2026-10-07T12:06+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "agri",
+    "black sea",
+    "shipping",
+    "ukraine"
+   ],
+   "summary": "Black sea blockade: Ukraine to lose 30 mln tonnes of agri exports Shipping Telegraph",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "0ebd0bcf3230",
    "title": "Bad weather creates headwinds for trade between the Americas",
@@ -1291,6 +1352,31 @@
    ],
    "summary": "Ukraine Considers Rail Route to Export Grains Via Moldova Data Portuaria",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "95d5ac182204",
+   "title": "[India Domestic] India’s domestic steel market sentiment remained mild",
+   "original_title": "[India Domestic] India’s domestic steel market sentiment remained mild",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzl3V2ZBdkUtLVo5bkM1TVhFd0gxQmlQTHZfako0VXprWGU3ckI3UDJJVThMNFp3ZlNfd3FGR0ZnZFlsRUItcTQwN2VJSktmNGFhQzI0dUJvX0diTkluTjI4eS1GdkZBOTlvbEh5RlJqSmFwZXNuOHhqRTN0cnpSNnFadGRzdHp2Y090d2NrcHVqSkZGWFU4Nm43TnNCLXNudTk2TlAxUGdVc2FzNlJKZGpKY2VJMWpu?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-07T08:22+00:00",
+   "added": "2026-10-07T12:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "[India Domestic] India’s domestic steel market sentiment remained mild Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -11060,6 +11146,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "daea891d7aca",
+   "title": "Russian Strike on Liberian-Flagged Ship in Odesa Port Kills One, Injures Three",
+   "original_title": "Russian Strike on Liberian-Flagged Ship in Odesa Port Kills One, Injures Three",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlJzNTJrdlNWazFwX194YVdZZlFiZ1NkVGtucU0zaVN3WWNfNG9CTEdOeDB4V09TYWl1UXZocS1IbmtkcG84RFVueFk1WDVzeTRfaFRzeGdVcmp2U2ZqdGMzMHIxTW5icU5yUEQ5bElkMXBaVU1VMUR2MDFHOFJMMEVGa0h6dFN6X25Pb0wtY3M1dUFGNzB3MGtpNmY3azZxbGhKUG5mTUZXS2s?oc=5",
+   "source": "Ships & Ports",
+   "published": "2026-10-05T12:41+00:00",
+   "added": "2026-10-07T12:06+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "russia",
+    "russian"
+   ],
+   "summary": "Russian Strike on Liberian-Flagged Ship in Odesa Port Kills One, Injures Three Ships & Ports",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e7a7d257521b",
    "title": "Maersk completes first U.S. ethanol bunkering of a deep-sea container vessel",
    "original_title": "Maersk completes first U.S. ethanol bunkering of a deep-sea container vessel",
@@ -16433,115 +16549,6 @@
    ],
    "summary": "PE in oil, gas, coal hits $14.7B, topping 2025 total scanx.trade",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b7b0943b4b86",
-   "title": "Port of Szczecin daily activity",
-   "original_title": "Port of Szczecin daily activity",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zd3k1RzloM2xLWHRIcThkMy1DUi1ES0tfZm9yc2tuYkx6N0pwVGJlamUtQlQ5WGNPM202ZjVvUHZodGtDT2xvM3Bva1o2ZVVNbHVfb0Fnc1NCbkRET0VIYXRWczdJT2JJTVRDRlZIdU1UeXhI?oc=5",
-   "source": "El Estrecho Digital",
-   "published": "2026-10-03T22:37+00:00",
-   "added": "2026-10-04T04:17+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "high",
-   "score": 8,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "port",
-    "szczecin"
-   ],
-   "summary": "Port of Szczecin daily activity El Estrecho Digital",
-   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4fb146376c56",
-   "title": "Truck Loading Devices Market Forecast to Expand by 2035, Driven by Warehouse Automation and Safety Mandates",
-   "original_title": "Truck Loading Devices Market Forecast to Expand by 2035, Driven by Warehouse Automation and Safety Mandates",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT3hQcmItdkF3UWhqS0l3MF9mTGNQa3M3a0NCWF94Y2FoNTB0czJUOGVQOU1FLUE3cnd4SV84azZ1LWJVU2tSQ1pTdTVSQ0dmWE1jWS1vYktOZXBiZkVsVEwtbnI1OE5pdEFPZ0pONGg2Q0RMcDJQMU5YZTJuM1R3TG5mdi11ZGlHVW1YaTdCU3pVeG05dklKZWFlRU1WdkpmUk5FcGFpZXhwdF8xZ285Smc2YjVEOFM5dzM3b0V2d2cxMzBsMnhzLVNRWEhaVlA5LVE?oc=5",
-   "source": "indexbox.io",
-   "published": "2026-10-03T21:46+00:00",
-   "added": "2026-10-04T22:11+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "automation",
-    "warehouse"
-   ],
-   "summary": "Truck Loading Devices Market Forecast to Expand by 2035, Driven by Warehouse Automation and Safety Mandates indexbox.io",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ec609475b0b9",
-   "title": "'International sponsor of war'? Greek shipping tycoon defies Iran in Strait of Hormuz",
-   "original_title": "'International sponsor of war'? Greek shipping tycoon defies Iran in Strait of Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vNzhsRkZzLTU3SkRZYUlBQWZYanBDOU9oWHdVMmhwZm5Sam9HOVhYc1JxdkpMemthUWh2Y2pFcjROQWZXZWJKemhmN0NYVlNCZEhTSUFCZUY1UnhwbmpFTG13?oc=5",
-   "source": "Ynetnews",
-   "published": "2026-10-03T20:51+00:00",
-   "added": "2026-10-07T10:49+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "shipping",
-    "war"
-   ],
-   "summary": "'International sponsor of war'? Greek shipping tycoon defies Iran in Strait of Hormuz Ynetnews",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2cad7fa1db50",
-   "title": "China suspends container shipping to Europe via Northern Sea Route until summer 2027",
-   "original_title": "China suspends container shipping to Europe via Northern Sea Route until summer 2027",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHhsMzJtb1YxSDZjNU1ZbzZtYVZnb3pqOTNERy1IMnZCNFdkb3otQXdfTXRFWTN5azVETThkbzJhTmctWUlBSU9HRVBoZTJlV1N6YUpEUG9Gd2Nzd010QUpOSzFFVmlEZndYWTdzNHVrVkwyR0UxVWVBUmszNldPRVJVX1pkOFpINDlFTGszdUlRRnhmeXhROVhOSDR1NkdaejFXSXBwOXY?oc=5",
-   "source": "Latest news from Azerbaijan",
-   "published": "2026-10-03T19:26+00:00",
-   "added": "2026-10-04T21:52+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "shipping"
-   ],
-   "summary": "China suspends container shipping to Europe via Northern Sea Route until summer 2027 Latest news from Azerbaijan",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
