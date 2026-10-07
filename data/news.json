@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T07:52+00:00",
+ "generated_at": "2026-10-07T08:12+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6f4c61140b07",
+   "title": "Iraq devalues its currency as Iran-U.S. war disrupts oil shipping routes",
+   "original_title": "Iraq devalues its currency as Iran-U.S. war disrupts oil shipping routes",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUzBya01lTm44QWhwZ3RRaTJqZmJMbU9LVDZLVDMzdU9KOXZKRmJHNHZfREZzUTB3MUpRTjI4WnBtdWNVYlhBOUt4UzVrNTNUNktHcjU5MThSUEJtZi1WVTBSN3c0RnBTNmlrMU0zZGpjbkVxaVJBMzJ4SmY2UFNzUTRDdXczNjgxbGhfYkhjemFpdGpZTXFqZGl5ZGxOZktSblZGVXBGaXloTjBMWl9hdVFIcnk1QU16dnhsYkJNLVNsSE92dlZHbWx3RFlHTlBFN01lZkFyV2N0eksxYmlrZUI5WDBHQ1huajNvRVlYLVhtMW5zdC0tNGJVODk?oc=5",
+   "source": "Toronto Star",
+   "published": "2026-10-07T08:02+00:00",
+   "added": "2026-10-07T08:12+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "shipping",
+    "war"
+   ],
+   "summary": "Iraq devalues its currency as Iran-U.S. war disrupts oil shipping routes Toronto Star",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "5b1320e2cdf7",
    "title": "Busan shipmanager launches Arctic LNG fleet push",
@@ -96,6 +123,58 @@
    "summary_method": "feed"
   },
   {
+   "id": "033769b1a170",
+   "title": "ETCS on European corridors: three corridors are lagging far behind EU targets",
+   "original_title": "ETCS on European corridors: three corridors are lagging far behind EU targets",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYS1LVEZqZ1U1bVdfb3MwV2hlUEhrUHBJU05KenhoRmw4SllPbm44SkxhM04tY3pDcm9reW1GTHFJb3ptbjU3MGQwSzdDWUlfMDl2Q0xNU2g4aFFqVjRTbFJTY3p3SkN3ZG9CY2F5Rjg4UElOcUR0bHdzSXRaZWx5VFdTVTlUV3hJVUVHVEFn?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-07T07:20+00:00",
+   "added": "2026-10-07T08:12+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "railway"
+   ],
+   "summary": "ETCS on European corridors: three corridors are lagging far behind EU targets Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ab594211859d",
+   "title": "MinRes ramps up Lamb Creek iron ore mine with seven million mt annual capacity",
+   "original_title": "MinRes ramps up Lamb Creek iron ore mine with seven million mt annual capacity",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeW5DZVprdzgzanVvXzFBTkZXMDRES1hza05WbDFLRzV2NHpaTGttM0hmRkxKMGdjQ25iMWNOOUpPem1lNGsxc1hQOHdpYWxZSHVKZDkzSFNkbGFUM2hxYTBpREt2UllmOVdOZ254eEV2ME9pRHg3MzZBTmMxNDV1dndZc1hhRzgxM1AxQnhrbEpoUnJoX2hPUFVwSC00NmNZSFk3Rld1RWgzeHpFMW5QT2hCeXgtdEVtaExGb0N5Z29lRjFjckVVU3pwZ2dWV3E3ZnU1VGw2bw?oc=5",
+   "source": "Steel Orbis",
+   "published": "2026-10-07T07:19+00:00",
+   "added": "2026-10-07T08:12+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore",
+    "steel"
+   ],
+   "summary": "MinRes ramps up Lamb Creek iron ore mine with seven million mt annual capacity Steel Orbis",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "eadf7b52ade5",
    "title": "Aframax Rio blaze underscores widening Black Sea threat",
    "original_title": "Aframax Rio blaze underscores widening Black Sea threat",
@@ -153,6 +232,33 @@
    ],
    "summary": "Crane Market Size is Expected to Reach USD 78.17 Billion By 2034 | CAGR: 3.85% openPR.com",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fd6aab4843a3",
+   "title": "Central Asia’s project pipeline tests Middle Corridor capacity",
+   "original_title": "Central Asia’s project pipeline tests Middle Corridor capacity",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORE5YbVdidjdULVN6TnRNdS1fS1NBZ2xZQVlrSHVQbWRkTTEyMnlOTTZhdmhCWFVGSnBVV0FYLTBJYk1kT0VIOTE0TGI1UzdmcENyNXRNWjRMbF9iYzIzekxWT2gxX1BXcjVPNjlSR3EtSlBIVDBvUkRUbVRDQUVhX1ZlS1pZRWVJMnNkOTJsRUxhNlhmaDBhNU81TEhwVS1IZmNNWnZJYXVnVm8?oc=5",
+   "source": "Heavy Lift & Project Forwarding International",
+   "published": "2026-10-07T06:06+00:00",
+   "added": "2026-10-07T08:12+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "forwarding",
+    "middle corridor"
+   ],
+   "summary": "Central Asia’s project pipeline tests Middle Corridor capacity Heavy Lift & Project Forwarding International",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -3312,6 +3418,33 @@
    ],
    "summary": "EU steel import quotas rapidly exhausted in opening days of Q4 period EUROMETAL",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "20e79b72d513",
+   "title": "Azerbaijan seeks to attract European and Chinese operators to develop Baku Port",
+   "original_title": "Azerbaijan seeks to attract European and Chinese operators to develop Baku Port",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVNRZGlCb3JGVi1mbTVLa1hEMzRZaGNsWWhNdFhjVFU4dWxmTVV2alF1VEd4X21pNVI2UHozVjh6YlZhS0dFSlREaEdQU0lEVjVJLS1neDEwSVNNUDBQUFgxRWRiaVBXRkVfVWJfakNLMTcwUFdtVW1rNmZObGRJbnl3bklxamd2UmE0eld4RVRLQUFkWEh0d1h4ajBLWncwdXNGNHUxdkRiS3hGelUzcVU2c0pIQy1maWRJ0gG7AUFVX3lxTE8tU1FkaUJvckZWLWZtNUtrWEQzNFloY2xZaE10WGNUVTh1bGZNVXZqUXVUR3hfbWk1UjZQejNWOHpiVmFLR0VKVERoR1BTSURWNUktLWd4MTBJU01QMFBQWDFFZGJpUFdGRV9VYl9qQ0sxNzBQV21VbWs2Zk5sZElueXduSXFqZ3ZSYTR6V3hFVEtBQWRYSHR3WHhqMEtadzB1c0Y0dTF2RGJLeEZ6VTNxVTZzSkhDLWZpZEk?oc=5",
+   "source": "Report.az",
+   "published": "2026-10-06T11:43+00:00",
+   "added": "2026-10-07T08:12+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "chinese",
+    "port"
+   ],
+   "summary": "Azerbaijan seeks to attract European and Chinese operators to develop Baku Port Report.az",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16396,142 +16529,6 @@
     "logistics"
    ],
    "summary": "CMA CGM says FedEx deal nearly triples CEVA's North American contract logistics footprint as forwarding and automotive weigh on its margin Container Management",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f554d1e4e918",
-   "title": "Six Vessels Hit in Strait of Hormuz Since Sunday",
-   "original_title": "Six Vessels Hit in Strait of Hormuz Since Sunday",
-   "url": "https://gcaptain.com/six-vessels-hit-in-strait-of-hormuz-since-sunday/",
-   "source": "gCaptain",
-   "published": "2026-10-02T19:02+00:00",
-   "added": "2026-10-02T19:24+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe",
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "vessel"
-   ],
-   "summary": "Vessels in the Strait of Hormuz, as seen from Musandam, Oman, July 31, 2026. REUTERS/Stringer Another tanker has been struck in the Strait of Hormuz, bringing the number of vessels reported hit in the strategic waterway since Sunday to at least six. UK Maritime Trade Operations said Friday that the master of a tanker reported being struck by an unknown projectile while conducting an outbound transit of the strait at 1122 UTC. The latest strike adds to a growing tally of attacks around the Strait of Hormuz over the past several days. gCaptain reported Wednesday that the delayed disclosures were adding to uncertainty over how quickly incidents in the strait were reaching the public record. Combined with the attacks reported Thursday and Friday, the notices bring the tally to at least six vessels struck since Sunday, September 28. The tanker captain summoned his years of experience when he saw the blast in front of him. He veered his 300-meter-long ship around the vessel ahead and could see a fire had started. He called the US Navy to tell them of the attack.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "d41651d7a76d",
-   "title": "Business leaders eye huge economic impact from Sky Harbor's first new terminal since 1990",
-   "original_title": "Business leaders eye huge economic impact from Sky Harbor's first new terminal since 1990",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOajNuTktRd0FfTVRkTjJqN3JGSVloeURNSDdLLXYzZVlsSlhfUkdNTGhKZDFQU0dDa0twcDNKRm1KbWZ0VGhnbWRRb1BScHdsbWVrdExpODJ1MVoyUjJyUE9yQVI4Xzg4ZGxpU19pN1VOanhrY1BpZ3o0S05CS01IaWJzNDBrSHJ4VllDeU9DWmV1QQ?oc=5",
-   "source": "The Business Journals",
-   "published": "2026-10-02T18:33+00:00",
-   "added": "2026-10-02T22:17+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Business leaders eye huge economic impact from Sky Harbor's first new terminal since 1990 The Business Journals",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "21516b54d148",
-   "title": "Baltic dry bulk index gains for second day, but posts weekly loss",
-   "original_title": "Baltic dry bulk index gains for second day, but posts weekly loss",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTJhRWF3V01lMWI4WlB2TzN0TF9ESmZYVndoNllicVlWRXlVc2ZiMGZLT2JXU2VzQldJS0RTNl9WS2Q1Yk80di1wZnpRNlhBanROdEtCTTV5U1RZZERNWW1QV1JhR3pyUnFXd0ZaX21HV2FidDZDUlEtNW1EbzZ3LVhOeFhJQkVTZmYtYTJkQ1RWRkh3a251RFQ3NFhCRWtBWV9TdDU0bnZWcm8wcUFNNEFQWmpmNVlBcXdjT0NB0gHLAUFVX3lxTE9haEg4eC02WTVnekFIUWx5V21fckdHNWVtQWlHZDNlenNFSXh1LWJkTHIyY0ZaVTh5WGhRWDlnX3lYVzVvd2JxVEJHS1lYZE9wVHVTRTdhLWw4Yi0wWDdTZEZLaEFNU1Q0SnhSNVl6VTBmZ3FEZ253UUY1M0laUFJwSE1mXzlTNGFaWU16NXBScjZOX3NBa3VXLXBhWkNOeHo0WGNsejlySkV3andsdUEySmYycnhsMl9aY09YMFRTUkU4X2g4bGt1Mk9j?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-10-02T18:30+00:00",
-   "added": "2026-10-06T23:34+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry",
-    "dry bulk"
-   ],
-   "summary": "Baltic dry bulk index gains for second day, but posts weekly loss Baird Maritime",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ba770a8c0d8e",
-   "title": "Belgium backs Mombasa Port as trade gateway, eyes new logistics deals",
-   "original_title": "Belgium backs Mombasa Port as trade gateway, eyes new logistics deals",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdkdpWHlVclZ2d3Y3QU1NNjduUzlxTHplQzZ4YUptS0lSX3JaTWMtS0lDeTY0UDk3LUo3N094R0RDeXE5MElaRzExZHdUZEpaT2hCQVhRLVloZzVfWEtvcGRpQ012WGJoMVRudHVZTFBabFpVZVp3VVhFWEMyVWpLS1V1LXpmQ1VLc1IwX3pmRmlSQU1uNDltNlU5TEtwbG03LUhvZzBkOXU?oc=5",
-   "source": "People Daily",
-   "published": "2026-10-02T18:24+00:00",
-   "added": "2026-10-02T18:45+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe",
-    "Africa"
-   ],
-   "tags": [
-    "logistics",
-    "port"
-   ],
-   "summary": "Belgium backs Mombasa Port as trade gateway, eyes new logistics deals People Daily",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1c389bff3f14",
-   "title": "Polska Żegluga Bałtycka ma zaległości wobec portów w Szwecji. Armator zapowiada spłatę zobowiązań",
-   "original_title": "Polska Żegluga Bałtycka ma zaległości wobec portów w Szwecji. Armator zapowiada spłatę zobowiązań",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT1c0ZlhHclgxcVQzN2lpaXlmY3BZc2VUTElOTTR2NjZUM3hGYmFVbVV3X1ZDVzNJY0I3RF94RkJ0YzNYa0JxSk5jemhCNWFpdXMySGJwQTBiWFYtZUxOQmZWZzZJU3JsREFuLTFEYWRURVJTTUc3cU5lTEtIWWUzYm5BdDZxR3R5cHFtT3BJOVdIelBNdzg3XzVFRmF4cXNWeGoxR0hIbGpvYTdudU05Y2p2T3JCdGxnUzRQcU50OUw4TlNGUlE?oc=5",
-   "source": "transinfo.pl",
-   "published": "2026-10-02T18:00+00:00",
-   "added": "2026-10-05T18:00+00:00",
-   "lang": "pl",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "armator",
-    "polska",
-    "zegluga"
-   ],
-   "summary": "Polska Żegluga Bałtycka ma zaległości wobec portów w Szwecji. Armator zapowiada spłatę zobowiązań transinfo.pl",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   }
