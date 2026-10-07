@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T11:05+00:00",
+ "generated_at": "2026-10-07T11:28+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -617,6 +617,56 @@
    "summary_method": "extract"
   },
   {
+   "id": "166bf94ca9ce",
+   "title": "MMI Daily Iron Ore Index Report October 7 2026",
+   "original_title": "MMI Daily Iron Ore Index Report October 7 2026",
+   "url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-7-2026/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:28+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "Seaborne indices and mainstream brand quotations continued to soften, although not every product declined. On Oct 7, the MMi 61% index fell to USD 91.25/dmt and the 65% to 109.70, with their spread widening slightly to USD 18.45. PB, Newman and Mac Fines each lost USD 0.40, while Jimblebar Fines and SP10 were unchanged. Global shipments were 35.9424 million mt in the week to Oct 2 as Brazil offset declines elsewhere; arrivals in China were 29.0943 million mt, down for a second week. On demand, hot metal output was 2.3882 million mt on Sep 30, with maintenance schedules and mill profitability continuing to influence buying intensity. The key after the holiday is whether lower prices generate sustained physical demand. Buying restricted to immediate needs could keep prices soft and range-bound amid ample supply. Conversely, lower coke costs, improved margins and concentrated restocking could ease downward pressure. Port transactions, hot metal and inventories should be assessed together rather than treating a one-day change in the grade spread as a trend signal.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "d12ab9285c6a",
+   "title": "Kraków opens 4.5 km fast tram extension to Mistrzejowice",
+   "original_title": "Kraków opens 4.5 km fast tram extension to Mistrzejowice",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ0tmMm1FS3hEY2ZadVdRYkNvRDQ5SEpFRkk5bHNqNDRLNUxRQnpMaWJBMHJzR0s2X0lLaWxEU2ZGRnBrMFhYVFltQ0JuOHJmRW1UdnpnVDdscTJTTU1xWnpJRGZVaW0taUFGNzJjUVp6cWhZTGVsSk10am1TSDlzRlpJbm9hUVI3LUZVNERPX05NZXdmWWVEZ2c2S243VS00ZHkwUzdDU1Q1dw?oc=5",
+   "source": "Railway Gazette International",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:28+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "Kraków opens 4.5 km fast tram extension to Mistrzejowice Railway Gazette International",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "2a90534b8d52",
    "title": "Argentine soybean meal trades above Brazilian for the first time since May",
    "original_title": "Argentine soybean meal trades above Brazilian for the first time since May",
@@ -778,6 +828,32 @@
    "summary": "Cyprus-based shipowner and fund manager Pelagic Partners has fixed its handysize bulker UBC Houston to an unnamed major commodity trader for up to 11 months. The 2015-built, 39,000 dwt vessel has secured a nine-to-11-month time charter at $17,250 per day, Pelagic said. The company did not identify the charterer. Pelagic acquired the vessel in June 2023 as part of an expansion of its dry bulk exposure. At the time, the acquisition took the fund compartment holding the ship to seven vessels and Pelagic’s total acquired fleet since inception to 18 units. The latest fixture gives Pelagic medium-term cover while leaving the ship open again next year. At the headline rate, the contract represents roughly $4.7m to $5.8m of gross hire over the nine-to-11-month window before commissions, off-hire and other deductions. In July, Oslo-listed Pelagic Credit struck a $47.4m sale-and-leaseback deal covering three Hartmann-controlled handysize bulkers, its first investment in the sector. The ships were placed on seven-year bareboat charters back to Hartmann.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "9d6c7006534d",
+   "title": "The Baltic states are calling for EUR 10 billion to fund Rail Baltica",
+   "original_title": "The Baltic states are calling for EUR 10 billion to fund Rail Baltica",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUWExalppcGUxbGRjc1RfUVZnQTlYb20tcWlWSE9jM25Db0RRSVR6NGd2Z0JCS0ZjN2JvZmNMS0dKZjNyR1J3OG1HN2NZdzI3cUVxeThtTnZtY1JxbS1ZdmEwYndpVEtyelA5bTEtc1BydFZoa1VaX2pCUTZXUGMxMjgya0NTTS0tZ2l6aVdPbDlsdGlxNEdEaFNmZVFSSlJIUHc?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-07T09:26+00:00",
+   "added": "2026-10-07T11:28+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "railway"
+   ],
+   "summary": "The Baltic states are calling for EUR 10 billion to fund Rail Baltica Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
   },
   {
    "id": "a31b2f6bccb5",
@@ -9563,6 +9639,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "9ba04dbf53c2",
+   "title": "AD Ports Group completes Brazil terminal operator acquisition",
+   "original_title": "AD Ports Group completes Brazil terminal operator acquisition",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEUxQjV4NkExZlVlTU5KQ3B1bTJUM1hKaVJVd2p6M1FiaDJLSFByYUwxY092MVFLX1R0MWRDOVhyM1dESVpmQXRLUllZYkVOcW1LZXJENXNpeENfNnpSeVEwUC1ONkppTGstTGpiM2hOQ2oyZWNIbW4ySThEYV9iZDI3NnRZdmJ0SVZmcWxoUG1Ha1pKYTNiTDdhMjl4TWpLTWtJTFRlbkhscWJwM0hOWg?oc=5",
+   "source": "Seatrade Maritime News",
+   "published": "2026-10-05T16:16+00:00",
+   "added": "2026-10-07T11:28+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "mna"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Middle East",
+    "Latin America"
+   ],
+   "tags": [
+    "acquisition",
+    "port",
+    "ports",
+    "terminal"
+   ],
+   "summary": "AD Ports Group completes Brazil terminal operator acquisition Seatrade Maritime News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "42dbd5e64ea9",
    "title": "MSMEs seek curbs on steel, metal price surge; urge Centre to cut import duties",
    "original_title": "MSMEs seek curbs on steel, metal price surge; urge Centre to cut import duties",
@@ -10650,6 +10756,31 @@
     "vessel"
    ],
    "summary": "Maersk completes first U.S. ethanol bunkering of a deep-sea container vessel Cyprus Shipping News",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1052688d6544",
+   "title": "Aramco CEO warns bad actors are using satellite and shipping data",
+   "original_title": "Aramco CEO warns bad actors are using satellite and shipping data",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMlpNZGpYUzJQWkE5Q3BFTVpHbzMxWVowMEhwLUZvMTlHT2xHeHNSZktFUXVRaVhhYkVhLXg2ZVlZX2loUE9mWnBkSFU4SDJoM3J1eVZUSW1YSkxlMVloX2hGSE81SEhMVHpRRHdmSHQ3NDZodlVjODVtZ2l1RmgwVDZsdG9aUTNrcmVLMklKMWJNSFYxTWxad3BEbEVTYVIzOGR4eUxFX1hNazNWSHFsdGdUYXNXZw?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-05T12:35+00:00",
+   "added": "2026-10-07T11:28+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3.0,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "shipping"
+   ],
+   "summary": "Aramco CEO warns bad actors are using satellite and shipping data Reuters",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
@@ -16403,148 +16534,6 @@
     "tariff"
    ],
    "summary": "German steel industry urged to maintain budget support for network tariffs Металлургпром",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2864ab9b27b7",
-   "title": "Cimbria offers Moduflex dust-free loading solution for dry bulk handling",
-   "original_title": "Cimbria offers Moduflex dust-free loading solution for dry bulk handling",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbGRGNW90c1I4akhoNjYxa1dmWHhETU5tWVJFQ1E1UlJpdVg5Tkt1RGhsMmotNEpMN0lMSmpzS0FLSmg2UUo0d3JZakhxOF9WRXhYTUtmVHBWRzlCdXFPVUh5d0FEVFVmT2FWdVh1MUVwNUtKREktbUNkbWJkbzFETV9yNUsydWZjMndCLXowbHRJWWVrRXB4VnBxTk4?oc=5",
-   "source": "Milling Middle East & Africa",
-   "published": "2026-10-03T10:46+00:00",
-   "added": "2026-10-03T11:10+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East",
-    "Africa"
-   ],
-   "tags": [
-    "bulk handling",
-    "dry bulk"
-   ],
-   "summary": "Cimbria offers Moduflex dust-free loading solution for dry bulk handling Milling Middle East & Africa",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "09b18e257c52",
-   "title": "A sailor was killed in the Odesa region as a result of a Russian strike on a civilian vessel",
-   "original_title": "A sailor was killed in the Odesa region as a result of a Russian strike on a civilian vessel",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdkoxckUwN1JzR0xRa2V1bWRsQ3BxVHZ1V1RrTXBLZFl1Xy1DOGNTTnlpNHR5TmtFVnNMbzRuemJsZnd1QV9INzh3dXFNc2t6ajdvU055Ql9fUm5OVERRZWtEWWlUYUoxamlPM2lMNy12dURkMzU2cjAwa1FHWEVIOFN4MDV2Rk9MV3dmaDI2aGg3T0dQWUhuVVJ6TzNNUllqYWt0OGg3aDl5ZTVOSldFQVp5ZHdMNEplLVgyc3NHNDg5ZXhKdUZ1U3QxZw?oc=5",
-   "source": "Інтент",
-   "published": "2026-10-03T10:45+00:00",
-   "added": "2026-10-03T14:39+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "russia",
-    "russian",
-    "vessel"
-   ],
-   "summary": "A sailor was killed in the Odesa region as a result of a Russian strike on a civilian vessel Інтент",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8fc77ab97987",
-   "title": "Anduril acquires Popoto Modem to expand communications for autonomous underwater fleets",
-   "original_title": "Anduril acquires Popoto Modem to expand communications for autonomous underwater fleets",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTC1RU1NMV2JxMHV1UDVmVnlQWUliOGFzdGN1Snd0ZzJPbURoTElySmZLWW1VVWVYUGxuZ2NGc3l5V1R4cWloV1F4TUQ4WjFNUTVzVFZhMnVxQ1hlS0hzX093cFFWT0RMUTFLZk55N3VpTDBSSVkxZTFjUDNVbWZZc214YnY1eFhlYnJlOHk3YU5fS0hSMEZkOTh3Qld2ckhRcTNOVUJKRzY0eUFNOHg2djctekZiaTQ?oc=5",
-   "source": "Defence Industry Europe",
-   "published": "2026-10-03T10:36+00:00",
-   "added": "2026-10-03T11:10+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "geopolitics",
-    "equipment",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquire",
-    "acquires",
-    "autonomous",
-    "defence",
-    "fleet"
-   ],
-   "summary": "Anduril acquires Popoto Modem to expand communications for autonomous underwater fleets Defence Industry Europe",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "19fa62f4d03f",
-   "title": "U.S. Deploys Third Aircraft Carrier To Middle East As War With Iran Enters Eighth Month",
-   "original_title": "U.S. Deploys Third Aircraft Carrier To Middle East As War With Iran Enters Eighth Month",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTZzTHpoendWd3lZYnJ5X2xNNlVmdjM2V1g2Q0lwZ1JzbVFldnlEcWtwRUtGcmxZbnFSNExfaktFYkE5TWt5ZXRzek5FY2pWQXdMLTJTY1E1U29aeGhpcHBMU3JENFJHY2tIb0lPTjA4NGNzNzNzZUhPeTUwWDI4VEYxVUc4WjU1X0wxN05JQnZoUnl4T0xCZjcwODlLM2k3d2VibWdIZmJTZ0otUHJkUTVvNFczWC1w?oc=5",
-   "source": "Marine Insight",
-   "published": "2026-10-03T09:56+00:00",
-   "added": "2026-10-03T11:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "carrier",
-    "war"
-   ],
-   "summary": "U.S. Deploys Third Aircraft Carrier To Middle East As War With Iran Enters Eighth Month Marine Insight",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b405c3cd5f24",
-   "title": "UBC Aluminium Scrap: What the 15.65% Price Rise Means for Margins",
-   "original_title": "UBC Aluminium Scrap: What the 15.65% Price Rise Means for Margins",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHRE5NZWZITmkyTm40UVlBelpTc0w2R09odFVYaHdaRGhtRGtoM2NYeVYwVWYtR0lkd3ZDcUFGX19hNWEwVVRwMjQzTG4zaUMzOGlHbi1FRzNpVnJsUTFRdld0VnVXN2R4VTl4NlpqVWplTnZxS2pyeEUxV18?oc=5",
-   "source": "Discovery Alert",
-   "published": "2026-10-03T09:03+00:00",
-   "added": "2026-10-03T14:39+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "aluminium",
-    "scrap"
-   ],
-   "summary": "UBC Aluminium Scrap: What the 15.65% Price Rise Means for Margins Discovery Alert",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
