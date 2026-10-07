@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T16:12+00:00",
+ "generated_at": "2026-10-07T16:38+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -67,6 +67,34 @@
    "summary": "Kalmar and Port of Halmstad continue partnership with the signing of a Kalmar Complete Care service contract Taiwan News",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
+  },
+  {
+   "id": "ceb176905919",
+   "title": "Trafigura Buys Seven Oil Tankers From SFL as Shipping Costs Rise",
+   "original_title": "Trafigura Buys Seven Oil Tankers From SFL as Shipping Costs Rise",
+   "url": "https://gcaptain.com/trafigura-buys-seven-oil-tankers-from-sfl-as-shipping-costs-rise/",
+   "source": "gCaptain",
+   "published": "2026-10-07T15:26+00:00",
+   "added": "2026-10-07T16:38+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "crude",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Trafigura Group bought seven oil tankers from New York-listed SFL Corp., in the latest example of how trading houses and state energy companies are acquiring vessels to ship crude and products. Disruptions to shipping through the Strait of Hormuz have drawn in scores of tankers to shuttle key oil flows out to the global market, while growing risks in the Red Sea are leading to longer voyage routes and times. That’s prompted a rush to snap up tankers as rates to charter vessels soar. Trafigura bought four oil product tankers known as LR2s — built in 2014 and 2015 — and three suezmax tankers built in 2019, SFL said in a statement on Wednesday. SFL said it had made an “aggregate book gain” of $175 million from the deal, without disclosing the sale price of the vessels. Strong demand for prompt availability of oil carriers have pushed the resale values of tankers higher. A 10-year-old Aframax, which is the same size as an LR2 tanker, was assessed to be worth $72.5 million last week, while a Suezmax of the same age could sell for $110 million, Clarkson data show. Trafigura recently made its first foray into launching a public company, listing a supertanker vehicle Volare Shipping Ltd.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "6957c6cf0d5f",
@@ -173,6 +201,32 @@
    ],
    "summary": "Maersk updates European operations amid seasonal disruptions and regulatory changes Data Portuaria",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4603aac9def6",
+   "title": "Renata Wozba prelegentką na XXIII Forum Polskich Menedżerów Logistyki",
+   "original_title": "Renata Wozba prelegentką na XXIII Forum Polskich Menedżerów Logistyki",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUZrN3VBOEtTU3l6dXFyTDFsZkhMcTBxSVpPdmFaa3ktdXM0N0FZVGNZRTRBUmM5ZWRZLUlHNDNOLUh5UTYzTWI0eEdjSkw2RnAzLTVRTFBZSGZqOU1LZWFZRDlmcXNrTjRReWhPMzBkaVR5dFlraExUTFRZUXgtc08wNzhnM2N5eVBiemprLVdhQUdVRjNBNQ?oc=5",
+   "source": "Business Centre Club",
+   "published": "2026-10-07T13:41+00:00",
+   "added": "2026-10-07T16:38+00:00",
+   "lang": "pl",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "logistyk",
+    "polski"
+   ],
+   "summary": "Renata Wozba prelegentką na XXIII Forum Polskich Menedżerów Logistyki Business Centre Club",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -2034,6 +2088,35 @@
    ],
    "summary": "The Polish railway sector is strengthening its position in Western Europe Trade.gov.pl",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5b2f316a9258",
+   "title": "Attacks on civilian ships near Bulgaria pose new risks to the Black Sea grain route",
+   "original_title": "Attacks on civilian ships near Bulgaria pose new risks to the Black Sea grain route",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUhGRjdTc0pQeVVwVktNMkQ4NWtpRXdWREkxOGFXV1JrdG5qWm00RDhkbFMzWjdDaGRzZUQ0dUh6VnlJSVhacm5TTTBFSHhlTGlCSTloVlBfeTlwRzBtalBhVW50N1drZUs2eWFubG5vN2VHdTExSGNUZWhYMThGTG1xLXd5dkFBc3ZFR2t1OEtCWnQwSVJpMUZ1Y1ZGTVY4bEVXRVBSbld2TUtyVEtETlhRenNRZDRRenhfWHFJcmhWQ3A4bEQ5WFFhSzY?oc=5",
+   "source": "електронна зернова біржа України",
+   "published": "2026-10-07T08:42+00:00",
+   "added": "2026-10-07T16:38+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "grain"
+   ],
+   "summary": "Attacks on civilian ships near Bulgaria pose new risks to the Black Sea grain route електронна зернова біржа України",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16475,88 +16558,6 @@
    ],
    "summary": "Ports of call where ties run deep | Los Angeles Times - newspaper Magzter",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b388e0088c21",
-   "title": "Mexico extends Manzanillo port concession to 2094",
-   "original_title": "Mexico extends Manzanillo port concession to 2094",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SYkJFTGRQc2lxc2ZKSVdoeFA2bkllMGpMbGdpWTZ6ZVVlTmM2UUJfc2RLdGs1dlZiOWRtNm5PTjVxdTNRbHgyamxqWG4yNU0yc2MzZkdtTThkaG1Fd2M5cVh0OFppQ2owSmdHZVhvRjFwVDVpYUZ1MlNzYzY?oc=5",
-   "source": "Splash 24/7",
-   "published": "2026-10-04T13:58+00:00",
-   "added": "2026-10-04T15:49+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "concession",
-    "port"
-   ],
-   "summary": "Mexico extends Manzanillo port concession to 2094 Splash 24/7",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "438676c3d7f5",
-   "title": "3 Stocks For Investors Watching Nearshoring And Regional Supply Chain Shifts",
-   "original_title": "3 Stocks For Investors Watching Nearshoring And Regional Supply Chain Shifts",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFc3bHR6OUtqb25ROUdoWUVMU3NicUpOSzNDTkE3V2xsRHltSXJ0a2xkMWRHa3dlYi1IaGZVejR3cWVTamhHT1l2SVYtUE1BekxLUGhMQmRPdW9DYm1hZmNKelc0SVBLZ3FGcFJqSW9fU0VKRGJRMVBzeVh3U1BtYkxNSnA0WlZ6ckhfMU1sbGRaWHE4ZHhoQl9fcmdaMlpkLTBxdEJPUUppeV9ldVZuRVRMSmFKd2hRUi14X19RV3lUQXfSAcgBQVVfeXFMT2RtdVF2VGpWQTZrM3JTQUVUclNMcEUxdEQtMlFwcVZZbXRFM1ctZ25oampIVk9sTTdBNTBoMWx5UXJRcU1MeXNrd3RiTS0ydlY0MklTRU9BdFhuS1gwOV9CYUc5dmVQeHl1RWpIS2QyRlkwSDBqVjBGaXQ3aGJzOGFhQUJnUEp3Z01kcDg4N09ZNjRNQWpzVnlWajVmazk3ZzJoZXN5R2JmYThXa0QtcmpYLWx3aks2VjFRNFMtSlVxbmQxTjFqZ0U?oc=5",
-   "source": "Simply Wall Street",
-   "published": "2026-10-04T13:41+00:00",
-   "added": "2026-10-07T11:05+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "nearshoring",
-    "supply chain"
-   ],
-   "summary": "3 Stocks For Investors Watching Nearshoring And Regional Supply Chain Shifts Simply Wall Street",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "86a5c9551394",
-   "title": "Poland, Romania Refuse Transit Relief for Ukrainian Grain",
-   "original_title": "Poland, Romania Refuse Transit Relief for Ukrainian Grain",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lcHllV3Jya3hVQVJMNlZQZDdfbzlpVmxEeHJWd2REWWhuc2U3RlNQLTBjc1I3bll1VVlSMWNaR25iZWp5UDY1VldPZw?oc=5",
-   "source": "Kyiv Post",
-   "published": "2026-10-04T13:38+00:00",
-   "added": "2026-10-04T15:49+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Poland",
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain",
-    "poland"
-   ],
-   "summary": "Poland, Romania Refuse Transit Relief for Ukrainian Grain Kyiv Post",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
