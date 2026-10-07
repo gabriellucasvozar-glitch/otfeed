@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T12:36+00:00",
+ "generated_at": "2026-10-07T13:03+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -212,6 +212,33 @@
    "summary": "Wallenius Wilhelmsen has raised about NOK2.88bn ($300m) in fresh equity as it prepares to add four large LNG dual-fuel car carriers with options for another eight. The Oslo-listed group completed a private placement late on Tuesday, issuing 17.145m shares at NOK168 each. The company said the proceeds, together with debt financing, would be used to fund an expanded newbuilding programme. Wallenius Wilhelmsen is in advanced discussions with shipyards for four large LNG dual-fuel vessels scheduled for delivery in 2030. The negotiations also cover options for another eight ships on similar terms, with quarterly deliveries from 2031 onwards. If all eight options are exercised, the company said its newbuilding programme would reach 26 vessels including options, with deliveries stretching from the third quarter of 2026 through 2032. The fresh tranche adds a different fuel configuration to the car carrier giant’s fleet renewal push. Splash has tracked Wallenius Wilhelmsen’s existing Shaper-class programme at China Merchants Jinling Shipyard, where the company built up a 14-ship orderbook, including eight units upsized to 11,700 ceu. Those vessels were designed around methanol dual-fuel propulsion and ammonia readiness.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
+  },
+  {
+   "id": "0e1bf169be8e",
+   "title": "Hydrogen supply to grow 30% to 130m mt/year by 2035: DNV",
+   "original_title": "Hydrogen supply to grow 30% to 130m mt/year by 2035: DNV",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2I0QlppSHM4NllNR21heDV2a1J0YlNkN2ZJQkdZeHlweGE2UUFrUl8yQmlIbkZXTWtKSjhLQTQ3bmxSUFprYTVsYzFfc1lLMHF4ZW9lRHhPVG42UEpLWjBUOHI5cHBNNXZLcm81NDhLYzg2M1EyRUdKQ0FkUjZQaGxScG1sTi1IeW51LWo2Qk1sSUFhUEJVa2R5S09VcFE2cmJMdlo2ZEk?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-07T11:18+00:00",
+   "added": "2026-10-07T13:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "commodit",
+    "hydrogen"
+   ],
+   "summary": "Hydrogen supply to grow 30% to 130m mt/year by 2035: DNV Quantum Commodity Intelligence",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "be1d87af525a",
@@ -16528,34 +16555,6 @@
    ],
    "summary": "Global steel markets reflect divergent trends in Sept'26 as regional supply dynamics shape prices BigMint",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b06fb81d33e7",
-   "title": "Guam port’s three gantry cranes knocked out in collision",
-   "original_title": "Guam port’s three gantry cranes knocked out in collision",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnE5WGpWVm1RdURZM3YzekFVSTBaUXIwb1hvbXpWSkVxVXEyY3Z0OVc5TE1MeFRDenVEamhWYWtFd05qYVRoRUkzNm40SG80NjNmVjFPNEkyZUFiM2lpSjZPbnhXZWZ3S1RYQUNFY3pBZTVuWU1TZWdBZFRMRi1zbUwxa2g?oc=5",
-   "source": "splash247.com",
-   "published": "2026-10-04T00:55+00:00",
-   "added": "2026-10-04T02:19+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "port"
-   ],
-   "summary": "Guam port’s three gantry cranes knocked out in collision splash247.com",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   }
  ]
