@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T08:12+00:00",
+ "generated_at": "2026-10-07T08:37+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "9de8d4ce0934",
+   "title": "JNPA secures US$70m loan for shore power rollout",
+   "original_title": "JNPA secures US$70m loan for shore power rollout",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc21FWk5jeWZiUXViTTkycTRwQWJIaXJfZHdaXzZRblZ4Uk5STWxFejJZSU9IVGJWcUJZc1NSUWxLNlFWRHVZNklMTk9VLW9LNUw2UGJXNTcyZ1VvaGN0R19YbFZKLThYNmU1LUFiUXdKaTNmMm9oQ09xMzNzbGczYVVRRjNLWlZkQkw1NHQzUEJtbUx0MmpOUTlhNG9FOGJs?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-07T08:11+00:00",
+   "added": "2026-10-07T08:37+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "shore power"
+   ],
+   "summary": "JNPA secures US$70m loan for shore power rollout WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "6f4c61140b07",
    "title": "Iraq devalues its currency as Iran-U.S. war disrupts oil shipping routes",
@@ -37,6 +62,62 @@
     "war"
    ],
    "summary": "Iraq devalues its currency as Iran-U.S. war disrupts oil shipping routes Toronto Star",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "eb61eb8bf2be",
+   "title": "Rail grain deliveries to Ukrainian ports fall 38.6% in September",
+   "original_title": "Rail grain deliveries to Ukrainian ports fall 38.6% in September",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaUdJd1oxMy01bkdDQzlNNUFjN1k2ZFNMM1BaN1RuMzhnd3Jic0FTUlhfWDJkcWp2aVR0WDVidzJZb0t1ZThZRFJ5ZFk4SnktQ2ktZzl2SVlTQ3RCM1RRb2V3ZUYzd1ZnLXJ0X2xUS25uQ1BQcFcxSlUyOUdsYnM4R04tb3VNaGJ2c1Boc1dqbjlKazF5ZHExY0VURkpSM201?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-07T07:59+00:00",
+   "added": "2026-10-07T08:37+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "port",
+    "ports"
+   ],
+   "summary": "Rail grain deliveries to Ukrainian ports fall 38.6% in September UkrAgroConsult",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "86e26c8ab75d",
+   "title": "NEOM Port Is Absorbing War-Diverted Red Sea Traffic",
+   "original_title": "NEOM Port Is Absorbing War-Diverted Red Sea Traffic",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JVDZER0k1elF1X1hOSzJwbXVCVW1hcWVUREE1b3laS2NDTnpGOEpqSkx6ZnFnVlNNQ1BXZGgxSGxiODN2NHJvSXBsMW92MTBfdl9HT2NQaE1oUHFLbE9IUTZIOVM4RzNwcWZuSjAzQWYyazYtYjFnYjRB?oc=5",
+   "source": "Windward",
+   "published": "2026-10-07T07:45+00:00",
+   "added": "2026-10-07T08:37+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "port",
+    "red sea",
+    "war"
+   ],
+   "summary": "NEOM Port Is Absorbing War-Diverted Red Sea Traffic Windward",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -1729,6 +1810,36 @@
    ],
    "summary": "Minister silent as iron ore miners miss royalties The West Australian",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c9f93f4a511a",
+   "title": "How port congestion has tied up a major chunk of worldwide container shipping capacity",
+   "original_title": "How port congestion has tied up a major chunk of worldwide container shipping capacity",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONy0wNWVtOXJRUmM1NU9OcG9HOUtoRUd0eF9LUnpzeG1GcHg5ODR5ZlZKS2JJdy10eW5lM0hQeFFrNzZWNVhSdW9EYjlJT3F2d2tMZ1pwNEM5ekIzVGdzbnlac1h6UmFMVFdQR2RtbEhKWU1hMG1Fa3FDSVo0M3E2SktOczItZGlUWWpkS0pabS1Ubm80Wjh4aUF5ajlxRmtWbWNUY2wzRG1LOHVXYTdma1F1SENpOHQzMW9QQjVoODVqQzloc1BDSHhLa1BwdjlK?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-10-06T17:46+00:00",
+   "added": "2026-10-07T08:37+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "congestion",
+    "port",
+    "port congestion",
+    "shipping"
+   ],
+   "summary": "How port congestion has tied up a major chunk of worldwide container shipping capacity Business Upturn",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16425,111 +16536,6 @@
    ],
    "summary": "Arctic shipping volumes surge as Northern Sea Route gains traffic amid Middle East disruption Traders Union",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ad52bf427db6",
-   "title": "Arctic sea routes boom as Gulf war and global warming divert shipping",
-   "original_title": "Arctic sea routes boom as Gulf war and global warming divert shipping",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEo5OHpsV3dQVmRiREtpSkppYVltdUV6bnVQak80bmtnRmxkQU1UOFdkS0VWLXBEWHJSU1VPcnliVmx1cTJHa19UWU5mQW94X2NXN0h6c050c2VyeHd3WjA1RXl0VmRSb0Q5eGQ5MHBESGVjOHNaRGtrT3lDY05nd1ZEZEI?oc=5",
-   "source": "ft.com",
-   "published": "2026-10-02T20:00+00:00",
-   "added": "2026-10-02T20:21+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "shipping",
-    "war"
-   ],
-   "summary": "Arctic sea routes boom as Gulf war and global warming divert shipping ft.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "03091295730c",
-   "title": "Charting the Course for EU Ports: Towards Global Leadership by 2035",
-   "original_title": "Charting the Course for EU Ports: Towards Global Leadership by 2035",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd0JWSU8xdlJBTFNodUFXMm9IZmF0NnM5d1BOcXBpdFYxUzk2anJPc1V4VF9WcXpZSVR3d0g5blVMSUZQWmxUSWNNWllFaEMxR0tWbldDUDZiQzRueVZGTDVTV1lQODVmazJCVldIMmxDS0xGallZeWpDOF9fanY2TTRUTmxBU3lNcGU0R1hBLU1TSXlnM3NUdWdHWGFoOHl4ZnhiZ0NkaVg1OXJySmd5VE9yaVJhNjVsRTV30gGwAUFVX3lxTE1xdlM5dUwyRjhSd3JmZ2dWeGJzSnJZbkFWYmpCckgtMVF4NklzaUZLSVc3NVgxWjdPWlNfb3gwSmp2d204V1ZKM0x3Z28xbHVXZHowWE9ZU2h2WWVwQXR5ekxvX0trY01uY1V6bTA3b3pQTk9QZ3RWS1hmdWgzOHhVVmNkN2hDdlk4MXNQUkJyZGpuYTl3OFJqQ1V4VFNrZEFoUnNYSkJMY2hYUTRTQ2F4?oc=5",
-   "source": "Il Mattino",
-   "published": "2026-10-02T19:23+00:00",
-   "added": "2026-10-02T20:42+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "port",
-    "ports"
-   ],
-   "summary": "Charting the Course for EU Ports: Towards Global Leadership by 2035 Il Mattino",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6833267dab5a",
-   "title": "Haulage Equipment Systems Market Forecast to 2035: Automation and E-Commerce Fulfillment Drive Growth",
-   "original_title": "Haulage Equipment Systems Market Forecast to 2035: Automation and E-Commerce Fulfillment Drive Growth",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZU1xS1BsYldkbllpRVV4WHp6eGtpUDRzZDdoN0h1d2JsQVREeENESzB1QU5mSFpzbWwxWFRTSk94LTRNYWVjaEN4T1NEOUhJQTVBSjhUV3l3bFJoZ0lMMF91YVdwOHdZMVRITTBibU9vUWdld2kyLUs5SDljX3FhUEcxNmRNbzJFZHo2bXBOX1lYR3VHcFpRZnNOa1FKVjhnV1ZNbUJ2NmFrN1luOTZpaDdwM1ZGd2xFdXN3NEVROFZOWVB0eE1KUFBB?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-02T19:21+00:00",
-   "added": "2026-10-02T19:45+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "automation"
-   ],
-   "summary": "Haulage Equipment Systems Market Forecast to 2035: Automation and E-Commerce Fulfillment Drive Growth IndexBox",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "068203d28201",
-   "title": "CMA CGM says FedEx deal nearly triples CEVA's North American contract logistics footprint as forwarding and automotive weigh on its margin",
-   "original_title": "CMA CGM says FedEx deal nearly triples CEVA's North American contract logistics footprint as forwarding and automotive weigh on its margin",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXVrOG5VZnNnVGJYcVZQVk9BQUlsU2tJN3hGYlBIbHI5ZTJBaFlSQzRFMXNLcGJiZDl0VXowSVVEdHdjdnVYaFhhQ0lHemFzX0JRX0tRZmp2ZVpSV2pCN0NOcGNIbW5YdGFQbFVOaDhXRTBPQVpJSkVfa3pZUnV2MENmQ1IxLXBBenFwR2VLUTZTR2Rzc0dpWTd4Q3VrWktGZnFwb2tR?oc=5",
-   "source": "Container Management",
-   "published": "2026-10-02T19:03+00:00",
-   "added": "2026-10-05T01:31+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "forwarding",
-    "logistics"
-   ],
-   "summary": "CMA CGM says FedEx deal nearly triples CEVA's North American contract logistics footprint as forwarding and automotive weigh on its margin Container Management",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   }
  ]
