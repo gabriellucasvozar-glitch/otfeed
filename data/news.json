@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T03:27+00:00",
+ "generated_at": "2026-10-07T03:50+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "a358721389b1",
+   "title": "EU methane regulation risks worsening the energy crisis",
+   "original_title": "EU methane regulation risks worsening the energy crisis",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFBWcVFyNHZ5TkJmNktEM05CaU40ZTZUbWZueEhjaG1nVTMtVVZfVXM1UHhMa0NYUlNyb1ZwWnJkNXJyZXdWNmpkbGJUUHFuMXdyMXhIcElycF84c2ZOUnk0U3p2Q0dvTFdHOWxPSE15NWFXUmQxZTdEaDlVVmhvRFk1NFQ3YUp6aUJaQTJ2eUtJWVBuV2dvUFRGRXlyekU?oc=5",
+   "source": "Cyprus Shipping News",
+   "published": "2026-10-07T02:47+00:00",
+   "added": "2026-10-07T03:50+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 7,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "regulation",
+    "shipping"
+   ],
+   "summary": "EU methane regulation risks worsening the energy crisis Cyprus Shipping News",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
   {
    "id": "d347126ffe0f",
    "title": "3 European Steel Stocks With Pricing Power Investors Should Watch",
@@ -16510,33 +16538,6 @@
    ],
    "summary": "Hyster has delivered a hydrogen fuel cell-powered ReachStacker to Rotterdam Shortsea Terminals American Journal of Transportation",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "aa619acd01d2",
-   "title": "Hydrogen – Prime Minister Jetten visits the Port of Rotterdam - hydrogen-central.com",
-   "original_title": "Hydrogen – Prime Minister Jetten visits the Port of Rotterdam - hydrogen-central.com",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVYweU93enFRaW9sUTJDbjluVmdMVWZnZG9VX0xQOW96RVMyd0NNaGVOZWxLdHVxVGF5TTh1R3JzTkVGZkV5WXhtWUZZRDJOUnBhOS1LUENOZ2pDaWxKcjdsaktWTlRvSkxwVHY2cGxvZEhwSFdWOFZuRWowRzRCR0JXLWlvVWFwcFNFU19qR1NqSms?oc=5",
-   "source": "hydrogen-central.com",
-   "published": "2026-10-02T16:01+00:00",
-   "added": "2026-10-02T16:19+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "hydrogen",
-    "port"
-   ],
-   "summary": "Hydrogen – Prime Minister Jetten visits the Port of Rotterdam hydrogen-central.com",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
