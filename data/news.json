@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T18:40+00:00",
+ "generated_at": "2026-10-07T19:02+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b71192025598",
+   "title": "Baltic index slips as Capesize slump spoils smaller vessel gains",
+   "original_title": "Baltic index slips as Capesize slump spoils smaller vessel gains",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN2lMSHc2ZjFRWEY4WmpoYmhUOFVlclQtUF9IZG9ySlBmVGV1OVl2enIyTWZoOWJrdldNSXZoWUg4M0pjQWhXcFJ2QnR4Y290bjBDa0cySzlCQWxKOTk1dVRrcUJGdUFMb3hTbzg2N1h3UnI0SGV6NDBUbXg1QjFyYlcyOTN1LWdUWTJvdXBvVGVROFFURUJrWVlEMkduUUJzTmRCQ2VpbTRtWnUzS2w1VTlPdERCQ3lXNUZSLWtB0gHLAUFVX3lxTE1NRHJWMXhMNVNpS2dvYWRzZHNiWktCY2xzTDI1R05HRmpXMU9RR3d3blIzM1MyM0Utd0JlY05uZWdZSnZfZkhRSkFVV2RfWE9fYVdyX1RhMXV6YlpJdFpVMFdrZzlqVE1MTXRsQXQwdEozcVdhY2pTaG5jUGtqeXBSYWNiMFh5bURBUklOWE9ya0RxZ1FOaUxsTF93R09EUlJZbERCT3pmVVZBdmhtR2lUcnQ4NWtTenRRNWdac1B3Z0toZ0o3a3gydGpj?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-07T18:29+00:00",
+   "added": "2026-10-07T19:02+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "capesize",
+    "vessel"
+   ],
+   "summary": "Baltic index slips as Capesize slump spoils smaller vessel gains Baird Maritime",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "27f9a9721217",
    "title": "Golar picks NYK carrier for fourth FLNG conversion",
@@ -43,6 +71,33 @@
    "summary": "Golar LNG has acquired a 2013-built LNG carrier from Japan’s NYK Line for conversion into its fourth floating LNG unit, filling in a key missing piece of its $2.45bn expansion programme. The Nasdaq-listed FLNG specialist has agreed to buy the 177,427 cu m Grace Dahlia, which will become the donor vessel for the 3.5m tonnes per annum MKII FLNG ordered at China’s CIMC Raffles in August.No purchase price was disclosed. The acquisition gives the new unit around 20% more LNG storage than FLNG Esperanza, Golar’s first MKII design, which is already under conversion at the same Yantai yard. The Grace Dahlia will be converted alongside Esperanza , with the fourth FLNG scheduled for yard delivery by the end of 2029. Splash reported in August that Golar had taken final investment decision on the fourth FLNG, signing an EPC contract with CIMC Raffles worth about $2.45bn on a fully delivered basis. The repeat MKII design follows FLNG Esperanza , which is being created from the former 148,500 cu m LNG carrier Fuji LNG . Conversion is scheduled for completion in late 2027 before the unit heads to Argentina for a 20-year charter with Southern Energy starting in the second half of 2028.",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "extract"
+  },
+  {
+   "id": "5aa844800f22",
+   "title": "Fujairah Eyes Expansion as Port Recovers From War Damage",
+   "original_title": "Fujairah Eyes Expansion as Port Recovers From War Damage",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NSTRlQ0gydlpzNDVDRUNYVEhfRWw2aDdaQ20yRGE2WlRrZ0dyeFZjQ3FhTElrN2dqYTR3eGVoWDZCMlRNaFJiMWVwa2lCWGhBLTNrdzlmNVh5R1Z3NHQ4bHFHZzRiRkM0VU5JVGsxT1QwZw?oc=5",
+   "source": "Energy Intelligence",
+   "published": "2026-10-07T17:36+00:00",
+   "added": "2026-10-07T19:02+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "war"
+   ],
+   "summary": "Fujairah Eyes Expansion as Port Recovers From War Damage Energy Intelligence",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "75515c0f7e11",
@@ -16503,67 +16558,6 @@
    ],
    "summary": "Drewry’s Intra-Asia Container Index (IACI) edged up 2% this week to $1,518 per 40ft container. The IACI Composite Index reached an all-time high for the sixth consecutive week, as typhoon disruption and port congestion tightened capacity. Carriers used blank sailings and port omissions to limit capacity, while higher operating costs added to upwards pressure on rates. IACI hits another record high • The Drewry Intra-Asia Container Index (IACI), the benchmark widely referenced by procurement teams, edged up 2% this week to $1,518 per 40ft container. • Spot rates from China to Southeast and South Asia strengthened this week, supported by strong pre-Golden Week demand, tighter effective capacity and ongoing network adjustments following operational disruptions. Shanghai and Ningbo continued to face vessel bunching and schedule delays, with average waiting times reaching 82 hours and 56 hours, respectively, in Week 39. Drewry expects rates to stabilise in the coming weeks as the Golden Week volume dip helps clear backlogs and ease rates on some Southeast Asia routes. • The intra-Asia container freight market has remained resilient this year, with the index up 212% YoY, supported by higher bunker costs and ongoing geopolitical disruptions. Drewry’s Intra-Asia Container Index (IACI) reports actual spot container freight rates for major intra-Asia trade routes.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "73bb4de15adc",
-   "title": "Forty-Five Shadow Fleet Tankers Link to a Single Hong Kong Nominee",
-   "original_title": "Forty-Five Shadow Fleet Tankers Link to a Single Hong Kong Nominee",
-   "url": "https://www.hellenicshippingnews.com/forty-five-shadow-fleet-tankers-link-to-a-single-hong-kong-nominee/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-04T21:00+00:00",
-   "added": "2026-10-04T21:31+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "fleet",
-    "russia",
-    "sanction",
-    "shadow fleet"
-   ],
-   "summary": "One Nominee, Forty-Five Companies, Forty-Five Tankers Windward’s visual link analysis has identified 45 Russia-trading shadow fleet tankers connected through 45 single-ship Hong Kong companies to one beneficial owner. All but three share 19 different ISM managers with addresses in the same industrial cluster in the Azerbaijani city of Sumqayit. 42 of the fleet are sanctioned, and the three that are not have ISM managers in the UAE rather than Azerbaijan. Shadow Fleet Ownership Is Consolidating in China and Hong Kong The cluster underscores the accelerating shift in shadow fleet ownership and management structures to China, Hong Kong and Russia across 2026. The Cluster Only Became Visible This Year Consolidated into the cluster are tankers that have changed names, flags, and companies as many as eight times since 2023 and only became linked as they shifted ownership to Hong Kong between January and August. The beneficial owner of all 45 is a nominee director who cannot be traced, a common tactic used by shadow fleet operators to obscure the identity of the real owner. Twenty Virtual Offices Across Hong Kong Registered ownership addresses were tracked to 20 locations across Hong Kong, with 13 addresses hosting between two and five vessels.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "20a3f10c133c",
-   "title": "Neptune Bunker Information Update: Off-Spec Trends Highlight Risk Areas",
-   "original_title": "Neptune Bunker Information Update: Off-Spec Trends Highlight Risk Areas",
-   "url": "https://www.hellenicshippingnews.com/neptune-bunker-information-update-off-spec-trends-highlight-risk-areas/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-04T21:00+00:00",
-   "added": "2026-10-04T21:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "ports",
-    "commodities",
-    "mna"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bunker",
-    "port",
-    "ports",
-    "results",
-    "sulphur"
-   ],
-   "summary": "The Neptune Bunker Information tab has been updated with bunker quality data covering April to September 2026, providing Members with further insight into regional fuel quality trends and areas of elevated risk. Several ports record high levels of technical off-specification results across the residual and low-sulphur fuel sectors. Among HFO samples, the highest technical off-specs were recorded in Antwerp (46.2%), Norfolk (41.4%), Panama Canal (38.0%), and Rotterdam (35.5%). Rotterdam samples recorded a sulphur off-spec rate of 68.6%, while samples in Antwerp reached 58.9%, the highest levels seen in the current dataset. Although the number of samples involved is substantially smaller than in other major bunkering ports, the results underline the importance of maintaining robust bunker procurement, testing and fuel management procedures, particularly in respect of emission control regulatory requirements. Within the ULSFO category, the highest technical off-spec percentages were reported in Barcelona (70.3%) and Genoa (51.0%). In both ports, the results were primarily associated with pour point non-compliances, highlighting the need for careful consideration of storage and handling requirements, particularly where low ambient temperatures may become operationally significant. Members are encouraged to continue following established bunker testing and fuel management practices and to make use of Neptune’s fuel quality intelligence when evaluating supply risks and preparing bunkering plans. Source: West of England",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
  ]
