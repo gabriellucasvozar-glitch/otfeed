@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T10:49+00:00",
+ "generated_at": "2026-10-07T11:05+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,94 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "90848c79ce08",
+   "title": "Another Ceva reboot, another 10,000 staff. Can it deliver?",
+   "original_title": "Another Ceva reboot, another 10,000 staff. Can it deliver?",
+   "url": "https://theloadstar.com/another-ceva-reboot-another-10000-staff-can-it-deliver/",
+   "source": "The Loadstar",
+   "published": "2026-10-07T11:05+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "logistics",
+    "restructuring"
+   ],
+   "summary": "Ceva Logistics has had a long history of re-writes. From its birth under Apollo – an era tarnished by a restructuring that left employee shareholders’ investments worthless – to life as a public company, and now as a mere arm of the opaque CMA CGM group, the 3PL has seen many new beginnings, some more successful than others. Yesterday, it announced another new version of itself – offering a simpler structure, stronger accountability, and a renewed focus on customers. Then-CEO Mathieu Friedberg said the vision for Ceva was “taking its final form” – but perhaps it was not so final after all. Ceva will now organise its activities around two global business units, Freight Management and Contract Logistics, headed by Henri Le Gouis and Chris Walton, respectively, as it continues to integrate acquisitions. “We all know huge cuts are coming, so it’s very uneasy times and it’s impacting our staff and customers.” CMA CGM completed its $1.4bn acquisition of FedEx Supply Chain on 1 October, adding nearly 10,000 employees and approximately 350,000 sq metres of warehouse space. That is another substantial business to incorporate, while Ceva says it will also focus on completing the integration of its previous acquisitions. On 13 August, it still could not give sellers a reopening date; sales began restarting in stages on 20 August.",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "a306786f066f",
+   "title": "Gallagher Bassett buys second London shipping law firm in five months",
+   "original_title": "Gallagher Bassett buys second London shipping law firm in five months",
+   "url": "https://splash247.com/gallagher-bassett-buys-second-london-shipping-law-firm-in-five-months/",
+   "source": "Splash247",
+   "published": "2026-10-07T11:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 14,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "acquired",
+    "charter",
+    "law",
+    "shipowner",
+    "shipping"
+   ],
+   "summary": "Arthur J. Gallagher’s claims and risk management arm, Gallagher Bassett, has acquired London-based maritime law firm Winter & Co Solicitors, continuing a run of deals aimed at expanding its marine business. Winter & Co advises P&I clubs, marine insurers, shipowners and charterers on shipping-related legal matters, with Glenn Winter and his team remaining in London under Manan Sagar, head of Gallagher Bassett’s Europe, Middle East and Asia operations. The transaction is Gallagher Bassett’s second acquisition of a London shipping law firm in five months. In May, the company bought Mays Brown Solicitors, another specialist maritime practice whose client base includes owners, operators, charterers, P&I clubs, insurers and shipyards. In February it acquired Bremen-based Reck & Co, which provides surveying, claims handling, recovery and loss-prevention services to the global transport and marine markets. Those deals follow Gallagher Bassett’s takeover of London-headquartered W K Webster in February 2025. W K Webster specialises in marine and transit claims management and operates offices in Singapore, the US and the Netherlands. The latest acquisition gives Gallagher Bassett another dedicated shipping legal team alongside the marine claims and surveying businesses it has assembled over the past two years.",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "a7ce08a8b37c",
+   "title": "Russia seeks to make the western Black Sea unsafe for shipping",
+   "original_title": "Russia seeks to make the western Black Sea unsafe for shipping",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFUyS2tiZVJiQnFMdHJUQ2xWcURxQVhMYVFOdUd5b1ZwLUp0aWVOd1VRekRhVmRiRktGVFVmVmU4YWFVeERfbGM4aFlfdnRTdDVYbmhLdGZrb19kS05JNF8xQjBUMDVWclQwSExOS1VsNGxpZlRzZndBU3FIczUyQnRZS0dnaDE5cXR2S1VEQ1ptZVdUN2V5eng3ai1LZm8?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-07T10:49+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "black sea",
+    "russia",
+    "shipping"
+   ],
+   "summary": "Russia seeks to make the western Black Sea unsafe for shipping UkrAgroConsult",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "a0ead6e11f46",
    "title": "SFL lands $275m cash haul from Trafigura tanker sale",
@@ -213,6 +301,345 @@
    "summary": "A man looks as the LNG tanker DUHAIL crosses through the Suez Canal April 1, 2008. REUTERS/Stringer/File Photo Oct 7, 2026 (Bloomberg) –Qatar has amassed a fleet of empty liquefied natural gas tankers in the Persian Gulf, a sign that one of the world’s biggest exporters of the fuel may be preparing to boost shipments through the Strait of Hormuz. At least 12 ballast LNG carriers owned or chartered by QatarEnergy are waiting in waters near the country, according to a Bloomberg News analysis of satellite images and ship-tracking data. Read More: Iran Ramps Up Ship Attacks in Hormuz as Oil, Gas Flows Climb Still, the prospect of additional flows could help to temper global gas prices, which rallied to the highest level since late-2022 in Asia and Europe last month. LNG traffic through Hormuz rose in September to the highest level since the war began, but shipments remain about 75% below levels in February, before the US and Israel attacked Iran. The market is now watching to see if the initial recovery in LNG shipments will continue. However, much of the crude has been loaded onto other ships in the Gulf of Oman in a tactic known as shuttling. New company takes on four Arc4 LNG carriers as Seoul looks to expand Busan’s role in Arctic shipping.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "ee56f341ced4",
+   "title": "Korean Tanker Uses Suez Route for Crude Oil",
+   "original_title": "Korean Tanker Uses Suez Route for Crude Oil",
+   "url": "https://www.hellenicshippingnews.com/korean-tanker-uses-suez-route-for-crude-oil/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "commodities",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "ministry",
+    "red sea",
+    "suez",
+    "vessel"
+   ],
+   "summary": "The Ministry of Oceans and Fisheries announced on Oct. 5 that a Korean tanker has passed through the Suez Canal, located on the northern side of the Red Sea, and is transporting crude oil to the country. According to the ministry, as of 10 a.m. that day, the vessel had safely navigated through the Suez Canal and was en route to Korea. This marks the first time a Korean tanker has passed through the Suez Canal in about one and a half months since Aug. The route involved loading crude oil at the port of Yanbu in Saudi Arabia and passing through the Bab el-Mandeb Strait on the southern end of the Red Sea. However, as the military conflict between Saudi Arabia and Iran-backed Houthi rebels heightened the danger in the Bab el-Mandeb Strait, tankers began using the northern Suez Canal route starting in mid-August. The tanker that passed through the Suez Canal on this occasion is the 18th vessel to transport crude oil to the country via the Red Sea since the blockade of the Strait of Hormuz. The ministry stated that “the decision to pass through the Suez Canal on the northern side, rather than the Bab el-Mandeb Strait on the southern side of the Red Sea, was made by shipping companies and cargo owners.” Source: Business Korea",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "f31b4d89ebf9",
+   "title": "Nord Gas Solutions Cargo Handling and Fuel Gas Supply System again selected for Very Large Ethane Gas Carriers, being built at Samsung Heavy Industries",
+   "original_title": "Nord Gas Solutions Cargo Handling and Fuel Gas Supply System again selected for Very Large Ethane Gas Carriers, being built at Samsung Heavy Industries",
+   "url": "https://www.hellenicshippingnews.com/nord-gas-solutions-cargo-handling-and-fuel-gas-supply-system-again-selected-for-very-large-ethane-gas-carriers-being-built-at-samsung-heavy-industries/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "ports",
+    "shipping",
+    "mna"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "cargo handling",
+    "carrier",
+    "joint venture",
+    "vessel"
+   ],
+   "summary": "Nord Gas Solutions has once again been selected by Samsung Heavy Industries (SHI) to supply the cargo handling and fuel gas supply system for two additional Very Large Ethane Gas Carriers (VLECs) being built at the SHI yard in South Korea. The vessels are being built for an established joint venture based in Asia. This latest order follows the previously announced contract for five VLECs and further strengthens the long-standing cooperation between Nord Gas Solutions, SHI, and MOL. The repeat selection underscores the proven performance and reliability of Nord Gas Solutions’ cargo handling and fuel gas supply technology for ethane carriers. Nord Gas Solutions’ scope of supply includes the engineering of the cargo handling and fuel gas supply system process plant, as well as the associated sub-systems. Nord Gas Solutions specialists will support the yard throughout construction and commissioning of the vessels. Repeat orders such as this demonstrate the value of our technology, expertise, and long-term partnerships,” said Harald Øverland, Sale Manager, Nord Gas Solutions. Nord Gas Solutions is the new corporate brand formed following the acquisition of Wärtsilä Gas Solutions by Mutares SE & Co. Source: Nord Gas Solutions",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "7c1d3da51e28",
+   "title": "Hapag-Lloyd’s dual-fuel vessel bunkered with bio-methanol in Busan",
+   "original_title": "Hapag-Lloyd’s dual-fuel vessel bunkered with bio-methanol in Busan",
+   "url": "https://www.hellenicshippingnews.com/hapag-lloyds-dual-fuel-vessel-bunkered-with-bio-methanol-in-busan/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "ports",
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "bunker",
+    "chinese",
+    "port",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "German shipping firm Hapag-Lloyd has bunkered one of its dual-fuel vessels with an unspecified quantity of bio-methanol at the Port of Busan in South Korea. The methanol-capable container ship Seaspan Amazon received the stem while simultaneously unloading cargo at the port. The bio-methanol was produced at Chinese renewable energy firm Goldwind’s facility in Hinggan League, Inner Mongolia. Hapag-Lloyd did not disclose the physical supplier that delivered the fuel in Busan. The bunkering operation forms part of a long-term supply agreement Hapag-Lloyd signed with Goldwind in 2024. Under the deal, Goldwind is expected to supply 250,000 mt/year of a blend of bio- and e-methanol from the end of 2027. By securing an early delivery under the agreement, the companies have gained operational experience with fuel handling. Goldwind expects the plant’s total production capacity to reach 1.45 million mt/year by 2027, according to Chinese media outlet Caixin. Moller-Maersk with 500,000 mt/year of bio-methanol.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "afc70b6eef2f",
+   "title": "Stolt Nielsen – Bunker costs dent tankers, softer 4Q ahead",
+   "original_title": "Stolt Nielsen – Bunker costs dent tankers, softer 4Q ahead",
+   "url": "https://www.hellenicshippingnews.com/stolt-nielsen-bunker-costs-dent-tankers-softer-4q-ahead/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "bunker",
+    "lng",
+    "sale of"
+   ],
+   "summary": "Stolt-Nielsen posted its 3Q26 report this morning, with core figures in line with consensus but somewhat below our estimates. Reported net profit was boosted by a USD 15.4m gain on the sale of 50% of Avenir LNG. Stronger spot rates in Stolt Tankers were largely offset by higher bunker costs and lower spot volumes. Stolt Tankers reported operating profit of USD 52.1m, down from USD 57.2m in 3Q25 and below our expectation of USD 63m. Deep-sea spot rates rose 40.5% YoY, but bunker costs climbed to USD 718 per tonne (USD 500 in 3Q25) and spot volumes fell 22.1%. Stolt Tank Containers posted an operating profit of USD 13.1m, compared to a loss of USD 0.3m in 2Q26. For 4Q26, Stolt Tankers is expected to be slightly softer than 3Q26. Stolt Tank Containers expects to maintain margins, albeit with seasonally lower volumes. Overall, the company expects 4Q26 earnings to be modestly behind 3Q26.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "a83a87649111",
+   "title": "France, Belgium lead European Russian LNG imports in 2026",
+   "original_title": "France, Belgium lead European Russian LNG imports in 2026",
+   "url": "https://www.hellenicshippingnews.com/france-belgium-lead-european-russian-lng-imports-in-2026/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "lng",
+    "russia",
+    "russian"
+   ],
+   "summary": "France and Belgium were the largest European buyers of Russian liquefied natural gas in the first nine months of 2026. European importers in France purchased 4.7 million metric tons of Russian LNG in January-September, while Belgium imported 2.9 million tons. Spanish imports of Russian LNG rose 46% from the start of the year, marking the fastest growth among the four largest European buyers, according to the report. Source: News.Az",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "4f52ffe3d128",
+   "title": "Coal Hits Three-Year High",
+   "original_title": "Coal Hits Three-Year High",
+   "url": "https://www.hellenicshippingnews.com/coal-hits-three-year-high/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "coal",
+    "court",
+    "futures"
+   ],
+   "summary": "Coal futures climbed above $150 per ton, reaching their highest level since September 2023 after Australia’s High Court rejected an appeal by Mach Energy Australia over the planned expansion of its coal mine in NSW. The court found that planning authorities had failed to adequately account for emissions generated by customers who burn the mine’s coal. Minerals Council of Australia chief executive Tania Constable said the ruling could significantly undermine investment and send a negative signal to Australia’s trading and investment partners about sovereign risk, potentially putting future supply under pressure. Meanwhile, global coal demand is expected to reach a record this year as gas supplies face disruptions linked to the Iran war. The IEA said in its Coal Mid-Year Update 2026 that higher LNG prices caused by the Strait of Hormuz blockade are encouraging economies such as China, India, Japan, South Korea and parts of Europe to rely more heavily on coal-fired power generation. Source: Trading Economics",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "96f973efa4e3",
+   "title": "Crude inventories fall more than expected, boosting oil prices",
+   "original_title": "Crude inventories fall more than expected, boosting oil prices",
+   "url": "https://www.hellenicshippingnews.com/crude-inventories-fall-more-than-expected-boosting-oil-prices/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "crude",
+    "oil price",
+    "prices"
+   ],
+   "summary": "The American Petroleum Institute (API) has released its latest data on U.S. crude oil inventories, revealing a significant decline that has exceeded market forecasts. The API Weekly Crude Stock report showed a decrease of 2.090 million barrels in U.S. The actual drawdown of 2.090 million barrels was notably larger than the previous week’s increase of 1.019 million barrels. This substantial reduction in crude stockpiles suggests a stronger demand for oil than analysts had projected, providing a bullish signal for crude prices. The unexpected decline in inventories often points to heightened consumption or a disruption in supply, both of which can lead to upward pressure on oil prices. The larger-than-expected drop in crude inventories has implications for the energy market, as it may reflect underlying shifts in consumer behavior or production dynamics. Investors and traders will likely interpret this data as indicative of a tightening oil market, potentially leading to increased volatility in crude prices. crude oil inventories has defied forecasts and surpassed the previous week’s figures, suggesting robust demand and contributing to a bullish outlook for oil prices.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "d98d6d4f230e",
+   "title": "Soybeans Rebound on Brazil Planting Delays",
+   "original_title": "Soybeans Rebound on Brazil Planting Delays",
+   "url": "https://www.hellenicshippingnews.com/soybeans-rebound-on-brazil-planting-delays/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "futures",
+    "prices",
+    "soybean"
+   ],
+   "summary": "Soybean futures climbed toward $13.1 per bushel, bouncing off from multi-week lows as slower planting in Brazil and signs of continued export demand lifted prices. About 7.3% of soybean crop in Brazil, the world’s largest exporter, had been planted as of Thursday, below 9% a year earlier, with consultancy AgRural estimating 2026/27 production at 182.7 million metric tons. The USDA has a higher forecast of 186 million tons, which would exceed last year’s record 180.5 million tons. On the demand side, an unnamed buyer purchased 104,000 tonnes of US soybeans, while US export inspections reached 3.99 million tonnes since the start of September, up from 3.05 million tonnes a year earlier. However, gains remained limited by expectations for a large US crop and weak Chinese demand. China’s soybean purchases are being constrained by high inventories, poor crushing margins and an additional 10% tariff on US soybeans, while private buyers continue to favor supplies from Brazil and Argentina. Source: Trading Economics",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "85567789ea6b",
+   "title": "The Commodities Feed: Oil stuck between improving supply and Persian Gulf risks",
+   "original_title": "The Commodities Feed: Oil stuck between improving supply and Persian Gulf risks",
+   "url": "https://www.hellenicshippingnews.com/the-commodities-feed-oil-stuck-between-improving-supply-and-persian-gulf-risks/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "attack",
+    "commodit"
+   ],
+   "summary": "Energy – Persian Gulf supply risks offset stronger oil flows The oil market traded under pressure for much of the session yesterday, with ICE Brent trading down towards $97/bbl. However, with supply risks from the Persian Gulf still very real — with continued attacks on ships — the market still managed to settle above $100/bbl. There is a clear tug-of-war at the moment between improving supply from the region and lingering threats to supply. In order to solve this, the market needs to see a normalisation in Persian Gulf and Russian diesel flows. The latest US inventory numbers from the API overnight show that crude oil inventories fell by 2.1m barrels over the last week. World Gold Council data showed central banks remained net buyers in August, adding 39 tonnes and bringing year-to-date purchases to 170 tonnes. China led purchases with 20 tonnes, extending its buying streak to 22 consecutive months, while Poland and Uzbekistan each added 8 tonnes to their reserves. Other buyers included Kazakhstan, the Czech Republic, Bolivia and Ghana. With China, Poland and several emerging-market central banks continuing to accumulate gold, official-sector demand is likely to remain an important source of support for the market in the months ahead.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "20019f2138be",
+   "title": "South Korea sustains ample APAC clean product exports on stable feedstock supply",
+   "original_title": "South Korea sustains ample APAC clean product exports on stable feedstock supply",
+   "url": "https://www.hellenicshippingnews.com/south-korea-sustains-ample-apac-clean-product-exports-on-stable-feedstock-supply/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "crude",
+    "ministry"
+   ],
+   "summary": "South Korea’s refining industry expects stable crude procurement through year-end, supported by government measures, enabling major refiners to sustain clean oil product exports to Asia-Pacific customers and help cover essential fuel shortfalls across the region, according to refinery sources, Korea Petroleum Association, and the trade ministry over Sept.29-Oct 5. South Korea, Asia’s top clean oil products supplier and net exporter, has fully secured its feedstock crude needs for October, while crude oil arrivals for the rest of the fourth quarter are expected to reach at least 90% of the previous year’s monthly import levels, according to feedstock managers at major refiners based in Ulsan, Seoul and Yeosu, as well as the Ministry of Trade, Industry and Resources in its industry briefing presentation slide for October. Through rigorous diversification efforts, plenty of light sweet US crude, as well as heavy sour Canadian and various Latin American grades, are poised to regularly arrive, while 1.1 million b/d of staple Middle Eastern sour crudes have also been secured for the rest of the year, a MOTIR official told Platts, part of S&P Global Energy on Sept.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "d08919538497",
+   "title": "Labrador Trough vs the Pilbara and South Australia: Who will win the green iron race?",
+   "original_title": "Labrador Trough vs the Pilbara and South Australia: Who will win the green iron race?",
+   "url": "https://www.hellenicshippingnews.com/labrador-trough-vs-the-pilbara-and-south-australia-who-will-win-the-green-iron-race/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-07T10:00+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "North America",
+    "Oceania"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "The Canadian government has announced one of the largest investments in clean energy (CAD70 billion), which could support the development of high-grade iron ore and pair it with clean power to produce green iron. In addition, the Labrador Trough Clean Power, Critical Minerals and Infrastructure Corridor (the Labrador Trough Corridor) has been referred to the Major Projects Office, which aims to streamline permitting and approvals processes, facilitate financing, and support engagement with Indigenous communities. The government is also supporting pre-development projects in the Labrador region, including the Kami iron ore project, one of several projects in Canada with the potential to produce high-grade iron ore feedstock. The Labrador Trough has been central to Canada’s high-grade iron ore production since 1954, producing about 50 million tonnes a year (MTPA). The move gives Canadian iron ore and green iron projects access to a broader set of policies and financing mechanisms, such as the Critical Minerals Infrastructure Fund. Bottom line By investing in infrastructure and access to clean electricity (mostly hydro), Canada is building the foundations for domestic green iron production and potentially becoming a major exporter of green iron.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "2a90534b8d52",
+   "title": "Argentine soybean meal trades above Brazilian for the first time since May",
+   "original_title": "Argentine soybean meal trades above Brazilian for the first time since May",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3plMDVjQ0h6VFducWlabzJOdkc3LUxtRGk0cGlyQU9wVWd6Y0EtMnJYUkhSMHRsOWRoTDBGckxKaTVpOEN1YlptVTJlMkxGRFlPTUc1ZUR5RU45XzBkSHl4UWQ0VGlJYUNaNEhEUDdTNll4VUVNdHFlVGkweHl5MEdIUHU0cHdKYWVkWWNCUXBDWGlSWjB2dlhpcS1xbEF5bTNuSjNhTXRXMXdrb1dF?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-07T09:56+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "soybean"
+   ],
+   "summary": "Argentine soybean meal trades above Brazilian for the first time since May UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "4698cfd26d19",
@@ -484,6 +911,63 @@
    ],
    "summary": "Port Congestion Now Ties Up 12% of Global Container Capacity Global Trade Magazine",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e6864cd368f2",
+   "title": "Drone strikes put Black Sea shipping on edge as multiple vessels are hit",
+   "original_title": "Drone strikes put Black Sea shipping on edge as multiple vessels are hit",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdVVRWmtzeWJXQl9JVlBNNENzY0RPRk8wNlpNOE9BUUpmMWVLWWh2UWJkTTNrd1JQa056SkF2RFJfZUE2Y2FsNENTWTZnY3NuSS1sVWZETmFYeG14U0ZmbU9rUlNGTGUxQmxyOEc0X1p4cF9LWTdmMUVOM1pKR2lDcnhUMDBPanROb1pVXzcwMkJBOE9fdGRB?oc=5",
+   "source": "safety4sea",
+   "published": "2026-10-07T08:59+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "drone",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Drone strikes put Black Sea shipping on edge as multiple vessels are hit safety4sea",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4f0d859f16cc",
+   "title": "Ukraine Considers Rail Route to Export Grains Via Moldova",
+   "original_title": "Ukraine Considers Rail Route to Export Grains Via Moldova",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMG5ZcXR5WjhUeGh0cmlUMkhuSFFaQVdCY1FZeDZlNlBIYTZ4c004YXBhTlVLS2N5UEd2bVhja2xlTjJnS3ZIMVhyazQ0b2FvZXNwVFZCcjUzUkJXaGtmb3NycHNMUDFpQWJXZ1VUUjlaSjByWEYxempGNlBSRjVoRUF4dDJKa2ItUllMVmFycC04YUMxYjBHTUFqNk1Wa1p4V1B4cVl2Q3QxeHhmZmlQbkhGUGk?oc=5",
+   "source": "Data Portuaria",
+   "published": "2026-10-07T08:29+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "ukraine"
+   ],
+   "summary": "Ukraine Considers Rail Route to Export Grains Via Moldova Data Portuaria",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -14544,6 +15028,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "438676c3d7f5",
+   "title": "3 Stocks For Investors Watching Nearshoring And Regional Supply Chain Shifts",
+   "original_title": "3 Stocks For Investors Watching Nearshoring And Regional Supply Chain Shifts",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFc3bHR6OUtqb25ROUdoWUVMU3NicUpOSzNDTkE3V2xsRHltSXJ0a2xkMWRHa3dlYi1IaGZVejR3cWVTamhHT1l2SVYtUE1BekxLUGhMQmRPdW9DYm1hZmNKelc0SVBLZ3FGcFJqSW9fU0VKRGJRMVBzeVh3U1BtYkxNSnA0WlZ6ckhfMU1sbGRaWHE4ZHhoQl9fcmdaMlpkLTBxdEJPUUppeV9ldVZuRVRMSmFKd2hRUi14X19RV3lUQXfSAcgBQVVfeXFMT2RtdVF2VGpWQTZrM3JTQUVUclNMcEUxdEQtMlFwcVZZbXRFM1ctZ25oampIVk9sTTdBNTBoMWx5UXJRcU1MeXNrd3RiTS0ydlY0MklTRU9BdFhuS1gwOV9CYUc5dmVQeHl1RWpIS2QyRlkwSDBqVjBGaXQ3aGJzOGFhQUJnUEp3Z01kcDg4N09ZNjRNQWpzVnlWajVmazk3ZzJoZXN5R2JmYThXa0QtcmpYLWx3aks2VjFRNFMtSlVxbmQxTjFqZ0U?oc=5",
+   "source": "Simply Wall Street",
+   "published": "2026-10-04T13:41+00:00",
+   "added": "2026-10-07T11:05+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "nearshoring",
+    "supply chain"
+   ],
+   "summary": "3 Stocks For Investors Watching Nearshoring And Regional Supply Chain Shifts Simply Wall Street",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "86a5c9551394",
    "title": "Poland, Romania Refuse Transit Relief for Ukrainian Grain",
    "original_title": "Poland, Romania Refuse Transit Relief for Ukrainian Grain",
@@ -16035,508 +16546,6 @@
    ],
    "summary": "UBC Aluminium Scrap: What the 15.65% Price Rise Means for Margins Discovery Alert",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "194206532cda",
-   "title": "China: Iron ore spot prices dip by $1/dmt d-o-d amid Chinese holiday lull",
-   "original_title": "China: Iron ore spot prices dip by $1/dmt d-o-d amid Chinese holiday lull",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbENqendMRHFhWWZoWWwyalQtVUFqMHdzQ2hTQ0g5Wm10dXZROFgtWENRQ0psN3kxUjRNZjU0OFJwbUlNa2tHX0VpLTl5VGVXMjlST1JNVWdMRExJM0I4WUFMMnJvV0tQd0hoZ1F3YXNRM1FZSGdEMU5lTm1IWk4wZ2FuUkh6NmpEcFh3QWhSWHYtRnVZdHpMNWQ3OVB5SmFKVktTbGlhUllKVlV3cVg3MzJRaEJlbTBm?oc=5",
-   "source": "BigMint",
-   "published": "2026-10-03T08:49+00:00",
-   "added": "2026-10-03T09:38+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "chinese",
-    "iron ore",
-    "prices"
-   ],
-   "summary": "China: Iron ore spot prices dip by $1/dmt d-o-d amid Chinese holiday lull BigMint",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a5b85bf686d5",
-   "title": "Swiss mountain railway orders two hybrid rack locomotives from Stadler",
-   "original_title": "Swiss mountain railway orders two hybrid rack locomotives from Stadler",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2VMOWY0TTNna183eHB5Zl9HNEd6YmJrMFQwMjMzZ3djZ0t0WnZJdVpDeVhpZjJQc1BaYU5qMXk2ajFRMnJpcTRwdlBrTTBHMmZ1XzZZSzJkUWtzV0xGU0RGYXdia1BvQUIycTJzWFFpSEVuUmRUU3pVb3dKUkREaVk0WkpqNnJ2M1RjWWNHMUs4dnJHRUlpWnY0X0hncG8?oc=5",
-   "source": "Railway Supply",
-   "published": "2026-10-03T08:32+00:00",
-   "added": "2026-10-04T21:52+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "locomotive",
-    "railway",
-    "stadler"
-   ],
-   "summary": "Swiss mountain railway orders two hybrid rack locomotives from Stadler Railway Supply",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a084c26b664f",
-   "title": "Baltic Dry Index rises as Capesize freight rates rebound",
-   "original_title": "Baltic Dry Index rises as Capesize freight rates rebound",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVGpOUksxTXZiUEI5ZHdMWFVtZmU4WGNhTnYwVFZ5V3pOU0ZhNHE2OHZnU0JSYzlNbU44QnctTnlJbC1NcmNzakFSU1dzT0dobExGQmE1UDF4TWhOT2YwMEpHTmR5aU0zOXhjOURERWpLQk9jLU5lSTRpSW0wS1RBeUJLMmlmUVZDSGhMLUdCMkFZdjhrV0RmQ0VxbHozelJwQkNpWQ?oc=5",
-   "source": "BigMint",
-   "published": "2026-10-03T07:27+00:00",
-   "added": "2026-10-06T23:34+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry",
-    "capesize",
-    "freight rate"
-   ],
-   "summary": "Baltic Dry Index rises as Capesize freight rates rebound BigMint",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f629cc8c525c",
-   "title": "CMA CGM Group Completes Acquisition of FedEx Supply Chain",
-   "original_title": "CMA CGM Group Completes Acquisition of FedEx Supply Chain",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWk1mOS1RTVhVVXZORzJhTFJVdldXTEk0NzRabGFhV09XMnZDYWgyY3lvVUJxaEJoUFF4cUpHY3FfbVlsUndJNHNGbVdoTVppeTJiZXRTaFZ4Rkt0dUJ3VHNPdVk2ZjIyNFUxNjF6YzdxQmJDU3B0OFRnYU9VLUpOZTRVRFBrRjVld2V3cVJn?oc=5",
-   "source": "Star Concord",
-   "published": "2026-10-03T07:00+00:00",
-   "added": "2026-10-06T10:01+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquisition",
-    "supply chain"
-   ],
-   "summary": "CMA CGM Group Completes Acquisition of FedEx Supply Chain Star Concord",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "633501611cc3",
-   "title": "DP World to develop 10,000-hectare deep sea port and economic zone in Nigeria",
-   "original_title": "DP World to develop 10,000-hectare deep sea port and economic zone in Nigeria",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdm5qbkFfY0JQYkZsRl9HSlgyeDk2QWJDQUFKS1NZUmRLY19pMV9TNlZDaUFpX1I3STFybTdVVHVjX3hscV9IN0lzeFkwa0xqMGpRZ3JrNXpYMnl4T29Jd3dZWXk1VHYxcTlUYV93QUpYZjhmZ1JGMUJySlhDcGRwT2RmZk5Eb1RiOXlmY1QtXzF6VzFwV2pIcjNPcWFEdWZLV1dYNnRNWWxtY0pldmx1YU0zbFVvWHhRbzB0b2k2a191bmVKdVhiTHNEYXZ1dw?oc=5",
-   "source": "Data Portuaria",
-   "published": "2026-10-03T06:55+00:00",
-   "added": "2026-10-03T08:34+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "DP World to develop 10,000-hectare deep sea port and economic zone in Nigeria Data Portuaria",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "51e8d507749b",
-   "title": "Hungary reviews Trieste terminal project",
-   "original_title": "Hungary reviews Trieste terminal project",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObUN1U01kYXBRUFNrM1lxbThwYlZmM2piaUZhcEFpOXBjZWpRS3hFYWJuMlBxSXZTc3RVbHpIVTdkam5GMXlFNTdXTnljM2pQZVZlWFBpX0g5aTNaWTF5LXhIOWFySmt1Z215WVNwNTBzY294N2Q2UWtyZG5yS0VJWHhWd21LcGZyWEQzekZB?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-03T06:47+00:00",
-   "added": "2026-10-03T06:49+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe",
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Hungary reviews Trieste terminal project WorldCargo News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "df490664fa81",
-   "title": "European Heatwave and Drought Wipe Out 16.7 Million Tonnes of Grain, Cost Farmers €3.2 Billion",
-   "original_title": "European Heatwave and Drought Wipe Out 16.7 Million Tonnes of Grain, Cost Farmers €3.2 Billion",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RamlhQWEtdFFrUjFYVUNxYk91MXlScFVuYnFESzhGZFh6R1RZUU1oS2VYYUZvMWNTSkp3NGE4NXg3Vy1WM2pQWjRnby1YZHRnM3lHMU9DS25rMExpWS0xU0xuUVI5bkFuZTUyampmdjY2eDhTRHhoOWRB?oc=5",
-   "source": "Indian PSU",
-   "published": "2026-10-03T06:35+00:00",
-   "added": "2026-10-03T06:49+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "European Heatwave and Drought Wipe Out 16.7 Million Tonnes of Grain, Cost Farmers €3.2 Billion Indian PSU",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1791c8674e38",
-   "title": "Hogan Lovells Cadwalader advises LVO on its acquisition of a majority stake in Seatram Logistics Group",
-   "original_title": "Hogan Lovells Cadwalader advises LVO on its acquisition of a majority stake in Seatram Logistics Group",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRlZkOWtIMml5SU85OEZYeXRGQmNYNEhSdTYybURjTVYzM3VGaUZlUllCa1dqeUJHMkdES3gtOVo2RXhPV3BLblRzQ0hzTzBidkhSeUpHVVdGajNYTUxSeEs3NXBoM3RiMnR2MXFxaFA5QXJBSlN2VmdYblFzTU9WejFPWG4tZUN3di1HNERMVC1zQmYtd1ctME9ZUFVwSW5xMEs2Yi1LdFlnTHhuMF9hUjNSeGhqeTVaN0lSdVFyb29EWFM3VWc?oc=5",
-   "source": "Legal Desire",
-   "published": "2026-10-03T06:34+00:00",
-   "added": "2026-10-06T22:19+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquisition",
-    "logistics",
-    "stake"
-   ],
-   "summary": "Hogan Lovells Cadwalader advises LVO on its acquisition of a majority stake in Seatram Logistics Group Legal Desire",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "68256497e529",
-   "title": "Port assessing gantry cranes after wind incident takes them offline",
-   "original_title": "Port assessing gantry cranes after wind incident takes them offline",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd0FmRUdxZW1WQ3k5bXctODI2OXNFQUlFSV9oMkJ6dWpwWDR2TXJTVy14MWRDc2hFTk5VRFRnLTlWNk9qYlFlMGZjbEd1ZHZoSF81MmFmNHJBXzRuc1JVMmFtVUdEa2FkR21iQTF0aTVUQWpoV2lqWWM3TzdxaFoyc2RCRGpWTmRnZV9SbW1lNWdfNVhNM0FQdEhfVHBvV2FYSXpCeUJ6TWwzcE1TMlNlYVpldlBtNHNVN0pNQ0o1YW90UnhsQWk1T1hpdFNJNGM5N21HajZSbVZUVkRhWmxR?oc=5",
-   "source": "guampdn.com",
-   "published": "2026-10-03T06:31+00:00",
-   "added": "2026-10-03T08:34+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "port"
-   ],
-   "summary": "Port assessing gantry cranes after wind incident takes them offline guampdn.com",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e42a854d8376",
-   "title": "Chennai Airport Terminal 5 project: Land acquisition work begins",
-   "original_title": "Chennai Airport Terminal 5 project: Land acquisition work begins",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVGtrQ05RS1RYZEN2amRHYlhtdGlsVW02SXpxdjNYNnlOOHRWWFJrYjlZYktGX3FOd0VJczB4aFFsXy1zNGtqRGZrZHo1SzRQNWxsVEJwQkdSTGRMTk8waHMzZHNjdkZXNVBFX0VBUWU1SmVGN2dWYmFyVHZYRFhXVThEYUhpcWQ1R3BIal9hZ0twTlZBWjlZb1EtdkU4cXFoTlE?oc=5",
-   "source": "newstodaynet.com",
-   "published": "2026-10-03T06:31+00:00",
-   "added": "2026-10-03T06:49+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquisition",
-    "terminal"
-   ],
-   "summary": "Chennai Airport Terminal 5 project: Land acquisition work begins newstodaynet.com",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8820bc71ff8d",
-   "title": "KRS Corporation acquires majority stake in India’s Coldrush Logistics",
-   "original_title": "KRS Corporation acquires majority stake in India’s Coldrush Logistics",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3REdER2Z295dEw5d2ctZVo4dDhNTzA2YUdaXzJpSV9oQnh2RUpUd21oOXdRZmkyakhSOXlrUGNkVHVjcmhxaUxlLUhsRS14Q0djdTBDUE1qOXViRzB0MWpmalRlMEVNbjUzaGZsclBqeDRNZnVOc1hUQVNMTlJlUXlrRWo3U3I2ZGNWS1NLeVBVSExtOFdYZmxNcWRydGFBOUR3?oc=5",
-   "source": "Logistics Insider",
-   "published": "2026-10-03T06:27+00:00",
-   "added": "2026-10-03T06:49+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "acquire",
-    "acquires",
-    "logistics",
-    "stake"
-   ],
-   "summary": "KRS Corporation acquires majority stake in India’s Coldrush Logistics Logistics Insider",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "45db9421d446",
-   "title": "Why The Recent Crude Oil Tanker Strike Off Oman Should Worry Global Shipping",
-   "original_title": "Why The Recent Crude Oil Tanker Strike Off Oman Should Worry Global Shipping",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkRyRG1jaXlqUzd1Q0hueHNWb1MwQV90Zk5McUlxckFqVl82ZHcxMVJtQVVyWWZUVkt5RVhqZUgyWGVMQTcwWmxVVDlaNkYzMVFZdndTV1QzVTZ1c3ZzRFgwMDRHZW9ld0FSZDVNYzBkaWZfYjBneTRVZW1kTlhSaFVVUUhEYU5TRVlPR3Bqaw?oc=5",
-   "source": "ИФЗ РАН",
-   "published": "2026-10-03T05:22+00:00",
-   "added": "2026-10-03T08:14+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "shipping"
-   ],
-   "summary": "Why The Recent Crude Oil Tanker Strike Off Oman Should Worry Global Shipping ИФЗ РАН",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "47dfb2502fa1",
-   "title": "India’s steel boom is reshaping the global trade in coking coal and coke — Argus",
-   "original_title": "India’s steel boom is reshaping the global trade in coking coal and coke — Argus",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHR0d0kzSk42ZHNCWjRzRUhjVWhPVzFCRzh0bDc2WW1jbFZFd3lsMTc3Vmowcjd2Q1N6OWlsSmFxLWo0ZW91QVAxcDlDbVZOMGdaQ2UtRGxEcU5wdFh1bzhhYUhNY3NtSDQwZDVDWGxxa1p4OHBVU2FnX2Jza1ZWdzl3WEpoUEVUUnBGVkZnY1pESzRocW9YNU1raEdhV0pDMWM2WDBCaUR5cmxtVnVZ0gGvAUFVX3lxTE54dHR3STNKTjZkc0JaNHNFSGNVaE9XMUJHOHRsNzZZbWNsVkV3eWwxNzdWajByN3ZDU3o5aWxKYXEtajRlb3VBUDFwOUNtVk4wZ1pDZS1EbERxTnB0WHVvOGFhSE1jc21INDBkNUNYbHFrWng4cFVTYWdfYnNrVlZ3OXdYSmhQRVRScEZWRmdjWkRLNGhxb1g1TWtoR2FXSkMxYzZYMEJpRHlybG1WdVk?oc=5",
-   "source": "GMK Center",
-   "published": "2026-10-03T04:31+00:00",
-   "added": "2026-10-06T10:24+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "coal",
-    "steel"
-   ],
-   "summary": "India’s steel boom is reshaping the global trade in coking coal and coke — Argus GMK Center",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1f0a1adde9cf",
-   "title": "Arctic Shipping Voyages Hit Record 133 in One Month as Iran War Diverts Ships",
-   "original_title": "Arctic Shipping Voyages Hit Record 133 in One Month as Iran War Diverts Ships",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR2hxTXZhblN5ZmxfNUFENVlJNVdZUFp0VTBacWNodkRtZnNyTmFjWVAyVlBERU5VZ3RuUzJxeVB5Ri1WeGJjRTJDeXQ0LVBKZXFicDBvM25LVG1CTDNjbXlxbGJ6YW0yNE9rSWxkYThPM3JJT2JuR25WUks4Vm1jb0dB?oc=5",
-   "source": "Hokanews",
-   "published": "2026-10-03T03:40+00:00",
-   "added": "2026-10-03T04:06+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "shipping",
-    "war"
-   ],
-   "summary": "Arctic Shipping Voyages Hit Record 133 in One Month as Iran War Diverts Ships Hokanews",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b03e3044b188",
-   "title": "Germany intends to block sale of logistics firm to China’s Cosco",
-   "original_title": "Germany intends to block sale of logistics firm to China’s Cosco",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWZBaUtHN3BtYy1fWGVYa2VHU1MyUFpsTjZnRkVsT3JxZTJWTURlVlF0S1lNR0N2QUFuY0dzOUpJSk5CSUJuN1ZWa0tXbkM4Wm0zSUtTRkRFR3RsLTZnSHpkcXJVNnhUejlGSFBWTnhQT1BKVlV3LVZWeFFVMWVocnJqbXJIUVFqTzRBZFdRSXZvMmRLX2phaFRWeExuYkphRWJGUHBmU1BTak9UaUFwajM1eVMtN1Nv?oc=5",
-   "source": "indiashippingnews.com",
-   "published": "2026-10-03T03:19+00:00",
-   "added": "2026-10-04T02:19+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe",
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "logistics",
-    "sale of"
-   ],
-   "summary": "Germany intends to block sale of logistics firm to China’s Cosco indiashippingnews.com",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "856b2acaa839",
-   "title": "Russia-Ukraine war is hitting India’s food and fertiliser security. Delhi has a role to play",
-   "original_title": "Russia-Ukraine war is hitting India’s food and fertiliser security. Delhi has a role to play",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLXNnaDBWRkstbzRWZlkzM01VMWRlRWZncGVHaEJjUk9pQXdUMS1LLWZ4M2hPS0FmNWl5SzQzRnNzZjJlLUxSSEpLU3Z3VVplRm1IX24zczliUG1EQ01Ea0Z0QkJUVER1U280Qjc2aWVUdm54NTdiQ2twclpHV0ZFZEJpSGdLYUpG0gGOAUFVX3lxTE5HWFVJekNKZWEyLU5DTUNFXzJVcWw3M0lmYVlOdmpseDNUS2U5OXlEM19JbHB1cnpyZjFrUGRwWlpxcnFvVzdheUtscVdTdE1uWm5pZjc2elFRLWZ3T2hkWVcwU3dHeUFxU1ptby1xaVRhaGlsVHNNN3p5c01GRVd3djZSalU5UnBRLXNjS2c?oc=5",
-   "source": "ThePrint",
-   "published": "2026-10-03T03:18+00:00",
-   "added": "2026-10-05T03:05+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "fertiliser",
-    "russia",
-    "security",
-    "ukraine",
-    "war"
-   ],
-   "summary": "Russia-Ukraine war is hitting India’s food and fertiliser security. Delhi has a role to play ThePrint",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "73e6ca0945f8",
-   "title": "AD Ports Group completes $835m acquisition of Brazilian terminal operator CLI",
-   "original_title": "AD Ports Group completes $835m acquisition of Brazilian terminal operator CLI",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOG9VYl9WZVh5Z1ktTVJVVEZ3NnFQV0ljYlJpN2Y2NlNBSnZjTjVwWHY2MnM2VUZZazVPT2g0XzFwcUp6X0FPX1dlTlVTTzM1bndYMjRFalJlX2VlSFNRUkdkZ2JGWU41eHllMjFDbmZYVWo1VGdfVmlWRXRISG1RdnZ30gGPAUFVX3lxTE1yX0c3VDl1VWJONWJqczZQRFNNUDg4dUk4Mks0bWNrLVJIZnpBYzk0Z1ZXM0VEQjR4ckpfeUFjUzliRjVlRzV6a1lpaXlvWXFlTGRyWFdNZEJ2bG43U2pkaGhsT0gwOGtkZmZiY1JGREJrRkxTUnYxRDZuZHk3Szg2RzJ3MnNlSW4zM1g5RW1R?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-10-03T03:08+00:00",
-   "added": "2026-10-03T03:42+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "mna"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Middle East",
-    "Latin America"
-   ],
-   "tags": [
-    "acquisition",
-    "port",
-    "ports",
-    "terminal"
-   ],
-   "summary": "AD Ports Group completes $835m acquisition of Brazilian terminal operator CLI Baird Maritime",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7cfa5be33149",
-   "title": "Indian oil refiners hire tankers to cross Hormuz as crude flows recover: Report",
-   "original_title": "Indian oil refiners hire tankers to cross Hormuz as crude flows recover: Report",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ2hzNTd6RkRzSllhUEhJNUhDT21Ua2xqZkEtbFMxWTE5bTY2Z0duelZUVTZjakxPalJYdXhGTmJMcFJ1dkJKM2s3NnRrX1hMeW9HUDcyVDVUWF9DODFaNkhvcUtYZmZha2JSZm9qeE9fSVN3ZWhTV01lbXdybE5mU3FmUGVCa1hYSXdqaE9QQnpmQ1d4ekJuSnJKWC1rZXJrZkI1cDRLTHZnWnVjeGdxN3J4dGE0LVBWX1c3VUpwRlQ2bUkxaVU2NnRUQnJ5YnlwVnQ40gHYAUFVX3lxTE9BZUI2WU5vYm1hSVBxRUFkYTMtNXZKcDYxTmtfeGVZbGlhd2RMNVVyRV9ndTR6OVdSZEYxeVRBal9OdE0tV3N3d1VLWVF6Ulp1SzVfYV91M1ViWWM4OEwzVVVGamIyNEE3Mi1hSmdEaHdrbGVLSzczc0VZNnBDZm1la0htN0E4bnNVVUlNTENvMko1dW85SU00OTI4TVNiWWE3XzVlRkkwLUVTYXBnRGxBS1p1d1BMQVA5QTA2ak5UTGVId1B4NDVUVkJIOGRLVmtVSHJUMGlnWA?oc=5",
-   "source": "ET Infra",
-   "published": "2026-10-03T02:43+00:00",
-   "added": "2026-10-03T07:35+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "crude",
-    "hormuz"
-   ],
-   "summary": "Indian oil refiners hire tankers to cross Hormuz as crude flows recover: Report ET Infra",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
