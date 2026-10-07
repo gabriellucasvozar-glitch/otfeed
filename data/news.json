@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T09:22+00:00",
+ "generated_at": "2026-10-07T09:45+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "f941f5749bf4",
+   "title": "Seven north European ports back cross-border automated freight push",
+   "original_title": "Seven north European ports back cross-border automated freight push",
+   "url": "https://splash247.com/seven-north-european-ports-back-cross-border-automated-freight-push/",
+   "source": "Splash247",
+   "published": "2026-10-07T09:40+00:00",
+   "added": "2026-10-07T09:45+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Seven major ports across Belgium, the Netherlands and Germany have secured government backing for a wider cross-border programme aimed at cutting regulatory barriers and accelerating automated freight and energy infrastructure across the Antwerp-Rotterdam-Rhine-Ruhr corridor. The agreement was reached at a Port Summit in Meise this week between the governments of Flanders, the Netherlands and North Rhine-Westphalia and the port authorities of Duisport, North Sea Port, Antwerp-Bruges, Cologne/HGK, Moerdijk, Oostende and Rotterdam. One of the more concrete logistics measures is a plan to use cross-border corridors such as Antwerp-Rotterdam for automated freight transport by road and inland waterway. The three governments also want closer cooperation on drones, with rules and procedures to be aligned across borders. The wider programme covers a common market for secondary raw materials, coordinated development of hydrogen and CO2 transport infrastructure and joint work on inland navigation and strategic water management. Ports in the region have also been pushing for so-called acceleration areas to shorten planning and permitting times for major infrastructure and industrial projects. That call has now been incorporated into the summit declaration, alongside moves to reduce regulatory differences between the three jurisdictions. The three governments will take the programme to Brussels, asking the European Commission to recognise the Antwerp-Rotterdam-Rhine-Ruhr Area, or ARRRA, as a strategic European port-industrial cluster.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "56c559aa451f",
+   "title": "Commodity trader takes Pelagic handysize for up to 11 months",
+   "original_title": "Commodity trader takes Pelagic handysize for up to 11 months",
+   "url": "https://splash247.com/commodity-trader-takes-pelagic-handysize-for-up-to-11-months/",
+   "source": "Splash247",
+   "published": "2026-10-07T09:33+00:00",
+   "added": "2026-10-07T09:45+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 14,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "bulker",
+    "charter",
+    "commodit",
+    "handysize",
+    "shipowner",
+    "vessel"
+   ],
+   "summary": "Cyprus-based shipowner and fund manager Pelagic Partners has fixed its handysize bulker UBC Houston to an unnamed major commodity trader for up to 11 months. The 2015-built, 39,000 dwt vessel has secured a nine-to-11-month time charter at $17,250 per day, Pelagic said. The company did not identify the charterer. Pelagic acquired the vessel in June 2023 as part of an expansion of its dry bulk exposure. At the time, the acquisition took the fund compartment holding the ship to seven vessels and Pelagic’s total acquired fleet since inception to 18 units. The latest fixture gives Pelagic medium-term cover while leaving the ship open again next year. At the headline rate, the contract represents roughly $4.7m to $5.8m of gross hire over the nine-to-11-month window before commissions, off-hire and other deductions. In July, Oslo-listed Pelagic Credit struck a $47.4m sale-and-leaseback deal covering three Hartmann-controlled handysize bulkers, its first investment in the sector. The ships were placed on seven-year bareboat charters back to Hartmann.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "88fb98520249",
    "title": "Przeładunki kontenerów w polskich portach w górę o 15 proc. Pomorze staje się bramą dla Europy Środkowo-Wschodniej",
@@ -65,6 +122,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "fd78b95bd039",
+   "title": "Port Congestion Now Ties Up 12% of Global Container Capacity",
+   "original_title": "Port Congestion Now Ties Up 12% of Global Container Capacity",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDE3WU84eGg5UkFqbmprNEVJSEc5aDlHRkVwSUU1aFpqZlV0TjJKeVJEMTNFRjVJM1hTS3RId3M4cWwzbHlMTUNwRWc5M0N6ZEx1cG04b1ZETUpWM1BzaEN2VkNFY1pRV1A2RXpwdi1mVkZpU2VFMXVhMG4xQWJYUU4yb0Z5REFETFVnX29ZcHhteHFYQ1VZamJ3UzlVSXVVVlQ3R0o1dlE?oc=5",
+   "source": "Global Trade Magazine",
+   "published": "2026-10-07T09:03+00:00",
+   "added": "2026-10-07T09:45+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "congestion",
+    "port",
+    "port congestion"
+   ],
+   "summary": "Port Congestion Now Ties Up 12% of Global Container Capacity Global Trade Magazine",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "9de8d4ce0934",
    "title": "JNPA secures US$70m loan for shore power rollout",
    "original_title": "JNPA secures US$70m loan for shore power rollout",
@@ -86,6 +171,37 @@
     "shore power"
    ],
    "summary": "JNPA secures US$70m loan for shore power rollout WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "262772c3df90",
+   "title": "Asian Terminals Inc. and DP World Deploy Six Hybrid RTG Cranes at Manila South Harbour - LM",
+   "original_title": "Asian Terminals Inc. and DP World Deploy Six Hybrid RTG Cranes at Manila South Harbour - LM",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXBrdFZfVFF6cmVRelJsVV9yd2FfMF9jd3Q0aWNfZ0RFdUxaWkktVVJ3d2N1ZE1MdFY0QVJFZ3hHYnBWTUtabVpNYUtDUzZldldTN1lKLXRvdWJSYnNSd094T0lyckxHcFYtdHd2SU5KZ2VaUUhKQlJmdHQ2WnRZckhISURZc1pqVElSZXlWQ1VBS3J5eU40TEdVU1JWSlVFUUNTc0lLWHVqT2cyOVV4Yi1OUHlKTjg?oc=5",
+   "source": "LM - Logistics Manager",
+   "published": "2026-10-07T08:02+00:00",
+   "added": "2026-10-07T09:45+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "logistics",
+    "rtg",
+    "terminal"
+   ],
+   "summary": "Asian Terminals Inc. and DP World Deploy Six Hybrid RTG Cranes at Manila South Harbour LM - Logistics Manager",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
@@ -142,6 +258,33 @@
    ],
    "summary": "Rail grain deliveries to Ukrainian ports fall 38.6% in September UkrAgroConsult",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c45072f10ba0",
+   "title": "Budynek tymczasowego terminala przylotów gotowy. Lotnisko Szczecin–Goleniów rozpoczyna kolejny etap rozbudowy",
+   "original_title": "Budynek tymczasowego terminala przylotów gotowy. Lotnisko Szczecin–Goleniów rozpoczyna kolejny etap rozbudowy",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd1lyRmRBdUdKc1UwRExSRXlBaGRrMmZBVlRZOUxoMmUtNGx0bEd5MUhPcEIyXzFySmFkQWZYamZ5U0tDMGFWdGtVQWtKcHAtY1dkOW1SSmdpem9xNThjQ0FRYkxacU84NmFPQlRLcy1xU3p2WFZ3TGhOSkpOeGViRWhLRWhyd1JSNjQwSkJJRlFzSUlSOHZGR21PUWVna1duNjU1M19SX2Y5VnVvdC1na3lKekN5Y2p2ODBZUHBaYVVUUE1lM1hYNFkwemJwcy0tSmdudEZmY25MMWk0OTE0dUx4dkFUUQ?oc=5",
+   "source": "eKoszalin",
+   "published": "2026-10-07T07:54+00:00",
+   "added": "2026-10-07T09:45+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "high",
+   "score": 8,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "szczecin",
+    "terminal"
+   ],
+   "summary": "Budynek tymczasowego terminala przylotów gotowy. Lotnisko Szczecin–Goleniów rozpoczyna kolejny etap rozbudowy eKoszalin",
+   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
    "summary_method": "feed"
   },
   {
@@ -16394,146 +16537,6 @@
     "soybean"
    ],
    "summary": "According to Banchero Costa, “in Jan-Aug 2026, soybean exports from the USA increased by +30.9% yo-y to 19.3 mln tonnes, recovering from a -10.8% y-o-y decline recorded in Jan-Aug 2025. In third place is Argentina, whose exports typically peak from May onwards, with a 2.8% share so far in 2026, followed by Uruguay with 1.3% and Canada with 1.0%. In Jan-Aug 2026, Argentina exported just 3.4 mln tonnes of soybeans, down -43.1% y-o-y from the 6.0 mln t in Jan-Aug 2025. It added that “top soybean discharge ports in China in Jan-Dec 2025 were: Rizhao (9.6 mln t in Jan-Dec 2025), Machong (7.4 mln t), Tianjin (7.2 mln t), Zhangjiagang (7.0 mln t), Gaogang (5.4 mln t), Fangcheng (4.2 mln t), Nantong (4.2 mln t), Dongjiakou (4.0 mln t), Ningbo (3.6 mln t). 93.1% of soybean imports into China in 2025 were loaded on Panamaxes (including Kamsarmax), 6.3% on Supramaxes, 0.3% on PostPanamaxes. This was also below the 13.9 mln t delivered from the USA to China in Jan-Aug 2024. The USA now accounts for 16.2% of China’s imports so far this year. Brazil accounted for 75.5% of China’s soybean imports in Jan-Aug 2026, with volumes from Brazil to China essentially flat at +0.4% y-o-y in that period, at 57.0 mln tonnes.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "1dd6a4e13e37",
-   "title": "GMS Week 40 – Scarcity Puts Chattogram On Top",
-   "original_title": "GMS Week 40 – Scarcity Puts Chattogram On Top",
-   "url": "https://www.hellenicshippingnews.com/gms-week-40-scarcity-puts-chattogram-on-top/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-02T21:00+00:00",
-   "added": "2026-10-02T21:20+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "hormuz",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "The Gulf supplied another reminder this week that improved cargo flows do not equal normal shipping conditions. Several tankers were reportedly struck by unknown projectiles while transiting the Strait of Hormuz, followed by another tanker incident on October 1 in which a vessel caught fire, with the crew reported safe. Gulf crude movements have recovered significantly from earlier disruption, but passage risk, security and insurance remain firmly embedded in the voyage calculation. The Baltic Dry Index recovered modestly to 3,140 on Thursday after four consecutive declines, with Capesizes at 5,010, Panamaxes at 2,379 and Supramaxes at 1,794. The Turkish Lira slipped beyond 49 to the Dollar. Pakistan delivered the week’s fresh regional inflation number, with September CPI easing to 10.26% from August’s 11.1%, providing some macro relief without materially altering Gadani’s buying equation. Chattogram has processed a substantial run of previously secured tonnage, including large gas and tanker units, while Gadani has also received and delivered vessels secured during its earlier buying run. Bangladesh moved ahead of Pakistan to reclaim the top position across the conventional board, with Chattogram recyclers bidding more aggressively for the very limited selection of available candidates. For Week 40 of 2026, GMS Market Rankings / Vessel indications are as below.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "1a512a4c4f6d",
-   "title": "The Week in Alt Fuels: Back to the future",
-   "original_title": "The Week in Alt Fuels: Back to the future",
-   "url": "https://www.hellenicshippingnews.com/the-week-in-alt-fuels-back-to-the-future/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-02T21:00+00:00",
-   "added": "2026-10-02T21:20+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "carrier",
-    "lng",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Shipping is turning back to one of the oldest tricks in the book as modern sails find their way onto tankers, container ships and LNG carriers. The past couple of months have seen a streak of developments around wind-assisted propulsion, spanning installations, orders, vessel launches, technology approvals and new trials. These are not just small-scale demonstrations, with major shipping companies across multiple ship types now entering the field. Just 99 vessels are currently equipped with the technology, according to DNV data. Be it the 1863 iron windjammer Star of India, the 1765 warship HMS Victory or the Spanish galleons of the 16th century, ships have harnessed wind to cross oceans for centuries. In September, Lloyd’s Register assessed SunRui’s technology, ClassNK granted approval in principle to OceanWings’ rigid wingsail systems and Bureau Veritas assessed a new suction sail design from Bound4blue. Moller-Maersk was bunkered with an unspecified quantity of 100% bio-ethanol at the Port of Houston in the US. Barge operator Kirby delivered the stem, sourced from biofuel producer POET, to the Tangier Maersk in a ship-to-ship bunker operation. The production cost of e-methanol at the planned plant at Deendayal Port in Kandla, Gujarat, is estimated at $750/mt.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "14d9b2ba1878",
-   "title": "Affinity Tanker Weekly, 2 October 2026",
-   "original_title": "Affinity Tanker Weekly, 2 October 2026",
-   "url": "https://www.hellenicshippingnews.com/affinity-tanker-weekly-2-october-2026/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-02T21:00+00:00",
-   "added": "2026-10-02T21:20+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "suez"
-   ],
-   "summary": "The VLCC market ends the week on a high with a tight list, growing demand for prompt crude, and firming East of Suez. Source: Affinity Research LLP",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "58b7db03af12",
-   "title": "Clean tanker markets size up impact of potential US diesel export curbs",
-   "original_title": "Clean tanker markets size up impact of potential US diesel export curbs",
-   "url": "https://www.hellenicshippingnews.com/clean-tanker-markets-size-up-impact-of-potential-us-diesel-export-curbs/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-02T21:00+00:00",
-   "added": "2026-10-02T21:20+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East"
-   ],
-   "tags": [
-    "diesel",
-    "russia"
-   ],
-   "summary": "US restrictions on diesel exports would upend Atlantic Basin clean tanker demand at a moment when the global middle-distillate market is reeling from simultaneous supply shocks in Russia and the Middle East, BRS Shipbrokers said in a report. The impact on medium-range tanker earnings in particular could be swift and severe, BRS said Sept. 28. US President Donald Trump had floated a diesel export ban in response to record domestic fuel prices ahead of midterm elections. Tanker implications A full ban could strand around 1.35 million b/d of US Gulf diesel exports — the equivalent of four MR2-sized cargoes per day — with Europe and Latin America most exposed given the absence of readily available alternative supply, BRS said. Pressure would fall most heavily on MR2s, which carry more than 90% of US diesel exports, BRS said. There could also be bleed-in to MR1 markets as MR2s compete for smaller stems, while clean tankers would likely ballast away from the US Gulf, putting pressure on tonnage lists elsewhere, BRS said. The offsetting factor for the broader clean tanker complex is a potential redirection of Asian barrels westward. “With the potential diesel ban coming, the appetite for US diesel exports is declining because these products are needed at home, whether there’s a ban or not,” Simpson said.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "090db3c356e9",
-   "title": "VHBS New ConTex Container Ship Time Charter Assessment Index Week 40",
-   "original_title": "VHBS New ConTex Container Ship Time Charter Assessment Index Week 40",
-   "url": "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-40-3/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-02T21:00+00:00",
-   "added": "2026-10-02T21:20+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "charter",
-    "hamburg"
-   ],
-   "summary": "All the yellow (as in color of the arrows) below, indicates a rahter stable enviroment this week. Demand is there, tonnage is limited, Source: Verband Hamburger und Bremer Schiffsmakler e.V",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   }
