@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T14:33+00:00",
+ "generated_at": "2026-10-07T14:53+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,37 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "809791d52b1c",
+   "title": "The Red Sea and Hormuz shipping crisis: A 2026 guide for UK supply chain managers",
+   "original_title": "The Red Sea and Hormuz shipping crisis: A 2026 guide for UK supply chain managers",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRFdpMTE3MDBncnJydVBicFVDYmE5bEZNdlMyc0xrYWNJN2xvWElXYmcxX1VmMTV2UUFrckhVbEdUOXBXVXZJdFE2VUwzbjJvMWdPa0pzN3BrUFBmZmZRWjU1QzcwcWZfdGRNTlZUZUZnX3N3SUNKUG1aWEw1UUFJMXdQUUN4Vk5KQ05jdkVYUENfUWNsenNTZjZqSl8zSGNXeDFxeGt6dzI0OExpU3FR?oc=5",
+   "source": "London Daily News",
+   "published": "2026-10-07T14:09+00:00",
+   "added": "2026-10-07T14:53+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Western Europe",
+    "Middle East"
+   ],
+   "tags": [
+    "hormuz",
+    "red sea",
+    "shipping",
+    "supply chain"
+   ],
+   "summary": "The Red Sea and Hormuz shipping crisis: A 2026 guide for UK supply chain managers London Daily News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "41f4028997e5",
    "title": "Lineas Chosen for Rail Consolidation in Waasland Port Area - News and Statistics",
@@ -1868,6 +1899,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "314a292cddeb",
+   "title": "EU Customs Reform 2026: High Fees and a New Super Authority",
+   "original_title": "EU Customs Reform 2026: High Fees and a New Super Authority",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOM2l2T3dSaEViODhQT18tUGRSRWptZ3lfYWZ1Y2kyRHcwUXl5aE1ZZk5vLUJnb0FVcFJJQng3eFc0ZXkzTzIzOHAzTnN3SXFTMkp5V2hHanlCXzIyamVFdEktR2J6SklqaV9qcEkyaUtLMFVGREtyRGNNUmwwSnJJQw?oc=5",
+   "source": "Steel and Stainless Steel News",
+   "published": "2026-10-07T08:11+00:00",
+   "added": "2026-10-07T14:53+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 7,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "customs",
+    "eu ",
+    "steel"
+   ],
+   "summary": "EU Customs Reform 2026: High Fees and a New Super Authority Steel and Stainless Steel News",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
    "id": "9de8d4ce0934",
    "title": "JNPA secures US$70m loan for shore power rollout",
    "original_title": "JNPA secures US$70m loan for shore power rollout",
@@ -2112,6 +2171,33 @@
     "biomass"
    ],
    "summary": "From Marine Biomass to Marine Fuels: India’s Emerging Opportunity orfonline.org",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "10427f91bb03",
+   "title": "India’s steel ministry is unlikely to introduce new measures to curb c",
+   "original_title": "India’s steel ministry is unlikely to introduce new measures to curb c",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkVNb0pYbHRJU21tR093SXVoaHUyLW1JWGJXVVQzU1VRU195VndZVGM2b2lwOUhDRy16SEtvWGd3eVV4d3VYTE1ZaUE4TW9TeFpUSWZQN0E2R3RZUWd2bW1BSTJVOTVRZUs1bmNNOVByRkI2Qm1DNmJPSWpPMEcwOS1jNDcwNEVHZVZhYVZncnl5MjU5a25OX2VfWlUzZ3RnQ0RyUVNLVQ?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-07T07:30+00:00",
+   "added": "2026-10-07T14:53+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "ministry",
+    "steel"
+   ],
+   "summary": "India’s steel ministry is unlikely to introduce new measures to curb c Shanghai Metals Market",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16472,87 +16558,6 @@
    ],
    "summary": "Europe Faces Pressure as Ukraine Seeks Help to Export Millions of Tons of Grain Amid Transit Challenges inkorr.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ed90e516417d",
-   "title": "India is discussing agreements on grains and maritime safety with Moscow and Kyiv: Jaishankar",
-   "original_title": "India is discussing agreements on grains and maritime safety with Moscow and Kyiv: Jaishankar",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWGtKbVI0RHh0ZnIxZFpvVFRvRU0teXc0aV9XUE5nTnZBQ29rdThfdmVfeXNJU1RiREtJTzVRTEJsc3FBNmg4azJIbldJT08tNzlZbzZlNUI4SFdyalVveFQ4bGNJTHdjeVJCMTF5bWFLNEdYd2hLenQ4RVVPXzhDR3hzbU1BYWlLUVRYaF9tYjljWVNpUlUtUjR5RlRSbDhfZHpIdGRhVzQ2SHc3VEpMQUVHRXpYUlRvVTRORVRoRjNpMTBBdjBIajNwVdIB0gFBVV95cUxQUU9oUk5rX3NNd1F0d0FtTDJRUC1LbVZ2SW1TeGlNQTM5bkpyZnlOa2dCV3BMbGpqRzU3R211bUQzSlFoUnRLc203aXozUjJiZFBveGJ3WE9FT0RrWERFZk1GYzdZcDJoTGRVeFh3UjFvNlZ5THlCQ2FMNU9kc1dMbDdkbmZiOVM5bjgtMTRCNmYtNW5wdDhiWVJkdklrdkJjWWZTOEVpLTB1UjgzMS1rbDNka1VjLVhwU1VfQjFhYWI3Z0NYOWZXdUdWdWhLOGRySFE?oc=5",
-   "source": "The Hindu",
-   "published": "2026-10-04T10:19+00:00",
-   "added": "2026-10-05T13:06+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "India is discussing agreements on grains and maritime safety with Moscow and Kyiv: Jaishankar The Hindu",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a337acf7fbe3",
-   "title": "Przeładunki w portach rosną: Szczecin i Świnoujście w górę, Gdynia ze spadkiem",
-   "original_title": "Przeładunki w portach rosną: Szczecin i Świnoujście w górę, Gdynia ze spadkiem",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUjB3Zm5mMVR1bDU3dXN1cncxdUYxX0x5VDZ1cTE4ZlJyR0FjdHZYMTc4TWZkX3hMcWluZnQ1SUJlWU1RQlNwTkZ3Y0tfN2xzTkc3WkU5MXFYczBla3JDeERmU3BhTFV2NzVhMHU5RVo2TWNUYnNGX0k5a3BlWUNGNkNHT0RmRkZiaHQtUGhGSXZTdTluaUc0bm1pVkhHeVc0czNnZUJjNG5pX0NpSWg5cHlZcTlVaTA?oc=5",
-   "source": "Farmer.pl",
-   "published": "2026-10-04T10:02+00:00",
-   "added": "2026-10-04T15:49+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "high",
-   "score": 12,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "gdynia",
-    "przeladun",
-    "swinoujscie",
-    "szczecin"
-   ],
-   "summary": "Przeładunki w portach rosną: Szczecin i Świnoujście w górę, Gdynia ze spadkiem Farmer.pl",
-   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bf01c6ded61f",
-   "title": "Rail Cargo Group says it takes on important part of Rijeka haulage",
-   "original_title": "Rail Cargo Group says it takes on important part of Rijeka haulage",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFlidjk1RGZXR0hyU2s4N2htLTZnaXRVSnNJT1N4SVFNY1VjcEQ1RDItbktfS3JwZmo0Y0pvZGVueFRRbTdSd1VfdjNSd1kwSjJSby1JbzdNa0p3ZThkUE1VUkd1YXlBY3MzNnQ0bGZxaW1zWlJkbU1FTU1RTHB2WmdGZXBYRlQwNjFFWFgxd1JsUmtLakJzUGFn?oc=5",
-   "source": "Railway Supply",
-   "published": "2026-10-04T09:35+00:00",
-   "added": "2026-10-04T21:52+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "rail cargo",
-    "railway"
-   ],
-   "summary": "Rail Cargo Group says it takes on important part of Rijeka haulage Railway Supply",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   }
  ]
