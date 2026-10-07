@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T11:28+00:00",
+ "generated_at": "2026-10-07T11:48+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,113 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "0ebd0bcf3230",
+   "title": "Bad weather creates headwinds for trade between the Americas",
+   "original_title": "Bad weather creates headwinds for trade between the Americas",
+   "url": "https://theloadstar.com/bad-weather-creates-headwinds-for-trade-between-the-americas/",
+   "source": "The Loadstar",
+   "published": "2026-10-07T11:38+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "carrier",
+    "port"
+   ],
+   "summary": "The easing of restrictions on Panama Canal transits has brought some relief to exporters in South America, but other headwinds remain, which could accelerate the widening gap between imports and exports. This month, Seaboard Marine is expanding its West Coast South America service to the US East Coast with a call at Gloucester City. The first arrival at the New Jersey port is scheduled for 25 October. The gap widened 20%, to 1.7m teu. Likewise, CTS data show South America’s maritime exports to North America shrank 1.1% year on year in July, whereas volume in the opposite direction expanded 7.2%. On a positive note, the Global Liner Performance Report for September, by Sea-Intelligence, shows schedule reliability between South and North America improved in both directions in the July/August period. Southbound it rose 1.2%, to 81.2%, year on year, while northbound it recovered from a drop the previous month, climbing 5.2 percentage points from June/July, to 80.6%, up 0.8%, year on year. The average delay for late vessels extended slightly, (up 0.09 percentage points from June/July) to 5.32 days, 1.55 days longer than a year ago. However, the average delay for all vessels shrank 0.20 days from June/July, to 1.10 days.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "ade8e6c04880",
+   "title": "Wallenius Wilhelmsen eyes up to 12 more car carriers",
+   "original_title": "Wallenius Wilhelmsen eyes up to 12 more car carriers",
+   "url": "https://splash247.com/wallenius-wilhelmsen-eyes-up-to-12-more-car-carriers/",
+   "source": "Splash247",
+   "published": "2026-10-07T11:30+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "carrier",
+    "lng"
+   ],
+   "summary": "Wallenius Wilhelmsen has raised about NOK2.88bn ($300m) in fresh equity as it prepares to add four large LNG dual-fuel car carriers with options for another eight. The Oslo-listed group completed a private placement late on Tuesday, issuing 17.145m shares at NOK168 each. The company said the proceeds, together with debt financing, would be used to fund an expanded newbuilding programme. Wallenius Wilhelmsen is in advanced discussions with shipyards for four large LNG dual-fuel vessels scheduled for delivery in 2030. The negotiations also cover options for another eight ships on similar terms, with quarterly deliveries from 2031 onwards. If all eight options are exercised, the company said its newbuilding programme would reach 26 vessels including options, with deliveries stretching from the third quarter of 2026 through 2032. The fresh tranche adds a different fuel configuration to the car carrier giant’s fleet renewal push. Splash has tracked Wallenius Wilhelmsen’s existing Shaper-class programme at China Merchants Jinling Shipyard, where the company built up a 14-ship orderbook, including eight units upsized to 11,700 ceu. Those vessels were designed around methanol dual-fuel propulsion and ammonia readiness.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "be1d87af525a",
+   "title": "Seoul rejects Kyiv claim over helping ease Russia fuel shortage",
+   "original_title": "Seoul rejects Kyiv claim over helping ease Russia fuel shortage",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4tQmFnUEJYcDI1LVR4dXB0UUoxRFUtNnNKVXRfYm5EV1N4MVN5VFpiYkdiYlZyQW1FaEd5d2NSNFBLVHJ1OHJ0bVBOSmJiOENiaVZvWUpBMA?oc=5",
+   "source": "The Korea Herald",
+   "published": "2026-10-07T11:16+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "russia",
+    "shortage"
+   ],
+   "summary": "Seoul rejects Kyiv claim over helping ease Russia fuel shortage The Korea Herald",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fec187d2cd09",
+   "title": "WorldCargo News Shore Power Special is out now",
+   "original_title": "WorldCargo News Shore Power Special is out now",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOW1fNnhsTHVVaHFhUHJ6bkFUWXVpVUVaQmJqMHpKcGJoZDgtcEFDcmZJM0lWLVo3YUtmeEN1cGpMeVJocVRmZ21RbmtZc1NLdXdiZE5ualRxZ19qYTdWM2VtT3JCZU5yazJsM1FqbWFyNF9BZ3hsQ21xNXczT2UtanVSS3BKeVZHd3Q3MDg0OEQ4VlNPQ1E?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-07T11:12+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "shore power"
+   ],
+   "summary": "WorldCargo News Shore Power Special is out now WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "90848c79ce08",
    "title": "Another Ceva reboot, another 10,000 staff. Can it deliver?",
@@ -39,6 +146,62 @@
    "summary": "Ceva Logistics has had a long history of re-writes. From its birth under Apollo – an era tarnished by a restructuring that left employee shareholders’ investments worthless – to life as a public company, and now as a mere arm of the opaque CMA CGM group, the 3PL has seen many new beginnings, some more successful than others. Yesterday, it announced another new version of itself – offering a simpler structure, stronger accountability, and a renewed focus on customers. Then-CEO Mathieu Friedberg said the vision for Ceva was “taking its final form” – but perhaps it was not so final after all. Ceva will now organise its activities around two global business units, Freight Management and Contract Logistics, headed by Henri Le Gouis and Chris Walton, respectively, as it continues to integrate acquisitions. “We all know huge cuts are coming, so it’s very uneasy times and it’s impacting our staff and customers.” CMA CGM completed its $1.4bn acquisition of FedEx Supply Chain on 1 October, adding nearly 10,000 employees and approximately 350,000 sq metres of warehouse space. That is another substantial business to incorporate, while Ceva says it will also focus on completing the integration of its previous acquisitions. On 13 August, it still could not give sellers a reopening date; sales began restarting in stages on 20 August.",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "extract"
+  },
+  {
+   "id": "e5999fe592db",
+   "title": "Farmers urged to secure 75% of fertiliser before CBAM takes effect in 2027",
+   "original_title": "Farmers urged to secure 75% of fertiliser before CBAM takes effect in 2027",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS3lEM0stem12a19mQkg4RU9hYkxlMjJfRFZTTjR4d2VRTlA5by15bDFFSV9DVzNSZlgwbkdsa0Q0dXpEM2JlQ1F0clFvdF9XS1JBWkZwU0ZMbk50MUg0ODVHeFpFS2VPcmI2emp5WXpqcm5MRk1CVTNpU2RoYWlFalBDMl9ZNnhQNURjSGRoX3NpdUo5QVZIYVpOYWZoUG9vSTZBZnY0THhVYVp0N3NyUEg3WHBBYm11ZTk0Rm90LUtBQQ?oc=5",
+   "source": "Farmers Guide",
+   "published": "2026-10-07T11:04+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "cbam",
+    "fertiliser"
+   ],
+   "summary": "Farmers urged to secure 75% of fertiliser before CBAM takes effect in 2027 Farmers Guide",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a39d6ed3e757",
+   "title": "News Content Hub - Fairplay Towage orders new tugboat fleet for LNG terminal support",
+   "original_title": "News Content Hub - Fairplay Towage orders new tugboat fleet for LNG terminal support",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQT2dpSFMteDZXejBmY21xMkdVTVRGSnZSSFpiMF9sdUpqQ3Z0djJDUjdVSzRiTzNFWXlSWUktSW1DNzZOMXVTUzBpR2Vvak9KV2RxMWlIblh5eGcxZi1jenpnN1hsT0RFWUtjXzZLWWhVVEdzcmtQSmpZdU84S3I1YmNaVjQ3LXpPNmlVVHFOa0lnazhNNUFsejVCT0ltbmNsblY2QnZwWmJlWUwwVlhQTVBkWHg?oc=5",
+   "source": "Riviera Maritime Media",
+   "published": "2026-10-07T11:02+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fleet",
+    "lng",
+    "terminal"
+   ],
+   "summary": "News Content Hub - Fairplay Towage orders new tugboat fleet for LNG terminal support Riviera Maritime Media",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "a306786f066f",
@@ -245,6 +408,37 @@
    "summary": "Long story short: Panama’s comptroller general is sending prosecutors more audit material on former Panama Ports Company executives and former port regulators. In the CK Hutchison Panama dispute, what that criminal file eventually shows could matter more than any damages model. On Friday 2 October, Panama’s comptroller general, Anel Flores, told the Atlantic Council in Washington that his office would send prosecutors more audit material next week on former executives of Panama Ports Company (PPC), the CK Hutchison subsidiary ...",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "e0d773f929d4",
+   "title": "Germany blocks sale of Hamburg logistics firm to China's COSCO",
+   "original_title": "Germany blocks sale of Hamburg logistics firm to China's COSCO",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeVlCdnB6VDN6dlFBaTl1aGxyU2JoY0hqbkdsOFFubGdNX2dSUXBjYkxvVlFOR1FKSjVpY0JiWUJGYVZEczRJMkVDNGdKdU4zUzRHdDVQWXFkZjRLNGRBVzNLQ0FQQUFHSGxuUERXUl9LN1R5bXBzSXcycTBrWjZyZUVmLXhHU1VoX1dtRE9fR21wZGt2ZFpOY0pR?oc=5",
+   "source": "Yahoo",
+   "published": "2026-10-07T10:18+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "hamburg",
+    "logistics",
+    "sale of"
+   ],
+   "summary": "Germany blocks sale of Hamburg logistics firm to China's COSCO Yahoo",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
   },
   {
    "id": "985ce1e59fcb",
@@ -937,6 +1131,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "48311af1af5d",
+   "title": "Boluda invests in new terminal at Barcelona",
+   "original_title": "Boluda invests in new terminal at Barcelona",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2gtLWpFZmdzamM3NFNlanp4OVJoOEdsUnFlT3RPNURNVGNrcGhuNG91TWdqTzZSY0pEcGsxeTdjZHZKdHNtanA1a0ZvcDlQbWRzZURuRmZoaWkySG40b1FuWi1HNXVpMlhFRDIzbU90cjAxdUNwc1pHNkttZFVYemlfVVJSbUdpWlJ4T2VOVWtvQQ?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-07T09:11+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Boluda invests in new terminal at Barcelona WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b3b660509cb4",
    "title": "Port Łódź chce zatrzymać klientów na dłużej. Szykuje spektakularną zmianę",
    "original_title": "Port Łódź chce zatrzymać klientów na dłużej. Szykuje spektakularną zmianę",
@@ -987,6 +1206,34 @@
    ],
    "summary": "Port Congestion Now Ties Up 12% of Global Container Capacity Global Trade Magazine",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "98ab6abbd74c",
+   "title": "Rotterdam Gate Terminal commissions fourth LNG tank",
+   "original_title": "Rotterdam Gate Terminal commissions fourth LNG tank",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObDV0RHVjclc4SWVydjI1SGNfNFpIZ0llRFNtVEVNNElFUTFDRXFtemRvaEthSEtfWnc5ZTBlR3pueXM3NWFmVTQ4VW1ORkhxbmM3NEJpYlR4MlZRdFR2bkxMSVVWNURSQmZ6ZlVXeEY5OTNoS25CMGhPNWVKZHBMLXpfTm9Nb2RWX1JPVmp0d3VDbGxfeGVTNUtTVTV6UzFqSjNmTWJ0YjRhNDZJQ1lSdm4wMWtpYmVndkRJeFhjRFY?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-07T09:00+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "lng",
+    "port",
+    "terminal"
+   ],
+   "summary": "Rotterdam Gate Terminal commissions fourth LNG tank Port Technology",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -2100,6 +2347,31 @@
    "summary": "Two years ago we launched the first AI for ocean rates . We had become Anthropic’s very first global supply chain partner and our early products included multiple world first’s that were built for our enterprise customers, global shippers managing thousands of lanes and dozens of carrier contracts, and it reads any rate sheet from any carrier or forwarder, every minute of every day. Those customers have cut about 85% of the time they used to spend managing rates. But it only ever reached the companies that bought the whole Ship Angel platform, and that is a small fraction of the people who have to deal with a rate sheet. It is the first product from Ship Angel Labs, and the first thing we have built for the whole industry rather than for our enterprise customers alone. Upload any ocean rate sheet in any layout, Excel, PDF, Word, EDI, CSV, an email, even a photo of the page, and get it back in minutes as one clean, structured format: origin, destination, container type, rate, currency, surcharges and validity dates, ready to use in Excel or as JSON for whatever system sits downstream. It runs on the same engine that runs rate management for some of the world’s biggest shippers.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "edfa9a81ec0c",
+   "title": "SFL stock falls 1.15 percent as ammonia order adds backlog",
+   "original_title": "SFL stock falls 1.15 percent as ammonia order adds backlog",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdWxydkNHM0dpa3B2N2ZIY01WYTNSRTBud01BNkVla3VtVEVPUEJBMHZzUmJPdG9XaTNVNHNrU0huOGxYOVFmbnVuNVp5NWVIQ21kVUV1cnNsY0RURXAwcDVGdlpsODl5V1RJRnowRFFDSmlfaEhYOEpCcWgyeUZPalp1Wi0tOVFMZTc3RjNBNk04WDlpdXNodGw5enllUXZJQjNRWkNobE1uVXpoa3RveGRmLTNPb0ZB?oc=5",
+   "source": "AD HOC NEWS",
+   "published": "2026-10-06T22:23+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia"
+   ],
+   "summary": "SFL stock falls 1.15 percent as ammonia order adds backlog AD HOC NEWS",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "7f54a4f2deff",
@@ -6588,6 +6860,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "cf5cf09bbf27",
+   "title": "Rotterdam’s Gate Terminal expands LNG storage and bunkering capacity",
+   "original_title": "Rotterdam’s Gate Terminal expands LNG storage and bunkering capacity",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRDRtcWFLdWVOYWs0dWJ3VThVUXlqd0ZaZGV1a3JjSEtTTjBfbTNqZU9IdVFOd3N4a1dxTXBrcGMyazhVWDRUV09XdTlDNkU4RDliT243OWoxcVZSMEtiSmhyQm9pZHRqRVk3UmRwLU81bm9RendYanAzQVRWaHpId2tBV0xnWmxUUXNoNzhKY0V6djFqdkpTSGx1eklFYUZqVTh1SlhR?oc=5",
+   "source": "https://www.engine.online/",
+   "published": "2026-10-06T08:17+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "bunker",
+    "lng",
+    "terminal"
+   ],
+   "summary": "Rotterdam’s Gate Terminal expands LNG storage and bunkering capacity https://www.engine.online/",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d88ffaf25fc6",
    "title": "Azerbaijan’s Alat Free Economic Zone Airport Targets 2027 Launch to Bolster Middle Corridor Cargo",
    "original_title": "Azerbaijan’s Alat Free Economic Zone Airport Targets 2027 Launch to Bolster Middle Corridor Cargo",
@@ -10512,6 +10812,34 @@
    "summary_method": "extract"
   },
   {
+   "id": "07dab2ab4be6",
+   "title": "CMA CGM Group’s $1.4 billion acquisition of FedEx Supply Chain is a done deal",
+   "original_title": "CMA CGM Group’s $1.4 billion acquisition of FedEx Supply Chain is a done deal",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMk1zRlpoNC1OWVo1U19TVEw3UlF4OG5SMU5QQjZJN2EzdlhhZlNBNi16dHhkZnNjZWVKejJ0MUgxa2RieDJTUjJ0NzhzYWJQUGs5VUtHYWVTcWUxby1ic3dGeFl1aVpxRnlfRUVYT253NzVmNUMwTnpnMEJNRXljdHQ0M0JER3llOW9yN0NOY2JMQnJzelBzMzhBOVZxZEp6?oc=5",
+   "source": "DredgeWire",
+   "published": "2026-10-05T13:19+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquisition",
+    "supply chain"
+   ],
+   "summary": "CMA CGM Group’s $1.4 billion acquisition of FedEx Supply Chain is a done deal DredgeWire",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d464dfbd0995",
    "title": "LNG Trade Through Hormuz Extends Rebound Despite Shipping Risks",
    "original_title": "LNG Trade Through Hormuz Extends Rebound Despite Shipping Risks",
@@ -11693,6 +12021,34 @@
    ],
    "summary": "DP World expansion boosts Port of Vancouver terminal capacity Port Technology",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9781a5b8bbed",
+   "title": "DSK Legal advises KRS Corporation on majority stake acquisition in Coldrush Logistics",
+   "original_title": "DSK Legal advises KRS Corporation on majority stake acquisition in Coldrush Logistics",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWEtYR2dwQ1plaEZrc0F4ZDJISFF5WmZWbW1QV1I4eVQwYVc5MlVseGtiS2NmWWthUGFLZGI1RGQ3UmdEeUFmOERsbmo0QkxoNS1Udm00Y0N4dEtXbUtQQnRQXzNFNmkyUTlCWFJBTENmb0R6VkdkQmVBTVJ0eXlUbGdPRlJVVTluYjl4MmdCb2Z3OW1aX1VYNnZabGdTR2t1aGdIT01aV0FxRUhUQzZuUWhLVS1nV2ZmZGFEa0JhNTlKYjZNWTVlbUctM3diSG_SAdwBQVVfeXFMTWFHVXZQRTVCV2FLR2NoclVycm9oTE8yVWhDUmpaZ2x5em9sMDQ0cXlBSUNfVTlfRjZOYnRFM19iRFkySk9LR2FzNGJEUFJ4ZUladHRNOXN2c2htekxSaXBIWlRrYk1BZ0xUaEpWdUE3eWI4SDV2UE5kZmhIdVBOS0M2RHZIMGk4OFdidW5lOVlOQmt3Z0dLV005SjFYSURkS21abU45MFBIM1ZXcUFBY0dyWFFHcWhLT1ZRSmxmTmhVVURpaE1waGNSVzQ5MUt1UUlaVndHdE5xZ0t6bg?oc=5",
+   "source": "Bar and Bench",
+   "published": "2026-10-05T10:50+00:00",
+   "added": "2026-10-07T11:48+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquisition",
+    "logistics",
+    "stake"
+   ],
+   "summary": "DSK Legal advises KRS Corporation on majority stake acquisition in Coldrush Logistics Bar and Bench",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -16186,355 +16542,6 @@
    ],
    "summary": "China suspends container shipping to Europe via Northern Sea Route until summer 2027 Latest news from Azerbaijan",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1c93d462f9e5",
-   "title": "Europe’s €3.2 billion grain loss: What it means for India’s food inflation outlook",
-   "original_title": "Europe’s €3.2 billion grain loss: What it means for India’s food inflation outlook",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZFZVaDlYakd5VDkweVZZSnRvNUNGRzk4VmhVN2xUY2lsemVQVzRkOXBHcU5zcEkwZWhqeDV0Tm1UTFliS3A2SVlXMXF6dlh2cVpoS0UxN1A2a0hyeVc2ZnZLdnFCT2czaUVjN0xGeGpadnJuU1k2eEd6SHpVM1JwMEJiTF9fZ0RjN1VHcjFKMmxGUU0yS21ISmF0T09YV3dDbFBLLVFjczctd3RpWFZyZm04TUVHckZrUmo3M2xoRzFjY0FPMzVhY1NDeElDelIzdFh1WDVpOXZaRUJ0bGdva1VWSGFTRjTSAecBQVVfeXFMT2RWVWg5WGpHeVQ5MHlWWUp0bzVDRkc5OFZoVTdsVGNpbHplUFc0ZDlwR3FOc3BJMGVoang1dE5tVExZYktwNklZVzFxenZYdnFaaEtFMTdQNmtIcnlXNmZ2S3ZxQk9nM2lFYzdMRnhqWnZyblNZNnhHekh6VTNScDBCYkxfX2dEYzdVR3IxSjJsRlFNMkttSEphdE9PWFd3Q2xQSy1RY3M3LXd0aVhWcmZtOE1FR3JGa1JqNzNsaEcxY2NBTzM1YWNTQ3hJQ3pSM3RYdVg1aTl2WkVCdGxnb2tVVkhhU0Y0?oc=5",
-   "source": "Business Today",
-   "published": "2026-10-03T19:05+00:00",
-   "added": "2026-10-04T02:19+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "Europe’s €3.2 billion grain loss: What it means for India’s food inflation outlook Business Today",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d4c189ad8172",
-   "title": "From crude to rice: The long tail of US sanctions",
-   "original_title": "From crude to rice: The long tail of US sanctions",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtbnptVXJ5N1lEaEJXeW9RdmJJNGpYejFiRzlKZzhDeUVYRDgwSFJDWHBxRUZIMmlUajJVdUZaY0lGejBUaWhCSVFZaUJYS0wzY3V4YzZjQ2lsck9uSXBWd1hBSTlSdndjMnVGNG9uZDVsWlJqWW1XZ2RHbk1VTkE?oc=5",
-   "source": "The Business Standard",
-   "published": "2026-10-03T18:56+00:00",
-   "added": "2026-10-04T02:19+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crude",
-    "sanction"
-   ],
-   "summary": "From crude to rice: The long tail of US sanctions The Business Standard",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "45f5d72efa92",
-   "title": "Airport expansion takes off with two new international terminals",
-   "original_title": "Airport expansion takes off with two new international terminals",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVVhhei1rZ1FBQnEyZ1lTVTZJb2JHeE5xZkFjajFlcF9obnFjbk5zaEY2ZVB0bEFfN2tfSF9ZV1M2TlNacXlrYTVYdzJNOVBYQm5XR3ZDUm5rajdYbm1kbkloanZRM2MwaUJFSm1xdm1wN29nZ3VCQzQ0ZkJVc2VzSmJYcTRNMV9iX01wOW8wN19TOWxsVVFzLXFtdXE0MlBoazVsTVMzVnNueU1YbklKdDdxNDU4UENoTXRQUXZJa3ZZYnlmMEtzODFoeTVlZGRMRzdIOTJ5M01oQW9Hejd3dWdZQW1XaGNSV0HSAeoBQVVfeXFMUFVYYXota2dRQUJxMmdZU1U2SW9iR3hOcWZBY2oxZXBfaG5xY25Oc2hGNmVQdGxBXzdrX0hfWVdTNk5TWnF5a2E1WHcyTTlQWEJuV0d2Q1Jua2o3WG5tZG5JaGp2UTNjMGlCRUptcXZtcDdvZ2d1QkM0NGZCVXNlc0piWHE0TTFfYl9NcDlvMDdfUzlsbFVRcy1xbXVxNDJQaGs1bE1TM1ZzbnlNWG5JSnQ3cTQ1OFBDaE10UFF2SWt2WWJ5ZjBLczgxaHk1ZWRkTEc3SDkyeTNNaEFvR3o3d3VnWUFtV2hjUldB?oc=5",
-   "source": "The Times of India",
-   "published": "2026-10-03T18:39+00:00",
-   "added": "2026-10-04T15:49+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Airport expansion takes off with two new international terminals The Times of India",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "37d3ba5ecc82",
-   "title": "Russia Hits Liberian-Flagged Ship In Ukraine’s Odesa port, Kills One",
-   "original_title": "Russia Hits Liberian-Flagged Ship In Ukraine’s Odesa port, Kills One",
-   "url": "https://gcaptain.com/russia-hits-liberian-flagged-ship-in-ukraines-odesa-port-kills-one/",
-   "source": "gCaptain",
-   "published": "2026-10-03T17:25+00:00",
-   "added": "2026-10-04T02:19+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "port",
-    "ports",
-    "russia",
-    "ukraine"
-   ],
-   "summary": "A view shows a damaged civilian cargo vessel, carrying wheat grain to Egypt, which was hit by a Russian missile strike after it left Ukrainian maritime border in the Black Sea, amid Russia's attack on Ukraine, September 12, 2024. Ukrainian Presidential Press Service/Handout via REUTERS KYIV, Oct 3 (Reuters) – Russia has attacked a Liberian-flagged cargo ship in one of Ukraine’s Black Sea ports in the Odesa region , killing one person and injuring three, the Ukrainian sea ports administration said on Saturday. Read Also: World Maritime Day 2026: IMO Warns Shipping Rules Are Under Strain as Seafarers Face Deadly Attacks It said in a statement on the Telegram app that 13 other crew members were evacuated to safety. As the war is in its fifth year, Russia effectively renewed its blockade of the Ukrainian Black Sea ports since the summer, disrupting trade routes, reducing grain and steel exports and dealing a heavy blow to the Ukrainian economy. Your personal maritime briefing awaits! COPENHAGEN, Sept 18 (Reuters) – Denmark is speeding up a donation to Ukraine in response to a recent incident in which a Russian warship fired flares towards a Danish military helicopter, narrowly...",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "f2007c1da5b7",
-   "title": "Graphite Scrap Material Market Forecast to 2035: Battery Recycling Demand to Accelerate Growth",
-   "original_title": "Graphite Scrap Material Market Forecast to 2035: Battery Recycling Demand to Accelerate Growth",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZlBHVnkzekp4amRhMHNhRE11cFMzZG0zdFdObnpCNC0zdnZtUkZrTXB5U0JvdmhyTzhEdUV5NnVma2hEZDJOMDVyUWE3ZHJSMkxpdzNIV3pXWW44aENOaXZrOHFGMFFaS1ZYLXluTTQ4UVV0NjlDVlZSWmxjcTF3Zk1XYlpQNEdqandiRmlhZkl0eUU2WUl4NzZtSU5SajBsUWtKbHo1Qy1maHdUN3laNVJSVXdvcUdiQWdPRHJVLUE?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-03T15:51+00:00",
-   "added": "2026-10-06T03:38+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "scrap"
-   ],
-   "summary": "Graphite Scrap Material Market Forecast to 2035: Battery Recycling Demand to Accelerate Growth IndexBox",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "95ef32b6f1d5",
-   "title": "How Putin devastated the crucial steel plant in Zelensky’s home town",
-   "original_title": "How Putin devastated the crucial steel plant in Zelensky’s home town",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQnYtcXFOR25MVFpxQUdkZG0wS2lGalFoLXdhZDMzLUJlZXBWanUtc2ZYZXhYWEJmdG5kaEZXelZhZ1JBd2FMZDJIYkY1dU40c0xydXk3YUFIdk5vMWRyVGlJWVptSkJCbFZnZG9zNDh5SnhOc3B6SU5vSkVHZVBSRnhwN2UzOFl4ak5fUG12Y3U2NWdlS2l3SGQ4anhpX1VTVnV4NTVxdw?oc=5",
-   "source": "The Times",
-   "published": "2026-10-03T15:42+00:00",
-   "added": "2026-10-03T18:41+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "How Putin devastated the crucial steel plant in Zelensky’s home town The Times",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2b4ec1e546bd",
-   "title": "Iran War Anxiety Sends Global Container Shipping Rates Soaring",
-   "original_title": "Iran War Anxiety Sends Global Container Shipping Rates Soaring",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdmtCcm5uQXIxNTktbnI1QW55LWtqTjJvODRGWVJUUS04aW1TNWVhS1FpNVNicW5vWHhxWm1pU0FVYmZQRnNNNXRULUlRTHdQQ2gtaThhS19TVUZwdmZ0WG52SUlDUmRBellYVG96ckZ3WjVNSHp4WGNKV1ZidVA0U0JiS1ZON3VZaFA3UWJpMVJxNFllMElwSQ?oc=5",
-   "source": "EnergyNow.com",
-   "published": "2026-10-03T15:11+00:00",
-   "added": "2026-10-04T21:52+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "shipping",
-    "war"
-   ],
-   "summary": "Iran War Anxiety Sends Global Container Shipping Rates Soaring EnergyNow.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bf614d786c99",
-   "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
-   "original_title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWE16VFQ0OUl3bzdndnJJWThfVk44RkJpSW5DVnNhVlpvUEVXRERibG9uY1JHRjJfUDd3NWJjN1RKSjl5UWlzN0dfLTFOY1hWQTJRZm9YUDhOMlJldWNJbzdYRVgzUDFud3RCVzJURDU3bnNHZEpWaWNudGFZcXpfa004eTFPY1d0dkJ1TWZadWJyT29pd3M5UktYX3AyX2RydkJxZUxNak40b2t0YU9XdEVR0gG3AUFVX3lxTE5SbFhyWHIxSVZyTDJxQkQzeUo5VWRJYlBvN0ptQ0stVXNTN1lNbXh1X2xRMUVTWDl6akZEYlZYcmRWdFdIbWROQVBOX0hPc1NjRDFyM1hBYlloTXNtb2xocWZXWnA4SWNxTVNCVno3N042V3V1U195bjU4cWlZSWx6SGJXQ1Y1UlFtX0RSaEZ0T0UxemhCTzgwS0VuWUF2bkhldEt5UkRZZVJ6VWsxaTBRNGJScVNQdw?oc=5",
-   "source": "Al Jazeera",
-   "published": "2026-10-03T13:26+00:00",
-   "added": "2026-10-07T07:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "diesel",
-    "prices"
-   ],
-   "summary": "G7 to release 100 million barrels of oil and diesel, will it curb prices? Al Jazeera",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ccffb63fc552",
-   "title": "China-Thailand joint port expansion project bolsters Maritime Silk Road connectivity",
-   "original_title": "China-Thailand joint port expansion project bolsters Maritime Silk Road connectivity",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQam8wQV9FeHRQbGtIZlgzbDdUUk1rdkNLM3VzTl8tWV9XVG5CUExXTHZUajFMeGQzdVpPcXExb203c0ZKT050d3BScGR3WjVSU3lvZ3BZYldUMVprSVBNM2drSXhjdDhDeXpEUlpvM1NxTWNYai1zV3RCNFNZX0hLRUhxcFZFS2JtNlpraXFBd0RFRi0zQ1BEQlVlVEpZNWcwMnRMcXNCX2VNVFhTZTB0R1JiREdWVFZnQndpdFFwX29Jak5oZzZkNVE4LVRLbUdzNGc?oc=5",
-   "source": "bastillepost.com",
-   "published": "2026-10-03T12:25+00:00",
-   "added": "2026-10-04T02:19+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "port"
-   ],
-   "summary": "China-Thailand joint port expansion project bolsters Maritime Silk Road connectivity bastillepost.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f4a4ccec0a2d",
-   "title": "Kalmar wins crane maintenance contract at TTI Algeciras",
-   "original_title": "Kalmar wins crane maintenance contract at TTI Algeciras",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPXzJ6OVAxRS1MNThRS19uZmxfZC1Ua3BFa3N1WWUwRnV6X2U3T0JuN24yMmgyZDFTbXpFbkRzVllpUjBlemtrY2NQWFZlQXMzcXZKTkJ6WDNvODZaTFZ3VWU3YlFTUTNiQy12bHJ5Z243X0xBX3JINmVjWlMwU1NtZ1BQNTFPQ2ktWkdr?oc=5",
-   "source": "Container News",
-   "published": "2026-10-03T12:00+00:00",
-   "added": "2026-10-04T22:48+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "crane",
-    "kalmar"
-   ],
-   "summary": "Kalmar wins crane maintenance contract at TTI Algeciras Container News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a0c409b48a53",
-   "title": "Russia Detains Cyprus-Flagged Cargo Ship En Route To Estonian Port Of Sillamae In Gulf Of Finland",
-   "original_title": "Russia Detains Cyprus-Flagged Cargo Ship En Route To Estonian Port Of Sillamae In Gulf Of Finland",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2czTUpXX0hmOWQwZWxfYWVBTGxOM3IxMUY0X0lFcUp6Qmg4bWVIb2NSOW41VkVIWk8teGtfUWUtdktQY1pXZlpwUmxNUklmN0tRNUd0WGRiNkI5ODBudDdQaElJQmgtNUV3TXBDMUNCcHZzNTNMWjFzUGJSdEcwemhmSjVyV29kYzM5Z3R6RTYxNWZnS0FVcE5wSUlsZlI3enpsbF9OTlhSci1Wb3RlcDI4MDNJWHphZjl0VEJlQS0xcFR1ODdB?oc=5",
-   "source": "Marine Insight",
-   "published": "2026-10-03T11:47+00:00",
-   "added": "2026-10-05T22:22+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Baltic & Nordics",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "gulf of finland",
-    "port",
-    "russia"
-   ],
-   "summary": "Russia Detains Cyprus-Flagged Cargo Ship En Route To Estonian Port Of Sillamae In Gulf Of Finland Marine Insight",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d1bf16f2e2b2",
-   "title": "India Oil Import News: Gulf Crude Flows Rise Despite Hormuz Risk, September Imports Hit 2026 High",
-   "original_title": "India Oil Import News: Gulf Crude Flows Rise Despite Hormuz Risk, September Imports Hit 2026 High",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdTBxd1lUUWctMWNGQTZXRXdhQU9wak5JZ0xBY2VKUUxyTUduSGFwcWZYb2NvaF9wcjdweE93aUlSY0xETldwbDc3WWx6SkQ3VDdySnotYnJhRWJRblB2R1RKTmhubUxJby02U1JqVjRveExwVDktVFNRcmdlaDFQdS1IN0lXQU5kUk9jSWlITE5ZTzRuQVhiOS1IdDlVbVhUQTl0YnZQMzJYa29yQkJJSDh0ZGZ2Ym1rVmtsQmkyYlVkZTJteG9EVF9EbUdXa3doTmxSTldfdDlmTER3?oc=5",
-   "source": "The Sunday Guardian",
-   "published": "2026-10-03T11:26+00:00",
-   "added": "2026-10-03T18:41+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "crude",
-    "hormuz"
-   ],
-   "summary": "India Oil Import News: Gulf Crude Flows Rise Despite Hormuz Risk, September Imports Hit 2026 High The Sunday Guardian",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "783cdc66dadf",
-   "title": "German steel industry urged to maintain budget support for network tariffs",
-   "original_title": "German steel industry urged to maintain budget support for network tariffs",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUjRTUjREclV5ZVhsNEdUdkJuN0Rpd2ZybDBWQ05uc0I5MTF6QjNwVW0xTlFKM3dYZDlVTmJhS3hIcHh5Y2NENTY5TV82YzIxOXVSajFMVjdWaXUweUl4R2t3aGthc0M1aUNkTExsbmpoV2MycUh4d3phQmhIRDQtczNLY01kMnlmMzhuQ3duZ2FoeHZ6cGVqXzNhT0dPT2FQZHdIVUZFdndmRkN6bXpTVDU1ckNxNDBaaWJkTUtiTGVDRTBpcTNyUDdkOUhQdVEtNVZGR2JJMW_SAeoBQVVfeXFMUEQzWk9qYlFPM3pUQ2N5RFVFdXdERHlUY21nZFZHaGJmYkp6Snpsc1hta3NZZUxRSmdkSUFqTjIzRHN6RWZHN0ZDRDY3ZTJONXd2ZXpYcU03dDFRMGdCZjkyTGJLNUhJbTMwelZjSEJRaW80Y2xjVmRwc0hNNWJaZnFKR0h6NVJ6UzlRRlhQSGM4MEwzY29PNGx3M0tEUmtZUjczS3RYNmNmdDJORTFlTFNheEM3TTVGc1F0NFNZNmZoUDhpVnJuM29Qc1FyV3c2T0h5Z0JjMTB0WW12VUNndC1DN0JtOEROZEhB?oc=5",
-   "source": "Металлургпром",
-   "published": "2026-10-03T11:00+00:00",
-   "added": "2026-10-05T22:39+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "steel",
-    "tariff"
-   ],
-   "summary": "German steel industry urged to maintain budget support for network tariffs Металлургпром",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
