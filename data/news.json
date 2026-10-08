@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T05:55+00:00",
+ "generated_at": "2026-10-08T06:23+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,85 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "4ba94d75de53",
+   "title": "Ho Chi Minh City wzmacnia powiązania między podażą a popytem i rozwija cyfrowe zielone łańcuchy dostaw.",
+   "original_title": "Ho Chi Minh City wzmacnia powiązania między podażą a popytem i rozwija cyfrowe zielone łańcuchy dostaw.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3EtZlg3djFHTHJKZEFEX2dTTTJ3Z28xaU5mbjZzWVVVdXBpbThoOHhVTE1QXzQwR2xFLU0yQ2tlbWxqRFVzWU5YcllnVDVzc3VpbWtMWlhlRDJtemNtclZ4azUtWllCQlBvZHhzLU1WV1R3aUZwQVRxb3FTXzgteGwzZjgxWno4cGdkWkx6WUxUaWZxREZB?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-08T05:57+00:00",
+   "added": "2026-10-08T06:23+00:00",
+   "lang": "pl",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "lancuchy dostaw"
+   ],
+   "summary": "Ho Chi Minh City wzmacnia powiązania między podażą a popytem i rozwija cyfrowe zielone łańcuchy dostaw. Vietnam.vn",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d996ea6fc864",
+   "title": "Malaysian ports to accelerate decarbonisation, develop green bunkering hubs, says Loke",
+   "original_title": "Malaysian ports to accelerate decarbonisation, develop green bunkering hubs, says Loke",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWHFZQW9MbG02cGxROGJpcFNtWGcxVWNSUzRCakIxM29aTGN1S2VVZDZfOS1hUWRCenhqU0pNUlZOemJGeDQ1SXM4SzRwRDVielFKQjdtSWh2Y3MyWWM2YlE0WHVWQTh0MmhOTkd1dkVtZTlCSFdlc2d3THNLal9QanlWYjZOUlBWV1FKMnJzakJzS21ONDRtYzA4amxZNGdDSjdNYlVvMTExa3YwUU1zTEJqWWdocnNzSWNyWjdnQ3VvekNMV0dFcUx3czlHR1E?oc=5",
+   "source": "KLSE Screener",
+   "published": "2026-10-08T05:14+00:00",
+   "added": "2026-10-08T06:23+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bunker",
+    "port",
+    "ports"
+   ],
+   "summary": "Malaysian ports to accelerate decarbonisation, develop green bunkering hubs, says Loke KLSE Screener",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "dc50ce75c9d9",
+   "title": "Argentina grain shipments stay strong as corn reaches 3.7m tonnes in September",
+   "original_title": "Argentina grain shipments stay strong as corn reaches 3.7m tonnes in September",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdE1KdHNyRTctb19uU1BKd3N6WTlEdDFDemZzX2dlUVBhT3ZNWm9KaThkWFRyR0dYTE9ZZkNKT2J5RGFMU2Q0RDJmTXAxLXdXVUNtWlBaazVYUUo5dmNhV0pVaVJyMHpKeXlETWpWamQ2R21nLVpLNmNBT1RrME5vampzcUp2cXR3QTR6dUdpY0Y5bHVpM1h2WXJtTFZfcGJQUERwNGY4YW5fNlFUT1B5emRR?oc=5",
+   "source": "DatamarNews",
+   "published": "2026-10-08T05:01+00:00",
+   "added": "2026-10-08T06:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "corn",
+    "grain"
+   ],
+   "summary": "Argentina grain shipments stay strong as corn reaches 3.7m tonnes in September DatamarNews",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "258d62eec016",
    "title": "Middle East Shipping Faces New Risks as Houthi Attacks Hit Aden, Tanker Strikes Surge in Hormuz",
@@ -181,6 +260,33 @@
    ],
    "summary": "US CENTCOM rejects Iran's claim of Hormuz closure, says 20 million barrels of crude moving through India Shipping News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ac5c21881df4",
+   "title": "Bumper crop of grain shipments pushes up North Vancouver port export volumes",
+   "original_title": "Bumper crop of grain shipments pushes up North Vancouver port export volumes",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXp3ejhILVlQMmpZM3ZyZU43SzNRQlEwS2pYWUxENEg3MkRjMGdMUjNiaWY2Mk12VUVNcmJ3bDN5V2pNdVlyNE51NGE3X3pVZmR1X0NnajM3blZfWnozdWQ1bU9rX0t2M3pVNzRVRkVWYjN3UEhhd1pxTGdXQXBMT1RtN3lic2lUaUFtYnpUbWlBenQ3QWpqRG9fY1pIMFJRb2h3Q0ZxUmh6TW9LT0xSNUxZY0dQQ2hWNmhPQUlvY2pTRjlyMDYwam1PZw?oc=5",
+   "source": "Business in Vancouver",
+   "published": "2026-10-08T03:28+00:00",
+   "added": "2026-10-08T06:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "grain",
+    "port"
+   ],
+   "summary": "Bumper crop of grain shipments pushes up North Vancouver port export volumes Business in Vancouver",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -422,6 +528,40 @@
     "shipping"
    ],
    "summary": "Oil rises as Middle East supply concerns persist amid shipping attacks www.marketscreener.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3ad91b131761",
+   "title": "UKRAINERUSSIAWAR. Alarm for the Black Sea: attacks are polluting coastal areas and impeding the flow of grain and other goods. India is pushing for a deal. The EU approves the 22nd package of sanctions against Moscow.",
+   "original_title": "UKRAINERUSSIAWAR. Alarm for the Black Sea: attacks are polluting coastal areas and impeding the flow of grain and other goods. India is pushing for a deal. The EU approves the 22nd package of sanctions against Moscow.",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNLXNBWlR6ZjRDR3EwdzlWdm41MXpyaFFGSnp6ZUJ3d0FEQmtaMlNIcjhnek5lTHViUnB3V0xOV213UmYzQVkzSm9rTnFkNUpOQ01SUTI0TXA1T2pCUFVzb2VQWjZfN0hPWjdYY3lxeU13cFZLdndaaEZpSHdiMXdTcHRBRU94Xy1pUEF3V2UyZWxUYkh3MUkxaEdhd1BtTDRZM1lzOUs0S0x6SkxDX0dfVlIxaGNIbVNfcE9nZkdKU2ViRVNLZ2FvSVRXajh5c292VW1pczhBUmNlelYtaEJPWk5EWVJLeEFseHlxSEkyTU5wWm56Tm1WZjlfM2Rtb2EwaXUyS0oxN2JUYzhtOXExY1pGUEZZYk9wT1JNODFWNTdoOGtWU2tBdXlndDF6d0gzQWNqbnNBQkdWLXM4Z1hUNA?oc=5",
+   "source": "agc communication news",
+   "published": "2026-10-08T00:16+00:00",
+   "added": "2026-10-08T06:23+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 15,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus",
+    "EU institutions",
+    "Asia"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "eu ",
+    "grain",
+    "sanction",
+    "ukraine"
+   ],
+   "summary": "UKRAINERUSSIAWAR. Alarm for the Black Sea: attacks are polluting coastal areas and impeding the flow of grain and other goods. India is pushing for a deal. The EU approves the 22nd package of sanctions against Moscow. agc communication news",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -16443,150 +16583,6 @@
    "summary": "Russia has stepped up attacks on commercial vessels and port infrastructure in and around Ukraine’s Odesa region, with Moscow claiming strikes on several cargo ships in the northwestern Black Sea over the weekend. Russia’s defence ministry said its forces struck four dry cargo vessels across Chornomorsk Port, the Bug Estuary, and the northwestern Black Sea. Russian forces also hit logistics infrastructure in Chornomorsk. Russia separately said it had targeted the port of Vylkove, fuel storage facilities at Chornomorsk, and cargo vessels in the region. The ministry did not disclose the vessels’ identities. The latest attacks follow a strike on a Liberian-flagged civilian cargo vessel at an Odesa region port on October 3. One motorman was killed, and three crew members were injured, with another 13 seafarers evacuated from the vessel. Ukraine’s government said last month that Russian attacks since the start of the full-scale invasion had damaged or partially destroyed 1,173 port infrastructure facilities and 274 civilian vessels. pic.twitter.com/jhr4xqcLa5",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
-  },
-  {
-   "id": "810256931ba9",
-   "title": "EU’s new steel import rules tighten supply chain scrutiny and reshape market dynamics",
-   "original_title": "EU’s new steel import rules tighten supply chain scrutiny and reshape market dynamics",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTWtxTkViRFJzRjhFTXpkczVEZUwteGR1MVhyWlN6QnZnWEh3eDV2Y2pvWkl6TUFmQTFiZDZqSTB3YkNjMmNaZ2JESXFsaVdzZGt5M3g5QU40RHFrLXVZTzAwZGJmZllvYWhiZVptTWhJNnFncEUwMFhZd25YVkNGd2xQRWpMRGFfdjh5WWVWb0M1ZGJnbG9RZk4waFdKb1NteEk4UjQ2cDJEZ0g1b0NzR1kzeTFUR1FLZ3hqTVZPNXBwVXRQdnBWaERWV0JCRjJHUEF2S0pJQWNLTktJTERKb2tsTHhsUQ?oc=5",
-   "source": "Global Sources",
-   "published": "2026-10-05T08:19+00:00",
-   "added": "2026-10-05T08:36+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "commodities",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "steel",
-    "supply chain"
-   ],
-   "summary": "EU’s new steel import rules tighten supply chain scrutiny and reshape market dynamics Global Sources",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6682a6ba7efc",
-   "title": "CBAM De Minimis Threshold: Brussels Reviews Too Late, No Data",
-   "original_title": "CBAM De Minimis Threshold: Brussels Reviews Too Late, No Data",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pY1hpenlQQVFnZnZweVlwZ0hhVWdzWXJiVUtWS2FlanZQTmRkWHhXbFJfVUNWdWVTY0NaWjI1U0FQYWpnekRqZXRnd3ZjMXFqdGFRSHRCYnAyWHdaY0RjbXZlM2UyakdGckNRMENKRGlEYjdoQnN2Wg?oc=5",
-   "source": "Steel and Stainless Steel News",
-   "published": "2026-10-05T08:18+00:00",
-   "added": "2026-10-06T16:51+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "high",
-   "score": 8,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "brussels",
-    "cbam",
-    "steel"
-   ],
-   "summary": "CBAM De Minimis Threshold: Brussels Reviews Too Late, No Data Steel and Stainless Steel News",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "670589ccb5e1",
-   "title": "Shadow Fleet Traffic on Northern Sea Route Surges as Arctic Safety Concerns Grow",
-   "original_title": "Shadow Fleet Traffic on Northern Sea Route Surges as Arctic Safety Concerns Grow",
-   "url": "https://gcaptain.com/shadow-fleet-traffic-on-northern-sea-route-surges-as-arctic-safety-concerns-grow/",
-   "source": "gCaptain",
-   "published": "2026-10-05T08:06+00:00",
-   "added": "2026-10-05T08:36+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "fleet",
-    "lng",
-    "russia",
-    "russian",
-    "shadow fleet",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Nuclear icebreaker Vaygach escorting a convoy of crude oil and oil product tankers along the Northern Sea Route in July 2024. (Source: Atomflot) The number of shadow-fleet vessels carrying Russian oil and LNG through the Northern Sea Route has surged this summer, according to a new analysis by Bellona’s Environmental Transparency Center, raising concerns about the ability to respond to accidents in one of the world’s most remote shipping environments. Bellona has identified more sanctioned oil tankers and LNG carriers on Russia’s Northern Sea Route in the first two months of the 2026 navigation season than during the whole of 2025, with many vessels lacking meaningful ice capability and information about accidents increasingly difficult to obtain. Sanctioned vessels accounted for about three-quarters of all oil tankers and almost 40% of LNG carriers observed on the route during the period, according to Bellona’s monitoring. Bellona notes that Russia’s Northern Sea Route administration has stopped publishing information about incidents and accidents along the route since 2025. Russian insurer AlfaStrakhovanie recently disclosed that it had paid compensation for damage to a tanker hull following an accident while the vessel was sailing along the Northern Sea Route under icebreaker escort.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "62dd03b6b58b",
-   "title": "AD Ports enters South America as Dh3.1 billion Brazil deal stands complete",
-   "original_title": "AD Ports enters South America as Dh3.1 billion Brazil deal stands complete",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWdpaFhKWGtYdUpJRFBPUmJ5V1FsdmxrTUFqdEp6a09kMnpQY2RybG1FQTFxUzVGc21nTzkyWWpNaFVCOWp5Nms3b1NwWHN1a3ROenVYbElQbWFGMHI5aUxJQndVUThHVGNlYXAteEM2VUJYMVpHSE51NkVzMDJiRXJ3SVAtaEx2b253dlk2M1FXUkhjN1JUNGQzT3FWdVHSAbIBQVVfeXFMUDFpOHFzSXNVMmhURmFZNndsbERwdkVNVUhydjZTd0FwY2hiS3pLV3RFYjF6ZzljbnhpT1RMZE0yQU92R2YtenFkWE12T2kwR1c4ZGFGREpRMS03X09IczAwMkxwZTU4N0RVaWVhVjYxV09wZDJhZDdpUXJfNW14alYyU3dKal9UNG9TV0lYcm5TMWJ2S1JhZ01yTjJNN3AxVF9BUUczZ1FValhCd3BNQVQ1dw?oc=5",
-   "source": "gulfnews.com",
-   "published": "2026-10-05T08:06+00:00",
-   "added": "2026-10-05T08:36+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East",
-    "Latin America"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "AD Ports enters South America as Dh3.1 billion Brazil deal stands complete gulfnews.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "74b12e811cca",
-   "title": "Łańcuch dostaw: Logistyka będzie kształtować wzrost w nadchodzącym okresie.",
-   "original_title": "Łańcuch dostaw: Logistyka będzie kształtować wzrost w nadchodzącym okresie.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWmlnQkYxMDdsV0ZEd1dlRm96NkVIMkJNQktDaWVMZ1J4NzlEOVo4M2F4ZUFuT2FJcERGOXRNNklLMV9tSUtOWnNoazFySk5zbGJjb1htRmRWVkFRTjBVSU1RWnpkTjlzbGdQUEdKUUtxdjNFNF9xejFEakRYRm1ReVVScWs4eGJQRG9qblk1TmFURmZEVUp3?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-05T08:02+00:00",
-   "added": "2026-10-05T10:51+00:00",
-   "lang": "pl",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "lancuch dostaw",
-    "logistyk"
-   ],
-   "summary": "Łańcuch dostaw: Logistyka będzie kształtować wzrost w nadchodzącym okresie. Vietnam.vn",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
   }
  ]
 }
