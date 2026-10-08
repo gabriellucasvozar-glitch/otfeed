@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T03:04+00:00",
+ "generated_at": "2026-10-08T03:27+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,62 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "51fb6c73fc31",
+   "title": "Porty morskie napędzają gospodarkę Polski. Padają historyczne rekordy przeładunków",
+   "original_title": "Porty morskie napędzają gospodarkę Polski. Padają historyczne rekordy przeładunków",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1VDS0h2eEwydW5pRDU1bVRDTkZ3alhTOWJ3X01jamJGVnppLS1GRS1ZQVFBc1RSRy1iWkRpNnRhemN3R1Zwb2NHYjhHV1lxRDBadm8zTVlMLVd3dmZWakpwUzU5UENQUmdzN085cmdWem51aUc2V1JqREdPQ01VT1RCOUlMRmZXOUtsSkkzRm9SYTBMWllFMWNZZG1iYzFwZVptU2xCOUlXeXV4SFQ0WGhha0ZjWnFrTnV0TDllUXUwY1k?oc=5",
+   "source": "trojmiasto.wyborcza.pl",
+   "published": "2026-10-08T03:18+00:00",
+   "added": "2026-10-08T03:27+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polski",
+    "porty morskie",
+    "przeladun"
+   ],
+   "summary": "Porty morskie napędzają gospodarkę Polski. Padają historyczne rekordy przeładunków trojmiasto.wyborcza.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "16bd120ba567",
+   "title": "Global Oil Prices Surge as Tanker Attacks in Strait of Hormuz Spark",
+   "original_title": "Global Oil Prices Surge as Tanker Attacks in Strait of Hormuz Spark",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYy1yWVFmY0J4OTZKQ3pQaDAxSUl4YTZadlAwYm5DZmlvSktQbVZKeXRBVlgtNEdKUzhidTdaMzUySXhvQkZaS2FjMDhueW5nNzlDWjY4ZlkwQ0o1M3Nmb0VvenYwbl9kY0NidFZPQnpGbVRtZnZIUlNLTnFHOXdCUG45dmZKYUlCMVZSZEk1U3o0LTFXYm1HT1RCS1NTVm50?oc=5",
+   "source": "Aktualita.co",
+   "published": "2026-10-08T03:03+00:00",
+   "added": "2026-10-08T03:27+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Global Oil Prices Surge as Tanker Attacks in Strait of Hormuz Spark Aktualita.co",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "57a6b0fa5430",
    "title": "Kalmar recalls Ottawa T2 terminal tractors over electrical safety issue",
@@ -223,6 +279,34 @@
    ],
    "summary": "Commission flags fertiliser-labelling problems Irish Farmers Journal",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b5ee3e32c754",
+   "title": "Poland has 3,800 km of inland waterways, but they carry just 0.01% of freight",
+   "original_title": "Poland has 3,800 km of inland waterways, but they carry just 0.01% of freight",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcEZ1ZnFMU0xVU3RzWVBPSVpQZ0haZU5TQnpsTWxrSmhQRUEyYkhnY3NYZElEUnl1a1lJQ0JjTmZ6NWMyQ3FCV2VMWGxmaEE4V2stbHdERF96aTJvODVfZ0Y1NlhXZEVhXy1ZV19wV1NJeHB4cEd2c1BWTVlRZkJZaDln?oc=5",
+   "source": "CEO Magazyn",
+   "published": "2026-10-07T21:03+00:00",
+   "added": "2026-10-08T03:27+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "inland waterway",
+    "magazyn",
+    "poland"
+   ],
+   "summary": "Poland has 3,800 km of inland waterways, but they carry just 0.01% of freight CEO Magazyn",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -16495,90 +16579,6 @@
     "wheat"
    ],
    "summary": "Wheat Futures Edges Higher Toward $700 as Russia Threatens Ukraine Escalation FXLeaders",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9035e6206ed1",
-   "title": "AM Green Bags Asian Lot in H2Global Tender for Green Ammonia Supply to Germany",
-   "original_title": "AM Green Bags Asian Lot in H2Global Tender for Green Ammonia Supply to Germany",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaFhBcl8tb0xvMi1pSVBFYmJ3ci1MUjhxVWdxOElIbFV4LW1najJEcXJhQ21NVzUyX1R6Sll5ZEZjcTUyY3FRb2x5TnNFUWZJVldPUWdZZ2ppYUlYTXFHWDQyUkhXY0FJMzk3cXpWMkdmb1VJNC1fUmo2QWlDSkNTaTJOYlZFNlRPazQ2OFlDOVMtYVQxb1NYNFFqVmF2N2FDZFNYSHJ3TQ?oc=5",
-   "source": "Chemical Industry Digest",
-   "published": "2026-10-05T06:42+00:00",
-   "added": "2026-10-05T09:47+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "ammonia",
-    "tender"
-   ],
-   "summary": "AM Green Bags Asian Lot in H2Global Tender for Green Ammonia Supply to Germany Chemical Industry Digest",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "66712f1a6ee0",
-   "title": "AD Ports Group Expands Global Footprint with USD 835m Acquisition in Brazil",
-   "original_title": "AD Ports Group Expands Global Footprint with USD 835m Acquisition in Brazil",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUThrTU9qaDV4X2ZfUXo1ejM2S29jdzNtc3lhd1BFNkNNV3VGR1d0ODlObWZVaENVNTl2eGlvTEJKSmREcGpON2JYR2lOUmdTeXdQSHItbkFhMzBEX2RQcFgzUktpdWtGQmRfN0NFSmczTXVNZGZWQzdGRmlJdHJ3RldsVXpLMnlwNEc3SzlSSG03ZTBGbGhkcm9vRzBOaWVxNDJfUE5mV0ZaRmNDaDdGSlh1UQ?oc=5",
-   "source": "Construction Business News Middle East",
-   "published": "2026-10-05T06:41+00:00",
-   "added": "2026-10-06T07:15+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "mna"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East",
-    "Latin America"
-   ],
-   "tags": [
-    "acquisition",
-    "port",
-    "ports"
-   ],
-   "summary": "AD Ports Group Expands Global Footprint with USD 835m Acquisition in Brazil Construction Business News Middle East",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6044fe1f5603",
-   "title": "Yemen Escalation and Hormuz Attacks Threaten Vital Oil Shipping Routes",
-   "original_title": "Yemen Escalation and Hormuz Attacks Threaten Vital Oil Shipping Routes",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wNWUwVWpXMUlORE56NU1fWXB2elJYVDNXNzJmR2FnTDdLRl9Fb1dHSTVpZ0k1TFB6LWMxS0htRDN4MHkyeUtFdXVBYzFPMEU2cldz?oc=5",
-   "source": "PUKmedia یەکێتیی نیشتمانیی کوردستان",
-   "published": "2026-10-05T06:35+00:00",
-   "added": "2026-10-05T13:57+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "hormuz",
-    "shipping"
-   ],
-   "summary": "Yemen Escalation and Hormuz Attacks Threaten Vital Oil Shipping Routes PUKmedia یەکێتیی نیشتمانیی کوردستان",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
