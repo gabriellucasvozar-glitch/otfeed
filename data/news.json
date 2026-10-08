@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T10:10+00:00",
+ "generated_at": "2026-10-08T10:34+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,57 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "535c5d0ba618",
+   "title": "Port Alpha shipyard development begins",
+   "original_title": "Port Alpha shipyard development begins",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNTBHMHpGbmhGWGJKN1JwU1A0cnJsYmpUbHhIQTlQdTVObWtzb3J0SkZ3WGtxLWItalBPYUNEYWp4ZkM5NmhYajYwV25LMmZod05wN053RkNDQ3A5N2hMR2dxSFFBemJfc3RVOUU0OEhHazlJMjRkcWpuaVhNeUdBVWFVaEdNWEx6c1BicGJidm1XYmQ0d1NPWmhLOA?oc=5",
+   "source": "Port Strategy",
+   "published": "2026-10-08T10:22+00:00",
+   "added": "2026-10-08T10:34+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port Alpha shipyard development begins Port Strategy",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2169818b0529",
+   "title": "DHL Group Invests €400m in European Supply Chain Resilience",
+   "original_title": "DHL Group Invests €400m in European Supply Chain Resilience",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTWY4VXo4aENyYkUySXpIajJqZGdRN1J5bnBQM25aak40YldwRFlOeDJoMm1KVjE4Wkc1UkgycXdUdmtkRlRsQm1qRVNNQ0stY2VQT2lfN0ZvN21mdDNXa3VSMktzNHJlWHRoZmRFajRDanJPbUU5ZkRNVjhuN1dtNHA3Tm1rNjBWMkxJUzA4d2VDZS1HcTAtemVn?oc=5",
+   "source": "Supply Chain Digital",
+   "published": "2026-10-08T10:18+00:00",
+   "added": "2026-10-08T10:34+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "supply chain"
+   ],
+   "summary": "DHL Group Invests €400m in European Supply Chain Resilience Supply Chain Digital",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "08eefe1082ab",
    "title": "Rosatom folds Delo into expanding logistics platform",
@@ -8952,6 +9003,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "b4ea4390e035",
+   "title": "CH Robinson to acquire RXO in $5.8bn logistics deal",
+   "original_title": "CH Robinson to acquire RXO in $5.8bn logistics deal",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTM4VmdJSkxUZVA1MmxkV2Z0M0pEUnhCU29XNlZfNl9JMXVlTERtRk45MjVuOXY4VVg0TS1vNTBPM1l0SUdEMTFMVlByOEUwS3NxRjczM1NGb0pZY1pjaDZ0b2FMZlVvbHQ4d3pvM3pGR1dsc1NhZVplenNWbjZGd0E3NGRkREp6MEZnX291TFdNMWdKejBINUU0WXQ3ck4xQS15ZDRkYw?oc=5",
+   "source": "Logistics Business",
+   "published": "2026-10-06T12:38+00:00",
+   "added": "2026-10-08T10:34+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "logistics"
+   ],
+   "summary": "CH Robinson to acquire RXO in $5.8bn logistics deal Logistics Business",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "82f891015364",
    "title": "Baku Port calls for more private operators on Middle Corridor",
    "original_title": "Baku Port calls for more private operators on Middle Corridor",
@@ -16493,90 +16571,6 @@
    "summary": "Australia’s low CBAM iron ore default creates an indirect trade advantage Fastmarkets",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "097b55a153fb",
-   "title": "Empty box pile-up at port of Manila sparks truckers’ strike",
-   "original_title": "Empty box pile-up at port of Manila sparks truckers’ strike",
-   "url": "https://theloadstar.com/empty-boxes-chaos-at-port-of-manila-sparks-truckers-strike/",
-   "source": "The Loadstar",
-   "published": "2026-10-05T11:35+00:00",
-   "added": "2026-10-05T11:53+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "ports",
-    "regulation",
-    "shipping",
-    "rail"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "carrier",
-    "customs",
-    "port",
-    "trucking"
-   ],
-   "summary": "Customs brokers and hauliers are expected to voluntarily stop work today in advance of a three-day trucking strike in Manila, as a year-long standoff on carriers failing to remove their empties reaches its limit – Hapag-Lloyd having suspended bookings amid the chaos. Warning the protest could “last a week”, Reynaldo Soliman, chair of the Practicing Customs Brokers and Port Truckers Alliance, urged brokers not to secure gate passes, book trucks, or release shipments, until carriers reduced the number of empties at Manila. “Even though we want to ship, we cannot move,” Mr Soliman told local reporters, with the number of empties scattered around terminals, hauliers yards, and waiting on flatbeds to be removed, measured in the thousands with just 10% of volumes moving out of Manila’s ports. In a letter seen by The Loadstar , Bureau of Customs commissioner Ariel Nepomuceno told Port of Manila it needed to take measures to address the worsening empties backlog, suggesting boxes that had been waiting for more than 10 days be moved offsite. “Increasing yard utilisation levels at the Manila International Container Port and the port of Manila continue to adversely affect the efficient movement of cargo and the overall flow of port operations,” he wrote.",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "dbe6cfd7098f",
-   "title": "New CEO appointed at SOHAR Port and Freezone effective October 11",
-   "original_title": "New CEO appointed at SOHAR Port and Freezone effective October 11",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT0kyNkhWTHlkUFZoUnVUUmRIcWxlVF8xMGViRWxoV0ZRdFpKTW9SYVZjenpFMTRrR1V1VDJFM3RnSElHb3Q0R2d0WXV5UkprQ08tWm9lMFdkdmhhUW1naUpveHp3cVRUMWc2OV9iWVJMelBnUWd0bUZMN3JqbWhENTdhMG52SkI4QnlpbDQ0WUVVdFpJTDFkNFQyTXE2X1pNa09lVnVpazZNUmV0U2hFcHJoZnUyeW8xNHZzaU13?oc=5",
-   "source": "Data Portuaria",
-   "published": "2026-10-05T11:35+00:00",
-   "added": "2026-10-05T13:34+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "New CEO appointed at SOHAR Port and Freezone effective October 11 Data Portuaria",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "75d52885de14",
-   "title": "Grace Energy nearly doubles money on ex-Dynacom suezmax",
-   "original_title": "Grace Energy nearly doubles money on ex-Dynacom suezmax",
-   "url": "https://splash247.com/grace-energy-nearly-doubles-money-on-ex-dynacom-suezmax/",
-   "source": "Splash247",
-   "published": "2026-10-05T11:30+00:00",
-   "added": "2026-10-05T11:32+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "acquisition",
-    "sale of",
-    "shipping"
-   ],
-   "summary": "Dubai-based Grace Energy Shipping-linked interests are cashing in on the surge in tanker asset values, with brokers reporting the sale of the 2011-built suezmax Vendavel for $94.5m, close to double its acquisition price a little over two years ago. S&P sources list the 149,999 dwt New Times Shipbuilding-built tanker with the buyer undisclosed. Brokers note that the ship was acquired for $50m in May 2024. Vessel records show it subsequently became Vendavel, with Vendavel Shipping as registered owner and Grace Energy Shipping as manager. Against the $50m acquisition figure, the reported resale would represent a gross uplift of about $44.5m, or 89%, before ownership and transaction costs. Grace Energy has been steadily building its presence in the suezmax sector. Splash noted last year that the UAE-based outfit acquired Frontline’s Front Thor for about $48m, while in March it was linked to the $40.5m purchase of Tsakos Energy Navigation’s 2009-built Pentathlon. The deal lands in an exceptionally strong suezmax market. Brokers’ latest assessments put five-year-old secondhand values at $130m, up 19% over three months.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
   }
  ]
 }
