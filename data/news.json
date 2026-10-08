@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T13:46+00:00",
+ "generated_at": "2026-10-08T14:04+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "2dd421c0770b",
+   "title": "The battle against supply chain chaos keeps SMBs ‘in overdrive’",
+   "original_title": "The battle against supply chain chaos keeps SMBs ‘in overdrive’",
+   "url": "https://theloadstar.com/the-battle-against-supply-chain-chaos-keeps-smbs-in-overdrive/",
+   "source": "The Loadstar",
+   "published": "2026-10-08T14:00+00:00",
+   "added": "2026-10-08T14:04+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "inventory",
+    "supply chain"
+   ],
+   "summary": "Small and mid-sized shippers (SMBs) are in a state of permanent overdrive, according to a report by Netstock. Inventory moves have accelerated, dead stock is threatening to pile up on them, and traditional, linear supply chain planning is failing. The 2026 Supply Chain Planning Benchmark Report , based on data from over 2,500 Netstock customers and a survey of more than 150 users at businesses with less than $250m in annual revenue, shows shippers under unceasing strain managing their supply chains. For one thing, the percentage of SMBs sourcing from two or more regions grew, from 45% in 2024 to 55% in 2026. This points to a fundamental shift in the challenges with which supply chain planners are struggling. The report said that, last year, supply chain planning was largely dictated by trade policies – tariffs – which brought about an emphasis on front-loading and building buffer stock. The landscape shifted from a year of singular shocks to one defined by supply chain chaos, where trade policy changes, shipping route disruptions, raw-material costs, demand shifts, and uneven supplier performance converged at once. “This report uses the term ‘supply chain chaos’ to describe a different kind of disruption: volatility shifts one variable at a time, while chaos moves several at once; leaving planners without a stable baseline for decision-making.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
   {
    "id": "dfb6637da4f3",
    "title": "SPM Shipping plays the market",
@@ -16529,33 +16556,6 @@
    ],
    "summary": "5 Best Copper Stocks for 2026 and How to Invest The Motley Fool",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "317fd0cb6b74",
-   "title": "CMA CGM Group: Strengthening US Logistics Capabilities",
-   "original_title": "CMA CGM Group: Strengthening US Logistics Capabilities",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeWY1amxtb1VTTzRBR0Z0ZlQ2YzBjZHRKTHRXN0NVbi1pLXYtRHZiSldvSmVOOXl5cC1mTDcxU1UydmplcF9IMUZkLTk1T0dFX2NDaHM1SVFGY0FpYjlsb3p4c0d4bXd4T1hoZ2puZ3VjalowdC1sc1hRWnNVY2JrV2xMRjNUcnBOcXVtYjE0NDVWYk0?oc=5",
-   "source": "Supply Chain Digital",
-   "published": "2026-10-05T13:59+00:00",
-   "added": "2026-10-05T18:00+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistics",
-    "supply chain"
-   ],
-   "summary": "CMA CGM Group: Strengthening US Logistics Capabilities Supply Chain Digital",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
