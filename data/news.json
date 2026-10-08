@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T21:37+00:00",
+ "generated_at": "2026-10-08T21:56+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -4648,6 +4648,31 @@
    ],
    "summary": "Anyang Steel, Henan Steel Scrap Purchase Price Adjustment on October 8 Shanghai Metals Market",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0a442198fc15",
+   "title": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption",
+   "original_title": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZlloTmR5SkZfME9kcjlVcENtQzFrdmc2cnJfTWthWWJYcFIwZFFGNUs5Y2Y2TkR0MjE2STZ3WXktSXJRRmRiXzZYTnQ4clNNZlNQempZRzFPTERYUXpFM1d0SUJoUzFyN3FLRTg0d3UtckZWbWpWM01DNVJIUEdBTTkyd0dFaDgwX0llWXBtMXV1dVROdXUwVUF6VG9Ca3BReDdJTzNhT0d3RjcwUVF5TS12N1ZWNzJXdlRz?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-08T01:25+00:00",
+   "added": "2026-10-08T21:56+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3.0,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "disruption"
+   ],
+   "summary": "Oil rises 4% on revived Middle East worries, Hurricane Isaias supply disruption Reuters",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16592,33 +16617,6 @@
    ],
    "summary": "TODAY: Thailand is back for seconds with Adnoc + AD Ports finalizes Brazilian takeover EnterpriseAM",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "64f936dde9de",
-   "title": "AD Ports closes USD 835 mn CLI agreement and plans to ship Brazilian farm exports straight to Abu Dhabi",
-   "original_title": "AD Ports closes USD 835 mn CLI agreement and plans to ship Brazilian farm exports straight to Abu Dhabi",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSWJPRkNxbWY3cUg5UGJ1OThJcGFRQ1VoaHB3XzNtay1kNEc1WDVCSUJnTEUxWUpQcWQ4TERzaGlDaC1KbkE2aVhRbndRY2RmWngwT0gyblVuQ1g2Vl9ia0h4WGRpdWJDQ0hUcVF6R0ZqTVMzTDhwVEZDWTBFbFNLOEdVNXp3Y3NBWHBfOUw2cFVmRy1RWVBNbnFJRlVVN1ZYOXcyUFN3TnY0WVVxMTBsckVNdVVWXzZ1bGtBa1pTb2FuQmJ4WDNRY2V4M2VhODJ0M0FhbFRSY29SZ0p5N3pObl9TMGs?oc=5",
-   "source": "EnterpriseAM",
-   "published": "2026-10-06T00:00+00:00",
-   "added": "2026-10-06T05:22+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East",
-    "Latin America"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "AD Ports closes USD 835 mn CLI agreement and plans to ship Brazilian farm exports straight to Abu Dhabi EnterpriseAM",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
