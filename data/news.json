@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T10:55+00:00",
+ "generated_at": "2026-10-08T11:16+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "749658da50d2",
+   "title": "Hong Kong eyes new Pinglu Canal as route to port revival",
+   "original_title": "Hong Kong eyes new Pinglu Canal as route to port revival",
+   "url": "https://theloadstar.com/hong-kong-eyes-new-pinglu-canal-as-route-to-port-revival/",
+   "source": "The Loadstar",
+   "published": "2026-10-08T11:13+00:00",
+   "added": "2026-10-08T11:16+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "ports",
+    "equipment",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "autonomous",
+    "china",
+    "port"
+   ],
+   "summary": "Hong Kong is looking to the new Pinglu Canal to stem the decline in cargo volumes at its port by extending its reach into western China’s inland markets, and strengthening its role as a regional transhipment hub. The Hong Kong government sees the newly opened canal, which links inland industries in China’s Guangxi Zhuang Autonomous Region, with Beibu Gulf, as a means to broaden the port’s cargo catchment area and competitiveness. Decades ago, Hong Kong competed with Singapore and Rotterdam as the world’s busiest port. By 2025, Hong Kong was ranked the 12 th busiest port, as volumes dropped 6%, to 12.91m teu. Container traffic between Guangxi and Hong Kong reached 160,000 teu in the first half of 2026, up 22% year on year, according to the government. which wants to build on this growth by combining the canal with existing sea-rail services and new land and river connections. Among the services already linking Hong Kong to China’s western land-sea corridor are a Hong Kong-Guizhou daily service and a Chongqing-Qinzhou-Hong Kong sea-rail intermodal service. And Ms Chan said Hong Kong port retained significant operational strengths. At the same time, Hong Kong is expanding its port community system, which has more than 9,000 registered companies, and has facilitated more than 20 cases of trade financing using trusted cargo-flow data.",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "extract"
+  },
   {
    "id": "535c5d0ba618",
    "title": "Port Alpha shipyard development begins",
@@ -7432,6 +7461,33 @@
    ],
    "summary": "Maersk implements intermodal fuel surcharge in Poland Data Portuaria",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6212ef85405c",
+   "title": "TODAY: Folk Maritime puts expansion on hold over war costs + Gulf crude is back, the rest of the trade isn't",
+   "original_title": "TODAY: Folk Maritime puts expansion on hold over war costs + Gulf crude is back, the rest of the trade isn't",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONnFUSUN2TTNvR2pIYXlTLWlHRGc1ZGsxZFlZY3RfYVBqZU45ZllSY3pIYmRmS0RhTWFqTXBGOXhJQlh3Ry1QQUhUUTJ6RFVFUjN2OEZJOU0wYnZIbllKUU9sMjU2T1lyQzlxUXZrY2JHeVZTSDZ4b25BTnZDckJvUE9ucU8wUzA1ejVvNHRFUUVYZGN5UUkyS1VvMjk4QnVfZWZXS3ljUWx6dC1wd1kzbGVuR2lhZlFnYWhfZUtCdW5WV0JQcW5QSVB0U3JIaVNXUXFtdk9HTk9GZWNEeUViYlprZTU?oc=5",
+   "source": "EnterpriseAM",
+   "published": "2026-10-06T21:00+00:00",
+   "added": "2026-10-08T11:16+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crude",
+    "war"
+   ],
+   "summary": "TODAY: Folk Maritime puts expansion on hold over war costs + Gulf crude is back, the rest of the trade isn't EnterpriseAM",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -15896,6 +15952,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "833979a5c5de",
+   "title": "News South Korea-Russia ocean volumes boosted by rail congestion in China",
+   "original_title": "News South Korea-Russia ocean volumes boosted by rail congestion in China",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnFRNzd4bE40NXZ4aEJEcC1TN25pUmxWXy16Q1NjNG82UVV1cEdYMDVqVHNCT0E0dmMwQTJtMWEtSHBVYnB1cTcwRFlFTXFzNUh4WHhla0RIMEJkZ0ZsXzR6WUowYnZ1dkhLZy11Vnl2RDV1TnA0QzJVOHBaYzlTSDREMWRwM0twOG41ODlrTE9BSEU0SDFBSA?oc=5",
+   "source": "The Loadstar",
+   "published": "2026-10-05T12:58+00:00",
+   "added": "2026-10-08T11:16+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "congestion",
+    "russia"
+   ],
+   "summary": "News South Korea-Russia ocean volumes boosted by rail congestion in China The Loadstar",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "ab8449f40119",
    "title": "Assam river port comes alive after 70 years as methanol-laden barge sails for Dhaka",
    "original_title": "Assam river port comes alive after 70 years as methanol-laden barge sails for Dhaka",
@@ -16473,87 +16558,6 @@
    ],
    "summary": "Russian Strikes Nearly Exhaust Ukraine’s Locomotive Reserves, Threatening Export Lifeline Kyiv Post",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7e3e3e1190d0",
-   "title": "U-Ming doubles down in China with six-ship bulker spend",
-   "original_title": "U-Ming doubles down in China with six-ship bulker spend",
-   "url": "https://splash247.com/u-ming-doubles-down-in-china-with-six-ship-bulker-spend/",
-   "source": "Splash247",
-   "published": "2026-10-05T12:00+00:00",
-   "added": "2026-10-05T12:17+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "bulker",
-    "china",
-    "fleet"
-   ],
-   "summary": "Taiwan’s U-Ming Marine Transport has committed up to $312m on six more bulkers in China, adding four ultramaxes and firming another pair of Newcastlemaxes as it presses ahead with plans to build a 100-ship fleet. Two separate Taiwan exchange disclosures from U-Ming’s Singapore subsidiary put the combined investment at between $296m and $312m. The larger ships are two 211,000 dwt newcastlemaxes at Jiangsu Hantong Ship Heavy Industry, priced at between $77m and $80m each for a total of $154m to $160m. U-Ming is also paying between $142m and $152m for four 64,000 dwt ultramaxes at Sumec Marine-controlled New Dayang Shipbuilding, equating to $35.5m to $38m per ship. The first of the ultramaxes is scheduled for delivery in the fourth quarter of 2029, with the remaining three following during 2030. The latest contracting advances an expansion plan approved by U-Ming earlier this year covering four 210,000 dwt bulkers and four ultramaxes. U-Ming has been steadily renewing and expanding its core dry bulk fleet while moving into new sectors. At its May investor presentation, the company was targeting a fleet of more than 100 vessels, with dry bulk remaining at the centre of the expansion. U-Ming said at the end of September that its owned, joint venture and newbuilding fleet had reached around 90 ships and passed the 10m dwt mark.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "50e5adbfa0ad",
-   "title": "Longford MEP demands urgent fertiliser support and EU carbon tax review",
-   "original_title": "Longford MEP demands urgent fertiliser support and EU carbon tax review",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQk4xTl9IY1pYZWFvSTAzekx6V2haaFlTMEpPTE9OdlBkQkN5TDBtdDBFaWtjd0ZMODhWaHJ5Y1RJUHF1c3JOd2JHRnQtTG5sckJGVVBELU9TaVMzYnVQcTFQOVpYRjJFSWtJVWJrS0d6clEzU1ppRDhQQW9NTGxqTTNGY1pzdjI2NTg3RWFLS0F4OWRzbTZqUzZkX1RNVUQ0Z0N2RV9JdldhbmFpMEpuMUQwMkhZRTU3cy1n?oc=5",
-   "source": "Ireland Live News",
-   "published": "2026-10-05T12:00+00:00",
-   "added": "2026-10-05T12:17+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "fertiliser"
-   ],
-   "summary": "Longford MEP demands urgent fertiliser support and EU carbon tax review Ireland Live News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "830d150aa591",
-   "title": "Zdjęcie [Wrocław] Rozbudowa terminala i nowy port lotniczy, nr 703259",
-   "original_title": "Zdjęcie [Wrocław] Rozbudowa terminala i nowy port lotniczy, nr 703259",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORG1tMDhKY2ZiMjhuOWdxTTZ5Mnd3UEs2QjNuVFZqUno4TldHemN1QzhRLXN5TmI1Z0JRX3g2eGxNS1JSakJ4NmFqTmk0N09aakk5bTVMNmpTQzZmUDZqbXhwZGFfQnJzRnBGMkE1c3NNOEpBblhXdTI4ZS1Nc29VRG5GbFJvS1NCaXg1NE16RjQ0SVE?oc=5",
-   "source": "Investmap.pl",
-   "published": "2026-10-05T11:58+00:00",
-   "added": "2026-10-05T22:00+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "port",
-    "terminal"
-   ],
-   "summary": "Zdjęcie [Wrocław] Rozbudowa terminala i nowy port lotniczy, nr 703259 Investmap.pl",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
