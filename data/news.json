@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T21:15+00:00",
+ "generated_at": "2026-10-08T21:37+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,39 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "d7d3ad10a986",
+   "title": "Baltic dry bulk freight index hits six-week low on weaker rates",
+   "original_title": "Baltic dry bulk freight index hits six-week low on weaker rates",
+   "url": "https://www.hellenicshippingnews.com/baltic-dry-bulk-freight-index-hits-six-week-low-on-weaker-rates/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-08T21:00+00:00",
+   "added": "2026-10-08T21:37+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "high",
+   "score": 19,
+   "regions": [
+    "Baltic & Nordics",
+    "Latin America"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "capesize",
+    "dry bulk",
+    "panamax",
+    "supramax",
+    "vessel"
+   ],
+   "summary": "The Baltic Exchange’s dry bulk freight index dropped to its lowest point in more than six weeks on Thursday as declining capesize rates offset increases in the panamax and supramax segments. The main Baltic index, which monitors rates for capesize, panamax and supramax vessels, decreased 21 points, or 0.7%, to 2,973 points. This marked the index’s lowest reading since August 25. The capesize index fell 85 points, or 1.9%, to 4,512 points, reaching its lowest level since August 20. Average daily earnings for capesize vessels, which normally transport 150,000-ton cargoes such as iron ore and coal, dropped $768 to $37,420. Dalian iron ore prices reached an 18-month low on Thursday, the first working day following a week-long holiday break in China, the world’s top consumer. Weak steel margins reduced the demand outlook for the key steelmaking ingredient. Average daily earnings for panamax vessels, which typically carry 60,000 to 70,000 tons of coal or grain, increased $232 to $21,688. Source: Investing.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
   {
    "id": "d302833b772c",
    "title": "The Decarbonisation of European Ports",
@@ -408,6 +441,37 @@
    ],
    "summary": "The Black Sea’s Quiet Shipping War Reaches NATO Waters Modern Diplomacy",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "acb0bc9a1806",
+   "title": "Sagarmanthan 2026: Ports, green shipping corridor, and supply chains in focus at day 2 bilateral talks",
+   "original_title": "Sagarmanthan 2026: Ports, green shipping corridor, and supply chains in focus at day 2 bilateral talks",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZ3EtYTZZV0VXdEd5RVh5c3BvMzh1bXUxd25KaTdXbjcxNWZ4WkZrSkdDSW5YaW1lNFhETHpnNGhrWU1zcVB6XzE5c2tXcm9NeVJaS3Vvazhxcm1UeGdrQmtqUnJRdzZFa2ozNW5ZVGgyYVF0T1RPSnZCTnVfZ2lpb2ZYcURwbVRRb01ZaUk2cnUxd1lRa0xNU1NjZmZiRC1WSHZYVDVLNEt6Y0dMMDdnNHExeDd2NTQ0bmo4Z011YUQwWmYtUWs4LURBVmhTWTJudzZnRHoyQXBoenlfYi1HaGJYYzNJM2_SAewBQVVfeXFMTWJaZkUtYWhRaFFhYjB2N3NoN05pWWpkVlB5QV9BWGpEXzZRbGpBMlFNZGI1eklJTkM3WUE3VF9tVWwtdFFQbTJmclloSnVhNzc0UXNkY0hCbFNEQUdES0M1el9ZZ3lzR2Fhcnl1R0tsNkdfWl9jeE1mTi15SDhYcXkzaklMYmxLZU9NN0taV21scjBxc3diYTExMVExQ05yaE5HaFFqTHQyTFBQbVY1bURqNXYtR3RxeVNDOEdTSTMxMWJyd0lxOTc2cUhMWHpuVzZaQUstMm1GdUVlVGVLTDZ5TTBpWml6UmpVeGE?oc=5",
+   "source": "The Week",
+   "published": "2026-10-08T18:32+00:00",
+   "added": "2026-10-08T21:37+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "shipping",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "Sagarmanthan 2026: Ports, green shipping corridor, and supply chains in focus at day 2 bilateral talks The Week",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16554,58 +16618,6 @@
     "ports"
    ],
    "summary": "AD Ports closes USD 835 mn CLI agreement and plans to ship Brazilian farm exports straight to Abu Dhabi EnterpriseAM",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "eb3517d133d7",
-   "title": "Gantry cranes and high winds",
-   "original_title": "Gantry cranes and high winds",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kZ0wwNGxlcDFKS1Nzakx3bWgtdTFmTGk2RXd6QnRXdmhZLXlZOEVHNXljZXpYM1JnVm1wQktmcHBTM2F6LXh6VmNJSXRkZlpLeWVCZUdpVHZMdGJtWUxLNUN2SWRrUW5PYnBhclZEZnJHcXZQT1BNag?oc=5",
-   "source": "Vertikal.net",
-   "published": "2026-10-05T23:00+00:00",
-   "added": "2026-10-08T04:31+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "cranes"
-   ],
-   "summary": "Gantry cranes and high winds Vertikal.net",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4ef6baf7db91",
-   "title": "South Africa Approves Move to Set Up Independent Port Authority",
-   "original_title": "South Africa Approves Move to Set Up Independent Port Authority",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0daSzNLYUN0NV9NbHE4ZzE1M1VIRmlEZWo3RmM1OTZ0UGZ2cWtKUU5idmZlbXdobDZBWVdGNExJQmI3d0lPLWF2WVRLb21qV3F5UzdLQTYzVmxvRFlPOWhiOXdQUWU0UDczZkRLY0wyaGw1TTFVOFpBUFZCYThDMUtRMkhWTDVSdTRLWHRTLUJpRFdMRnNoMXQxRF9BdjBFeTRzVA?oc=5",
-   "source": "The Maritime Executive",
-   "published": "2026-10-05T22:59+00:00",
-   "added": "2026-10-06T05:00+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port",
-    "port authority"
-   ],
-   "summary": "South Africa Approves Move to Set Up Independent Port Authority The Maritime Executive",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
