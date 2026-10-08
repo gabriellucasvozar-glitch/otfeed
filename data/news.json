@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T07:37+00:00",
+ "generated_at": "2026-10-08T07:58+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b0717f8708e3",
+   "title": "Shipping group Maersk raises emergency fuel surcharge due to Middle East conflict",
+   "original_title": "Shipping group Maersk raises emergency fuel surcharge due to Middle East conflict",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzZBZjNVQzctNHRmQWJhZnUtRGxqMGVkTTVzVHJzX3JPR0wtVjFwZmxaSUtYMVk3VF94Umk5ODRSWHI3VDlKeWxTNmdwU3BKVmFxRXcxOHdMTmFGUTRjTGxnZzJ6Vi1PZl8xaWMwZGkzTGpNdmVMSnBDVmxtQ0dHbTI2bVlMMThlYnlra3NxdDd1dFAwTzd3dHR3YmM0NG43d3QwdXVnUEV0M25LRjBCMklqbVJLZDJvYXpoNmlRelBnQmpEeTN5cG1n?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-08T07:36+00:00",
+   "added": "2026-10-08T07:58+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3.0,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "shipping"
+   ],
+   "summary": "Shipping group Maersk raises emergency fuel surcharge due to Middle East conflict Reuters",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "92f25fe7af39",
+   "title": "Lithuania to propose EU ban on Russian grain transit, sanctions on agricultural oligarchs",
+   "original_title": "Lithuania to propose EU ban on Russian grain transit, sanctions on agricultural oligarchs",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa2J6R0k3aGNuX1lablhVdmZaUDJaSkMyckh4VVl4VVctaVR3V3Nzd3hXZURmVmJ1d0ZuTVlfeUtRUVRCdm5SdEZKNEZPVGRQTnlMTEZrY05EXzY2eDBMZlc1ckh0OHB6aWJSNC1DYWtEdkRUNUFxT2YzN2c3aHlZOFJlWmpwdFJiRDBsNklFNERoVmlUdjVfeDJBbnM2RTd1X1pwU2I0a2ZIc2lKTTkyMGI4Nm1LenJkSllFUEttWlBSMmRicTZjdU9uemdxdkMyam1B?oc=5",
+   "source": "LRT",
+   "published": "2026-10-08T07:21+00:00",
+   "added": "2026-10-08T07:58+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "grain",
+    "russia",
+    "russian",
+    "sanction"
+   ],
+   "summary": "Lithuania to propose EU ban on Russian grain transit, sanctions on agricultural oligarchs LRT",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "377aec8f1e16",
    "title": "Polimex Mostostal wycofał się z przetargu na terminal CPK",
@@ -488,6 +545,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "644bbcefcf34",
+   "title": "Emergency funds and extra capacity in Romania for Ukrainian Railways",
+   "original_title": "Emergency funds and extra capacity in Romania for Ukrainian Railways",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2h1NENKV3J6ZEJ6Sjc1YmR3U1NQX3pDa3lyVktIQWRtdzNob1l4UGxud1R1TS0wRUJqaEc4TUVzdW1aN2M1NTU3blFrc2k5VGNQQW9aNWt6YWVpNHNKTFExemw4eU5xeWJwUUFEZTc5QjhEY2FGY3N6WjFOVnAwYkFlQWEwa3pKa2lKYXFQanFGX3hjcWdtdDNBWDc4T3o2cmNfQXozdGRJSUhodXZyaWpUanlEdWFL?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-08T04:28+00:00",
+   "added": "2026-10-08T07:58+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "railway",
+    "railways"
+   ],
+   "summary": "Emergency funds and extra capacity in Romania for Ukrainian Railways RailFreight.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "f9c8950fe723",
    "title": "Monaco emerges as shipping’s ‘new darling’",
    "original_title": "Monaco emerges as shipping’s ‘new darling’",
@@ -758,6 +842,33 @@
    "summary": "Kalmar recalls Ottawa T2 terminal tractors over electrical safety issue Container News",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
+  },
+  {
+   "id": "971332949429",
+   "title": "Rockhopper secures stake in FPSO bound for Falklands waters",
+   "original_title": "Rockhopper secures stake in FPSO bound for Falklands waters",
+   "url": "https://splash247.com/rockhopper-secures-stake-in-fpso-bound-for-falklands-waters/",
+   "source": "Splash247",
+   "published": "2026-10-08T02:40+00:00",
+   "added": "2026-10-08T07:58+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "stake",
+    "vessel"
+   ],
+   "summary": "Rockhopper Exploration is putting $44m into the Sea Lion development off the Falkland Islands, committing to a 35% stake in the OSX-1 FPSO as political pressure from Argentina and contractor withdrawals continue to hang over the project. The vessel will become Sea Lion’s second FPSO. The first, Aoka Mizu, has already been selected for the sanctioned Northern Development Area Phase 1, where first oil is targeted for the first quarter of 2028. Rockhopper has entered into a subscription agreement for shares in a newly incorporated special purpose vehicle that owns OSX-1 as its sole asset. Navitas initially funded the acquisition before Rockhopper subscribed for its 35% participating interest. A development plan is targeted for submission to the Falkland Islands Government in 2027, with a final investment decision expected in the first half of 2028 and first production by the end of 2030. Rockhopper raised around $180m through a share placing in August, with about $100m earmarked for its Central Development Area funding requirements through mid-2028, including the OSX-1 investment. The spending commitment comes as Argentina steps up efforts to challenge Sea Lion, which is being developed in waters around the Falkland Islands, over which Buenos Aires claims sovereignty.",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "extract"
   },
   {
    "id": "1d480834d2c1",
@@ -16479,114 +16590,6 @@
    ],
    "summary": "Grain under blockade: What is preventing Ukraine from expanding exports via the Danube english.nv.ua",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dc7369c656a3",
-   "title": "Shipping groups seek counter-drone protection after wave of attacks",
-   "original_title": "Shipping groups seek counter-drone protection after wave of attacks",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmYycWNpLTV5bXo3c04zYXRrT0RfMHVCZmtJcnpzOGhCUTVkWDkwbHpvOEtxS2lFcWNGT281TGhHcGwzdXpYVm1SaFdZVVVSbUxpM2hsSkxBaVVFcm1jaUdvZWZVbHdXS2hnRTlpWE1ZOG5pckczYjJvVjVIbmdJbjk0TzM?oc=5",
-   "source": "Financial Times",
-   "published": "2026-10-05T09:53+00:00",
-   "added": "2026-10-06T22:38+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9.0,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "attack",
-    "drone",
-    "shipping"
-   ],
-   "summary": "Shipping groups seek counter-drone protection after wave of attacks Financial Times",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "947154f826d7",
-   "title": "METRANS expands Polish terminal capacity by 80 per cent",
-   "original_title": "METRANS expands Polish terminal capacity by 80 per cent",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcnIwUjRqVjNXd3lmN3JHQVAyeU9valZXeXpON29hTVNXVFBSYVZFTkQ2Ti1NemxZSnRuMjZNUVhNX1JtWW4temNWSmtZc3JScnk1eGd5UXRZSmZwZDh6YS1Da2VyY3FKQ0FIZnowMHQ4Wjh6RnZHcHl0UVhOcS1HeFI4clhzeTBuSUVxRHpWYTRWM1hEYmptV0UwY04yaUM5c3ZkWXV2cU1QdFhLTXc?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-05T09:53+00:00",
-   "added": "2026-10-05T23:15+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polish",
-    "port",
-    "terminal"
-   ],
-   "summary": "METRANS expands Polish terminal capacity by 80 per cent Port Technology",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d83a6f8fe4f6",
-   "title": "Bulgarian locomotive and railcar factory revived following a EUR 60 million investment",
-   "original_title": "Bulgarian locomotive and railcar factory revived following a EUR 60 million investment",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSlJOS0pRZ3Y5MkpRbmt6cTc4RVAzckNOcVAzSVY0WmxSbXh2WDFDejVCV21sUEtXeW1hZTAydmRzVUFYdlUxTlRjRHFjbm5VWkM2RTM0VHBtOTZCT0h4UXJYZzhXOFA4ZFVxamRxUjQtT2huOWtBOGlILW9ETS1aOGdxQjBIUQ?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-05T09:47+00:00",
-   "added": "2026-10-05T10:51+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "locomotive",
-    "railway"
-   ],
-   "summary": "Bulgarian locomotive and railcar factory revived following a EUR 60 million investment Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "30b833ec0d03",
-   "title": "Kalmar to supply electric reachstackers to Port of Helsingborg",
-   "original_title": "Kalmar to supply electric reachstackers to Port of Helsingborg",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0dZYlpzaTB2dlBWMkRBQ3MtMXVOMHN4QXVmT1F2bnlFbWJ5Mm41bk9Hc1NWYUZwOE5MTFVUSTRGYkZOT0xtNE1HZzFra0RBS1hKZmRCQ0JJZUZYQjB5MXlJeHdmV3FpZXV0cXFKdGx5SVFVclpyTTc4NmdBR3BPLUsyejczUThhVURaNkZYNGhKc2V3Y1Jvc1B6eEVSalQ2NkNqS2ZWc3ZnZ0Z4QnRNb1U2ZjFoVW54Z2c?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-05T09:45+00:00",
-   "added": "2026-10-06T15:48+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "kalmar",
-    "port"
-   ],
-   "summary": "Kalmar to supply electric reachstackers to Port of Helsingborg Port Technology",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   }
  ]
