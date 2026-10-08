@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T13:23+00:00",
+ "generated_at": "2026-10-08T13:46+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,60 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "dfb6637da4f3",
+   "title": "SPM Shipping plays the market",
+   "original_title": "SPM Shipping plays the market",
+   "url": "https://splash247.com/spm-shipping-plays-the-market/",
+   "source": "Splash247",
+   "published": "2026-10-08T13:46+00:00",
+   "added": "2026-10-08T13:46+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "shipowner",
+    "shipping"
+   ],
+   "summary": "With only a few months in gas, Dubai-based SPM Shipping, a shipowner, operator and offshore player, has now added its third VLGC, according to sources. The fast-growing owner is ambitious and moving comfortably in the largest segments in shipping, first placing money in both the cape and VLCC segments, an uncommon move for a relative newcomer to shipping. Its latest move is the 84,000 cu m Hellas Hercules, a 2015 Hyundai-built ship, sold for about $95.5m by Greek owner Latsco Shipping, marking its first VLGC sale in years. The company has previously tapped Dorian LPG for two vessels in the same bracket. In September, it moved twice, adding a 50,000 dwt oil and chemical tanker, a 17-year-old vessel from Oman Shipping, the Korean built unit is freshly renamed SPM Invictus (ex-Al Amera). A $17.5 m price tag is attached to this deal. SPM Shipping is a rapidly growing shipowner headquartered in the UAE. The company is affiliated with Priya Blue, one of India’s largest ship recyclers, and is the shipowning arm of Best Oasis, a major global cash buyer of ships.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "5c7004c48914",
+   "title": "Rekordowa operacja przeładunkowa w DB Port Szczecin",
+   "original_title": "Rekordowa operacja przeładunkowa w DB Port Szczecin",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkl0MlF4eGV2THh0V0RNMWYtdDducjZ0TldubjI2T05iMW1BNkN5MnByYmp6YXJtakRreU1odDcwb0xtSHFjdXJ6bjh0MmJKQm1RWTVjQlhkcFNTU1NURmJETjdLOFI0Q29zVU5BQWhMdlgtbnJ6ejA2X0J6WHhnTFRfZUs2RFlCOEZMbW1TSkpfbkE?oc=5",
+   "source": "GospodarkaMorska.pl",
+   "published": "2026-10-08T13:21+00:00",
+   "added": "2026-10-08T13:46+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "high",
+   "score": 11,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "port",
+    "przeladun",
+    "szczecin"
+   ],
+   "summary": "Rekordowa operacja przeładunkowa w DB Port Szczecin GospodarkaMorska.pl",
+   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
   {
    "id": "b180cc21936d",
    "title": "Turkish Edirne to open railway section speeding up Middle Corridor traffic",
@@ -96,6 +150,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "f791576c10bf",
+   "title": "RTG terminals offer speed to market",
+   "original_title": "RTG terminals offer speed to market",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2JYV2FmcFh2OU5vWENlZGFrOElqNEtSM1EzYXViOWRpUy0wMFI4OUo5QnQxREtZMEg0UENCUUZIRmJwcEctcl9ENzJEMFFONDJBTjRUUEdqR0FoajdtemZNcHBVU0IydzVvU2pJdEZFUUZYNEFNbzF0aUFoMmEwRmZWVmtrMUdnRmxzUExXcUZNN3ZGTExkcGFRbGdscWRMbFE?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-08T12:28+00:00",
+   "added": "2026-10-08T13:46+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "rtg",
+    "terminal"
+   ],
+   "summary": "RTG terminals offer speed to market WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "05d85e2b6fef",
    "title": "WTI and Brent Crude Prices Surge Over 4%: Why Are Oil Prices Rising?",
    "original_title": "WTI and Brent Crude Prices Surge Over 4%: Why Are Oil Prices Rising?",
@@ -176,6 +257,33 @@
    ],
    "summary": "Talgo enters PKP Intercity tender with new Avril high-speed train version Railway PRO",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "80909ddac329",
+   "title": "India-EU green shipping corridor: Why India could become a major fuel exporter",
+   "original_title": "India-EU green shipping corridor: Why India could become a major fuel exporter",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMmVvOWtMWFRxdmJRbWRhb0xPaXB6czBEeE1IS0x2V2JHblcwSHlCejZEVU51WXlyakdnallhb0t3OFczaDFvTzdBRzdBR19vUFBQM0VXSHhocUFVQWdWZ1VtZ2xlYjU2RWpxQ28yZWRUWjU4OGprM1A2TndsUkUybGJSTE5hRGhPY2xjYXNBTGFMQ2pmUTVaRkltYkVPSEhhUC1JVHdNSzJmSklGSGJKbHEyYlBuZGtvRWlRc29SakRwOU1tdGJmQjR0TDPSAdIBQVVfeXFMTXVidG9jOURZS0laT0FDV3pSellsR2k5bnk0dG4temJFaFRjYUdOS3h2TFRrMmVoNUpkMERYTHVHbV8yeUtoYkVSeEJZeEYwOXJYa0Nnc3NSdnV4WEVBWk9abU1RRXVLNEprV3VyZTZhVkMtOWdtNkVUUGlsQ09rcVRHMkJ0WEtpemRSeEZxdFdEU3pHTjdOZ3podHhqc1BQaGg4RjRnLTBhOVg0TVdUQ0pYaHpOY1F6cFZNb3VHQmg4WDkxTjduazJINzhia1Fab3Nn?oc=5",
+   "source": "Livemint",
+   "published": "2026-10-08T12:02+00:00",
+   "added": "2026-10-08T13:46+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "EU institutions",
+    "Asia"
+   ],
+   "tags": [
+    "eu ",
+    "shipping"
+   ],
+   "summary": "India-EU green shipping corridor: Why India could become a major fuel exporter Livemint",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -346,6 +454,60 @@
    "summary_method": "extract"
   },
   {
+   "id": "aac1254d91a8",
+   "title": "Lotte signs deal to supply green ammonia to South Korean power-generation pilot project",
+   "original_title": "Lotte signs deal to supply green ammonia to South Korean power-generation pilot project",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaUI4emowNVVCMFdwTzlfNnVmZFVSTjdSVU1UNXZ3cTNqbkt0V3pMdElRODJkaDAwdDBFQ2FZWm5mLW5ZQXNocHVmZGlVS3NKWlVWLWphVDg3c0dZZVotZ3YwYUNQZmh0VnNvZk1zSHREQUhiTGZBSFBlRzdkWDJVcmc3R2NFSW5uOWRvbEtzSWV3b09ZckowbEJNcWoyOXBMdV81TmRjeHZpOXA1R1ZIOHJsWm5DbDF4TEpKTzF2UUJqWkU3Yi1VTERJczEwZFdhRGc0?oc=5",
+   "source": "Hydrogen Insight",
+   "published": "2026-10-08T10:52+00:00",
+   "added": "2026-10-08T13:46+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia",
+    "hydrogen"
+   ],
+   "summary": "Lotte signs deal to supply green ammonia to South Korean power-generation pilot project Hydrogen Insight",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "782b4c4ebe7c",
+   "title": "Port of Halmstad renews three-year Kalmar service deal",
+   "original_title": "Port of Halmstad renews three-year Kalmar service deal",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmM5Rl92cHhMNWJYZlloVzRxN0RQRjV1UkRSVWlpWXBYOW84Zi1OcG1HYTV4aWRkdHZTUzlWZmwtUzB0dmo0OXYxVGQyU2xuMElPS1J3Wkh6TDJJV2V0c21MMnpVdWhRaEdsM1BFRDA5cWowTURyejBxcFZ4QjNRelNJU0hlMjRpeWhIeHV0Ti1icVR1alQ2d3plRExfclV0OVRkcUJfZTh6QQ?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-08T10:38+00:00",
+   "added": "2026-10-08T13:46+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "kalmar",
+    "port"
+   ],
+   "summary": "Port of Halmstad renews three-year Kalmar service deal Port Technology",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3a76885cf825",
    "title": "Argentina sharply boosts soybean exports while corn shipments remain high",
    "original_title": "Argentina sharply boosts soybean exports while corn shipments remain high",
@@ -368,6 +530,32 @@
     "soybean"
    ],
    "summary": "Argentina sharply boosts soybean exports while corn shipments remain high UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ff24de832797",
+   "title": "GSFC invests in 500 000 tpy green ammonia project",
+   "original_title": "GSFC invests in 500 000 tpy green ammonia project",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQmFGY1FrcV9KMDJsNkZQUUNGRUZ6eV8zYkVTYkEwdkM3dHpmMXFVSHNLemZQMHR0N1MyZlREeUNGUmt3d1ZJOFZDeVRSbVpPd3NlQlgxamFobEZaVjFHYUVucjlQZE9hdkpsdkZpalRZTjZyd3QtZXpTWEJTRHBBMGNIdTc0N1BkS2RwWkhiWlNfUzctTG04NmdaWElQbUlvM2FEeWdrV2NIcHfSAasBQVVfeXFMTUJhRmNRa3FfSjAybDZGUFFDRkVGenlfM2JFU2JBMHZDN3R6ZjFxVUhzS3pmUDB0dDdTMmZURHlDRlJrd3dWSThWQ3lUUm1aT3dzZUJYMWphaGxGWlYxR2FFbnI5UGRPYXZKbHZGaWpUWU42cnd0LWV6U1hCU0RwQTBjSHU3NDdQZEtkcFpIYlpTX1M3LUxtODZnWlhJUG1JbzNhRHlna1djSHB3?oc=5",
+   "source": "World Fertilizer",
+   "published": "2026-10-08T10:23+00:00",
+   "added": "2026-10-08T13:46+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia",
+    "fertilizer"
+   ],
+   "summary": "GSFC invests in 500 000 tpy green ammonia project World Fertilizer",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -997,6 +1185,32 @@
    ],
    "summary": "[Domestic Iron Ore Brief] Domestic concentrates prices may continue to decline in the short term Shanghai Metals Market",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1c94ead29deb",
+   "title": "The hidden cost of US ports productivity",
+   "original_title": "The hidden cost of US ports productivity",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNczE1dTlwTlZudTVvY3lERWhNaFNzd2lzdFZ1eEthMFpZRW5FdE5laVlMSGVsa185bWp6YUcyNnNrT3Z6MnBjQUZPbENCRGNzVHNRbm83MFdGUldiVkZ2d3gtQXdEeGZUblZnV1o0M2FxLUxXc3hGUHR6bjl6MXd6ZlZEUEpXSW5pLVRj?oc=5",
+   "source": "Kuehne+Nagel",
+   "published": "2026-10-08T08:25+00:00",
+   "added": "2026-10-08T13:46+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "The hidden cost of US ports productivity Kuehne+Nagel",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -5246,6 +5460,36 @@
    ],
    "summary": "Payra Port gets five modern cranes The Daily Star",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "11e5bda2112c",
+   "title": "CMA CGM Acquires FedEx’s Logistics Business, Deepening Its Presence in the Supply Chain",
+   "original_title": "CMA CGM Acquires FedEx’s Logistics Business, Deepening Its Presence in the Supply Chain",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xR2ZpZ0ZobUVRSnBPeEpuR2RQY0xaR3lhWVV0TGRFZVBKc1oycHFidFAyVG5JamVSeGk5cUE3dGhpU2U2S2hJS1hkVlZMVElDNU5iczRJU0hsYjFLQTVkR2M1dzFRVEdTNG11Q3lpcE4xNUU?oc=5",
+   "source": "Trans.INFO",
+   "published": "2026-10-07T10:23+00:00",
+   "added": "2026-10-08T13:46+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 14,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "logistics",
+    "supply chain"
+   ],
+   "summary": "CMA CGM Acquires FedEx’s Logistics Business, Deepening Its Presence in the Supply Chain Trans.INFO",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -15223,6 +15467,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "4bae78362593",
+   "title": "Port of Tauranga’s Stella Passage consent faces appeal and judicial review",
+   "original_title": "Port of Tauranga’s Stella Passage consent faces appeal and judicial review",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSDVtNHpYQ0hDS0ZMSmJ4dUtYUmhkUFUwTmltMWI4SFdTeThYQnpqS1dqamN1SHJIQ0RHOVRiX2NsbUNWNTJUQk5rYk9xQUdMLXpVamNxRDVqbmtUR2dXLWVlZGNnQkRCcUZCam00RjN4V1BYcTBHY3ZhVGtUZkpBNC1WbjBrU1Zmb0440gGYAUFVX3lxTE85N2JQZ3dFUU9zQ1lmSFo2b3FUM2tkZXp1N0tpYTRib2FkQ0hWOEZkb0o1dGJESEFlRVc5eXZwaW9wVUs0QWgydHZhTjBZeFc1RW91Ny1aUlVxb2ZRZ2ZFOVJJajRwMFV1YTlRb1VDRnVpQ1lUVV9NSmwzYTB5M0c2ZDlyNTR6cWtqc19VY1FIODd3clhuSzR4?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-05T17:49+00:00",
+   "added": "2026-10-08T13:46+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port of Tauranga’s Stella Passage consent faces appeal and judicial review Baird Maritime",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a076300b2d8a",
    "title": "Ukrainian Danube freight rates edge higher on canal delays",
    "original_title": "Ukrainian Danube freight rates edge higher on canal delays",
@@ -16288,286 +16557,6 @@
    "summary": "CMA CGM Group: Strengthening US Logistics Capabilities Supply Chain Digital",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
-  },
-  {
-   "id": "5bcc060c2ce8",
-   "title": "Russia is targeting factories, ports and the Ukrainian budget",
-   "original_title": "Russia is targeting factories, ports and the Ukrainian budget",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGZHdE9BWnRyYV9oaWJtVlh4aDZEcVhkd0xQNVRoT0xiY1Fqc05OQ2pwak5KRHBxalhiUmRsSHpVTWxzRS05ejdvUUJGVS1iMWFKaE9yNHJGR3MzMEFLc1ZBbFVRRHFSa3dFT2NkczZ6X0ZwNG1Mc0RiN3o0VEJjV2RKeE5SUFhicW9zSTZFV290eDA?oc=5",
-   "source": "Tomorrow's Affairs",
-   "published": "2026-10-05T13:55+00:00",
-   "added": "2026-10-05T17:22+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "russia"
-   ],
-   "summary": "Russia is targeting factories, ports and the Ukrainian budget Tomorrow's Affairs",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b632c0ee4e32",
-   "title": "India steps up talks on restoring safe Black Sea grain shipments",
-   "original_title": "India steps up talks on restoring safe Black Sea grain shipments",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUZKb1hFcTJMSjdFVjIyMHZDeTRMbDEzWkJ5bVZ2N3hDaTVKdnhzSEMzQzJlZUtxcDcya2pfYjY3TmNfLUEyWjY4M1RYR1JRcTdqNERQTEh0QnRxRkFTMXZTREpRbk5XS0Z2WTJFNXJsRDhzYXQ2RkREMHpxUVd5X2t5Vk9KckRlS3dPUTh3aXgzQ0lSUmsxMUxVanVEZUxCRXc?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-05T13:53+00:00",
-   "added": "2026-10-05T14:50+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Asia"
-   ],
-   "tags": [
-    "black sea",
-    "grain"
-   ],
-   "summary": "India steps up talks on restoring safe Black Sea grain shipments UkrAgroConsult",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2c2cdaa8316c",
-   "title": "Cocaine trafficking through seaports: The Port of Rotterdam in a comparative perspective with Le Havre",
-   "original_title": "Cocaine trafficking through seaports: The Port of Rotterdam in a comparative perspective with Le Havre",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1a0c1OTRvMGNaR3BQa2pzd0hJRnNrLXdtUmxCenFURHpPc3NGNS05MWtXZUVpVE5JUmVzUnlva01jTklEajd4S0szR0tpSlh4VWFZNURidE1FdXF3U3RkSkMtSFBLMHRV?oc=5",
-   "source": "RAND.org",
-   "published": "2026-10-05T13:50+00:00",
-   "added": "2026-10-05T16:18+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port",
-    "seaport"
-   ],
-   "summary": "Cocaine trafficking through seaports: The Port of Rotterdam in a comparative perspective with Le Havre RAND.org",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cd6406dd63bd",
-   "title": "Hybrid attacks on European logistics are the more likely scenario for Russian escalation, a report argues",
-   "original_title": "Hybrid attacks on European logistics are the more likely scenario for Russian escalation, a report argues",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2xuUmljTFRQaDNIYVJIMVNpVU1lbDJIM3pSdmczcnk2WDdyMVQ5ZVVkLS15YjRwUnNwRjk2aW4xeWpjcUdZcnFkUU81dmtZdTM5VW1Iay16eHpremFXbXdoZ090MDNfY05lUWY3N1JNTng2SndGTjk0cm9COW9JU3BGS0RQMnRq?oc=5",
-   "source": "Informat.ro",
-   "published": "2026-10-05T13:47+00:00",
-   "added": "2026-10-05T13:57+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "attack",
-    "logistics",
-    "russia",
-    "russian"
-   ],
-   "summary": "Hybrid attacks on European logistics are the more likely scenario for Russian escalation, a report argues Informat.ro",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c595664b221c",
-   "title": "Port of Corner Brook, LOGISTEC and NEAS Strengthen Canada's Arctic Supply Chain Resiliency",
-   "original_title": "Port of Corner Brook, LOGISTEC and NEAS Strengthen Canada's Arctic Supply Chain Resiliency",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQekZfdlNaREFfWEQ1STlMaFFsQWNTbURXZXZYQWJmeXlVU250M1U0UThnQzhVR3FudHptdXRkQ2pIZnd6d0RQajBKUFVCSE5FUWFkNk1UVUtuWEZTUjJobDBnakZUQUNSTHBIYkotbmZjblhENGNlekhsRFk2ejBqdWM4YUlzbVBDck5jbjZWM3Btc2dzTHRkaGpOZ1duVEdVOE8wMUFuVjZBNnp4QllWRl9qdFBDR1Rqb0JFa21FTVN2alNqdHdXTUhJbXZwZHE0dnFfVlc4dGh0Zw?oc=5",
-   "source": "PR Newswire Canada",
-   "published": "2026-10-05T13:44+00:00",
-   "added": "2026-10-05T13:57+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "port",
-    "supply chain"
-   ],
-   "summary": "Port of Corner Brook, LOGISTEC and NEAS Strengthen Canada's Arctic Supply Chain Resiliency PR Newswire Canada",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9d8031abacf7",
-   "title": "Ukraine faces 30 million-tonne export loss from Black Sea port restrictions",
-   "original_title": "Ukraine faces 30 million-tonne export loss from Black Sea port restrictions",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU1pibC1nZkpNSzRCTlB1NEx5dUtTWE9mNllmcFJfWmpfbWRtTVp1NDZHRVlVT0VTYnhUUG8xVzBMNTZiZVA3bVdqWG5PLURKa3ZNLUc1dUVGRHpicHlfMWNYQWlkSDN5clczTzVfUWNuQ1IyR08zWXEza1hFWHJ4QTZKaC1mYjZlbGpQRlRSM25Wb0hyd2pIYmhxRXRfWUphZnlnakVWdmwydUJs?oc=5",
-   "source": "Food Business Middle East & Africa",
-   "published": "2026-10-05T13:40+00:00",
-   "added": "2026-10-05T14:50+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Middle East",
-    "Africa"
-   ],
-   "tags": [
-    "black sea",
-    "port",
-    "ukraine"
-   ],
-   "summary": "Ukraine faces 30 million-tonne export loss from Black Sea port restrictions Food Business Middle East & Africa",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "99d44234c8fe",
-   "title": "Zelenskyy: Russia attacked a Turkish vessel in the Black Sea with two drones; the captain was killed",
-   "original_title": "Zelenskyy: Russia attacked a Turkish vessel in the Black Sea with two drones; the captain was killed",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNG1tMTR2eUVfRjh5RTA4MktJZ0NmZW03cDFPQ2s1NUpaYi1NUHEycElnWW1CZ20wenNldUFsXzdFZGF2aVpfWG83LV82YlFGS1NJMzFPTlMxemVVS1JIT3podHV0NHI1N2I2UFF0NzdTSk5vUjFVYVRvZGZIVVZyb0swSmhpUGlSQldzMDJEdUlyLWZBdHRzZk1HTGdyWFFfR25iZHJ6YUdrTUFnTE1iSEc3dlFIWTVmN2JNWmFFVmR1X1diN0xaUFFGTU7SAdIBQVVfeXFMTUhGWkNuV1dhWVk5elRJZmg0V3JBVC1JZm1KWHo2NElzRklRemtDaTdiOHllMTUxMS00eFNaQnQyMDJibWlnUU1FeFpfZ2lhNXBkSkp5YkFDWVBrWlE4eWlfU0hrYVJSWGZSN3NRMGl5VzdkQTV6NDlKUzBaWTZzYnNIYnI2dVBBc0xDd19Db3ZxTDJKa1h2R3hoeEM5UUtkQl9tTHdiaGN1X0U3SFFrR1NZV2J6REpOX0tQUG14MkluZTlUc19kcEU3VDF4Y3ZuTmFR?oc=5",
-   "source": "LIGA.net",
-   "published": "2026-10-05T13:38+00:00",
-   "added": "2026-10-05T14:50+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "drone",
-    "russia",
-    "vessel"
-   ],
-   "summary": "Zelenskyy: Russia attacked a Turkish vessel in the Black Sea with two drones; the captain was killed LIGA.net",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c02d823706f4",
-   "title": "Fastmarkets to amend quality specifications for iron ore pellet premium over 65% Fe Fines, CFR Qingdao: pricing notice",
-   "original_title": "Fastmarkets to amend quality specifications for iron ore pellet premium over 65% Fe Fines, CFR Qingdao: pricing notice",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNVZ1Z2ZNUmpwa3JIQUF4QUNnZ2ZjanN6VndmV2xsa3pseHd3bWtscFdLdjU1VVE5VkFleWZMNnJpODdtamxsSlZ1Zjl1Z25mQlM1ZkVaMFp1X1JTaXlKU0s4VjFMQ01mYko0Y1E3bTRPcWxBZDFyYk5sNno5UWpybTd4UjdRand4VjhHUHhXbEtvM2hROEZQLUJFNTJIb0dRVzYtcXlpcXc0V3R3aFUyU0dDZHFWeFVrR24zT3NqYzIzU0xfVmc4M2hzeUVub1lWWllISkJXWFp5VGlkU2lyRHpRUEx3VjJw?oc=5",
-   "source": "Fastmarkets",
-   "published": "2026-10-05T13:36+00:00",
-   "added": "2026-10-05T14:50+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "iron ore"
-   ],
-   "summary": "Fastmarkets to amend quality specifications for iron ore pellet premium over 65% Fe Fines, CFR Qingdao: pricing notice Fastmarkets",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "377d9280711b",
-   "title": "APM Terminals Algeciras retires four RTGs",
-   "original_title": "APM Terminals Algeciras retires four RTGs",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY1lRTG05aE1FaFItbDJFcE5LS3hTSktNTDFrdzRUdFBLbWNzRWVHeVNuNXh3NkFOellvQU96dGE4aE5oVHR4VXlhQUprWkROc0p5YWFxNERaUDg1anRoU08zZXNaYnBjendITEJZNG1OTHkwbXdXakk4U1g1ZHR4OEJCRG9FU1JNQXJSVVhsNDJkU3ZFbHA3dA?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-05T13:30+00:00",
-   "added": "2026-10-05T18:00+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "ports",
-    "equipment"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port",
-    "rtg",
-    "terminal"
-   ],
-   "summary": "APM Terminals Algeciras retires four RTGs Port Technology",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1e97b5636808",
-   "title": "From Residue to Resource – the Rise and Risks of Marine Biofuels",
-   "original_title": "From Residue to Resource – the Rise and Risks of Marine Biofuels",
-   "url": "https://gcaptain.com/from-residue-to-resource-the-rise-and-risks-of-marine-biofuels/",
-   "source": "gCaptain",
-   "published": "2026-10-05T13:27+00:00",
-   "added": "2026-10-05T14:50+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "corn",
-    "wheat"
-   ],
-   "summary": "While corn, sugarcane, wheat, or vegetable oils can be converted into fuel, their use for foodis driving demand to develop waste or bi-products from agricultural, forestry, food-processing and other biological industries as more prudent alternatives. Already, Fuel EU Maritime regulations financially incentivise the use of bio-residue, where areduced emissions ‘surplus’ can be sold to ship operators in deficit to avoid compliance penalties. “For vessels currently on order, 60.6% of the tonnage and 79.5% of the ships by number face similar limitations.” Against this backdrop, it is likely that suppliers seeking to satisfy maritime demand will increasingly look beyond conventional feedstocks towards more complex bio-residuesources. As RED III applies to all industries, there will also be competition from the airline and heavy transport industries in the use of bio-residues, and we suspect this will create additional risksin the maritime sector. Buyers in the sector may be exposed to lower-quality residues, for example, chemically variable feedstocks and/or blends from multiple residue streams. Pressure may mount on traceability systems, fraud risks may increase (due to misclassification of sustainabilityvalues in Proof of Compliance documents) and disputes over the chain of custodyaccumulate. Given the rising uptake of biofuels and the consequent risks, NorthStandard is recommending particular care in this area of marine fuel management.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
   }
  ]
 }
