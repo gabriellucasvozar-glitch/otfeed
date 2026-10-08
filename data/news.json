@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T11:57+00:00",
+ "generated_at": "2026-10-08T12:28+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,62 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "503995cbf7d7",
+   "title": "High yields spark new container services on ‘bumpy’ India-Middle East trade",
+   "original_title": "High yields spark new container services on ‘bumpy’ India-Middle East trade",
+   "url": "https://theloadstar.com/high-yields-spark-new-container-services-on-bumpy-india-middle-east-trade/",
+   "source": "The Loadstar",
+   "published": "2026-10-08T12:12+00:00",
+   "added": "2026-10-08T12:28+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East",
+    "Asia",
+    "North America"
+   ],
+   "tags": [
+    "military",
+    "port"
+   ],
+   "summary": "Historically high freight yields are driving a wave of dedicated container services between India and the Middle East, a tradelane that has been through a number of upheavals since the outbreak of Iran-US military tension. The latest example: Maersk has just rolled out a new container shuttle loop from India’s Nhava Sheva port (JNPA) to Khor Fakkan in the UAE, “to support customers seeking better service reliability”. The service, which began with the 2,600 teu Maersk Namibia departing JNPA on 24 September, is to initially offer a fortnightly frequency, according to industry sources. Ocean rates have also continued to spike sharply for bookings out of JNPA to other Gulf ports – as high as $9,500 per 40ft for Dammam in Saudi Arabia, and around $10,000per 40ft hi-cube to Umm Qasr in Iraq. Emerging Chinese carrier CULines is said to have firm plans for an Asia-Middle East service, beginning in late 2026 or early 2027. Hapag-Lloyd last week told customers it would not accept new Upper Gulf bookings to be transhipped via Salalah until further notice. Much of the pressure plaguing Middle East gateways is linked to a shortage of assets needed to move imports across the border overland, especially using truck fleets, industry updates suggest.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "5aadda1344cc",
+   "title": "Talgo enters PKP Intercity tender with new Avril high-speed train version",
+   "original_title": "Talgo enters PKP Intercity tender with new Avril high-speed train version",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2JDR21ITUdEdTljc0U1UXE3cWN0VXVTakV0bWRxdWxNSFBsZVBxZW5hT3UwanF0ZmZsYk1oZzFCbDNObDI5VGtNaTAwWHp0ZDZfaTRROTVhYVZGNjNrNFZXc2hEYjFsU0dZN0VGQ3RNUnR2alN2aDQ2WXN0NVRYUGxyYlBZdUxaaG5ub1FTOFBuU1lxTDhvM2liM1ZnVVJaZi05VUw4VQ?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-08T12:12+00:00",
+   "added": "2026-10-08T12:28+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "railway",
+    "tender"
+   ],
+   "summary": "Talgo enters PKP Intercity tender with new Avril high-speed train version Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "8dc6dd9ec6be",
    "title": "Customer demands for new tech a dilemma for SME forwarders",
@@ -7089,6 +7145,36 @@
    ],
    "summary": "India’s Steel Demand Surges as Prices Rise Sharply in Six Months Realty Plus Magazine",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "19ed7dbc22d0",
+   "title": "EU wheat holds firm as Black Sea attacks continue",
+   "original_title": "EU wheat holds firm as Black Sea attacks continue",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwV2ZOMzhNQlZONkcxRXVMOGh5bnV3cGJqZXphZFZtZWJyMnhSNTQ1NlQxUDlSRDRsZXplT1JadWxBTVpRTmI3OXJrb0lVZEtfZGRrT2130gFWQVVfeXFMUDBXZk4zOE1CVk42RzFFdUw4aHludXdwYmplemFkVm1lYnIyeFI1NDU2VDFQOVJENGxlemVPUlp1bEFNWlFOYjc5cmtvSVVkS19kZGtPbXc?oc=5",
+   "source": "Business Recorder",
+   "published": "2026-10-07T01:58+00:00",
+   "added": "2026-10-08T12:28+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Ukraine & Black Sea",
+    "EU institutions"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "eu ",
+    "wheat"
+   ],
+   "summary": "EU wheat holds firm as Black Sea attacks continue Business Recorder",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16480,84 +16566,6 @@
    ],
    "summary": "Russian Strike on Liberian-Flagged Ship in Odesa Port Kills One, Injures Three Ships & Ports",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e7a7d257521b",
-   "title": "Maersk completes first U.S. ethanol bunkering of a deep-sea container vessel",
-   "original_title": "Maersk completes first U.S. ethanol bunkering of a deep-sea container vessel",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLWpSZUNkandtUWUxX3h6T0I2T01oZ202LXFtMlR0dGlseHVzajJXTmZ6VDFnelpPd0V1RzVCS3dRZ09nSEZCeHJScFcydEY4MnJyS3VqVW1qN3FQTmtuQUp3enR0RmpxRkRHVmFESFo0SFlqbnQ5aUtTYXFSNkVXeXBqdHh3cDl5WWFucVI5c0tpczMwOUk0UW9RWjZYeXhobmdKc1ZnQ3U5MVR6Rl9RM1R1SVJlRE9TZkE?oc=5",
-   "source": "Cyprus Shipping News",
-   "published": "2026-10-05T12:37+00:00",
-   "added": "2026-10-05T17:22+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bunker",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Maersk completes first U.S. ethanol bunkering of a deep-sea container vessel Cyprus Shipping News",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1052688d6544",
-   "title": "Aramco CEO warns bad actors are using satellite and shipping data",
-   "original_title": "Aramco CEO warns bad actors are using satellite and shipping data",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMlpNZGpYUzJQWkE5Q3BFTVpHbzMxWVowMEhwLUZvMTlHT2xHeHNSZktFUXVRaVhhYkVhLXg2ZVlZX2loUE9mWnBkSFU4SDJoM3J1eVZUSW1YSkxlMVloX2hGSE81SEhMVHpRRHdmSHQ3NDZodlVjODVtZ2l1RmgwVDZsdG9aUTNrcmVLMklKMWJNSFYxTWxad3BEbEVTYVIzOGR4eUxFX1hNazNWSHFsdGdUYXNXZw?oc=5",
-   "source": "Reuters",
-   "published": "2026-10-05T12:35+00:00",
-   "added": "2026-10-07T11:28+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3.0,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "shipping"
-   ],
-   "summary": "Aramco CEO warns bad actors are using satellite and shipping data Reuters",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "229a05ae903d",
-   "title": "AM Green wins H2Global bid to supply renewable ammonia to Germany",
-   "original_title": "AM Green wins H2Global bid to supply renewable ammonia to Germany",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkJGekx6WW8yT0wzNXJ6MmwtcnFORHN3X3BJMi1Pdlh3TUxWN19WcWRzZG43N1RxLUNDLUZ2d3dDdnhxUVFLSXBqTUN3YU5wMktUcW1zUzg5Ri14OFk3aW04cDJ3WWFib2VCWlpDYjdVR1pOdXRfMEZ6eVdUTDc3alMzZm9KZ3hlQUppX1hpeUtCbmZvTEpwQTFtMFVLSUo2WmZTUmdEMWJJdklranlCcUo0dWtxdFBlbjFQOW9ielRuVmlsR0toQlhUUnkxSmhi?oc=5",
-   "source": "Fibre2Fashion",
-   "published": "2026-10-05T12:33+00:00",
-   "added": "2026-10-08T08:46+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "ammonia"
-   ],
-   "summary": "AM Green wins H2Global bid to supply renewable ammonia to Germany Fibre2Fashion",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
