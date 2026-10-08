@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T17:35+00:00",
+ "generated_at": "2026-10-08T17:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "8f1c99344b14",
+   "title": "Ukraine looks outside its borders to German ports to bypass port siege",
+   "original_title": "Ukraine looks outside its borders to German ports to bypass port siege",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1lkVGh2Y1lnQ1JadEZhLU54dXdSVmJ3SjRTZU1iN3I2RHBrcUJQdU5LVGhSVWwxYXN3WVUyeFdOQU1zeGF5TFZHOXROOXVaV3R5anF3SmNGQUdnRU9QM3BGdlFEU2wwYVEyaGs4dVNDdjNnZV81TGhtcWxmcjNpUmFESlJRaGhlVERFMG5Kd0tNSWFDVXNvQlVOTVhyVzZabEowOWFYY2ltR3RQU1dKSEhicGZOZ9IBwwFBVV95cUxPTGpzSVlvWHhZRHZkUTN5VVNyYVM5ZkpDLVBac0wwLWtqVXlRWVU4VUZjLV8wdDVGblVpNGp6dlFiRFJaWXpzM0hQS2ZlQW1wNlR0aHFTY2tFR1JZUkFNTlJPOTY1d1paLVVQcFB6YWZCal8wc19YQkd3bUt2SWtzOWpsOFFDN2tPLTBVQW9laTVNRnl4VU1kQ2JrbVlJY3hKc1hBQ2RabVg4WTA4dTI2RjJwTVFDcWhvcDBQU3VzUDhiODA?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-08T17:27+00:00",
+   "added": "2026-10-08T17:55+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "ukraine"
+   ],
+   "summary": "Ukraine looks outside its borders to German ports to bypass port siege Baird Maritime",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "22915e9f2411",
    "title": "Diana Shipping Inc. Announces Time Charter Contract for M/V G. P. Zafirakis with Classic Maritime",
@@ -3672,6 +3701,37 @@
    "summary": "Rockhopper Exploration is putting $44m into the Sea Lion development off the Falkland Islands, committing to a 35% stake in the OSX-1 FPSO as political pressure from Argentina and contractor withdrawals continue to hang over the project. The vessel will become Sea Lion’s second FPSO. The first, Aoka Mizu, has already been selected for the sanctioned Northern Development Area Phase 1, where first oil is targeted for the first quarter of 2028. Rockhopper has entered into a subscription agreement for shares in a newly incorporated special purpose vehicle that owns OSX-1 as its sole asset. Navitas initially funded the acquisition before Rockhopper subscribed for its 35% participating interest. A development plan is targeted for submission to the Falkland Islands Government in 2027, with a final investment decision expected in the first half of 2028 and first production by the end of 2030. Rockhopper raised around $180m through a share placing in August, with about $100m earmarked for its Central Development Area funding requirements through mid-2028, including the OSX-1 investment. The spending commitment comes as Argentina steps up efforts to challenge Sea Lion, which is being developed in waters around the Falkland Islands, over which Buenos Aires claims sovereignty.",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "extract"
+  },
+  {
+   "id": "9309e353b889",
+   "title": "AD Ports Group successfully completes acquisition of Brazil’s CLI upon receiving full regulatory approvals",
+   "original_title": "AD Ports Group successfully completes acquisition of Brazil’s CLI upon receiving full regulatory approvals",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWHlFa3B2eUVSUFM0XzV1MVQwSXN5aC1URnBTUElKckItRFo4V3VTUGttNmVKRzhoT2wxVzZFaTd1cWlpWlVCdUJhaWNqZ3BkMkNqczluNkF0UTI3bjI0Wk1kdGQtajBxUFk5YXhSR2lnOV9mTVdPUVB6RkJnbERmTVl1enRpWXRXcUJtUlc4ODh2Y0tyMW0wazMyV2U3MnNtQkZXcU1RU2pydDFLRXRsNTFjbXZlVzZBM1JMUHRocEpaQzZEeXRjc0ZKRnJwZTVIY1BBQmNyZks5V0ZvcnNJbTJR?oc=5",
+   "source": "Cyprus Shipping News",
+   "published": "2026-10-08T02:32+00:00",
+   "added": "2026-10-08T17:55+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Middle East",
+    "Latin America"
+   ],
+   "tags": [
+    "acquisition",
+    "port",
+    "ports",
+    "shipping"
+   ],
+   "summary": "AD Ports Group successfully completes acquisition of Brazil’s CLI upon receiving full regulatory approvals Cyprus Shipping News",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
   },
   {
    "id": "4e7668bd2920",
@@ -16522,58 +16582,6 @@
     "war"
    ],
    "summary": "War, Oil Prices and Computing Power: The Rising Cost Floor Beneath the AI Bull Market TradingKey",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8d0300ba5b62",
-   "title": "U.S. Grain/Oilseed Review: Soybeans, wheat advance to start week",
-   "original_title": "U.S. Grain/Oilseed Review: Soybeans, wheat advance to start week",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNVZJM01ULS0wNzVaYVRCcjBWRE9IZmcwNVRkZk92djFSb1NTUnRET0dpS0I3SDlaQjVtSmZlWHJtOFktS3dRQWlqLVNrbkJHSjhRU1NreVFlUWlMaHN6dmNiQXRVVHNDM2RERWFWWHJtWXlvb3h6c1N6Y1RHUm9Pa2dReG40TExvZWN2QlQ1ZWFhNlBuX0c4Z0tHeW9hSGQycUln?oc=5",
-   "source": "The Western Producer",
-   "published": "2026-10-05T19:09+00:00",
-   "added": "2026-10-05T22:22+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "grain",
-    "soybean",
-    "wheat"
-   ],
-   "summary": "U.S. Grain/Oilseed Review: Soybeans, wheat advance to start week The Western Producer",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c9cd97c414ce",
-   "title": "Latin America Commodities 2027: El Niño, Freight, US Trade",
-   "original_title": "Latin America Commodities 2027: El Niño, Freight, US Trade",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGtJdDlETTRPY2NwQlRSWlZBMmUta0FYaWRIRktFUW9zSHNKSUMwdTNuQUNnVGFIWVFDNTIyZmpZMjhHVklTdHNSdGdrX1RKcHJxdG0tLWluVldZekNRck1ERkVVSGt0Zkk3UUlfa3NwTk13NVFEcXU2akJkUWppWGUyRnBEVlBYWUdCQzNQdkMwX0Jnby1nOGRHT2VXZURid1g0TlRxenJmUktvb29MZVJtdjJLeGQzalFfUTl3?oc=5",
-   "source": "Kpler",
-   "published": "2026-10-05T18:57+00:00",
-   "added": "2026-10-05T21:44+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "commodit"
-   ],
-   "summary": "Latin America Commodities 2027: El Niño, Freight, US Trade Kpler",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
