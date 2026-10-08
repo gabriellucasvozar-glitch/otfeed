@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T08:23+00:00",
+ "generated_at": "2026-10-08T08:46+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,59 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "7d786ec26de6",
+   "title": "Almi Marine founder Evgenia Daskalopoulou dies",
+   "original_title": "Almi Marine founder Evgenia Daskalopoulou dies",
+   "url": "https://splash247.com/almi-marine-founder-evgenia-daskalopoulou-dies/",
+   "source": "Splash247",
+   "published": "2026-10-08T08:29+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "dry bulk",
+    "shipowner",
+    "supramax"
+   ],
+   "summary": "Greek shipowner Evgenia Daskalopoulou, founder and president of dry bulk outfit Almi Marine Management, has died. Almi announced her death on Wednesday, saying she passed away surrounded by her family. Daskalopoulou was born in 1958 and founded the Athens-based company in 1992. The company said operations would continue as normal and that the Daskalopoulou family and management team remained committed to carrying on the business. Almi currently manages six bulkers totalling 365,140 dwt — three supramaxes and three 64,000 dwt ultramaxes. Its fleet includes the 2024-built Mea Mare, Spike and Subra, alongside the older Altus, Anima and Sole. In February, Almi signed for two 64,000 dwt ultramaxes at Nantong COSCO KHI Ship Engineering, or NACKS, for delivery in the second quarter of 2029. Just days before Daskalopoulou’s death, the company added another three ultramax newbuildings in China at COSCO Shipping Heavy Industry’s Zhoushan yard for delivery in 2030, taking its reported contracting this year to five ships. Daskalopoulou came from one of Greece’s best-known business families.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "169d41836c66",
+   "title": "ORLEN Kolej planuje rebranding lokomotyw",
+   "original_title": "ORLEN Kolej planuje rebranding lokomotyw",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55bWdEWnNGRFlNOGhmWWthSHNVdmxrejFrSTJoWVUwZFhpWk5iZE0wdGlsaDNtTEZZY3BMRlFBX013UjgzXzNKYTl4aFkzTUVSclpwSUZlUUVMYTVYcU9iY1R1eDdZZEhNSUpwZVp3UDlKT2ZxS19WSw?oc=5",
+   "source": "Kolejowy Portal",
+   "published": "2026-10-08T08:03+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "kolej"
+   ],
+   "summary": "ORLEN Kolej planuje rebranding lokomotyw Kolejowy Portal",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "22a57c879067",
    "title": "[SMM Analysis] Q3 Ex-China Stainless Steel Review: Europe's surcharge fell EUR158/mt, yet CIF prices rose 2.8%",
@@ -153,6 +206,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "97de977f3419",
+   "title": "Hamburg harbour container terminal",
+   "original_title": "Hamburg harbour container terminal",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbTJCcHJpV3pjR3RLckZUN1NrUTdJMVotenI1X3A0Y19pOVZDcTlUV2VQdnN2NTBpLUgwbnlhT0Nuak5qbkRTR1k4NFJRZDlNNDNBUnpPNmdCZlRZZjk1T0lnQ0xva1MwOVVaTWo4SEVxZ01Uc3c0a2VQZUFsS05URlZnd0tEZ3dLTWVkLUhkdnZKWDhIbFBUZzhsTk4xdlE3a2JpVk1GcVVfdWFUcU9neDNlMzRlWTNxdFNONDZpQ3duT2ZuRUQyaQ?oc=5",
+   "source": "The Daily News | Texas' Oldest Newspaper",
+   "published": "2026-10-08T07:04+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "container terminal",
+    "hamburg",
+    "terminal"
+   ],
+   "summary": "Hamburg harbour container terminal The Daily News | Texas' Oldest Newspaper",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "0a3506721239",
    "title": "Tanker attack off Qatar widens Gulf shipping conflict",
    "original_title": "Tanker attack off Qatar widens Gulf shipping conflict",
@@ -202,6 +282,33 @@
    ],
    "summary": "Kazakhstan's President proposes integrating Middle Corridor with Three Seas Initiative Apa.az",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1db3f07a451a",
+   "title": "Vopak secures NSW government endorsement for Port Botany expansion to strengthen SAF fuel security",
+   "original_title": "Vopak secures NSW government endorsement for Port Botany expansion to strengthen SAF fuel security",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRlRrTEk3cEhLeGJtWG5CM3FuUzE4d05zUFZxMjVKS0taeFc2WG1YVGlRTnA3MElZNkxoVHlRUHFWNkxVdmQwYUVOZDdNREFvdHdCVG1QX3RMQ2o1enhCZTRMa24tOXlkNk94dC1rLVhER1U5d0NnYXpocEx2Z2NwRlEtaFpFM3ZNaENCbXBxanJpY2RKaUFWX0dTXzVsUVo3aU5DVktYZ0RHanFNOS0zTlliazROaGVtMVZPMWtmNnhEYi1nWUtSRFRR?oc=5",
+   "source": "Biofuels International Magazine",
+   "published": "2026-10-08T06:52+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "security"
+   ],
+   "summary": "Vopak secures NSW government endorsement for Port Botany expansion to strengthen SAF fuel security Biofuels International Magazine",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -375,6 +482,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "7423c7144319",
+   "title": "Brookfield acquires 10.5 million sq ft logistics portfolio from ESR India for ₹4,300 crore",
+   "original_title": "Brookfield acquires 10.5 million sq ft logistics portfolio from ESR India for ₹4,300 crore",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVlIaUlHX29ILTgteUZ3U0R2UjBwSHdzY1FtbmYyMmNmNlB3cTl6RUlQeTVaQVUxTWlwb2lKbkRwWU1HV3VfcVJNN0g1bkNiWnR6WERjRVl0dEItNGUzVjd5R0NicFpBVVU3Tjg4Vmd6MTNadlA1bk9UR3p0b0VtbnRFMEU3M25ZcUNzZmRGRGJicmVnNzQ1WWNTdnEzZ1M0NTgzWFp6cUlQV0JtWTJMMUFGLUNfMGVEb1RhYVRKZG5MTG9hdGR6dDBR?oc=5",
+   "source": "Logistics Insider",
+   "published": "2026-10-08T06:23+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "logistics"
+   ],
+   "summary": "Brookfield acquires 10.5 million sq ft logistics portfolio from ESR India for ₹4,300 crore Logistics Insider",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "babc48762e85",
    "title": "European flat steel market analysis: Quotas, domestic supply tightness and geopolitical pressures",
    "original_title": "European flat steel market analysis: Quotas, domestic supply tightness and geopolitical pressures",
@@ -456,6 +591,33 @@
    ],
    "summary": "Oil prices surge over 2% on M.East shipping attacks, U.S. Gulf coast disruptions Investing.com",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a6047efa204a",
+   "title": "Port starts formal review of crane collision, recovery continues",
+   "original_title": "Port starts formal review of crane collision, recovery continues",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc29sYXNncUFEcU5JdF9XTXZVN2hLUnJjcFdFOVhLT0VzclFPV1JXN1ZIQnBybFVBNnBHMjAzZHJUbHZUN09EZ3FtT2NZR3VPU1hwWnhVcWlHNTN1M0MwWnVFcW5nbml6OUJoWlJKNnhpdGZZX3hYMk4wVC1CN2MybUwzVlllaExoWHJ4dFZsWGRCV3JJXzRQR3lJOFhCWE9oTDBNN3FOR3BHUWdoMFlWaURWa2RSRnVCSTd1VTY1aFE4YVBBSnRwbnk4azg0SVpzQndZZkQ3Q1RZZw?oc=5",
+   "source": "guampdn.com",
+   "published": "2026-10-08T05:15+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "port"
+   ],
+   "summary": "Port starts formal review of crane collision, recovery continues guampdn.com",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -597,6 +759,34 @@
    ],
    "summary": "Emergency funds and extra capacity in Romania for Ukrainian Railways RailFreight.com",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9d2b176f2906",
+   "title": "Karachi Port restores direct shipping links with seven European ports",
+   "original_title": "Karachi Port restores direct shipping links with seven European ports",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbm5lNlR4ZGFSb3V1U1ZDcWhzMElDMVc0dENLX2ZHOFd3dDhzcG5idEtnaHdtLUh3Z2RaZnNlMVJ6U19LVGEyQ053MXV6Nml1bjd0aTRYZTB5U0xwNE9ya19ydkFuSnZ2OXlyYVoxcjBPbF8zSWFrTEVDRm91Z0JSU3c5LXVHQkhJbkN5eHBYNW5SdjZqYUFtT2pFeEVBWlVod21jeGlSenNxU1V1MjZJWnh30gGyAUFVX3lxTE1ubmU2VHhkYVJvdXVTVkNxaHMwSUMxVzR0Q0tfZkc4V3d0OHNwbmJ0S2dod20tSHdnZFpmc2UxUnpTX0tUYTJDTncxdXo2aXVuN3RpNFhlMHlTTHA0T3JrX3J2QW5KdnY5eXJhWjFyME9sXzNJYWtMRUNGb3VnQlJTdzktdUdCSEluQ3l4cFg1blJ2NmphQW1PakV4RUFaVWh3bWN4aVJ6c3FTVXUyNklaeHc?oc=5",
+   "source": "24 News HD",
+   "published": "2026-10-08T04:22+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "shipping"
+   ],
+   "summary": "Karachi Port restores direct shipping links with seven European ports 24 News HD",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -899,6 +1089,31 @@
    "summary_method": "extract"
   },
   {
+   "id": "2df6912c1c84",
+   "title": "Crucial NCT deal signing with foreign port operator today",
+   "original_title": "Crucial NCT deal signing with foreign port operator today",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekJ4akxlN2hiSUhTYlJKVV9pdGw5Y0J2TUxvQkZsM0hHV0k0QmFxNFoxcWlhLXdVMW9tQTMzZEFianI0MHRzYndfd1lyNWFMRS1vRFlEa2NneVFoaWVZVkI4RXZ1YXo1TmRIakhwRVhsbTF3THZoNFFKMUQ0NjdYSS1fY3diSFQ2bVJiN2dMRUEyQ2VMRXVhUUo3QUFZQXM?oc=5",
+   "source": "The Financial Express",
+   "published": "2026-10-08T02:19+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Crucial NCT deal signing with foreign port operator today The Financial Express",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "1d480834d2c1",
    "title": "China’s Iron Ore Prices Hit A 15-Month Low After The Holiday Break",
    "original_title": "China’s Iron Ore Prices Hit A 15-Month Low After The Holiday Break",
@@ -1119,6 +1334,60 @@
    ],
    "summary": "Fortescue Flags Softer Iron Ore Shipments and Higher Net Debt Amid China Sales Talks TipRanks",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "923752184bf3",
+   "title": "Peel Ports Group Appoints Nigel Kent as First Head of Project Cargo",
+   "original_title": "Peel Ports Group Appoints Nigel Kent as First Head of Project Cargo",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUS1iQkNqRmUybmVfU2s4WEkzNEtxNWQ3UEt0RzNXcHBWcG5STUR5a2VmUzVwWURGbmduS0FGbXhXUkpoYXBIVXU0ZkVzaUJ6VnAzX3c0WlJJa3ZBM2tPTk9VelQtTHo2RWdsTXpfeUpSQzRoQlpmYWFUTl9FLTQzdkNSbHpXY2NfR2J6U1NiblFpOF80UEE?oc=5",
+   "source": "DredgeWire",
+   "published": "2026-10-07T22:29+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Peel Ports Group Appoints Nigel Kent as First Head of Project Cargo DredgeWire",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6db6e1b7dfae",
+   "title": "Port of Helsingborg scores two new electric reach stackers from Kalmar",
+   "original_title": "Port of Helsingborg scores two new electric reach stackers from Kalmar",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGttcFIyZzNlOXpVVjRSTnpnQkxrbDE3SUdpOTcydXFlbEpYYjNsNjc5Vi16TXdVZTFSdzZVekFOOWVBbW1pczR3NlUyLXQxc0hzMEhGdEtWRVI5QkRsNVNSdWluRVQ4cDhnTVBzMXhIQ3VOUEJyN1BiSE1ERVlZSm1peklxblRGVkFBZmdCQ0U0cFd2?oc=5",
+   "source": "Electrek",
+   "published": "2026-10-07T22:16+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "kalmar",
+    "port",
+    "reach stacker"
+   ],
+   "summary": "Port of Helsingborg scores two new electric reach stackers from Kalmar Electrek",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -10307,6 +10576,38 @@
    "summary_method": "feed"
   },
   {
+   "id": "b323cf24fa6b",
+   "title": "U.S. Warship Calls at Alaska’s Port of Whittier for First Time in 80 Years as Washington Bolsters Arctic Defenses Against Joint Chinese-Russian Patrols",
+   "original_title": "U.S. Warship Calls at Alaska’s Port of Whittier for First Time in 80 Years as Washington Bolsters Arctic Defenses Against Joint Chinese-Russian Patrols",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SU1I2MG9XNmZkT0V0OGNiWnFBaXBiR3l0MkN2SW05LURYR25NcDkySS16QUJhc1NuZzE4d0J5NzlweWxuTDhEQVR4ckw0X3d4b2dMME9FWQ?oc=5",
+   "source": "https://economy.ac/",
+   "published": "2026-10-06T09:06+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Russia & Belarus",
+    "Asia",
+    "North America"
+   ],
+   "tags": [
+    "chinese",
+    "defense",
+    "port",
+    "russia",
+    "russian"
+   ],
+   "summary": "U.S. Warship Calls at Alaska’s Port of Whittier for First Time in 80 Years as Washington Bolsters Arctic Defenses Against Joint Chinese-Russian Patrols https://economy.ac/",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a2aa48a55ca8",
    "title": "G7 Plans 100m-Barrel Reserve Release as Oil Prices Slip, Middle East Exports Rise",
    "original_title": "G7 Plans 100m-Barrel Reserve Release as Oil Prices Slip, Middle East Exports Rise",
@@ -12068,6 +12369,33 @@
     "port"
    ],
    "summary": "DP World deepens Africa push with USD 7 billion Nigeria port and SEZ projects internationalfinance.com",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2c7260e3cc61",
+   "title": "Turkey's Yilport to upgrade Leixoes North Container Terminal in Portugal",
+   "original_title": "Turkey's Yilport to upgrade Leixoes North Container Terminal in Portugal",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWZNSVA0SWVmT2pmVmg5NzhQLU9HOElZZjU2b2dCbW9YUmo1SFlRaXpyRVRYQ1I0YVRjeXJvX250WDdPWDZabjgycEJNN1lMVEhzZ3hvRG9WOV9zUDByTl9tdGVqcXlUdU54bjBJR2NlUmV3TmJIcmlJbDhvYVV0TmJyZkd6WlY1NmVjSmE2WVrSAZ4BQVVfeXFMUFh1d3g4SFBLT3k2di1wUXBkWEdhOGtRVGwyck1XbVRhek1EaXgxSHJzTU8zM050bWlJRHpoQ2YtUDFYUnc1bDZnTktwZVRPMW03SVlTMHNBUVR0MHpic3ZkdmZCb2cxeGgzWFp5WHJVcU9FZkdkZFBhOWYxTTJVRXZvSm41NW1lR0FZYmQwZllnRGZkQVFHcHdKa29oelE?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-06T00:58+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "container terminal",
+    "terminal"
+   ],
+   "summary": "Turkey's Yilport to upgrade Leixoes North Container Terminal in Portugal Baird Maritime",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -14960,6 +15288,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "229a05ae903d",
+   "title": "AM Green wins H2Global bid to supply renewable ammonia to Germany",
+   "original_title": "AM Green wins H2Global bid to supply renewable ammonia to Germany",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkJGekx6WW8yT0wzNXJ6MmwtcnFORHN3X3BJMi1Pdlh3TUxWN19WcWRzZG43N1RxLUNDLUZ2d3dDdnhxUVFLSXBqTUN3YU5wMktUcW1zUzg5Ri14OFk3aW04cDJ3WWFib2VCWlpDYjdVR1pOdXRfMEZ6eVdUTDc3alMzZm9KZ3hlQUppX1hpeUtCbmZvTEpwQTFtMFVLSUo2WmZTUmdEMWJJdklranlCcUo0dWtxdFBlbjFQOW9ielRuVmlsR0toQlhUUnkxSmhi?oc=5",
+   "source": "Fibre2Fashion",
+   "published": "2026-10-05T12:33+00:00",
+   "added": "2026-10-08T08:46+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "ammonia"
+   ],
+   "summary": "AM Green wins H2Global bid to supply renewable ammonia to Germany Fibre2Fashion",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "8af629f9fee8",
    "title": "Seatrium bags ninth Karpowership FSRU conversion",
    "original_title": "Seatrium bags ninth Karpowership FSRU conversion",
@@ -16218,379 +16571,6 @@
    "summary": "Brazilian miner Vale will charter two ethanol-capable vessels from MOL Ocean Bulk, a subsidiary of Japanese shipping firm Mitsui O.S.K. Lines, under a 25-year agreement. The two 210,000-DWT ore carriers will be capable of running on ethanol, methanol and conventional fuels. The vessels are scheduled for delivery in 2030 and will mainly be deployed to transport iron ore from Brazil to China and other global markets. Earlier this year, Vale signed a separate 25-year charter agreement with China’s Shandong Shipping for two ethanol-capable ships from 2029. AP Moller-Maersk has bunkered 100% ethanol on three of its methanol dual-fuel container ships in the past year. Singapore-based container line X-Press Feeders tested a blend of 90% biomethanol and 10% ethanol (E10) on one of its methanol-capable container ships in Rotterdam. French shipping company CMA CGM bunkered its vessel CMA CGM Iron with 500,000 litres (approximately 395 mt) of bioethanol at the Port of Santos in Brazil. Source: By Konica Bhatt, ENGINE, https://www.engine.online/news",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "b39ddca1e7f6",
-   "title": "Samsung Heavy Industries Hits 20 LNG Carrier Orders, Surpassing Annual Target",
-   "original_title": "Samsung Heavy Industries Hits 20 LNG Carrier Orders, Surpassing Annual Target",
-   "url": "https://www.hellenicshippingnews.com/samsung-heavy-industries-hits-20-lng-carrier-orders-surpassing-annual-target/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "carrier",
-    "lng",
-    "shipowner",
-    "vessel"
-   ],
-   "summary": "Samsung Heavy Industries has reached the milestone of securing orders for 20 liquefied natural gas (LNG) carriers this year, exceeding its annual target for the commercial vessel segment ahead of schedule. Samsung Heavy Industries disclosed on Oct. 2 that it had received an order for two LNG carriers from a shipowner in Asia, valued at 672.2 billion won, or approximately $495.17 million. Including the latest order, the total number of LNG carriers secured by Samsung Heavy Industries this year has grown to 20 vessels, including one LNG floating storage and regasification unit (LNG-FSRU). Samsung Heavy Industries said the facility gives it the capacity to reliably meet delivery schedules even for large-volume orders. The cumulative order intake for the commercial vessel segment this year stands at $8 billion, representing 140% of the originally set annual target of $5.7 billion. By vessel type, in addition to 20 LNG carriers, the company has secured orders for 14 crude oil carriers, six gas carriers, four container ships and two ethane carriers, totaling 46 vessels and demonstrating broad-based performance across vessel types. This brings Samsung Heavy Industries’ total order intake for the year to 48 vessels valued at $12.4 billion, equivalent to 89% of the company’s full-year order target of $13.9 billion.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "08b238b5054c",
-   "title": "Permanence of Chinese tariffs on US soybeans could benefit Brazil: sources",
-   "original_title": "Permanence of Chinese tariffs on US soybeans could benefit Brazil: sources",
-   "url": "https://www.hellenicshippingnews.com/permanence-of-chinese-tariffs-on-us-soybeans-could-benefit-brazil-sources/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia",
-    "Latin America"
-   ],
-   "tags": [
-    "china",
-    "chinese",
-    "ministry",
-    "soybean",
-    "tariff"
-   ],
-   "summary": "While participants in the US soybeans export market downplayed the impact of the continuation of Chinese tariffs on US soybeans, sources in the Brazilian market consider it positive for the competitiveness of Brazilian soybeans. 24 meeting between US President Donald Trump and Chinese President Xi Jinping, China’s Foreign Ministry said in a statement that both countries had agreed to a $30 billion tariff reduction framework covering certain products, including corn and soybean seeds, but not soybeans. After the news, Chicago Board of Trade soybeans futures plunged, with the November (X) contract falling 30.75 cents on Sept. Sources in the CIF New Orleans market said soybeans “would have been a nice add” to the list of products that will benefit from tariff reductions, as it would have boosted movement in the barge market. “Removing the tariffs would not make US soybeans any more competitive to materially change trade flows.” “I hope they raise tariffs,” a US crusher said. “I don’t want any soybeans leaving the US.” S&P Global Energy analysts and sources in the Brazilian market believe that continued tariffs could benefit other soybean-exporting nations.",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "3edb9f47a250",
-   "title": "The Commodities Feed: Diesel release drives down distillate margins, capping oil",
-   "original_title": "The Commodities Feed: Diesel release drives down distillate margins, capping oil",
-   "url": "https://www.hellenicshippingnews.com/the-commodities-feed-diesel-release-drives-down-distillate-margins-capping-oil/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "commodit",
-    "diesel",
-    "hormuz"
-   ],
-   "summary": "Energy- Trump rules out diesel export ban Despite ICE Brent breaking below $100/bbl several times last week, the move was relatively short-lived. The market continues to settle above this key level as it digests a number of diverging developments. On the bearish side, oil flows through the Strait of Hormuz appear to be trending higher. G7 nations have agreed to release 100m barrels of oil, including diesel, while oil flows along Saudi’s East-West pipeline continue to recover. On Friday, the G7 agreed to release 100m barrels of oil from reserves, which will be coordinated by the IEA. These releases will begin immediately for a period of 4 months, while a substantial diesel release will occur over the first 20 days. The release of diesel supplies, together with a reduced risk of a US diesel export bans, has weighed on middle distillate crack spreads. Further reinforcing expectations of looser crude oil market conditions, Saudi Arabia reduced the official selling price for November-loading Arab Light crude into Asia by $3/bbl, widening its discount to the benchmark to $5/bbl. Throughout the US-Iran conflict, the group announced cumulative supply increases of 1.65m b/d.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "8eff55ed42ab",
-   "title": "LNG Shipping: Spot Market Still Stalled",
-   "original_title": "LNG Shipping: Spot Market Still Stalled",
-   "url": "https://www.hellenicshippingnews.com/lng-shipping-spot-market-still-stalled/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia",
-    "Oceania"
-   ],
-   "tags": [
-    "lng",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "The LNG market experienced a mixed week, with last week’s improving sentiment failing to translate into a sustained recovery in spot earnings. The Pacific market proved more resilient, supported by stronger demand and a relatively tighter vessel list. On the BLNG1 Australia–Japan route, rates increased by $1,300 week-on-week to settle at $37,700/day. Similarly, the BLNG3 US Gulf–Japan route declined by $6,300 week-on-week to settle at $59,100/day, reflecting the same market pressures seen on the BLNG2 route. The LPG market remained firm this week despite a relatively quiet start, with a limited number of fixtures concluded. Activity picked up towards the end of the period, with additional cargoes entering the market and being quoted. On the BLPG1 Ras Tanura–Chiba route, rates settled at $245.20, with TCE earnings closing at $237,952/day. The BLPG2 Houston–Flushing route declined by $4.00 week-on-week to settle at $172.50, with TCE earnings falling by $4,149 to $201,940/day. Similarly, the BLPG3 Houston–Chiba route fell $4.14 to close at $321.86, while TCE returns decreased by $2,426 to $197,764/day.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "228129b99a50",
-   "title": "Europe’s scrap demand set to surge as new EAFs loom: Eurofer",
-   "original_title": "Europe’s scrap demand set to surge as new EAFs loom: Eurofer",
-   "url": "https://www.hellenicshippingnews.com/europes-scrap-demand-set-to-surge-as-new-eafs-loom-eurofer/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "scrap",
-    "steel"
-   ],
-   "summary": "Europe’s transition toward more electric steelmaking, with up to 20 electric arc furnaces expected to be commissioned in 2026-2030, adding 34 million-44 million metric tons of steel capacity, will increase the need for ferrous scrap, especially for high-quality material, the European Steel Association told Platts, part of S&P Global Energy. In 2025, the EU steel industry consumed 74.4 million mt of ferrous scrap. Its H1 2026 intake of 38.1 million mt has kept EU steel production and ferrous scrap utilization broadly in line with the first half of 2025, but Europe’s accelerating transition toward more electric steelmaking will trigger a surge in the EU’s steel scrap demand, according to Eurofer. This means Europe’s future steelmaking system will use a combination of scrap and primary iron units, rather than simply replacing today’s production with 100% scrap-based EAF output. But there won’t be a uniform European scrap-to-DRI ratio: mixes will be plant-specific with EAFs operating on a spectrum ranging from near-100% scrap to 50:50, or even DRI/hot briquetted iron-dominant blends, French said.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "f19fc6316f0f",
-   "title": "US coal exports fall 3%; India is top met coal destination: CAS",
-   "original_title": "US coal exports fall 3%; India is top met coal destination: CAS",
-   "url": "https://www.hellenicshippingnews.com/us-coal-exports-fall-3-india-is-top-met-coal-destination-cas/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "coal",
-    "commodit"
-   ],
-   "summary": "A divergence between the two coal segments defined the week ended Sept. 27, as US metallurgical coal shipments climbed while thermal coal volumes retreated sharply, leaving overall exports down 3% to 2,028,124 metric tons, from 2,086,231 mt the week ended Sept. 20, according to Sept. Metallurgical coal shipments rose 23.63% week on week to 1,091,574 mt, uplifted by India’s sudden emergence as the top buyer, while thermal coal shipments fell 22.17% to 936,550 mt, as several destinations that had driven the prior week’s volumes went quiet. India, Netherlands take top spots India’s emergence as a metallurgical coal buyer drove much of that shift, taking no US met coal the prior week before becoming the top destination at 340,839 mt. Argentina, which took 42,634 mt the prior week, recorded no met coal volumes. Baltimore remained the top thermal coal loading port despite a steep drop to 376,953 mt from 601,550 mt. Blackhawk, Argos Resources, and CME, all active the prior week, recorded no met coal shipments. Consol, the second-largest thermal shipper the prior week at 362,616 mt, recorded no shipments in the latest period, the CAS data showed.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "74a262d6927a",
-   "title": "OPEC+ holds output targets steady as Middle East conflict tightens supply",
-   "original_title": "OPEC+ holds output targets steady as Middle East conflict tightens supply",
-   "url": "https://www.hellenicshippingnews.com/opec-holds-output-targets-steady-as-middle-east-conflict-tightens-supply/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "crude",
-    "russia"
-   ],
-   "summary": "Seven OPEC+ countries agreed on Sunday to keep required crude oil production for November unchanged from September, the group said in a statement, holding policy steady as the Middle East conflict continues to constrain supply from the Gulf. Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman, which met by video conference, reiterated their “collective commitment to achieve full conformity” with the Declaration of Cooperation. The group, which previously announced additional voluntary adjustments in April and November 2023, will keep holding monthly meetings and will meet next on Nov. Iraq’s is 4.431 million bpd, Kuwait’s 2.676 million, Kazakhstan’s 1.628 million, Algeria’s 1.007 million and Oman’s 841,000 bpd. Separately, the Joint Ministerial Monitoring Committee (JMMC), which oversees compliance, said after its 68th meeting that it had noted overall conformity for July and August. The committee stressed the importance of safeguarding international maritime routes and voiced concern over attacks on energy infrastructure, saying restoring damaged assets “is both costly and takes a long time,” which affects supply availability. 29. Oil futures have been moving back toward $100 a barrel amid disruption from the Iran war, and Group of Seven countries have announced a release of up to 100 million barrels of emergency stocks.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "fc9f3be44951",
-   "title": "Kazakhstan targets 7 million mt/year of crude via BTC pipeline",
-   "original_title": "Kazakhstan targets 7 million mt/year of crude via BTC pipeline",
-   "url": "https://www.hellenicshippingnews.com/kazakhstan-targets-7-million-mt-year-of-crude-via-btc-pipeline/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Asia"
-   ],
-   "tags": [
-    "crude",
-    "ministry"
-   ],
-   "summary": "Kazakhstan aims to increase its crude supply through the Baku-Tbilisi-Ceyhan pipeline, which runs from Azerbaijan to Turkey, to 7 million metric tons per year, Kazakhstan’s energy ministry director of oil transportation and refining, Daulet Arykbayev, told Platts. “Azerbaijan is definitely ready [to increase flows through the BTC], they are very interested,” Arykbayev said on the sidelines of the KIOGE conference in Almaty, Kazakhstan, and added that the ongoing discussions with the Azerbaijani side are “purely commercial,” focused on volumes and discounts for transportation services. “Overall, they have expressed a willingness to increase volumes to 2.2 million mt/year (44,000 barrels/day), and subsequently to 2.7 million (54,200 b/d). Looking further ahead, there is even potential to reach 7 million (140,600 b/d) within the next few years,” Arykbayev said. Kazakhstan exported 1.2 million mt (24,100 barrels/day) of oil via the BTC in 2025 and around 700,000 mt (14,000 b/d) in the first half of 2026, according to KazTransOil. Turkey and Azerbaijan are interested in loading the Baku-Tbilisi-Ceyhan pipeline to its full capacity of 1 million barrels/day, Turkish and Azeri energy ministries told Platts in September. The BTC pipeline currently carries only around 500,000 b/d-600,000 b/d, according to the Turkish energy minister Alparslan Bayraktar. Azerbaijan’s Socar did not respond to Platts’ request to comment on the possibility of higher BTC transit flows.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "b7adbc4d6a26",
-   "title": "US Natural Gas Prices Hold Gains",
-   "original_title": "US Natural Gas Prices Hold Gains",
-   "url": "https://www.hellenicshippingnews.com/us-natural-gas-prices-hold-gains/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "lng",
-    "prices"
-   ],
-   "summary": "US natural gas prices hovered around $3.02 per MMBtu on Monday, holding their recent gains amid expectations of cooler weather later this month that could lift heating demand. Forecasts turned cooler across the northern and western US for October 12-15, potentially increasing gas consumption. Robust LNG demand also continued to support the market, with feedgas flows to the nine major US export plants averaging 17.9 bcfd in September, up from 17.2 bcfd in August. At the same time, demand for US LNG from European and Asian buyers continued to rise as they sought to replenish storage ahead of winter. Meanwhile, the latest EIA report showed a 64 bcf storage build for the week ended September 25, below the five-year average increase of 80 bcf, indicating that the inventory surplus is gradually narrowing. Partly offsetting these factors, Lower 48 production remained solid, averaging a record 113.3 bcfd in September and matching the monthly record high set in August. Source: Trading Economics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "2b46267687d8",
-   "title": "Wheat Rises as Black Sea Supply Risks Mount",
-   "original_title": "Wheat Rises as Black Sea Supply Risks Mount",
-   "url": "https://www.hellenicshippingnews.com/wheat-rises-as-black-sea-supply-risks-mount/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "high",
-   "score": 17,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "black sea",
-    "disruption",
-    "grain",
-    "military",
-    "russia",
-    "russian",
-    "ukraine",
-    "war"
-   ],
-   "summary": "Wheat rose to around $6.9 per bushel in early October, extending its recovery from a more than one-year low reached on September 30, as renewed threats of an escalation in the Russia-Ukraine war fueled concerns over further disruptions to global grain supplies through the Black Sea. Over the weekend, the Russian government said its military ...",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a337b266046d",
-   "title": "War-risk insurance costs rise as sanctions complicate casualty response",
-   "original_title": "War-risk insurance costs rise as sanctions complicate casualty response",
-   "url": "https://www.hellenicshippingnews.com/war-risk-insurance-costs-rise-as-sanctions-complicate-casualty-response/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "attack",
-    "military",
-    "sanction",
-    "shipping",
-    "war"
-   ],
-   "summary": "Shipping companies operating in contested waters are facing higher requirements for war coverage and legal complications, as attacks spread across multiple military conflicts and sanctions threaten to delay casualty response, according to Neil Roberts, head of marine and aviation at the Lloyd’s Market Association. The Joint War Committee of LMA, which represents insurers in the ...",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f53c70647bd1",
-   "title": "Chicago corn and soybeans fall Friday as wheat trades mixed",
-   "original_title": "Chicago corn and soybeans fall Friday as wheat trades mixed",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSjBvTmprWnZCWFZDZTRhcmZsM2pEX0hLZzJ0NW5HamZkbk9oR1JPV2ZzUTloQ3AydFctTzYtcWt6MnVxZlBvV2pkaWtxSlFCdmVWZkROdjIyNzNOcTBKMFJkcEl0UlNad19Vbnd1dGY3eFRGR3FLQTgwZlc5RWFHTFhxR0xVY2xxMHVseG8xdENKamJrSVdsRnMzQQ?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:28+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "corn",
-    "soybean",
-    "wheat"
-   ],
-   "summary": "Chicago corn and soybeans fall Friday as wheat trades mixed UkrAgroConsult",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bbec4b984916",
-   "title": "Copper Rises as Fed Rate Hike Bets Ease",
-   "original_title": "Copper Rises as Fed Rate Hike Bets Ease",
-   "url": "https://www.hellenicshippingnews.com/copper-rises-as-fed-rate-hike-bets-ease-2/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "commodit",
-    "copper",
-    "futures"
-   ],
-   "summary": "Copper futures climbed above $6.5 per pound on Monday, recovering some of last week’s losses as weaker-than-expected US jobs data reduced pressure on the Federal Reserve to raise interest rates further. Higher interest rates would generally weigh on non-yielding assets such as commodities. Longer-term demand expectations tied to the global expansion of data centers and ...",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
