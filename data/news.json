@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T08:46+00:00",
+ "generated_at": "2026-10-08T09:03+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -65,6 +65,33 @@
    "summary": "ORLEN Kolej planuje rebranding lokomotyw Kolejowy Portal",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
+  },
+  {
+   "id": "ae4aa43c0989",
+   "title": "Cido boss pledges five ships to settle $277m Korean tax bill",
+   "original_title": "Cido boss pledges five ships to settle $277m Korean tax bill",
+   "url": "https://splash247.com/cido-boss-pledges-five-ships-to-settle-277m-korean-tax-bill/",
+   "source": "Splash247",
+   "published": "2026-10-08T07:45+00:00",
+   "added": "2026-10-08T09:03+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bill",
+    "shipping"
+   ],
+   "summary": "Cido Shipping founder Hyuk Kwon has pledged five overseas ships as collateral after agreeing to settle KRW393.8bn ($277m) in personal tax arrears in South Korea, bringing a 15-year dispute with the country’s tax authorities towards a close. South Korea’s National Tax Service said Kwon has submitted a plan to clear the entire amount and already paid KRW100bn ($70m) in cash in July. Five ships have been put up against the remaining balance. The tax authority said a preliminary valuation showed the five ships were worth more than the remaining arrears. Kwon, who built Cido into one of Asia’s larger privately controlled diversified shipping groups, has been fighting the tax assessment since 2011. Kwon founded his shipping business around 1990 and moved Cido’s headquarters to Hong Kong in 2004, with the company retaining shipmanagement activities in South Korea and Japan. Splash reported in June that Cido had been linked to four 300,000 dwt VLCCs at HD Hyundai’s Subic yard for 2029 and 2030 delivery, following earlier orders for suezmaxes and product tankers. Last month, Cido signed up Avikus autonomous navigation technology for 20 LNG dual-fuel 7,600 ceu PCTCs under construction in China, with a framework covering a further 12 ships. Korean authorities have not disclosed which part of Kwon’s shipping portfolio is behind the five vessels pledged as security.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "22a57c879067",
@@ -16540,37 +16567,6 @@
    "summary": "EU Taxonomy: General Court largely upholds aviation and shipping criteria, Julia Voskoboinikova Linklaters - Sustainable Futures",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
-  },
-  {
-   "id": "a7cb8ff51f24",
-   "title": "Vale doubles ethanol-capable ship charters",
-   "original_title": "Vale doubles ethanol-capable ship charters",
-   "url": "https://www.hellenicshippingnews.com/vale-doubles-ethanol-capable-ship-charters/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-05T10:00+00:00",
-   "added": "2026-10-05T10:04+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "ammonia",
-    "carrier",
-    "charter",
-    "lng",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Brazilian miner Vale will charter two ethanol-capable vessels from MOL Ocean Bulk, a subsidiary of Japanese shipping firm Mitsui O.S.K. Lines, under a 25-year agreement. The two 210,000-DWT ore carriers will be capable of running on ethanol, methanol and conventional fuels. The vessels are scheduled for delivery in 2030 and will mainly be deployed to transport iron ore from Brazil to China and other global markets. Earlier this year, Vale signed a separate 25-year charter agreement with China’s Shandong Shipping for two ethanol-capable ships from 2029. AP Moller-Maersk has bunkered 100% ethanol on three of its methanol dual-fuel container ships in the past year. Singapore-based container line X-Press Feeders tested a blend of 90% biomethanol and 10% ethanol (E10) on one of its methanol-capable container ships in Rotterdam. French shipping company CMA CGM bunkered its vessel CMA CGM Iron with 500,000 litres (approximately 395 mt) of bioethanol at the Port of Santos in Brazil. Source: By Konica Bhatt, ENGINE, https://www.engine.online/news",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
