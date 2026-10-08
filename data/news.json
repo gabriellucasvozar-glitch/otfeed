@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T11:38+00:00",
+ "generated_at": "2026-10-08T11:57+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,32 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "8dc6dd9ec6be",
+   "title": "Customer demands for new tech a dilemma for SME forwarders",
+   "original_title": "Customer demands for new tech a dilemma for SME forwarders",
+   "url": "https://theloadstar.com/customer-demands-for-new-tech-a-dilemma-for-sme-forwarders/",
+   "source": "The Loadstar",
+   "published": "2026-10-08T11:57+00:00",
+   "added": "2026-10-08T11:57+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "forwarder",
+    "logistics"
+   ],
+   "summary": "Customer expectations are forcing SME forwarders to adopt new technologies, even as the most valuable applications may never be seen by those customers, threatening the qualities the operators offer over their larger rivals. Sophia Huluta, president of GLC, said changing everyday relationships with technologies, including AI and real-time visibility, was leaving forwarders with no choice but to provide the same digital speed and visibility as much larger logistics companies. She told The Loadstar : “Customers absolutely expect technology. Their expectations are based on how tech works everywhere else in their lives. I don’t think a customer is going to be impressed much longer because you have a portal. They are just going to wonder what is wrong if you don’t.” All this, she added, was putting pressure on SMEs to ensure they have the services to remain competitive, but noting that “forwarders have an unbelievable amount of information inside their organisations”, Ms Huluta questioned whether the tech could be better used. Forwarders would be more likely to benefit from systems affording greater visibility of their own business, she suggested, including the profitability of individual customers and tradelanes, as well as where opportunities and resources are being wasted.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "90a7360877d8",
    "title": "Analysts cut fair value for Kumba Iron Ore stock to ZAR 270.50",
@@ -36,6 +62,34 @@
    ],
    "summary": "Analysts cut fair value for Kumba Iron Ore stock to ZAR 270.50 AD HOC NEWS",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a59a3d5818c1",
+   "title": "East of Suez: Dubai crude races higher, Asia distillate cracks rise",
+   "original_title": "East of Suez: Dubai crude races higher, Asia distillate cracks rise",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZzZDdZNXpidk4ta0ZSNW1zN3QzbFpfWktaNzFsa2Y0VVpUWUlMa0c2alhLcjNfSFBjcXllU0gxUEZ6V3Nma2xOZjhkbzc2V1pBZEJBeXpjMEpNdER2cWdnTEo5blRTUEdISi05UXNRWlFicjZvclZzMkxFeFB5MUNyci1PTGpnZVVlTTNJLXFBYjIzV3R0NWY0eTZXVVNCUF9GS0tPbXpJMWI2?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-08T11:14+00:00",
+   "added": "2026-10-08T11:57+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "commodit",
+    "crude",
+    "suez"
+   ],
+   "summary": "East of Suez: Dubai crude races higher, Asia distillate cracks rise Quantum Commodity Intelligence",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -115,6 +169,34 @@
     "port"
    ],
    "summary": "Port Alpha shipyard development begins Port Strategy",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7e775d2036c7",
+   "title": "Peel Ports expands UK warehousing",
+   "original_title": "Peel Ports expands UK warehousing",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWxSSDBjQlF6YlRiTThLd19OUUR4MDVwVmlWbW1vT2JGTHFOMkNaVUJlMjc0N3BuVEpleTZ1d3FQVFJCOG9vekhnZlRtQnNDRHF1dVhWeUtmRzVDZGF5Nl9nSDNKMndYQzlOOUV6OWtjYUZvcTJxRnFrNWo1bHQtZ1pRSmtBRUpOUWg2anhQQ3ZtUQ?oc=5",
+   "source": "Port Strategy",
+   "published": "2026-10-08T10:19+00:00",
+   "added": "2026-10-08T11:57+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "warehousing"
+   ],
+   "summary": "Peel Ports expands UK warehousing Port Strategy",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -12159,6 +12241,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "e72542ac315f",
+   "title": "Strait of Hormuz shipping security: US says American-flagged ships transited under new initiative",
+   "original_title": "Strait of Hormuz shipping security: US says American-flagged ships transited under new initiative",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYTBYdUVPTGlENExSMk1UNjVYYUZiOWNCSGFYS3hfcVlvc3JzWWRxNjUtQUZDbUFHNjdkYkJRSnZZT2JoeGxGVFh5b01VV0l4UkF6VDdrakc1UDNDUk9fbGpXWjUyNU0xZ1FhWW9WVUtReFlIb0xmTHZEdHVPdlVXb0ZOeHMtY0U4b3lSanhSUWxKSjYyN1JXMkxoSVFkN2M3YjdSYWpvVlNtc2NicDlrMnoybw?oc=5",
+   "source": "Goodreturns",
+   "published": "2026-10-06T07:53+00:00",
+   "added": "2026-10-08T11:57+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East",
+    "North America"
+   ],
+   "tags": [
+    "hormuz",
+    "security",
+    "shipping"
+   ],
+   "summary": "Strait of Hormuz shipping security: US says American-flagged ships transited under new initiative Goodreturns",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d70d33c15b27",
    "title": "Bali New Fishing Port Expansion Targets Employment for 25,000 Workers",
    "original_title": "Bali New Fishing Port Expansion Targets Employment for 25,000 Workers",
@@ -12262,6 +12373,35 @@
     "teu"
    ],
    "summary": "Red Sea Express moves 2,494 TEUs through Yanbu port Logistics Middle East",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "243962e920ff",
+   "title": "Russia seeks alternative grain routes as Black Sea exports plunge, Ukrainian intelligence says",
+   "original_title": "Russia seeks alternative grain routes as Black Sea exports plunge, Ukrainian intelligence says",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSGtYTGprcG4zNWJTRnRzT0xzcGJtelFWV0JwRDBaMENWUk5uSXJabXZ5YkxoNXFRU2htb05jdVppaXZPZkpPRWdGTUJKREZaNDFpRDdjdlZXTS11LVVISVFiYVNLYjhtbDAzX0ZlWWRRMDgyYlhSN2NxTXNRUTlmN202NjNNR25uVVN4SnRtT2J6T3daSll1UGdGRTNFamxaOERiNUZsSUZlT0s0N3hRTi1ReERJaGhRYkJDV0JiMVdHelllenNaMXhDYU7SAcwBQVVfeXFMUEhrWExqa3BuMzViU0Z0c09Mc3BibXpRVldCcEQwWjBDVlJObklyWm12eWJMaDVxUVNobW9OY3VaaWl2T2ZKT0VnRk1CSkRGWjQxaUQ3Y3ZWV00tdS1VSElRYmFTS2I4bWwwM19GZVlkUTA4MmJYUjdjcU1zUVE5ZjdtNjYzTUdublVTeEp0bU9iek93WkpZdVBnRkUzRWpsWjhEYjVGbElGZU9LNDd4UU4tUXhESWhoUWJCQ1dCYjFXR3pZZXpzWjF4Q2FO?oc=5",
+   "source": "Hromadske",
+   "published": "2026-10-06T07:31+00:00",
+   "added": "2026-10-08T11:57+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "black sea",
+    "grain",
+    "russia"
+   ],
+   "summary": "Russia seeks alternative grain routes as Black Sea exports plunge, Ukrainian intelligence says Hromadske",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -15344,6 +15484,38 @@
    "summary_method": "feed"
   },
   {
+   "id": "f633018e814a",
+   "title": "Ukraine has nearly exhausted its locomotive reserves due to Russian attacks on the railway — FT",
+   "original_title": "Ukraine has nearly exhausted its locomotive reserves due to Russian attacks on the railway — FT",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdW1oWW9PLVNlWjM0YUpzWnp3VFduYk9ncjJUZDIzZnduT1ZhbGVjcExBLXlkM2p5REdvY0lYRUxPam5QOEUxbjVXVXpFcUpFUlBxWldJU3d3aVgwU19ROGEya1pRSUJtbjM5bkEtVzdlZGh0RWM4cTROS082eVpJMXlzdnpWaE5Ca3Vvdl9laUE2NjhhMG03UW8yZG5PV19xNWVxNU5oZw?oc=5",
+   "source": "UA.NEWS",
+   "published": "2026-10-05T14:59+00:00",
+   "added": "2026-10-08T11:57+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "rail"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "attack",
+    "locomotive",
+    "railway",
+    "russia",
+    "russian",
+    "ukraine"
+   ],
+   "summary": "Ukraine has nearly exhausted its locomotive reserves due to Russian attacks on the railway — FT UA.NEWS",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e2260d0b5e6c",
    "title": "31 Professionals Join SC Ports 2026-2027 Ambassador Program",
    "original_title": "31 Professionals Join SC Ports 2026-2027 Ambassador Program",
@@ -16386,172 +16558,6 @@
    ],
    "summary": "AM Green wins H2Global bid to supply renewable ammonia to Germany Fibre2Fashion",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8af629f9fee8",
-   "title": "Seatrium bags ninth Karpowership FSRU conversion",
-   "original_title": "Seatrium bags ninth Karpowership FSRU conversion",
-   "url": "https://splash247.com/seatrium-bags-ninth-karpowership-fsru-conversion/",
-   "source": "Splash247",
-   "published": "2026-10-05T12:30+00:00",
-   "added": "2026-10-05T12:46+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "carrier",
-    "lng"
-   ],
-   "summary": "Singapore shipyard group Seatrium has secured a contract from Karpowership to convert an LNG carrier into the FSRU LNGT Akdeniz , extending a partnership that has produced seven delivered units since 2018. The work is scheduled to begin in the first quarter of 2027. LNGT Akdeniz will be the ninth FSRU conversion awarded by Karpowership to the Singapore yard group and the second to materialise under a 2025 letter of intent covering three LNG-carrier conversions and potential powership integration work. The FSRU will join Kinetics, Karpowership’s LNG infrastructure and energy-transition business, expanding its fleet to 12 LNG vessels. The award follows the September delivery and sailaway of LNGT Türkiye , the final vessel in a seven-unit FSRU conversion programme that began in 2018. Seatrium is also converting LNGT Karadeniz , the partnership’s eighth project and the first under the later LOI. Conversion work on that vessel began at Seatrium’s Tuas Boulevard yard in the third quarter of 2026. “The successful delivery of LNGT Türkiye and the award of LNGT Akdeniz are important milestones in the continued growth of Karpowership’s LNG-to-power business,” said Gokhan Kocak, Karpowership CTO. Seatrium has completed 22 FSRU and FSU conversion projects since 2007.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "346832fc7dde",
-   "title": "LOGINK Explained: How And Why China’s Shipping Data Platform Lost Global Momentum",
-   "original_title": "LOGINK Explained: How And Why China’s Shipping Data Platform Lost Global Momentum",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnBSX0d4RjRSSkc4a1g5Z05wVXJURmtRczYxRkRhLU1JSlZiNzBzRG04dGZiblRfVUI4SWJNajl6aXVFUUxaQVppRmhPVEVXdGJNMGI5MjJqWHRwYmFtdnJkUHQ0djQyRE5FbVgtSEpRX1FZckp2aTgtc2taM0xzaUQxdHE1NXIwdEEwNVZ1MF9PTFZyNk8zS2MzWXd1M01ldGtrVGd6YjhWYjhORkVrV3cteVZqNnRaR2pqdTNsS2owdFBYWXBEbUhvSE3SAcwBQVVfeXFMTmJwUl9HeEY0UkpHOGtYOWdOcFVyVEZrUXM2MUZEYS1NSUpWYjcwc0RtOHRmYm5UX1VCOEliTWo5eml1RVFMWkFaaUZoT1RFV3RiTTBiOTIyalh0cGJhbXZyZFB0NHY0MkRORW1YLUhKUV9RWXJKdmk4LXNrWjNMc2lEMXRxNTVyMHRBMDVWdTBfT0xWcjZPM0tjM1l3dTNNZXRra1RnemI4VmI4TkZFa1d3LXlWajZ0WkdqanUzbEtqMHRQWFlwRG1Ib0hN?oc=5",
-   "source": "Outlook India",
-   "published": "2026-10-05T12:28+00:00",
-   "added": "2026-10-05T14:50+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "shipping"
-   ],
-   "summary": "LOGINK Explained: How And Why China’s Shipping Data Platform Lost Global Momentum Outlook India",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d95717318a19",
-   "title": "Elevated Fertiliser Prices, Hormuz Disruption Pose Challenge To Global Food Security: Finance Minister",
-   "original_title": "Elevated Fertiliser Prices, Hormuz Disruption Pose Challenge To Global Food Security: Finance Minister",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNblVxSkREemlDc3Q3d1B6ZWRDN3R2LTYwdy0yMm1zUzZsMEJNbHFVWWV1SkVya1pZS09aWThOdFVpZ3V3cDNSSUhscXA3bkNUdUFCNEdjTFlSeHZrNUhqcjhtLU1jWG9aTXQ4WjJDcDROaFYyenZTa1dnUGJpWi1YYmJZR0dUeWdRT2taTTMwTmdPMDF1SFBtbk1GNFhWRTU5SV9SemFoTXNPcW03dDRFR3VLRXpQQnJ6NmVqaVB0VE4wVHF2eWVKTWlxVkNKb3AtZTdXd3BNSG7SAd4BQVVfeXFMUHBWbnFzbGFTYWFRVjBxVlJFV21UUXd4NmMtLXlrTVFJYmRwalMwcEsxNjhtNWpvUUltbWVfMjIzTGI1VHFjVGJmOUlwcEFVTnFob2hoSFVtMEVjQ2xDdkpXUEtaUVdTUmhBSzZ0cVpVTkVHTDFqMlFiVmxBeUVhV2tyVGM4ckk5VnRCbzBUMlNXMEt1Xy1kOGU0Z21kQnVLQUtXcDRYWW1YcEJldFZXVE5qSzhFa1dCSi1zek1ZNThzUW9tOU5yejYzV1ZmNDBfV3hWTERQcGdDSnRORlBB?oc=5",
-   "source": "Free Press Journal",
-   "published": "2026-10-05T12:27+00:00",
-   "added": "2026-10-08T04:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "disruption",
-    "fertiliser",
-    "hormuz",
-    "prices",
-    "security"
-   ],
-   "summary": "Elevated Fertiliser Prices, Hormuz Disruption Pose Challenge To Global Food Security: Finance Minister Free Press Journal",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2e8be0cdf6b2",
-   "title": "A grain carrier sank after being struck by a drone in the Black Sea",
-   "original_title": "A grain carrier sank after being struck by a drone in the Black Sea",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOczhTQU9xNHJkVWFfSktOc1lSSkxndFJqSGhCRDlxZ1NoQ0o2MEd6RWlFR0RPYjJYeXBRbTRtempIb2ZmYkE1M3lvcERweGJ4Zm9BVEdhTkZGeVRxTlhrckNDdXd6MlQ4bEpvN1pwVnZYQjY3UlNoYjlJbWhJenlTUTJmaw?oc=5",
-   "source": "UA.NEWS",
-   "published": "2026-10-05T12:25+00:00",
-   "added": "2026-10-05T13:06+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "carrier",
-    "drone",
-    "grain"
-   ],
-   "summary": "A grain carrier sank after being struck by a drone in the Black Sea UA.NEWS",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "00386206531d",
-   "title": "WorldCargo News 2026 STS crane survey: Market stays strong",
-   "original_title": "WorldCargo News 2026 STS crane survey: Market stays strong",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeHZQak1TZDFmczF1OHNXN3o1S3NmMlhENjlfakFwb3g2aUJRZmJoendzVGVUQkNCX2xKUjM3aHptU1l0TXFVbzNBd1dmOGJseDBSWEdNdG9TQlQ0OFM1NEpsUVBUQk8zV0FXczRRNzRSV3lIZnJGNUhPczZfQklDSWtMdG51enBkLUIxa1ItMjVqblhyektMRDNkNno5NHNrM0RVUXZDbVd2MG9qbHp3al85SngyeE53TktxMlIxdw?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-05T12:19+00:00",
-   "added": "2026-10-05T13:34+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "sts crane"
-   ],
-   "summary": "WorldCargo News 2026 STS crane survey: Market stays strong WorldCargo News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "86eeaf7154ff",
-   "title": "Port of Tauranga’s Stella Passage project faces appeals",
-   "original_title": "Port of Tauranga’s Stella Passage project faces appeals",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1hoOFROOVpUVTFRT2s1ekZJYWJ6aVlFeXl3UXdVMmtLSXNSUmZOR3RwU29mVzBoNWJCMEJqZVh6R1hnRDBkMW8xanY4dGp2dXBDLVQwM3VKT1A2ZExMamZqUEdLVFdYckF0TmVQVVRJNGNlaXNKUDJwbTRWM1NLLWRmTUZPRUhLVVhrZVRBT3BmQndQTG9keDRrdHllcXRG?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-05T12:18+00:00",
-   "added": "2026-10-05T15:34+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port of Tauranga’s Stella Passage project faces appeals WorldCargo News",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
