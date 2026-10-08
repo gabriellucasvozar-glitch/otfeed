@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T14:54+00:00",
+ "generated_at": "2026-10-08T15:16+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -37,6 +37,31 @@
    ],
    "summary": "Brazil Corn Prices Increasingly Set by Ethanol Industry, Cofco Says The AgriBiz",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5d3c43e4127a",
+   "title": "METRANS expands terminal in Poznań",
+   "original_title": "METRANS expands terminal in Poznań",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HLU11SWpjMmthTTY5U2lxaUJxU3pNVlFmNUhaMXdQbm4wNVM4TFN3LXNVNG85QlV1b1pYQzFMQnBiQWVfeXFjdS1POVctVlllV01DaHhnaGZfNGJZT0hHOG1WRUdUd0lOZnJlSGZqYV9uWTRiTENz?oc=5",
+   "source": "Railvolution",
+   "published": "2026-10-08T14:42+00:00",
+   "added": "2026-10-08T15:16+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "METRANS expands terminal in Poznań Railvolution",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -3065,6 +3090,36 @@
     "shipping"
    ],
    "summary": "Oil rises as Middle East supply concerns persist amid shipping attacks www.marketscreener.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4cb61372a4dd",
+   "title": "Japan sanctions 35 Russia-linked vessels in new crackdown on Moscow",
+   "original_title": "Japan sanctions 35 Russia-linked vessels in new crackdown on Moscow",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPajZzTGU1bjJ0V09zZENELWVzaUQyMHZQN2tRNGtTZGtxRC1xX0w5eHNqZ1pLRGxNRDZtLXhFUGhHUTNSbjV5Tk1DNkl0OGthOEJSLXVvVEx2TWEzSnFTcU0xX3d2TS0zSFRLcWpuWFZxOFROYmRxVFd0SVRrR1hsMi1kSmRuejgxYlk2aEw5UXNrQ1BCaTlCeWc5ejlhZk9qcEd1a2IwWHF3V002cFhkRGstbjIwRDB0NG5GM3o2UQ?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-10-08T01:02+00:00",
+   "added": "2026-10-08T15:16+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "russia",
+    "sanction",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Japan sanctions 35 Russia-linked vessels in new crackdown on Moscow Shipping Telegraph",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -16500,59 +16555,6 @@
    ],
    "summary": "Grain freight costs from Giurgiulești to Constanța soar to $75/t logos-pres.md",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5883bdedb64d",
-   "title": "Strong Freight Markets Keep Aging Ships Out of Recycling Yards",
-   "original_title": "Strong Freight Markets Keep Aging Ships Out of Recycling Yards",
-   "url": "https://gcaptain.com/strong-freight-markets-keep-aging-ships-out-of-recycling-yards/",
-   "source": "gCaptain",
-   "published": "2026-10-05T16:01+00:00",
-   "added": "2026-10-05T16:41+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "prices",
-    "scrap",
-    "vessel"
-   ],
-   "summary": "Strong freight markets kept aging vessels trading through the third quarter despite rising scrap prices and strong demand from ship recyclers, according to a new market review from GMS, the world’s largest cash buyer of ships for recycling. The ship recycling market entered the quarter looking ripe for an increase in demolition activity. GMS said it was tracking roughly 550 merchant vessels preparing to exit the Gulf at the start of July, including around 200 bulk carriers, while recycling yards in the major South Asian markets had available capacity and appetite for tonnage. The report argues that owners were weighing recycling offers against a much broader set of alternatives, including freight earnings, secondhand sale opportunities, remaining vessel life, route risks and compliance costs. GMS expects recycling supply to remain tight into the fourth quarter as long as vessel earnings remain strong, particularly where ships continue to find lucrative employment linked to the Strait of Hormuz. But those delayed recycling decisions may be creating a larger pool of aging tonnage that will eventually need to leave the fleet. If freight earnings normalize, secondhand liquidity weakens or employment opportunities narrow, GMS said some of that deferred supply could reach recycling markets over a much shorter period.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "baa5df5eed1c",
-   "title": "Oil spill at Deurganckdock disrupts Antwerp port operations",
-   "original_title": "Oil spill at Deurganckdock disrupts Antwerp port operations",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTlE4WFk3QXNUMUlQQnhIb3dtUXJaS1hEYWx0bF8zclFKNkJhSDlrX3R4TDRlSlhXVGFOdDVLdmNoeGFQemJybl9LYTJvR2xyZEpxRFIyN2Z0VXI1emRwZFlreHllODBoMy14dzVxVm5YQ3JHd05kQkhMOGZGMTdsUXNsWlI0LXNmY0g0MHVVSEpQMklJdjZQTl91S3Z1VkR1eXBPVUJWUVI2VFkzWnlUZ1JJeUJ1d3NYeHlIOXJFZnVpTGd0VkN6WEJnd3Q?oc=5",
-   "source": "dataportuaria.com",
-   "published": "2026-10-05T15:35+00:00",
-   "added": "2026-10-05T16:18+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Oil spill at Deurganckdock disrupts Antwerp port operations dataportuaria.com",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
