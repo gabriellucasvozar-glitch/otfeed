@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T17:13+00:00",
+ "generated_at": "2026-10-08T17:35+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -5803,6 +5803,31 @@
     "prices"
    ],
    "summary": "India: Iron ore concentrate prices remain unchanged amid cautious buying BigMint",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "175c0c666f6b",
+   "title": "South African mining giant swings towards major loss as iron ore woes deepen",
+   "original_title": "South African mining giant swings towards major loss as iron ore woes deepen",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbU00a2Yzei1FRmh6S283UURXVm9DT2ljY1JSemlIZzFuWVllRUZPblRsRmJpN3VKQ2R5SVJvVmFDMlgzNzFFbkxaZTNOLVVXQm4xS1o3UmZxaWtnb1JrTU12dVNnQ0dWSzlMSWR1RGFHZkdRNnFIMDlQQ2NIOXN0VV9QRXNCbHktNkFzY2J5VXNnd0ZGeEYtaU9LLWJqNldmMDItX1RMckFaR1pqdHZlVTRYYlM5VUlE?oc=5",
+   "source": "African Insider",
+   "published": "2026-10-07T13:09+00:00",
+   "added": "2026-10-08T17:35+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "South African mining giant swings towards major loss as iron ore woes deepen African Insider",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16550,33 +16575,6 @@
    ],
    "summary": "Latin America Commodities 2027: El Niño, Freight, US Trade Kpler",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "30cb18506018",
-   "title": "A cargo ship leaving a Ukrainian port caught fire and sank in the Black Sea - ИА Ореанда-Новости",
-   "original_title": "A cargo ship leaving a Ukrainian port caught fire and sank in the Black Sea - ИА Ореанда-Новости",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFRQZ1E2LTFQV21RSEE0M185bnhmX3FySGp0bUpyWDBUTy1rYXpEcVNqZFQ1NDluVnFDV3NYN0NDLXZhaXp6N2VYRnROcG91b3lrcGJZVmRsNUo3UGdGZmprUF9IX0gzQmtOMHFTdUlaM1VKWGcwZDl4YU9Rc0dSdjRNdWVxYnMxWTJwcTFVT1RtZzU1Nmswb29hOGUwVjV5dk0yYXJvbF9OV3pwbGctNUx5dlBTU3lOTVBGdVhlcG9ETl91WHFjWHFn?oc=5",
-   "source": "ИА Ореанда-Новости",
-   "published": "2026-10-05T18:53+00:00",
-   "added": "2026-10-05T22:22+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "port"
-   ],
-   "summary": "A cargo ship leaving a Ukrainian port caught fire and sank in the Black Sea ИА Ореанда-Новости",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
