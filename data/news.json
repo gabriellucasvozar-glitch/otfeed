@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T10:21+00:00",
+ "generated_at": "2026-10-09T10:44+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,32 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b388d18c0677",
+   "title": "Is FOMO driving sentiment in the containership charter market?",
+   "original_title": "Is FOMO driving sentiment in the containership charter market?",
+   "url": "https://theloadstar.com/is-fomo-driving-sentiment-in-the-containership-charter-market/",
+   "source": "The Loadstar",
+   "published": "2026-10-09T10:31+00:00",
+   "added": "2026-10-09T10:44+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "charter",
+    "teu"
+   ],
+   "summary": "The containership timecharter (T/C) market has taken another lurch upwards in recent months, with numerous participants describing a renewed scramble by liner operators – especially the largest European players – to secure any available tonnage. Most market benchmarks have participated in the recent strengthening, with the assessed one-year T/C rate for MSI’s 1,700 teu Grd (geared) Non-Eco benchmark rising from $28,800 a day in June to $34,100/day in September, and our 6,500 teu Gls [gearless] Non-Eco benchmark increasing from $68,400/day to $78,300/day over the same period. As noted in MSI’s Containerships Q3 26 report, the market cooled a little in the second half of September, compared with the height of the northern hemisphere’s summer, but this remains a market in which non-operating owners (NOOs) are firmly in the driving seat, and charterers are still willing to fix vessels in the liquid market segments for two-to-three years at healthy rates, and often for forward delivery dates. The lack of charter market-sized vessels available to hire, in both the near- and medium-term, means an upward movement in rates is the unsurprising outcome of a renewed fixing drive by the major liners.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "8ad237c4e66b",
    "title": "BIMCO moves to break ship retrofit cost deadlock",
@@ -313,6 +339,41 @@
    "summary": "CMB.Tech launches first ammonia-powered dry bulk vessel gasworld",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
+  },
+  {
+   "id": "2ffc30317537",
+   "title": "EU Imports Record 12.18 Million Tonnes of Russian Arctic LNG",
+   "original_title": "EU Imports Record 12.18 Million Tonnes of Russian Arctic LNG",
+   "url": "https://gcaptain.com/eu-imports-record-12-18-million-tonnes-of-russian-arctic-lng/",
+   "source": "gCaptain",
+   "published": "2026-10-09T08:47+00:00",
+   "added": "2026-10-09T10:44+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "shipping",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "bill",
+    "eu ",
+    "fleet",
+    "lng",
+    "russia",
+    "russian",
+    "sanction"
+   ],
+   "summary": "Europe’s estimated bill reaches €7.88 billion through September as U.S. sanctions deadline adds uncertainty for Yamal’s specialized tanker fleet. The European Union imported a record 12.18 million metric tons of liquefied natural gas from Russia’s Yamal Arctic project in the first nine months of 2026, paying an estimated €7.88 billion, according to an analysis by German environmental group Urgewald. The figures highlight Europe’s continuing importance to Russia’s Arctic gas trade despite the EU’s planned phaseout of Russian LNG imports. 18 deadline for the Trump administration to implement provisions of the Lindsey O. The legislation authorizes sanctions against certain foreign vessels involved in moving Russian energy to evade sanctions, as well as people connected to Russian energy projects including Yamal LNG and foreign port operators that provide services to U.S.-sanctioned vessels. “The short-term contract ban has done little to disrupt the trade,” Rötters said, arguing that the full import ban scheduled for 2027 will be needed to put serious pressure on Russia’s LNG business. Restrictions on Russian LNG imports under eligible existing short-term contracts took effect on April 25. The project relies on a relatively small fleet of specialized Arc7 ice-class LNG carriers designed to operate in Arctic waters.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
   },
   {
    "id": "8b01dc375e28",
@@ -10250,6 +10311,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "de5df2dadbe2",
+   "title": "Manipulation: Poland and Romania Deny Ukraine Grain Transit",
+   "original_title": "Manipulation: Poland and Romania Deny Ukraine Grain Transit",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0tlM0JQclZwZnhQdU5wdllTYmptdkNsRGN6UTlQNk5USFFrUi15VS1MSzAzTFlmZzJ3UFY1U3E1OTdKMTZHZFJrWEJvZ1FQT3MwQUdBZWNuYXVrclNCMjBlbFZSaUpwOV9lalRDUUdDSktPSmlvR09MNUhQczNUZWFwbXhaOEh0MURGamVrNjI?oc=5",
+   "source": "StopFake",
+   "published": "2026-10-07T08:20+00:00",
+   "added": "2026-10-09T10:44+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Poland",
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "poland",
+    "ukraine"
+   ],
+   "summary": "Manipulation: Poland and Romania Deny Ukraine Grain Transit StopFake",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "314a292cddeb",
    "title": "EU Customs Reform 2026: High Fees and a New Super Authority",
    "original_title": "EU Customs Reform 2026: High Fees and a New Super Authority",
@@ -16554,82 +16645,6 @@
    "summary": "HD Hyundai has delivered what it says is the world’s first containership designed to eliminate manual lashing, removing one of the most labour-intensive jobs in container shipping. The 13,000 teu vessel, which is methanol dual-fuelled, has been handed over toFrance’s CMA CGM after being built using HD Hyundai’s proprietary hybrid lashing-free system. HD Hyundai Heavy Industries developed and verified the core technology, while HD Hyundai Samho carried out detailed design and construction. HD Hyundai’s new arrangement does away with that work by extending cell guides above deck, allowing containers to be held in place without traditional lashing. The breakthrough centres on what HD Hyundai calls a portable bench, a standardised structure fitted between cell guides. The unit is the same size as a 40 ft container, meaning terminal cranes can handle it as part of normal cargo operations. HD Hyundai says the design boosts deck cargo capacity by more than 10% compared with similar existing ships while improving operational stability in heavy weather. The technology was presented to the IMO’s Sub-Committee on Carriage of Cargoes and Containers in 2024 and has since secured multiple patents. The Korean yard plans to expand the lashing-free technology to small and mid-sized vessels soon.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "16b70bfeca49",
-   "title": "Puerto Aguadulce adds five more hybrid RTGs",
-   "original_title": "Puerto Aguadulce adds five more hybrid RTGs",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTi1PdXFfekZEYUFXZ0FNQ3Bxc0sybTJqMm0wX3JmVmY4Sm9GZ1A5SkJzN0JWWFRSOWxsRjdJdk00SFR1WVhMeWZ0Rlc3R0M0VTQyUF9sb2hkWnZldnF0T2RaQmhQeWIwX2NnY3JfTkxTemdIN3BmQnFGYXlYT1p5N2VCekpEWElNZnk4NW95ckJKUDJZNmZiUDdPVkc2bTVPbzVqbUxLeDIzWVVQ?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-06T08:06+00:00",
-   "added": "2026-10-06T08:41+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "rtg"
-   ],
-   "summary": "Puerto Aguadulce adds five more hybrid RTGs WorldCargo News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5b30a9cbbb0b",
-   "title": "Siły rządowe odbiły port Mokka z rąk rebeliantów Huti",
-   "original_title": "Siły rządowe odbiły port Mokka z rąk rebeliantów Huti",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVJqajc3blQwdWhzRURfN0pqR0IyRTF2NFRaY25ZNnpjZWdKT0dMZHdUbVJEX04tVFFjV0xETzUxT21ybDZOSnhvZElmQy1qZ2NVaUdCTnVJQXJfV3NwUHo5aVdTTVF3ekNwczJyV192UTluSE9zQjJCR3NfMnN2eURqd1dwalNqTHFtcUlxaF94V1ZqMHR2eGJWNWZ4cktpUHl5b0hYdlNNZEE4MVFZcklDbEhfdVY1dHRRRGdKeU0zT28?oc=5",
-   "source": "portalmorski.pl",
-   "published": "2026-10-06T08:04+00:00",
-   "added": "2026-10-06T10:24+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Siły rządowe odbiły port Mokka z rąk rebeliantów Huti portalmorski.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c8e4184e8a1a",
-   "title": "Commodity markets: Supply is under pressure, wheat and coffee both rise for the third consecutive session.",
-   "original_title": "Commodity markets: Supply is under pressure, wheat and coffee both rise for the third consecutive session.",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXBrTmxVWlpuX1YwTWVHWUQ3NGN3Wk1qcEI2dVJTQmxLRnBvcENuSkYwZ1c1clpjbjlQajYwNGVjdlk4QXI4NDdJVlFROFRKSi1oNkM2RjFEcXZFSUlJYXZlSE5VQXVVdW1YRHQ0S2QyLXZtaGxYZlJ6bFFDbURibElxaXBVMmxFZkRvZnozYUhudHp6T3kwNVp4eWhseUdUa213NjVGbkJmcnZqRU1FNDh6M0FZeUY4?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-06T07:59+00:00",
-   "added": "2026-10-09T08:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "commodit",
-    "wheat"
-   ],
-   "summary": "Commodity markets: Supply is under pressure, wheat and coffee both rise for the third consecutive session. Vietnam.vn",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
