@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T17:25+00:00",
+ "generated_at": "2026-10-09T17:46+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -2616,6 +2616,31 @@
    ],
    "summary": "[SMM Announcement] Launch of the EU Steel TRQ Quota Tracker Shanghai Metals Market",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b850d37ea496",
+   "title": "Rolnicy z regionu wysłali owies przez kołobrzeski port. 2700 ton popłynęło do Holandii - e-kg.pl",
+   "original_title": "Rolnicy z regionu wysłali owies przez kołobrzeski port. 2700 ton popłynęło do Holandii - e-kg.pl",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5dEVpR2Q5ckVnU2FaeDZKX0hGR2RNYUU0bTdmRUlMa3p4ZTE1cjY2cGd2cWk2OUFzdHdsQ25wcVNBWGVWeThlVXVlYWRGOGJWTk8xdkd6Qm0tSEFZMTgxbDZxbnY0V3lpc3c?oc=5",
+   "source": "e-kg.pl",
+   "published": "2026-10-09T05:21+00:00",
+   "added": "2026-10-09T17:46+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Rolnicy z regionu wysłali owies przez kołobrzeski port. 2700 ton popłynęło do Holandii e-kg.pl",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16658,34 +16683,6 @@
    ],
    "summary": "Rhenus Group plans to expand its operations along Middle Corridor trend.az",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6e04aeae67ee",
-   "title": "Black Sea shipping under fire as drones hit two merchant ships",
-   "original_title": "Black Sea shipping under fire as drones hit two merchant ships",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaXhmbGkxV3ViZG5NbUJkOFh0U0pRenRfZjdSa0NwUUVGdjBLT0FDX25UOVNpNzdyc1dlV0dHRGJDZ1pxQzlRNGlLcnFYcVJWOWt2RE5HcUc1WWxUeEhjZl9TazlOTDdoUDBEbUo2XzNrNUFUbGlJYjA1Z3BvTHlZdDM4WGZ1ZTJ3d203QUEzMnJzSlRtRURJT2xVenMzZDFsTk5HaUhaUUpFYkRuZWVaX25WTFZoR3VybnU1NQ?oc=5",
-   "source": "TVP World",
-   "published": "2026-10-06T11:35+00:00",
-   "added": "2026-10-09T11:23+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "drone",
-    "shipping"
-   ],
-   "summary": "Black Sea shipping under fire as drones hit two merchant ships TVP World",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
