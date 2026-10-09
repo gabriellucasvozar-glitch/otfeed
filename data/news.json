@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T14:55+00:00",
+ "generated_at": "2026-10-09T15:17+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -35,6 +35,31 @@
     "port"
    ],
    "summary": "Port Rzeszów-Jasionka: 133 648 pasażerów i 1 405 operacji we wrześniu transinfo.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "aa04ef02ee0d",
+   "title": "Zeebrugge Adds 8 Wind Turbines at RoRo Terminals to Supply 115 GWh Annually",
+   "original_title": "Zeebrugge Adds 8 Wind Turbines at RoRo Terminals to Supply 115 GWh Annually",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZnVTSmRueUw4cXp4T3ZyeUFjTUhVdkdnMzNzYUFSTXc2RGd2dERTNURMdk1zNnRsVUd3eEVNT21aNDUta25URlVrTDdSQWZoU3drUzNtSnF4MjdxN3p3a2lTTGc5SXhTYmViNEZVVkxSVGtXU1U0OXpPb0J0bDJ3TnZ2R2RGMl81M1RjVjJ4Vk9sTWFHSHR2cWtIZHdTbkhv?oc=5",
+   "source": "Breakbulk.News",
+   "published": "2026-10-09T13:59+00:00",
+   "added": "2026-10-09T15:17+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Zeebrugge Adds 8 Wind Turbines at RoRo Terminals to Supply 115 GWh Annually Breakbulk.News",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -16629,39 +16654,6 @@
    "summary": "Dry bulk supply to rise faster than demand in 2027 safety4sea",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
-  },
-  {
-   "id": "da7897dd30dd",
-   "title": "Suez return a major threat to carrier efforts to halt transpac spot rate slide",
-   "original_title": "Suez return a major threat to carrier efforts to halt transpac spot rate slide",
-   "url": "https://theloadstar.com/suez-return-a-major-threat-to-carrier-efforts-to-halt-transpac-spot-rate-slide/",
-   "source": "The Loadstar",
-   "published": "2026-10-06T10:44+00:00",
-   "added": "2026-10-06T10:47+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "carrier",
-    "china",
-    "chinese",
-    "shipping",
-    "suez",
-    "teu",
-    "vessel"
-   ],
-   "summary": "Teu-mile demand growth has regressed for the first time since January, reflecting a combination of blanked sailings by major carriers during China’s Golden Week, increased newbuild vessel deliveries, and more ships returning to the Suez Canal on Asia-Europe routes. According to container shipping consultancy Linerlytica, several long-haul services have been cancelled in response to weaker Chinese export volumes during the week-long holiday that began on 1 October. The blanked sailings are concentrated on Asia-US East Coast and Asia-Europe trades. Linerlytica said: “The return to the Suez route poses the biggest threat to carrier efforts to reverse the rate slide on the Asia-Europe route that have persisted for the past three months. “All carriers are making a concerted rate push from the end of October, with MSC among the latest to announce new Asia-North Europe FAK (freight all kinds) rates from 19 October of $3,150 per teu and $4,500 per 40ft.” Rates on that trade have fallen around 60% since July as the early peak-season momentum faded. Nearly 200,000 teu of new capacity arrived last month, against no vessels demolished, adding further pressure to market capacity. The faster-than-expected resumption of Suez Canal transits, however, remains the biggest obstacle to carrier efforts to support and increase freight rates.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
