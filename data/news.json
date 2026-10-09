@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T20:28+00:00",
+ "generated_at": "2026-10-09T20:50+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "fcadd635847f",
+   "title": "Trump Strikes Diesel Deal With Putin to Lower Fuel Prices Ahead of Midterms",
+   "original_title": "Trump Strikes Diesel Deal With Putin to Lower Fuel Prices Ahead of Midterms",
+   "url": "https://gcaptain.com/trump-strikes-diesel-deal-with-putin-to-lower-fuel-prices-ahead-of-midterms/",
+   "source": "gCaptain",
+   "published": "2026-10-09T20:34+00:00",
+   "added": "2026-10-09T20:50+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "prices",
+    "russia",
+    "russian"
+   ],
+   "summary": "President Donald Trump said Friday that Russia has agreed to release millions of tons of diesel fuel into U.S. and global markets following a telephone call with Russian President Vladimir Putin, marking a significant shift in U.S. energy sanctions policy as the White House seeks to bring down fuel prices ahead of next month’s midterm elections. Together, the announced volumes would amount to approximately 4.8 million tons of diesel entering global markets, although Trump did not specify how much would be destined for the United States or identify shipping arrangements. “Between our TOTAL CONTROL of the Strait of Hormuz, and this great announcement on Russian Energy, Diesel Prices for Americans and, indeed, the World, will be COMING DOWN, IN RECORD NUMBERS, AND FAST!” Trump wrote on Truth Social. The announcement comes as diesel prices have climbed to near-record levels, driven by disruptions to global oil supplies stemming from the war with Iran and Ukraine’s continued attacks on Russian refining infrastructure. Essential maritime and offshore news, insights, and updates delivered daily straight to your inbox Dive into a sea of curated content with our weekly ‘Dispatch’ email. (Bloomberg) — Saudi Arabia is in talks with customers to offer oil loadings next year outside the Strait of Hormuz in long-term contracts, formalizing a system the kingdom has been...",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "8dd2b53d6ba2",
    "title": "Sybiha, WTO Chief Okonjo-Iweala Discuss Black Sea Shipping Security",
@@ -16650,35 +16679,6 @@
    ],
    "summary": "Polskie porty morskie rosną: więcej przeładunków, kontenerów i tranzytu w 2025 roku Zawsze Pomorze",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3d5d3f90d8fe",
-   "title": "Coimbatore MSMEs Seek Urgent Govt Action Over Steel, Copper, Aluminium Shortages, Price Rise",
-   "original_title": "Coimbatore MSMEs Seek Urgent Govt Action Over Steel, Copper, Aluminium Shortages, Price Rise",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbXVFcXAwREhkVFFGeWZNc3l2azJIWENQMGZZWXFmNTZ1Tm1HTG9fVGV6dmpkeERQeWVJM1pmUGNHbDQxS0R5ai01dTJyckdtVVNnWHVUQUhkUmQzWlhMZjlVcFh4RkVXTldxbHZvMXBEZU1XOHBENTY5UFdQaGRhc2hlQnViSmlVVjdYSl82Tjg5VkN0RmplMXZiUGpFZFltbVB1MVFRTmh4d3NYbEJtQk9uekxnTzFCaHhaWHNKZUVNX05XRHREVHFVS2dKcGM?oc=5",
-   "source": "KNN India",
-   "published": "2026-10-06T12:05+00:00",
-   "added": "2026-10-06T12:54+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "aluminium",
-    "copper",
-    "shortage",
-    "steel"
-   ],
-   "summary": "Coimbatore MSMEs Seek Urgent Govt Action Over Steel, Copper, Aluminium Shortages, Price Rise KNN India",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
