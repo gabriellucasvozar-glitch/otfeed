@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T07:21+00:00",
+ "generated_at": "2026-10-09T07:43+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,61 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "3679f352f82f",
+   "title": "Black Sea grain exports crater amid widening maritime war",
+   "original_title": "Black Sea grain exports crater amid widening maritime war",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3pFdGlyWXpOZFBwQUtTNVYxZ3Z1UjFXLUVxZlpHYnpqbWFBU2FVRXN5TDVEcVZ5TW8wdWVoa2NFRXl1X2hhYzJwWWRuZHRpODlzNlBvZllLc2ZoZDJ3U1pNT1ZuWDh2MlRJNE5mUDZNZzRSODVqeWNGM3U2a0hvWDQ3a0dxazg?oc=5",
+   "source": "Splash 24/7",
+   "published": "2026-10-09T07:30+00:00",
+   "added": "2026-10-09T07:43+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "grain",
+    "war"
+   ],
+   "summary": "Black Sea grain exports crater amid widening maritime war Splash 24/7",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7471586784fc",
+   "title": "How MMI is keeping Dubai’s bars stocked as shipping disruption drives up costs",
+   "original_title": "How MMI is keeping Dubai’s bars stocked as shipping disruption drives up costs",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZF9mZ1lreUx5Vk1udG9xTjNJVTU3N0pwT3VUZXIydjFZYUFfY1FvUFRHNlV3N05KY1dkZnVPQ0VlYXpXWUduMDFST3NNX3h4ejhhUzBqa2FZVlczbV93ckl5ME9MTUNtdmgtSTNKcTkwWmM1UWtLMmVOWVh1TTRjTGN5SkpTSzFOT2dCZzNBMVM4b2JFNnJUV3dSQkdyUHZJTnk5MW5uSC16OXZZWW5MLWJwb0pkRFJYenliUw?oc=5",
+   "source": "Caterer Middle East",
+   "published": "2026-10-09T07:22+00:00",
+   "added": "2026-10-09T07:43+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "disruption",
+    "shipping"
+   ],
+   "summary": "How MMI is keeping Dubai’s bars stocked as shipping disruption drives up costs Caterer Middle East",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "887a583c5d85",
    "title": "German ports demand national funding pact",
@@ -1122,6 +1177,39 @@
    "summary": "Supertankers are racing to the Middle East to cash in on soaring fees for carrying oil through the Strait of Hormuz , exacerbating a global shortage of vessels that has spiked freight rates. Crude flows through the waterway, which connects the Persian Gulf to international markets, have recovered to near pre-war levels in recent weeks despite continued attacks on ships. But the perils of the trade have prompted tanker fees to skyrocket: Moving oil from the gulf to East Asia costs more than six times as much as it did prior to the conflict. Meanwhile, crude producers outside of the Middle East — particularly in the Americas – are still maintaining high levels of output, even as flows from the Persian Gulf rebound. At least one VLCC was offered this week to sail from the US Gulf to Japan at a potential record fee of $82 million, or more than $40 a barrel. For the Persian Gulf to East Asia journey, which takes about three weeks, assessed supertanker rates reached an all-time high of nearly $1.4 million per day on Wednesday. The scarcity and sky-high fees for supertankers have prompted a switch to smaller Suezmax and Aframax vessels for non-Middle Eastern routes.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "ab47e9f4b47c",
+   "title": "Russia boosts wheat exports via the Baltic to record levels amid Black Sea disruptions",
+   "original_title": "Russia boosts wheat exports via the Baltic to record levels amid Black Sea disruptions",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSmpEbzlIUGZ2LWhuOEZ2MkF4Tmp0dFQzRnhqX0Q3ZUpubWw4STk0TFlXX0JyY0Y1Z2dfWFBjLWVYQkVRNDBZZzNUV21VYWFWYi1POS11YjE2TDdkaURUbVNYLUJNbDYybGtaenpjR0VvV083bThLNUpFRmdSck0wNEZYaEJwSzR3RXZmbEhWOWJjQ2J0MzZHZzd6TlNxSXluTFlhM1pPaU1ydHppeHRSSV9ZTHRMSk9lcmgzOGFrRQ?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-08T17:21+00:00",
+   "added": "2026-10-09T07:43+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Baltic & Nordics",
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "baltic",
+    "black sea",
+    "disruption",
+    "russia",
+    "wheat"
+   ],
+   "summary": "Russia boosts wheat exports via the Baltic to record levels amid Black Sea disruptions UkrAgroConsult",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "56b3c41cff82",
@@ -3686,6 +3774,31 @@
    ],
    "summary": "Fundamentals bearish, iron ore prices fall 3.12% [SMM Iron Ore Daily Review] Shanghai Metals Market",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f916f65745f2",
+   "title": "CargoBeamer boosts three intermodal routes",
+   "original_title": "CargoBeamer boosts three intermodal routes",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQem9FVHl6QWZ1VGRNTTN5WkkxMkd5dGxEME51T0dneWd6M2Q1ZUdpNTUxVlVPbjBwaHlMRWtnNllMaERQQzdEY29VelFxS2dEZldPVVV1Y09pcm9OTWJHV0F6VGxqczY1dkxvM2d5QlFKSXZHSTVxWFNzNnlfdWh6UVZjcFpHcEwxOGJ2Ykd0QUwtZVE?oc=5",
+   "source": "RAILMARKET.com",
+   "published": "2026-10-08T08:15+00:00",
+   "added": "2026-10-09T07:43+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "intermodal"
+   ],
+   "summary": "CargoBeamer boosts three intermodal routes RAILMARKET.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -14281,6 +14394,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "62349f6e0f23",
+   "title": "UK rail freight ambitions face environmental challenge over Oxfordshire terminal",
+   "original_title": "UK rail freight ambitions face environmental challenge over Oxfordshire terminal",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXRXTXBlRDN2cXBXdl9FRXBicmpyWEhyZjBhdVlTMUhtQmtGMmNKLUo5M2JfU2tJck5Hc2V6XzVmbzh5dEJaWFNMMi1PODBTbWdpSElzcTRWSVlaSjN0ejBQLVkyT29rbU04Vmt6SGI5TTNQUWtGQ3lFRDNycW1PS0JrQWd0TVQ4Nlp0ZmZhaTRHTWh5MmpxQUtQeWU0TzExRl9XUG0td0d2d0JnQy0xcnk2Zk84WE5tcTFibXNSYjFCakRoVHh3cWZXdjc?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-06T10:30+00:00",
+   "added": "2026-10-09T07:43+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "rail freight",
+    "terminal"
+   ],
+   "summary": "UK rail freight ambitions face environmental challenge over Oxfordshire terminal RailFreight.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e10124e6ccd5",
    "title": "Polskie porty rosną a wraz z nimi infrastruktura logistyczna",
    "original_title": "Polskie porty rosną a wraz z nimi infrastruktura logistyczna",
@@ -14304,6 +14444,32 @@
     "polskie"
    ],
    "summary": "Polskie porty rosną a wraz z nimi infrastruktura logistyczna CEO Magazyn",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "64f752f226c8",
+   "title": "Kazakhstan and Oman eye a new trade route to the ocean",
+   "original_title": "Kazakhstan and Oman eye a new trade route to the ocean",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFVkUnlUbTItT2dsRXdXcUtXMnlMSVE5V0FBbnlRVTFwRzBEMGdGQ0JTVV9BUzJwek51SlFEWWpzZm1ka3o4ejQ0YzdZWlpLaGNfLXhLY2xOdktDU2FsUHhDdmF0WWt4UThIUXNfN2NMSXRPVXlSUU5vRDZ4emdwVmYxdkFidHMwNElWaDc5NGlqaFFZWG1FTWJObjk?oc=5",
+   "source": "DKNews.kz",
+   "published": "2026-10-06T10:19+00:00",
+   "added": "2026-10-09T07:43+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "trade route"
+   ],
+   "summary": "Kazakhstan and Oman eye a new trade route to the ocean DKNews.kz",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
@@ -16462,169 +16628,6 @@
    ],
    "summary": "Iron ore prices rebound slightly, supported by bargain hunting and higher shipping costs yieh.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "acb57f15b203",
-   "title": "Turkish ship carrying Ukrainian grain hit in Romania’s Black Sea exclusive economic zone",
-   "original_title": "Turkish ship carrying Ukrainian grain hit in Romania’s Black Sea exclusive economic zone",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNckpPTzhpYTFGUVVTd3V6REM0S3NRUE9TWTlIb0lsTUZ1dWFFUFRPS2tLT0dLLUY5MmVxWWU5WDJmLUswcGtjWnZqZFk5MzZwMzVkY1N6eVZWRUtIYl9MR3l2N1ZLTmU4Q25MYWp6N2NjUnR4Z3RlMHh4QnRxYzhtblcxemFZZTY5MFZBWGd0ZlRFRWtTTXpucFpoY0FTOHlfQjZfeDZrMnNzdXZ6WExwU2dNUy02MnoteTBDYThwNWJwRk5VcmphbE84M2RocmtQTEdOTQ?oc=5",
-   "source": "IntelliNews",
-   "published": "2026-10-06T05:37+00:00",
-   "added": "2026-10-06T06:54+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "grain"
-   ],
-   "summary": "Turkish ship carrying Ukrainian grain hit in Romania’s Black Sea exclusive economic zone IntelliNews",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3cc25612d3fd",
-   "title": "Carey Island, Midport developments won’t undermine Port of Tanjung Pelepas expansion — Loke",
-   "original_title": "Carey Island, Midport developments won’t undermine Port of Tanjung Pelepas expansion — Loke",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWaXp2dXk5LThxZktEaXJDbk0yV0t1ZlZRRXJFMDlFb096Z1ZwemNVYjMtRGdWVXhSd1BWOXNlVnBxWEJBMm5pd29lUnNkbWVI?oc=5",
-   "source": "The Edge Malaysia",
-   "published": "2026-10-06T05:30+00:00",
-   "added": "2026-10-06T07:15+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Carey Island, Midport developments won’t undermine Port of Tanjung Pelepas expansion — Loke The Edge Malaysia",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9715b0607a16",
-   "title": "Commission approves €170 million Bulgarian state aid for farmers facing increased fuel and fertilizer prices",
-   "original_title": "Commission approves €170 million Bulgarian state aid for farmers facing increased fuel and fertilizer prices",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHhJcEJqYkZBdk1SbnNBaUZyRk5JbHp1WU1iWDR6ZUNFWldfZ3BScXBrcWJpV0hCZElLaGtDOTdDeUpHdUFQa0FSXzhYdWh3aGhOdHFfbEVBbTgtWFNiV0hhbWhWWXVKRW94cHQweU1TVE1vTE45Q1c1ZWNVOTFkV21zaDUxbURNZ0l5aVRqX0VoU0ZsUXJXdzdUeHJqM3lYN0RlTHMtOUgtc1BDUi13RE9FcGc2d2J0dzN3T0JWbm96UTU0RWRnYjNfekM3cG9HcTdPTzNXRXZJeTAwNFR2ZmRsLVUzaE9yWHJ6UUNtU2ZpaTdQRUt6QU1n?oc=5",
-   "source": "EU Reporter",
-   "published": "2026-10-06T05:26+00:00",
-   "added": "2026-10-06T07:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Central & Eastern Europe",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "fertilizer",
-    "prices",
-    "state aid"
-   ],
-   "summary": "Commission approves €170 million Bulgarian state aid for farmers facing increased fuel and fertilizer prices EU Reporter",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8cee9b3caeb2",
-   "title": "Szczecin zbuduje nowy most przez Odrę. Połączy port z trasami A6 i S6",
-   "original_title": "Szczecin zbuduje nowy most przez Odrę. Połączy port z trasami A6 i S6",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdUQ1aVNoWVYtdlJzZXhyMEVzMWtxWmphQ0o0R0RXdk1GRmk0UE12bldDazY2WnJ6dDZjVHdVS01vNWdOSmR5YkMxTVFHQVNIUGRBcnh0dWxWQThwR2Y2dW1kX1lPazl5dXJ5VkRCNTlGem55SFZJclFONHRqdF8tUU1DblBhLUVhS3dNQVBETjJpUmNhWDZ3cHh6TDNELXlfRXVncmdQQmNhc2Z6LXpzX2lIenduZw?oc=5",
-   "source": "Inzynieria.com",
-   "published": "2026-10-06T05:12+00:00",
-   "added": "2026-10-06T05:22+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "high",
-   "score": 8,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "port",
-    "szczecin"
-   ],
-   "summary": "Szczecin zbuduje nowy most przez Odrę. Połączy port z trasami A6 i S6 Inzynieria.com",
-   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8c30ac9d9f01",
-   "title": "Growth & Jobs | Caribbean port leaders bring home European lessons on shore power, electrification and port investment - jamaica-gleaner.com",
-   "original_title": "Growth & Jobs | Caribbean port leaders bring home European lessons on shore power, electrification and port investment - jamaica-gleaner.com",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY2pIRUtENjA2TzFFLWl1NHQtRWVSOTF3NWFQOTJZdmJDMXdkY0toUjRRS3pmQ1JrZ1liWUt4ekxwcmFyY3pKdFdxNXg5NjF0NlVLUEltTXhzSVRnTGZCdEsyaGlxaE80YUprWGljN2hMbUR3QmNFcEN6VDV6ZTdyNGxaSzBqREc2NmV0UWhFN1VzUFdGc1luY191NlBFUS05Nkgtc2FzOWtSa3RDQUR1S3I5RDEzWDJUei1Wa25zNTVLZw?oc=5",
-   "source": "jamaica-gleaner.com",
-   "published": "2026-10-06T05:06+00:00",
-   "added": "2026-10-06T06:54+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "electrification",
-    "port",
-    "shore power"
-   ],
-   "summary": "Growth & Jobs | Caribbean port leaders bring home European lessons on shore power, electrification and port investment jamaica-gleaner.com",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e075c35015d7",
-   "title": "Forklift Batteries Market To 2035: Lithium-Ion Adoption and Automation Fuel Expansion - News and Statistics",
-   "original_title": "Forklift Batteries Market To 2035: Lithium-Ion Adoption and Automation Fuel Expansion - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc0QyMGJSLWtwMGtubng5WkFqcmFmRF9DM01XRWJmT0F4TUQ0aU9SbnF4VnppYWxvX3VsRk9uakkzREpVWWFObk05ZUVhX3ltdXd5Q253Yk1KdHdFbEdKSWpva0F6YlM0R3lXMnBPYVA1YU1ZTGtKVTdOZC1iY2FZTHM4ZUpyMjdUamhJOWNRT3EyblIwdmlZaU40MWtkXzZ6Y0s4NmRLbE1ESGQ0VEpJX0JOVzMwT2g1cElkLWZZZ0Z2STYwanJF?oc=5",
-   "source": "indexbox.io",
-   "published": "2026-10-06T05:01+00:00",
-   "added": "2026-10-06T07:56+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "automation"
-   ],
-   "summary": "Forklift Batteries Market To 2035: Lithium-Ion Adoption and Automation Fuel Expansion - News and Statistics indexbox.io",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   }
  ]
