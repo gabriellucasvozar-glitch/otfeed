@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T09:11+00:00",
+ "generated_at": "2026-10-09T09:36+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,87 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "f6e8488fc7f2",
+   "title": "CMIT i TCTT oddały do ​​użytku komercyjnego wspólny terminal w Cai Mep – Thi Vai.",
+   "original_title": "CMIT i TCTT oddały do ​​użytku komercyjnego wspólny terminal w Cai Mep – Thi Vai.",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeUtRa0ZQbm84dlVhU1NSaEEwanYtWjNLRzdUQ2JELXJ0M05ibHpyOUlCSHo0YWxObmNvZU01Z0p6bFBHanY4VlRBanBDOGN4b3pDdUhITTNpc2tpdXBXbDhiZVdGeEtZd255dVoyTF9XOHZYWXpMVEVYZ192ZUtIbHhQVXMyTzNEYnVtWE80MFFINGVvMWhzN1FfTzBYQQ?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-09T09:35+00:00",
+   "added": "2026-10-09T09:36+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "CMIT i TCTT oddały do ​​użytku komercyjnego wspólny terminal w Cai Mep – Thi Vai. Vietnam.vn",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "58fddc65eb2b",
+   "title": "Diana rolls capesize into $13m fixture",
+   "original_title": "Diana rolls capesize into $13m fixture",
+   "url": "https://splash247.com/diana-rolls-capesize-into-13m-fixture/",
+   "source": "Splash247",
+   "published": "2026-10-09T09:30+00:00",
+   "added": "2026-10-09T09:36+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "bulker",
+    "capesize",
+    "charter",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "New York-listed Greek bulker owner Diana Shipping has secured a 42% rate increase for its capesize GP Zafirakis in a new time charter with Classic Maritime. The 2014-built, 179,492 dwt vessel has been fixed at $38,000 per day, less a 5% commission, compared with the $26,800 per day currently paid by Japanese shipping giant NYK. The new charter is scheduled to start on October 10. The agreement runs until at least October 1, 2027, with the vessel potentially remaining on hire until December 15. Diana said it expects the minimum employment period to generate approximately $13.34m in gross revenue. It also marks another deal between the Semiramis Paliou-led owner and Classic Maritime. In July, Diana fixed its 2012-built, 206,040 dwt newcastlemax Philadelphia to the charterer at $35,500 per day, securing a 65% increase over its previous rate with Cosco-controlled Refined Success.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "eaecf26de413",
+   "title": "[Domestic Iron Ore Brief] Iron ore concentrates prices in the Tangshan area are likely to consolidate on a subdued note",
+   "original_title": "[Domestic Iron Ore Brief] Iron ore concentrates prices in the Tangshan area are likely to consolidate on a subdued note",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLWtNa2ptbFJoVmM3eDQwdElnNFcycHR5c3pQV3pUbmY0dzMyMUl6dlVramdMQVNDSTlPTWNfd0lZeHI1WXFqbThDZ3NDVnk4ZXhLTmRPNU9ldUFzX09UTUtUT2ozMDhfbkVDT3lzRE1abHlibVBfLUNtVHAtOXB5UWc1eG5EZDdKbDNTUTZwaDRlWks4RkY2djF1dTR0QWVrM2ZTNVAtd0RGaE5vTlNSYVB4STlhS1J4azRfV1g4Q3laRlg3VFF2azlBSWxTV1BKV0tlZm96RDR1YUIydHVfbDRFVVJ1RVBwekZtWGF4bkdiUW0t?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-09T09:23+00:00",
+   "added": "2026-10-09T09:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "iron ore",
+    "prices"
+   ],
+   "summary": "[Domestic Iron Ore Brief] Iron ore concentrates prices in the Tangshan area are likely to consolidate on a subdued note Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "c1f65cb01320",
    "title": "CMB.Tech launches first ammonia-powered dry bulk vessel",
@@ -1381,6 +1462,36 @@
    ],
    "summary": "The Black Sea’s Quiet Shipping War Reaches NATO Waters Modern Diplomacy",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7490f458ada2",
+   "title": "PIGSW: Coal supplies from Russia to Poland blocked by Russia",
+   "original_title": "PIGSW: Coal supplies from Russia to Poland blocked by Russia",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOEVRZHhKc2tmSGM1aFZfbktwRW82bzVVWGp6WXQ5MHEwZWlHWFRlTzAwVVZHdkt3S2dwc0JtVXgyeEFBU1dYMVJNcV9nRldubUxpTmxZOWdyQlZWX3VIMUZHQzNlOXdWWWZSeTVRczlSX0I3M2R4cnVzVWg2dDBwZnR6Q3J2bUdVN3ZqUFJBcw?oc=5",
+   "source": "Warsaw Business Journal",
+   "published": "2026-10-08T18:39+00:00",
+   "added": "2026-10-09T09:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "coal",
+    "poland",
+    "russia",
+    "warsaw"
+   ],
+   "summary": "PIGSW: Coal supplies from Russia to Poland blocked by Russia Warsaw Business Journal",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -9703,6 +9814,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "435c302b10c5",
+   "title": "Sobol: Rising Insurance Costs Hit Grain Transit in the Black Sea",
+   "original_title": "Sobol: Rising Insurance Costs Hit Grain Transit in the Black Sea",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU21nZlVhRUljMndTdGxkbVRLSHN3cWVNczR6M0ZVQTdISDJIWlRaYzNseXRqZEU5S19tN3hSQzRSdmVPT0x4WjB3dUJQV1V0TUJWUW5pVFR5ZHJlTS14cXV5NWEtMlVvVUxUZElncG1WdHNpOF9mWGpEbzJXVUFCczZYUV9vdy11bkt5dlhSaWpXUlNtRzU2YW1jTURqcHlfaWdUSnRRcUlEbHY5c3U2OG1FZzBOaDhhWWVzTVRWeW43YUFqNEpSNXhDUHdRak9XNS1B?oc=5",
+   "source": "Latifundist.com",
+   "published": "2026-10-07T09:00+00:00",
+   "added": "2026-10-09T09:36+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "grain"
+   ],
+   "summary": "Sobol: Rising Insurance Costs Hit Grain Transit in the Black Sea Latifundist.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e6864cd368f2",
    "title": "Drone strikes put Black Sea shipping on edge as multiple vessels are hit",
    "original_title": "Drone strikes put Black Sea shipping on edge as multiple vessels are hit",
@@ -16503,144 +16641,6 @@
    ],
    "summary": "Red Sea Express moves 2,494 TEUs through Yanbu port Logistics Middle East",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "243962e920ff",
-   "title": "Russia seeks alternative grain routes as Black Sea exports plunge, Ukrainian intelligence says",
-   "original_title": "Russia seeks alternative grain routes as Black Sea exports plunge, Ukrainian intelligence says",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSGtYTGprcG4zNWJTRnRzT0xzcGJtelFWV0JwRDBaMENWUk5uSXJabXZ5YkxoNXFRU2htb05jdVppaXZPZkpPRWdGTUJKREZaNDFpRDdjdlZXTS11LVVISVFiYVNLYjhtbDAzX0ZlWWRRMDgyYlhSN2NxTXNRUTlmN202NjNNR25uVVN4SnRtT2J6T3daSll1UGdGRTNFamxaOERiNUZsSUZlT0s0N3hRTi1ReERJaGhRYkJDV0JiMVdHelllenNaMXhDYU7SAcwBQVVfeXFMUEhrWExqa3BuMzViU0Z0c09Mc3BibXpRVldCcEQwWjBDVlJObklyWm12eWJMaDVxUVNobW9OY3VaaWl2T2ZKT0VnRk1CSkRGWjQxaUQ3Y3ZWV00tdS1VSElRYmFTS2I4bWwwM19GZVlkUTA4MmJYUjdjcU1zUVE5ZjdtNjYzTUdublVTeEp0bU9iek93WkpZdVBnRkUzRWpsWjhEYjVGbElGZU9LNDd4UU4tUXhESWhoUWJCQ1dCYjFXR3pZZXpzWjF4Q2FO?oc=5",
-   "source": "Hromadske",
-   "published": "2026-10-06T07:31+00:00",
-   "added": "2026-10-08T11:57+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "black sea",
-    "grain",
-    "russia"
-   ],
-   "summary": "Russia seeks alternative grain routes as Black Sea exports plunge, Ukrainian intelligence says Hromadske",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d88f2b1ca2aa",
-   "title": "Fuel from South Korea is supplying Russia, tankers under sanctions travel to Russian ports",
-   "original_title": "Fuel from South Korea is supplying Russia, tankers under sanctions travel to Russian ports",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcEd5NV9vMWNwVFBKd2xJQ0pMb19wbXpOdW90MkZFRFJUVE96OEZtT2FKZEkwdm1DaExiOXVwTVJJUV9OOTVFU1cta1pXa0FLZUJpWGw2Q3hkS05XMlFIQ0JRRTdmanJBX3RWNm5GZm9xYU1uYmFCT1ZZZlhjUHowYmVwa0JLQlpERWxmcDRRdHZ6RS01NnVpdDV6ZE5nUUlWMzVHcUVuanNHOHhKa0RsRVJZVlNlMzhhUVYycFc0V2xSYzJuc2k1U3VHN3RwUQ?oc=5",
-   "source": "Balkanweb.com",
-   "published": "2026-10-06T07:24+00:00",
-   "added": "2026-10-06T10:01+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Central & Eastern Europe",
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "russia",
-    "russian",
-    "sanction"
-   ],
-   "summary": "Fuel from South Korea is supplying Russia, tankers under sanctions travel to Russian ports Balkanweb.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a2978ccb78ce",
-   "title": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight",
-   "original_title": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUGY5NGcyT0NDUXdnaGNQSFN3enJWVG1SaUhmS0pucU4tS0YwNFZMYlVVNGY5SjE5eHZMUEdjcXhFa3pIMDViQ1RCTXpqUUtKUURKaHMwb0hXcTBVSmJOMFRTcU1qdVRyLUtXNDM2YWg0RVdzSGJzSzRWQUkxaGpEdmhjMmFLQXZyS0FzQ1pFc1BwZEJYS05Sbl94c3VTcFVKeDlzcktDTTV3b29GY0dZWlFsb3ZyYV9HM1lzc3hyZ1E3bFN1?oc=5",
-   "source": "Reuters",
-   "published": "2026-10-06T07:16+00:00",
-   "added": "2026-10-06T07:37+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4.5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "forwarder"
-   ],
-   "summary": "European shippers, forwarders to deliver strong Q3 on resilient demand for pricey freight Reuters",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cd8c23b99107",
-   "title": "Baltic Hub expands rail capacity to 1.2 million TEU per year",
-   "original_title": "Baltic Hub expands rail capacity to 1.2 million TEU per year",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0pIRU1JeHBsUFlaamlqZmwyc0t5dUFUdDB5OE5ENDAzV05vbWJyWGVTQlEyRzYyb1hKOHNnSnB0Q3QyT1d4ZmlwVlM0MHBmQ2ZMTGtlSWt3aGxVNEdlSDRncnhkb0xoQlo0MzZBSUREa1J5VXpFM1RTS0NmdEJNUGZmNGFfVW5TbDR3N2dCcnVsdmpNRXhWS0JhQkNMZUg0YU43RjdDNmFWWnZnZHoydUNn?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-06T07:15+00:00",
-   "added": "2026-10-06T11:45+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic hub",
-    "teu"
-   ],
-   "summary": "Baltic Hub expands rail capacity to 1.2 million TEU per year RailFreight.com",
-   "why": "Freight market or carrier development affecting vessel calls and rates. Involves a Polish port.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f53d302b8850",
-   "title": "Vugar Mammadov: Azerbaijan well positioned to play connecting role in Middle Corridor",
-   "original_title": "Vugar Mammadov: Azerbaijan well positioned to play connecting role in Middle Corridor",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaU1HZEhkOEJVdEdZaG1qVGlhOGpETlZDQUxzaXNLajAyTWNPQ1Z3NFYyYUFWZ0xmQlpuVDc4WUFQYkF1aEZxY1JrSXJnSVM1eXNublNPQUpWVlpfLXU1R2g4QmQwZG1lYll0NTdfSXpVblZRSWt2QmYxbWdJVTUzalBrY2lIMUdQRE1MTFJjNmpNQ1N5QXRNejNrTzNSd1U3ZHlBRTJvTWdpQ0NBS1lFck1pb1h3Y0ZDcnlz?oc=5",
-   "source": "Apa.az",
-   "published": "2026-10-06T07:08+00:00",
-   "added": "2026-10-06T07:56+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Vugar Mammadov: Azerbaijan well positioned to play connecting role in Middle Corridor Apa.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
