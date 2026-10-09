@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T15:17+00:00",
+ "generated_at": "2026-10-09T15:39+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -121,6 +121,32 @@
    "summary_method": "extract"
   },
   {
+   "id": "a57c06fcee15",
+   "title": "[SMM Analysis] JSW Steel’s Q2 Output Recovery Meets Firmer Domestic HRC Prices and Uneven Export Demand",
+   "original_title": "[SMM Analysis] JSW Steel’s Q2 Output Recovery Meets Firmer Domestic HRC Prices and Uneven Export Demand",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZEVXQk96cUNFc2tXYjBfclBoekNvT2gwNkp0UzRjS2RQczZITFAtb09lN0lXUDA1WXRLUURsYW5MXzdQSFlXcmR5SFlGcW9TdVZIMVdPNm0zd0ZwT01ySGZfZjBvaWpnaTlFTG81SGVyMjhOaTZiYnFqYnZUM21LT3A4OWhBYnVRd2swdndXbkthdXJ2c3JhcUxuOVgyX1c2UEltN0wzOU1jV0RkWUlLTHlEaDgxdC1YaXJsblFHbXJ2SE1XVVd0aDZLQ1hPc2J4d2J3YkNwV25VangxVGY4TzNR?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-09T13:41+00:00",
+   "added": "2026-10-09T15:39+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "prices",
+    "steel"
+   ],
+   "summary": "[SMM Analysis] JSW Steel’s Q2 Output Recovery Meets Firmer Domestic HRC Prices and Uneven Export Demand Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "6228713d67e1",
    "title": "ENGIE, Port of Antwerp-Bruges and Zefier expand renewable electricity generation in the port of Zeebrugge",
    "original_title": "ENGIE, Port of Antwerp-Bruges and Zefier expand renewable electricity generation in the port of Zeebrugge",
@@ -203,6 +229,60 @@
    ],
    "summary": "DP World Receives New Electric Cranes As Santos Expansion Advances The Manila Times",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "67150aaf65dc",
+   "title": "Dragon Capital forecasts resumption of Ukraine’s seaborne grain exports in 2027 under a new grain corridor deal",
+   "original_title": "Dragon Capital forecasts resumption of Ukraine’s seaborne grain exports in 2027 under a new grain corridor deal",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSWZxLS1NSEdZMUNrbThGb2Y1b3hnSEtIWXd1THJOMFhwNWYzZlZnN2NXUkxnSUNnZlZTZEVVNF9RZ0JqcFRfVzctX2VqRkxwLUpPaVNHSHh6ZkVsTjA4RHZlQm04VTQ1V2JJZThscEdlNnZjQ0VCcjQ5Y2Z4MHFENUNYczA2Q1kwcjFXdUZuR1BIWm5YaWw4VmJHbkl4UDJBZGs4Q0hjQ3J2VHpOMjRzZ2pvQS0wSExtSW1BdEFmLXhaZUJ2cDNkcmZsUk1wSl9MVmIwVDBR0gHWAUFVX3lxTFBJZnEtLU1IR1kxQ2ttOEZvZjVveGdIS0hZd3VMck4wWHA1ZjNmVmc3Y1dSTGdJQ2dmVlNkRVU0X1FnQmpwVF9XNy1fZWpGTHAtSk9pU0dIeHpmRWxOMDhEdmVCbThVNDVXYkllOGxwR2U2dmNDRUJyNDljZngwcUQ1Q1hzMDZDWTByMVd1Rm5HUEhablhpbDhWYkduSXhQMkFkazhDSGNDcnZUek4yNHNnam9BLTBITG1JbUF0QWYteFplQnZwM2RyZmxSTXBKX0xWYjBUMFE?oc=5",
+   "source": "Latifundist.com",
+   "published": "2026-10-09T13:07+00:00",
+   "added": "2026-10-09T15:39+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "ukraine"
+   ],
+   "summary": "Dragon Capital forecasts resumption of Ukraine’s seaborne grain exports in 2027 under a new grain corridor deal Latifundist.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e8bde9d2ae0e",
+   "title": "US Freight Rates Climb as Peak Season Surcharges Hit and Port Imports Surge 50%",
+   "original_title": "US Freight Rates Climb as Peak Season Surcharges Hit and Port Imports Surge 50%",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbS10eEsxdDBoMUtMWDVMZ2x2VDhrNnVzRTdLckd2TXJjb2xYZEZOd2VFMElqZzVXbUZ2VGhDUGw4Z1dOMS15V0lITUNjcFV4RjB5cHdRajJ3bmdVNUQ0TjRkdGVmSnV1cWxNaFRja2ZCY2N5MWdiZGt1d0t6a2ZUSzNKUFBzVzNldGdEQ1AtcHlPN1MyQnZoVFE0Vmh6VVRGQV9PVA?oc=5",
+   "source": "Breakbulk.News",
+   "published": "2026-10-09T12:44+00:00",
+   "added": "2026-10-09T15:39+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "freight rate",
+    "port"
+   ],
+   "summary": "US Freight Rates Climb as Peak Season Surcharges Hit and Port Imports Surge 50% Breakbulk.News",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -1379,6 +1459,38 @@
    "summary_method": "extract"
   },
   {
+   "id": "3d444ce85783",
+   "title": "DiversifyEU: Brussels Wants to Steer Supply Chains With Tariffs",
+   "original_title": "DiversifyEU: Brussels Wants to Steer Supply Chains With Tariffs",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qWTdDaEdZM3JZM3RodDRhSTJlNEVtaUFFVG0zS2xFTl9WbWZsTjdNa3ZsOVZXRmJNWTdmNHdOYjRkNVVsTU1xX3haR2FIeEFsWXZ4d2x2bE9ZWDNMOHdyYTdQY2tmdE1zQnV5ZVR0a0R1WkVHQXR4U1djaWdndw?oc=5",
+   "source": "Steel and Stainless Steel News",
+   "published": "2026-10-09T08:46+00:00",
+   "added": "2026-10-09T15:39+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "regulation",
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "brussels",
+    "steel",
+    "supply chain",
+    "supply chains",
+    "tariff"
+   ],
+   "summary": "DiversifyEU: Brussels Wants to Steer Supply Chains With Tariffs Steel and Stainless Steel News",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "8b01dc375e28",
    "title": "4 steel stocks to buy as pullback creates a buying opportunity: UBS",
    "original_title": "4 steel stocks to buy as pullback creates a buying opportunity: UBS",
@@ -2280,6 +2392,31 @@
    ],
    "summary": "How ports can become catalysts for the blue economy India Shipping News",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3a790ee35d1b",
+   "title": "From January to August, among major steel-using industries, constructi",
+   "original_title": "From January to August, among major steel-using industries, constructi",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1FrSlZFeVV2QWFKNjBSRWlObm9KZ21IR3hrVGI4VEV5WjFDZ0hYQ2JsaXU2aHd4cjdpejVTNHpRTjd5OTN5NzZaTy1SQjVkZlZGQmtNdnVfcnVudHFjcWw1bzczSHdGS29UeFdhNHNYTmlSOUlSZUd6b1dYemg4VDJfSC14VTRpNXBULXVmTVkzUlprS1pZR2FIa0ZEZFJJTUhpaTl3?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-09T03:29+00:00",
+   "added": "2026-10-09T15:39+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "From January to August, among major steel-using industries, constructi Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16527,133 +16664,6 @@
    "summary": "John Fredriksen-backed SFL Corporation has ordered a pair of 93,000 cbm very large ammonia carriers. The vessels will carry a wide range of petrochemical gases and feature dual-fuel propulsion and the latest technology for fuel efficiency and cargo intake optimisation. Delivery is scheduled for the second quarter of 2028, and aggregate yard construction costs are expected to be approximately $216m. At the same time, the company has agreed on long-term time charters with what it describes as a European-based investment-grade oil major, adding at least $162m to its fixed-rate charter backlog. “The gas carrier project marks another accretive milestone investment for SFL, adding assets in a new segment. Including acquisitions and charter extensions announced so far this year, we have added more than $1.3bn to our fixed-rate charter backlog in 2026,” said Ole B. Hjertaker, CEO of SFL Management. Last month, the company added $750m to its contracted revenue after agreeing seven-year charter extensions with Hapag-Lloyd on six 15,400 teu containerships. The renewed fixtures will keep the six ships with the German liner through 2035-36 at fixed rates.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "77d4315a862e",
-   "title": "Offshore Crane Market: Growing Emphasis on Product Innovation",
-   "original_title": "Offshore Crane Market: Growing Emphasis on Product Innovation",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdmFuS2o3ZmtXSm9QUmVJZE9tbF9mUEFxV0taUUp0WkozaXJiY3BpTWRVUG5jRkxudm1FR2wwYlhvRTFRVDFiRGg5dWZZNnpaNWpZMnV2UDY3enRSRXNWN2N0SnpZU1NBU0VzUlhJUkUwRkxBcy0wR19CejFSaFZZZVM1QnFzQ0MwSHRNV3hlNDBxNWQ5S2tpb1RGWDQ?oc=5",
-   "source": "openPR.com",
-   "published": "2026-10-06T10:58+00:00",
-   "added": "2026-10-06T12:29+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane"
-   ],
-   "summary": "Offshore Crane Market: Growing Emphasis on Product Innovation openPR.com",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "52b5a58a71d4",
-   "title": "Danieli to upgrade Bulgaria's Stomana for compact rebar coil production",
-   "original_title": "Danieli to upgrade Bulgaria's Stomana for compact rebar coil production",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaTdsTy0teVNOX0MyUWtPb3VyR3c4NlF3N2dEZXRkclg4V05YTkVqc3h3M01KZGNHemVaREdWQ1FQamZwdThBbEdnVU9LNXdSUFc3Nm5xT1ZnOEtXTWRCZ2JORVUxSmRMa3ZrUGctMXhqazljM21HbnhBOHhZUWJFTktOVjBDQmVJOUNQQkR3dzZHaHFzc1ZjbjlQMTZLekw1dUg3NkdoMFdEU3dEV3VGTENEUWJRV2Q3eXQ1Y3djdENfQk9sUGVET0JwVW0?oc=5",
-   "source": "Steel Orbis",
-   "published": "2026-10-06T10:58+00:00",
-   "added": "2026-10-06T17:09+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "Danieli to upgrade Bulgaria's Stomana for compact rebar coil production Steel Orbis",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c3b0ce0532aa",
-   "title": "Rozbiórka już trwa, pięć ofert na nowy terminal. Lotnisko Szczecin–Goleniów przyspiesza",
-   "original_title": "Rozbiórka już trwa, pięć ofert na nowy terminal. Lotnisko Szczecin–Goleniów przyspiesza",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPX2tFamxzUjRUeFJSYWNFeGpWY0FMNWJ1Z3hKeHRpNWFDamZ3RVJBU29jVW9oMXZxRzF1OEliZ2d3VDNvQzhib2ZSRWVRT1JOOEdzcFVTSlFLaThJcXlOU1g1aXUweG8tVi05S0Y1RmNYUTN5cHdOb0VNMU9BbWZra1lBMk9fQUMwa09EZEd1UEhZODV2NGdYTWNSMFhQWUJvcVo2SmloWm9haUtrZHowZ0w0UUhPUmFMRzBOdkp1eXpWdFZNVFFv?oc=5",
-   "source": "eKoszalin",
-   "published": "2026-10-06T10:57+00:00",
-   "added": "2026-10-09T11:44+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "high",
-   "score": 8,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "szczecin",
-    "terminal"
-   ],
-   "summary": "Rozbiórka już trwa, pięć ofert na nowy terminal. Lotnisko Szczecin–Goleniów przyspiesza eKoszalin",
-   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4e53ae12caeb",
-   "title": "Różowe Vectrony Laude Smart Intermodal wjechały do Holandii",
-   "original_title": "Różowe Vectrony Laude Smart Intermodal wjechały do Holandii",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXhzRW9JYm0wMHBwa2g5U1ZCQi14ZjBBbUxKbE1Ybk1SMEdnMF9xa3R6WUpxWmJPZmpsZ2ctazl2NUtPNVRLOFZZV1pIUTB6NnZ1ZWVLQmVnalY2bGY2MUxxWXN6cW8tWDVuVTBMZnJSMlNjS1hyZGhlcFNvYmpsYlNfWmN4bVBPWGJWWGNadGMtcnVCUm5SbFFkVUtZUUVIbS1acE1qUUl2TWpDM0E?oc=5",
-   "source": "Kurier Kolejowy",
-   "published": "2026-10-06T10:55+00:00",
-   "added": "2026-10-06T11:02+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "intermodal"
-   ],
-   "summary": "Różowe Vectrony Laude Smart Intermodal wjechały do Holandii Kurier Kolejowy",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b8b818b98041",
-   "title": "Dry bulk supply to rise faster than demand in 2027",
-   "original_title": "Dry bulk supply to rise faster than demand in 2027",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04b283VEtSUXQ1YVE4M1Y3UlYzSk01NHJwUE1oVFI4cjZybmcwRXBaRXlaNng2VkNfekNwTUFxM1ZYclR4em43akhBa3ZtTHA3OUJ5OUE5M0dDeHd5LUg4c3dHMGg5RDFnS2FDcXJqR0NoM1J2aWk3MDVqU0UtTEk?oc=5",
-   "source": "safety4sea",
-   "published": "2026-10-06T10:53+00:00",
-   "added": "2026-10-06T15:03+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "dry bulk"
-   ],
-   "summary": "Dry bulk supply to rise faster than demand in 2027 safety4sea",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
   }
  ]
 }
