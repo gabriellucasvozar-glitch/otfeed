@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T16:47+00:00",
+ "generated_at": "2026-10-09T17:04+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "f82c6af6bc2b",
+   "title": "Europe gas prices ease off 2-week highs as Trump rules out pre-midterm strikes",
+   "original_title": "Europe gas prices ease off 2-week highs as Trump rules out pre-midterm strikes",
+   "url": "https://www.hellenicshippingnews.com/europe-gas-prices-ease-off-2-week-highs-as-trump-rules-out-pre-midterm-strikes/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-09T17:00+00:00",
+   "added": "2026-10-09T17:04+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe",
+    "Middle East"
+   ],
+   "tags": [
+    "futures",
+    "military",
+    "prices",
+    "ruling"
+   ],
+   "summary": "European wholesale natural gas futures paused their multi-day rally on Friday, easing off two-week highs as trading desks processed statements from U.S. President Donald Trump ruling out military strikes on Iran ahead of next month’s congressional midterm elections. The benchmark Dutch front-month contract fell 1% to trade at 78.00 euros per megawatt-hour (MWh), trimming weekly gains after flirting with the €80 threshold in previous sessions. In Great Britain, the equivalent wholesale gas contract slipped 1.0% to 193 pence per therm. Despite Friday’s minor pullback, both contracts remain on track for a second consecutive weekly advance, anchored near their highest levels in over two weeks as persistent Middle Eastern maritime security threats continue to embed a hefty risk premium into winter gas curves. The persistent maritime strikes have dashed hopes for a swift normalization of Liquefied Natural Gas (LNG) shipments through the critical maritime chokepoint, keeping war-risk insurance rates elevated and forcing tankers into lengthy, expensive reroutings around Africa. Storage lags at 73% as cooler forecasts threaten winter buildout Adding a fundamental floor under European gas bourses, meteorological models for Northwestern Europe have been revised lower, pointing to cooler autumn temperatures that threaten to accelerate the start of space-heating demand and power generation.",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "2ee74b623b19",
+   "title": "France to release 10 million barrels of diesel from emergency reserves: Lecornu",
+   "original_title": "France to release 10 million barrels of diesel from emergency reserves: Lecornu",
+   "url": "https://www.hellenicshippingnews.com/france-to-release-10-million-barrels-of-diesel-from-emergency-reserves-lecornu/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-09T17:00+00:00",
+   "added": "2026-10-09T17:04+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "diesel",
+    "prices"
+   ],
+   "summary": "France has agreed to release 10 million barrels of diesel from its emergency reserves to try and curb rising fuel prices after a G7 commitment to draw down more stocks, its Prime Minister Sebastien Lecornu announced in a national address. “Last Friday, President Macron convened an emergency meeting of the G7, which decided to mobilize strategic reserves in ⁠a coordinated manner. As part of this effort, we will make 10 million barrels of diesel from our reserves available,” Lecornu told reporters, saying the decision could shave prices at the pump by around €0.12 to €0.18 per liter. His comments follow a pledge from the International Energy Agency to try and accelerate the pace of its 400 million barrel stock release, which was announced in March but still has 100 million barrels left to complete. After mounting pressure from the US for other countries to release stocks, the G7 said its member states would prioritize getting diesel to the market within 20 days. As part of the collective action in March, France committed to release 14.6 million barrels of oil, without specifying whether those volumes would be crude or oil products. 7 note, analysts at US investment bank JP Morgan estimated that France had already released 3 million barrels of diesel, and still has around 61 million barrels in reserve.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
   {
    "id": "e849d2a2ab59",
    "title": "Murmansk emerges as an alternative to Baltic ports for Belarusian fertilizer exports",
@@ -16608,61 +16665,6 @@
     "middle corridor"
    ],
    "summary": "Middle Corridor freight traffic seen at 5.5 million tons this year Latest news from Azerbaijan",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "78a1ff7da965",
-   "title": "Azerbaijan Railways boosts efficiency to lift Middle Corridor freight",
-   "original_title": "Azerbaijan Railways boosts efficiency to lift Middle Corridor freight",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xeng0UTFmYTNSOVNtdXd0VHUzRk04elhpQkZUNVpiVnRnMkxWekpDcGg5QVB4X2JROEZBeXFyaXRsdEpNWHh2QmhpUVo0ekUwN2RUMTE1TWYzX21FXzNKN1ppRQ?oc=5",
-   "source": "trend.az",
-   "published": "2026-10-06T11:15+00:00",
-   "added": "2026-10-06T12:29+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "rail",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor",
-    "railway",
-    "railways"
-   ],
-   "summary": "Azerbaijan Railways boosts efficiency to lift Middle Corridor freight trend.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "136e02e7de28",
-   "title": "Fariz Aliyev: Middle Corridor should become a fully integrated international logistics route within 5 years",
-   "original_title": "Fariz Aliyev: Middle Corridor should become a fully integrated international logistics route within 5 years",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQlE5VkpJTklSMDJ4ZkVGeG1vN2JWaWJVeDN5ZmtEeFZQbkRJLWZscTJBWVFvaDZseERMVlpwREtyVzlFUkhLTEp5X2pvX2RTN0YzbFhJRGs5UjdUQUpTbEJUckJ1OWtweFZuY3JzdWY1aXpOZWgyLXh6LUVTSExvQzZJX2F3Y1hDb1FTaHd4MURnRVNFOTVkd013QmhuX25nYy1iT1BUWGhhVWJUMTR1NWJlcjhVSkVKQk1kWkZrdFctTkgwTHpNT0tRa0tjcFZwQVlOZFdtQ2VLd9IB3wFBVV95cUxPY2ZhRlBITnNUOTlvR2dWYnFJWGdFei1yN2swRllJRUhhTVRIX01ENWt6T3ZGUnVGMWNwZ2hvdXRCMGhuRDBfQ2Y1ZUFMYjc0WndDanBFMnN5bnk2VlA0VGRIMm44SWFRQUx0NUVCOWJxV1BEU2gzY1laazNUSjRNOWJqajZWblhGOFZDSWw2eUQzTjMyTTBnSlo2VU9qYjhXRzRMUnkwQ2dsZVdxQ2dncWRoc1dCc3lpak1sWXBTQWZZWHdnZExEZktWdFBGc0o5Q01CUEtBUGFYa2t4UV9Z?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-06T11:14+00:00",
-   "added": "2026-10-06T12:29+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "middle corridor"
-   ],
-   "summary": "Fariz Aliyev: Middle Corridor should become a fully integrated international logistics route within 5 years Report.az",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
