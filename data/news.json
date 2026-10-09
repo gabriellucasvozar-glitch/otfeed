@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T14:04+00:00",
+ "generated_at": "2026-10-09T14:31+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "c9616dc571ed",
+   "title": "Urea Prices Drop in India as China Reshapes Fertilizer Markets Across the Americas",
+   "original_title": "Urea Prices Drop in India as China Reshapes Fertilizer Markets Across the Americas",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYlQzTzUtSHotbmdCWWpZOFpOQ1g1dkNBSzhQSmZiSDlSY2E1c2phSXpYU2RVSTE5aDBPYm5lNkVuT2E5UEs2M245QV9pdEM0ekg1cnRQZEoxcEFHaDRGekhUM2JjWWNOSVFSajdVZDBBM3pFYlEteVNHa0p1Rk55bkNGRHlnQzFxekw5Mg?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-10-09T13:56+00:00",
+   "added": "2026-10-09T14:31+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "fertilizer",
+    "prices",
+    "urea"
+   ],
+   "summary": "Urea Prices Drop in India as China Reshapes Fertilizer Markets Across the Americas AgroLatam",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "6228713d67e1",
    "title": "ENGIE, Port of Antwerp-Bruges and Zefier expand renewable electricity generation in the port of Zeebrugge",
@@ -2939,6 +2968,35 @@
    ],
    "summary": "Ukraine looks outside its borders to German ports to bypass port siege Baird Maritime",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bfe0e7643b6f",
+   "title": "US sanctions 17 ships in push to shut down Iran’s shadow fleet",
+   "original_title": "US sanctions 17 ships in push to shut down Iran’s shadow fleet",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtSUlmdndidVZ5c2xpMWFKbGJybzJFbldHVEVwTHpsaTlVb1IxS2lxb09UMGNpdEZ3TEJSNFJKWWtvOExpdWI3UHNoSzRJcm8xa0E?oc=5",
+   "source": "Iran International",
+   "published": "2026-10-08T17:25+00:00",
+   "added": "2026-10-09T14:31+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Russia & Belarus",
+    "Middle East"
+   ],
+   "tags": [
+    "fleet",
+    "sanction",
+    "shadow fleet"
+   ],
+   "summary": "US sanctions 17 ships in push to shut down Iran’s shadow fleet Iran International",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16595,59 +16653,6 @@
    ],
    "summary": "Polskie porty rosną a wraz z nimi infrastruktura logistyczna CEO Magazyn",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "64f752f226c8",
-   "title": "Kazakhstan and Oman eye a new trade route to the ocean",
-   "original_title": "Kazakhstan and Oman eye a new trade route to the ocean",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFVkUnlUbTItT2dsRXdXcUtXMnlMSVE5V0FBbnlRVTFwRzBEMGdGQ0JTVV9BUzJwek51SlFEWWpzZm1ka3o4ejQ0YzdZWlpLaGNfLXhLY2xOdktDU2FsUHhDdmF0WWt4UThIUXNfN2NMSXRPVXlSUU5vRDZ4emdwVmYxdkFidHMwNElWaDc5NGlqaFFZWG1FTWJObjk?oc=5",
-   "source": "DKNews.kz",
-   "published": "2026-10-06T10:19+00:00",
-   "added": "2026-10-09T07:43+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "trade route"
-   ],
-   "summary": "Kazakhstan and Oman eye a new trade route to the ocean DKNews.kz",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a4d88142b0e4",
-   "title": "| $5,059 freight gap meets tariffs: What really decides Asian sourcing?",
-   "original_title": "| $5,059 freight gap meets tariffs: What really decides Asian sourcing?",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNeU5IbXpCdk1fMUN5eGkzTDNpbElZc3BrWlVSYTk0VUJFb19qX3hiUmloR3VsX19vSHEzaDliVmFDYnJoVlNYcDZ4bTY5ckFpbVJWME9TZWdZbkc1RGMxSUdNM0lXNzBuT2M5emZuZlRmZjZBX19lNmVLVXNoRTRic0V5eFZzYUV0UnNWbVkzZmlkQi1jcTFwUE1Ua21aYnU2cEZ3T1V3MTlPd1J1eEM4RTFnLWMxN3FLZjhiMURVLWcwZTFmNFV5RFBYYzNlU2ozRDBaYUVIZEkweWJ1X1cxM2o0V1JNRlExcGJRMnYyaGQ?oc=5",
-   "source": "Fibre2Fashion",
-   "published": "2026-10-06T10:17+00:00",
-   "added": "2026-10-06T11:24+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "sourcing",
-    "tariff"
-   ],
-   "summary": "| $5,059 freight gap meets tariffs: What really decides Asian sourcing? Fibre2Fashion",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   }
  ]
