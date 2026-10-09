@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T18:52+00:00",
+ "generated_at": "2026-10-09T19:10+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -1803,6 +1803,36 @@
    "summary": "Odfjell-family-linked Larine Tankers has reportedly sold its two LR1 product tankers to UAE interests for a combined $110m, clearing out its existing fleet amid strong secondhand tanker prices. Shipbrokers have identified the vessels as the 2016-built Bluebird and Starling , both constructed at China’s New Times Shipbuilding. Splash understands the pair has changed hands for approximately $55m apiece. Fleet databases identify Larine Tankers as the registered owner of both Singapore-flagged 74,000 dwt vessels and list no other ships under the company. The vessels have been commercially employed in Hafnia’s LR1 pool since February 2017. Earlier this month, Belgian owner Transpetrol was linked to the $73m sale of its 2016-built aframax TP Affinity to Turkish buyers. Scorpio Tankers has meanwhile agreed to dispose of three older product tankers for a combined $180.5m as it presses ahead with its fleet renewal programme. Larine is tied to the private shipping interests of the Odfjell family. Marianne Odfjell has longstanding links to the Larine investment structure, while Norwegian company records identify Larine Tankers Holding as part of the wider ownership chain.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "f85bc104b814",
+   "title": "German logistics group Rhenus plans up to 14 terminals along the Middle Corridor",
+   "original_title": "German logistics group Rhenus plans up to 14 terminals along the Middle Corridor",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXAza0IzS25nT0dUZjl5WEpDSXdESHRhckxkOFZLeTFDZHRGbUsxQ19FY1dFb2hNM1cySHNZV3l5amxYd1liRHRYUi1PZ24xSFpaRXJKU0JwRVd6Z3RiSTdfMjV2TDFlMU1jcWVSaGptTDhxZEw5S3dHTGJLMl8zbnk0QW1OV0hVR1k0RHhPczU5TFRsNFNFMw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-09T09:35+00:00",
+   "added": "2026-10-09T19:10+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "logistics",
+    "middle corridor",
+    "terminal"
+   ],
+   "summary": "German logistics group Rhenus plans up to 14 terminals along the Middle Corridor Yahoo Finance",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
   },
   {
    "id": "f6e8488fc7f2",
@@ -7677,6 +7707,32 @@
    ],
    "summary": "Middle East Shipping Faces New Risks as Houthi Attacks Hit Aden, Tanker Strikes Surge in Hormuz International Business Times, Singapore Edition",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "65e72f51dd4f",
+   "title": "Ukrainian Railways will reallocate €130 million from an EBRD loan to support liquidity",
+   "original_title": "Ukrainian Railways will reallocate €130 million from an EBRD loan to support liquidity",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMEczb09YZElQQnh0OEFlQW04QnNwVHZZMVVBQXR4NVZkSExYa0d0ejV6NnE1c2RxUWplM25TOEtDUEhOR1M1Tjhvb1hfZmV0cU9OREwyMFZud19tU0xLS256ZXpLQ3lNbzRadnE0UzJDRTRlZmY3cWpsNVN1b0Q2NXVzMWV5VWsxMDYwUFhhVXEzR0JNNUpfTGRHYzhNQmljQWNZRlRoQy1FZERzWDAwTXlXaFdCWHVzQlHSAboBQVVfeXFMTTBHM29PWGRJUEJ4dDhBZUFtOEJzcFR2WTFVQUF0eDVWZEhMWGtHdHo1ejZxNXNkcVFqZTNuUzhLQ1BITkdTNU44b29YX2ZldHFPTkRMMjBWbndfbVNMS0tuemV6S0N5TW80WnZxNFMyQ0U0ZWZmN3FqbDVTdW9ENjV1czFleVVrMTA2MFBYYVVxM0dCTTVKX0xkR2M4TUJpY0FjWUZUaEMtRWREc1gwME15V2hXQlh1c0JR?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-08T04:42+00:00",
+   "added": "2026-10-09T19:10+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "railway",
+    "railways"
+   ],
+   "summary": "Ukrainian Railways will reallocate €130 million from an EBRD loan to support liquidity GMK Center",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -16626,61 +16682,6 @@
    ],
    "summary": "Sanctions Relief Returns Belarusian Potash to US Ports as Prices Fall Crux Investor",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "33fd4ff82c4c",
-   "title": "EU steel import quotas rapidly exhausted in opening days of Q4 period",
-   "original_title": "EU steel import quotas rapidly exhausted in opening days of Q4 period",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaFBXNG5rY3ZyVk4xVFpaSXJxLVRocF93dGFhU1FIVWViamZBNnhoX3ZPd2EwM2c0N0pzQjNXX0xwZkNtZU1zR3R2WFpoNFhTb0tUd24xeE90dHJSanFYS3cwa1JzdTJvcFBvVlY1a09BUEpRSktXYXNhNDlvMzFYR005YWx5YzdZeDVkY1VrWWFzQ0p0dDBB?oc=5",
-   "source": "EUROMETAL",
-   "published": "2026-10-06T11:48+00:00",
-   "added": "2026-10-06T12:54+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 7,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "quota",
-    "steel"
-   ],
-   "summary": "EU steel import quotas rapidly exhausted in opening days of Q4 period EUROMETAL",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "20e79b72d513",
-   "title": "Azerbaijan seeks to attract European and Chinese operators to develop Baku Port",
-   "original_title": "Azerbaijan seeks to attract European and Chinese operators to develop Baku Port",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVNRZGlCb3JGVi1mbTVLa1hEMzRZaGNsWWhNdFhjVFU4dWxmTVV2alF1VEd4X21pNVI2UHozVjh6YlZhS0dFSlREaEdQU0lEVjVJLS1neDEwSVNNUDBQUFgxRWRiaVBXRkVfVWJfakNLMTcwUFdtVW1rNmZObGRJbnl3bklxamd2UmE0eld4RVRLQUFkWEh0d1h4ajBLWncwdXNGNHUxdkRiS3hGelUzcVU2c0pIQy1maWRJ0gG7AUFVX3lxTE8tU1FkaUJvckZWLWZtNUtrWEQzNFloY2xZaE10WGNUVTh1bGZNVXZqUXVUR3hfbWk1UjZQejNWOHpiVmFLR0VKVERoR1BTSURWNUktLWd4MTBJU01QMFBQWDFFZGJpUFdGRV9VYl9qQ0sxNzBQV21VbWs2Zk5sZElueXduSXFqZ3ZSYTR6V3hFVEtBQWRYSHR3WHhqMEtadzB1c0Y0dTF2RGJLeEZ6VTNxVTZzSkhDLWZpZEk?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-06T11:43+00:00",
-   "added": "2026-10-07T08:12+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "port"
-   ],
-   "summary": "Azerbaijan seeks to attract European and Chinese operators to develop Baku Port Report.az",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
