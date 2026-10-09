@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T12:01+00:00",
+ "generated_at": "2026-10-09T12:29+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,94 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b0e630053096",
+   "title": "Post-peak spot rates tumble as ocean carriers eye price increases",
+   "original_title": "Post-peak spot rates tumble as ocean carriers eye price increases",
+   "url": "https://theloadstar.com/post-peak-spot-rates-tumble-as-ocean-carriers-eye-price-increases/",
+   "source": "The Loadstar",
+   "published": "2026-10-09T12:25+00:00",
+   "added": "2026-10-09T12:29+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia",
+    "North America"
+   ],
+   "tags": [
+    "carrier",
+    "china",
+    "forwarder"
+   ],
+   "summary": "China’s Golden Week holiday appears to have marked the end of the protracted transpacific peak season, as container freight spot rates out of Asia to the US declined this week. According to Drewry’s World Container Index (WCI), the spot rate on its Shanghai-Los Angeles route declined 3% week on week, to finish at $7,624 per 40ft, while the Shanghai-New York leg was down 2%, to $10,220 per 40ft. US west coast forwarder Freight Right said the market had, basically, been static over the past week due to the holiday in China. Meanwhile, spot rates on the Asia-Europe routes fell for the 13th consecutive week as contracting season gets under way, potentially putting shippers and their forwarders in a stronger negotiating position than they have seen this year. “For European shippers, tender season is in full force, and falling short-term rates are a welcome development as they negotiate long-term contracts, because they also benchmark against the short-term market,” said Peter Sand, Xeneta’s chief analyst. According to this week’s XSI by Xeneta, the Far East-North Europe spot rate fell 2.5% on the previous week, to end at $3,645 per 40ft, while the XSI’s Far East-Mediterranean route was down 5.9% week on week, to end at $4,007 per 40ft.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "40010254092c",
+   "title": "Freightmate admits using Flexport docs as AI trade secrets case settles",
+   "original_title": "Freightmate admits using Flexport docs as AI trade secrets case settles",
+   "url": "https://theloadstar.com/freightmate-admits-using-flexport-docs-as-ai-trade-secrets-case-settles/",
+   "source": "The Loadstar",
+   "published": "2026-10-09T12:16+00:00",
+   "added": "2026-10-09T12:29+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "court",
+    "logistics",
+    "ruling",
+    "shipping"
+   ],
+   "summary": "Freight-tech start-up Freightmate has acknowledged acquiring and using confidential Flexport shipping documents, as a settlement brings to an end a closely watched trade secrets dispute that has raised questions about the ownership of data used to develop AI-powered logistics software. The settlement, approved by a California federal court yesterday, follows a ruling that Freightmate and its founders failed to preserve electronic evidence relevant to the case, prejudicing Flexport’s ability to pursue its claims. However, the judge found that Flexport had not proved that the defendants deliberately destroyed evidence with the intention of preventing its use in litigation. Under the stipulated judgment, Freightmate and co-founders Bryan Lacaillade and Yingwei (Jason) Zhao acknowledge acquiring and using some of approximately 2,000 confidential Flexport shipping documents. They also reveal that Freightmate had secured a $650,000 investment in May 2024, while Mr Zhao was still employed by Flexport and had already become a Freightmate shareholder, director, and officer. In a December 2023 message, Mr Lacaillade warned colleagues, “We cannot use Flexport resources for anything as we build this out based on our offer letter”, and urged them to compare their contracts and seek legal advice to avoid being sued.",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "aedda754455a",
+   "title": "Baltic Dry Index falls to 2917 down 56 points",
+   "original_title": "Baltic Dry Index falls to 2917 down 56 points",
+   "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2917-down-56-points/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-09T12:00+00:00",
+   "added": "2026-10-09T12:29+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 14,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "coal",
+    "grain",
+    "iron ore",
+    "prices"
+   ],
+   "summary": "Today, Friday, October 9 2026, the Baltic Dry Index decreased by 21 points, reaching 2973 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore. The index is based on a daily survey of agents all over the world. Baltic Dry hit a temporary peak on May 20, 2008, when the index hit 11,793. The lowest level ever reached was on Wednesday the 10th of February 2016, when the index dropped to 290 points.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
   {
    "id": "f21251c0e365",
    "title": "Saudi disruption squeezes air cargo capacity as peak looms",
@@ -1211,6 +1299,31 @@
    ],
    "summary": "Spain is allocating over EUR 1 billion to rail links for ports Railway PRO",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2f27fdcaaba0",
+   "title": "Rail Capacity Broker: “An entirely new approach to making rail freight capacity accessible”",
+   "original_title": "Rail Capacity Broker: “An entirely new approach to making rail freight capacity accessible”",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUUtfNnJvRlVhWEhCd28xZXJSWUpHUUIyekEwbzRtdDhxSHVKVTNCMGp4Wm1mckdzN2dNMzJYNmhHVDF2Q0RRdU1iNVowVl82aW51QXlFeHIxVktMNHJzYXdwOElfTFZZZzZmNnY5MmYtU2ROa1VKR21DLUtSSnN3cElpNElMRmNiSE9iMkg4UmxDTjd1VUEtLW1QdGRaX2JzaHdTckp1cGZrSVZTM2Q1V1ZlUlplVU9rU3ZQdG1hSmpBb3dKRDZ5QjIzT0lDemdRRXprZVgzQQ?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-09T07:31+00:00",
+   "added": "2026-10-09T12:29+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "rail freight"
+   ],
+   "summary": "Rail Capacity Broker: “An entirely new approach to making rail freight capacity accessible” RailFreight.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -16546,116 +16659,6 @@
    ],
    "summary": "At least two tankers have been struck in the Strait of Hormuz in the past 24 hours, the United Kingdom Maritime Trade Operations (UKMTO) said on Monday, adding that a third vessel avoided being hit after complying with instructions from Iran’s Islamic Revolutionary Guard Corps (IRGC). The British navy monitor said it received “a time-late report of an incident within the Strait of Hormuz” in which a “verified source” reported that “a crude oil tanker has been struck by unknown projectiles,” adding that “authorities are investigating.” In a second statement published minutes later, UKMTO said it had received another delayed report, citing a “verified source” as saying that a liquefied petroleum gas (LPG) tanker “transiting inbound has been struck by an unknown projectile.” “Vessels are advised to transit with caution and report any suspicious activity to UKMTO,” the agency said. A third incident was also recorded 11 nautical miles north of Khasab, in Oman’s northern Musandam governorate, UKMTO relayed, detailing that “a tanker transiting the Strait of Hormuz inbound was hailed by the IRGC and instructed to turn back or the vessel would be targeted.” “The Master of the tanker has confirmed that they have complied with the instruction,” the monitor said.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a5599b5b5c6f",
-   "title": "Korea pushes SMR ship lead as outdated rules spur global standards race",
-   "original_title": "Korea pushes SMR ship lead as outdated rules spur global standards race",
-   "url": "https://www.hellenicshippingnews.com/korea-pushes-smr-ship-lead-as-outdated-rules-spur-global-standards-race/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-06T10:00+00:00",
-   "added": "2026-10-06T10:47+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "regulation",
-    "vessel"
-   ],
-   "summary": "As Korea’s shipbuilding industry accelerates development of vessels equipped with small modular reactors (SMRs), calls are growing for the creation of international rules. Existing nuclear safety regulations focus on land-based nuclear power plants, and maritime regulations focus on conventional ships, leaving a gap for “ships carrying reactors,” where standards to apply are not fully established. With the offshore SMR market preparing for commercial use, leading the formation of international standards and rules—no less than technology development—is seen as a factor that will determine future market competitiveness. For ships carrying next-generation SMRs to call at ports around the world, standards are needed that cover not only reactor safety but also maritime accidents such as collisions and groundings, port entry, and emergency response. International liability rules for damages in the event of an accident involving a nuclear-powered ship are also not functioning properly. IMO and International Atomic Energy Agency (IAEA) standards on port entry conditions were last revised in 1968. The Korea Atomic Energy Research Institute (KAERI) and Samsung Heavy Industries are developing a 174,000-cubic-meter LNG carrier based on a marine MSR, and HD Korea Shipbuilding & Offshore Engineering has designed a nuclear-powered container ship equipped with an SMR, winning approval in principle from DNV in Oct.",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "f051620e539e",
-   "title": "The Commodities Feed: Oil supported by geopolitical risks despite supply gains",
-   "original_title": "The Commodities Feed: Oil supported by geopolitical risks despite supply gains",
-   "url": "https://www.hellenicshippingnews.com/the-commodities-feed-oil-supported-by-geopolitical-risks-despite-supply-gains/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-06T10:00+00:00",
-   "added": "2026-10-06T10:47+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "commodit",
-    "disruption",
-    "prices"
-   ],
-   "summary": "Energy — Persian Gulf supply increases While there are growing signs of a recovery in oil flows from the Persian Gulf, the market remains nervous about potential supply disruptions from the region. This is keeping prices well-supported for now. This nervousness is likely to persist until there are signs of progress in a deal between the US and Iran. Kuwait said that it is producing at 75% of pre-war levels, while the Saudis also cut the official selling price of their Arab Light into Asia for November loadings, a sign of an improving supply picture. This is down from 83% at the same stage last year, and below the 5-year average of 88%. However, gains may remain capped by elevated Treasury yields, persistent inflation concerns and a firmer US dollar. The rally is being driven by mounting concerns over tightening global supplies as adverse weather conditions threaten production across key producing regions. In India, below-normal monsoon rainfall has lowered production forecasts, while European sugar beet yields are expected to be 11% below the five-year average. Data from Ukraine’s Agriculture Ministry shows that grain and legume exports so far in the 2026/27 harvest season fell 26% year-on-year to 5.4mt as of 5 October.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "40e42baaf647",
-   "title": "Exmar confirms lucrative suezmax resale",
-   "original_title": "Exmar confirms lucrative suezmax resale",
-   "url": "https://splash247.com/exmar-confirms-lucrative-suezmax-resale/",
-   "source": "Splash247",
-   "published": "2026-10-06T10:00+00:00",
-   "added": "2026-10-06T10:01+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "shipping",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe",
-    "Asia"
-   ],
-   "tags": [
-    "sale of",
-    "vessel"
-   ],
-   "summary": "Belgium’s Exmar has confirmed the sale of the first suezmax in its four-ship newbuilding programme at South Korea’s DH Shipbuilding, crystallising a profit of around $22m on the transaction. The Antwerp-listed company said it has signed an agreement to sell the first tanker under construction, with the vessel to pass to its buyer simultaneously with delivery from the yard in the third quarter of 2027. Exmar did not disclose either the buyer or sale price. Greek shipping and financial sources previously identified Evangelos Marinakis-led Capital Group as the buyer of the 157,000 dwt hull HN5112, with the resale priced at more than $106m. The $22m gain disclosed by Exmar is broadly consistent with those market numbers. Exmar ordered four scrubber-fitted, 157,200 dwt suezmaxes at DH Shipbuilding in September 2025 in the Belgian gas shipping specialist’s first move into crude tanker ownership. Exmar’s 2025 accounts subsequently showed $309.4m of remaining capital commitments attached to the suezmax programme at year-end. Deliveries were scheduled to start in the third quarter of 2027 and run through October 2028. The resale comes against a sharp run-up in suezmax values and earnings, with prompt tonnage commanding significant premiums to later-delivery newbuildings.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "8da8324d5193",
-   "title": "LNG shipping stocks: Negative figures, positive impression",
-   "original_title": "LNG shipping stocks: Negative figures, positive impression",
-   "url": "https://www.hellenicshippingnews.com/lng-shipping-stocks-negative-figures-positive-impression/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-06T10:00+00:00",
-   "added": "2026-10-06T10:47+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "lng",
-    "shipping"
-   ],
-   "summary": "The UP World LNG Shipping Index fell for a third straight week, losing 4.84 points (2.08%) to close at 228.04. The headline tells only part of the story: breadth was almost even at 10:11, the median move was just −0.81%, and the weighted index (wUPI) actually rose by around 2% — the decline was concentrated in a few heavily weighted losers rather than across the board, and supporting indicators point to a correction within the uptrend. Volume was well below average. UPI & SPX The UP World LNG Shipping Index, which tracks 21 listed LNG shipping companies, lost 4.84 points (2.08%), closing at 228.04 points, while the S&P 500 index lost 0.27%. Week 40-2026: Chart of the UP World LNG Shipping Index with S&P 500 (Source: UP-Indices) Broader View The UPI has declined for the third week running. Dynagas LNG Partners (NYSE: DLNG) rose by 5.9 per cent, though the trend here is sideways. Three companies recorded gains of more than one per cent: BP (NYSE: BP; +1.45 per cent), Flex LNG (NYSE: FLNG; +1.17 per cent) and Chevron (NYSE: CVX; +1.1 per cent). MISC (KLSE: 3816; -4.08 per cent) and COSCO Shipping Energy Transportation (SS: 600026; -3.93 per cent) fell by around four per cent.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
  ]
