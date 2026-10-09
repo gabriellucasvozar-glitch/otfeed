@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T08:27+00:00",
+ "generated_at": "2026-10-09T08:51+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,59 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "c1f65cb01320",
+   "title": "CMB.Tech launches first ammonia-powered dry bulk vessel",
+   "original_title": "CMB.Tech launches first ammonia-powered dry bulk vessel",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTEpudzR4QkxfbXFab0hDX0lrQ0Z6X3BDSjdBRDdfN0dEMFNOTzV0Z0RIMW1sQlFrMDRDVzJHSUl6RF9YZUhySWpNUUpxbktsaGsxczNaOHlJSUladkZVYmNDT1BCQjhBOGZvQkVldl9ORERiaEVsMWYxc01UWENSa3BNWE9JaHFNR3FuVEo5UXU4eFJ3SFlXbkpWblZCU19aR09mWXh3?oc=5",
+   "source": "gasworld",
+   "published": "2026-10-09T08:48+00:00",
+   "added": "2026-10-09T08:51+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia",
+    "dry bulk",
+    "vessel"
+   ],
+   "summary": "CMB.Tech launches first ammonia-powered dry bulk vessel gasworld",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8b01dc375e28",
+   "title": "4 steel stocks to buy as pullback creates a buying opportunity: UBS",
+   "original_title": "4 steel stocks to buy as pullback creates a buying opportunity: UBS",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMFpIQXFzY3VyQ3lWZkVZeHhJWW5RWWhMWS0yOFBGM3JxMjdnWXpLcFBXdnd5MVRPb0lOTjNSUGQ3LVF2cW1MTkRacXlPTGFoUzRsSXF4VGxSQUJHMFlmeWdBOWEzTThINTVBSTN1b016NGZEYUdFaW45dElJRkhic2lFMDJ6emVCT0k1eUl1UHhPVXN4MTFGaTBISXdMc0FlVWNQekxfSGhrUlNnd2FQaE9xUXNrU194MFZvMXctUkM?oc=5",
+   "source": "Investing.com",
+   "published": "2026-10-09T08:38+00:00",
+   "added": "2026-10-09T08:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "4 steel stocks to buy as pullback creates a buying opportunity: UBS Investing.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "459dcb7a9330",
    "title": "CargoBeamer increases its service to 22 weekly train services between Germany and Italy",
@@ -97,6 +150,65 @@
    "summary_method": "feed"
   },
   {
+   "id": "1bf52f531e4b",
+   "title": "[India Domestic] India’s domestic steel and scrap prices mostly declin",
+   "original_title": "[India Domestic] India’s domestic steel and scrap prices mostly declin",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmRYclBJTmxKMlZSNVNpRVlUOE42ZmllZG5raGRrLTlySFU0VU1IYThfSGZVQWMycEpfTFRZMUtVM2Y3bVdCcWdHaGhJaFpUT3Rsa2E2N3laSW1ZNEY2V0xzcy1UZEV5UkM1Yi1YUGlZQjN2QjBjcGVkbkdyNDl3R2Q4aEE0VTJKb2JOdFVEcnVMcHpnTzR2OW5Tb1ZOaFVlZ0ZTcjhn?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-09T07:54+00:00",
+   "added": "2026-10-09T08:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "prices",
+    "scrap",
+    "steel"
+   ],
+   "summary": "[India Domestic] India’s domestic steel and scrap prices mostly declin Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5253f6ce5faa",
+   "title": "Splash Wrap: Drones, driverless trains and the future of shipping",
+   "original_title": "Splash Wrap: Drones, driverless trains and the future of shipping",
+   "url": "https://splash247.com/splash-wrap-drones-driverless-trains-and-the-future-of-shipping/",
+   "source": "Splash247",
+   "published": "2026-10-09T07:52+00:00",
+   "added": "2026-10-09T08:51+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "drone",
+    "shipping",
+    "vessel",
+    "war"
+   ],
+   "summary": "Maritime war spread far and wide in the Black Sea and the Middle East this week, attacks increasing both in number and geographical scope. This week’s Maritime CEO interview was Bing Hou, who after four decades at sea and ashore, has developed ShipGod AI , which he described as an offline-first workspace giving each vessel its own digital environment and AI assistant. “The turning point for me was watching how much time good officers spend managing documents instead of being officers, and how much of what they know is never captured for the next crew,” Hou said. Over at Splash Ports , this week’s CEO interview was with Beth Branch, president and chief executive of the Port New Orleans . Also of interest in this week’s ports coverage, while driverless trucks are becoming a common sight at terminals around the world, there’s also a growing band of pioneers developing autonomous freight trains to move containers beyond a port’s perimeter, something Splash Ports took an in-depth look into yesterday. And in big tech news for the container sector, HD Hyundai has just delivered what it says is the world’s first containership designed to eliminate manual lashing .",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
    "id": "cd8fb1babdf7",
    "title": "Spain is allocating over EUR 1 billion to rail links for ports",
    "original_title": "Spain is allocating over EUR 1 billion to rail links for ports",
@@ -177,6 +289,33 @@
    ],
    "summary": "How MMI is keeping Dubai’s bars stocked as shipping disruption drives up costs Caterer Middle East",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "94f18158514e",
+   "title": "Boyan Rashev: Remove quotas for coal-fired power plants to have cheap electricity in winter",
+   "original_title": "Boyan Rashev: Remove quotas for coal-fired power plants to have cheap electricity in winter",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeWRZYzVrV3Exc1E2em55OGhNdGlfYjlQOXFaRmR0WUo4bWt0QmtzM0huSXpMUmhrNTIySmxiTVExNDZINjgxbVdwSG00X1Fod3RMNVo2Y2d3ZGk1ay1CaENZdDktT05aMm5yUU11ZXlSZi1CUGZKN3p2a0szQmxpamU1UG50LUFhRzdIT05sR2xBSnVSakZoQWM1cE1lM2dBNHk3dXh0RndDTXlNTWJ0ZnZyNEV3SV9HTUIwNWFqazJCQ0k?oc=5",
+   "source": "Fakti.bg",
+   "published": "2026-10-09T07:01+00:00",
+   "added": "2026-10-09T08:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "coal",
+    "quota"
+   ],
+   "summary": "Boyan Rashev: Remove quotas for coal-fired power plants to have cheap electricity in winter Fakti.bg",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -270,6 +409,36 @@
    "summary": "Europe Faces Prolonged Diesel Price Pressure Despite Fall in Oil Prices EU Today",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
+  },
+  {
+   "id": "6035cb854d28",
+   "title": "Hapag-Lloyd exits MSC and ONE Asia–South America pact",
+   "original_title": "Hapag-Lloyd exits MSC and ONE Asia–South America pact",
+   "url": "https://splash247.com/hapag-lloyd-exits-msc-and-one-asia-south-america-pact/",
+   "source": "Splash247",
+   "published": "2026-10-09T06:04+00:00",
+   "added": "2026-10-09T08:51+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "mna"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia",
+    "Latin America"
+   ],
+   "tags": [
+    "carrier",
+    "restructuring",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Mediterranean Shipping Co (MSC) and Ocean Network Express are restructuring their vessel-sharing partnership between Asia and South America’s east coast, with Hapag-Lloyd dropping out of the existing three-carrier arrangement. MSC said that the current agreement covering the Ipanema service would end in its present form, leaving the Swiss carrier and Singapore-based ONE to operate the weekly service jointly. The first sailing under the revised agreement is scheduled to depart Shanghai on April 3, 2027. MSC will contribute additional ships to replace capacity associated with Hapag-Lloyd’s departure. ONE confirmed that it would continue operating the trade under its East Coast South America Express 1, or SX1, brand, maintaining weekly sailings between major Asian export centres and South America’s principal container gateways. The revised service will connect Shanghai, Ningbo, Shekou, Hong Kong and Singapore with Brazilian ports including Santos, Paranaguá, Navegantes and Rio Grande, as well as Montevideo and Buenos Aires.ONE said the final rotation remains subject to further operational review. The move ends a longstanding three-way cooperation on the route. MSC, ONE and Hapag-Lloyd expanded their Asia–South America east coast partnership in late 2018, with ONE adding weekly services to broaden coverage between the two regions. The latest restructuring leaves MSC and ONE continuing their cooperation while Hapag-Lloyd withdraws from the vessel-sharing arrangement.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "85300ea9b7a7",
@@ -1042,6 +1211,34 @@
    "summary": "India’s Gujarat State Petroleum Corp. has issued JKM-linked tenders for the first time to buy LNG cargoes for delivery into India from April 2027, a source with direct knowledge of the matter said Oct. 6. One of the tenders seeks two cargoes for delivery in April and September 2027. The other one seeks one cargo every month from April 2027 to March 2028. GSPC did not immediately reply to a query from Platts, part of S&P Global Energy, about the tender details Oct. Cargoes under both tenders are sized at 3.2 trillion-3.4 trillion British thermal units, each with a 5% operational tolerance, and the seller is to nominate a 10-day delivery window. 21-30 delivery LNG cargo at a JKM-linked price, also for the first time. GSPC previously bought three spot cargoes via tender in August and two in September, all on a fixed-price basis as prices rallied from the low-$20s/MMBtu to near $29/MMBtu.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
+  },
+  {
+   "id": "14bd55e52fee",
+   "title": "Corn, Soybeans and Wheat Face Tighter Supplies and Market Uncertainty",
+   "original_title": "Corn, Soybeans and Wheat Face Tighter Supplies and Market Uncertainty",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2N4MVdieVo0MUZLd3Jyd1YzbUdQR2ZsSGxGZjdkOTMzUGpwVFNSYXdtakktMGhfalFCdUQ4T2FWakZZZ0p5S1ZsdXhzVjBwVVJyOFB6eGtRdEtLQ3JfZjdhV1lvajJNVzFzNlVReXFCd3F3TmNNcXBoaXNRckVydWk2a0RFam1rMWtuRlBjRGtoTTgzYVNIMGZrMHRVeDE1eEp3RkkycjVDOGdHQm9qdDZDOA?oc=5",
+   "source": "Grain Journal",
+   "published": "2026-10-08T20:56+00:00",
+   "added": "2026-10-09T08:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "corn",
+    "grain",
+    "soybean",
+    "wheat"
+   ],
+   "summary": "Corn, Soybeans and Wheat Face Tighter Supplies and Market Uncertainty Grain Journal",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "0980692c0216",
@@ -15922,6 +16119,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "c8e4184e8a1a",
+   "title": "Commodity markets: Supply is under pressure, wheat and coffee both rise for the third consecutive session.",
+   "original_title": "Commodity markets: Supply is under pressure, wheat and coffee both rise for the third consecutive session.",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXBrTmxVWlpuX1YwTWVHWUQ3NGN3Wk1qcEI2dVJTQmxLRnBvcENuSkYwZ1c1clpjbjlQajYwNGVjdlk4QXI4NDdJVlFROFRKSi1oNkM2RjFEcXZFSUlJYXZlSE5VQXVVdW1YRHQ0S2QyLXZtaGxYZlJ6bFFDbURibElxaXBVMmxFZkRvZnozYUhudHp6T3kwNVp4eWhseUdUa213NjVGbkJmcnZqRU1FNDh6M0FZeUY4?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-06T07:59+00:00",
+   "added": "2026-10-09T08:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "commodit",
+    "wheat"
+   ],
+   "summary": "Commodity markets: Supply is under pressure, wheat and coffee both rise for the third consecutive session. Vietnam.vn",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "0e8d3777eee0",
    "title": "Tanker attacks around Hormuz hit wartime high",
    "original_title": "Tanker attacks around Hormuz hit wartime high",
@@ -16423,217 +16646,6 @@
     "shipping"
    ],
    "summary": "Trump extends Jones Act waiver with limits in bid to tamp down energy prices Shipping Telegraph",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "04adc7d06149",
-   "title": "Panama Canal extends long-term slot system to panamax locks",
-   "original_title": "Panama Canal extends long-term slot system to panamax locks",
-   "url": "https://splash247.com/panama-canal-extends-long-term-slot-system-to-panamax-locks/",
-   "source": "Splash247",
-   "published": "2026-10-06T06:56+00:00",
-   "added": "2026-10-06T07:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "panamax"
-   ],
-   "summary": "The Panama Canal is extending its long-term slot allocation programme to the Panamax locks for the first time as it looks to give more customers greater certainty through the coming dry season. The new Long-term Slot Allocation, or LoTSA, phase will cover January 3 to April 3, 2027, with the established neopanamax system running alongside a new panamax pilot. For neopanamax vessels, 36 packages covering 270 slots will be offered, split between 165 northbound and 105 southbound passages. The panamax pilot will offer 51 packages and 288 slots, evenly spread at roughly three transits per day. The move builds on a system first introduced for the larger locks in 2024, when the Panama Canal Authority began offering blocks of future reservations to customers seeking greater scheduling certainty after the severe 2023-24 drought. Splash reported in May that neopanamax auction prices had surged to as much as $4m as Middle East disruption redirected more US energy cargoes through Panama. By August, one LPG carrier had paid a record $5.3m for priority passage as deteriorating water conditions and strong demand squeezed capacity. The canal subsequently cut daily booking capacity to 32 ships and tightened draft limits as rainfall disappointed, before recent rains allowed some restrictions to be eased again.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "1972bddb440b",
-   "title": "The UK's scrap gap",
-   "original_title": "The UK's scrap gap",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OMFdQN1VYSWhMbE5CcmZCN3ZZS19saWM1cm00N1JaQkZVQWtfUGt2NDhRaG9PUFcwQzN5aUphTS1FSVRsczIxY25BeUV2OGwtcHVpWmZoamhSWmxmS2Vldw?oc=5",
-   "source": "Energy & Climate Intelligence Unit | ECIU",
-   "published": "2026-10-06T06:53+00:00",
-   "added": "2026-10-06T07:37+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "scrap"
-   ],
-   "summary": "The UK's scrap gap Energy & Climate Intelligence Unit | ECIU",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6815d103a72f",
-   "title": "Russia says it hit cargo vessel, infrastructure in Ukrainian Black Sea ports overnight",
-   "original_title": "Russia says it hit cargo vessel, infrastructure in Ukrainian Black Sea ports overnight",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZXBDY01oWG5RQVU3eFJCbUllNnY1MW9jaGE4LUdRU0lmb3dhRjdneXI3V01sVDZCRE9XRVpjbmR2X2pTRUhJeS04TEkwZFhhSTNDSklCVnRqWDNrY0owVEl0bjQzMUJ6a2t3NXFnM2tVSFFOSTVJaVlyeFREVUktMTdKQUYwTW1YRTZMUl9oNjV5V0lsZEtvZmRZa3p2TXlxeUwxX19lNklwM18tbzBXNnU2VnpLZmJoTDlRR3JfME12NS1jYWdxUUpZdXc3N2lxWFQzWTd4Z2JLLWtZ0gHiAUFVX3lxTE9Wci1iMGxtVVdWV0pBSVFwbl8taGlJR2Z3MXNpRzVJOXVTSXNCckZIT29ZTEJjWDZNTGF5RVhuTnY5b2NvbWx3R29yYXJUeDhCSlFaOWVlcm9jZW9FNktOd1hjcDRpT2dHUVgxQ2J4U3lnaDBoNHBkZ2xCWHdPcW52REtaM1NnWGdpNFpaeGRsOTRQRUM3YWRPdXI3d1hBT2w3dU9nSFc2MDAyRU5scXhsOXpaNFZDVlAybnBQcTU3c3pySHAzVmdQSllBa2ZaV2xuN2d1NDhDYlotVXF3WkpWQ3c?oc=5",
-   "source": "Devdiscourse",
-   "published": "2026-10-06T06:48+00:00",
-   "added": "2026-10-08T04:31+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "ports",
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "black sea",
-    "port",
-    "ports",
-    "russia",
-    "vessel"
-   ],
-   "summary": "Russia says it hit cargo vessel, infrastructure in Ukrainian Black Sea ports overnight Devdiscourse",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e02d9b62d7e6",
-   "title": "South Africa backs TNPA separation from Transnet",
-   "original_title": "South Africa backs TNPA separation from Transnet",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUjB1WWVvSEFzRHpJS2F6TGJTaFpLQkNicGZZZ1gzT3ZNU0UyY2g5NUVwTE9nbk1BSXY2XzE2ZHJXREhxMjZjRXBKaTFHNnowdGxaOEZLM0ZOdHpwdVZUNTc1NkczZG9vN2lQN2J2Wk5acHR1V1lJc29aQnZKaGY5TjE1OWszbTNIbVRDQVg0dGFCaFV5RGtWbzFB?oc=5",
-   "source": "Heavy Lift & Project Forwarding International",
-   "published": "2026-10-06T06:48+00:00",
-   "added": "2026-10-06T07:15+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "forwarding"
-   ],
-   "summary": "South Africa backs TNPA separation from Transnet Heavy Lift & Project Forwarding International",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "db945a6a8db9",
-   "title": "TX Logistik doubles the frequency on the 2,500 km Sweden–Italy route",
-   "original_title": "TX Logistik doubles the frequency on the 2,500 km Sweden–Italy route",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOampFNWVKYl9PUTdTMlZLMGloZ2otR0toQjNQSUtFaHlDV0tBS0FQZ01CVDdzTk1GQjd0a0VVNlhON1U3UnN3LVdSMHM4M3V3akQ3b3ZnbnhNdFVYUUlqb0wxMUNmUHp6RkdxV1AwMVhITUZKcXlSQ1o1a3YwU1ZJa2gtNS12TE5zZmg2SkhFYw?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-06T06:46+00:00",
-   "added": "2026-10-06T07:56+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Baltic & Nordics",
-    "Western Europe"
-   ],
-   "tags": [
-    "railway"
-   ],
-   "summary": "TX Logistik doubles the frequency on the 2,500 km Sweden–Italy route Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "074a992dd2fc",
-   "title": "Will There Be a Grain Crisis? 35 Million Metric Tons of the Harvest Could Be Stuck in Ukraine",
-   "original_title": "Will There Be a Grain Crisis? 35 Million Metric Tons of the Harvest Could Be Stuck in Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSG03MTJqNkFSWHNuZWxQanQ2UjJaT2N4RXEzbUtmSjlpanVuZzRLNXZab2pBaWRiOVNqVmNfM1FwWVdyUDhMMlZLbGdycGtjQnZVdklqMGl4NWNDaUk0NG1hQWtCMVc1Tl9oekloZXNtVHlURXFCZGxOR3J0MkNBc0FoZTZua2xpaFloU0ozSzhyUlVsVl9UY0tVUlM5VV90aFViUG5MRDdtbzBDYk9aXzFJbTRhbGF6dHZFYkdldm9hSGfSAc8BQVVfeXFMTlJmTHBjV09jUW9WbTV0QUlLcDVOX19IYjh4cE54aXZqMWJIX0RBeGVkOWVXakxDOGtiNjg2OFNwaFdmQW9NVVFqSl81eWV0Ums5bDd6MzBoRTE3a0pOX3VLYlVhdlU5bzFURkQzbGxFZVctQkJFZ0E5REJIZ3pwbVcwUmx3U3JZLUpmeTZTdThwVnpxa3RDX0xBTVVtMzFaOUJUVzNsd2VfNkZnRC1MRmt6NDhGdVNMU3pBNUc1N1VDMFpVMXNDaTg0U1EyMnJj?oc=5",
-   "source": "Dengi.ua",
-   "published": "2026-10-06T06:40+00:00",
-   "added": "2026-10-07T22:41+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain",
-    "ukraine"
-   ],
-   "summary": "Will There Be a Grain Crisis? 35 Million Metric Tons of the Harvest Could Be Stuck in Ukraine Dengi.ua",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d01cd78a8fc5",
-   "title": "Geekplus Deploys over 1,600 Robots for LPP Logistics in Poland",
-   "original_title": "Geekplus Deploys over 1,600 Robots for LPP Logistics in Poland",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2R3X1N4SkZuZHVHTzJmWGlxM0Ezd1VKVEMxUTV6OFdBM215UW5xU1AxMm9IY0lTdDRTVERyZERZZGdPaGRBR3ppTWVSS2huQlZwSkhJdEhqZkJoZkRaRHMtdS14STVWbVQ3cFI3OWEwU0dhSzJ0M0tVZG4wWE0xbkZIU3BUeWJnZExDWDhn?oc=5",
-   "source": "Retail News Asia",
-   "published": "2026-10-06T06:14+00:00",
-   "added": "2026-10-06T06:27+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "logistics",
-    "poland"
-   ],
-   "summary": "Geekplus Deploys over 1,600 Robots for LPP Logistics in Poland Retail News Asia",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "027fa8cb343b",
-   "title": "Prioritising capacity and versatility",
-   "original_title": "Prioritising capacity and versatility",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzhDc2FkSFhRN3FsWG9sQjVpN0ZScEV1bXkwZXFNVm1OUmVLczl3ZkF4RUtJeUdWOGxWc1E0MmpjR2U1NGVJRlBBY1NIQ1dldEdMRmhlcDUzUUItN3I5bEkzWU5lYmlvTXVkd0tUbUpqZzJOTmdvU2FMbUFWNk1aSlRBdVE5enZLbjVj?oc=5",
-   "source": "Heavy Lift & Project Forwarding International",
-   "published": "2026-10-06T06:04+00:00",
-   "added": "2026-10-06T06:27+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "forwarding"
-   ],
-   "summary": "Prioritising capacity and versatility Heavy Lift & Project Forwarding International",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   }
