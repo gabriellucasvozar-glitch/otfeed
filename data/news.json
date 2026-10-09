@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T10:44+00:00",
+ "generated_at": "2026-10-09T11:01+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,95 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "c0b443fa1f23",
+   "title": "Tradelanes: Intra-Asia freight rates ease after post-Covid high",
+   "original_title": "Tradelanes: Intra-Asia freight rates ease after post-Covid high",
+   "url": "https://theloadstar.com/tradelanes-intra-asia-freight-rates-ease-after-post-covid-high/",
+   "source": "The Loadstar",
+   "published": "2026-10-09T10:49+00:00",
+   "added": "2026-10-09T11:01+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "supplychain",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "disruption",
+    "freight rate"
+   ],
+   "summary": "Intra-Asia container freight rates have marginally eased after hitting a post-Covid high prior to China’s Golden Week holiday, with elevated fuel costs, geopolitical disruptions, and operational constraints continuing to support the market. The Drewry Intra-Asia Container Index (IACI) Composite Index declined 1% this week, to $1,503 per 40ft, ending six consecutive weeks of increases. However, the index was up 209% year on year, and also remained largely unchanged during Golden Week, compared with a 12% decline during the same period last year. Yesterday, Shanghai-Laem Chabang, and Manila and Yokohama rates fell 3% from 1 October, to $1,690, $1,027 and $1,052 per 40ft, respectively. Shanghai-Jebel Ali rates remained elevated, at $8,662 per 40ft, amid worsening Middle East disruption. Shanghai and Ningbo continued to experience vessel bunching and schedule delays after the August typhoon season, with average waiting times of three and 2.5 days, respectively. This has cascaded to major ports in South and South-east Asia, and Shanghai-Singapore and Shanghai-Tanjung Pelepas rates increased 2%, to $2,123 and $2,100 per 40ft, respectively. Analysts at Linerlytica also said this week that the shortage of feeder ships – the intra-Asia lane’s main workhorses – has further supported the market.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "4c672c56d96d",
+   "title": "CMB.TECH sends world’s first ammonia-powered bulker to sea",
+   "original_title": "CMB.TECH sends world’s first ammonia-powered bulker to sea",
+   "url": "https://splash247.com/cmb-tech-sends-worlds-first-ammonia-powered-bulker-to-sea/",
+   "source": "Splash247",
+   "published": "2026-10-09T10:44+00:00",
+   "added": "2026-10-09T11:01+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Western Europe",
+    "Oceania"
+   ],
+   "tags": [
+    "ammonia",
+    "bulk carrier",
+    "bulker",
+    "carrier",
+    "dry bulk",
+    "fleet",
+    "shipping"
+   ],
+   "summary": "Belgium’s CMB.TECH has sent the 210,000 dwt Mineral Europa on its maiden voyage to Australia, marking the first deployment of an ammonia-powered dry bulk carrier. The 2026-built newcastlemax is the first of a much larger ammonia-fuelled fleet being rolled out by the Alexander Saverys-led shipping group. CMB.TECH said 21 ammonia-powered ships are due to enter its fleet through 2029, comprising 18 bulkers, one containership and two chemical tankers, with most scheduled to arrive within the next nine months. Swiss engine designer WinGD cleared an important hurdle in June when the first X72DF-A ammonia dual-fuel engine for CMB.TECH’s 210,000 dwt bulker series completed factory acceptance testing at CSSC Engine Co in China. In June, Australian mining giant Fortescue agreed to charter up to 12 210,000 dwt newcastlemaxes from Bocimar. That followed an earlier agreement covering an ammonia-powered newcastlemax for Fortescue’s iron ore trades from Australia’s Pilbara to China and other markets. An agreement struck last year with MOL and MOL Chemical Tankers covers nine ammonia-powered ships, including newcastlemaxes and chemical tankers, for delivery between 2026 and 2029. CMB.TECH said it is investing in storage facilities and ammonia bunker barges as it builds out the supply chain needed to serve its fleet.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "bcab9791aeac",
+   "title": "Vietnam ports launch 1,200-metre shared berth",
+   "original_title": "Vietnam ports launch 1,200-metre shared berth",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWmlkY0tiZVpQTE5TUS1leGhGVkY4alo3bW5vb0ZPcW1uQ3JXeDlYSFBnV0p3ZzFfSkh0NzhILUhxbmRkRW9SUmI2ZjNqSDRiRE1fREFqZnlLRmpSa3FjSU1oNjRlQ1pnQ3Y3OVVkSW5Uc0h5MUlpd3ZvNzBhUVNFRHlST1NDNGIwTmtkZ0lvNE1rRnc2OFdsbUtVNWlLSmdQWWZF?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-09T10:36+00:00",
+   "added": "2026-10-09T11:01+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "berth",
+    "port",
+    "ports"
+   ],
+   "summary": "Vietnam ports launch 1,200-metre shared berth Port Technology",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "b388d18c0677",
    "title": "Is FOMO driving sentiment in the containership charter market?",
@@ -313,6 +402,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "50f392293609",
+   "title": "ENGIE expands wind power capacity at Port of Zeebrugge",
+   "original_title": "ENGIE expands wind power capacity at Port of Zeebrugge",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZFhDaVZDRTFQMy1CZHBxN2VYT2lEQWZaN29HZWJwUU1XTkpfdzlKSm9zNUM0QlBZdlRvTUl3clhtcjNNa0tqcUc2NS1EdUVFUmJJT0ZiRXNNUmp2ZG1WYlk3dkctV3JrUHB6dWZ0Qy1hMjM2dVB4YnhpdU5vSnh1bFQwd0dvVFlxM0czN192c05jdEY5Tl8wMExYU3FJNl9kc1IwV3d4Uk5nRXNJaTVadm9RelBjazVfLUx5dlpGZ0RYZ1lJ?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-09T09:17+00:00",
+   "added": "2026-10-09T11:01+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "ENGIE expands wind power capacity at Port of Zeebrugge Port Technology",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "c1f65cb01320",
    "title": "CMB.Tech launches first ammonia-powered dry bulk vessel",
    "original_title": "CMB.Tech launches first ammonia-powered dry bulk vessel",
@@ -428,6 +542,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "fe50bec82144",
+   "title": "UK and Japan crack down on Russia’s largest shipping company",
+   "original_title": "UK and Japan crack down on Russia’s largest shipping company",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMmI3MWg1anJwNmlVakRxZnotaEozZjlFd2VCQy11MGVDTXMtWWRYUHpZbTBLTkdKY0J1RXZfcGVaNUZCNFo3Y0R3b2VRcDQ2LU5XdUM4dzdkQkIxOHNTLTkxWnRDUUJENmNodDZGanRuQXVYUjVLM296RlhRYldXeUVJUVI1YVk2ZzdPWm0yRQ?oc=5",
+   "source": "Kpler",
+   "published": "2026-10-09T08:27+00:00",
+   "added": "2026-10-09T11:01+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "russia",
+    "shipping"
+   ],
+   "summary": "UK and Japan crack down on Russia’s largest shipping company Kpler",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "459dcb7a9330",
    "title": "CargoBeamer increases its service to 22 weekly train services between Germany and Italy",
    "original_title": "CargoBeamer increases its service to 22 weekly train services between Germany and Italy",
@@ -481,6 +624,31 @@
    "summary": "Japan’s Tokyo Gas has acquired an Indonesian LNG infrastructure developer, paving the way for a new domestic shipping network supplying power stations across the country’s vast eastern archipelago. The Japanese utility, together with its wholly owned subsidiary Tokyo Gas Asia, has acquired 100% of PT AGP Indonesia Utama, which is developing a project to distribute domestically produced LNG using small-scale carriers and floating infrastructure. The venture will involve Indonesian state electricity company PLN’s fuel procurement arm, PLN Energi Primer Indonesia, and local shipping company PT Suasa Benua Sukses. The initial development envisages one floating LNG facility, six onshore installations and a small-scale LNG carrier serving six locations across Sulawesi and the Maluku Islands. The shipping network will operate around a central hub, with the LNG carrier supplying five other destinations. The acquisition gives Tokyo Gas a foothold in a market where geography presents both a challenge and an opportunity for small-scale gas shipping. Indonesia comprises more than 17,000 islands, many of which depend on relatively expensive diesel-fired power generation because of limited access to pipeline infrastructure. The proposed LNG distribution network is intended to reduce generation costs, cut emissions and lessen reliance on imported petroleum products.",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "extract"
+  },
+  {
+   "id": "848f570a780a",
+   "title": "The world's first ship to run on ammonia has begun its voyage to Australia.",
+   "original_title": "The world's first ship to run on ammonia has begun its voyage to Australia.",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkthUWtXU1IySHRQUlJOUXNueUxMWDZFUXNlS2hUTEM1UERQZGpicFRudDRPcm9GVVlTQkhUbVFUQzdGY3pNcHdRVHZlOEJPN2cyR2dIRlJmTEFsd3planJ4SE1OV2h2UVlrdHpHUXJBdWEwaTdiOWlyNTY0bnJHdkxCWFVnS3dMdjE4MFE1cUVsUQ?oc=5",
+   "source": "Stock Titan",
+   "published": "2026-10-09T08:04+00:00",
+   "added": "2026-10-09T11:01+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "ammonia"
+   ],
+   "summary": "The world's first ship to run on ammonia has begun its voyage to Australia. Stock Titan",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "6fa55fcb477c",
@@ -982,6 +1150,32 @@
     "fertiliser"
    ],
    "summary": "Fuel, fertiliser costs strain American farmers' support for Republicans in midterms The Economic Times",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "58699b19a0c6",
+   "title": "SLNG Begins Construction of Third LNG Bunkering Jetty in Singapore",
+   "original_title": "SLNG Begins Construction of Third LNG Bunkering Jetty in Singapore",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeEFXU3FCZGZMeFgtOVRwNEJUUUhHMUNkUk1kbXNIVF9yaW5PRk9jNGNvdnYtNC1UdlpLdWhMRGtVWktjVHdZOXpwR1ExMlJxVWxyTDhMbmwwZTRQUGh0SWVyQlVNeC1oTWFVZTZ0OC0taF9PV0JZdUJ3WTdEUHRPTHA3Wk5lOWpQZUZmd09pZm5wT0kzT3h1c05DNEM0R1dGa1MxeUFXMUVCaXNWWExCcGxmWk9PTzlTQy1DYlpoM2Y?oc=5",
+   "source": "Asia Business Outlook",
+   "published": "2026-10-09T04:48+00:00",
+   "added": "2026-10-09T11:01+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bunker",
+    "lng"
+   ],
+   "summary": "SLNG Begins Construction of Third LNG Bunkering Jetty in Singapore Asia Business Outlook",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16449,202 +16643,6 @@
    "summary": "Drugi przetarg daje szansę na nowy terminal na lotnisku w Szczecinie. Najtańsza oferta poniżej budżetu Urbanity",
    "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
    "summary_method": "feed"
-  },
-  {
-   "id": "82dd3437bed5",
-   "title": "Lila Global exits VLCC segment in style",
-   "original_title": "Lila Global exits VLCC segment in style",
-   "url": "https://splash247.com/lila-global-exits-vlcc-segment-in-style/",
-   "source": "Splash247",
-   "published": "2026-10-06T08:36+00:00",
-   "added": "2026-10-06T08:41+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquire",
-    "acquired",
-    "vessel"
-   ],
-   "summary": "On April 20, Splash reported that a 20-year-old VLCC had fetched $60.5m in a sale by Mitsui OSK Lines to Lila Global. The vessel, then known as Kasagisan, was renamed Lila Vadinar in March after Lila Global acquired it. In July, it was renamed Vadin. This is the second VLCC Lila Global has sold in recent months. In June, it sold the 2008-built Lila Kochi after owning it for about a year. Lila Global acquired the ship in May 2025 for $46.75m and sold it for $79m. The tanker segment has become an increasingly important part of Lila Global’s activity this year. Having added six tankers in 2026, its latest purchase is the 2010-built suezmax Cape Benat, the former Front Loki, which it recently acquired for $62.5m. The ship has since been renamed Renat and is listed with a market value of $74.4m, according to the VesselsValue sales register.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "0e2775ad4b1a",
-   "title": "Drone Sinks Ship Off Bulgaria, as Fears Grow About Hybrid Attacks By Russia",
-   "original_title": "Drone Sinks Ship Off Bulgaria, as Fears Grow About Hybrid Attacks By Russia",
-   "url": "https://gcaptain.com/drone-sinks-ship-in-bulgarias-black-sea-media-reports/",
-   "source": "gCaptain",
-   "published": "2026-10-06T08:24+00:00",
-   "added": "2026-10-06T16:51+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "drone",
-    "law",
-    "nato",
-    "russia",
-    "vessel"
-   ],
-   "summary": "A civilian vessel is on fire, as Ukraine's navy spokesman reported a Russian military strike on a civilian vessel, amid Russia's attack on Ukraine, near the Black Sea port of Odesa, Ukraine, July 14, 2026. Picture taken with a mobile phone. REUTERS/ SOFIA, Oct 6 (Reuters) – The crew of a merchant ship was missing on Tuesday after the vessel sank in the Black Sea off NATO member Bulgaria following a drone strike that Prime Minister Rumen Radev described as a gross violation of international law. It was not immediately clear who carried out the attack by air and sea drones about 70 miles (112 km) off the coastal town of Byala in eastern Bulgaria, but there are growing concerns about hybrid attacks by Russia as it wages war in Ukraine. The drone attack follows an incident in which Romanian authorities said on Monday two people had died in a fire on a ship in the Black Sea outside Romania’s territorial waters. “The attacks represent a significant escalation in the threat to commercial shipping in the western Black Sea,” maritime security firm MARISKS said in an advisory in which it advised captains and operators to watch out for drone activity in the area.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "1890e7308643",
-   "title": "EU CBAM certificate price rises to €82.32 for Q3 2026",
-   "original_title": "EU CBAM certificate price rises to €82.32 for Q3 2026",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXg1bG12N3YwMjBZT3JFVE4yTy1BZXFubXlCdF8tckQ5WEY1Mm9EYnA4SFZDZjZQeUZRSy1wcmxwSV9RWU9mUXJrenFfMDA2VVhSbXZYTm8zakJwdHl5Z1dNT1p3emdIcGc4dFM3ZXlaNngteTVyZ3luWEZWVTRUbHdNdWx4ZDJwV19XdWlCNXVEUnZkVFRDTHBsUk91Sk83LS1YS0NXWXZKNGEzSl9QeTllUQ?oc=5",
-   "source": "Steel Orbis",
-   "published": "2026-10-06T08:18+00:00",
-   "added": "2026-10-06T21:22+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "high",
-   "score": 8,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "cbam",
-    "eu ",
-    "steel"
-   ],
-   "summary": "EU CBAM certificate price rises to €82.32 for Q3 2026 Steel Orbis",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cf5cf09bbf27",
-   "title": "Rotterdam’s Gate Terminal expands LNG storage and bunkering capacity",
-   "original_title": "Rotterdam’s Gate Terminal expands LNG storage and bunkering capacity",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRDRtcWFLdWVOYWs0dWJ3VThVUXlqd0ZaZGV1a3JjSEtTTjBfbTNqZU9IdVFOd3N4a1dxTXBrcGMyazhVWDRUV09XdTlDNkU4RDliT243OWoxcVZSMEtiSmhyQm9pZHRqRVk3UmRwLU81bm9RendYanAzQVRWaHpId2tBV0xnWmxUUXNoNzhKY0V6djFqdkpTSGx1eklFYUZqVTh1SlhR?oc=5",
-   "source": "https://www.engine.online/",
-   "published": "2026-10-06T08:17+00:00",
-   "added": "2026-10-07T11:48+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "bunker",
-    "lng",
-    "terminal"
-   ],
-   "summary": "Rotterdam’s Gate Terminal expands LNG storage and bunkering capacity https://www.engine.online/",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d88ffaf25fc6",
-   "title": "Azerbaijan’s Alat Free Economic Zone Airport Targets 2027 Launch to Bolster Middle Corridor Cargo",
-   "original_title": "Azerbaijan’s Alat Free Economic Zone Airport Targets 2027 Launch to Bolster Middle Corridor Cargo",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMF9lc2hUR2hlUmpYczBIdXBVTTZDeHVMVFlyZTc1VUlMUjllNmtfRTlpZjRYSHhBcHZFTkZlOEtJWEk0UlcwcExvX1YtRG1jLXNCbllzX19BRkxycjJSSWF0allHMmdIVklMa1ROSDJaQ2UwLUYwY3VtSzdRS0paR09rVXRjc0tlVlJpZnhORHRTRWZWWkx3aW9YUFAxZ080M1o0ZkQ0c2hjYUc2aGxITEZlUkwxcjFEbkw0azlNTnVFdEhiN01uMjFn?oc=5",
-   "source": "streamlinefeed.co.ke",
-   "published": "2026-10-06T08:08+00:00",
-   "added": "2026-10-06T08:41+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Azerbaijan’s Alat Free Economic Zone Airport Targets 2027 Launch to Bolster Middle Corridor Cargo streamlinefeed.co.ke",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2f31eb6c7c1a",
-   "title": "Valencia North Terminal investment rises to €1.656bn",
-   "original_title": "Valencia North Terminal investment rises to €1.656bn",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPX2hzQW9jYkRGbFpWa1d6LUp0cGlfQ1R6Ti1WZUJjS0RaYVA1UzJFdW5kYkcxekRIZTdJdWIxWHRYc3VZLTRIVEhJbFBpQ0VzdC1BeUdrdS1hZDMybUdhOERxTlg2ZlhoOV8wVUVIWWZITjNiaXRTeXdNYUZGNU5ZOW4xdjJwUHVSSy1OSUdEMGtOZ1hvQW9PUUV2cFFkQQ?oc=5",
-   "source": "worldcargonews.com",
-   "published": "2026-10-06T08:07+00:00",
-   "added": "2026-10-06T09:45+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Valencia North Terminal investment rises to €1.656bn worldcargonews.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4ecbffcee23c",
-   "title": "HD Hyundai delivers world’s first lashing-free containership",
-   "original_title": "HD Hyundai delivers world’s first lashing-free containership",
-   "url": "https://splash247.com/hd-hyundai-delivers-worlds-first-lashing-free-containership/",
-   "source": "Splash247",
-   "published": "2026-10-06T08:06+00:00",
-   "added": "2026-10-06T08:20+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "shipping",
-    "teu",
-    "vessel"
-   ],
-   "summary": "HD Hyundai has delivered what it says is the world’s first containership designed to eliminate manual lashing, removing one of the most labour-intensive jobs in container shipping. The 13,000 teu vessel, which is methanol dual-fuelled, has been handed over toFrance’s CMA CGM after being built using HD Hyundai’s proprietary hybrid lashing-free system. HD Hyundai Heavy Industries developed and verified the core technology, while HD Hyundai Samho carried out detailed design and construction. HD Hyundai’s new arrangement does away with that work by extending cell guides above deck, allowing containers to be held in place without traditional lashing. The breakthrough centres on what HD Hyundai calls a portable bench, a standardised structure fitted between cell guides. The unit is the same size as a 40 ft container, meaning terminal cranes can handle it as part of normal cargo operations. HD Hyundai says the design boosts deck cargo capacity by more than 10% compared with similar existing ships while improving operational stability in heavy weather. The technology was presented to the IMO’s Sub-Committee on Carriage of Cargoes and Containers in 2024 and has since secured multiple patents. The Korean yard plans to expand the lashing-free technology to small and mid-sized vessels soon.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
