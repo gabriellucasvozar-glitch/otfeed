@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T23:04+00:00",
+ "generated_at": "2026-10-09T23:25+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,37 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "4041c53c6594",
+   "title": "Brazil unveils $4.1bn port concession programme and $858m infrastructure financing",
+   "original_title": "Brazil unveils $4.1bn port concession programme and $858m infrastructure financing",
+   "url": "https://splash247.com/brazil-unveils-4-1bn-port-concession-programme-and-858m-infrastructure-financing/",
+   "source": "Splash247",
+   "published": "2026-10-09T23:25+00:00",
+   "added": "2026-10-09T23:25+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "mna",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "concession",
+    "ministry",
+    "port",
+    "ports",
+    "terminal"
+   ],
+   "summary": "Brazil is preparing a major expansion of private investment in its ports, outlining a $4.1bn concession programme alongside new infrastructure financing opportunities and proposed regulatory changes designed to accelerate terminal development. The Ministry of Ports and Airports plans to auction 34 port concessions between 2027 and 2030, representing an estimated R$20.6bn ($4.1bn) in private investment. Among the largest projects is the Santos 10 container terminal, with estimated investment of $1.29bn. The government also plans to issue 70 authorisations for privately developed port facilities, representing a further potential $6.6bn in investment. Separately, Brazil’s Merchant Marine Fund has granted financing priority to three port infrastructure projects worth a combined R$4.28bn ($858m). The largest is the Terminal Mar Azul project at São Francisco do Sul, in Santa Catarina, with planned investment of approximately $381m in facilities for steel products and fertilisers. Another $252m has been earmarked for the concession covering the access channel to the Port of Paranaguá, while Hanseatic Global Terminals’ proposed container and general cargo terminal at Aracruz accounts for approximately $224m. A public consultation has been opened on proposed amendments to regulations governing port terminal leases, including changes that could make it easier for operators to expand facilities, replace equipment and undertake new investments.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
   {
    "id": "263a08ed03af",
    "title": "Avaza Summit Highlights East–West and North–South Trade Routes",
@@ -2230,6 +2261,31 @@
    ],
    "summary": "Steel, aluminium, cement: the UK’s new carbon tax hits imports in January. Who pays, and when? Trans.INFO",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bbadb635e016",
+   "title": "Mainstreaming HFC Passenger Rail",
+   "original_title": "Mainstreaming HFC Passenger Rail",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNUlOcWtCOVlzXzNwYV9OQ1c1T2dicEpsdjdjOGNkUXpSc2FGUHU3S1RYYVM5TlJIekhYMG9ud0NQQTdHdXd0UGhXeTJrbWNFLVdFZUVQQUFXMy0wZVpJdzF1RmstczZyWDljUVY0cU1MMWtzU05CTzlndjlvcFM1MThWRnAxNG9xU0p5QjhwMkE?oc=5",
+   "source": "Railway Age",
+   "published": "2026-10-09T09:57+00:00",
+   "added": "2026-10-09T23:25+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "Mainstreaming HFC Passenger Rail Railway Age",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -16625,58 +16681,6 @@
    ],
    "summary": "Poland Becomes the CEE's New Logistics Hub as Port-Side Facilities Take Over Regional Trade FOCUS ON Business",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e5d4fde84cbb",
-   "title": "Laude Smart Intermodal własnym Vectronem dojechało do Holandii",
-   "original_title": "Laude Smart Intermodal własnym Vectronem dojechało do Holandii",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkdSVlRCTGJvSUsxTERyejdLc2o3YVBYNUFCck9VdV81UE96aUhMQ1IzVUp2RDVWZ0JvbUtRR2JjZTdsbzVfSjlRZ0k4VkJZbUlfckFJNC1ISm9hM0pnanI1eGU3NndXX3pzbDBkekZueWp6UHVPeGJNb0RmcVpFakNnVFlmNW55WXFhUlBTeGNXTTQ?oc=5",
-   "source": "Kolejowy Portal",
-   "published": "2026-10-06T13:46+00:00",
-   "added": "2026-10-09T16:01+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "intermodal"
-   ],
-   "summary": "Laude Smart Intermodal własnym Vectronem dojechało do Holandii Kolejowy Portal",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "77354cb6a8db",
-   "title": "R@Port Support: LIBERA / SOBCZYK: FILOPAT I PATAFIL",
-   "original_title": "R@Port Support: LIBERA / SOBCZYK: FILOPAT I PATAFIL",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdm1TR0NQRTJLcnZCbjhuVTRhRXE3N2dGN0t4U0prRzFaM29vcTJxZDk2REh1NU1YLVMyUHh2X09oUloxcUREVVVIRmNqSkxfQVVqS09sODRGNE9qY01QSDNqZ3lLRmE1Vk9jQnNVMW9FQTFFcVhVR0FTak41R3l4bDVvTQ?oc=5",
-   "source": "TVP Gdańsk",
-   "published": "2026-10-06T13:28+00:00",
-   "added": "2026-10-06T15:26+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "gdansk",
-    "port"
-   ],
-   "summary": "R@Port Support: LIBERA / SOBCZYK: FILOPAT I PATAFIL TVP Gdańsk",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
