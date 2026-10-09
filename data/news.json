@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T17:04+00:00",
+ "generated_at": "2026-10-09T17:25+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,39 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "e4c4146828bf",
+   "title": "Russia’s war threatening civilian shipping in the Black Sea: UK statement to the OSCE",
+   "original_title": "Russia’s war threatening civilian shipping in the Black Sea: UK statement to the OSCE",
+   "url": "https://www.hellenicshippingnews.com/russias-war-threatening-civilian-shipping-in-the-black-sea-uk-statement-to-the-osce/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-09T17:00+00:00",
+   "added": "2026-10-09T17:25+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Western Europe",
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "russia",
+    "shipping",
+    "war"
+   ],
+   "summary": "The United Kingdom stands in full solidarity with Bulgaria, Romania and Türkiye following the attacks on civilian shipping in the Black Sea over the past 48 hours. On 5 October, the Turkish-owned cargo vessel Royad Mammadov, carrying corn from the Ukrainian port of Izmail to Italy, caught fire and sank in Romania’s Exclusive Economic Zone. On 5 October, the Russian Ministry of Defence announced that its forces had struck two cargo vessels in the Black Sea. Attacks that fail to distinguish between military objectives and civilian vessels, or that are expected to cause excessive incidental harm to civilians and civilian vessels in relation to the anticipated military advantage, may violate international humanitarian law and the UN Convention on the Law of the Sea. Türkiye’s Chamber of Shipping has recorded 226 attacks on civilian and commercial vessels since the start of the war, the vast majority of them this year. The international community must remain united in defending lawful commerce, protecting civilian shipping, and resisting attempts to use coercion against the global economy wherever it occurs. Russia’s illegal war against Ukraine has consequences far beyond the borders of Ukraine – it destabilises the whole of the OSCE area.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "f82c6af6bc2b",
    "title": "Europe gas prices ease off 2-week highs as Trump rules out pre-midterm strikes",
@@ -42,6 +75,32 @@
    ],
    "summary": "European wholesale natural gas futures paused their multi-day rally on Friday, easing off two-week highs as trading desks processed statements from U.S. President Donald Trump ruling out military strikes on Iran ahead of next month’s congressional midterm elections. The benchmark Dutch front-month contract fell 1% to trade at 78.00 euros per megawatt-hour (MWh), trimming weekly gains after flirting with the €80 threshold in previous sessions. In Great Britain, the equivalent wholesale gas contract slipped 1.0% to 193 pence per therm. Despite Friday’s minor pullback, both contracts remain on track for a second consecutive weekly advance, anchored near their highest levels in over two weeks as persistent Middle Eastern maritime security threats continue to embed a hefty risk premium into winter gas curves. The persistent maritime strikes have dashed hopes for a swift normalization of Liquefied Natural Gas (LNG) shipments through the critical maritime chokepoint, keeping war-risk insurance rates elevated and forcing tankers into lengthy, expensive reroutings around Africa. Storage lags at 73% as cooler forecasts threaten winter buildout Adding a fundamental floor under European gas bourses, meteorological models for Northwestern Europe have been revised lower, pointing to cooler autumn temperatures that threaten to accelerate the start of space-heating demand and power generation.",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "758e4171d024",
+   "title": "Safe Bulkers invests €100,000 in Cyprus’ next generation of shipping talent",
+   "original_title": "Safe Bulkers invests €100,000 in Cyprus’ next generation of shipping talent",
+   "url": "https://www.hellenicshippingnews.com/safe-bulkers-invests-e100000-in-cyprus-next-generation-of-shipping-talent/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-09T17:00+00:00",
+   "added": "2026-10-09T17:25+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "bulker",
+    "shipping"
+   ],
+   "summary": "Safe Bulkers awarded €100,000 in scholarships to ten students for the 2026-2027 academic year, continuing its support for maritime education in Cyprus through a programme now in its sixth consecutive year. The awards, worth €10,000 each, were presented by the company’s chief executive, Polys Hajioannou, during the sixth annual scholarship ceremony, attended by Deputy Shipping Minister Marina Hadjimanolis. Addressing the recipients, Hadjimanolis stressed the importance of attracting young people to an industry that remains central to Cyprus’ economy. The deputy minister also conveyed the government’s appreciation, on behalf of President Nikos Christodoulides, to Hajioannou and Safe Bulkers for their continued investment in education and support for young people. The scholarship initiative forms part of Safe Bulkers’ environmental, social and governance (ESG) policy, with particular attention to education and developing skills relevant to shipping. The sixth ceremony follows a similar event in October 2025, when ten scholarships of €10,000 were awarded to Cypriot and Greek students during a ceremony at the company’s Limassol headquarters. Safe Bulkers is an international dry-bulk shipping company whose vessels transport commodities including iron ore, coal and grain. The company is listed on the New York Stock Exchange under the symbol SB, with operations spanning international shipping markets and offices in Cyprus, Greece, Monaco and Switzerland.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   },
   {
@@ -186,6 +245,39 @@
    ],
    "summary": "EU steel prices to rise as CBAM cost could reach €5B/y, says Trasteel CEO EUROMETAL",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "23725059e933",
+   "title": "Baltic leaders call on the EU to block the transit of Russian and Belarusian grain",
+   "original_title": "Baltic leaders call on the EU to block the transit of Russian and Belarusian grain",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcThubGNsOFJ6RGpoVUZmeVJLYmMwT3paTW5LakJJMUJLZ1dkbWRhbnpVTW9JYlNydURLVUxKWXBEc0V2dml0QzlDWG9IZGhyRE1IS3lncWFyMDQ0TEtpOHdySUN6X2RMMkpOaFRjSDhFR0I4NUFyX0huMlB0clZwMGZ6QUpTLTZUamwxYU5NZTVkWnNmSEhaQTJFME95YXFDdmtqRg?oc=5",
+   "source": "Informat.ro",
+   "published": "2026-10-09T15:30+00:00",
+   "added": "2026-10-09T17:25+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "baltic",
+    "belarus",
+    "eu ",
+    "grain",
+    "russia",
+    "russian"
+   ],
+   "summary": "Baltic leaders call on the EU to block the transit of Russian and Belarusian grain Informat.ro",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -516,6 +608,37 @@
    "summary_method": "feed"
   },
   {
+   "id": "0923d3ee1249",
+   "title": "India’s Middle East Gulf crude imports rebound as Russian barrels return via Suez",
+   "original_title": "India’s Middle East Gulf crude imports rebound as Russian barrels return via Suez",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMTNlY0FheXcxSVdUbDR6QV92dTNfLTVBVUktU1YwSVlUcUQ3YWRsM2hNTjhfN0hOZTJFYmZYU3FnVlQyVXVXdS1oNHZyUEhqVzJPcG9yUlVJU3I3Wi14VFE1NlRYeFJWQmxrWTRNNjA3cDByTm4taFFvYUNJYnN6Q1BqSTR5WGFsRW1CYk5qdW1wVE40M1B4NnktOUhlblBTN0Jna3RmTzRFNVgtZ1NSZ193Nko4c0VQNEtkT09famRTZ3VF?oc=5",
+   "source": "Lloyd's List",
+   "published": "2026-10-09T13:06+00:00",
+   "added": "2026-10-09T17:25+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 15.0,
+   "regions": [
+    "Russia & Belarus",
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "crude",
+    "russia",
+    "russian",
+    "suez"
+   ],
+   "summary": "India’s Middle East Gulf crude imports rebound as Russian barrels return via Suez Lloyd's List",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e8bde9d2ae0e",
    "title": "US Freight Rates Climb as Peak Season Surcharges Hit and Port Imports Surge 50%",
    "original_title": "US Freight Rates Climb as Peak Season Surcharges Hit and Port Imports Surge 50%",
@@ -732,6 +855,38 @@
    ],
    "summary": "Cheap Ore, Costly Chemistry: Repricing The Iron Ore Cost Curve Seeking Alpha",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b2a4f90f31fb",
+   "title": "The Baltic states request the prohibition of Russian grain transit through the EU",
+   "original_title": "The Baltic states request the prohibition of Russian grain transit through the EU",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdk9JNWY4aFJoYmQzbUdsdVpaMmVXbTdQOE1rTzhiXzU1WnE5TUJGQ19zVFlwcEZ4UmNZcjNqMEdZRHI1S2hfTF8yckRZLXl5OHVfODZHWlhWWUdDeHF4MzNjMjVGYjJ0SjVkMTF0bDJveXE3X1A0LVRzVWE4RDQ4RVlWeUlQa2Jzb0VjMUFHM0JJMWtob01MajlJSFVlZUJKQkE?oc=5",
+   "source": "ipn.md",
+   "published": "2026-10-09T11:16+00:00",
+   "added": "2026-10-09T17:25+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "baltic",
+    "eu ",
+    "grain",
+    "russia",
+    "russian"
+   ],
+   "summary": "The Baltic states request the prohibition of Russian grain transit through the EU ipn.md",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16531,141 +16686,6 @@
    ],
    "summary": "Black Sea shipping under fire as drones hit two merchant ships TVP World",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "228bdeb7ccb2",
-   "title": "Taylor Maritime reaches last ship in $1bn disposal run",
-   "original_title": "Taylor Maritime reaches last ship in $1bn disposal run",
-   "url": "https://splash247.com/taylor-maritime-reaches-last-ship-in-1bn-disposal-run/",
-   "source": "Splash247",
-   "published": "2026-10-06T11:30+00:00",
-   "added": "2026-10-06T11:45+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities",
-    "mna"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bulker",
-    "dry bulk",
-    "handysize",
-    "sale of",
-    "vessel"
-   ],
-   "summary": "London-listed Taylor Maritime has moved its wind-down to the final vessel, completing the sale of three handysize bulkers while chief executive Ed Buttery builds up a private dry bulk position through his T3 Holding vehicle. The company said on Tuesday that the three previously announced handysize disposals have closed, generating gross proceeds of about $48.6m. Taylor Maritime is now “in the process of disposing of the last vessel in the fleet”, with another update to follow. The wording indicates the disposal programme has moved beyond the two-vessel position left after the September transactions, when Taylor Maritime still had one handysize and one ultramax on its books. Hermes World Maritime took the remaining 49%. Taylor Maritime will provide commercial management and corporate administration services to T3 and the two-ship vehicle during a transitional period. Taylor Maritime formally opted for a managed realisation in March, bringing an end to an expansion story that at its peak saw the company control more than 50 bulkers following the takeover of Grindrod Shipping. By the end of March, Taylor Maritime had sold 51 ships since the start of 2023 for $839.2m. Following a $45m capital return in July, the board intends to distribute a further $45m in November through a fourth compulsory partial redemption of shares.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "8f872afe9207",
-   "title": "Canada pivot to Europe opens air cargo opportunities, exposing capacity gaps",
-   "original_title": "Canada pivot to Europe opens air cargo opportunities, exposing capacity gaps",
-   "url": "https://theloadstar.com/canada-pivot-to-europe-opens-air-cargo-opportunities-exposing-capacity-gaps/",
-   "source": "The Loadstar",
-   "published": "2026-10-06T11:25+00:00",
-   "added": "2026-10-06T11:45+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions",
-    "North America"
-   ],
-   "tags": [
-    "eu ",
-    "forwarder"
-   ],
-   "summary": "Canada’s efforts to reduce its reliance on the US are opening new opportunities for transatlantic air cargo, but forwarders warn that limited capacity and seasonal reductions in passenger flights could complicate the shift. Edmonton International Airport said its EU-bound cargo increased in 2025 while exports to the US fell, and expects record European flows this year. Alex Lowe, director, ecommerce, cargo, and aviation real estate, explained: “So far the data trend suggests 2026 will be a record year for air cargo from YEG to the EU.” The airport also expects record EU imports this year, with turbine parts, medical diagnostic equipment, and specialised machinery among its leading inbound commodities. Statistics Canada reports that merchandise exports to non-US countries rose 17.2% in value in 2025, while exports to the US fell 5.8%. It noted 8% more air cargo with Europe, mainly gold and aircraft. He said: “Evidence points to this being a sustained, structural shift rather than a temporary trend.” Export Development Canada’s 2026 Trade Confidence Index found 31% of Canadian exporters planned to enter Europe in the next two years. Applied Pharmaceutical Innovation is developing a Critical Medicines Production Centre in the region, with capacity to produce 70 million doses annually.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c2ac947665d8",
-   "title": "Software before steel: YILPORT’s Gebze gain is a rehearsal for automation",
-   "original_title": "Software before steel: YILPORT’s Gebze gain is a rehearsal for automation",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQzJ0TjdpcGhPeU1PMTdnZjNPdDQ5dzJIT1Y0VF8xNGxSQmpraUhWRFJqNFVob2xpZS1ERVFFdjI1YlI0WHoxRGJCV0JwQzN3VlA3SVFqTGwwVVg5U3ROV1I3bVpkTGtHUV9tT1pySDF2S0RRdWZZUEk2N3hUZkFPblZkZndTdThxQ0RYN0VZbkttcVh1X3hJU182a2gzdVRfZHBOTDFn?oc=5",
-   "source": "Container Management",
-   "published": "2026-10-06T11:17+00:00",
-   "added": "2026-10-06T11:45+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "commodities",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "automation",
-    "steel"
-   ],
-   "summary": "Software before steel: YILPORT’s Gebze gain is a rehearsal for automation Container Management",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b30a48cf828e",
-   "title": "ADY: Work underway to introduce unified documentation system along Middle Corridor",
-   "original_title": "ADY: Work underway to introduce unified documentation system along Middle Corridor",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWW5RbHVjOHRjUnpPZm1YTVZwY1kxbEs0bG1BLUxQTTRzOW55N1NQRFl2NWJxcFJSVllYRVJ2OVNFS1BxVk1nWWo4a3dWTFlLUE1fMWQ4ZXhnMnN6QlQxc241RjczSUhzdjBobm5RTHd0MzNNV0NKQmFVZEY5WkhrRnc3OW5QcUFIM3cyeUdxUThKWjl1UW15d0tTb1J4TlM5aFRkUkZlME5VZnZoamFPV3BkdURFZTA?oc=5",
-   "source": "Apa.az",
-   "published": "2026-10-06T11:17+00:00",
-   "added": "2026-10-07T08:57+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "ADY: Work underway to introduce unified documentation system along Middle Corridor Apa.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fcb679741c4b",
-   "title": "Middle Corridor freight traffic seen at 5.5 million tons this year",
-   "original_title": "Middle Corridor freight traffic seen at 5.5 million tons this year",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDA4eEgwSHB3Qm1ta3hzaXRYZ3VqRkJpa1pLa3Z5OVNKT0VoQjItM2pCdENEWWFiemlEUS11aF9EV0daX0g1RmZLV1FEZEtlaDRCbWZFSUxYQi00d3dYZEI0d3pDZzl3SlRfc2RZQXgxQ1R1bUxralI0QVlESTdsREhoUUY5U2NQU0JJSkIxWQ?oc=5",
-   "source": "Latest news from Azerbaijan",
-   "published": "2026-10-06T11:16+00:00",
-   "added": "2026-10-06T12:29+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Middle Corridor freight traffic seen at 5.5 million tons this year Latest news from Azerbaijan",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
