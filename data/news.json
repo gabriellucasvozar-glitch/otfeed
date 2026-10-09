@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T08:51+00:00",
+ "generated_at": "2026-10-09T09:11+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -64,6 +64,33 @@
    ],
    "summary": "4 steel stocks to buy as pullback creates a buying opportunity: UBS Investing.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "30b41ffcc61b",
+   "title": "Kuczek (Katowice): Port Polska jest dla nas bardziej szansą niż zagrożeniem",
+   "original_title": "Kuczek (Katowice): Port Polska jest dla nas bardziej szansą niż zagrożeniem",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmhGLTRfR0x5REFmX3pWRnRKaG4yaDJBVFBud09HTGF5cTRsdlVNNmJfVlFZUEw0NWdxNkdxdmZKNFVFSnJtTVNGb1RpMmRTbzNueHR4OFdad3B1RzNyaFZxbmVYeHRWTUhtc05sRkdQeWJaYWlVSC1tMWFCTElIbjk0akhFNHNXcWhWYlYzaVNBNllXWUhDMzM0N0h2di1rc0JUeGtjSEhNcVNLcVFxR0ttSUQ1T2podk5EcGZqVGV1dw?oc=5",
+   "source": "Rynek Lotniczy",
+   "published": "2026-10-09T08:36+00:00",
+   "added": "2026-10-09T09:11+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Kuczek (Katowice): Port Polska jest dla nas bardziej szansą niż zagrożeniem Rynek Lotniczy",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -517,6 +544,32 @@
    ],
    "summary": "COMMENTARY: Cheap coal and expensive gas set stage for year-end coal export surge Reuters",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "dc9520e97a65",
+   "title": "CFL intermodal expands European network with new Luxembourg–Poland connection",
+   "original_title": "CFL intermodal expands European network with new Luxembourg–Poland connection",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkY2MEJ2T3BLcjhndm5pejVOOTBhY045NnlYbGFSM1A1U01hSXJkRmJYX29oeFJTeS1VWkdwWXFxdTg1T2taTkRNc0VhUml6SWNYVElVSEVUTktzTWpVQ1lEQ053MjhzUnRrWUZKeWdQbkJDN2hSeDJTNTZ2eDJDM0Nod0FUSWtoUnkyeFJDaGo5UVg0dDJTbC00aTVwaTVwdTQtZXJ1eUtuR01jdll2LThrWU9oNkVxMklIVWNRdkRFckVxZUZiag?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-09T05:44+00:00",
+   "added": "2026-10-09T09:11+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "intermodal",
+    "poland"
+   ],
+   "summary": "CFL intermodal expands European network with new Luxembourg–Poland connection RailFreight.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -1798,6 +1851,32 @@
    "summary": "Thordon Bearings has opened a new manufacturing facility as part of its strategic response to robust growth across all business segments and rising demand for its sustainable bearings and seals. The third plant provides ample additional space for Thordon to manufacture complementary non-bearing equipment, boost production output, minimise lead times and develop future products. Located at 3180 Mainway, Burlington, just steps from Thordon’s head office at 3225 Mainway, Plant 3 will primarily focus on producing high-performance TG100 water-lubricated mechanical seals and water quality packages for the marine and hydropower markets. Anna Galoni, Sandy Thomson, Marianna Thomson, MP Karina Gould and MPP Natalie Pierre cut the ribbon to officially mark the opening of Plant 3 Anna Galoni, Chair and CEO of Thordon Bearings, commented: “Alongside our commitments to innovation and quality, we continue to invest in growth. Creating additional production space has allowed Thordon and MBA to optimise layouts for assembly, machining and office areas, improving throughput, productivity and efficiency. This expanded facility strengthens our ability to meet the lead times our distributors and customers expect as we service growing demand.” The new facility primarily provides additional space for operations, freeing up capacity at 3225 Mainway for manufacturing and workforce growth. Thordon expects its workforce to continue growing as it brings new talent on board.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "extract"
+  },
+  {
+   "id": "cff0136101b9",
+   "title": "Oil Prices Surge on Iran Risks and Hurricane Isaias",
+   "original_title": "Oil Prices Surge on Iran Risks and Hurricane Isaias",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNakg4TEVfcXdqVjhGS3hyQ29YdWdPWVktd3JfS1pyWVFMYURNNnBJelpIRjFCNlFISXM4Z09jejNJOWRjd3ZYVGpndjV0QXBONnlWNDRNSGhGSE1JVVRHYUsxaENDaFdNYWFnSmFxR29lbTVKc1FSTktMZmtWM0ROamM5RW9Malp5MkE?oc=5",
+   "source": "Markets.com",
+   "published": "2026-10-08T16:03+00:00",
+   "added": "2026-10-09T09:11+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "oil price",
+    "prices"
+   ],
+   "summary": "Oil Prices Surge on Iran Risks and Hurricane Isaias Markets.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "cf212141a07e",
@@ -8151,6 +8230,32 @@
    ],
    "summary": "EU ETS reform could cut industry investment 27%: paper Quantum Commodity Intelligence",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "91a45c364099",
+   "title": "LX Pantos completes €140m logistics centre in Poland",
+   "original_title": "LX Pantos completes €140m logistics centre in Poland",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaFJQbFhoemNtWDUzSHlRNk5SX2w1U1FranU1U19PT2J6Sl9OWXNPWk5IcEJaZjZfN3FFV2doRmlfRk02ZzZ6Q0lPdHFTM3VYcVkybmVONTZmako0aDlNUTRQNUdoLURzYm1qN1ZTRkVLOGoxRWx0UjFubEJuNDNZOTg0bEhiUk9SNXgzaFR3MA?oc=5",
+   "source": "Logistics Manager",
+   "published": "2026-10-07T11:44+00:00",
+   "added": "2026-10-09T09:11+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "logistics",
+    "poland"
+   ],
+   "summary": "LX Pantos completes €140m logistics centre in Poland Logistics Manager",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -16536,117 +16641,6 @@
    ],
    "summary": "Vugar Mammadov: Azerbaijan well positioned to play connecting role in Middle Corridor Apa.az",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "76fae333f116",
-   "title": "AGSA-Partida focuses on Fruit Attraction its customs and logistics offer for horticultural traffic",
-   "original_title": "AGSA-Partida focuses on Fruit Attraction its customs and logistics offer for horticultural traffic",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWTVreXY5MF83UmFlbTZBM0NfZnBObmY1Y0lTX2lDd2F5MEtWcGFBdnc5bE1sWjEwYjVpY3MtTEY0ZFBubFJIVkFSeG8tMFdiOUk0QXR5clhWcGU2bTdTZzZmOHgwNm9XaE9hTncxb2U0MU9OeEUtMDFjTWpJQU1CRWx3a1hkZXFqRzR4NktpZWVKZ2lDcks0WmhFTWZuZ1lSM2FWYXJxOWZSNU1JRnhmZnpPOHc4VGRYc0VCNE1TWGw5VHpOME9VTkt3Z0w3d1NkUV8yU1lCeWdvQmtuM2U3dDlqSTU3UTQ?oc=5",
-   "source": "El Estrecho Digital",
-   "published": "2026-10-06T07:07+00:00",
-   "added": "2026-10-06T13:16+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "customs",
-    "logistics"
-   ],
-   "summary": "AGSA-Partida focuses on Fruit Attraction its customs and logistics offer for horticultural traffic El Estrecho Digital",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "346ab84eda4b",
-   "title": "Sweden’s top court clears handover of cargo ship to Ukraine",
-   "original_title": "Sweden’s top court clears handover of cargo ship to Ukraine",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUtKR3EwMTRpQmVLdHhvVkNQUUs5R2RRWVpOTTZSYUxSQWZua2JtaDBDeEZkTllUYzlFRjkyM0JqRjVaS3pOcHh0dC02UkZ5aGZHY25IYTBKQ01paFZpTWRIemJ6dVBsWDM5X1Rjcy1HdWxJMWNHUVFsanh4cmJjVlFlQkxzT1NDNXJBalVWX1p0RTR5TFVCdE9saDdfMkJ6ekhIVWhEZnN1R0pHVjM0bk5zNA?oc=5",
-   "source": "Shipping Telegraph",
-   "published": "2026-10-06T07:00+00:00",
-   "added": "2026-10-08T23:41+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Baltic & Nordics",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "court",
-    "shipping",
-    "ukraine"
-   ],
-   "summary": "Sweden’s top court clears handover of cargo ship to Ukraine Shipping Telegraph",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9a19df395b2f",
-   "title": "Antwerp port reopens Scheldt to shipping after oil spill in Deurganckdock",
-   "original_title": "Antwerp port reopens Scheldt to shipping after oil spill in Deurganckdock",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEZRWXFVeE1YMTdWRUJOa09sU25RaUpZSThpS0lLVGFhNEhGZ2FGMkZxcjJHVU1tVXRZRW9lVmVMZWRwdXZvVVVkcDFvVjY5OTgzdmZiMUxMUFNkQjEyM01yUmw4U1VjMVZReGFYSjNUbUpOVkhlWlRvWC1aRXpZVWpFTmItaEk0cmxvRjJpSlVSaThWWDdLWEU3dFlHLUpwejd3bVRqa3lLQUV2WWJsc1ZabnM?oc=5",
-   "source": "Shipping Telegraph",
-   "published": "2026-10-06T07:00+00:00",
-   "added": "2026-10-09T00:33+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port",
-    "shipping"
-   ],
-   "summary": "Antwerp port reopens Scheldt to shipping after oil spill in Deurganckdock Shipping Telegraph",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5c4480033d1e",
-   "title": "Trump extends Jones Act waiver with limits in bid to tamp down energy prices",
-   "original_title": "Trump extends Jones Act waiver with limits in bid to tamp down energy prices",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWGswZ05hLV9adGtpUVNkTDcxZzFUekVja2xRVmdvWGMyc2ZmTFdZTk9BQnd1WFZaWllBSnhmQnZ4Smtwa3JRaFAtYkN6ZUdZbm40Y2RaNHB3aS16MGVKNjdwU1d4RVk5R2piQ0MyMHdMMXQzT3lPV1QxX0NadjRybm5GVlNYQmhaMzV6bmxrWG1JS3hZX2cybFBqSkR0ay0xdU5xcWlyM01JMnNYdTRISkRWczFNVGJB?oc=5",
-   "source": "Shipping Telegraph",
-   "published": "2026-10-06T07:00+00:00",
-   "added": "2026-10-09T05:37+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "prices",
-    "shipping"
-   ],
-   "summary": "Trump extends Jones Act waiver with limits in bid to tamp down energy prices Shipping Telegraph",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   }
  ]
