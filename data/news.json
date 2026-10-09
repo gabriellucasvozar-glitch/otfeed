@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T14:31+00:00",
+ "generated_at": "2026-10-09T14:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "e560fb8d9a6a",
+   "title": "Port Rzeszów-Jasionka: 133 648 pasażerów i 1 405 operacji we wrześniu",
+   "original_title": "Port Rzeszów-Jasionka: 133 648 pasażerów i 1 405 operacji we wrześniu",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkV2X3RBUzlIRUZkeGdjc2FuLUFCZ2U0MXpnaTRPcnlxX1Y4V1k5OFJYbUxObWJyaW53Q3NOQ0ItTEN4T1JOQ1VtS0JRWk9PempLTFVtZEZoSFlIQUtmazJFa1BQTUctOUtGOVN4a19KSE5zTlhneV9sdkhxNnJuUWhnMkhXVDAzZW1KcHZpaVBIVnNkS1Q5ZTkyYzZqeWc?oc=5",
+   "source": "transinfo.pl",
+   "published": "2026-10-09T14:45+00:00",
+   "added": "2026-10-09T14:55+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port Rzeszów-Jasionka: 133 648 pasażerów i 1 405 operacji we wrześniu transinfo.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "c9616dc571ed",
    "title": "Urea Prices Drop in India as China Reshapes Fertilizer Markets Across the Americas",
@@ -43,6 +68,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "744c45757204",
+   "title": "Second Ship Struck Inside Persian Gulf in Three Days",
+   "original_title": "Second Ship Struck Inside Persian Gulf in Three Days",
+   "url": "https://gcaptain.com/second-ship-struck-inside-persian-gulf-in-three-days/",
+   "source": "gCaptain",
+   "published": "2026-10-09T13:42+00:00",
+   "added": "2026-10-09T14:55+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "attack",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Vessels in the Strait of Hormuz, as seen from Musandam, Oman, August 3, 2026. REUTERS/Stringer A commercial vessel was struck by a projectile in the Persian Gulf on Friday, sparking a fire onboard in the second reported attack on shipping inside the Gulf in just three days, as violence spreads beyond the Strait of Hormuz. The United Kingdom Maritime Trade Operations (UKMTO) said it received reports from multiple sources that a vessel was struck at approximately 1000 UTC, about 13 nautical miles west of Al Jazeera, United Arab Emirates. The incident follows an October 7 attack on a tanker near the coast of Qatar, marking the second time in three days that a vessel has been struck inside the Persian Gulf rather than while transiting the Strait of Hormuz. The HERCULES STAR (IMO 9916135) was struck approximately 24 nautical miles northwest of Port Rashid, UAE, killing two seafarers, while the NEW ANDROS (IMO 9294252) was hit about 28 nautical miles southeast of Al-Faw, Iraq. In its weekly maritime security overview , released Friday, UKMTO documented 11 attacks during the seven-day period ending October 7, including 10 in the Strait of Hormuz and one in the Arabian Gulf.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
    "id": "6228713d67e1",
    "title": "ENGIE, Port of Antwerp-Bruges and Zefier expand renewable electricity generation in the port of Zeebrugge",
    "original_title": "ENGIE, Port of Antwerp-Bruges and Zefier expand renewable electricity generation in the port of Zeebrugge",
@@ -66,6 +119,39 @@
    ],
    "summary": "ENGIE, Port of Antwerp-Bruges and Zefier expand renewable electricity generation in the port of Zeebrugge American Journal of Transportation",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d5036b3d6007",
+   "title": "Baltic countries seek EU ban on Russian grain transit",
+   "original_title": "Baltic countries seek EU ban on Russian grain transit",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOE5EMlFfSlJBRWVpQXVUYUlId0l5b3NGR3owaUN4VEtYYkNJSlBpYjNxZk9xemV4SmdKOERGQnMyTnhjSE1yQjVFb0JBQ3l4UTRFaktXOENqXzg3cURmNzRHNmN3YzJvZXVJbHdqaVRCbXRkR25VcVExRlgzX2Y5djljaw?oc=5",
+   "source": "Yahoo Finance UK",
+   "published": "2026-10-09T13:22+00:00",
+   "added": "2026-10-09T14:55+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Baltic & Nordics",
+    "Western Europe",
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "baltic",
+    "eu ",
+    "grain",
+    "russia",
+    "russian"
+   ],
+   "summary": "Baltic countries seek EU ban on Russian grain transit Yahoo Finance UK",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -93,6 +179,33 @@
    "summary": "DP World Receives New Electric Cranes As Santos Expansion Advances The Manila Times",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
+  },
+  {
+   "id": "1b108a3541fa",
+   "title": "Ethanol Could Offer Shipping Another Path to Lower Emissions",
+   "original_title": "Ethanol Could Offer Shipping Another Path to Lower Emissions",
+   "url": "https://gcaptain.com/ethanol-could-offer-shipping-another-path-to-lower-emissions/",
+   "source": "gCaptain",
+   "published": "2026-10-09T12:38+00:00",
+   "added": "2026-10-09T14:55+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "shipping",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "alternative fuel",
+    "shipping"
+   ],
+   "summary": "Maersk's methanol-fueled container vessel Laura Maersk arrives for an official naming ceremony in Copenhagen, Denmark, September 13, 2023. REUTERS/Tom Little A new study from the Mærsk Mc-Kinney Møller Center for Zero Carbon Shipping finds that ethanol could become a practical alternative fuel for ships, particularly those already equipped with methanol-capable engines, while also identifying a possible pathway for its use in conventional diesel-powered vessels. The report, Ethanol as a Marine Fuel: Exploring Its Usability, published Thursday, examines whether ethanol can be used in existing marine engines and what modifications would be needed to make it commercially viable. Maersk has been testing ethanol aboard its methanol-fueled container vessel Laura Maersk since 2025, initially using a 10% ethanol blend before moving to higher concentrations. Despite those limitations, the study found that converting some existing vessels to operate on ethanol blends could make economic sense. For example, researchers found that a large container ship consuming approximately 25,000 tonnes of fuel annually could economically operate on a 30% ethanol blend across a wider range of fuel carbon intensities. The report also stops short of determining how much ethanol could realistically contribute to shipping’s overall decarbonization.",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "extract"
   },
   {
    "id": "b0e630053096",
@@ -1068,6 +1181,35 @@
    "summary": "New York-listed Greek bulker owner Diana Shipping has secured a 42% rate increase for its capesize GP Zafirakis in a new time charter with Classic Maritime. The 2014-built, 179,492 dwt vessel has been fixed at $38,000 per day, less a 5% commission, compared with the $26,800 per day currently paid by Japanese shipping giant NYK. The new charter is scheduled to start on October 10. The agreement runs until at least October 1, 2027, with the vessel potentially remaining on hire until December 15. Diana said it expects the minimum employment period to generate approximately $13.34m in gross revenue. It also marks another deal between the Semiramis Paliou-led owner and Classic Maritime. In July, Diana fixed its 2012-built, 206,040 dwt newcastlemax Philadelphia to the charterer at $35,500 per day, securing a 65% increase over its previous rate with Cosco-controlled Refined Success.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "7991ebccfd60",
+   "title": "InfraRed Capital Partners acquires New Zealand port operator C3 - Vietnam Investment Review",
+   "original_title": "InfraRed Capital Partners acquires New Zealand port operator C3 - Vietnam Investment Review",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVhMcmd3eXlvbTdaVzQ2M0xVeUlvTmtvZ0FlSlNNeUxvZFhFLWIxM09LeldCcWlWLUliWjgtdTFhRDlqSE1UMS1JWTdjV3J4VWtJZlF2d1BYaF9VbWVHaHppUHhUV3NxMkFwM0JFTXlYZmMxd0Z5WHd2R1NUOUkyYXRWSE9OY1AwRlZ2TGNBMHlvQ1E5Y2lYY2t3?oc=5",
+   "source": "Vietnam Investment Review - VIR",
+   "published": "2026-10-09T09:23+00:00",
+   "added": "2026-10-09T14:55+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Asia",
+    "Oceania"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "port"
+   ],
+   "summary": "InfraRed Capital Partners acquires New Zealand port operator C3 Vietnam Investment Review - VIR",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
   },
   {
    "id": "eaecf26de413",
@@ -16520,140 +16662,6 @@
    "summary": "Teu-mile demand growth has regressed for the first time since January, reflecting a combination of blanked sailings by major carriers during China’s Golden Week, increased newbuild vessel deliveries, and more ships returning to the Suez Canal on Asia-Europe routes. According to container shipping consultancy Linerlytica, several long-haul services have been cancelled in response to weaker Chinese export volumes during the week-long holiday that began on 1 October. The blanked sailings are concentrated on Asia-US East Coast and Asia-Europe trades. Linerlytica said: “The return to the Suez route poses the biggest threat to carrier efforts to reverse the rate slide on the Asia-Europe route that have persisted for the past three months. “All carriers are making a concerted rate push from the end of October, with MSC among the latest to announce new Asia-North Europe FAK (freight all kinds) rates from 19 October of $3,150 per teu and $4,500 per 40ft.” Rates on that trade have fallen around 60% since July as the early peak-season momentum faded. Nearly 200,000 teu of new capacity arrived last month, against no vessels demolished, adding further pressure to market capacity. The faster-than-expected resumption of Suez Canal transits, however, remains the biggest obstacle to carrier efforts to support and increase freight rates.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "69d6f867de10",
-   "title": "Parviz Shahbazov: Azerbaijan is one of key transport and logistics hubs between Europe and Asia along Middle Corridor",
-   "original_title": "Parviz Shahbazov: Azerbaijan is one of key transport and logistics hubs between Europe and Asia along Middle Corridor",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMG1sc18zVjhJT2FpVzFtWmJ3NTFGTTVnamhBdjlqVHVHbjRpaGtwVUVkUUVWZEtsZEZOZHFKeUkzN21tanFlWTVPQmxXdUY3Q19Qc0RibWhMeElHWTlNbnNYaXUxRlVZcWN1TS1zZExXNGJLa1hSOURUdmlrbWZoemRTLUhwWkRYelFLSWJBVkhjbzdKWFR3SVROam9JUjJHbnpaNDZOY21LYVI4alMtRDMzUWJVaWVJVHhiWElKMTZiSWxFbzNSSkoxNmxQdXJpOTRVTnhJWldPTWxlUlJuYkxyQU11QQ?oc=5",
-   "source": "Apa.az",
-   "published": "2026-10-06T10:44+00:00",
-   "added": "2026-10-06T12:29+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "logistics hub",
-    "middle corridor"
-   ],
-   "summary": "Parviz Shahbazov: Azerbaijan is one of key transport and logistics hubs between Europe and Asia along Middle Corridor Apa.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2902c0c60a06",
-   "title": "Deputy minister: Cooperation with German company on expansion of Port of Baku under discussion",
-   "original_title": "Deputy minister: Cooperation with German company on expansion of Port of Baku under discussion",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHE2Mi01b3dtRnpudVFGd0NoMlpNZWRvTEpYdEJfcTYyQy1UOFhtY0VjeFB3NkdwbklyY3dvR0RScEN4bEpwNDJCTl9KMUlmRXR3SEZfOUxfUG9kcV9nRjlScXIxTTNSdkJtQUptR01LazIzQ2ZtN1lFRDFmOXZYZ0VucG5raXpqaF9qaFU2VEZiSWhGNEJYQ25OZ2JwYmV2WE1LbUZvMURfY2dzeWJqeWlWenJtQlBEQ0RSQ0xvTVFKZ1dia3U4?oc=5",
-   "source": "Apa.az",
-   "published": "2026-10-06T10:41+00:00",
-   "added": "2026-10-06T10:47+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Deputy minister: Cooperation with German company on expansion of Port of Baku under discussion Apa.az",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "762c39e61bc5",
-   "title": "ADNOC L&S lines up three more VLGCs for $324m",
-   "original_title": "ADNOC L&S lines up three more VLGCs for $324m",
-   "url": "https://splash247.com/adnoc-ls-lines-up-three-more-vlgcs-for-324m/",
-   "source": "Splash247",
-   "published": "2026-10-06T10:30+00:00",
-   "added": "2026-10-06T10:47+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "fleet",
-    "logistics",
-    "shipping"
-   ],
-   "summary": "Abu Dhabi-listed ADNOC Logistics & Services is investing AED1.19bn ($324m) in three 90,000 cu m VLGC newbuildings as it continues one of shipping’s more aggressive fleet expansion programmes. The three ships are scheduled for delivery in the second half of 2029 and have already been secured on seven-year contracts with ADNOC Global Trading. The yard has not been disclosed. The latest order adds 270,000 cu m of gas carrying capacity and comes just two months after ADNOC L&S spent AED4.8bn ($1.3bn) acquiring six VLCCs and five VLGCs. That transaction took its VLGC fleet to 12 ships, meaning the latest trio would lift the count to 15 once delivered, assuming no disposals in the meantime. ADNOC L&S has also been piling into LNG tonnage. The company ordered four 175,000 cu m LNG carriers at Jiangnan Shipyard for around $900m in July before exercising options for another two in August for $444m, taking that newbuilding programme to 20 ships. The new VLGCs differ from that LNG programme by coming with firm employment already attached. No value has been disclosed for the seven-year AGT contracts or for the financing of the vessels.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "62349f6e0f23",
-   "title": "UK rail freight ambitions face environmental challenge over Oxfordshire terminal",
-   "original_title": "UK rail freight ambitions face environmental challenge over Oxfordshire terminal",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaXRXTXBlRDN2cXBXdl9FRXBicmpyWEhyZjBhdVlTMUhtQmtGMmNKLUo5M2JfU2tJck5Hc2V6XzVmbzh5dEJaWFNMMi1PODBTbWdpSElzcTRWSVlaSjN0ejBQLVkyT29rbU04Vmt6SGI5TTNQUWtGQ3lFRDNycW1PS0JrQWd0TVQ4Nlp0ZmZhaTRHTWh5MmpxQUtQeWU0TzExRl9XUG0td0d2d0JnQy0xcnk2Zk84WE5tcTFibXNSYjFCakRoVHh3cWZXdjc?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-06T10:30+00:00",
-   "added": "2026-10-09T07:43+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "rail freight",
-    "terminal"
-   ],
-   "summary": "UK rail freight ambitions face environmental challenge over Oxfordshire terminal RailFreight.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e10124e6ccd5",
-   "title": "Polskie porty rosną a wraz z nimi infrastruktura logistyczna",
-   "original_title": "Polskie porty rosną a wraz z nimi infrastruktura logistyczna",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnlNdHZuanFGalhMTlRraTJwWW5taE1wdVE2N2VYNlFEVjlaT19nN3NGbXZmdHFlNTdHWnoxZDVsUnZKRU9PU19oRXJRczJkVzVlMzNxVWlSM0VCNUd2WldNU3RSQkJUc2x2czJHQVdsT0JwQ0hwNHN2WDJvZmhWRnVLUmpnN0VNT01WQ2ZRYWozRzNORWlHOU13eWVHQnBIUGs2TA?oc=5",
-   "source": "CEO Magazyn",
-   "published": "2026-10-06T10:22+00:00",
-   "added": "2026-10-06T11:24+00:00",
-   "lang": "pl",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "magazyn",
-    "polski",
-    "polskie"
-   ],
-   "summary": "Polskie porty rosną a wraz z nimi infrastruktura logistyczna CEO Magazyn",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
   }
  ]
 }
