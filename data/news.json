@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T16:24+00:00",
+ "generated_at": "2026-10-09T16:47+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,95 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "e849d2a2ab59",
+   "title": "Murmansk emerges as an alternative to Baltic ports for Belarusian fertilizer exports",
+   "original_title": "Murmansk emerges as an alternative to Baltic ports for Belarusian fertilizer exports",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTUMwU2hNOHliYXVyZU1fOXlCMzVZWlVxTl9ueGxiUlZDRUNkbnRpQ21yNkVpMTFSeW5FdjhaY0JVZmxjczg3ZXF1aDBVaFRxbDJ4S1RpSXlYbUQ2aVRqS0JqcWstUEluMldNVlhrVXJ5eFBHd2cycWNUMkVqNkQ5SzRqZ1A1Y3JjNVUyOWJtZmlSR0k?oc=5",
+   "source": "PravdaReport",
+   "published": "2026-10-09T16:28+00:00",
+   "added": "2026-10-09T16:47+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "baltic",
+    "belarus",
+    "fertilizer",
+    "port",
+    "ports"
+   ],
+   "summary": "Murmansk emerges as an alternative to Baltic ports for Belarusian fertilizer exports PravdaReport",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a0f106f599f1",
+   "title": "From Policy to Practice: Shipping’s Regulatory Autumn Puts Proof on Trial",
+   "original_title": "From Policy to Practice: Shipping’s Regulatory Autumn Puts Proof on Trial",
+   "url": "https://gcaptain.com/from-policy-to-practice-shippings-regulatory-autumn-puts-proof-on-trial/",
+   "source": "gCaptain",
+   "published": "2026-10-09T16:21+00:00",
+   "added": "2026-10-09T16:47+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "brussels",
+    "shipping",
+    "shortage"
+   ],
+   "summary": "A drone view shows shipping containers at the Port of Montreal in Montreal, Quebec, Canada April 14, 2025. REUTERS/Carlos Osorio The IMO chose From Policy to Practice: Powering Maritime Excellence as its World Maritime Day theme for 2026 and 2027. The Paris and Tokyo MoUs are running a joint Concentrated Inspection Campaign on the securing of cargo units and cargo transport units, from 1 September to 30 November 2026. Closer to home, the UK ETS has applied to domestic shipping since 1 July, covering cargo and passenger ships of 5,000 GT and above on voyages between UK ports and while in UK ports. The 22nd intersessional working group met in London from 1 to 4 September, with nearly 1,200 registered participants. Its chair reported a genuine willingness to put text before MEPC 85, while work on guidelines and life cycle assessment was pushed back to the next session for lack of time. ISWG-GHG 23 meets from 23 to 27 November. MEPC 85 follows from 30 November to 3 December. The adjourned extraordinary session is scheduled to resume on 4 December, subject to confirmation by MEPC 85.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "3b7a40bda389",
+   "title": "Global Oil Tanker Shortage is Getting Worse By the Day",
+   "original_title": "Global Oil Tanker Shortage is Getting Worse By the Day",
+   "url": "https://gcaptain.com/global-oil-tanker-shortage-is-getting-worse-by-the-day/",
+   "source": "gCaptain",
+   "published": "2026-10-09T16:08+00:00",
+   "added": "2026-10-09T16:47+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "shipping",
+    "supplychain",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "shipping",
+    "shortage"
+   ],
+   "summary": "Oil tankers pass through the Strait of Hormuz, December 21, 2018. REUTERS/Hamad I Mohammed For a sign of just how extraordinary oil shipping costs have become, consider this: It’s now more expensive to hire a tanker from the US to China than to launch a rocket into space. That journey costs about $80 million, compared with $74 million for a standard SpaceX Falcon 9 launch, shipbroker Gibson said this week. The eye-watering prices are the result of a global tanker shortage that is getting worse with every additional barrel of oil flowing through the Strait of Hormuz. “We’ve had pretty parabolic pricing.” The surge is a fresh complication for an oil market that has spent months adapting to the historic disruption caused by the Iran war. The value of a new oil tanker on the second-hand market has climbed to $240 million, the highest on record, according to Clarkson Research Services Ltd., a unit of the world’s largest shipbroker, and more than 60% above its level at the end of last year. While European refiner Repsol reported margins of $36 a barrel in the third quarter, analysts at RBC say those numbers contracted in October to about $15, partly as a result of high tanker costs.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
   {
    "id": "4726a26620b0",
    "title": "EU steel prices to rise as CBAM cost could reach €5B/y, says Trasteel CEO",
@@ -70,6 +159,31 @@
    ],
    "summary": "China agrees to slash EU hybrid car exports in half, putting brake on trade war South China Morning Post",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4e84d70b540e",
+   "title": "Viracopos Cargo Terminal Invests in Infrastructure and Workforce Expansion to Enhance Operational Efficiency",
+   "original_title": "Viracopos Cargo Terminal Invests in Infrastructure and Workforce Expansion to Enhance Operational Efficiency",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPSWVHS3h3ZTFGQVhJOFFmVGxhSFpIZnZVRUhsaVdjdGNNOERCMVJDTzFTVlQwcWN2WlFaXzdpSGtMWkRkSDJrVW42OW5LZnc2aXNqQi02U29fZktVNW5MNWlUc1BQYmlfamxIMjg4QXZpakdVaWZwZG1mdTFKbjdRZUI1WUdVbWNPNmw3TzEtU2J6SmRsUVAybFVUaFNIamdkeWhzcWdoQmdQekpmcGYzQ3pwRnJXNkstTGg5YktwTlVub3IzMTFBM3NlaDFjOTZ0cWg2OUIyb1k2b2NEZVdfTGgzRUNFXzl6di1uSjZfRkc5aHkzOERvbTF6ZGhRRE5OOXBLRDh1bldHUU1OdU9oa1oxbldWSjhLNlVqRFhFZmFNYnU1ZF9fZzFIV0NheWhPNm5OTk5fRHdMeGtWQVF3?oc=5",
+   "source": "www.routesonline.com",
+   "published": "2026-10-09T15:05+00:00",
+   "added": "2026-10-09T16:47+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Viracopos Cargo Terminal Invests in Infrastructure and Workforce Expansion to Enhance Operational Efficiency www.routesonline.com",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16550,112 +16664,6 @@
    ],
    "summary": "Fariz Aliyev: Middle Corridor should become a fully integrated international logistics route within 5 years Report.az",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "55c33b47f885",
-   "title": "Port of Bilbao targets 5G rollout as vessel sizes increase",
-   "original_title": "Port of Bilbao targets 5G rollout as vessel sizes increase",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV01URVVuVEw0UjZPcFREVFk4RGtObkxnRTBHTkY4QkxfMTJMS3JSdlhQTlR1SnZvU2lqcWh0MzA0SU4zS29SdnpsS2d5YkJ5b193eV8wVEx1YndxTFU3YS01TFRVaXNCeFIzNVpjUTZFMmZtTXFfRjhpdE5ocDhLcFU0U0l0U1UydGlVckxITmQxdUZ3Y1VaMEp2bzFyQ19aSWNNWG0tYmI0aHBPUk9LZGN4RzgzMGtzY1puT2E0NC01ZlhsSzFlaEQtNFdJUQ?oc=5",
-   "source": "porttechnology.org",
-   "published": "2026-10-06T11:13+00:00",
-   "added": "2026-10-06T11:45+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "vessel"
-   ],
-   "summary": "Port of Bilbao targets 5G rollout as vessel sizes increase porttechnology.org",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "71f44a9c6aae",
-   "title": "Khudayar Hasanli: Baku Port's container capacity to be increased to 500,000 TEUs",
-   "original_title": "Khudayar Hasanli: Baku Port's container capacity to be increased to 500,000 TEUs",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkVwZllXb1ZfaUpoNXhtZTBCeTVnRnZEeWMtOFpYcHhQUU1PTDNzN3ozdmpteDR1UGJycVhOUDZfQVRtcGhTOWNBZWJHUFEzTHhEbjNzclVDajJOZTNjbUh1VVV1WDNla0ktTTB3azg2a3lCdWRxeXZMeWpGTzlJbG1sSV9LNV9BdHkyT19KOG9XYy1obU9RdEJFUEZsbkVJbkxEMXBxZ3pfWTBTZEVWcWhKbGotd9IBuwFBVV95cUxNMVlCY3lidF9ucjRBbmRwX1k2M0pCZHNYY2pieExTTWM4elQwSlZzeGFtd1pnalhjOGNWWHRHMkdvNzNHbEg1OHNQSllIOFd0ckhEcVlEcUhoOGdZa0Q1bW94Wk9admctUmQzc0dwQjRHa0NCdWNFeGxSM3VFbk1tYTdOTGZFQ2NFd29uSFpMTzdrd1UxNVhGVXZWQmRwZ29wWWJscjFaUG5fc194SlBRbTdiSGtoTVUzLWo4?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-06T11:11+00:00",
-   "added": "2026-10-06T11:45+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "teu"
-   ],
-   "summary": "Khudayar Hasanli: Baku Port's container capacity to be increased to 500,000 TEUs Report.az",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "18302fd1fd64",
-   "title": "C.H. Robinson and RXO: Transforming Third-Party Logistics",
-   "original_title": "C.H. Robinson and RXO: Transforming Third-Party Logistics",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmZtWFVlX0pESndzaU5GaHRxbW91cDlEWWtxWElWM2R0SkNodDBNaDhmeXdlaTRCOUptYm1rY3FrcXdZU2lyTmxZQnBVUW9oclVVYmU2NEJ3dE1wWmExM09NLXZ4eDNGejRmbFZZSVc4TVh2bUxnX3QwVldQcHJzZkpvamk5X0ZqUG5QYUowTDdYdG9pclE?oc=5",
-   "source": "Supply Chain Digital",
-   "published": "2026-10-06T11:10+00:00",
-   "added": "2026-10-06T11:45+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistics",
-    "supply chain"
-   ],
-   "summary": "C.H. Robinson and RXO: Transforming Third-Party Logistics Supply Chain Digital",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "558e82c45785",
-   "title": "Kończy się wbijanie pali pod terminal FSRU. Byliśmy na miejscu budowy",
-   "original_title": "Kończy się wbijanie pali pod terminal FSRU. Byliśmy na miejscu budowy",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1FkamNaUF96dTN5Ykk0dXQ1ZXBack5QMFFyQUcwdHZQUFhaRUVPZXh1QkpSRnJnVHRTWGo5bUhZR3MteTJWNmJMdlM4Q1BuQ1NYZDNlaEFNNTMwOHNTM2FKTmFWeHFOM3prSkVsbjhvUF9mX1VXdkFEaXduQk5RdEVUdFFuVVB3RjE0aU5TODViQkFOeDVQOWgwX1ZIQ3Y1aWlhTUl1ZEQzZw?oc=5",
-   "source": "GospodarkaMorska.pl",
-   "published": "2026-10-06T11:10+00:00",
-   "added": "2026-10-06T14:23+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Kończy się wbijanie pali pod terminal FSRU. Byliśmy na miejscu budowy GospodarkaMorska.pl",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
