@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T22:49+00:00",
+ "generated_at": "2026-10-09T23:04+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -38,6 +38,37 @@
    "summary": "Avaza Summit Highlights East–West and North–South Trade Routes The Times Of Central Asia",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
+  },
+  {
+   "id": "8fc13378a0b0",
+   "title": "Cai Mep terminals combine operations to add 900,000 teu capacity",
+   "original_title": "Cai Mep terminals combine operations to add 900,000 teu capacity",
+   "url": "https://splash247.com/cai-mep-terminals-combine-operations-to-add-900000-teu-capacity/",
+   "source": "Splash247",
+   "published": "2026-10-09T21:59+00:00",
+   "added": "2026-10-09T23:04+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "berth",
+    "container terminal",
+    "port",
+    "terminal",
+    "teu",
+    "vessel"
+   ],
+   "summary": "Two container terminals at Vietnam’s Cai Mep-Thi Vai port complex have begun joint commercial operations, creating a continuous 1,200-metre berth with the potential to add nearly 900,000 teu of annual capacity. Cai Mep International Terminal (CMIT) and Tan Cang-Cai Mep Thi Vai Terminal (TCTT) have connected their adjacent facilities to allow vessels, cargo-handling equipment and operational resources to be managed across both terminals. The arrangement enables three large containerships to be handled simultaneously, compared with a maximum of two previously. The operators estimate that the combined infrastructure could increase operating capacity at each terminal by 30% to 40%, equivalent to an additional 400,000 to 500,000 teu annually per facility. The joint berth follows more than two years of planning and operational trials. CMIT is a joint venture involving Vietnam Maritime Corporation, Saigon Port and APM Terminals, while TCTT is part of Saigon Newport Corporation.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
   },
   {
    "id": "00bc4fa19a93",
@@ -16646,33 +16677,6 @@
    ],
    "summary": "R@Port Support: LIBERA / SOBCZYK: FILOPAT I PATAFIL TVP Gdańsk",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "65b4d65014ac",
-   "title": "Brent Futures Fall More than 2% as Middle East Exports Recover, Shipping Risks Persist",
-   "original_title": "Brent Futures Fall More than 2% as Middle East Exports Recover, Shipping Risks Persist",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONUtscjBad2NrYlFpckhZRUc0SUFnc3YzYjhqenRqaHlUUHE5Z1BpVGJlRjZWaE5BSzZxUWtoNnFoXzg1VVd5QlNWY3RMLVBiUW1QUXNaTUFBMExBMTNEaXQ3bU13QnlfbUJScW5yNUJDQTJ2SUJXMmo3NXZyOTBtb2FNOThkNjc1ZlgwU3JGRkRSclhaS25UQjk4QWNiZ2Y2bkpiMkJidk1LakNnTmNodTVYN0Q0cTg?oc=5",
-   "source": "WSJ",
-   "published": "2026-10-06T13:25+00:00",
-   "added": "2026-10-06T15:26+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "futures",
-    "shipping"
-   ],
-   "summary": "Brent Futures Fall More than 2% as Middle East Exports Recover, Shipping Risks Persist WSJ",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   }
  ]
