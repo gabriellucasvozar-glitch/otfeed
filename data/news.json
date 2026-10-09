@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T23:58+00:00",
+ "generated_at": "2026-10-09T00:33+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "8b8014589874",
+   "title": "Fuel and fertiliser costs outpace higher grain prices - CoBank",
+   "original_title": "Fuel and fertiliser costs outpace higher grain prices - CoBank",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPendWSU55dnlyeHZwTDNxRExBd0FhTzlOVG92d3VLN1lpNUs0d1puaFFfQVgzU0k1SmlsYkdJNms4ZG9sYWRaclFyZzFIanZQQTg0eHp6OEgyeUs0R0d2anhhN2VWVWlodXk4c0JzQzRNeWdrVnRodV81N0hCbmpjcUVPLWxKUkhaM0dkX2NlQU1uQTlzT2JSZU9TQXRuM1JoMmc?oc=5",
+   "source": "The Pig Site",
+   "published": "2026-10-08T23:00+00:00",
+   "added": "2026-10-09T00:33+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fertiliser",
+    "grain",
+    "prices"
+   ],
+   "summary": "Fuel and fertiliser costs outpace higher grain prices - CoBank The Pig Site",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "52bdec61b9ea",
    "title": "Global Cranes Market to Grow at 5.5% CAGR as Infrastructure Development, Smart Crane Technologies and Rising Demand for Heavy Lifting Equipment Gain Momentum, reports Maximize Market Research",
@@ -11368,6 +11395,34 @@
    "summary_method": "extract"
   },
   {
+   "id": "46f26660e658",
+   "title": "EU will see food shortages without fertiliser solution, Hansen says",
+   "original_title": "EU will see food shortages without fertiliser solution, Hansen says",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNckxUOW1Fb0RHalBDekthMW1GdFlFTXhRZmpaZlQ3YjlQOXdIMENMX05tMGw3UDBQZzM3Z2hyeG94LXJxQVVOTDJqRXFza1ZlYnBpN1UzQ1EzMHJMd18yZHJnMTRnaUh0ZU1obHFFYUhPNjZaTHFpcWxiSE5jU1BseV8tc0pMNVBBMGpfLUFIc183YWZfM2RiTTlWb0xnamcwRUtqeGtobExlLUVOc01lcFFfUkZBRFNSNGZhN2JWWURNYXRi?oc=5",
+   "source": "Euronews.com",
+   "published": "2026-10-06T16:59+00:00",
+   "added": "2026-10-09T00:33+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "fertiliser",
+    "shortage"
+   ],
+   "summary": "EU will see food shortages without fertiliser solution, Hansen says Euronews.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3f787c48b79d",
    "title": "War in Ukraine Escalates With Drone Strikes on Cargo Ships",
    "original_title": "War in Ukraine Escalates With Drone Strikes on Cargo Ships",
@@ -15463,6 +15518,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "9a19df395b2f",
+   "title": "Antwerp port reopens Scheldt to shipping after oil spill in Deurganckdock",
+   "original_title": "Antwerp port reopens Scheldt to shipping after oil spill in Deurganckdock",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTEZRWXFVeE1YMTdWRUJOa09sU25RaUpZSThpS0lLVGFhNEhGZ2FGMkZxcjJHVU1tVXRZRW9lVmVMZWRwdXZvVVVkcDFvVjY5OTgzdmZiMUxMUFNkQjEyM01yUmw4U1VjMVZReGFYSjNUbUpOVkhlWlRvWC1aRXpZVWpFTmItaEk0cmxvRjJpSlVSaThWWDdLWEU3dFlHLUpwejd3bVRqa3lLQUV2WWJsc1ZabnM?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-10-06T07:00+00:00",
+   "added": "2026-10-09T00:33+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port",
+    "shipping"
+   ],
+   "summary": "Antwerp port reopens Scheldt to shipping after oil spill in Deurganckdock Shipping Telegraph",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "04adc7d06149",
    "title": "Panama Canal extends long-term slot system to panamax locks",
    "original_title": "Panama Canal extends long-term slot system to panamax locks",
@@ -16373,6 +16455,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "d015109c5f24",
+   "title": "AGL drives warehouse hubs around African ports to capture the regional trade boom",
+   "original_title": "AGL drives warehouse hubs around African ports to capture the regional trade boom",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOGNGOFMxNl9faUotcTVnRWkzUEJOWmRVeDBFamJiUzFfT1lLRTVxNE1EOUt6bWRkZF9uR0EtTl9CYnlid2llYzdLdlI1aWhKS2pXeW11Tk1pODlGZU52blZXOVdsNzQ3dlFwbTNlNVlMVkVWVE9QNGZSM2F2UmpMRHJBZmRoMjNsR2FqMVpTMDVlTEs1dVZsM0V6NUFoOUNzTTh0aDA3bWkwWFA2Zmc?oc=5",
+   "source": "Capmad",
+   "published": "2026-10-06T01:35+00:00",
+   "added": "2026-10-09T00:33+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "warehouse"
+   ],
+   "summary": "AGL drives warehouse hubs around African ports to capture the regional trade boom Capmad",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "0d9f7f4347e5",
    "title": "Russia's Makhachkala Port plans capacity expansion to 11 million tonnes",
    "original_title": "Russia's Makhachkala Port plans capacity expansion to 11 million tonnes",
@@ -16507,115 +16617,6 @@
    ],
    "summary": "DP World deepens Africa push with USD 7 billion Nigeria port and SEZ projects internationalfinance.com",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2c7260e3cc61",
-   "title": "Turkey's Yilport to upgrade Leixoes North Container Terminal in Portugal",
-   "original_title": "Turkey's Yilport to upgrade Leixoes North Container Terminal in Portugal",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNWZNSVA0SWVmT2pmVmg5NzhQLU9HOElZZjU2b2dCbW9YUmo1SFlRaXpyRVRYQ1I0YVRjeXJvX250WDdPWDZabjgycEJNN1lMVEhzZ3hvRG9WOV9zUDByTl9tdGVqcXlUdU54bjBJR2NlUmV3TmJIcmlJbDhvYVV0TmJyZkd6WlY1NmVjSmE2WVrSAZ4BQVVfeXFMUFh1d3g4SFBLT3k2di1wUXBkWEdhOGtRVGwyck1XbVRhek1EaXgxSHJzTU8zM050bWlJRHpoQ2YtUDFYUnc1bDZnTktwZVRPMW03SVlTMHNBUVR0MHpic3ZkdmZCb2cxeGgzWFp5WHJVcU9FZkdkZFBhOWYxTTJVRXZvSm41NW1lR0FZYmQwZllnRGZkQVFHcHdKa29oelE?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-10-06T00:58+00:00",
-   "added": "2026-10-08T08:46+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "container terminal",
-    "terminal"
-   ],
-   "summary": "Turkey's Yilport to upgrade Leixoes North Container Terminal in Portugal Baird Maritime",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1fba425fd5a5",
-   "title": "Shipping Companies Ramp Up Defense Investment as Drone Attacks on Commercial Vessels Drive Freight Rates to Record Highs",
-   "original_title": "Shipping Companies Ramp Up Defense Investment as Drone Attacks on Commercial Vessels Drive Freight Rates to Record Highs",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WUzJDZEpaUTFRTW1DU0V0dnNheVp4RktUWU1oWlNiRFRWc1VMcU5RQjUwSF9oWFAxcnUtZ1lsMzhnVDE0emI5WUxrLUV1SWVtb1ozRnhQa1pwY3dNVG1wUUdycV9SRFRwM2wtUG1DWktOeW5hNmc?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-10-06T00:55+00:00",
-   "added": "2026-10-06T16:29+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "attack",
-    "defense",
-    "drone",
-    "freight rate",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Shipping Companies Ramp Up Defense Investment as Drone Attacks on Commercial Vessels Drive Freight Rates to Record Highs BigGo Finance",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1e48b54561a9",
-   "title": "Precious Shipping inks long-term ultramax charter to Asyad",
-   "original_title": "Precious Shipping inks long-term ultramax charter to Asyad",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPazNKcElhUEpVTDFJNXRCRC1na0xZcnV4SmxxeFF0d0FEbGR4d2dFdkMwd0JQRFFmaUp5dm1BNTFudVNVcjU0RXB1YkZZYVVXelFMRUducFRqN2dXUllmZ2lVLS10TThmNlB5cnNLb2dHWWhGMENhbmx1WUF1VnpVMUFWOExaVXpUbFpXd09zc195dDdXYVR5WlJzYU13TW5vY3BfLUZNaWZMaFhlU08ybDdR?oc=5",
-   "source": "Shipping Telegraph",
-   "published": "2026-10-06T00:49+00:00",
-   "added": "2026-10-06T02:15+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "charter",
-    "shipping"
-   ],
-   "summary": "Precious Shipping inks long-term ultramax charter to Asyad Shipping Telegraph",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "901b28ef063e",
-   "title": "Australian canola exports surge in August",
-   "original_title": "Australian canola exports surge in August",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdjgtMF9KUTJRYTFVcWdsZms3Z2cySVNtLTFmZ0xMczlwdFBCdGtiZTgzeEpSXzBjZVZKZkJqblFjdUY3RXBDdlhfaWtsdHFVcWRwY1pJRXc4R1VLVlpaTFA4WEIwekU5Q0kzMHdnczVhQ2R5WlNsdTFiYXNmNmM0TVdGUVZkdw?oc=5",
-   "source": "Grain Central",
-   "published": "2026-10-06T00:42+00:00",
-   "added": "2026-10-06T01:54+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "Australian canola exports surge in August Grain Central",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
