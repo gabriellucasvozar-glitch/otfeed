@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T22:06+00:00",
+ "generated_at": "2026-10-09T22:28+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,32 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "263a08ed03af",
+   "title": "Avaza Summit Highlights East–West and North–South Trade Routes",
+   "original_title": "Avaza Summit Highlights East–West and North–South Trade Routes",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPakRpME4tdWw0bW1JYTRSRHRjRXV1M3pTelRhX0h4TUhSd3BMNTJFd0RTWUxmTjVPNmRvV0k4OVk3YVBhRFdMSWV6Nkxnc2cwNldYOFN2NU1oZVRYbWZXMmVQY08zeFhnandxSHZMbVRpbjhTS21JczVQNnZwU2ZvZXUyeUg5Mk04b1c0?oc=5",
+   "source": "The Times Of Central Asia",
+   "published": "2026-10-09T22:15+00:00",
+   "added": "2026-10-09T22:28+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "trade route",
+    "trade routes"
+   ],
+   "summary": "Avaza Summit Highlights East–West and North–South Trade Routes The Times Of Central Asia",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "00bc4fa19a93",
    "title": "Konecranes sets Port Solutions a market-share target and leaves its margin floor at 9%",
@@ -5313,6 +5339,33 @@
    ],
    "summary": "Klaipeda Port carries out trial of private 5G network from LMT, Santa Monica Networks Telecompaper",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f280b496e782",
+   "title": "Uzbekistan calls Baku Port a key link for cargo along Middle Corridor (Exclusive)",
+   "original_title": "Uzbekistan calls Baku Port a key link for cargo along Middle Corridor (Exclusive)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UkVzOURMdGJldmtZMHZRM0NGUF9BbklPUzdBcTE3NVV0Y0NRU2xXaEI2MlpoNzBJWFVCVVJYLUlVTEpXSlFYcERrUF9rSDFiMWx3MnczN2l6MUk0Wk1n?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-08T13:47+00:00",
+   "added": "2026-10-09T22:28+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor",
+    "port"
+   ],
+   "summary": "Uzbekistan calls Baku Port a key link for cargo along Middle Corridor (Exclusive) Trend News Agency",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16625,61 +16678,6 @@
    ],
    "summary": "US-China Vessel Fees Threaten Apparel Logistics Fibre2Fashion",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a3acbe5644b0",
-   "title": "Natgas: Euro TTF prices higher as storage lags amid LNG crunch",
-   "original_title": "Natgas: Euro TTF prices higher as storage lags amid LNG crunch",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlhubFFvTFFSMk9Lc3NrN0VScWtLZFJxTkEzbnVtM0o4UjdEZklUeHNaYi1vc0hKTU1oOWoyVXpfUFlxMWFDQlZlZ08waS1UcmxGWnFpTktwZnZtWDFBejRDcnlaei1YZExLX1FMbXBYUXdENWZUZ18xaF9FQV9KNGZzNmxVd0tSQXBxeGhmbWp2SzhvYkp0V0s0XzgyLTE1dk9SYlhLX1c5NnlSYkhSQjN3?oc=5",
-   "source": "Quantum Commodity Intelligence",
-   "published": "2026-10-06T13:08+00:00",
-   "added": "2026-10-06T21:01+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "commodit",
-    "lng",
-    "prices"
-   ],
-   "summary": "Natgas: Euro TTF prices higher as storage lags amid LNG crunch Quantum Commodity Intelligence",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e6f4455a6d25",
-   "title": "Colombo West Terminal doubles capacity to 3.2 million TEUs",
-   "original_title": "Colombo West Terminal doubles capacity to 3.2 million TEUs",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN24yYzFLSDlrSE16MVg3SmNnTUY3cmFGS1laNUhsR3RzNFlqbmdoT1psYXdkZmJlTm5SWXJkWnZGRVBoNzJvam5nQnk4bTlPN2txeTRQaW1kaXBKcnp3QjloVjNkeXNXU1hoMy1Cbk5BWW1ZME55NnRaUDZTcV8yVHNpbzlYdUctaEZ2NWNwXzJyN21OdTZUQVJCVzdKbkt2cDRHcjN5Ukk3UDNULUJuenZn?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-06T13:06+00:00",
-   "added": "2026-10-06T13:16+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "terminal",
-    "teu"
-   ],
-   "summary": "Colombo West Terminal doubles capacity to 3.2 million TEUs Port Technology",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
