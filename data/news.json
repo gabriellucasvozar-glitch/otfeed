@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T18:27+00:00",
+ "generated_at": "2026-10-09T18:52+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -39,6 +39,33 @@
    "summary": "Middle Corridor, Kazakhstan cuts transit time to China to 13–17 days AdriaPorts",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
+  },
+  {
+   "id": "40f79df94d23",
+   "title": "Container Surge Continues At The Port Of Long Beach",
+   "original_title": "Container Surge Continues At The Port Of Long Beach",
+   "url": "https://gcaptain.com/container-surge-continues-at-the-port-of-long-beach/",
+   "source": "gCaptain",
+   "published": "2026-10-09T17:25+00:00",
+   "added": "2026-10-09T18:52+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "port",
+    "teu"
+   ],
+   "summary": "The Pier 300 channel at the Port of Los Angeles. Photo courtesy Port of Los Angeles By Lori-Ann LaRocco – The Port of Los Angeles reported its best single month in its history. In a media briefing, port executive director Gene Seroka announced the port processed 1,042,652 TEUs, 23k TEUs more than the July 2025 record. That type of thing takes time.” China accounts for about 40% of total cargo volume for the Port of Los Angeles and 60% for the Port of Long Beach. “While China’s share of our business at the port has dropped from 60 to 40%, we’ve continued to grow, as that sourcing starts to really take effect in Southeast Asia,” said Seroka. Expecting around a 5% uptick in cargo in containers moving to the ports of Los Angeles and Long Beach.” Seroka credits port stakeholders with handling high volumes and shifting global trade routes that are bringing more volume to Los Angeles. Diesel prices in California are the highest in the nation at $8.36 per gallon as of October 9, 2026, according to AAA’s state price comparison . “Fuel at the pump here is up 36 percent since the end of February,” said Seroka.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
   },
   {
    "id": "b0ed2ec1f849",
@@ -180,6 +207,34 @@
    ],
    "summary": "France has agreed to release 10 million barrels of diesel from its emergency reserves to try and curb rising fuel prices after a G7 commitment to draw down more stocks, its Prime Minister Sebastien Lecornu announced in a national address. “Last Friday, President Macron convened an emergency meeting of the G7, which decided to mobilize strategic reserves in ⁠a coordinated manner. As part of this effort, we will make 10 million barrels of diesel from our reserves available,” Lecornu told reporters, saying the decision could shave prices at the pump by around €0.12 to €0.18 per liter. His comments follow a pledge from the International Energy Agency to try and accelerate the pace of its 400 million barrel stock release, which was announced in March but still has 100 million barrels left to complete. After mounting pressure from the US for other countries to release stocks, the G7 said its member states would prioritize getting diesel to the market within 20 days. As part of the collective action in March, France committed to release 14.6 million barrels of oil, without specifying whether those volumes would be crude or oil products. 7 note, analysts at US investment bank JP Morgan estimated that France had already released 3 million barrels of diesel, and still has around 61 million barrels in reserve.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "f36aae60439c",
+   "title": "Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attacks, UKMTO Says",
+   "original_title": "Vessel Struck by Unknown Projectile Off UAE Coast Amid Surge in Attacks, UKMTO Says",
+   "url": "https://gcaptain.com/vessel-struck-by-unknown-projectile-off-uae-coast-amid-surge-in-attacks-ukmto-says/",
+   "source": "gCaptain",
+   "published": "2026-10-09T16:37+00:00",
+   "added": "2026-10-09T18:52+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe",
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "vessel"
+   ],
+   "summary": "UKMTO report of an attack off the coast of UAE on October 9, 2026. LONDON, Oct 9 (Reuters) – A vessel was struck by an unknown projectile 13 nautical miles west of Al Jazeera in the United Arab Emirates on Friday, causing a fire that has since been extinguished, British navy affiliated agency UKMTO said, citing multiple sources. While there was no claim of responsibility, maritime security sources said on Friday that the strike was outside of the Hormuz area and indicated a widening of risk for ships. Earlier this week a tanker was struck off the coast of Qatar inside the Gulf. The status of the crew, extent of damage and environmental impact from the vessel struck on Friday remain unknown, UKMTO said, adding that authorities were investigating the incident. UKMTO does not typically name vessels, but two shipping and security sources said the vessel struck was the Panama-flagged crude supertanker GEM NO.2. “GEM NO.2 was struck by an unknown projectile approximately 13nm west of Al Jazeera, UAE, at 1000 (GMT),” British maritime risk management group Vanguard said. “The vessel reportedly issued a distress alert indicating a fire onboard, which was subsequently extinguished.” The vessel’s Panama-based operator, listed in shipping databases as Gem No.2 Maritime Corp, could not be reached for comment.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
   },
   {
@@ -968,6 +1023,33 @@
    "summary": "Riyadh’s international outbound air cargo capacity has fallen by a third as attacks on Saudi airports prompt airlines to suspend services, removing both freighter lift and bellyhold space. Rotate data captured this morning shows Riyadh’s outbound capacity on freighters and widebody passenger aircraft fell 34% over 24 hours, to 848 tonnes, and 26% over 72 hours, compared with the equivalent periods a week earlier. Freighter-only capacity fell 10% outbound and 77% inbound over 24 hours. The wider Middle East disruption is already forcing cargo airlines to adapt their networks. Cathay Cargo director Dominic Perret said this week that suspended Middle East services had affected European freighter operations, which had used Dubai as an intermediate stop. “We are anticipating a strong peak season,” said Mr Perret, “in fact, one of our main challenges is having sufficient capacity to meet demand.” Cathay has added transpacific capacity and expects an A330 freighter, operated by subsidiary Air Hong Kong, to provide additional regional lift next month. Cargo Facts Consulting reported that Asia–North America freighter capacity increased 3.5% month on month in July, and a further 2.9% in August.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "090f0711ddec",
+   "title": "BIR: EU recycled steel export restrictions could put downward pressure on prices",
+   "original_title": "BIR: EU recycled steel export restrictions could put downward pressure on prices",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOE1wSmJWTkdBNmp1M1UwS3FEUVZKd0RLajEzOHVTbXk4dW1tYmVPM05ISDUzSEtIRk5sMi03blhXWWdfR0RlVG9Fekw0cC1YWXJSOVJaQU1BVlBYRFBCbmE2RVdteV9jSHRRV3BjZVhUMUpzY21KSkxKTXhydjRCVDh3U29CQkhIRi04eTdWY3N1a2dOUnBEenZRZTZUU1NkaW1ndW1EV2hrQjFxVmR1d1l3VmdVaFZXZUhDZS05WGJIdldpRkY1R0lRa1h0VTVmeVBFYmNWU3c?oc=5",
+   "source": "Steel Orbis",
+   "published": "2026-10-09T10:58+00:00",
+   "added": "2026-10-09T18:52+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "prices",
+    "steel"
+   ],
+   "summary": "BIR: EU recycled steel export restrictions could put downward pressure on prices Steel Orbis",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "c0b443fa1f23",
@@ -16599,90 +16681,6 @@
    ],
    "summary": "Azerbaijan seeks to attract European and Chinese operators to develop Baku Port Report.az",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a77c902a7a5b",
-   "title": "‘More liberal’ India ends licence requirement for box ship reflagging",
-   "original_title": "‘More liberal’ India ends licence requirement for box ship reflagging",
-   "url": "https://theloadstar.com/more-liberal-india-ends-licence-requirement-for-box-ship-reflagging/",
-   "source": "The Loadstar",
-   "published": "2026-10-06T11:40+00:00",
-   "added": "2026-10-06T11:45+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "charter",
-    "vessel"
-   ],
-   "summary": "As its emerging economy pursues maritime-driven growth, India appears willing to simplify the regulatory system for foreign-flag containerships operating out of the country. Reflecting a more liberalised approach, the Indian authorities have scrapped a licensing requirement for vessels chartered by foreign lines through local entities registered in the new business district in Gujarat State better known as “GIFT City”. Business units operating on the financial centre have multiple regulatory advantages – more particularly, significant tax exemptions – and several mainline and shortsea container lines reportedly already have presence at GIFT City, including CMA CGM, Maersk, and Unifeeder. And, acting on that strength, several container line heavyweights have implemented vessel reflagging in India – six changes by CMA CGM and twoby Maersk. While reflagging one vessel the Marseille-based carrier said: “With India playing an increasingly important role in the global trade, CMA CGM remains dedicated to supporting the country’s maritime ecosystem and contributing to its economic development through strategic initiatives and enhanced service offerings. The move to abolish a licensing requirement that involved considerable documentation for each call seeking to enter Indian waters is a significant policy relaxation, aimed at pushing the “ease-of-doing-business environment” for investors. And industry sources claimed it would allow “greater operational flexibility” for carriers.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c879eb10cc76",
-   "title": "Japan Sanctions 35 Russian Shadow Fleet Ships In Its First Major Round Of Sanctions In Over A Year",
-   "original_title": "Japan Sanctions 35 Russian Shadow Fleet Ships In Its First Major Round Of Sanctions In Over A Year",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVmduQTNwMlNVNnAzVTBWWVZRNE8zTHdmN1RNQmRtZTk0SDFpUVgxNDNIRFhyZFhpV2wtTHJRWmRzal9OZXN0b25iSE5NeWpVMHZxSEJWZ01XN2RoLWpmbEdXV1dONTc1Z2hSVjlmc0NfREpDZllKVVFsVURucnNNOXpBNnQyZjVpZVdKdEw1T0d6THd0Z1pKVFcwTkpaQzhnY0JsOEJIb3NMaFJxeHkwWFNpSkptRDFjWWxGcEZDSGNYTXB4bFVqNw?oc=5",
-   "source": "Marine Insight",
-   "published": "2026-10-06T11:40+00:00",
-   "added": "2026-10-09T12:01+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "fleet",
-    "russia",
-    "russian",
-    "sanction",
-    "shadow fleet"
-   ],
-   "summary": "Japan Sanctions 35 Russian Shadow Fleet Ships In Its First Major Round Of Sanctions In Over A Year Marine Insight",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "486cb540b082",
-   "title": "DP World extends Luanda terminal concession to 2051",
-   "original_title": "DP World extends Luanda terminal concession to 2051",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM25rT3A1R0UxNFl3bTl5Q3p0b3BTNEtYTlM4bFNHekVHWkpuQWVfcWJ3cEhuOXltLW5OUXdmOVZZZU1EMHN4eEFQc2NRYm5MQzFRS2phS0VqcUhnUGZRbHR6MzEyZWhtSk44ZFlLa1RBLW5lS0RIdjdncnpJclZPalYzNGJabmpfMGVSNUNWZHZGNkI1N3hKT3VWUERDNjR3MGh6Slh6cmNKeTFr?oc=5",
-   "source": "porttechnology.org",
-   "published": "2026-10-06T11:39+00:00",
-   "added": "2026-10-06T11:45+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "concession",
-    "terminal"
-   ],
-   "summary": "DP World extends Luanda terminal concession to 2051 porttechnology.org",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   }
  ]
