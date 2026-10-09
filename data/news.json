@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T05:57+00:00",
+ "generated_at": "2026-10-09T06:26+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,152 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "887a583c5d85",
+   "title": "German ports demand national funding pact",
+   "original_title": "German ports demand national funding pact",
+   "url": "https://splash247.com/german-ports-demand-national-funding-pact/",
+   "source": "Splash247",
+   "published": "2026-10-09T06:26+00:00",
+   "added": "2026-10-09T06:26+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "security",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "German port operators are pressing Berlin for a national funding partnership, arguing that infrastructure essential to trade, energy security and industrial supply chains cannot remain a purely regional responsibility. The Allianz Deutsche Häfen renewed its call at a Berlin gathering this week, bringing together port executives, industrial groups, retailers and federal transport representatives. Participants included parliamentary transport state secretary Christian Hirte and Lidl Germany boss Friedrich Fuchs. Salzgitter chief executive Gunnar Groebler argued that ports deserve the same national recognition as energy networks. “We should also treat our ports as what they are: strategic infrastructure of national interest,” he said. Participants stressed that spending must extend beyond terminals to the roads, railways and waterways connecting them with industry and consumers. The alliance’s wider demands include substantially higher federal contributions to port funding and money from Germany’s special infrastructure fund to tackle the modernisation backlog. Its members include bremenports, Brunsbüttel Ports, Duisburger Hafen, Hamburg Port Authority, Seehafen Kiel, Lübeck Port Authority, Niedersachsen Ports and Rostock Port. The group wants faster delivery and closer coordination between government, industry and port operators, presenting reliable gateways as a prerequisite for German competitiveness rather than a concern confined to coastal states.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "fc7530b3b21a",
+   "title": "Old LNG carriers keep changing hands",
+   "original_title": "Old LNG carriers keep changing hands",
+   "url": "https://splash247.com/old-lng-carriers-keep-changing-hands/",
+   "source": "Splash247",
+   "published": "2026-10-09T06:22+00:00",
+   "added": "2026-10-09T06:26+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics",
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "carrier",
+    "disruption",
+    "hormuz",
+    "lng",
+    "shipowner"
+   ],
+   "summary": "Sales of vintage large LNG carriers remain brisk as the secondhand market keeps ageing LNG tonnage afloat after the Strait of Hormuz conflict escalated in late February, with disruptions to regional LNG exports adding uncertainty to global supply. The latest sale has been completed by South Korean shipowner and manager Kmarin Group, selling the 18-year-old, 152,000 cu m Kmarin Diamond to Indonesian buyers for around $65m. Indonesian players have been among the most active buyers of ageing gas carriers this year. The first is the 18-year-old, steam-powered LNG carrier Tangguh Batur (145,700 cu m), reportedly sold for $30m. NYK has also sold the 2013-built, 177,427 cbm Grace Dahlia to Golar LNG for conversion. In August, Kawasaki Kisen Kaisha (K Line) sold its 20-year-old Arctic Voyager (142,759 cu m) for $28.5m to Karpowership interests, with the steam-powered vessel earmarked for conversion into a floating storage and regasification unit (FSRU). This week on the recycling side, BW has let go of the 2007-built LNG carrier Kano, a vessel reported to have cracked cargo tanks. The ship has been sold for recycling in India at $530 per ldt. LNG Kano is the seventh LNG carrier to be sent for recycling this year.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "c16bee22f63e",
+   "title": "Europe Faces Prolonged Diesel Price Pressure Despite Fall in Oil Prices",
+   "original_title": "Europe Faces Prolonged Diesel Price Pressure Despite Fall in Oil Prices",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EM01aSUZ5VGlXT3Z6QklFcWVXZEMtNnFnbFlSTUdma1p6Zk4zWEZkb3E3TWpMdkJwVzIwZ0tISWZsRE1XaXNpVmhhUEo2eWdLaFVHU1hUejZOb3l2ZHNQZTI3dGZTekhsRDBDLTYwbXlsOFU?oc=5",
+   "source": "EU Today",
+   "published": "2026-10-09T06:06+00:00",
+   "added": "2026-10-09T06:26+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "diesel",
+    "eu ",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Europe Faces Prolonged Diesel Price Pressure Despite Fall in Oil Prices EU Today",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "85300ea9b7a7",
+   "title": "Hormuz crisis: freight traffic down at the ports of Genoa and Ravenna",
+   "original_title": "Hormuz crisis: freight traffic down at the ports of Genoa and Ravenna",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVpCckF0dHA5Z2k2MS11SHF1S3hVc3Y5RmdZSTVBakdSLU1LQXhEVWxYQ1hKOGNMOTZNVHRmS2EtTDIyQXJMV05vRzRIM2RidklJcGlBUUN6VkVGR0tyNkk3ZHRvQ2xrX1h6cVRqcG9sdE1mbDlqMzNINm1yTkl4d0t6Q1c5R1JVVmc4RldHQkhrTnJuRnQtV3dTMUJqU0dNOE45YzhaVFVRVkFCTE5sag?oc=5",
+   "source": "Il Sole 24 ORE",
+   "published": "2026-10-09T06:03+00:00",
+   "added": "2026-10-09T06:26+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe",
+    "Middle East"
+   ],
+   "tags": [
+    "hormuz",
+    "port",
+    "ports"
+   ],
+   "summary": "Hormuz crisis: freight traffic down at the ports of Genoa and Ravenna Il Sole 24 ORE",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "af6cd94b60a5",
+   "title": "COMMENTARY: Cheap coal and expensive gas set stage for year-end coal export surge",
+   "original_title": "COMMENTARY: Cheap coal and expensive gas set stage for year-end coal export surge",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV1ZiYXFqeTFKbDFDNHBQOXoxZE1jN28xdXJQTmlKWUtuWnh0UC0xQUU2YVZHM2sxWEJyNUt4RTJ3YURQZ2ZLUjRpZG9fRXdJR0Uzb0dDekpvMVhWekFualVuN19KVFZLb2JSS2ZERWpnTzhMcW0wWHIyb0FCSU51bmJpT1BaeXpNbXhGS3pEUzJNVUV6SXU3RGJUd2l2ZTNxS2lFUzFLVjZoNUJsdnNTYW1ueVVqZzlvVXM5M1JkVnV1ZS12ZmZIdGlB?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-09T06:00+00:00",
+   "added": "2026-10-09T06:26+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6.0,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "coal"
+   ],
+   "summary": "COMMENTARY: Cheap coal and expensive gas set stage for year-end coal export surge Reuters",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "9e48afce5ffc",
    "title": "Australia to Release Final Plan to Keep More LNG Output at Home",
@@ -16479,138 +16625,6 @@
    ],
    "summary": "Russia has sharply reduced its wheat exports via the Black Sea UA.NEWS",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4956544918cb",
-   "title": "Macro Metals Targets Near-Surface Iron Ore Assets across WA’s Pilbara Region",
-   "original_title": "Macro Metals Targets Near-Surface Iron Ore Assets across WA’s Pilbara Region",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWtQTzNnQlhud3BXa1VZbkpaOWxmOEd3SWJqSmFHbEJRbzR0RmszUy0xRS1SQXRNelp0Tmg5ZE5JcnpNbm5uWjhYeG95QzY1OG1IN0pjRVdUS3FJRm81eC1ZRTJaWkhueGh2eWhkWVNlT3Q2NkFXQ20wQkF0X1RqNnkzbVdYSTByRGFPUzhqcTBSY0NZaWlMYkFPVHJpbkZwRUhLUDlHR3VoN0Fu?oc=5",
-   "source": "smallcaps.com.au",
-   "published": "2026-10-06T03:48+00:00",
-   "added": "2026-10-06T03:57+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "iron ore"
-   ],
-   "summary": "Macro Metals Targets Near-Surface Iron Ore Assets across WA’s Pilbara Region smallcaps.com.au",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "768e8c058bca",
-   "title": "Romania moves to streamline grain exports from local farmers through Constanta port",
-   "original_title": "Romania moves to streamline grain exports from local farmers through Constanta port",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDBLMHU5eGV3QXVTZkpHU0VSYlBPYldILUZ2SW5mcDY2c1lXYnZzMmpfS2dPc0lrNk1SWjdHNFEyUlE0eFI3WGxrZTlQUUU1bFk3VVIzR3NVQzF6RlJZVVExQUlYNXAzYXhXRDhSTlZyTkdsSGp0eUh2czJzTHp0YVZSU1l1WkhtYkZrWFlhWmNneHpYcUVvMVBJMUVRZG5KOG9N?oc=5",
-   "source": "Romania Insider",
-   "published": "2026-10-06T03:29+00:00",
-   "added": "2026-10-06T07:56+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "grain",
-    "port"
-   ],
-   "summary": "Romania moves to streamline grain exports from local farmers through Constanta port Romania Insider",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "063c138b6c80",
-   "title": "SCCT welcomes Govt officials and global maritime and logistics leaders to Egypt for Transport Middle East 2026",
-   "original_title": "SCCT welcomes Govt officials and global maritime and logistics leaders to Egypt for Transport Middle East 2026",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNczJqdW1xcDYwVzJyU2w1cjN1UEJSNF9MMnJKYlVEUS1fcE9XaHhRN1Jpc2trWVhtTWRZdFNaUGRLaU9qQjBCeGkyWDA1Qm9saURPWl92MzZLd0dFQjZ6LUtFOFowUWVZeV9POVBzSURLZDVFS05od1Rnc1lUbER4WkdPMHRGYy16OW5FUTN3eGI1Um9feUFOSnVFZ1k5d1E5eWl3bG9fY2o4RDhOMTdiVmJ0dWF3QzBIS0JscG00SWpQTlBtNkpseXp5QkdIVjRoZWl6R2xPNU5EZ2IyZkZXby1mTWtVal9OUDI3MEE3NTNaUU1CLXB3?oc=5",
-   "source": "India Shipping News",
-   "published": "2026-10-06T03:26+00:00",
-   "added": "2026-10-06T04:42+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "shipping"
-   ],
-   "summary": "SCCT welcomes Govt officials and global maritime and logistics leaders to Egypt for Transport Middle East 2026 India Shipping News",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "21140763de24",
-   "title": "2026-27 commodities outlook: Iron Ore, Copper, Uranium, Lithium and more",
-   "original_title": "2026-27 commodities outlook: Iron Ore, Copper, Uranium, Lithium and more",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2c5UGRoMWV1RGcxeVYzMHh5ZFlZc0ZCWlpvano4UkhNYVNYU0tlMVdOY1UzZmRPdmFIVzBFYXBvUm5Gb3BkREh3TlRZdS1iTHBRTGk4ZmZNYnpPVWtoRzVVbzFnbDAwcy1zYWV0SDhUampyX1RwV0pHYVhweXg5RlkyMEZPaGIwbHBCWTNIR29XU1NSV05pTE5WY0hma3RpVjRlUi1sTQ?oc=5",
-   "source": "Market Index",
-   "published": "2026-10-06T03:12+00:00",
-   "added": "2026-10-06T03:57+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "commodit",
-    "copper",
-    "iron ore"
-   ],
-   "summary": "2026-27 commodities outlook: Iron Ore, Copper, Uranium, Lithium and more Market Index",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "df014c433142",
-   "title": "EU–Tanzania Roadshow Reaches The Hague With Coffee, Cashew, Critical Minerals, and Port Investment Pitches",
-   "original_title": "EU–Tanzania Roadshow Reaches The Hague With Coffee, Cashew, Critical Minerals, and Port Investment Pitches",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWHhtUEQxbWJrbE1vNGpFNHNmQWFPMTFsbkc2Um41TEtGamxaclhHZC03dTlTd1RNbkpwSE1teGNKLUZIQTEwMVM3TW5xWUlOamNaaVN4Q2lKTmUxNzZ5UFVuNml6a3NRTTk3MHcwdlU4XzRhY1c5TTlyd2FYSmNJelhYRXhFN2cwVFFoekN0cGNtWk0?oc=5",
-   "source": "TanzaniaInvest",
-   "published": "2026-10-06T03:08+00:00",
-   "added": "2026-10-06T05:00+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "port"
-   ],
-   "summary": "EU–Tanzania Roadshow Reaches The Hague With Coffee, Cashew, Critical Minerals, and Port Investment Pitches TanzaniaInvest",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
