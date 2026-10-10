@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T05:59+00:00",
+ "generated_at": "2026-10-10T06:26+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "dd41ed65beee",
+   "title": "Fire-stricken HMM boxship seeks refuge in South Africa",
+   "original_title": "Fire-stricken HMM boxship seeks refuge in South Africa",
+   "url": "https://splash247.com/fire-stricken-hmm-boxship-seeks-refuge-in-south-africa/",
+   "source": "Splash247",
+   "published": "2026-10-10T06:11+00:00",
+   "added": "2026-10-10T06:26+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia",
+    "Latin America",
+    "Africa"
+   ],
+   "tags": [
+    "port",
+    "teu"
+   ],
+   "summary": "A fire-damaged HMM containership is seeking a port of refuge in South Africa after salvors were appointed under Lloyd’s Open Form (LOF), with cargo interests facing the prospect of general average. The 5,593 teu HMM Platinum suffered a fire while sailing from Kattupalli, India, towards Santos, Brazil. The blaze reportedly originated in a container off southern Madagascar. Claims specialist W.E. Cox said the Liberian-flagged ship, built in 2013, was carrying around 2,300 containers and warned that damage could be substantial. Salvage specialist SMIT has been engaged under LOF terms, while a declaration of general average is considered likely. The vessel was initially expected to divert to Durban, with an anticipated arrival on October 8. However, the latest casualty advisory says alternative arrangements are being explored, with Gqeberha, formerly Port Elizabeth, identified as a possible port of refuge. A separate notice from cargo claims specialist WK Webster identifies the fire location as off Lavanono, near Madagascar’s southern tip, and says some of the cargo is temperature-sensitive.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
   {
    "id": "dcc34e23a8dd",
    "title": "Black Sea attacks threaten Ukraine and Russia grain exports as sowing incentives weaken",
@@ -16671,31 +16700,6 @@
    ],
    "summary": "Trinity and Greenbrier vow to fight duty bid on Mexican-built tank cars Railway Supply",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "83ffda345035",
-   "title": "Port of Melbourne completes Appleton Dock rail upgrade",
-   "original_title": "Port of Melbourne completes Appleton Dock rail upgrade",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZGhMWEVERXpwZ2poWm51cUY1cjhYTUwtSkhHQjNlN2VqYnR5RTQ0c1RubTBwbGctSmk5dE40dEJwb180VkZMRkpPN3lDVDBFUzlxYnpuTmNELXlvMW8yM1BuN3VxRkd3NzRzbDhLdjhqQWM2Z2oxMnlEaXdsZDRaNDdkQ3RRM1dWMC1kQUNyeW16OHV5WHJ1bS1rOGNoSTQ0?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-06T15:12+00:00",
-   "added": "2026-10-06T15:48+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port of Melbourne completes Appleton Dock rail upgrade WorldCargo News",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
