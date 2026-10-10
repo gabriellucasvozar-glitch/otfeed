@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T01:01+00:00",
+ "generated_at": "2026-10-10T01:23+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -2827,6 +2827,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "42a98b18c220",
+   "title": "PSA Singapore congestion persists as vessel arrival delay reaches 4 days",
+   "original_title": "PSA Singapore congestion persists as vessel arrival delay reaches 4 days",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0FWN3BveUJVam5KbGFZY2d2WVY5d01NZURYdzE5WV8yNnpuT0JNRm1teUVKcFJScWRoOVFNMXUyZ181VEF6RHJvdmNXbUNFZmNKa2hDU1hDb1l4X3Ffa3ZZSklKaUgzQVlrUXVIdHFLN1ROTGxJOTJIRnN6ZGdLUVRCc0dXTThzU1d4ZE0yOTFVUQ?oc=5",
+   "source": "Kuehne+Nagel",
+   "published": "2026-10-09T08:19+00:00",
+   "added": "2026-10-10T01:23+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "congestion",
+    "vessel"
+   ],
+   "summary": "PSA Singapore congestion persists as vessel arrival delay reaches 4 days Kuehne+Nagel",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "459dcb7a9330",
    "title": "CargoBeamer increases its service to 22 weekly train services between Germany and Italy",
    "original_title": "CargoBeamer increases its service to 22 weekly train services between Germany and Italy",
@@ -3019,6 +3046,35 @@
    ],
    "summary": "Spain is allocating over EUR 1 billion to rail links for ports Railway PRO",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bcbce5142956",
+   "title": "Passenger trains being run with slower freight engines as Indian Railways faces locomotives shortage; rec",
+   "original_title": "Passenger trains being run with slower freight engines as Indian Railways faces locomotives shortage; rec",
+   "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQb2tmTWFCdTVyRVUya1hMZFRRY2J1Vk1INDVlNm95aVJhT0dhSkUweEZlSE9WbnQ1bkdvb2ZwV25Mdm1uWWpsYzZIc01FSVdWQTY2NGI1c3dpdjJrLVdLTVhsRWlNNjBjNHMtVkh5cEtZRzl1S0JIZnFra2xlZ0NBeF9lb243MzRtNFRuSVl6WXNPRnFSM25sYkh3MWhBQ0MxWFk0cHFhV2c0Z1MwOXVqSnk0NU1uVjBzZkxHYkxpbWlkRURQU192bl84dFp0R3lsTFdOM1N5Q2xrbG9RQ2pSN3l5ODlxdTBmUWtEVE9ocGhqOTJSeFRpTkpNWnJoZWJJOUdfRmVKZ1Zsdjl5NzZpbFFWQmxxamJEd1oyZkk2cGptdjNQOTFRamRKYVg2V0YxQXlNTzZYc1d0dEZ3YllaZUs0a21ZWHltZ2J3VUZXbWRTLWV5aUoxbElQRkFZb0xXV2otSlE4ckNmc0pK0gHyAkFVX3lxTE5VNUtHYW9tWHdBWG1ZbjJUU3VuSGhyb0x0eEZQakEzb1Znd1I4LXluOFNLaElMV1RySVVYUjdETkFaaVJoMkVmSDB6bW4xMEdjOVVKX2c3LV9Ba08ydXBWdUV0SVJkaU82WlIyWWJQTlo5TEtaMWgyenF6cFhrYTg4V0tpVkFxZGgtYUQ3VzZrYWtDSnJwNW1tYk9BU3BxTkFKYkJHZExqZWxOSFNxWFlocGhhVW1zd2pMZjRGN1N0THVQYkd5R0VyLUN6YmxKYWFsNzcwWl93UEhpN2ZNUlVYdHN5TjRiMkk0VnlTdUF0cWJCMmZQQ0Y0eVZMcGdORWd0cGxXNVlqRnhxTktPYnhNbDdmdmVLV0dNTE1mQnZ1QnBWUFNLWVBpQTlnbVNKZnlzYWlFYlI1VHdtbko0YVcyM2t3aERDNjU0LUxsdERfY3VLcTBKNzVLNndkWllyUHhpMFFkcE9MTXkyV2FFNm0tWUE?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-09T07:33+00:00",
+   "added": "2026-10-10T01:23+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "locomotive",
+    "railway",
+    "railways",
+    "shortage"
+   ],
+   "summary": "Passenger trains being run with slower freight engines as Indian Railways faces locomotives shortage; rec The Times of India",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -16624,67 +16680,6 @@
    ],
    "summary": "UAE Business: DP World wins 10-year extension to operate Port of Luanda terminal Gulf Daily News (Bahrain)",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "926933f0fde0",
-   "title": "Russian Coal Exporters Lose Ground On International Markets — Intelligence",
-   "original_title": "Russian Coal Exporters Lose Ground On International Markets — Intelligence",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSE9KLXpKSHowX2FnZkllTnNyQTZPRTFDRWV1cEhEc1RxcU1HTGhUczdHd3hCNF84NFRYSkNTdW82cUZKWG9iTDUtVlRkRVNsTVFuS3ZYWTluRWVGbXR3cjVVZDlhV01ycXFrc2Q3RFNxdHNTbW1NcVYxdl9HZkYyNVlWa3VaT1BoY3dKN2JRdExEOXlDZHRn?oc=5",
-   "source": "uatv.ua",
-   "published": "2026-10-06T14:01+00:00",
-   "added": "2026-10-08T03:50+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "coal",
-    "russia",
-    "russian"
-   ],
-   "summary": "Russian Coal Exporters Lose Ground On International Markets — Intelligence uatv.ua",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "70484e2b80b5",
-   "title": "EBA urges action to curb Russian grain exports through Baltic ports",
-   "original_title": "EBA urges action to curb Russian grain exports through Baltic ports",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVZoeDFHWl9QYmItYmFSUnUyOXVXeExjb0ZRU0QwMFNNYjFIdjdsOUh4U2FZUm9yWUdwOFU2dVJEV2NPeUxIeWZzdXJpclU1cDlLdXRDNE9vSFlqNkFsWkpDNzhrZEd5a1dLQ2I5ZGZ3eTk0eG9ZLUsza1ZXenJNdkN5SE9SQkxwN3FaS1EwRlJFam5HSmg0UHRvSTNmWGxsTmUwV013?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-06T13:58+00:00",
-   "added": "2026-10-06T15:26+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "ports",
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Baltic & Nordics",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "baltic",
-    "grain",
-    "port",
-    "ports",
-    "russia",
-    "russian"
-   ],
-   "summary": "EBA urges action to curb Russian grain exports through Baltic ports UkrAgroConsult",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
