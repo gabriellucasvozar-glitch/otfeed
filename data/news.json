@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T05:01+00:00",
+ "generated_at": "2026-10-10T05:22+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,37 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "dcc34e23a8dd",
+   "title": "Black Sea attacks threaten Ukraine and Russia grain exports as sowing incentives weaken",
+   "original_title": "Black Sea attacks threaten Ukraine and Russia grain exports as sowing incentives weaken",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPclVvQnV2NlU4T2JVYlloZ1A4b0ZZLVg2dERjMlRITWJ6OGdnX1gzZ2RjbW9GSlEwZThvSTgxQkU5T3Y5b2dkNjY0Ni1mcWNxQXlRNEd3cV9UTVpwanJjZGhsbmx1T2JZQVRId0s4SFlfRkhPeU9Xd0tLLU1xX19wZDZhS3M4Ymw1NjJXNEhwdGJKS0dFNHNTSzZ2a0lyUQ?oc=5",
+   "source": "Traders Union",
+   "published": "2026-10-10T05:11+00:00",
+   "added": "2026-10-10T05:22+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "grain",
+    "russia",
+    "ukraine"
+   ],
+   "summary": "Black Sea attacks threaten Ukraine and Russia grain exports as sowing incentives weaken Traders Union",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "296a24540f3d",
    "title": "Thermal Coal Prices 2026: Asia Energy Security & Outlook",
@@ -16666,32 +16697,6 @@
    ],
    "summary": "EU steel import quotas in the fourth quarter were exhausted in the first few days Металлургпром",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "216afdf5059c",
-   "title": "UBS sees BHP and Rio Tinto leading iron ore quarter as prices hit more than 10-year lows",
-   "original_title": "UBS sees BHP and Rio Tinto leading iron ore quarter as prices hit more than 10-year lows",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RVV85Mmdnd0xWSTFlNkNkLXZjODRHdDcta3Z3cnZWM19zXzRjNzh6dXY3dldaaTdIdDRvNVJnUDcxeHJseTVBZHIxNHVINXFkb0hxZWloX0kzTDJ6Q2plQmJuWWlma01qMWloOUxhT21VM2RtWk40a29uQQ?oc=5",
-   "source": "Yahoo Finance UK",
-   "published": "2026-10-06T15:00+00:00",
-   "added": "2026-10-06T16:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "iron ore",
-    "prices"
-   ],
-   "summary": "UBS sees BHP and Rio Tinto leading iron ore quarter as prices hit more than 10-year lows Yahoo Finance UK",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
