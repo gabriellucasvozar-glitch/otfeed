@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T19:03+00:00",
+ "generated_at": "2026-10-10T19:23+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -3946,6 +3946,33 @@
    ],
    "summary": "India accelerates maritime expansion, targets over 700 MTPA additional port capacity by 2030 DD News",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0ddfeabbb3ac",
+   "title": "Türkiye Proposes Safe Shipping Routes in the Black Sea",
+   "original_title": "Türkiye Proposes Safe Shipping Routes in the Black Sea",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa0o2OE4wcnlrQnRDWXFPb2FuaWNWYS1BcHluVU1CSV9pSGQzSFM2a1EtSE1rZEM3NE5uMFlZaVBRSEVNTFZ6VWoyY2hVemNMbjhSYzdpWE9JclVET2dpdHVIaG9nSjlwZFNXbTd2Rml0dGtYVFg3ZHlOZDYtWE54SHZzZXVxbzEtanlmMUFmaw?oc=5",
+   "source": "Caspian Post",
+   "published": "2026-10-09T06:48+00:00",
+   "added": "2026-10-10T19:23+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "shipping"
+   ],
+   "summary": "Türkiye Proposes Safe Shipping Routes in the Black Sea Caspian Post",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16640,33 +16667,6 @@
    ],
    "summary": "The cost of fuelling ships has risen by roughly three-quarters since the US-Iran war erupted on February 28. In Singapore, the world’s largest bunkering hub, VLSFO was assessed by ENGINE at $509 per tonne on February 27, the final trading day before the war began, while high-sulphur fuel oil stood at $432 per tonne. By Monday this week, VLSFO had climbed to $886 per tonne and HSFO to $764, increases of 74% and 77% respectively. Prices initially went vertical after US and Israeli strikes on Iran on February 28 and the subsequent disruption around the Strait of Hormuz. Ship & Bunker data shows Singapore VLSFO rising from $521.50 per tonne immediately before the conflict to a peak of $1,120.50 by March 13. The market subsequently retreated as supply chains adjusted and hopes periodically surfaced of a diplomatic breakthrough, but bunker prices have never returned close to their pre-war levels, and have been increasing again in recent weeks. In Singapore, the absolute discount enjoyed by scrubber-fitted ships burning HSFO has widened from around $77 per tonne immediately before the war to roughly $122 today, even though the price of HSFO itself has surged.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "56626a18a520",
-   "title": "Iran’s Offshore Oil Stockpile Nears Exhaustion as Blockade Chokes New Supply",
-   "original_title": "Iran’s Offshore Oil Stockpile Nears Exhaustion as Blockade Chokes New Supply",
-   "url": "https://gcaptain.com/irans-offshore-oil-stockpile-nears-exhaustion-as-blockade-chokes-new-supply/",
-   "source": "gCaptain",
-   "published": "2026-10-06T19:53+00:00",
-   "added": "2026-10-06T20:48+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "stockpil"
-   ],
-   "summary": "Iran’s offshore crude stockpile in Southeast Asia is being rapidly depleted as the U.S. maritime blockade prevents fresh barrels from leaving the Persian Gulf, according to new tracking data from United Against Nuclear Iran. UANI said an estimated 9 million barrels of Iranian crude were transferred through ship-to-ship operations in waters off Malaysia during September, drawing down inventories accumulated before the blockade took effect. “Given that no Iranian crude has made it past the blockade line, Iran’s offshore floating storage in the South China Sea is rapidly dwindling,” the group said. The crude transfers totaled an estimated 9 million barrels and were ultimately destined for Chinese independent refiners, commonly known as “teapots.” The activity has continued despite growing scrutiny of the large network of sanctioned and Iran-linked vessels operating in the region. The depletion of offshore storage comes even as oil exports from other Persian Gulf producers have recovered. If UANI’s estimate of roughly 10 million barrels remaining in Malaysian floating storage is accurate, the pool of crude available outside the blockade has fallen sharply. With no new crude reaching those offshore inventories, continued deliveries to China would increasingly depend on drawing down a finite stockpile rather than replacing exported barrels.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "extract"
   }
  ]
