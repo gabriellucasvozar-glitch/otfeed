@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T15:36+00:00",
+ "generated_at": "2026-10-10T15:54+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "9ae6f10bc48b",
+   "title": "Iran and Afghanistan are the only markets where Russian wheat has gained market share",
+   "original_title": "Iran and Afghanistan are the only markets where Russian wheat has gained market share",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN05yNi1tdlExSWZOTEZFUk02X01iMjZVc2ItTXdUa3Zlc2hxM0FOcXJJbzV2eHRzRE1uYk9YaUpDbGNYSDFDVUxseVA0NWJYNFhBSDBnWHE5UXRONEpSR1o2YXNFSVd6c3F4VzFIX2VzenVYUi1DREkyQXNHQkZ0N2pFaF9XaU5mdVEtazUwb1A1UzcxNHIwNnRkTjhOYnFOb0w4RTlZUmcxRUlSN1hoMEFtUzJwQmo2MXJsRDlR?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-10T15:44+00:00",
+   "added": "2026-10-10T15:54+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Russia & Belarus",
+    "Middle East"
+   ],
+   "tags": [
+    "russia",
+    "russian",
+    "wheat"
+   ],
+   "summary": "Iran and Afghanistan are the only markets where Russian wheat has gained market share UkrAgroConsult",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "7def6de8b993",
    "title": "Kuibyshev Railway Sends First Wheat Exports To Vietnam By Rail",
@@ -16643,37 +16672,6 @@
    ],
    "summary": "PS Logistics division acquires Texas company The Business Journals",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3df273e36258",
-   "title": "Russian shadow fleet tanker under Ukrainian sanctions catches fire near Sochi",
-   "original_title": "Russian shadow fleet tanker under Ukrainian sanctions catches fire near Sochi",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQUYzUDRnaFlXd1hldlBaQ29vMjYwZy0wTi1BZk81YVBFRHdCb0h4RUdrWC1UX292a0pVQ2lYQzNQN1JMTFlBRXpBMEQxZmtjazJGdHp6NVNqTkM3ZEJ6QkZnX292aTRSVVdkcnh2RTh6bDU3b3ptSlpoMmU5cWJZZ29tY2RXdVN6WUQxM2hOUkhyNDVsMVFxQnlPcVJ5a1owTkp3TEY4NDlhem5oa21TZEJaVGZzN1V5bnY3YWNLQ3VIU3JYYmpoVWJPQdIBywFBVV95cUxNQUYzUDRnaFlXd1hldlBaQ29vMjYwZy0wTi1BZk81YVBFRHdCb0h4RUdrWC1UX292a0pVQ2lYQzNQN1JMTFlBRXpBMEQxZmtjazJGdHp6NVNqTkM3ZEJ6QkZnX292aTRSVVdkcnh2RTh6bDU3b3ptSlpoMmU5cWJZZ29tY2RXdVN6WUQxM2hOUkhyNDVsMVFxQnlPcVJ5a1owTkp3TEY4NDlhem5oa21TZEJaVGZzN1V5bnY3YWNLQ3VIU3JYYmpoVWJPQQ?oc=5",
-   "source": "Ukrinform",
-   "published": "2026-10-06T18:21+00:00",
-   "added": "2026-10-06T19:31+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "fleet",
-    "russia",
-    "russian",
-    "sanction",
-    "shadow fleet"
-   ],
-   "summary": "Russian shadow fleet tanker under Ukrainian sanctions catches fire near Sochi Ukrinform",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
