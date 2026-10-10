@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T13:02+00:00",
+ "generated_at": "2026-10-10T13:24+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,36 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "7def6de8b993",
+   "title": "Kuibyshev Railway Sends First Wheat Exports To Vietnam By Rail",
+   "original_title": "Kuibyshev Railway Sends First Wheat Exports To Vietnam By Rail",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWGlYRlhzUzQwRWlVODRSOXZNMHdadlVlbkM0T1dhMUl4VHlMbkptUzhTUXNOTENFTkgyclNJclp1eFo1VWhPM2h1M3RkNERzeE15eVkzS3JVYWIxMEJNejRERk1zX0RZcVVXR1pvQ3ozNnVrU2N6WU9WOFJMZ24xOTcxREFWT3VJRW9lYW5VUG1PS1NxbXhvRy13?oc=5",
+   "source": "russia's pivot to asia",
+   "published": "2026-10-10T12:14+00:00",
+   "added": "2026-10-10T13:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "rail",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "railway",
+    "russia",
+    "wheat"
+   ],
+   "summary": "Kuibyshev Railway Sends First Wheat Exports To Vietnam By Rail russia's pivot to asia",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "b117955cdee3",
    "title": "Port poprawia wyniki. Ile z tego wzrostu zostaje w Świnoujściu?",
@@ -5332,6 +5362,34 @@
     "wheat"
    ],
    "summary": "Russia boosts wheat exports via the Baltic to record levels amid Black Sea disruptions UkrAgroConsult",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ff5a272b2b02",
+   "title": "Russia disrupts sunflower oil shipments to India amid port problems",
+   "original_title": "Russia disrupts sunflower oil shipments to India amid port problems",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb19YcTYwbElITkowbHp3MHBsbW1CQU1rM1pwVkZVcUpFMmFYcTlvWkFOVFlvTUxBSzJ0X0t4bHptWHFnaV9QMWZaZU0wV3dQQU0wRW5sdGJsNnNiMWYtRF9ad0tELUNQQ0F6SE5QNTIxUExtNG01ZGVPdGxJaTIza3lLMTFqdk42YW81N3FtaUtyVlg5ZURnT1EzSWdmLXBpZ0YzUlJB?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-08T17:21+00:00",
+   "added": "2026-10-10T13:24+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "port",
+    "russia"
+   ],
+   "summary": "Russia disrupts sunflower oil shipments to India amid port problems UkrAgroConsult",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -16624,65 +16682,6 @@
    "summary": "Europe’s new trade route runs through Caspian: Middle Corridor needs $55 billion Azernews.az",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
-  },
-  {
-   "id": "dcec55d8edb6",
-   "title": "Tanker attacks continue in Hormuz as Gulf shipping rates remain elevated",
-   "original_title": "Tanker attacks continue in Hormuz as Gulf shipping rates remain elevated",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPejNDYnk2TUlTVkxybzhJdWVlZXkyX1NBbEx3LVdNYjJUTXBNY3R4WGpEZDk4cXViOWhmUmxJZ3RHOWJOdjJhR3lNUHhQMXRybDlydjRWeUk1Z3AzMHVsandISElwSXozaTNrTGxIMGpQWjBxOFFsNVdjcXlrREJkeGNkYUU3bzBwMzB5ZFdvVHo3dFhlTTE2SVU3UFYtd2hnV0tXb0FJM3VIZHUwOUd1S1RVYUg0eGRl?oc=5",
-   "source": "Anadolu Ajansı",
-   "published": "2026-10-06T17:12+00:00",
-   "added": "2026-10-06T17:29+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "hormuz",
-    "shipping"
-   ],
-   "summary": "Tanker attacks continue in Hormuz as Gulf shipping rates remain elevated Anadolu Ajansı",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c373d29ace1d",
-   "title": "Search for missing crew after drones sink cargo ship off Bulgaria",
-   "original_title": "Search for missing crew after drones sink cargo ship off Bulgaria",
-   "url": "https://www.hellenicshippingnews.com/search-for-missing-crew-after-drones-sink-cargo-ship-off-bulgaria/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-06T17:00+00:00",
-   "added": "2026-10-06T17:49+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "drone",
-    "ferry",
-    "vessel"
-   ],
-   "summary": "A passing ferry found an overturned lifeboat and life jackets at the scene of the missing boat. A second ship was also attacked and both are Turkish-owned. A search is under way in the Black Sea for the crew of a cargo ship that sank after drones struck two commercial vessels off Bulgaria early on Tuesday. Sea and aerial drones hit the ships at about 3am local time (2am CET), around 70 nautical miles east of the town of Byala in Bulgaria’s exclusive economic zone, Prime Minister Rumen Radev said. The crew of the Bulgarian ferry Dioscuria, which was in the area, saw an explosion on the first ship and sailed to the scene, Radev confirmed. The second ship caught fire and all 18 of its crew were rescued by the Dioscuria. Ship tracking website vesselfinder.com shows the Alfa Watan was sailing under the flag of Togo and was headed for the Romanian port of Sulina. Radev, who called the attack “absolutely unacceptable”, did not say who launched the drones while European Commission President Ursula von der Leyen called the developments “concerning”. The incident occurred a day after a Turkish-owned cargo ship carrying grain in the Black Sea was attacked by at least one drone and sank after catching fire.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
   }
  ]
 }
