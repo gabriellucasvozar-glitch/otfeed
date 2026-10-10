@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T09:04+00:00",
+ "generated_at": "2026-10-10T09:25+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -10402,6 +10402,34 @@
    "summary_method": "extract"
   },
   {
+   "id": "22f4720e7dc3",
+   "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+   "original_title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSEtybFdiZGMzUGVVQzBuLW1zdVM1emRmUnE5WEtXNjJkeGUtRGVYZmRuUTYtUTZaSUZEZDEzVnB5SkEwYWhSSU9YdU5LRnR6VDRYbFpzRW1QeldpNFU2eER5TjJ4X3FBWnpaQzBfVUxmbDdyTUxwUHE3LXVnZFBWRktXOE1PbWxhbU9NSEg4SjFCMGxtM1IyOXNTVzhQd9IBowFBVV95cUxNdFdMWlpnVEVBcW5kZGo1cE9OODlUUkVEN1NWdUZkakJSRWZYbDBvQ1Blc3dMNEh2MC1PYjRiTFE2X2U2VnRxdkxoSTJBLWM0dV9NLXY3RFBZb0ZVd1ZCOHF2VFRqUGFINWw1d0xWQ01VWnNYS0VsTk5zLVNVeThIYjVYazJwSG1ob01ERmFOc1RGcWZzN3A3V1JuR2ZuWXE4Rm9F?oc=5",
+   "source": "CNBC",
+   "published": "2026-10-07T18:32+00:00",
+   "added": "2026-10-10T09:25+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "charter",
+    "china",
+    "war"
+   ],
+   "summary": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level CNBC",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b71192025598",
    "title": "Baltic index slips as Capesize slump spoils smaller vessel gains",
    "original_title": "Baltic index slips as Capesize slump spoils smaller vessel gains",
@@ -16662,34 +16690,6 @@
    "summary": "Amin Nasser, Aramco President and CEO, has called for closer coordination among governments, energy suppliers and customers to strengthen global energy resilience and better withstand geopolitical disruptions. Speaking at the Energy Intelligence Forum in London, Nasser highlighted the continuing importance of oil and gas to global energy security, economic stability and geopolitical resilience. He warned that disruptions to regional energy flows could create prolonged pressure on markets and take significant time to resolve. Even then, replenishing inventories while meeting demand could take up to two years.” Nasser also stressed that oil and gas remain deeply embedded in the global economy and that the energy transition faces resource and supply-chain challenges. “Oil and gas are not just tradable commodities – they are the lifeblood of modern civilization… With shortages of aluminum, sulfur, helium, and petrochemicals, solar, wind, and EVs are not immune either… Half the world’s proven oil reserves are in the Middle East, along with most of its spare production capacity… Our region’s strategic importance is set to grow, as the other resource bases mature, and new ones are potentially harder to find and less economically competitive.” He pointed to Aramco’s diversified resilience measures, including strategic storage, spare production capacity, multiple crude grades, domestic gas storage and its tanker fleet through Bahri.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "extract"
-  },
-  {
-   "id": "46f26660e658",
-   "title": "EU will see food shortages without fertiliser solution, Hansen says",
-   "original_title": "EU will see food shortages without fertiliser solution, Hansen says",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNckxUOW1Fb0RHalBDekthMW1GdFlFTXhRZmpaZlQ3YjlQOXdIMENMX05tMGw3UDBQZzM3Z2hyeG94LXJxQVVOTDJqRXFza1ZlYnBpN1UzQ1EzMHJMd18yZHJnMTRnaUh0ZU1obHFFYUhPNjZaTHFpcWxiSE5jU1BseV8tc0pMNVBBMGpfLUFIc183YWZfM2RiTTlWb0xnamcwRUtqeGtobExlLUVOc01lcFFfUkZBRFNSNGZhN2JWWURNYXRi?oc=5",
-   "source": "Euronews.com",
-   "published": "2026-10-06T16:59+00:00",
-   "added": "2026-10-09T00:33+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "fertiliser",
-    "shortage"
-   ],
-   "summary": "EU will see food shortages without fertiliser solution, Hansen says Euronews.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
