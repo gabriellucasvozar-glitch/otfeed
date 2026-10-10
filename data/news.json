@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T15:17+00:00",
+ "generated_at": "2026-10-10T15:36+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -9946,6 +9946,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "d02b50558a64",
+   "title": "Black Sea disruption enters third month, pushes wheat buyers to alternative origins",
+   "original_title": "Black Sea disruption enters third month, pushes wheat buyers to alternative origins",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMm5vN25aYmVSLWpockxQQTR0LWxZZjNudjVLYVF3Nm04OFAxcU8tZGxxX1czV0Z5OXJjbU9EQldDQm9CQURTUkY2cG1hU2Y2b0NKc1Rzcl9DNk9CU2FYVVNNZUVNZVRLV3FBa3RZLUdTVUpiQ3B0QnpKcERiX3k1ajh5VnA5c1FEUkJ5YzN1eGNqd0YtYjRLOGFnXzMzOFo2QjB2NzBBY1lnQklxMGNQYU1uRmhvLWE2a0tYaHM0NFZ5N3NoVk5xNFQ5TGZabnRqVjdYSHR6WGgxZGVDTVA3ZUZ1bkY2amp6RV90RjVwaDFvQ1V1?oc=5",
+   "source": "S&P Global",
+   "published": "2026-10-08T00:20+00:00",
+   "added": "2026-10-10T15:36+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "disruption",
+    "wheat"
+   ],
+   "summary": "Black Sea disruption enters third month, pushes wheat buyers to alternative origins S&P Global",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3ad91b131761",
    "title": "UKRAINERUSSIAWAR. Alarm for the Black Sea: attacks are polluting coastal areas and impeding the flow of grain and other goods. India is pushing for a deal. The EU approves the 22nd package of sanctions against Moscow.",
    "original_title": "UKRAINERUSSIAWAR. Alarm for the Black Sea: attacks are polluting coastal areas and impeding the flow of grain and other goods. India is pushing for a deal. The EU approves the 22nd package of sanctions against Moscow.",
@@ -16646,38 +16675,6 @@
    "summary": "Russian shadow fleet tanker under Ukrainian sanctions catches fire near Sochi Ukrinform",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
-  },
-  {
-   "id": "efa41fe96b50",
-   "title": "South Korean Operator Emerges as New Force in Arctic LNG Shipping",
-   "original_title": "South Korean Operator Emerges as New Force in Arctic LNG Shipping",
-   "url": "https://gcaptain.com/south-korean-operator-emerges-as-new-force-in-arctic-lng-shipping/",
-   "source": "gCaptain",
-   "published": "2026-10-06T18:06+00:00",
-   "added": "2026-10-06T18:52+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "carrier",
-    "fleet",
-    "lng",
-    "russia",
-    "shipping"
-   ],
-   "summary": "New company takes on four Arc4 LNG carriers as Seoul looks to expand Busan’s role in Arctic shipping. A newly established South Korean ship manager is emerging as a potential new player in Arctic LNG shipping, taking control of four ice-class LNG carriers while planning a rapid expansion into the specialized fleet needed to transport gas along Russia’s Northern Sea Route. Shipping databases show the vessels under new ownership arrangements, while IOB identifies itself as their manager and describes its business as specializing in ice-class LNG carriers operating along the Northern Sea Route. IOB does not identify the vessels, but its target of three to six ships comes as several Arc7 LNG carriers remain stranded at Hanwha Ocean after sanctions disrupted their original contracts for Novatek’s Arctic LNG 2 project. South Korean shipyards have built a large share of the specialized LNG carriers serving Russia’s Arctic projects. In August, PanStar’s 2,758-TEU PanStar Acro departed Busan for Europe via the Northern Sea Route in South Korea’s first commercial container trial on the route . South Korea is seeking a role in the Arctic maritime economy as a builder of specialized vessels, an operator of them and, increasingly, a potential logistics hub connecting Asian trade with the Northern Sea Route.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
