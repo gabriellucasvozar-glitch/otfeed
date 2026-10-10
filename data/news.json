@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T03:44+00:00",
+ "generated_at": "2026-10-10T04:01+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "df33cf66f345",
+   "title": "Two new cranes arrive at Port of Southampton",
+   "original_title": "Two new cranes arrive at Port of Southampton",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDAzUU9veGhFOThoYkYzdnFaeXFQREJGTmJPazN0OTJVWmhTYnotOHNEemI4YnU3akxwWkJBc1hBUTFCSEV0T1pheVNYcFQ3Y0R5ZFVZdThiWmlKT3l3UzVtVFU0ek01cHpNRHJneGxOV01kU2pIQnNIdVg2c25law?oc=5",
+   "source": "Yahoo News UK",
+   "published": "2026-10-10T02:30+00:00",
+   "added": "2026-10-10T04:01+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "port"
+   ],
+   "summary": "Two new cranes arrive at Port of Southampton Yahoo News UK",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "71d626d2fc42",
    "title": "Asia’s ports emerge as key gateways to US$1.4tn maritime transition",
@@ -1618,6 +1646,34 @@
    ],
    "summary": "Cheap Ore, Costly Chemistry: Repricing The Iron Ore Cost Curve Seeking Alpha",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4008785fb9c8",
+   "title": "'World's First' Ammonia-Powered Bulk Carrier Starts Maiden Voyage",
+   "original_title": "'World's First' Ammonia-Powered Bulk Carrier Starts Maiden Voyage",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSVpyY0paOURCNjBZWFk5RW5NMmJjZEpLSXhwRkIySzRZaXF2eWF2T1IzWmtiVHpCZXJveDh5MVQ3NUpwTDM1SnppM0ExbUNobVhaVV9QUzRVV25KN1IxNnptdGg2dFRnSjRQb0kxc0luYVBOdFRDLTk1bHNYTUpUQTh1ai1Idw?oc=5",
+   "source": "Marine Link",
+   "published": "2026-10-09T11:18+00:00",
+   "added": "2026-10-10T04:01+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia",
+    "bulk carrier",
+    "carrier"
+   ],
+   "summary": "'World's First' Ammonia-Powered Bulk Carrier Starts Maiden Voyage Marine Link",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -16632,60 +16688,6 @@
    ],
    "summary": "Dłuższa blokada terenów pod Port Polska. Rząd zabezpiecza grunty, by uniknąć opóźnień Bankier.pl",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4cff85bf12b1",
-   "title": "Budget 2027: New fertiliser scheme confirmed",
-   "original_title": "Budget 2027: New fertiliser scheme confirmed",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcWxUemdkQVY5ZWhSam15WUQ3TzBGTWJrT183RkNEVWRYZ195SUFzMEtVbjJrWnNvdVdxY0NVbVN2a3NQY1NiVDh0Vk5NTzVEQzk2c3lEQVdGeGpoNnlzaVgzNzRvSXY0V1J1N2ZRMHV6Ry0zU3E1ZVc1NzZic0w2eks5WEZuYWVT?oc=5",
-   "source": "Agriland",
-   "published": "2026-10-06T14:20+00:00",
-   "added": "2026-10-06T14:45+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fertiliser"
-   ],
-   "summary": "Budget 2027: New fertiliser scheme confirmed Agriland",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f74421f8550c",
-   "title": "China's sea-rail intermodal freight through landmark trade corridor tops 1 mln TEUs",
-   "original_title": "China's sea-rail intermodal freight through landmark trade corridor tops 1 mln TEUs",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNExYVEJWWjBpQWtldVNTdnlSQktxOXQ0MDNPVG9NWEV5by1fUDg1eC1GUjR2T0luamhaQzYyTkEwNkJMQmp5QVpsazAtMHpVeW5nX3RqbkRhck15VEVJcDd1RVQtLU9nR05SdWprSVBoS3B0T2tLa1VNeVkyQmNHWVZKTTMteUI4dVNNcWctTWNKV3YtVjVGaFNjLVBLRTZQSW9NSFQ0NlZsRGk2ZXJ3YVNwVk54X0xiYk1KNUtrQzZWRWhSeHQzM2JtZEFwb1E?oc=5",
-   "source": "巴士的報",
-   "published": "2026-10-06T14:18+00:00",
-   "added": "2026-10-08T15:40+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "intermodal",
-    "teu"
-   ],
-   "summary": "China's sea-rail intermodal freight through landmark trade corridor tops 1 mln TEUs 巴士的報",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   }
  ]
