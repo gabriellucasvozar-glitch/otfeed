@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T21:34+00:00",
+ "generated_at": "2026-10-10T21:52+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,32 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "1612a650e5dd",
+   "title": "Pociski uderzyły w terminal lotniska w Rijadzie. Port zamknięty do niedzieli",
+   "original_title": "Pociski uderzyły w terminal lotniska w Rijadzie. Port zamknięty do niedzieli",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMHVnN0ZVbnNsc1FvZkVOYmo3VWRtel9tNkp6LU5wcnNKWDBRNFFkbFc5bHVLZXlzLWIyVnZ4d0xIZi1XdU1SakpjZndYODdCdDU2TDROWjdJR203bXhRTkp0bjUtdU9fRjdZLVBhWUNWZGt3Qmlyck5NN3dWRlpUT0JyclMtajM0YS1nR2RhVXhobWI3MzdDTjF0aWI3T1QwRG1pTVdZbGptSllwb2VBclBrUUlSOW8?oc=5",
+   "source": "Pasazer.com",
+   "published": "2026-10-10T20:03+00:00",
+   "added": "2026-10-10T21:52+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "terminal"
+   ],
+   "summary": "Pociski uderzyły w terminal lotniska w Rijadzie. Port zamknięty do niedzieli Pasazer.com",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "68701925fb7c",
    "title": "Dutch Propose Law To Crack Down On Russian Shadow Fleet",
@@ -16635,31 +16661,6 @@
    ],
    "summary": "TODAY: Folk Maritime puts expansion on hold over war costs + Gulf crude is back, the rest of the trade isn't EnterpriseAM",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bb7ad5a8d6ca",
-   "title": "3PL Study: Nearshoring and AI Are Changing What Shippers Expect From 3PLs",
-   "original_title": "3PL Study: Nearshoring and AI Are Changing What Shippers Expect From 3PLs",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUtsZzhHNVRxbUFqazRUa3FqYmtiSWVleW4tQ3BuUjZObU94bHgxNlJfbmViTXAta1RSNXZEaXY5Z0RtTlNsWkFsMmt1Mmd0TUpTRGluVkIwR2dwN2w0amxEcFFnVFM5NkJlaWl0YlUyNnV6UWFmaGtBVXZNYXhmWEhzSWtlcHN6ejVPOUJlSGt1clFpMFhGcE1uZVB2aWotZGkyVGtUU2lfUnBWUURaTlhHLVpObXI3dWt3?oc=5",
-   "source": "WWD",
-   "published": "2026-10-06T20:14+00:00",
-   "added": "2026-10-06T21:01+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "nearshoring"
-   ],
-   "summary": "3PL Study: Nearshoring and AI Are Changing What Shippers Expect From 3PLs WWD",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
