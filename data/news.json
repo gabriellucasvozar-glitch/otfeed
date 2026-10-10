@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T06:26+00:00",
+ "generated_at": "2026-10-10T06:53+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -70,6 +70,33 @@
     "ukraine"
    ],
    "summary": "Black Sea attacks threaten Ukraine and Russia grain exports as sowing incentives weaken Traders Union",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0b0eb4894f2e",
+   "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
+   "original_title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XSHo3OVZwWkpjbWtaenNwMkNaZ1cxUnpGd1NyUmZCM2dpV3V3NlpXODIwdDdvdTlYVlJxNTM5SGRneGNjYWRlZERtWFN0ZHNvZ3dqZDBRR1BXSFVscGJZdEJ4SXBsNjBubUdlaWVRa1RpQjFlNEgzX1JsYTBTd9IBgwFBVV95cUxPTW82R2FFR3ZQQm1PUk1RNVdfMGlXNS1TYXNDb3U1NDBtUm0tYjFrQ0loWS1VTlNEaTAyVV8tcnhONW5tZE1JMVdES196NEVLeFRES05qU2p2Q0NIWWFKZk16Q2JQcGtHYjZiOHF1QzBHckl0VFpfWVl2QWNCTXVrOWFNdw?oc=5",
+   "source": "CNBC",
+   "published": "2026-10-10T05:00+00:00",
+   "added": "2026-10-10T06:53+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "ukraine"
+   ],
+   "summary": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant CNBC",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -16674,33 +16701,6 @@
    "summary": "The Panama Canal is expanding its long-term transit reservation program to the Panamax locks for the first time, giving more shipping customers the ability to secure passage months in advance during the 2027 dry season. The Panama Canal Authority said Monday that the next phase of its Long-term Slot Allocation, or LoTSA, program will cover transits from January 3 through April 3, 2027. The program will continue at the Neopanamax locks while a new pilot program introduces long-term slot allocations for vessels using the Panamax locks. The expansion comes as the Panama Canal continues adjusting its operating model following the severe drought that sharply restricted daily transits in 2023 and 2024 and exposed the vulnerability of the freshwater-dependent waterway to changing rainfall conditions. For carriers and vessel operators, the attraction of LoTSA is straightforward: guaranteed access to scarce transit capacity can make voyage planning more reliable, particularly during the dry season when water availability has historically placed the greatest pressure on Canal operations. By extending the program to the Panamax locks, the Canal is making that option available to a broader portion of the commercial fleet for the first time. The Panama Canal is easing restrictions on vessel draft and daily transits after improved rainfall and water-saving measures helped stabilize conditions in the waterway’s drought-sensitive watershed.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
-  },
-  {
-   "id": "780d599c27f3",
-   "title": "Trinity and Greenbrier vow to fight duty bid on Mexican-built tank cars",
-   "original_title": "Trinity and Greenbrier vow to fight duty bid on Mexican-built tank cars",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNakQ0VUZuckwtUnhobk5jWnhpbDE4MnU1a2JKcFk3Q21RbjRhdTFZX0dSbnhLZjVfX3lucndZeGpEbTRQc2dyUmdkN05sa2ZMSkVDMko5djBDR0tuRFp5WVVMaW1scGJBRjRKbTBSakprcGtKRjdlYkdjZHBRNElzNmZNTHhURmhNTmhzOEtEWUdaNGJHWDBwY25UcUc3TzJ0?oc=5",
-   "source": "Railway Supply",
-   "published": "2026-10-06T15:13+00:00",
-   "added": "2026-10-06T17:09+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "duty",
-    "railway"
-   ],
-   "summary": "Trinity and Greenbrier vow to fight duty bid on Mexican-built tank cars Railway Supply",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
   }
  ]
 }
