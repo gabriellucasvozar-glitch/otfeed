@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T23:00+00:00",
+ "generated_at": "2026-10-10T23:21+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "c58784153690",
+   "title": "Jobs at proposed Iowa steel mill come at too high a cost | Opinion",
+   "original_title": "Jobs at proposed Iowa steel mill come at too high a cost | Opinion",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmk0Z3VLb01DRUtfamtlc2lsS21BRUJPcExWN1BKajBBNWNIZkxTZ0ZjbjhpNUVpdHBXWEFNcF9lMmpHS2t0NzlXTkQ2UDVSNS1XaGVDUm5sZnJ0R2ZmVjFLRENrTl9vVmIyWTdtRmNXY1kwRlN5eEJsbTZLMGFrcWFKbGVNNGZGVFVsZDRpT2JDRlp0c09YUmNndHRjOVlXU2s4VEoyUVVIdmJic0xjZVJXdlg?oc=5",
+   "source": "The Des Moines Register",
+   "published": "2026-10-10T22:20+00:00",
+   "added": "2026-10-10T23:21+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "Jobs at proposed Iowa steel mill come at too high a cost | Opinion The Des Moines Register",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "1612a650e5dd",
    "title": "Pociski uderzyły w terminal lotniska w Rijadzie. Port zamknięty do niedzieli",
@@ -16628,36 +16653,6 @@
    ],
    "summary": "Russia exported 4.088 million barrels/day of seaborne crude in September, up 8% month over month and up 3% year over year, despite ongoing sanctions, ship tracking data from S&P Global Energy showed Oct. 5. US President Donald Trump signed legislation on Sept. 18 allowing him to impose tariffs of up to 100% on goods imported ...",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7889923028a7",
-   "title": "Second Greek-linked ship hit in Hormuz within days",
-   "original_title": "Second Greek-linked ship hit in Hormuz within days",
-   "url": "https://www.hellenicshippingnews.com/second-greek-linked-ship-hit-in-hormuz-within-days/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-06T21:00+00:00",
-   "added": "2026-10-06T21:01+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "carrier",
-    "hormuz",
-    "lng",
-    "shipping"
-   ],
-   "summary": "A Greek-flagged LNG carrier controlled by the Angelicoussis Shipping Group was struck by an unidentified projectile while leaving the Strait of Hormuz, in the latest incident to hit commercial shipping along one of the world’s most important energy routes. The Maran Gas Mystras, operated by Maran Gas Maritime, was hit around the waterline on Sunday, ...",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
