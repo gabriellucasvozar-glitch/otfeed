@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T19:57+00:00",
+ "generated_at": "2026-10-11T20:19+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,65 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b51637d9d06d",
+   "title": "Shipping’s extraordinary boom refuses to peak",
+   "original_title": "Shipping’s extraordinary boom refuses to peak",
+   "url": "https://splash247.com/shippings-extraordinary-boom-refuses-to-peak/",
+   "source": "Splash247",
+   "published": "2026-10-11T20:20+00:00",
+   "added": "2026-10-11T20:19+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "bulk carrier",
+    "carrier",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Global shipping earnings have reached another extraordinary milestone, with Clarksons Research’s cross-sector ClarkSea Index surging 12% in a week to an unprecedented $84,951 a day, its fifth consecutive all-time high. The index, a widely followed overall earnings barometer, measures average daily earnings across tankers, bulk carriers, containerships and gas carriers, weighted by vessel numbers in each sector. It covers approximately 80% of global shipping capacity, providing a broad measure of the industry’s fortunes. The latest reading dwarfs the previous shipping supercycle’s 2007 peak of $50,714 a day. Average VLCC earnings jumped another 21% last week to $804,601 a day, while suezmaxes climbed 17% to $724,398 and aframaxes surged 46% to $393,951. Elsewhere, dry bulk has softened, with capesize earnings retreating 16% to $31,130 and overall bulker earnings slipping 3% to $22,319. VLGCs are enjoying record earnings, reaching $209,000 a day on the US Gulf-Japan route, although LNG carriers remain the conspicuous laggard, with modern spot earnings down 19% to $34,250. The present boom is universal, transcending shipping sectors, as demand remains robust and ton-miles have been added as ships detour around war zones by taking longer routes home.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "8211cba6dfc1",
+   "title": "Star Bulk sells down kamsarmax pair to Hermes",
+   "original_title": "Star Bulk sells down kamsarmax pair to Hermes",
+   "url": "https://splash247.com/star-bulk-sells-down-kamsarmax-pair-to-hermes/",
+   "source": "Splash247",
+   "published": "2026-10-11T20:00+00:00",
+   "added": "2026-10-11T20:19+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "mna"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "bulk carrier",
+    "bulker",
+    "carrier",
+    "dry bulk",
+    "sells",
+    "vessel"
+   ],
+   "summary": "Nasdaq-listed Greek dry bulk heavyweight Star Bulk Carriers has agreed to sell a 35% ownership interest in two recently built kamsarmax bulkers to Itochu’s investment and asset-holding vehicle, Hermes World Maritime, while retaining commercial and technical management of both ships. The Petros Pappas-led owner identified the vessels as the 2026-built Star Ellie and Star Bella. Financial terms and the expected completion date have not been disclosed. The pair form part of Star Bulk’s three-vessel kamsarmax acquisition programme at Hengli, confirmed in November last year. Market sources previously valued similar vessels at approximately $36m to $38m apiece, although Star Bulk did not disclose its acquisition costs. Hermes has recently been building its exposure to the dry bulk market. The two-vessel package was valued at approximately $33.6m, with Hermes paying around $16.4m for its minority stake. The latest agreement extends Hermes’ investment beyond handysize tonnage into modern kamsarmaxes, while allowing Star Bulk to release part of its ownership exposure without giving up the ships’ management. Star Bulk puts its fleet at 138 bulkers totalling approximately 13.8m dwt on a fully delivered basis, including its remaining newbuilding commitments.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "e3e071bd43f4",
    "title": "Ningbo Ocean eyes two car carriers in $480m leasing plan",
@@ -819,6 +878,33 @@
    "summary": "Jobs at proposed Iowa steel mill come at too high a cost | Opinion The Des Moines Register",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
+  },
+  {
+   "id": "63c4b6871322",
+   "title": "Saudi Aramco reportedly restores full crude oil supply to Europe for November",
+   "original_title": "Saudi Aramco reportedly restores full crude oil supply to Europe for November",
+   "url": "https://www.hellenicshippingnews.com/saudi-aramco-reportedly-restores-full-crude-oil-supply-to-europe-for-november/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-10T21:00+00:00",
+   "added": "2026-10-11T20:19+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "crude"
+   ],
+   "summary": "Saudi Aramco has reportedly informed European oil refiners that it will supply them with all the crude oil they requested for November after the kingdom’s main cross-country pipeline returned to operation following attacks. At least three European refiners confirmed they will receive full allocations of crude oil from Saudi Arabia’s state oil company next month, Bloomberg news reporting citing people familiar with the matter. The return of supplies will help address a tight market in Europe after the disruption forced refiners to search for alternative sources. Last month, Aramco notified European refiners that they would receive no crude in October after an attack on the East-West pipeline. The situation prompted a rush to secure replacement cargoes. Orlen SA, the largest buyer of Saudi crude, issued more than ten tenders to purchase alternative barrels. Saudi Arabia typically exports an average of 700,000 to 800,000 barrels per day of crude to Europe, according to ship tracking data compiled by Bloomberg. Source: Investing.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
   },
   {
    "id": "1612a650e5dd",
@@ -16579,87 +16665,6 @@
    ],
    "summary": "India’s steel ministry is unlikely to introduce new measures to curb c Shanghai Metals Market",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "033769b1a170",
-   "title": "ETCS on European corridors: three corridors are lagging far behind EU targets",
-   "original_title": "ETCS on European corridors: three corridors are lagging far behind EU targets",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYS1LVEZqZ1U1bVdfb3MwV2hlUEhrUHBJU05KenhoRmw4SllPbm44SkxhM04tY3pDcm9reW1GTHFJb3ptbjU3MGQwSzdDWUlfMDl2Q0xNU2g4aFFqVjRTbFJTY3p3SkN3ZG9CY2F5Rjg4UElOcUR0bHdzSXRaZWx5VFdTVTlUV3hJVUVHVEFn?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-07T07:20+00:00",
-   "added": "2026-10-07T08:12+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "railway"
-   ],
-   "summary": "ETCS on European corridors: three corridors are lagging far behind EU targets Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ab594211859d",
-   "title": "MinRes ramps up Lamb Creek iron ore mine with seven million mt annual capacity",
-   "original_title": "MinRes ramps up Lamb Creek iron ore mine with seven million mt annual capacity",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeW5DZVprdzgzanVvXzFBTkZXMDRES1hza05WbDFLRzV2NHpaTGttM0hmRkxKMGdjQ25iMWNOOUpPem1lNGsxc1hQOHdpYWxZSHVKZDkzSFNkbGFUM2hxYTBpREt2UllmOVdOZ254eEV2ME9pRHg3MzZBTmMxNDV1dndZc1hhRzgxM1AxQnhrbEpoUnJoX2hPUFVwSC00NmNZSFk3Rld1RWgzeHpFMW5QT2hCeXgtdEVtaExGb0N5Z29lRjFjckVVU3pwZ2dWV3E3ZnU1VGw2bw?oc=5",
-   "source": "Steel Orbis",
-   "published": "2026-10-07T07:19+00:00",
-   "added": "2026-10-07T08:12+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "iron ore",
-    "steel"
-   ],
-   "summary": "MinRes ramps up Lamb Creek iron ore mine with seven million mt annual capacity Steel Orbis",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "972842fd7b1a",
-   "title": "Kazakhstan, Uzbekistan and UAE examine new railway to Pakistani ports",
-   "original_title": "Kazakhstan, Uzbekistan and UAE examine new railway to Pakistani ports",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaU1VNTlzbUpZelgxTDB1bzB3S29wa3Y5TlFYUVUzSjZhajlUMHlaNW9fME1UclFvTllQWEdmRFVqZ3FYODJyVzBJYnpMWlBJN1Q2dHZOcEpsVk9uZ0pCMU5aU3R5Q2FneVdJYnlWbEstNElob0kzd0pQR1FUTk5XaVA2TXJGdm5ZZUo1WWIwNS1ZYTVvalhPTS1VYUc4cE9YUlExUGtqXzJudGw4QktRN1RaWHZVLVVTWlZPUg?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-07T07:13+00:00",
-   "added": "2026-10-08T07:37+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "rail"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "railway"
-   ],
-   "summary": "Kazakhstan, Uzbekistan and UAE examine new railway to Pakistani ports RailFreight.com",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
