@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T12:20+00:00",
+ "generated_at": "2026-10-11T12:47+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "0200a7470265",
+   "title": "Exclusive: Incheon New Port's K-Smart Equipment 100% Chinese-Made",
+   "original_title": "Exclusive: Incheon New Port's K-Smart Equipment 100% Chinese-Made",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcEVGdFVKTHVyN2Fyb2Y0WGN2YlRRbjRuVWdzQTNZX21ONHZNeFZIQWxYR252NTgtUFFNbkFsdVdJOHJWWXZuTHRCaVc1Mjg4VDlCakFlX0pUN0thM2pOd1BtTE1NeDE3cml3T0tudDl4RV9EYkVLN3dIcmRCRXBKNDdJaWItWXJk?oc=5",
+   "source": "조선일보",
+   "published": "2026-10-11T11:30+00:00",
+   "added": "2026-10-11T12:47+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "chinese",
+    "port"
+   ],
+   "summary": "Exclusive: Incheon New Port's K-Smart Equipment 100% Chinese-Made 조선일보",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "f705de192fb0",
    "title": "A Northern Route for Belarusian Potash: How Murmansk Port Is Reshaping Logistics",
@@ -16641,34 +16668,6 @@
    ],
    "summary": "Why TEU Capacity Matters: Serving the World’s Largest Vessels Data Portuaria",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a358721389b1",
-   "title": "EU methane regulation risks worsening the energy crisis",
-   "original_title": "EU methane regulation risks worsening the energy crisis",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTFBWcVFyNHZ5TkJmNktEM05CaU40ZTZUbWZueEhjaG1nVTMtVVZfVXM1UHhMa0NYUlNyb1ZwWnJkNXJyZXdWNmpkbGJUUHFuMXdyMXhIcElycF84c2ZOUnk0U3p2Q0dvTFdHOWxPSE15NWFXUmQxZTdEaDlVVmhvRFk1NFQ3YUp6aUJaQTJ2eUtJWVBuV2dvUFRGRXlyekU?oc=5",
-   "source": "Cyprus Shipping News",
-   "published": "2026-10-07T02:47+00:00",
-   "added": "2026-10-07T03:50+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 7,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "regulation",
-    "shipping"
-   ],
-   "summary": "EU methane regulation risks worsening the energy crisis Cyprus Shipping News",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   }
  ]
