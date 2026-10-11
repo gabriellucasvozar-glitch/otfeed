@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T22:57+00:00",
+ "generated_at": "2026-10-11T23:19+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "940af90c720c",
+   "title": "Suardiaz Group drives forward its investment plan with the purchase of the RS Atlantico",
+   "original_title": "Suardiaz Group drives forward its investment plan with the purchase of the RS Atlantico",
+   "url": "https://theloadstar.com/suardiaz-lng-powered-car-carrier-rs-atlantico/",
+   "source": "The Loadstar",
+   "published": "2026-10-11T23:01+00:00",
+   "added": "2026-10-11T23:19+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "lng",
+    "logistics",
+    "vessel"
+   ],
+   "summary": "Suardiaz Group is the first Spanish company to have an LNG-powered vessel in the Car Carrier segment. The first, the RS Atlantico, with capacity for 5,500 cars, has just been delivered and forms part of an ongoing investment plan through which the Group is strengthening its position as a global logistics provider. Suardiaz Group has taken a further step in its growth strategy with the departure from China of the first of the new PCTC (Pure Car and Truck Carrier) vessels it will add to its operations, powered by dual-fuel liquefied natural gas (LNG) engines. Suardiaz Group has pursued an ambitious growth strategy that includes the renewal of its fleet (chemical tankers, offshore vessels, Car Carriers, etc.), the expansion of its international presence, investment in logistics infrastructure and specialised capabilities for the industrial and energy sectors, as well as the development of multimodal solutions integrating maritime, road and rail transport, forwarding, industrial logistics, port services and offshore projects. Control over logistics chains is becoming a fundamental asset for the global economy, and this is where Suardiaz, through its investment plan, is positioning itself as an essential player for our customers,” said Juan Riva, CEO of Suardiaz Group.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "66d5ba14d5d7",
    "title": "South Korea, China Clash Over LNG Carrier Market",
@@ -16644,32 +16673,6 @@
    ],
    "summary": "Drone strikes put Black Sea shipping on edge as multiple vessels are hit safety4sea",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4152ba0a73fa",
-   "title": "The Polish railway sector is strengthening its position in Western Europe",
-   "original_title": "The Polish railway sector is strengthening its position in Western Europe",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1otaGhjYWRhM1RteGM0b0hVSFU1LWlOVUtnRWNiNEZTR2dENk9VYk92NjhQUTAwWWNoQmF4eGFUazd0bUR2R1dOWmZqTGZTcmFFQ3M4dnFTWGNBazFTV2s4WVd4aHZVNjZFMjA3THd2ck1ScU9GYV9fcTJUY0MwMm01TFdFSkFrbTlYUW9xbVVRUXdsaHRXRmotZExXdFAxU2xGLXlGLWstWWs?oc=5",
-   "source": "Trade.gov.pl",
-   "published": "2026-10-07T08:50+00:00",
-   "added": "2026-10-07T13:28+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polish",
-    "railway"
-   ],
-   "summary": "The Polish railway sector is strengthening its position in Western Europe Trade.gov.pl",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   }
  ]
