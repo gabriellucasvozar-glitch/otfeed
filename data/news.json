@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T00:26+00:00",
+ "generated_at": "2026-10-11T00:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -10381,6 +10381,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "b3d51dab7c1b",
+   "title": "India’s west coast is vulnerable: How Russian oil can reach Bay of Bengal ports instead",
+   "original_title": "India’s west coast is vulnerable: How Russian oil can reach Bay of Bengal ports instead",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVG1tWE82cDBVMkI3ZG03TzliemNhNTN3WTJFNFlhel9lVlVRUHNidEJFRUIya0JQNzcxbFBvVWd5NUhiS0ZRZlkwQ1FkSFl0R1dtYzF5ZGNnNzF3bV9nRElMYWNPcllqQWFIRWR5M2p3eDRJRS04R2I4RFB0YThYUUs1Y3pGWkJhOG5yVUtNbUZ5NnY3UUUtSGVXZXBmSkJMaGYxcDZYODgtRnRKdWVHTUotbUF6TUlVbTI4NGhNdEFqV03SAcoBQVVfeXFMUGUtMXNjelFrOTJLUXZ5ZTNwMlNWOEhMaThUamY1blVCbFdSU2ZTcjF4cnlmS0VZTXBMMS1vcjRXT1BrZjN2WHFjcU5XU19rTmVadGdhRUtpd004MGVDbU95NmRqVlFXdEZFZnAwYlp1M200dmYyQ2pSZW9MN0llV3ZEN0FFMXFTb3Q0WnQwaGRBWHNsRGExaFJpSnZmSXJKYURQenp2ZWVBbjRCUkhLMFJuX2NqNUdQWl84TWdCajcwT0Rlel80RW9Idw?oc=5",
+   "source": "The Indian Express",
+   "published": "2026-10-08T01:06+00:00",
+   "added": "2026-10-11T00:55+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "russia",
+    "russian"
+   ],
+   "summary": "India’s west coast is vulnerable: How Russian oil can reach Bay of Bengal ports instead The Indian Express",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4cb61372a4dd",
    "title": "Japan sanctions 35 Russia-linked vessels in new crackdown on Moscow",
    "original_title": "Japan sanctions 35 Russia-linked vessels in new crackdown on Moscow",
@@ -16623,37 +16653,6 @@
    "summary": "See below for more details, and visit Shipping Intelligence Network for the full report and underlying data. Driven by exceptionally elevated, disruption-driven rate environments in crude and LPG and supported by strong market conditions across container, car carrier and bulkers, our cross-segment shipping market “barometer”, the ClarkSea Index, has hit an all-time high (Q3: $46,384/day). Strong newbuild flow continued to build orderbook backlog and asset prices in crude tankers “surged”. The ClarkSea Index reached its highest ever quarterly level ($46,384/day vs $44,222/day of Q2-2008 and 2x the 10 year trend) and highest individual week ($66,000/day). This combination of improved volumes plus additional “inefficiencies” and distances has pushed VLCC earnings to exceptional levels (>$600,000/day, Q3 avg $277,995/day, some routes now over $1.6m/day) whilst demand for ships for the “shuttle” operations also helped S&P prices “surge” to all-time highs (15 yr old VLCC price > newbuild, resale VLCC index at record $240m). In LPG carriers, cargo volume loss has been more than offset by higher tonne-mile demand from long-haul US-Asia trade (notably via the Cape with Panama congested), with VLGC earnings averaging a record $154,853/day. Bulkcarrier markets have firmed, basis more “traditional” supply-demand factors, led by Capesize (peaking at >$50,000/day, avg $33,100/day) with Guinea volumes growing and Chinese import demand firm.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "extract"
-  },
-  {
-   "id": "1fd7919bc5a6",
-   "title": "Russia September crude exports rise 8% on month, despite fresh sanctions",
-   "original_title": "Russia September crude exports rise 8% on month, despite fresh sanctions",
-   "url": "https://www.hellenicshippingnews.com/russia-september-crude-exports-rise-8-on-month-despite-fresh-sanctions/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-06T21:00+00:00",
-   "added": "2026-10-06T21:01+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "crude",
-    "legislation",
-    "russia",
-    "sanction",
-    "tariff"
-   ],
-   "summary": "Russia exported 4.088 million barrels/day of seaborne crude in September, up 8% month over month and up 3% year over year, despite ongoing sanctions, ship tracking data from S&P Global Energy showed Oct. 5. US President Donald Trump signed legislation on Sept. 18 allowing him to impose tariffs of up to 100% on goods imported ...",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
   }
  ]
 }
