@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T02:57+00:00",
+ "generated_at": "2026-10-11T03:20+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -4874,6 +4874,33 @@
     "steel"
    ],
    "summary": "From January to August, among major steel-using industries, constructi Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9db2e214baed",
+   "title": "Fortescue’s China friendship rocky as iron ore buyer’s boycott bites",
+   "original_title": "Fortescue’s China friendship rocky as iron ore buyer’s boycott bites",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQjV2Rmx0LWhDaXIwS2RabmJYQVlRYWVvU1NLeWc0Znd2M192M3lPU3hzVHRwS2ZkMkpUQTFTeW1OSm1tcUtNWnRsd3piWDNxQjg3QmJMUVJsamtjbC1JVHBsTy0tZDZ2WTRNQWJCalc2LVlKUU1lQm9qT182WVp0VEtZazBDTGYtbTI4SnJ0LWlmbE9NUlJkRlFDa3VKdmNhbTN1djNJdHAyanN0VHpQd3Y3eGVjVURWRUs5ZWxNMV9wMGpnNGNBRzNTb2hsdjhWbmxiSk5ZSTRHdGtpQ0lseEw2X3JVSTBwSi1PN1RmbnpmQU0?oc=5",
+   "source": "NT News",
+   "published": "2026-10-09T03:21+00:00",
+   "added": "2026-10-11T03:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "iron ore"
+   ],
+   "summary": "Fortescue’s China friendship rocky as iron ore buyer’s boycott bites NT News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16627,33 +16654,6 @@
    ],
    "summary": "The diesel market saw a series of notable developments last week, against a backdrop of elevated prices and mounting Source: Intermodal",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a9bdb052bcb4",
-   "title": "Capital Maritime Finance Corp. (CMF): A New Chapter for Greek Shipping Capital Markets",
-   "original_title": "Capital Maritime Finance Corp. (CMF): A New Chapter for Greek Shipping Capital Markets",
-   "url": "https://www.hellenicshippingnews.com/capital-maritime-finance-corp-cmf-a-new-chapter-for-greek-shipping-capital-markets/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-06T21:00+00:00",
-   "added": "2026-10-06T21:01+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fleet",
-    "shipowner",
-    "shipping"
-   ],
-   "summary": "Capital Maritime Finance Corp. (CMF), backed by Greek shipowner and investor Evangelos Marinakis, is preparing to enter the Athens Stock Exchange with a modern container fleet, long-term contracted revenues and an ambitious newbuilding programme — offering investors exposure to one of the fastest-evolving segments of global shipping. The planned listing of CMF on the Athens Stock Exchange (Euronext Athens) marks another step in the expansion of the Capital Maritime Group’s presence in the international capital markets. The planned CMF listing also forms part of a broader strategy pursued by Evangelos Marinakis, founder and Chairman of Capital Maritime & Trading Corp. The Capital Maritime Group currently manages a fleet of 179 vessels, including the fleets of Capital Clean Energy Carriers, Capital Tankers and the newly established CMF. CMF’s proposed entry to the Athens Stock Exchange comes at the intersection of two developments: the transformation of the global container fleet and the growing role of Greek capital markets in financing internationally focused shipping companies. Its proposition is built around a young fleet, long-term charter coverage, a substantial orderbook and the capital-markets experience of the wider Capital Maritime Group. For the Greek market, the listing would add another internationally focused shipping company to a capital market seeking to strengthen its position as a financing centre for global maritime businesses.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   }
  ]
