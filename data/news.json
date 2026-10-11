@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T05:23+00:00",
+ "generated_at": "2026-10-11T05:44+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,65 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "1f37ddc54bbd",
+   "title": "Tanker war spreads across Gulf",
+   "original_title": "Tanker war spreads across Gulf",
+   "url": "https://splash247.com/tanker-war-spreads-across-gulf/",
+   "source": "Splash247",
+   "published": "2026-10-11T05:40+00:00",
+   "added": "2026-10-11T05:44+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East",
+    "Latin America"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping",
+    "war"
+   ],
+   "summary": "Attacks on commercial shipping are spreading deeper into the Gulf as Iran widens its campaign beyond Hormuz, with a fully laden VLCC struck off the UAE and another tanker hit in the strait over the weekend. The Panama-flagged, 302,000 dwt Gem No.2 was struck by an unidentified projectile on Friday around 13 nautical miles west of Al Jazeera, UAE, sparking a fire that was subsequently extinguished. Maritime security firm Vanguard identified the vessel, which is managed in Taiwan and linked to U-Ming Marine Transport. India’s minister for ports, shipping and waterways, Sarbananda Sonowal, subsequently said the tanker had come under drone attack at Sharjah Anchorage and confirmed that all 22 Indian seafarers were safe. The attack followed another tanker strike off Qatar and came as Iran’s Revolutionary Guards warned they would pursue ships taking what Tehran considers unauthorised routes anywhere in the region, rather than just inside Hormuz. UK Maritime Trade Operations reported that an unidentified outbound tanker was struck on its port side by a projectile within Hormuz, triggering another fire. The vessel was not named and the account remains unverified. Meanwhile, in the Gulf of Oman, US forces struck the stern of the Panama-flagged bulker Ocean Molica, also known as Arika Sun, disabling its propulsion after it allegedly ignored warnings under Washington’s blockade of Iranian ports.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "518ef2f4364b",
+   "title": "Azerbaijan’s growing rail freight links with China strengthen Middle Corridor",
+   "original_title": "Azerbaijan’s growing rail freight links with China strengthen Middle Corridor",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lR2NSb21FU2c0WktLRnRlNHNkN1VBLW9jS0l4TzQ5dUc2ZWxtR1Q5OW1BT1QxUGc2RmpIQXQ1bFdMN0tQZzc2WVNpN2NURGNNbXR4QS1kbw?oc=5",
+   "source": "AzerNews",
+   "published": "2026-10-11T04:30+00:00",
+   "added": "2026-10-11T05:44+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "rail",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "middle corridor",
+    "rail freight"
+   ],
+   "summary": "Azerbaijan’s growing rail freight links with China strengthen Middle Corridor AzerNews",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "102f5226a2a4",
    "title": "US Says It Disabled Cargo Vessel Trying To Run Iran Blockade",
@@ -876,6 +935,39 @@
    ],
    "summary": "Konecranes sets Port Solutions a market-share target and leaves its margin floor at 9% Container Management",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "68ab29f94dfb",
+   "title": "Russia Looks to China Transit as Ukrainian Drone Attacks Paralyze Southern Ports",
+   "original_title": "Russia Looks to China Transit as Ukrainian Drone Attacks Paralyze Southern Ports",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFFVNWJCbVZRd3JJM1llc1B3cFBZUElkVUJXb0h5UkgtSWhhS1hxZ3haODRfN0FRSU9vVTlzNTlsSzFmeEdWMENGbUljejdNTk1pdk0wNGlOT1dHWlkwNHdId1NwZmlFRzVOVXBuaDFLV3JfRU1PMFh5SkNnTmRkWnZQZjBVaTNlSl8zWFR3X1VPN25oSUQxYndBU2ZDYTBoTXdwTzNERkNudGx2V0lfUEYxRDBzaEFXcFE?oc=5",
+   "source": "UNITED24 Media",
+   "published": "2026-10-09T21:01+00:00",
+   "added": "2026-10-11T05:44+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "attack",
+    "china",
+    "drone",
+    "port",
+    "ports",
+    "russia"
+   ],
+   "summary": "Russia Looks to China Transit as Ukrainian Drone Attacks Paralyze Southern Ports UNITED24 Media",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16562,91 +16654,6 @@
    "summary": "Latin America’s commodity exporters face El Niño, costly freight and a shifting US trade picture Hellenic Shipping News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "40ab9a247d84",
-   "title": "RADIANT LOGISTICS ACQUIRES WHITACRE LOGISTICS' DALLAS OPERATIONS",
-   "original_title": "RADIANT LOGISTICS ACQUIRES WHITACRE LOGISTICS' DALLAS OPERATIONS",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUpHaFdRTzZDby1FbDlPR21DRTV3SGNxLV8xU0VjQTE4cnh4aDBqemVUM084UWNPclByMW56TlJ4NGxfVTlidWc3TV91WGtkN3ZmNjVVWXVyUUgyRlhmdGE5UFA0QmJwQlRiUFZybGNaT0RtSGlRUVZBalV4cXRPTFRsaTZCS09ETzg2X3RjV2FLd3JhNDJYUTE3aTlJcGVfQ04tc21XelNjRkF5Nl84?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-06T21:03+00:00",
-   "added": "2026-10-06T22:19+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquire",
-    "acquires",
-    "logistics"
-   ],
-   "summary": "RADIANT LOGISTICS ACQUIRES WHITACRE LOGISTICS' DALLAS OPERATIONS Yahoo Finance",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dc1d93ac65d7",
-   "title": "Savannah’s Ocean Terminal renovations 60 percent complete",
-   "original_title": "Savannah’s Ocean Terminal renovations 60 percent complete",
-   "url": "https://www.hellenicshippingnews.com/savannahs-ocean-terminal-renovations-60-percent-complete/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-06T21:00+00:00",
-   "added": "2026-10-06T21:01+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "berth",
-    "port",
-    "terminal",
-    "teu"
-   ],
-   "summary": "Renovations at the Port of Savannah’s Ocean Terminal are now more than 60 percent complete. The $1.6 billion project will grow the facility’s annual container capacity from 200,000 twenty-foot equivalent container units to 1.75 million TEUs. “Ocean Terminal is a major part of our strategy to prepare Savannah for future growth. GPA will work smaller vessels at Ocean Terminal until mid-fall 2027, when the first phase of the container yard renovation is complete. The entire Ocean Terminal yard will be completed by the end of 2028. The truck gate at Ocean Terminal is fully operational and will feature 12 inbound and six outbound lanes. A $29 million port–funded overpass routes departing trucks from Ocean Terminal directly onto U.S. “Transforming a 200-acre terminal while keeping the port operating is a tremendous undertaking, and the progress at Ocean Terminal is a testament to the hard work of our GPA team and our partners,” said Georgia Ports Authority Board Chairman Alec Poitevint. August Exports up 4 percent As earlier reported, the Port of Savannah handled 529,523 TEUs in August.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "875f3f10de91",
-   "title": "Iran insists it controls Hormuz as rial hits record low and exports dry up",
-   "original_title": "Iran insists it controls Hormuz as rial hits record low and exports dry up",
-   "url": "https://www.hellenicshippingnews.com/iran-insists-it-controls-hormuz-as-rial-hits-record-low-and-exports-dry-up/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-06T21:00+00:00",
-   "added": "2026-10-06T21:01+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "hormuz",
-    "military"
-   ],
-   "summary": "Iran’s military insisted it retained full control of Hormuz and the foreign minister said the strait could reopen within seven days if Tehran’s conditions were met, after US Treasury Secretary Bessent said Iran had not loaded a single barrel of crude onto tankers in September. Iran’s military said on Monday it retained full control over the Strait of Hormuz despite changes in US tactics, as the rial fell to record lows, the oil minister resigned and Washington claimed Tehran had not exported a single barrel of crude in September. All movements (in Hormuz) are under the control of the armed forces of the Islamic Republic,” Brigadier General Aziz Jafari, commander of Iran’s Khatam al-Anbiya Joint Air Defence Headquarters, said Monday. His departure was officially attributed to “family and personal matters,” although speculation has mounted that exports have fallen to a level that no longer covers state financial needs. The new acting oil minister pledged to maximise production and continue exports through new strategies. Ship-tracking company Kpler recorded crude exports from the region excluding Iran at between 19.5 and 22.5 million barrels per day in the final week of September, above the pre-war regional average of 18 million barrels per day.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
   }
  ]
 }
