@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T04:23+00:00",
+ "generated_at": "2026-10-11T04:46+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "102f5226a2a4",
+   "title": "US Says It Disabled Cargo Vessel Trying To Run Iran Blockade",
+   "original_title": "US Says It Disabled Cargo Vessel Trying To Run Iran Blockade",
+   "url": "https://gcaptain.com/us-says-it-disabled-cargo-vessel-trying-to-run-iran-blockade/",
+   "source": "gCaptain",
+   "published": "2026-10-11T03:02+00:00",
+   "added": "2026-10-11T04:46+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East",
+    "North America"
+   ],
+   "tags": [
+    "military",
+    "vessel"
+   ],
+   "summary": "Smoke and fire rise from a commercial cargo vessel following a strike, which US Central Command says it had disabled in the Gulf of Oman after the ship's crew ignored warnings and attempted to run a naval blockade against Iran, at a location given as the Gulf of Oman, October 10, 2026, in this still image taken from a handout video. Central Command/Handout via REUTERS Oct 10 (Reuters) – The US military said on Saturday it had disabled a commercial cargo vessel in the Gulf of Oman after the ship’s crew ignored warnings and attempted to run a naval blockade against Iran. Forces Disable Cargo Vessel Attempting to Violate Blockade TAMPA, Fla. Central Command (CENTCOM) forces disabled a commercial cargo vessel in the Gulf of Oman, Oct. 10, after the ship’s crew ignored repeated warnings and attempted to run the ongoing naval blockade… pic.twitter.com/qBKcU6gWqR CENTCOM said the cargo vessel had attempted to transit regional waters after leaving an Iranian port. CENTCOM warned mariners in the Gulf of Oman and the approaches to the Strait of Hormuz to heed blockade warnings, monitor notice-to-mariners broadcasts and contact US naval forces.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "c58784153690",
    "title": "Jobs at proposed Iowa steel mill come at too high a cost | Opinion",
@@ -16621,36 +16649,6 @@
    ],
    "summary": "Singapore and Malaysia Singapore’s bunker market remains tight despite “average demand”, with recommended lead times for VLSFO holding at around 10-15 days, unchanged from the previous week. Most suppliers continue to operate with low stocks, while delays in cargo arrivals due to the ongoing conflict in the Middle East have further strained availability, according to a Singapore-based source. HSFO supply is similarly constrained, with advised lead times of 10-15 days, broadly unchanged week on week. East Asia Bunker fuel availability remains tight in Zhoushan despite muted demand, with several suppliers reporting low stock levels. Bunker fuel availability has improved in South Korea as demand has remained subdued in the past few days due to a series of public holidays, including National Foundation Day on 3 October and its substitute holiday on 5 October. South Asia Bunker supply remains broadly stable at major Indian ports, with suppliers advising VLSFO lead times of around 3–4 days at Mumbai, Cochin, Paradip, Visakhapatnam, Kakinada, Haldia and New Mangalore, largely unchanged from the previous week. Bunker fuel availability in Fujairah remains severely constrained as US-Iran tensions continue to disrupt vessel traffic through the Strait of Hormuz, according to a regional source. Supplies of all major grades are extremely limited, while fuel oil arrivals have dropped sharply amid heightened uncertainty across the region.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "9ee2f092c772",
-   "title": "LNG Bunker Snapshot: Rotterdam premium rises as Singapore holds steady",
-   "original_title": "LNG Bunker Snapshot: Rotterdam premium rises as Singapore holds steady",
-   "url": "https://www.hellenicshippingnews.com/lng-bunker-snapshot-rotterdam-premium-rises-as-singapore-holds-steady/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-06T21:00+00:00",
-   "added": "2026-10-06T21:01+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Baltic & Nordics",
-    "Western Europe",
-    "Asia"
-   ],
-   "tags": [
-    "baltic",
-    "bunker",
-    "lng",
-    "prices"
-   ],
-   "summary": "• ARA up by $12/mt to $1,432/mt • Singapore down by $1/mt to $1,566/mt • Baltics up by $12/mt to $1,537/mt ARA Rotterdam’s LNG bunker price has edged higher, reversing two consecutive weeks of declines. A higher premium over TTF has driven the increase, going from $2.48/MMBtu ($129/mt) a week ago to $2.62/MMBtu ($136/mt) in Rotterdam, and from $4.50/MMBtu ($234/mt) to $4.64/MMBtu ($241/mt) in the Baltics. European natural gas prices have drawn support from pressure to replenish low stockpiles, with storage well below the seasonal norm of 87%, ANZ Bank’s senior commodity strategist Daniel Hynes said. Singapore Singapore’s LNG bunker price has held broadly steady, with a lower JKM balanced by a higher bunker premium. Its premium over ARA has narrowed from $147/mt a week ago to $134/mt. Singapore’s LNG bunker price typically tracks the front-month NYMEX Japan/Korea Marker (JKM), which has fallen by $0.11/MMBtu ($6/mt) to $25.71/MMBtu ($1,337/mt). The decline has been largely offset by Singapore’s bunker premium over JKM, which has gone from $4.31/MMBtu ($224/mt) a week ago to $4.41/MMBtu ($229/mt). Japan’s LNG inventories for power generation stood at 2.41 million mt as of 27 September, down around 110,000 mt from the previous week, according to the Ministry of Economy, Trade and Industry (METI), JOGMEC said.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
  ]
