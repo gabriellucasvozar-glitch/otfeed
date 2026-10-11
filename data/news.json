@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T13:27+00:00",
+ "generated_at": "2026-10-11T13:48+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -6409,6 +6409,31 @@
     "dry bulk"
    ],
    "summary": "Baltic dry bulk index drops to lowest level in more than six weeks Baird Maritime",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4fc0ccf4e1f1",
+   "title": "Natgas: Euro TTF tops €80/MWh, US higher on GOM shut-ins",
+   "original_title": "Natgas: Euro TTF tops €80/MWh, US higher on GOM shut-ins",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdk5TN3V4QldKWkxkQ092aFlGTm5KNmNteTNKR1dfMDhzU29lNzRfZGg2eWpkaGdsWmZZTm9Ca3k5YkpFZEUzLXNJN3FoTVdZS1d4Wi1pcFQ0eEJuM3pnR196RTluMVhvaVlRcEYwSHZwaDdNVm5BTjJES3pIb09kd1hXaFdCaVREUUNuR2NCSl9tNmZuZFJ4M05GNkRpZE5WWkw2bDBnbzc?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-08T18:10+00:00",
+   "added": "2026-10-11T13:48+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "commodit"
+   ],
+   "summary": "Natgas: Euro TTF tops €80/MWh, US higher on GOM shut-ins Quantum Commodity Intelligence",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16646,34 +16671,6 @@
    ],
    "summary": "TTM's RM100 mil yearly spend in local supply chain powers Malaysia's role as terminal tractor manufacturer KLSE Screener",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c3516b00e37d",
-   "title": "MacGregor to equip four additional Skywalker-class CSOVs with motion-compensated cranes and gangways",
-   "original_title": "MacGregor to equip four additional Skywalker-class CSOVs with motion-compensated cranes and gangways",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTFVxR1ZOa0I5aW94YmhsRXJVMXp4ZG0yd2pjWDJJTmJHc29sS2xBSFN6WFpRZDlvT1VDT19lXy1nRHdpMTVyZHk4TUU3WHlod0lXdjYta2J2Y3YtUURUdlJjWEJCbEF4UE9EYUZIMGQ4TmNmS0ZwVHZ0a3FFSE1iMEpSbkFEMnBfNzVfeGI2MmlLMm1taGI5SDZ2RnBqTTJYVUF0LTVjbTEwY2lBNmhnd0dkWkFnZU1nWGRhR0EtTjJXUGFSM0FickRhc3pjbk9qVW1VOFItblZ5WGlEVHQzbV9laEcwUUk3bEE?oc=5",
-   "source": "India Shipping News",
-   "published": "2026-10-07T03:19+00:00",
-   "added": "2026-10-07T06:48+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "shipping"
-   ],
-   "summary": "MacGregor to equip four additional Skywalker-class CSOVs with motion-compensated cranes and gangways India Shipping News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   }
  ]
