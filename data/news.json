@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T22:20+00:00",
+ "generated_at": "2026-10-11T22:40+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -3796,6 +3796,33 @@
    "summary": "Maersk's methanol-fueled container vessel Laura Maersk arrives for an official naming ceremony in Copenhagen, Denmark, September 13, 2023. REUTERS/Tom Little A new study from the Mærsk Mc-Kinney Møller Center for Zero Carbon Shipping finds that ethanol could become a practical alternative fuel for ships, particularly those already equipped with methanol-capable engines, while also identifying a possible pathway for its use in conventional diesel-powered vessels. The report, Ethanol as a Marine Fuel: Exploring Its Usability, published Thursday, examines whether ethanol can be used in existing marine engines and what modifications would be needed to make it commercially viable. Maersk has been testing ethanol aboard its methanol-fueled container vessel Laura Maersk since 2025, initially using a 10% ethanol blend before moving to higher concentrations. Despite those limitations, the study found that converting some existing vessels to operate on ethanol blends could make economic sense. For example, researchers found that a large container ship consuming approximately 25,000 tonnes of fuel annually could economically operate on a 30% ethanol blend across a wider range of fuel carbon intensities. The report also stops short of determining how much ethanol could realistically contribute to shipping’s overall decarbonization.",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "extract"
+  },
+  {
+   "id": "a5b24b51dc01",
+   "title": "Crude Oil is Underpriced, Energy Aspects Says",
+   "original_title": "Crude Oil is Underpriced, Energy Aspects Says",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkNWUmNjbHdKaUlWZ0lkamQ3ZG93NDlqVkJtdDF4ZUpFc3ZUMEs3WTRDZ1o4YWFyQThqLVRnRWZzQXhFR2ltWlNLdXI0ZWV5Y2hyamFRRHVqbUhEenM2eUF1UjlKdWVUYUtLQjVZSDduMDBoR2ZySWlhc3YzcWhLZm5sZHRFSVh2OFFaSXRJYVNNQ2pET1pMQ2FNcVBleVZDdU5LT3JYQdIBpwFBVV95cUxNdkNWUmNjbHdKaUlWZ0lkamQ3ZG93NDlqVkJtdDF4ZUpFc3ZUMEs3WTRDZ1o4YWFyQThqLVRnRWZzQXhFR2ltWlNLdXI0ZWV5Y2hyamFRRHVqbUhEenM2eUF1UjlKdWVUYUtLQjVZSDduMDBoR2ZySWlhc3YzcWhLZm5sZHRFSVh2OFFaSXRJYVNNQ2pET1pMQ2FNcVBleVZDdU5LT3JYQQ?oc=5",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-10-09T12:30+00:00",
+   "added": "2026-10-11T22:40+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crude",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Crude Oil is Underpriced, Energy Aspects Says Crude Oil Prices Today | OilPrice.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "b0e630053096",
@@ -16643,35 +16670,6 @@
    ],
    "summary": "The Polish railway sector is strengthening its position in Western Europe Trade.gov.pl",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5b2f316a9258",
-   "title": "Attacks on civilian ships near Bulgaria pose new risks to the Black Sea grain route",
-   "original_title": "Attacks on civilian ships near Bulgaria pose new risks to the Black Sea grain route",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUhGRjdTc0pQeVVwVktNMkQ4NWtpRXdWREkxOGFXV1JrdG5qWm00RDhkbFMzWjdDaGRzZUQ0dUh6VnlJSVhacm5TTTBFSHhlTGlCSTloVlBfeTlwRzBtalBhVW50N1drZUs2eWFubG5vN2VHdTExSGNUZWhYMThGTG1xLXd5dkFBc3ZFR2t1OEtCWnQwSVJpMUZ1Y1ZGTVY4bEVXRVBSbld2TUtyVEtETlhRenNRZDRRenhfWHFJcmhWQ3A4bEQ5WFFhSzY?oc=5",
-   "source": "електронна зернова біржа України",
-   "published": "2026-10-07T08:42+00:00",
-   "added": "2026-10-07T16:38+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "grain"
-   ],
-   "summary": "Attacks on civilian ships near Bulgaria pose new risks to the Black Sea grain route електронна зернова біржа України",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
