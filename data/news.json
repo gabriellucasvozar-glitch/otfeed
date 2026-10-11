@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T14:02+00:00",
+ "generated_at": "2026-10-11T14:23+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -6435,6 +6435,33 @@
    ],
    "summary": "Natgas: Euro TTF tops €80/MWh, US higher on GOM shut-ins Quantum Commodity Intelligence",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d8b81dfc78a1",
+   "title": "Gulf countries shipped over 1.25 bln barrels of crude oil through Hormuz: CENTCOM",
+   "original_title": "Gulf countries shipped over 1.25 bln barrels of crude oil through Hormuz: CENTCOM",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ3dCNkRoTC0taVJzTTM0NHI1c1o5Y0lFV0lWUllHbmpXSDZjeTBMMURNUjJoMVVCUEMzbXV6cFhrcE9UQjZIYTk2MmJQRzBQTXRTUEdKY0kwRFhYaG1CU0YtMHB2NDh6MHhVYnFLRU44SEFkbXJrNk51YTNSQUlkaVlXSDhJTGZLZ0ZmS21VM1d0TXV0UFFBRmFjMUtnVlpwbUtSSkRfR0YxNE4tcU5KS1lOYVd6OVd6enlkVlF2RjVQYTZ3LUFMaVJrVVdRVTFCTmhxdHhmc9IB1wFBVV95cUxNQ3dCNkRoTC0taVJzTTM0NHI1c1o5Y0lFV0lWUllHbmpXSDZjeTBMMURNUjJoMVVCUEMzbXV6cFhrcE9UQjZIYTk2MmJQRzBQTXRTUEdKY0kwRFhYaG1CU0YtMHB2NDh6MHhVYnFLRU44SEFkbXJrNk51YTNSQUlkaVlXSDhJTGZLZ0ZmS21VM1d0TXV0UFFBRmFjMUtnVlpwbUtSSkRfR0YxNE4tcU5KS1lOYVd6OVd6enlkVlF2RjVQYTZ3LUFMaVJrVVdRVTFCTmhxdHhmcw?oc=5",
+   "source": "Al Arabiya English",
+   "published": "2026-10-08T18:08+00:00",
+   "added": "2026-10-11T14:23+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "hormuz"
+   ],
+   "summary": "Gulf countries shipped over 1.25 bln barrels of crude oil through Hormuz: CENTCOM Al Arabiya English",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16643,34 +16670,6 @@
    ],
    "summary": "DP World and MOL advance automotive logistics partnership at Jebel Ali Port India Shipping News",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "34d084313f06",
-   "title": "TTM's RM100 mil yearly spend in local supply chain powers Malaysia's role as terminal tractor manufacturer",
-   "original_title": "TTM's RM100 mil yearly spend in local supply chain powers Malaysia's role as terminal tractor manufacturer",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeUp6S0lKMHBqOVlzdlZnOV96eWROZ3BoNUpWR2hsa0JrLUZBdGVNc1VqTHMxd2lvV1ltN0xkRTNMbUhsN1ZtWDhCZE9MMERQV3MtU0M0VTZJZnY3TXQxSU5iNlFUU1lIdWhaeV83NWVBRWkwYXZKeG1VMFpLYTlKUlhIUWdXTllKOHcyREg5Yi11SE1PelRyXzI5ZmFEWlZOd29FSncwTlM3bG9Ma05iVFAtQ1ZoSV8wZ0YwUkFuMUNDaFhHaEFJWUU4UTlMSGpvNDlfOW9iU3JGREVqUnM2NU1lYmlReU1oenVKSw?oc=5",
-   "source": "KLSE Screener",
-   "published": "2026-10-07T03:20+00:00",
-   "added": "2026-10-07T04:30+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "ports",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "supply chain",
-    "terminal"
-   ],
-   "summary": "TTM's RM100 mil yearly spend in local supply chain powers Malaysia's role as terminal tractor manufacturer KLSE Screener",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
