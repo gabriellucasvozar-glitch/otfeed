@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T05:44+00:00",
+ "generated_at": "2026-10-11T06:00+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -1702,6 +1702,38 @@
    "summary": "France has agreed to release 10 million barrels of diesel from its emergency reserves to try and curb rising fuel prices after a G7 commitment to draw down more stocks, its Prime Minister Sebastien Lecornu announced in a national address. “Last Friday, President Macron convened an emergency meeting of the G7, which decided to mobilize strategic reserves in ⁠a coordinated manner. As part of this effort, we will make 10 million barrels of diesel from our reserves available,” Lecornu told reporters, saying the decision could shave prices at the pump by around €0.12 to €0.18 per liter. His comments follow a pledge from the International Energy Agency to try and accelerate the pace of its 400 million barrel stock release, which was announced in March but still has 100 million barrels left to complete. After mounting pressure from the US for other countries to release stocks, the G7 said its member states would prioritize getting diesel to the market within 20 days. As part of the collective action in March, France committed to release 14.6 million barrels of oil, without specifying whether those volumes would be crude or oil products. 7 note, analysts at US investment bank JP Morgan estimated that France had already released 3 million barrels of diesel, and still has around 61 million barrels in reserve.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
+  },
+  {
+   "id": "6ecd5d1bd138",
+   "title": "US sanctions six China-linked shipowners in sweeping Iran shadow fleet crackdown",
+   "original_title": "US sanctions six China-linked shipowners in sweeping Iran shadow fleet crackdown",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOWRaTGZkLUhsNzB5QlVUSHhtT1hvMWlEb0NXdDRyNjE3UmdQcF9iVXJLenpZZ0ZVTklVcXRYdEI5R1ZTYV9RN09Nc2FJOF9OUEVqeGNBSWxaTEpLcVY4SzU0bVoxcF9ycDI1bzFfWWlZOF9Bb1FwTlZQZWo3ZmQ0cUJ3UmtadS0xbDhHVHRiZFJBR1JDbkM3emczbWR0b3M4T2ttazVPQmc1dXF3alc0dHJUSnZPb2g2cjJDeWU4QU0wREE0Rl9YQURISQ?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-10-09T16:57+00:00",
+   "added": "2026-10-11T06:00+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Russia & Belarus",
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "fleet",
+    "sanction",
+    "shadow fleet",
+    "shipowner"
+   ],
+   "summary": "US sanctions six China-linked shipowners in sweeping Iran shadow fleet crackdown TradeWinds News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "f36aae60439c",
@@ -16357,6 +16389,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "ac5f175aec45",
+   "title": "Radiant Logistics acquires Whitacre’s Dallas operations",
+   "original_title": "Radiant Logistics acquires Whitacre’s Dallas operations",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2Z4VGQ1UkJwY0J1bFpxNGtleUJKbjVLUWU2MERZU3E3cExUZWUtV29GX0pEaTltbjk3TkJYMnFsZjdWa3Qxdk9aWE5oTE9EdnR1ZkotbHFzTnM3dmUwOWRNbDAtN0FKWHFDeXpZckdzZmNTMS1CblZFT2J1dUlwUF9Ma1JqcW9JdlVfUXFUN2Y4YTJSQVJIUXp6NFNnQy1HLTM5ZWEteVpOWlJwdEw3Qg?oc=5",
+   "source": "Investing.com",
+   "published": "2026-10-07T00:50+00:00",
+   "added": "2026-10-11T06:00+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "logistics"
+   ],
+   "summary": "Radiant Logistics acquires Whitacre’s Dallas operations Investing.com",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "f3500db0b1ba",
    "title": "Qube Logistics stock exits the ASX after takeover",
    "original_title": "Qube Logistics stock exits the ASX after takeover",
@@ -16598,61 +16658,6 @@
    ],
    "summary": "TA Services acquires 2 Texas cross-border carriers, adds 133 trucks FreightWaves",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2a3396581a8b",
-   "title": "Redwood Logistics acquires JBF Consulting, launches advisory arm",
-   "original_title": "Redwood Logistics acquires JBF Consulting, launches advisory arm",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMVNUZDRtOWhsckp3SHlDSV9GYzdMUDVmQUxvb2FRbFNxWTJhS0lJV1dUVUVKVEZwNll4dDJFeG5SSjVfakNxQ0lVTTdiZEdxWHlZV0ZTOFhzOVlqZjY4SVJBUUl2MTFLZTFBNVFEZzlUeDU3TFduaU9SZmFHU05JTl9ZeTdwWmdvQ3NaYzU3NUd3SzBUQXcwZHBnMTdUUXVFcmV5OE8xVk4xVXJ6OHFfYmR2ZjlvMGZmbnkybHpHcw?oc=5",
-   "source": "DC Velocity",
-   "published": "2026-10-06T21:44+00:00",
-   "added": "2026-10-10T04:46+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquire",
-    "acquires",
-    "logistics"
-   ],
-   "summary": "Redwood Logistics acquires JBF Consulting, launches advisory arm DC Velocity",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a006469e2302",
-   "title": "Latin America’s commodity exporters face El Niño, costly freight and a shifting US trade picture",
-   "original_title": "Latin America’s commodity exporters face El Niño, costly freight and a shifting US trade picture",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRmFrd1A0NFQ0M2NDNXNfNW9VRlo2WnlXX2p4dWtFMU1RRFlUY1k1bUplemRMM0o1c25NdTlPV2xhczFkWGpYWmdmUjFNaVJsalR2cjU0YUZ1M1hnV21pVV90SDJzZ2NCME53aWM1bWdwY21QTWlzMEtGQmxsV2xMOHdoa1JiczBFNkNFYnRsdTc3a0p5VUtFMnFxMi01U1ZaTFBfYnNMUlZBQXhNTlpHN1k4VmtUVUVxRUlrRWVFcVZWN2VJYUl1WDNoTXA?oc=5",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-06T21:10+00:00",
-   "added": "2026-10-08T18:20+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "commodit",
-    "shipping"
-   ],
-   "summary": "Latin America’s commodity exporters face El Niño, costly freight and a shifting US trade picture Hellenic Shipping News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
