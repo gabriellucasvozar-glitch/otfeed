@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11T14:23+00:00",
+ "generated_at": "2026-10-11T14:44+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "e5fd770599fe",
+   "title": "More Tankers Hit in Hormuz as U.S. Strikes Cargo Ship",
+   "original_title": "More Tankers Hit in Hormuz as U.S. Strikes Cargo Ship",
+   "url": "https://gcaptain.com/more-tankers-hit-in-hormuz-as-u-s-strikes-cargo-ship/",
+   "source": "gCaptain",
+   "published": "2026-10-11T14:28+00:00",
+   "added": "2026-10-11T14:44+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Thermal imagery released by U.S. Central Command shows a U.S. military strike on the Panama-flagged cargo vessel Ocean Molica, also known as Arika Sun, in the Gulf of Oman on October 10, 2026. Central Command) Two more tankers have been struck by projectiles in the Strait of Hormuz, while U.S. The latest incidents come amid a sharp escalation in attacks on commercial vessels, including recent strikes against tankers inside the Persian Gulf , well beyond the Strait of Hormuz. Central Command said an American fighter jet struck the stern of the Panama-flagged cargo vessel Ocean Molica , also known as Arika Sun , after its crew ignored repeated warnings and attempted to violate the U.S. The blockade is part of Washington’s effort to prevent maritime trade with Iran, even as U.S. Ships attempting to pass through Hormuz face the threat of Iranian attacks and intimidation, while vessels calling at Iranian ports risk interception or disabling strikes by U.S. Despite repeated assurances from Washington that the Strait of Hormuz is open and under U.S.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "0200a7470265",
    "title": "Exclusive: Incheon New Port's K-Smart Equipment 100% Chinese-Made",
@@ -127,6 +156,33 @@
    ],
    "summary": "Strikes in the Black Sea are increasing the cost of Bulgarian grain exports ᐉ News from Fakti.bg - Business Fakti.bg",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b27519d83c1f",
+   "title": "“Even buying an old ship can still be profitable” ... Secondhand vessel prices jump 80% amid buying frenzy",
+   "original_title": "“Even buying an old ship can still be profitable” ... Secondhand vessel prices jump 80% amid buying frenzy",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80cG9FRVU3Zzhxc0dWVzhBMjkwVW5SQktTb3BWR0lta016YVY2S2MtbDlpYVJLa1RFMlBsdW8waTh6bDZQMFVmczkwZ1N4dE84S2Nj?oc=5",
+   "source": "매일경제",
+   "published": "2026-10-11T08:40+00:00",
+   "added": "2026-10-11T14:44+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "prices",
+    "vessel"
+   ],
+   "summary": "“Even buying an old ship can still be profitable” ... Secondhand vessel prices jump 80% amid buying frenzy 매일경제",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -2299,6 +2355,37 @@
    ],
    "summary": "EU steel prices to rise as CBAM cost could reach €5B/y, says Trasteel CEO EUROMETAL",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f0a89884de10",
+   "title": "Crude: Renewed tanker attacks underpin prices, shipping rates surge",
+   "original_title": "Crude: Renewed tanker attacks underpin prices, shipping rates surge",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXU1TEdDaWdOY1hpbk52VHlWYnpaRUlMcFlzMTJINDVkSVhwVFZZQ2ZCZ0dhdmtGRUJGSVpzdjhLNXJXemtueWI0cnZ5WGFQXzhta2F0eU4tVEpZY0hiTUtxSnBnN3I1ZVhMWHE3c3RHYkdKWHQ3Q2RDb3hfekRwWjlPYjZCcWNfV2R2dFFSQVUySlA2WUhVQkxRMFV6bzZwT0thbHEta2FicHFD?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-09T15:35+00:00",
+   "added": "2026-10-11T14:44+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "attack",
+    "commodit",
+    "crude",
+    "prices",
+    "shipping"
+   ],
+   "summary": "Crude: Renewed tanker attacks underpin prices, shipping rates surge Quantum Commodity Intelligence",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -9280,6 +9367,36 @@
     "steel"
    ],
    "summary": "EU Steel Market Outlook: Exports Fall 20% as Demand Stays Flat Discovery Alert",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5e680e0afe95",
+   "title": "China Merchants Energy Shipping Surges on USD2.8 Billion Deal for Africa’s Mega Iron Ore Project",
+   "original_title": "China Merchants Energy Shipping Surges on USD2.8 Billion Deal for Africa’s Mega Iron Ore Project",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWJPTWFtSXpaaEJWUHNwWUc1UlI1YUVSdXZfTEhkdGVBV25hMThzclFEVHdLd3lPRVpXejhzWnVmV05NakdYNG94RGZaNGtHWHNEUEViX05fNXNmVGRJcVlicFpEMVY3ZWRIOHdJdVdGNVQ3TncxU0FUVkxPVThIa0l1RjJKR3FjRF9NYTNSTlgxOUpsU0ZnV1lFV2dJaFJDZVB4bjc2bWdheHFjdlVzeFNNWm91Z0xaRnk1NlpVVmlWQnQxRkE?oc=5",
+   "source": "Yicai",
+   "published": "2026-10-08T08:56+00:00",
+   "added": "2026-10-11T14:44+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia",
+    "Africa"
+   ],
+   "tags": [
+    "china",
+    "iron ore",
+    "shipping"
+   ],
+   "summary": "China Merchants Energy Shipping Surges on USD2.8 Billion Deal for Africa’s Mega Iron Ore Project Yicai",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16560,116 +16677,6 @@
    ],
    "summary": "Climate champion Australia digging more coal Yahoo Finance UK",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d4f74fddd2eb",
-   "title": "Gulf Capital Deepens Its African Footprint As Qatar Energy And AD Ports Expand In Angola",
-   "original_title": "Gulf Capital Deepens Its African Footprint As Qatar Energy And AD Ports Expand In Angola",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTUxUYUJFMXgtdjN6SkxRc0V2LTVfQ0RBbzdCZlJmamlQWXctVTQ2d3Fnc1dsWmtFX28yN29wSHlOYkxrTlYwR0VybDVMb0I5N2dOem1PWnlmN0FJa1VLb01BTUs0cVlnaGYxYy1MT3lzdnNfeFgyWVhpY2lzVXhRM1hmNHpyQXhQdVdiN1JYODlmYnUwenktZ1VzM0hiZ3kyQWVkdjRMUTFHMkVmNzlFTDhwWU5HZ9IBvgFBVV95cUxQMUVVRG9uR1pCWllyVTFONVFFbko5R1loRnNUaDd3OWdDTEJCYUM0LTF6VUIzTXNFcHBfZzYyd0EwOWRNMkdmQVVoNlAzb2dCaHNmcWk1TWpmb3lrQUdkZDFTV0hVZHp5LUZJRkhzY09JMEpjc3VRdDB3UU1qU3M5SVdzYS1OSHp5eEtNZjRXeHpUX3QzRkZEcXZiT3dVenVMMVFESC1Ga2xnQVNKOEdLN2cwR2xvbXFIVDNIaTNB?oc=5",
-   "source": "Trendsnafrica",
-   "published": "2026-10-07T03:57+00:00",
-   "added": "2026-10-07T06:48+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East",
-    "Africa"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Gulf Capital Deepens Its African Footprint As Qatar Energy And AD Ports Expand In Angola Trendsnafrica",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "12224a5b4727",
-   "title": "China revives push for US LNG as PetroChina pursues long-term deals - CHOSUNBIZ",
-   "original_title": "China revives push for US LNG as PetroChina pursues long-term deals - CHOSUNBIZ",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3o1MVBBSTEtWTFiaGUtMWc2a3R1bjdsTW92WEZxMERrSXIwMUlXLU5XQkJYb2IyRloyOVlXZUE5LUhEMnA4NFdlTGpRRjh0YVZnTDl1V09DRnZnZnFhNjNzc21JcGdrSjF4bWxhS204cmpqcTh2TkpmWVdfTnpDTUdSMU1MNjFQ0gGcAUFVX3lxTE4zZGQ4UC0xU29oRDJzdUFxbE5xb1lGUjRrNV9QQm5nVkFoYjU5QlJOT1V6ZjVmOTFuMF80NkNQamJKZTc5blViVFd2WlZ6VEcyQ0k2clBvVWVGa1FhQ1Zpb1JpdjRnQnk1ZUdsUWsxTkVkWmtGUjB1TVFORUhFWnk5U1JheFFQRm9aVmk1d0t5YVZFUEsxby11emotOQ?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-10-07T03:52+00:00",
-   "added": "2026-10-07T04:06+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "lng"
-   ],
-   "summary": "China revives push for US LNG as PetroChina pursues long-term deals - CHOSUNBIZ Chosunbiz",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e91e5075ef4f",
-   "title": "Bonded terminal tasks customs on debit note processing",
-   "original_title": "Bonded terminal tasks customs on debit note processing",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeG01ZDN5MDJFSENOMDJYQjBMbWtLVThTaGNDb3lwcDJKVXNWV05HR01lc3ZaeTRZaHNXZm9NZ3RyN0puczRBU2RwMXpNcVBWeVk4ZWdJZlEyc2tiaElReUJmZk9Od25yTGI1Ty1wLXg4aTlSdVNXOVl6Z2RUWGR4NTFyZ0gwSGJhbnFMd0N2VzBQek5LRFRDWi1fNFN3R0o1dVc5bE5PUjAtbnU1RVY4?oc=5",
-   "source": "The Guardian Nigeria News",
-   "published": "2026-10-07T03:27+00:00",
-   "added": "2026-10-07T04:30+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "customs",
-    "terminal"
-   ],
-   "summary": "Bonded terminal tasks customs on debit note processing The Guardian Nigeria News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "92be69ccdc19",
-   "title": "DP World and MOL advance automotive logistics partnership at Jebel Ali Port",
-   "original_title": "DP World and MOL advance automotive logistics partnership at Jebel Ali Port",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUmFLSko0ckFfbzVqS0ZYNE1hVzExUWppa3ctN003RXpPVnlzZzVBcEJuUXJzVkxTXzBDYWNreDRsZVhWWVZpMjVETDhTZUdjVS1XRmJYRXJMcmprRzJNYVBtN0dFaXBOUVJaWkQ1OVFLNnc5Q195YjRfTFJNVHNkaEJwQnFRWTNrc3JwU0RfTEcyRlplaVg0TXBfUTZXSVZoSTgzdlVvSjFIXzVBWG5QcWxqMksybm1yZ1BscUlGT3BpWGdaaGlCZQ?oc=5",
-   "source": "India Shipping News",
-   "published": "2026-10-07T03:22+00:00",
-   "added": "2026-10-07T04:30+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "port",
-    "shipping"
-   ],
-   "summary": "DP World and MOL advance automotive logistics partnership at Jebel Ali Port India Shipping News",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
