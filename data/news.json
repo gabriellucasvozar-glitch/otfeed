@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T04:55+00:00",
+ "generated_at": "2026-10-12T05:20+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -36,6 +36,61 @@
    ],
    "summary": "AIIB supports Middle Corridor transformation into integrated transport network (Exclusive) Trend News Agency",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4fa59c9ac4a6",
+   "title": "High energy costs threaten rail freight’s viability, warns PKP CEO",
+   "original_title": "High energy costs threaten rail freight’s viability, warns PKP CEO",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVB1RHFydmJQTWVhX1VPbjU3cFh2aHQzN3JQUnU3QzdNSUdRUDdNN0s4U3VJMmp0eUpXTElHNWd3TEtvX0Rnb3ZRWVZLbzlHbHMtalVVamUtUXBQTzNvc1BMNVVTQzQ4Z1E4T01ZRkRoSU1xVmIzZXNtSWMxSW5qMEZXWVFBR0RTNWxmWGRTZUcwczhyRFdxRndJVmR3QnltVzhBMlZ2ZFEwUmlUV0ozQVRXbjM?oc=5",
+   "source": "Railway Gazette International",
+   "published": "2026-10-12T04:00+00:00",
+   "added": "2026-10-12T05:20+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "rail freight",
+    "railway"
+   ],
+   "summary": "High energy costs threaten rail freight’s viability, warns PKP CEO Railway Gazette International",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "10453f65127b",
+   "title": "October witnesses near-daily attacks on ships in the Strait of Hormuz",
+   "original_title": "October witnesses near-daily attacks on ships in the Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVXR0MDF0S0JveHJ6RmZwZjN5MjZ1UnZISlRFUHJERE9uQTZVcVE2NHgzZmNQUzRHRjdld1EtTEo5ZXFGSUpSSldNRkdqd2x6RjBXM2ZNVWk5LVRKU1lqWEh0dExBUEpLaHZIZTdBZXBuR0VObGY3N1ZZSmJFZlJiLUhRczgzVmRKd3NKWWVfU29uNG5xN3cwWU5XQWxOWUVNdWhQZWp2TDFhallHcXdXYVRxTWxuYmZPTlYyNmhhTHc?oc=5",
+   "source": "India Shipping News",
+   "published": "2026-10-12T03:41+00:00",
+   "added": "2026-10-12T05:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "October witnesses near-daily attacks on ships in the Strait of Hormuz India Shipping News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -2295,6 +2350,32 @@
     "przeladun"
    ],
    "summary": "Chiny chcą skrócić przeładunek do godziny. Tysiąc węzłów logistycznych czeka przebudowa Kurier Kolejowy",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "75a07cbca2a5",
+   "title": "Dzięki otwarciu trasy transpacyficznej port Hai Phong odnotowuje przełom w zakresie przeładunku towarów.",
+   "original_title": "Dzięki otwarciu trasy transpacyficznej port Hai Phong odnotowuje przełom w zakresie przeładunku towarów.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZGd6VHJ4bUVqcmg0emZZOFZNdTlJWEtVdnBXNVRMb3dQYjQ5RjhETnppLUNFc0JILThBVlBGVjFxNGdwaWJpaXE2Y1hKWUlVb3I2OE1SYVY0YjlYNGhpUzhYQWZvLVBpQ1FDMUVZSzFEN3ZpOFRIY0xnQTB5RDJKMzcwbG1tY1RHQ3V0cHpWZi1ySG8?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-10T07:00+00:00",
+   "added": "2026-10-12T05:20+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "port",
+    "przeladun"
+   ],
+   "summary": "Dzięki otwarciu trasy transpacyficznej port Hai Phong odnotowuje przełom w zakresie przeładunku towarów. Vietnam.vn",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -6384,6 +6465,31 @@
     "fertiliser"
    ],
    "summary": "Weekly Update – Global Fertiliser Markets – w/e 09.10.2026 – Get The Word Out Press Release Distribution Australia",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e79ff3107379",
+   "title": "Iron Ore Price Update: Sustained Growth Across Key Markets in Q3 2026",
+   "original_title": "Iron Ore Price Update: Sustained Growth Across Key Markets in Q3 2026",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SaWdEbWxSSlczMk9kT01hb21IdHZSdHNWaF93NjRYOGJXUDA3d1ZyYklMUFh4dlM1QmE3Umw3WDZBM1VsSDcxcWlKS3pMal9jOXJqRzBlVVpEd2RNUi1YT2xwWkxlWXo5a2lxSw?oc=5",
+   "source": "IMARC Group",
+   "published": "2026-10-09T07:00+00:00",
+   "added": "2026-10-12T05:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "Iron Ore Price Update: Sustained Growth Across Key Markets in Q3 2026 IMARC Group",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -13022,6 +13128,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "55f737971339",
+   "title": "Daily Market Wire 8 October 2026",
+   "original_title": "Daily Market Wire 8 October 2026",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16Q2xXeXlFLXJEVTVMd18yYTZadVpXcVByeTNrTVBPbzV2b0YweDY2M09SUWVSalpuWmh3U2VJbk1nTk44THdpeGowTnZRZmpNSEx3U2FaeXNhS18tajlXSjdiT090YTJHSC16TTFBQ0hVUjFsR0NsVmI5Zw?oc=5",
+   "source": "Grain Central",
+   "published": "2026-10-08T00:00+00:00",
+   "added": "2026-10-12T05:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Daily Market Wire 8 October 2026 Grain Central",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3a24d015c5c8",
    "title": "Shore power dramatically cuts emissions at ports – but will anyone use it?",
    "original_title": "Shore power dramatically cuts emissions at ports – but will anyone use it?",
@@ -16534,144 +16665,6 @@
    ],
    "summary": "Stolt-Nielsen posted its 3Q26 report this morning, with core figures in line with consensus but somewhat below our estimates. Reported net profit was boosted by a USD 15.4m gain on the sale of 50% of Avenir LNG. Stronger spot rates in Stolt Tankers were largely offset by higher bunker costs and lower spot volumes. Stolt Tankers reported operating profit of USD 52.1m, down from USD 57.2m in 3Q25 and below our expectation of USD 63m. Deep-sea spot rates rose 40.5% YoY, but bunker costs climbed to USD 718 per tonne (USD 500 in 3Q25) and spot volumes fell 22.1%. Stolt Tank Containers posted an operating profit of USD 13.1m, compared to a loss of USD 0.3m in 2Q26. For 4Q26, Stolt Tankers is expected to be slightly softer than 3Q26. Stolt Tank Containers expects to maintain margins, albeit with seasonally lower volumes. Overall, the company expects 4Q26 earnings to be modestly behind 3Q26.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a83a87649111",
-   "title": "France, Belgium lead European Russian LNG imports in 2026",
-   "original_title": "France, Belgium lead European Russian LNG imports in 2026",
-   "url": "https://www.hellenicshippingnews.com/france-belgium-lead-european-russian-lng-imports-in-2026/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-07T10:00+00:00",
-   "added": "2026-10-07T11:05+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Western Europe",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "lng",
-    "russia",
-    "russian"
-   ],
-   "summary": "France and Belgium were the largest European buyers of Russian liquefied natural gas in the first nine months of 2026. European importers in France purchased 4.7 million metric tons of Russian LNG in January-September, while Belgium imported 2.9 million tons. Spanish imports of Russian LNG rose 46% from the start of the year, marking the fastest growth among the four largest European buyers, according to the report. Source: News.Az",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "4f52ffe3d128",
-   "title": "Coal Hits Three-Year High",
-   "original_title": "Coal Hits Three-Year High",
-   "url": "https://www.hellenicshippingnews.com/coal-hits-three-year-high/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-07T10:00+00:00",
-   "added": "2026-10-07T11:05+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "coal",
-    "court",
-    "futures"
-   ],
-   "summary": "Coal futures climbed above $150 per ton, reaching their highest level since September 2023 after Australia’s High Court rejected an appeal by Mach Energy Australia over the planned expansion of its coal mine in NSW. The court found that planning authorities had failed to adequately account for emissions generated by customers who burn the mine’s coal. Minerals Council of Australia chief executive Tania Constable said the ruling could significantly undermine investment and send a negative signal to Australia’s trading and investment partners about sovereign risk, potentially putting future supply under pressure. Meanwhile, global coal demand is expected to reach a record this year as gas supplies face disruptions linked to the Iran war. The IEA said in its Coal Mid-Year Update 2026 that higher LNG prices caused by the Strait of Hormuz blockade are encouraging economies such as China, India, Japan, South Korea and parts of Europe to rely more heavily on coal-fired power generation. Source: Trading Economics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "96f973efa4e3",
-   "title": "Crude inventories fall more than expected, boosting oil prices",
-   "original_title": "Crude inventories fall more than expected, boosting oil prices",
-   "url": "https://www.hellenicshippingnews.com/crude-inventories-fall-more-than-expected-boosting-oil-prices/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-07T10:00+00:00",
-   "added": "2026-10-07T11:05+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "crude",
-    "oil price",
-    "prices"
-   ],
-   "summary": "The American Petroleum Institute (API) has released its latest data on U.S. crude oil inventories, revealing a significant decline that has exceeded market forecasts. The API Weekly Crude Stock report showed a decrease of 2.090 million barrels in U.S. The actual drawdown of 2.090 million barrels was notably larger than the previous week’s increase of 1.019 million barrels. This substantial reduction in crude stockpiles suggests a stronger demand for oil than analysts had projected, providing a bullish signal for crude prices. The unexpected decline in inventories often points to heightened consumption or a disruption in supply, both of which can lead to upward pressure on oil prices. The larger-than-expected drop in crude inventories has implications for the energy market, as it may reflect underlying shifts in consumer behavior or production dynamics. Investors and traders will likely interpret this data as indicative of a tightening oil market, potentially leading to increased volatility in crude prices. crude oil inventories has defied forecasts and surpassed the previous week’s figures, suggesting robust demand and contributing to a bullish outlook for oil prices.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "d98d6d4f230e",
-   "title": "Soybeans Rebound on Brazil Planting Delays",
-   "original_title": "Soybeans Rebound on Brazil Planting Delays",
-   "url": "https://www.hellenicshippingnews.com/soybeans-rebound-on-brazil-planting-delays/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-07T10:00+00:00",
-   "added": "2026-10-07T11:05+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "futures",
-    "prices",
-    "soybean"
-   ],
-   "summary": "Soybean futures climbed toward $13.1 per bushel, bouncing off from multi-week lows as slower planting in Brazil and signs of continued export demand lifted prices. About 7.3% of soybean crop in Brazil, the world’s largest exporter, had been planted as of Thursday, below 9% a year earlier, with consultancy AgRural estimating 2026/27 production at 182.7 million metric tons. The USDA has a higher forecast of 186 million tons, which would exceed last year’s record 180.5 million tons. On the demand side, an unnamed buyer purchased 104,000 tonnes of US soybeans, while US export inspections reached 3.99 million tonnes since the start of September, up from 3.05 million tonnes a year earlier. However, gains remained limited by expectations for a large US crop and weak Chinese demand. China’s soybean purchases are being constrained by high inventories, poor crushing margins and an additional 10% tariff on US soybeans, while private buyers continue to favor supplies from Brazil and Argentina. Source: Trading Economics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "85567789ea6b",
-   "title": "The Commodities Feed: Oil stuck between improving supply and Persian Gulf risks",
-   "original_title": "The Commodities Feed: Oil stuck between improving supply and Persian Gulf risks",
-   "url": "https://www.hellenicshippingnews.com/the-commodities-feed-oil-stuck-between-improving-supply-and-persian-gulf-risks/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-07T10:00+00:00",
-   "added": "2026-10-07T11:05+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "attack",
-    "commodit"
-   ],
-   "summary": "Energy – Persian Gulf supply risks offset stronger oil flows The oil market traded under pressure for much of the session yesterday, with ICE Brent trading down towards $97/bbl. However, with supply risks from the Persian Gulf still very real — with continued attacks on ships — the market still managed to settle above $100/bbl. There is a clear tug-of-war at the moment between improving supply from the region and lingering threats to supply. In order to solve this, the market needs to see a normalisation in Persian Gulf and Russian diesel flows. The latest US inventory numbers from the API overnight show that crude oil inventories fell by 2.1m barrels over the last week. World Gold Council data showed central banks remained net buyers in August, adding 39 tonnes and bringing year-to-date purchases to 170 tonnes. China led purchases with 20 tonnes, extending its buying streak to 22 consecutive months, while Poland and Uzbekistan each added 8 tonnes to their reserves. Other buyers included Kazakhstan, the Czech Republic, Bolivia and Ghana. With China, Poland and several emerging-market central banks continuing to accumulate gold, official-sector demand is likely to remain an important source of support for the market in the months ahead.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
   }
  ]
