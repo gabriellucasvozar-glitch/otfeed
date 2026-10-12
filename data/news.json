@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T10:35+00:00",
+ "generated_at": "2026-10-12T10:57+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,59 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "387607fdc383",
+   "title": "OceanX: Zim earnings power matches Hapag; Value in forwarding; SaaS end nears?",
+   "original_title": "OceanX: Zim earnings power matches Hapag; Value in forwarding; SaaS end nears?",
+   "url": "https://theloadstar.com/oceanx-zim-earnings-power-matches-hapag-value-in-forwarding-saas-end-nears/",
+   "source": "The Loadstar",
+   "published": "2026-10-12T10:56+00:00",
+   "added": "2026-10-12T10:57+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "forwarding"
+   ],
+   "summary": "I was on a short trip to Greece for some meetings – apart from the hassles that even supposedly short trips always bring, it is always nice to return to Athens! A place I have come to every other year for over two decades now. Thus, it is interesting to witness how it changes and how it does seem to be on a new high now after the lows of the financial crisis had it in a quite depressive state for ...",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "6cb6cee97f71",
+   "title": "Shippers warned: spot rates no pointer to wider box shipping market",
+   "original_title": "Shippers warned: spot rates no pointer to wider box shipping market",
+   "url": "https://theloadstar.com/shippers-warned-spot-rates-no-pointer-to-wider-box-shipping-market/",
+   "source": "The Loadstar",
+   "published": "2026-10-12T10:38+00:00",
+   "added": "2026-10-12T10:57+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "prices",
+    "shipping"
+   ],
+   "summary": "Spot rates have become more volatile, relative to the wider box shipping market, since the pandemic, with overall prices increasingly diverging from signals provided by the spot market. In its latest analysis, Sea-Intelligence, compared spot rate movements on the Asia-Europe and transpacific trades with broader market developments, using World Container Index (WCI) and Container Trade Statistics (CTS) data. The consultant compared monthly average WCI rates for Shanghai-Rotterdam and Shanghai-Genoa with CTS data for Asia-Europe. Sea-Intelligence used this relationship to forecast the overall market rate index from spot rate movements, and then compared its predictions with the actual CTS figures. Before the pandemic disruptions, Sea-Intelligence found, the difference between forecast and actual market rates fluctuated relatively little, suggesting spot rates provided a reasonably reliable indication of wider market developments. However, deviations became substantially larger from 2020, which the analyst said reflected a greater disconnect between spot rate movements and the market as a whole – also evident when fluctuations were measured relative to overall rate levels, meaning it could not simply be attributed to higher freight rates. Sea-Intelligence also identified a gradual upward trend in the difference between forecast and actual rates on Asia-Europe, indicating that the overall market increasingly recorded higher rates than would have been predicted from spot prices alone.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "b2b7601287b8",
    "title": "Noble Chapter 11 – what happens when a big account is chief creditor",
@@ -67,6 +120,184 @@
    "summary": "Gulfport and Pascagoula ports return to normal operations after Hurricane Isaias Baird Maritime",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
+  },
+  {
+   "id": "c48688a3caba",
+   "title": "UK Natural Gas Prices Rise to 2022 High",
+   "original_title": "UK Natural Gas Prices Rise to 2022 High",
+   "url": "https://www.hellenicshippingnews.com/uk-natural-gas-prices-rise-to-2022-high/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-12T10:00+00:00",
+   "added": "2026-10-12T10:57+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Western Europe",
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "lng",
+    "prices",
+    "security",
+    "war"
+   ],
+   "summary": "UK natural gas prices rose to 205.3 pence per therm, the highest since December 2022, as increased tanker attacks in the Strait of Hormuz and escalating regional tensions heightened concerns over the security of LNG supplies. Despite a steady rise in European gas inventories in recent weeks, storage facilities are around 73% full, still below year-ago levels. However, this recovery could be threatened by forecasts of cooler autumn temperatures, which may lead to an earlier start to the heating season and increase gas consumption. Last week, European gas network operators said the system was flexible enough to meet winter demand but warned that limited supplies could push storage below 30% by winter’s end, increasing vulnerability to late-season cold snaps. Meanwhile, growing renewable output in the UK has reduced dependence on gas-fired electricity, but the country remains exposed to fuel price swings. Source: Trading Economics",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "1aef2b7afd84",
+   "title": "LNG Shipping Market Softer, But LPGs On the Rise Again",
+   "original_title": "LNG Shipping Market Softer, But LPGs On the Rise Again",
+   "url": "https://www.hellenicshippingnews.com/lng-shipping-market-softer-but-lpgs-on-the-rise-again/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-12T10:00+00:00",
+   "added": "2026-10-12T10:57+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Asia",
+    "Oceania"
+   ],
+   "tags": [
+    "freight rate",
+    "lng",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "The LNG market softened this week, despite an increase in spot, multi-month and longer-term requirements entering the market. While activity picked up compared to recent weeks, vessel availability continues to outweigh cargo demand, keeping pressure on freight rates across both basins. On the BLNG1 Australia–Japan route, rates declined by $2,300 week-on-week to settle at $34,600/day. The six-month rate fell by $1,600 to $46,300/day, while the one-year term declined by $334 to $52,033/day. Further out the curve, the three-year period eased by $350 to $69,950/day. The LPG market strengthened this week, with a relatively tight tonnage list and several outstanding cargoes supporting freight rates. On the BLPG1 Ras Tanura–Chiba route, rates settled at $265.00/tonne, with the corresponding TCE at $258,182/day. The BLPG2 Houston–Flushing route increased by $18.00 over the course of the week to close at $190.83/tonne, while TCE rose by $25,114 to $227,905/day. Similarly, the BLPG3 Houston–Chiba route gained $22.00 to settle at $344.71/tonne, with TCE increasing by $15,331 to $214,030/day.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "95826ad55cbf",
+   "title": "Steel Firms Up on Improving Margins",
+   "original_title": "Steel Firms Up on Improving Margins",
+   "url": "https://www.hellenicshippingnews.com/steel-firms-up-on-improving-margins/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-12T10:00+00:00",
+   "added": "2026-10-12T10:57+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "futures",
+    "prices",
+    "quota",
+    "steel"
+   ],
+   "summary": "Steel rebar futures traded near CNY 3,100 per ton, finding support as falling spot coke prices helped reduce steelmakers’ losses, improving the sector’s outlook and potentially easing pressure to cut production. Meanwhile, China intensified efforts to support its economy amid weak consumption and investment, allocating CNY 550 billion ($82 billion) in unused government debt quotas to strengthen local government finances and expand infrastructure spending. However, the steel industry continued to face subdued demand amid a prolonged property market downturn and sluggish construction activity. Recent data showed that only 6.9% of Chinese steelmakers were profitable at the end of September, highlighting persistent challenges across the sector. Steel producers remain under pressure to curb output as shrinking profit margins and uncertain demand continue to weigh on prices. Source: Trading Economics",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "0d1d52d6f2a8",
+   "title": "The Commodities Feed: Oil lower despite Middle East escalation",
+   "original_title": "The Commodities Feed: Oil lower despite Middle East escalation",
+   "url": "https://www.hellenicshippingnews.com/the-commodities-feed-oil-lower-despite-middle-east-escalation/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-12T10:00+00:00",
+   "added": "2026-10-12T10:57+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "commodit",
+    "diesel",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Energy – Middle distillate cracks trade lower on Trump diesel deal After a weekend of escalation in the Middle East and the risk of the conflict broadening, one would think oil prices would be trading firmer this morning. However, this is not the case. ICE Brent has been down more than 2% at one stage this morning, despite the Houthis launching a deadly attack on an airport in Riyadh, Saudi Arabia. Still, events show that risks to supply from the region remain, despite oil flows from the Persian Gulf being at their highest levels since the start of the US-Iran war. It would appear that the move in oil today is probably less to do with developments in the Middle East and more to do with Russia. Clearly, in the run-up to the midterm elections, pressure is growing on Trump to address high oil and diesel prices – but in order to see a more meaningful move lower in refined product prices, we will need to see normalisation in the Middle East. Inefficient trade flows of oil from the Middle East have led to a significant surge in tanker freight rates, which will likely keep product prices elevated.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "278c2013ac23",
+   "title": "Why are EU gas prices not higher already?",
+   "original_title": "Why are EU gas prices not higher already?",
+   "url": "https://www.hellenicshippingnews.com/why-are-eu-gas-prices-not-higher-already/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-12T10:00+00:00",
+   "added": "2026-10-12T10:57+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "EU institutions",
+    "Middle East"
+   ],
+   "tags": [
+    "disruption",
+    "eu ",
+    "lng",
+    "prices"
+   ],
+   "summary": "European natural gas prices have remained relatively contained despite major disruptions to Middle Eastern liquefied natural gas (LNG) exports, as additional supply and weaker demand have cushioned the impact, according to UBS analysts. In an October 5 report, UBS said higher LNG production outside the Middle East and reduced consumption across Europe and Asia had helped offset supply losses caused by the Iran war. Middle Eastern LNG supply declined by approximately 60 billion cubic metres (bcm) between March and September, while additional production elsewhere contributed nearly 40 bcm, including 17 bcm from the United States. European gas storage remains roughly 15% below seasonal averages, with inventories expected to enter winter at 74% capacity and decline to approximately 25% by spring. UBS consequently raised its fourth-quarter Dutch TTF gas price forecast to €75 per megawatt-hour from €62 previously. Its 2027 forecast increased to €45 from €40, reflecting expectations of a slower recovery in Qatari LNG exports and continued European efforts to phase out Russian gas. Under a prolonged disruption scenario accompanied by colder weather, UBS sees fourth-quarter TTF prices averaging €90/MWh, with potential peaks near €120/MWh. A faster recovery in Qatari shipments and milder temperatures could instead bring fourth-quarter prices towards €50/MWh.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "1ba155f44644",
+   "title": "Torvald Klaveness 2016–2026: Digitalization, decarbonization and re-definition",
+   "original_title": "Torvald Klaveness 2016–2026: Digitalization, decarbonization and re-definition",
+   "url": "https://www.hellenicshippingnews.com/torvald-klaveness-2016-2026-digitalization-decarbonization-and-re-definition/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-12T10:00+00:00",
+   "added": "2026-10-12T10:57+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "digitalization"
+   ],
+   "summary": "As Klaveness entered its eighth decade, the direction set during the previous period began to take shape. The combination carrier business prepared to enter new markets, digital initiatives moved closer to customers, and the foundations of the Klaveness business we know today was beginning to emerge. Over the next ten years, many of these initiatives would evolve into focused businesses in their own right. A new generation of combination carriers In 2018, Klaveness Combination Carriers was established as a separate company and began trading on the Norwegian stock exchange, creating a dedicated platform for the combination carrier business and its continued development. New partnerships and investments In its dry bulk business, Klaveness increasingly focused on the areas where it believed it could create the greatest value for customers: building long-term partnerships, developing innovative pool solutions, and using data and technology to support better commercial decisions. That direction was reinforced in 2020 through the partnership with Marubeni Corporation to operate the Baumarine Panamax pool, which entered a new phase in 2023 when Marubeni acquired a 25% stake in Klaveness Dry Bulk. Some activities were sold, and new partnerships were formed as Klaveness increasingly focused its resources on the areas where it believed it could create the greatest long-term value.",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "extract"
   },
   {
    "id": "6ba4a305a346",
@@ -16392,216 +16623,6 @@
    ],
    "summary": "India’s Russia-Ukraine truce plan calls for ending attacks on energy sites, free grain movement MyIndMakers",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b172782d7062",
-   "title": "Ukrzaliznytsia cuts personnel costs amid port blockade and steel industry shutdowns",
-   "original_title": "Ukrzaliznytsia cuts personnel costs amid port blockade and steel industry shutdowns",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZEtrVzNvclNWcTVWOGhlMWo4alcwMENBcXpzUnNhdW54QVFKMEJWOWxDTnJBOVliRnpNV2U5bjF4ZHZ2c3FfNFhJb1JKS0xlUDI4TzhUNTFQdjJrSHZ2Y2xnTE5yQnRURXFaTlhpRHdUdW1qekpLYnBZbTlrbEZTNm1yS216S0djaW9lM3cweXczQUxCckJRSm5Ia09HWG9DTzktQmFBMUtFa3U2VGZrN0tSQmhwUFZteFFPQVZpQdIBxAFBVV95cUxOQmJ2UzBrTzJCVFlkSGdzNDRLc0FiaWdpUEhrRnl6WjRHZDAxa3pWcmw2UW5LVXdNZW0tNzdOUElVc3V2NXQzUGlrblExUVdOR3RyQk9ZbVZSa3hOYVowbjI2cDdNN0tXUzRKR2NLeGgwcXp6WG5UX1JrR1luMU01TVZIMGJrZ3h6RTZNYkQybHFpRndrbmZvSTQzN2tQQVZ5cEVxbk1TSUJaY2hySUhQVGJiQzdWUXVPVENiOWJlbzQyM1V6?oc=5",
-   "source": "LIGA.net",
-   "published": "2026-10-07T14:28+00:00",
-   "added": "2026-10-07T17:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "ports",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "steel"
-   ],
-   "summary": "Ukrzaliznytsia cuts personnel costs amid port blockade and steel industry shutdowns LIGA.net",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "18dff2fbeebb",
-   "title": "19 firms bidding for Warsaw high-speed railway",
-   "original_title": "19 firms bidding for Warsaw high-speed railway",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ3ZxdXlQVS13S0h4ckl4R0d4RlV1R0J0QThVamw4MUtxYnhqTmdUQXFFeW0tcTYwcTVMUFY2eDJ5d1oxXzVyS1hyU0ozMVhYNklRR01EaHozUThiWWIyYWloeFlpM0ZvR1ViZ09hN3NfZklLZHZ0Vnl2MkgwN3U2SWx3bTIwUF9GeW8yTDltVEMxUQ?oc=5",
-   "source": "Global Construction Review",
-   "published": "2026-10-07T14:13+00:00",
-   "added": "2026-10-07T18:12+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "railway",
-    "warsaw"
-   ],
-   "summary": "19 firms bidding for Warsaw high-speed railway Global Construction Review",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "809791d52b1c",
-   "title": "The Red Sea and Hormuz shipping crisis: A 2026 guide for UK supply chain managers",
-   "original_title": "The Red Sea and Hormuz shipping crisis: A 2026 guide for UK supply chain managers",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRFdpMTE3MDBncnJydVBicFVDYmE5bEZNdlMyc0xrYWNJN2xvWElXYmcxX1VmMTV2UUFrckhVbEdUOXBXVXZJdFE2VUwzbjJvMWdPa0pzN3BrUFBmZmZRWjU1QzcwcWZfdGRNTlZUZUZnX3N3SUNKUG1aWEw1UUFJMXdQUUN4Vk5KQ05jdkVYUENfUWNsenNTZjZqSl8zSGNXeDFxeGt6dzI0OExpU3FR?oc=5",
-   "source": "London Daily News",
-   "published": "2026-10-07T14:09+00:00",
-   "added": "2026-10-07T14:53+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Western Europe",
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "red sea",
-    "shipping",
-    "supply chain"
-   ],
-   "summary": "The Red Sea and Hormuz shipping crisis: A 2026 guide for UK supply chain managers London Daily News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "02d48e505bd2",
-   "title": "Flanders, Netherlands and NRW push port cooperation to speed energy infrastructure",
-   "original_title": "Flanders, Netherlands and NRW push port cooperation to speed energy infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnR2NDdxNDR6RlFoNUlqdW01MjhqVW94VThWWXQ1TGVYaVE4cXZIN25JMUNtcDU1aHlmSmhrWkV5Zi1nRkljU0RnamhRaF9RUzVJMkNJN3Q0QnpMMXdHV3pZendlMlAyRXNtaHBJMklseFZmRm1MRFYzclJ3bVMxWm5vQnpTRE1BTWR4aE80cUtlLV9DWnFoaFEyaEV2SHA4bDRscTJPeUo?oc=5",
-   "source": "Breakbulk.News",
-   "published": "2026-10-07T13:54+00:00",
-   "added": "2026-10-07T17:31+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Flanders, Netherlands and NRW push port cooperation to speed energy infrastructure Breakbulk.News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "41f4028997e5",
-   "title": "Lineas Chosen for Rail Consolidation in Waasland Port Area - News and Statistics",
-   "original_title": "Lineas Chosen for Rail Consolidation in Waasland Port Area - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTNlTjJudXdqWmFzS3c2dUNoeFMtMzNBd3lFdk9YZW80Vm52NE4ycU43TGlrTDE1SWdhVEoxRU82NVAxSGRkZVo1a3NyWk5pd1hwR21tN1VQNjVkZktQRF9EUE1OWXJoYmVETHVMNUZrWDlCSGszN0FBaFBsVEFmNDlLM2FCNjByTDZDb1BCMmVvX25XbERiTmZINXF5SmtMVlB6NlN3?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-07T13:51+00:00",
-   "added": "2026-10-07T14:33+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Lineas Chosen for Rail Consolidation in Waasland Port Area - News and Statistics IndexBox",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d41d47686ab0",
-   "title": "Maersk updates European operations amid seasonal disruptions and regulatory changes",
-   "original_title": "Maersk updates European operations amid seasonal disruptions and regulatory changes",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYUlHbnV6Z3RHMkhTZDVYUnRhYjI0WG0xcFF3NmVJR3ltZUFiYndTQkQtVWdOdlpHcEstM3AxNlFPMDZsTXR6Vnk3bU1YUmNEYzdLN0lxWmY1RXA1ejJSeUlSQmo0RXpnUUlJeWg0ZDR3VWstZlZycEcyVTNfMXRLQjJsMDVVWmhaQWN4VGU5eExyTllfOGRKY01fOExJZmVYM3E2QUJZMUdoZjBXeFRyYzNQZzdBaHFaUDRpYmpvLTNDcXotaW5SNW12UmMyckdYNzdXbDJZUmtYUDg?oc=5",
-   "source": "Data Portuaria",
-   "published": "2026-10-07T13:48+00:00",
-   "added": "2026-10-07T14:33+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "disruption"
-   ],
-   "summary": "Maersk updates European operations amid seasonal disruptions and regulatory changes Data Portuaria",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c2d2900a4ded",
-   "title": "Diesel prices surge just as farmers need fuel the most",
-   "original_title": "Diesel prices surge just as farmers need fuel the most",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrWUFXUDRQLVYzcUdsV0NKcWZtdGFZVW1JOWZsWmlybDRGeVZ0R2FtODRHQllqTmpjeHNabnJRcWtsUEhWdG1ydVY2SU9YaGhBQ1NieE1LWFBkZDladUQyVTJQV0tlbWk1Rkpj?oc=5",
-   "source": "Transport Topics",
-   "published": "2026-10-07T13:45+00:00",
-   "added": "2026-10-07T20:24+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "diesel",
-    "prices"
-   ],
-   "summary": "Diesel prices surge just as farmers need fuel the most Transport Topics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c39a77cfce25",
-   "title": "PSAC could improve Middle Corridor efficiency - IFC",
-   "original_title": "PSAC could improve Middle Corridor efficiency - IFC",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1QMWl4RWI2bExTbFRvelJQcWpIWDBadi1jVU9Mb3VyT3NYZGRpSWtBMWFadGtmclZQNl8yNWdkWlV1T0MzejRXSUs5eXdpWm5E?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-07T13:44+00:00",
-   "added": "2026-10-07T22:41+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "PSAC could improve Middle Corridor efficiency - IFC Trend News Agency",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
