@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T18:27+00:00",
+ "generated_at": "2026-10-12T18:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -97,6 +97,38 @@
    "summary": "Middle East supply risks overshadow Russian diesel deal Oil & Gas Journal",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
+  },
+  {
+   "id": "a298ddb5da07",
+   "title": "EU Targets Major Russian Shipyards in Sweeping Sanctions Expansion",
+   "original_title": "EU Targets Major Russian Shipyards in Sweeping Sanctions Expansion",
+   "url": "https://gcaptain.com/eu-targets-major-russian-shipyards-in-sweeping-sanctions-expansion/",
+   "source": "gCaptain",
+   "published": "2026-10-12T17:07+00:00",
+   "added": "2026-10-12T18:55+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "european union",
+    "russia",
+    "russian",
+    "sanction",
+    "vessel"
+   ],
+   "summary": "Smoke rises from a civilian vessel on fire, amid Russia's attack on Ukraine, in Odesa, Ukraine July 19, 2026.Picture taken with a mobile phone. REUTERS/Stringer The European Union has imposed sanctions on some of Russia’s most important shipyards, including major submarine builders, naval ship-repair facilities and yards involved in commercial vessel construction, as part of a sweeping expansion of restrictions targeting the country’s military-industrial complex. The new sanctions , adopted Monday, add 826 Russian companies and 743 executives to the EU’s sanctions list. The measures represent the largest single expansion of the bloc’s sanctions listings since Russia launched its full-scale invasion of Ukraine in February 2022. The shipbuilding measures form one part of a much larger sanctions expansion focused heavily on Russia’s weapons production capacity. EU foreign policy chief Kaja Kallas said more than half of the nearly 1,600 new listings are connected to the production chain for ballistic missiles. “This is the single largest expansion of our sanctions list since Russia started its war,” Kallas said. “We are making it significantly harder, slower and more expensive for Russia to produce the weapons it uses to kill Ukrainians.” The latest measures are distinct from the EU’s sanctions targeting Russia’s shadow fleet, which have focused on vessels involved in transporting Russian oil and circumventing Western restrictions.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
   },
   {
    "id": "3eb5d703083b",
@@ -16603,33 +16635,6 @@
     "grain"
    ],
    "summary": "Daily Market Wire 8 October 2026 Grain Central",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "284c51a97d4f",
-   "title": "Fortescue iron ore sales slump as China cranks up the pressure",
-   "original_title": "Fortescue iron ore sales slump as China cranks up the pressure",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWd6XzFMeEFHTEdoRnI4bm42aGwxVmRzV1lwWHcwaU51ZDBLZHI0cXk1dU9uLVhtRzNqSWhBYmcxZGFUUlRmNGYtNWJpZ25sdHFXQmUwS3BGUHhVU2hJQlBrSkJwTlVkVzF0aEJxTXpHdVBIcFJ0VUREZl83ZzRuTGFmOEZPOG84RnNiSy01TnV1ZkZJZDdQXzZyZ05uTklZSGxscE1MZUhOcmU1X3AzQzd4a29CZw?oc=5",
-   "source": "AFR",
-   "published": "2026-10-07T23:43+00:00",
-   "added": "2026-10-12T18:27+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "iron ore"
-   ],
-   "summary": "Fortescue iron ore sales slump as China cranks up the pressure AFR",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
