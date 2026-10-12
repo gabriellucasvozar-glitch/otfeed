@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T11:22+00:00",
+ "generated_at": "2026-10-12T11:48+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -129,6 +129,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "5cac70f51cf1",
+   "title": "Bangladesh secures China Exim Bank loan for Mongla Port expansion",
+   "original_title": "Bangladesh secures China Exim Bank loan for Mongla Port expansion",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0EyYzVyWXFlNVNyaWdaUkJlS1NMdkY2ZmxoOXV3OFpPWnM2T3pmd2F6Q1RYZjlFaERMUjdBSGJ1ZnpEMlJyZ0lCTzNOc1NhdUxEcUVsRk5hR1duaW9kQTR3ejBKMFd5SUZpcWFwdVpKQlJCMUdaWVgyM0lua2NlYkppR0lJcUNzS2x2TGRvNlluTGVkZUtaSjhla3RmSDdLQlhRTg?oc=5",
+   "source": "Traders Union",
+   "published": "2026-10-12T10:54+00:00",
+   "added": "2026-10-12T11:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "port"
+   ],
+   "summary": "Bangladesh secures China Exim Bank loan for Mongla Port expansion Traders Union",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "6d8e25c7e70d",
    "title": "DP World terminal in Constanța to be electrified following an investment of €53.8 million",
    "original_title": "DP World terminal in Constanța to be electrified following an investment of €53.8 million",
@@ -153,6 +180,35 @@
    ],
    "summary": "DP World terminal in Constanța to be electrified following an investment of €53.8 million Business Review",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2aae5ce8cded",
+   "title": "Shanghai Port Eyes Acquisition of LME Warehouse Firm H&M, Sources Say",
+   "original_title": "Shanghai Port Eyes Acquisition of LME Warehouse Firm H&M, Sources Say",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS0tFSWJCQ0hlVDhUMFNsQ3VmVWZBX0VUd0FuUXFFZjBiYXdtRHdPeVVqQUpLN3hPenVOMVhoU2JjczFvY3hxSmk2S1QtVUJKNFJNbWZqQ29kOXlGc09qM0ZodllaZVpRZk1ab3hNRkd2Q2YxejFfOU5mV2ZRb2d0YTBNOGlXdnpXOElzRjZ0bmotN3Z4M0ViSlM5TzVlNEM4MUVR?oc=5",
+   "source": "Global Banking & Finance Review",
+   "published": "2026-10-12T10:41+00:00",
+   "added": "2026-10-12T11:48+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "acquisition",
+    "port",
+    "warehouse"
+   ],
+   "summary": "Shanghai Port Eyes Acquisition of LME Warehouse Firm H&M, Sources Say Global Banking & Finance Review",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -417,6 +473,32 @@
    "summary_method": "extract"
   },
   {
+   "id": "a39f82cc5007",
+   "title": "Hamburg Port marks leadership transition in Prague after 25 years",
+   "original_title": "Hamburg Port marks leadership transition in Prague after 25 years",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZG5WX0lsaFNNdTFSTkRjT1RXbmRwNWFzM0kyRW1LaS0wd0ktcjNIYTNKNTlKZ1hyYjNzZGFuUERENU9mMURLR2JjUjlDSVo3TFNSclpMWURYNnNWYlpkMndfRDJocVRRbnNIN3cxeHRzc2oxT0Y5enlvaWRDSTZoRDliTGtiUVRndmR5ejQxd1BQZlFhb3BOUU5wQjBLTTVWOWhxdTNkWmZCbDduR0plLWY5VFlNRVBrZmhWU3pLQ3N1NUhqVTNOUQ?oc=5",
+   "source": "Data Portuaria",
+   "published": "2026-10-12T09:50+00:00",
+   "added": "2026-10-12T11:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "hamburg",
+    "port"
+   ],
+   "summary": "Hamburg Port marks leadership transition in Prague after 25 years Data Portuaria",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "6ba4a305a346",
    "title": "EU Scrap Export Curbs May Raise Raw Material Costs For Gujarat Industries",
    "original_title": "EU Scrap Export Curbs May Raise Raw Material Costs For Gujarat Industries",
@@ -469,6 +551,60 @@
    ],
    "summary": "Who is Abdul Malik al-Houthi, the rebel leader threatening Saudi Arabia and Red Sea shipping? Firstpost",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "097d365b0e3c",
+   "title": "Freight Forwarding Market Sees DSV Complete €14.3 Billion Schenker Acquisition",
+   "original_title": "Freight Forwarding Market Sees DSV Complete €14.3 Billion Schenker Acquisition",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR2ZZYXVnNG1abjQ3dC1ZRmVVT1JMWE5kZC1CczEzVXd1MWZRTllZaWxNekU5bGNOWnl0bkdscUo1NTYxSXNaTkV6MEJ0cS1VZlppeXJZa0hHTWpJZGVGc0VGUVdCdVIxc3h3QXNqbWlBX2NZR3Q3OFd4Q29feTNOZlNrem55X3pRdDRPaUw2WmNhczhHVWtR?oc=5",
+   "source": "openPR.com",
+   "published": "2026-10-12T09:36+00:00",
+   "added": "2026-10-12T11:48+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquisition",
+    "forwarding"
+   ],
+   "summary": "Freight Forwarding Market Sees DSV Complete €14.3 Billion Schenker Acquisition openPR.com",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "995e85f97240",
+   "title": "Port of Gothenburg completes 700-metre quay upgrade to accommodate larger container ships",
+   "original_title": "Port of Gothenburg completes 700-metre quay upgrade to accommodate larger container ships",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY1hiTHV0UWc4RW5HbXFVeGFKZWRpMGo5d3BaeFByY3ZNWGNYZEN3OUhXTkZ6dGVydTYtUHA0VUJac2V1WDNqSDdvODBzWWUyVXpDVEVrSlI0UkExMEM3Tzd4WWJjSkhzVmpOUmtwNEhRUjIxYzktdThONjVGZUdCMzF0eHlGTVd0b0xWNHU0Um5HWkpibjVJYTdVWGw1SGhBZmFSOXlJc0lrUS1ZTGlkaDdqZw?oc=5",
+   "source": "Breakbulk.News",
+   "published": "2026-10-12T09:27+00:00",
+   "added": "2026-10-12T11:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gothenburg",
+    "port",
+    "quay"
+   ],
+   "summary": "Port of Gothenburg completes 700-metre quay upgrade to accommodate larger container ships Breakbulk.News",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -578,6 +714,34 @@
    ],
    "summary": "Constellation Cold Logistics acquires Impruv Logistics AS in Norway ad-hoc-news.de",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d096d2f51f10",
+   "title": "High oil prices do not equate to high profits! Morgan Stanley decodes the \"profit divergence\" in the chemical sector: cooling demand for urea and potash, recovery in oilseed crushing margins",
+   "original_title": "High oil prices do not equate to high profits! Morgan Stanley decodes the \"profit divergence\" in the chemical sector: cooling demand for urea and potash, recovery in oilseed crushing margins",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT1dVU21MZlFQZ3dZbmxrUDVkRjkwYjhUa003QWJZVXAtRW1DN3VkZjdnTkJfc09RS3ZjM1N2VDBRNjl6N3Iyc0hnNk5zUWJIeEZtdFQyUzNGYTQ1UG50TVNjR0RadGhxcG9pMXlDMl8tZ3UzVS1YdTRhT29IeXhlR05CRDFxTkQzWG9BNy0yS0ZMNGd3RjgxRnVpamQ?oc=5",
+   "source": "Moomoo",
+   "published": "2026-10-12T09:00+00:00",
+   "added": "2026-10-12T11:48+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "oil price",
+    "potash",
+    "prices",
+    "urea"
+   ],
+   "summary": "High oil prices do not equate to high profits! Morgan Stanley decodes the \"profit divergence\" in the chemical sector: cooling demand for urea and potash, recovery in oilseed crushing margins Moomoo",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -1017,6 +1181,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "09cee251ae2d",
+   "title": "Etihad Rail, AD Ports link Fujairah with Abu Dhabi",
+   "original_title": "Etihad Rail, AD Ports link Fujairah with Abu Dhabi",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1ZWRWxOWjAtdUhUUGViaUw2WFZhQ3NPQWNGaEZLdV9DdGpkVzFZMDBRZ3R5SnZoRDlZZDhHN1lWemRjYmw0UklBOXpEMXA5UEQzWVNvSEdETXAzdjgyV3hESkgyNU5xaGhJeTZPZFFtTXk0aTl1eE9pUzk2ZThTd2VLUGtodzVCMUs1NWRRa0ZBVC03ZVh3WldvcTZYd2Ut?oc=5",
+   "source": "Heavy Lift & Project Forwarding International",
+   "published": "2026-10-12T06:32+00:00",
+   "added": "2026-10-12T11:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "forwarding",
+    "port",
+    "ports"
+   ],
+   "summary": "Etihad Rail, AD Ports link Fujairah with Abu Dhabi Heavy Lift & Project Forwarding International",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "5b65ced44074",
    "title": "18 nowych lokomotyw Traxx Universal dla CLIP Intermodal. Nadwozia wyprodukowano we Wrocławiu",
    "original_title": "18 nowych lokomotyw Traxx Universal dla CLIP Intermodal. Nadwozia wyprodukowano we Wrocławiu",
@@ -1073,6 +1265,32 @@
    "summary": "Hapag-Lloyd has suspended new bookings to Manila, Batangas and Subic Bay until the end of December, as worsening congestion and a chronic shortage of empty-container storage capacity disrupt Philippine supply chains. The German carrier stopped accepting bookings to the three gateways from all origins and across every trade lane on September 29, citing severe constraints on container returns. Existing bookings may also face cancellation or revised arrangements. The crisis centres on the Philippines’ longstanding trade imbalance, with significantly more laden containers arriving than departing, leaving carriers struggling to find space for empty boxes. Philippine Ports Authority general manager Jay Santiago has urged foreign shipping lines to establish additional empty-container depots, describing this as the quickest solution to the worsening logistics bottleneck. Mary Zapata, president of the Confederation of Truckers Associations of the Philippines, told local newspaper Daily Tribune that some operators have waited as long as 40 days to return empty boxes. The problems triggered industrial action earlier this month, prompting the Philippine Bureau of Customs to acknowledge the severe pressure on truckers, customs brokers, importers and exporters. Subic Bay waiting times, however, remain below 12 hours, while Batangas operations are described as normal.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "extract"
+  },
+  {
+   "id": "5194eceab181",
+   "title": "AZANE secures approval for “Viking Energy” ammonia bunkering trial",
+   "original_title": "AZANE secures approval for “Viking Energy” ammonia bunkering trial",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWkFMRUMwb1A0UkM0R3hRU3dkYzFuekEwXzB2Zk5GM2ctV1ZaWnhlcXkwLXQweDNIcmRrdVNsbkpyMXd4M1htN1RFNGNHZXdrM2xtTkpyWGJBRVlfc01tR19NWmVocFJvYnljckg3a3ktRmtZaThuLXdtSTRQcWhydHd0ZWZkdGF2Zy1LVzZjcS1fNHFGVmpZRWZONVN4QUNnN3c?oc=5",
+   "source": "Manifold Times",
+   "published": "2026-10-12T05:52+00:00",
+   "added": "2026-10-12T11:48+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia",
+    "bunker"
+   ],
+   "summary": "AZANE secures approval for “Viking Energy” ammonia bunkering trial Manifold Times",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "f7840c49157a",
@@ -3506,6 +3724,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "023bcd22cd55",
+   "title": "Diana Shipping (DSX) Slips 2.76% to $2.82 as Dry Bulk Names Test Key Support - Bullish Percent Index",
+   "original_title": "Diana Shipping (DSX) Slips 2.76% to $2.82 as Dry Bulk Names Test Key Support - Bullish Percent Index",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNktMU3pRNVN2Y3FkWndXQWNLbDdpamV3WnNHM3JwR0VXUTlpVkpqei1EcEQyVnNOZE5FeWR3RXBrM3lLcTNwM2FaZ05qMEI5Tms4Vl9QX2RKYVAtWmQ4Z2p5NnhESVVtTWp5Z3ozT0xFTFZyOTUtOVRzRzZmdlMtVTRXQTJwOGljd0RNSjlLRzc0MGF2S3pZbVpVMFVlcHpQQTFjQUlBUkltdHJkMkZGb1VnMA?oc=5",
+   "source": "https://www.siam.in/",
+   "published": "2026-10-10T12:42+00:00",
+   "added": "2026-10-12T11:48+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "dry bulk",
+    "shipping"
+   ],
+   "summary": "Diana Shipping (DSX) Slips 2.76% to $2.82 as Dry Bulk Names Test Key Support - Bullish Percent Index https://www.siam.in/",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
    "id": "89d1f68c23d3",
    "title": "Why is US turning to Russia for diesel despite sanctions?",
    "original_title": "Why is US turning to Russia for diesel despite sanctions?",
@@ -3776,6 +4020,31 @@
     "quay"
    ],
    "summary": "Montreal sets schedule for Contrecœur quay piling Port Technology",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "55332fcc201c",
+   "title": "Terminal na lotnisku w Goleniowie: drugie podejście i pierwsza oferta w budżecie",
+   "original_title": "Terminal na lotnisku w Goleniowie: drugie podejście i pierwsza oferta w budżecie",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhYaWNNU2tfUTRhdXhSUEd0R25IM0xCdm9TWlJ6dlR5dFRMY2dtZ0Z1ODc1OFNhMVZ6RDd4eUVTeWI0Uk1OaDV0M1dhY0NqYzNKaDRXZkJGU01YTTZmT2Nha2RZS3FWSldrQkFwSFZDTXNOX0pEaFdtWkhhdGdFY29BR1F2dnBONHBKdmxmaU9wQmVBWmlTV2VxRGdkeEh1bGpPWGxIbURObVNGZE92TA?oc=5",
+   "source": "Gryfino Głos Miasta",
+   "published": "2026-10-10T09:00+00:00",
+   "added": "2026-10-12T11:48+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Terminal na lotnisku w Goleniowie: drugie podejście i pierwsza oferta w budżecie Gryfino Głos Miasta",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -7970,6 +8239,39 @@
    ],
    "summary": "Boyan Rashev: Remove quotas for coal-fired power plants to have cheap electricity in winter Fakti.bg",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7a21e575acff",
+   "title": "UK sanctions six newly acquired shadow fleet tankers",
+   "original_title": "UK sanctions six newly acquired shadow fleet tankers",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUXpWeVdiZWVDa05xUHZOeGdZbjRBdWVfMGtHa2c4d3htN2M1TFRXcElRU3pOVVJseE9ReHVoUDc0Q3EwZUcwU0twM0h4M21GSXJCb05BazB4aGlTRDlBZ1NwNldhMTU4UXFpeFZLUS1halM3R19WN0lYZjFuUk9xYzhGTDdVa2Z1bExvZkRBQWp4eDBEN3pDNWIzcGJxUXh5d3lzVDBJNkJVMms?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-10-09T07:00+00:00",
+   "added": "2026-10-12T11:48+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "high",
+   "score": 17,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "acquire",
+    "acquired",
+    "fleet",
+    "sanction",
+    "shadow fleet",
+    "shipping"
+   ],
+   "summary": "UK sanctions six newly acquired shadow fleet tankers Shipping Telegraph",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -16334,300 +16636,6 @@
    ],
    "summary": "Romania and Bulgaria receive EU satellite imagery following attacks on vessels in the Black Sea Informat.ro",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9e960c1a9706",
-   "title": "Hormuz crude flows recover, but aluminium, LNG and fertiliser face a slower return to normal",
-   "original_title": "Hormuz crude flows recover, but aluminium, LNG and fertiliser face a slower return to normal",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVmllb3JibzR2OC0wRU1VM2hya1NjRUN3TE5XQ0Yxd1hhSUE2dVdlUTFnZUdpYm43akpxZG04UGYtNVcxbVFZZ0N3TV90N3ZLenRzMzNtMnNyTWlyTnZpU1RKRlNjRldxdGZGd0pCWDRJbVJTOS1yY1p5Y1lkbmw3UmRZQUtyRGI1MVAxR09lOUVRNjkzX2lEYU5IRnROY1NZa2RNTmRhbXBEZWstaEg3b0t3WkNOZ3R6dmVFN2xvRXd3M09iU2c?oc=5",
-   "source": "AL Circle",
-   "published": "2026-10-07T16:15+00:00",
-   "added": "2026-10-11T02:38+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "aluminium",
-    "crude",
-    "fertiliser",
-    "hormuz",
-    "lng"
-   ],
-   "summary": "Hormuz crude flows recover, but aluminium, LNG and fertiliser face a slower return to normal AL Circle",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "772615c84ace",
-   "title": "Bayramov calls for stronger Middle Corridor, green energy cooperation",
-   "original_title": "Bayramov calls for stronger Middle Corridor, green energy cooperation",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZENTbjRBdXBRMGd2OFNLNHpqQnVJcWZPNWRvVEZhZ2tmZ0RRYzFGazFfdmJLVU03ZlpPWnVLS1k3Ql9YZThMeFFtRDFVZWpwUTQ5eXFJTzkxQk5jZnQyeU9RZHI2U185akkydTlyWFUza0o5ek4zX2cweGVjSTVGSXRmdWNCREhuaU14MGY2alRSVTh3Zld2MlZRRG9LMkFLaU52eXJUSmJsQdIBrwFBVV95cUxQb3ZaRnBzM2k2S25EaGVyWmZaM0VjVm9ocm9USkhtWE96M3BtMUJKNFZsVDlJWVRJOE5sQXh0Zk9DVFkxaHNlamFyaUN6TFhlTVRlMjF5WlVib2dlVFZ5enE0VVNCNm9SQ1F0N0xfY3FDaDVuMTh6RV9tMjVRbHlEd3lQTTNnLVNqQkNGMXhmSlFLbHh3dkFvbGdWeVhab2hUc1V4TTVJOVhIZ194LWNN?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-07T16:13+00:00",
-   "added": "2026-10-08T09:27+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Bayramov calls for stronger Middle Corridor, green energy cooperation Report.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "aa82176858ba",
-   "title": "Marcotran renews warehouse lease near Poznań",
-   "original_title": "Marcotran renews warehouse lease near Poznań",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQnJGVFdWSVowU0pnTFFCQS1SbjZCc2JYWWxkc3lzS2F6eGVVMTZXcVBMZUh4dkwyU2V4UVRCTVlYZFN5cmRUVmJmM0VOSEx3VTRoZmN3UDd5eTVmeXZyaFB0NWRXVEZoMXluVzhJNW8xNndfc3I1T05MZjhSZnBjaS12WXpSZE40cW1R?oc=5",
-   "source": "EurobuildCEE",
-   "published": "2026-10-07T16:12+00:00",
-   "added": "2026-10-07T18:12+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "warehouse"
-   ],
-   "summary": "Marcotran renews warehouse lease near Poznań EurobuildCEE",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fceae9d46ffe",
-   "title": "Oil Price Today: Crude Rebounds on Supply Risks",
-   "original_title": "Oil Price Today: Crude Rebounds on Supply Risks",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQkJYU2JhT1Myd052aWhOTHkxTlhQN2xkcVBPNEVRWHRLWDlNVkt3VHpJNklWMkR3Y2JqTmhYZUI1SUl6cmptWlRzNlY5VjFGa1hGaUxRbG1fQnJOeGJ1UG51SHMtaXdSSXJtaE91ak9YR3dNT21NVTVldmFCNThET2NUeFJ0Q0xCMXZNVVE4ZUY?oc=5",
-   "source": "Markets.com",
-   "published": "2026-10-07T16:03+00:00",
-   "added": "2026-10-08T10:55+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crude",
-    "oil price"
-   ],
-   "summary": "Oil Price Today: Crude Rebounds on Supply Risks Markets.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3c2e2aac592a",
-   "title": "Why planning liquid fertiliser storage can lower input costs",
-   "original_title": "Why planning liquid fertiliser storage can lower input costs",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnFFdFJMZE1wOFJ6TlVOXzBEaGt2MEs4ZldlRUtlUWN4cFBUb0xfcmg4dnpHM2RuNlJyZGgweWRUZWUyc045OEJOUkxpb09kN3NGVkRJT1VnSFYxdmVycmJWZGNXU095VzYxQ0EyMktqaEFockkyTFV5Y29HSUZYeTlydTh1bFJMaXdOUFo4WUZCc09wbXU0ek1YSzFyV3VrbWNiT2lVaTVTc09fOFppaXZQYzRlVGs?oc=5",
-   "source": "Farmers Weekly",
-   "published": "2026-10-07T16:02+00:00",
-   "added": "2026-10-07T17:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fertiliser"
-   ],
-   "summary": "Why planning liquid fertiliser storage can lower input costs Farmers Weekly",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a28dd7425936",
-   "title": "LAT Nitrogen eyes North African green hydrogen supply",
-   "original_title": "LAT Nitrogen eyes North African green hydrogen supply",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVEZJWWpmOURFT2tSYTRHVTZzMkRJU1dzU3V2XzZqSmtPX2N5Zk1GMGpLc2xhWUlJVlI2eUJfN1V5ZEtZdnpaNHU4U000eTduVW80ekg3V0JSMWQxb0ltX3ZfQnVUd3pBVk5qSTdPdzZ1aEZkelpyV0UwNmFCV0kySkk5Ujc1bkNoQndWUHNsbDBOR3d2QU1yMldLRGN5NVhNUFFLTXFXdw?oc=5",
-   "source": "Quantum Commodity Intelligence",
-   "published": "2026-10-07T16:01+00:00",
-   "added": "2026-10-07T21:01+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "commodit",
-    "hydrogen"
-   ],
-   "summary": "LAT Nitrogen eyes North African green hydrogen supply Quantum Commodity Intelligence",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0b8ae1db4c31",
-   "title": "Q4 2026 EU steel quotas exhausted across key steel product categories",
-   "original_title": "Q4 2026 EU steel quotas exhausted across key steel product categories",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPalNWMTlKaDNqMUp5ZzZtUXdzeHJRQmFXanBEV1VzYmJqMzUzWFFFT0hPWjBUd2V0RGI5SENkM0dMVjJPSXBTUlluRXRYZG5sVnpvTGRZeTFGdXZ0Tko2TlVoSHZjRWdYTzRpR25BSFlZTU1VR3N2OVNqOS1FLWo4N3JiQUZCc3FjSEhrT3JLOG9EWkJlZEJR?oc=5",
-   "source": "EUROMETAL",
-   "published": "2026-10-07T15:41+00:00",
-   "added": "2026-10-09T16:24+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 7,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "quota",
-    "steel"
-   ],
-   "summary": "Q4 2026 EU steel quotas exhausted across key steel product categories EUROMETAL",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f8ef953bf50e",
-   "title": "New cover protects forwarders from late or temperature-hit cargo",
-   "original_title": "New cover protects forwarders from late or temperature-hit cargo",
-   "url": "https://theloadstar.com/new-cover-protects-forwarders-from-late-temperature-hit-cargo/",
-   "source": "The Loadstar",
-   "published": "2026-10-07T15:32+00:00",
-   "added": "2026-10-07T15:51+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "bill",
-    "forwarder",
-    "shipping"
-   ],
-   "summary": "Forwarders shipping flowers, pharmaceuticals and other sensitive cargo are being offered a tracking and insurance package combining fixed payouts for qualifying delays with cover for temperature-related losses. Airfreight wholesaler Solent Freight Services, technology provider Tag-N-Trac and insurance specialist Otonomi have launched TRACinSURED, bringing shipment monitoring and insurance into a single subscription product. For a flower shipment from Ecuador, a forwarder would enrol the consignment by assigning its airway bill to the system, receiving confirmation once insurance was bound. Final commercial pricing and the trigger schedule are still being approved but customers will be offered monthly and annual subscriptions, with tracking available from airport to door or door to door. “It is therefore less about simply offering a cheaper version of conventional cargo insurance and more about providing a new type of bundled risk-management product,” she said. “Solent has spent more than 30 years handling fresh-cut flowers, fruits, pharmaceuticals and other highly perishable cargo where temperature, timing and visibility can determine whether a shipment succeeds or fails,” said chief executive Simon Milne. “Operational decisions remain with the freight forwarder or logistics operator handling the shipment.” Solent is targeting global distribution, with active countries, lanes and underwriting arrangements subject to confirmation during the rollout.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "f0abeefa2e54",
-   "title": "Kalmar and Port of Halmstad continue partnership with the signing of a Kalmar Complete Care service contract",
-   "original_title": "Kalmar and Port of Halmstad continue partnership with the signing of a Kalmar Complete Care service contract",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuM05jTFpxYWlrdXNkQm5rLUdBd0R0RzNGOWhvaDJMQkJLSzExUVV4Z3dVYldHd1dOTUtDRjd4bW5BbnpRc0dpMFU2dURSYlNOVlVKQW9zMFI?oc=5",
-   "source": "Taiwan News",
-   "published": "2026-10-07T15:30+00:00",
-   "added": "2026-10-07T16:12+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "kalmar",
-    "port"
-   ],
-   "summary": "Kalmar and Port of Halmstad continue partnership with the signing of a Kalmar Complete Care service contract Taiwan News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ceb176905919",
-   "title": "Trafigura Buys Seven Oil Tankers From SFL as Shipping Costs Rise",
-   "original_title": "Trafigura Buys Seven Oil Tankers From SFL as Shipping Costs Rise",
-   "url": "https://gcaptain.com/trafigura-buys-seven-oil-tankers-from-sfl-as-shipping-costs-rise/",
-   "source": "gCaptain",
-   "published": "2026-10-07T15:26+00:00",
-   "added": "2026-10-07T16:38+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "crude",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Trafigura Group bought seven oil tankers from New York-listed SFL Corp., in the latest example of how trading houses and state energy companies are acquiring vessels to ship crude and products. Disruptions to shipping through the Strait of Hormuz have drawn in scores of tankers to shuttle key oil flows out to the global market, while growing risks in the Red Sea are leading to longer voyage routes and times. That’s prompted a rush to snap up tankers as rates to charter vessels soar. Trafigura bought four oil product tankers known as LR2s — built in 2014 and 2015 — and three suezmax tankers built in 2019, SFL said in a statement on Wednesday. SFL said it had made an “aggregate book gain” of $175 million from the deal, without disclosing the sale price of the vessels. Strong demand for prompt availability of oil carriers have pushed the resale values of tankers higher. A 10-year-old Aframax, which is the same size as an LR2 tanker, was assessed to be worth $72.5 million last week, while a Suezmax of the same age could sell for $110 million, Clarkson data show. Trafigura recently made its first foray into launching a public company, listing a supertanker vehicle Volare Shipping Ltd.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "3be095a5cc87",
-   "title": "Shortages are here to stay: electronics manufacturers are learning to adapt",
-   "original_title": "Shortages are here to stay: electronics manufacturers are learning to adapt",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRlNidFBjd2pFbmNkaXJwSENVMlRiVkV3eklEdkNKZkRzT2hlUlc3TTlBS2VtTTU2R3RzYU5Cb1NKeW1BZExGR2tya3FFSThmUm1kZFhZZ3RYSmlqTFBIRS1OZUhZcWV6Tkp1TERHVUQ4LUZRcERWc1h3WnpEMEVvMDRjTlZwcF96dU5XOHJ6bEdyZHFEVHMzS200d3YwVUpDY2tlQnR0dE1pbHJleXU1ZVJfWnc1LWM?oc=5",
-   "source": "The Manufacturer",
-   "published": "2026-10-07T15:19+00:00",
-   "added": "2026-10-07T17:31+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "shortage"
-   ],
-   "summary": "Shortages are here to stay: electronics manufacturers are learning to adapt The Manufacturer",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
