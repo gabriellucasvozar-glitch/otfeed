@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T16:12+00:00",
+ "generated_at": "2026-10-12T16:36+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -68,6 +68,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "ca347e970536",
+   "title": "Shipping’s LNG Boom Faces a Methane Problem",
+   "original_title": "Shipping’s LNG Boom Faces a Methane Problem",
+   "url": "https://gcaptain.com/shippings-lng-boom-faces-a-methane-problem/",
+   "source": "gCaptain",
+   "published": "2026-10-12T15:04+00:00",
+   "added": "2026-10-12T16:36+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "lng",
+    "shipowner",
+    "shipping"
+   ],
+   "summary": "For a decade, LNG has been sold to shipowners as the sensible bridge fuel. Cleaner than heavy fuel oil, widely available and backed by mature engine technology, it has won the newbuilding argument comprehensively. By Paul Morgan (gCaptain) – The numbers bear that out. Some passes straight through to the funnel, and methane is a far more potent greenhouse gas than CO2 over any meaningful timescale. CDTi Advanced Materials proposed passive oxidation catalysts, reporting 80% methane conversion at lower temperatures across a range of engine loads. It reported a 78% cut in slip. A second round, reported in January 2025 with Chevron, Carnival, Shell and Seapeak, turned to fugitive methane, the leaks and venting that occur between the bunker manifold and the engine. Xplorobot assessed handheld devices and an AI platform for leak quantification, Sorama scoped acoustic cameras that map sound to pinpoint leaks on an LNG carrier’s trunk deck, and Framergy studied a metal-organic framework material to capture vented methane. Xplorobot’s assessment was a desktop exercise based on comparable onshore data, with accuracy of around 30% for larger leaks and about 50% for smaller ones.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
    "id": "0d230318b773",
    "title": "Unions report renewed MSC-Hutchison Rotterdam talks",
    "original_title": "Unions report renewed MSC-Hutchison Rotterdam talks",
@@ -91,6 +119,38 @@
    "summary": "Unions report renewed MSC-Hutchison Rotterdam talks Port Technology",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
+  },
+  {
+   "id": "5d8681649926",
+   "title": "Sweden Releases Sanctioned Russian Shadow Fleet Tanker After Seven-Month Detention",
+   "original_title": "Sweden Releases Sanctioned Russian Shadow Fleet Tanker After Seven-Month Detention",
+   "url": "https://gcaptain.com/sweden-releases-sanctioned-russian-shadow-fleet-tanker-after-seven-month-detention/",
+   "source": "gCaptain",
+   "published": "2026-10-12T14:45+00:00",
+   "added": "2026-10-12T16:36+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "russia",
+    "russian",
+    "sanction",
+    "shadow fleet",
+    "vessel"
+   ],
+   "summary": "The sanctioned tanker Sea Owl 1 underway at sea. Swedish authorities have cleared the vessel to leave Sweden after a nearly seven-month detention over registration and documentation irregularities. Photo: Swedish Coast Guard (Kustbevakningen). Swedish authorities have cleared the sanctioned tanker Sea Owl 1 to leave the country after nearly seven months at anchor, following confirmation that the vessel is now legitimately registered under the flag of Equatorial Guinea. The vessel’s prolonged detention highlights the difficulties authorities face in verifying the registration and documentation of ships operating within Russia’s shadow fleet. With the operating ban lifted, Swedish authorities say there are no longer any restrictions imposed by the Swedish Transport Agency preventing Sea Owl 1 from departing. The United States on Thursday imposed sanctions on 22 tankers and dozens of individuals and companies linked to Iran’s oil trade, expanding its campaign to cut off Tehran’s remaining petroleum... A 22-year-old product tanker sanctioned by the European Union is making an unusual late-season voyage along Russia's Northern Sea Route, highlighting the growing use of older, lower-specification vessels to move petroleum products through the Arctic. Russia has conducted two dark ship-to-ship (STS) transfers involving oil cargoes that traveled through the Northern Sea Route, highlighting the increasingly complex logistics being used to move Russian crude to Asian markets via the Arctic.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
   },
   {
    "id": "930b74817257",
@@ -16561,59 +16621,6 @@
    ],
    "summary": "Commission flags fertiliser-labelling problems Irish Farmers Journal",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c4bade951610",
-   "title": "Port Rzeszów – XXX Jubileuszowe Dni Kultury Marynistycznej",
-   "original_title": "Port Rzeszów – XXX Jubileuszowe Dni Kultury Marynistycznej",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRzFnOUx2NXNXZGRQbFVGQnFGTUE1Q2tzTXZzNHpMQnRUM1g3LWJzWVlBSnlGYWI2bU9PYWc2UkFqeThCRWF2cnNIZVRPcVJMblZhREs1QXFVSTdwVVNhNklsaVUxMFVXaU9GR1NDa1RINUNVZjNnZWJ2Y3Btc0FMR2l5Nm03TFE0NTZHSmRGdlQtUk90STljclpJQTBWZGxSTGc?oc=5",
-   "source": "RESinet.pl",
-   "published": "2026-10-07T21:06+00:00",
-   "added": "2026-10-08T16:53+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port Rzeszów – XXX Jubileuszowe Dni Kultury Marynistycznej RESinet.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b5ee3e32c754",
-   "title": "Poland has 3,800 km of inland waterways, but they carry just 0.01% of freight",
-   "original_title": "Poland has 3,800 km of inland waterways, but they carry just 0.01% of freight",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcEZ1ZnFMU0xVU3RzWVBPSVpQZ0haZU5TQnpsTWxrSmhQRUEyYkhnY3NYZElEUnl1a1lJQ0JjTmZ6NWMyQ3FCV2VMWGxmaEE4V2stbHdERF96aTJvODVfZ0Y1NlhXZEVhXy1ZV19wV1NJeHB4cEd2c1BWTVlRZkJZaDln?oc=5",
-   "source": "CEO Magazyn",
-   "published": "2026-10-07T21:03+00:00",
-   "added": "2026-10-08T03:27+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "inland waterway",
-    "magazyn",
-    "poland"
-   ],
-   "summary": "Poland has 3,800 km of inland waterways, but they carry just 0.01% of freight CEO Magazyn",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   }
  ]
