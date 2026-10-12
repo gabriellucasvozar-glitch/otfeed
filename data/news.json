@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T12:55+00:00",
+ "generated_at": "2026-10-12T13:34+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "97054b5cb620",
+   "title": "DP World joins in as Africa’s logistics hot-spots attract the big players",
+   "original_title": "DP World joins in as Africa’s logistics hot-spots attract the big players",
+   "url": "https://theloadstar.com/dp-world-joins-in-as-africas-logistics-hot-spots-attract-the-big-players/",
+   "source": "The Loadstar",
+   "published": "2026-10-12T12:58+00:00",
+   "added": "2026-10-12T13:34+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "logistics",
+    "port",
+    "terminal"
+   ],
+   "summary": "DP World is upping its Africa game, and it is not alone, with several terminal operators either having added or announced the addition of capacity into the continent amid surging volumes – the west coast proving “particularly hot” at the moment. Investing $90m into Angola’s port of Luanda should be indicative of DP World’s confidence in the gateway; CEO of its Africa operations, Mohammed Akoojee, told The Loadstar there was a lot of optimism in “Africa’s long-term trade potential”. He noted that “container volumes at our Luanda terminal have nearly doubled over the past five years, and the expansion will increase annual capacity from 500,000 to 1.2m teu”, while also mitigating some of the congestion that has caught the headlines. Forwarders have been raving over West Africa, and Angola in particular, over the past two years, with the region seen as one of the bright spots. And certainly the hype appears to have caught terminal operators’ attention, with DP World’s Luanda plans coming on the back of its announcement earlier this year to up its operations at Senegal’s Dakar and at terminals in Mozambique, Tanzania, and the DRC.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
   {
    "id": "5adceec69a77",
    "title": "Shippers stressing over risks from Suez Canal and Red Sea transits",
@@ -163,6 +191,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "bfc9b7d23464",
+   "title": "U.S-Russia Diesel Agreement Will Have Little Impact On U.S. Prices, Experts Warn",
+   "original_title": "U.S-Russia Diesel Agreement Will Have Little Impact On U.S. Prices, Experts Warn",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFRlLWtSRFhTUW92b1psR0liM0l1WUdYcUFvdFhURW4zMjlDempJa2g0Qm81MG9oeFRFdjhfaHhxd19lbmQyd2xwSEg2ZkxNVWFiLVBFU0h0QWhSRlpjaVRwTHgtSW1SY0JtM2t2dXg3UXdQWnFEa0lWYl9Sc3Y4bjd2aDNqaFlzM1dJanhTVl9obVFkdjBNSjZkRzgzQV9NYVVvc1JLWmdkbFJWY0E?oc=5",
+   "source": "Marine Insight",
+   "published": "2026-10-12T11:43+00:00",
+   "added": "2026-10-12T13:34+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "prices",
+    "russia"
+   ],
+   "summary": "U.S-Russia Diesel Agreement Will Have Little Impact On U.S. Prices, Experts Warn Marine Insight",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "172da990895c",
    "title": "Serial shopper Devbulk buys handysize bulker from Denholm Shipping",
    "original_title": "Serial shopper Devbulk buys handysize bulker from Denholm Shipping",
@@ -188,6 +244,59 @@
    ],
    "summary": "Serial shopper Devbulk buys handysize bulker from Denholm Shipping TradeWinds News",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "98493250761b",
+   "title": "Port of Gothenburg completes Skandia Gateway quay reinforcement, starts dredging for 17.5-metre draught",
+   "original_title": "Port of Gothenburg completes Skandia Gateway quay reinforcement, starts dredging for 17.5-metre draught",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcWhFNGcxMko1NUJlVnVuYzlHUlRhbzRvXzYtU2NUSGtEdzVEU3RhQWVJRUVyX2pvV2NMM2c2QXdqbklpdnNITkN5MzlCNkxNTWhJRnBOZk8zdllKdFRhaGN4MnFKZ0N4VmlESHdWaU9QalgtNHRuRVU4WDNwbllVN0dlLWU2QzFRaUE1U1NvVkMxekVMNWo2dXF5eXJwREp1UzNlSg?oc=5",
+   "source": "Container Management",
+   "published": "2026-10-12T11:29+00:00",
+   "added": "2026-10-12T13:34+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "dredging",
+    "gothenburg",
+    "port",
+    "quay"
+   ],
+   "summary": "Port of Gothenburg completes Skandia Gateway quay reinforcement, starts dredging for 17.5-metre draught Container Management",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ecb50b3b676c",
+   "title": "CNA Explains: How the new Huanggang Port will improve Hong Kong-mainland connectivity",
+   "original_title": "CNA Explains: How the new Huanggang Port will improve Hong Kong-mainland connectivity",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPclNoeWFJYkJ4RHBsSWNISDZpQzFpcTZsb1pmcGNkMjlSQlgxYW5vMnJIY3ZTVHRuU3FfZkw2eFRHT3RJdEVRamIwdklPN1RaZnBKaEZvanFtZXZyMlFUX2F4WnRnM3loNTFJblRvM21VcDJpa2x5d05neFB3WDVYWFJXOVNRaWdPZmx3aW1wclNVRlNOQVU2NTJkVGZONDdYelFGY1Y2WmVaUmgtZ2M3R2d3bjZiREhuSkhBcHpmUzZJOFlDUkVRQkF5WQ?oc=5",
+   "source": "CNA",
+   "published": "2026-10-12T11:19+00:00",
+   "added": "2026-10-12T13:34+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "CNA Explains: How the new Huanggang Port will improve Hong Kong-mainland connectivity CNA",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -8776,6 +8885,38 @@
    "summary_method": "feed"
   },
   {
+   "id": "9842e6c1c547",
+   "title": "Greece secures Russian LNG exemption for 1 year – What EU says",
+   "original_title": "Greece secures Russian LNG exemption for 1 year – What EU says",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM29MclB4aEtVM0s4REVRWlBBa3NjZHBCQnV2MjlneGtFNlhSaWFxTkdrNi1YaWRoRU9wUlpkMjFyMFJPWS0wNGpyOVQxQUFhMUJwZjhoX09FMGtEQ0pDQTQzS0lSZVJLSVp4WUFDelF0QVY4QWp1VjF1SXlxcEtueWZZekxRV1d3ZmZLOEQtamNkckdpUkZGSDBtM0dBSkt0WGxMRUFhN05QeGtVTDJmMDRn?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-10-09T07:00+00:00",
+   "added": "2026-10-12T13:34+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "lng",
+    "russia",
+    "russian",
+    "shipping"
+   ],
+   "summary": "Greece secures Russian LNG exemption for 1 year – What EU says Shipping Telegraph",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "ae38b87ebe75",
    "title": "Rolnicy biorą eksport w swoje ręce. Wysyłają zboże przez Port Kołobrzeg",
    "original_title": "Rolnicy biorą eksport w swoje ręce. Wysyłają zboże przez Port Kołobrzeg",
@@ -16499,147 +16640,6 @@
    ],
    "summary": "Baltic index slips as Capesize slump spoils smaller vessel gains Baird Maritime",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cf9ff5616317",
-   "title": "Polimex Mostostal rezygnuje z CPK. Konsorcjum nie złoży oferty na terminal",
-   "original_title": "Polimex Mostostal rezygnuje z CPK. Konsorcjum nie złoży oferty na terminal",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPakU3WV9USVV5VFRCbkVvM1U3UGtCTTdWaDZlM0c5Zjl1cjNmRDcwdlduakpjNHRCZnhIR3A0ajJtRnM2QTJQZ1pudC0zMTdMeEd4bmZ3T1dTQ0xoMlJ2V1c2dWxNdy16ZUtNU1VISnVJbUt0T0staEFwRVgyT3ZtbkxyaS0tZHdPczVRd2ZyVVhiVWh6VDRSaktxMlJyS0hwVVJDdmVSWHBTbms4M3U2SEZ3TQ?oc=5",
-   "source": "Rzeczpospolita",
-   "published": "2026-10-07T18:23+00:00",
-   "added": "2026-10-07T20:24+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Polimex Mostostal rezygnuje z CPK. Konsorcjum nie złoży oferty na terminal Rzeczpospolita",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bdd441caf818",
-   "title": "Security concerns scupper COSCO's buyout of German logistics firm",
-   "original_title": "Security concerns scupper COSCO's buyout of German logistics firm",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUtJSG93OFRIYUphVG1FVVdQWjk5NE1UdWtwcjZsRUdzdXlVVVp1SlF0dEJFMExCS29jY0tjQ01NOFdxMlJSdUFLdVdxaGVOM0hsMXJJc0pFWHA5ZGpod3RmNTN0TTg4VmtWOGpjYThrZkhvWmdCTUJnWkJtSFctNVdQQ1VDQ082cDNYVjR0NG8zYUhDSkFnT1NTbUkwclM1NG1UbUR30gGzAUFVX3lxTE1SU0xHZDN5bnBBYXpYbWVMRDhXUkZRODNmQ214OEIzMUlVYV9LUG1oRkFINjdhOXVzN1N2elVQVTRieEVpZGlrY2FZdDQ4b0t6SzlLUnNPNG9hTDNYUUhPTm5BQW1aNnhzb2NpRFNNYXlLSTQyWm1NWFhJaHQyNTlRY3Utcm9tYVVWYlMzZFlVZUxOemdaaHJoQjhITElDNHNwTVhUcHJaQ1pnSXhPX2RZX2s4?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-10-07T18:11+00:00",
-   "added": "2026-10-07T19:45+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "buyout",
-    "logistics",
-    "security"
-   ],
-   "summary": "Security concerns scupper COSCO's buyout of German logistics firm Baird Maritime",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8e64bb2c327c",
-   "title": "German Government Blocks Cosco's Takeover of Hamburg Logistics Firm Zippel",
-   "original_title": "German Government Blocks Cosco's Takeover of Hamburg Logistics Firm Zippel",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaam5sUzU1RVlRWDVkY0Viei1HWXZ3ZzR5eVVkaVZNMEF4bDRhRmhHV2hQTDJYX1Y5WEMxNkU4RDFRRlFUa0pvRm05aVlVclk3ZmUxd1Jsc3plZXFfVE1ZRWhQamZLMDYtM2NGSXJ0dDR2UVRrWVE?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-10-07T18:06+00:00",
-   "added": "2026-10-12T08:02+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "hamburg",
-    "logistics",
-    "takeover"
-   ],
-   "summary": "German Government Blocks Cosco's Takeover of Hamburg Logistics Firm Zippel BigGo Finance",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "27f9a9721217",
-   "title": "Golar picks NYK carrier for fourth FLNG conversion",
-   "original_title": "Golar picks NYK carrier for fourth FLNG conversion",
-   "url": "https://splash247.com/golar-picks-nyk-carrier-for-fourth-flng-conversion/",
-   "source": "Splash247",
-   "published": "2026-10-07T18:04+00:00",
-   "added": "2026-10-07T18:12+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "acquire",
-    "acquired",
-    "carrier",
-    "lng",
-    "vessel"
-   ],
-   "summary": "Golar LNG has acquired a 2013-built LNG carrier from Japan’s NYK Line for conversion into its fourth floating LNG unit, filling in a key missing piece of its $2.45bn expansion programme. The Nasdaq-listed FLNG specialist has agreed to buy the 177,427 cu m Grace Dahlia, which will become the donor vessel for the 3.5m tonnes per annum MKII FLNG ordered at China’s CIMC Raffles in August.No purchase price was disclosed. The acquisition gives the new unit around 20% more LNG storage than FLNG Esperanza, Golar’s first MKII design, which is already under conversion at the same Yantai yard. The Grace Dahlia will be converted alongside Esperanza , with the fourth FLNG scheduled for yard delivery by the end of 2029. Splash reported in August that Golar had taken final investment decision on the fourth FLNG, signing an EPC contract with CIMC Raffles worth about $2.45bn on a fully delivered basis. The repeat MKII design follows FLNG Esperanza , which is being created from the former 148,500 cu m LNG carrier Fuji LNG . Conversion is scheduled for completion in late 2027 before the unit heads to Argentina for a 20-year charter with Southern Energy starting in the second half of 2028.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "8ed2df2e4ddd",
-   "title": "Why Germany Finally Drew The Line On Chinese Port Investments",
-   "original_title": "Why Germany Finally Drew The Line On Chinese Port Investments",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOXy1kYVdqNERoM1VMSTU5eVBVbTRjcWtZY2MzWkZvUmJNUDNrWm5BcjNoOFVYN3Flczk0dlFLUGhWbVlLTmI2WVFVTWV0NjRRR3BMLU9YZ3M5aWZ1TzVfTHdPU09mNkh0Q2ZOSWlSWkFEWVlUWm9sVmJDYzB5aWJIOQ?oc=5",
-   "source": "ИФЗ РАН",
-   "published": "2026-10-07T17:49+00:00",
-   "added": "2026-10-07T20:44+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe",
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "port"
-   ],
-   "summary": "Why Germany Finally Drew The Line On Chinese Port Investments ИФЗ РАН",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
