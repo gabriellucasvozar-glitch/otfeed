@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T14:04+00:00",
+ "generated_at": "2026-10-12T14:33+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "216769c2973a",
+   "title": "Ammonia brings the terminal into bunkering during cargo work",
+   "original_title": "Ammonia brings the terminal into bunkering during cargo work",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObkN0XzNBUGEzUkRpb3FUSkNYa1N4SEJQemdzM2FvZXYxVk01RDV5VmltZEdmSlNNWW5DbDlZQjJOVEg4bWo3U3FqT0ZteFV4VDhVZWpwXzNwSXp5NXZnMzNwRGoycFoyTkhrYVN4aDdvSXNnWk0xSDJTcmJUbVRXUmppYkZOLUlvRmJZTURqcVZKRm9lRVhIZHFQV09QSUNVcm93OFRR?oc=5",
+   "source": "Container Management",
+   "published": "2026-10-12T14:25+00:00",
+   "added": "2026-10-12T14:33+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia",
+    "bunker",
+    "terminal"
+   ],
+   "summary": "Ammonia brings the terminal into bunkering during cargo work Container Management",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "2294deb2cfa6",
    "title": "Puerto Quetzal adds two Liebherr LHM 550 cranes",
@@ -16604,34 +16632,6 @@
    ],
    "summary": "Jones Act Waiver Expires Nov. 15: What It Means for Fertilizer The Scoop -",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f2fae34cfff6",
-   "title": "War-Diverted Traffic Is Reshaping NEOM’s Port. What Happens If Hormuz Reopens?",
-   "original_title": "War-Diverted Traffic Is Reshaping NEOM’s Port. What Happens If Hormuz Reopens?",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JVDZER0k1elF1X1hOSzJwbXVCVW1hcWVUREE1b3laS2NDTnpGOEpqSkx6ZnFnVlNNQ1BXZGgxSGxiODN2NHJvSXBsMW92MTBfdl9HT2NQaE1oUHFLbE9IUTZIOVM4RzNwcWZuSjAzQWYyazYtYjFnYjRB?oc=5",
-   "source": "Windward",
-   "published": "2026-10-07T19:07+00:00",
-   "added": "2026-10-11T22:20+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "port",
-    "war"
-   ],
-   "summary": "War-Diverted Traffic Is Reshaping NEOM’s Port. What Happens If Hormuz Reopens? Windward",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
