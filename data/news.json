@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T20:23+00:00",
+ "generated_at": "2026-10-12T20:48+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,121 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6ef441caec46",
+   "title": "Britain urges ships to prepare for life without reliable GPS",
+   "original_title": "Britain urges ships to prepare for life without reliable GPS",
+   "url": "https://splash247.com/britain-urges-ships-to-prepare-for-life-without-reliable-gps/",
+   "source": "Splash247",
+   "published": "2026-10-12T20:29+00:00",
+   "added": "2026-10-12T20:48+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "shipowner",
+    "shipping",
+    "spoofing"
+   ],
+   "summary": "Britain has warned shipowners that satellite navigation can no longer be taken for granted in some of the world’s busiest shipping regions, urging crews to practise navigating without GPS as jamming and spoofing become increasingly widespread. In a new Marine Guidance Note, MGN 719, the UK’s Maritime and Coastguard Agency (MCA) warns that interference across the Baltic, Black Sea, Middle East Gulf and parts of East Asia means satellite-derived positioning, navigation and timing information can no longer be relied upon everywhere. The warning extends well beyond electronic charts. The guidance urges operators to identify precisely which systems depend on satellite-derived data, establish procedures for detecting interference and regularly drill crews in alternative navigation methods. Maritime intelligence firm Windward’s latest figures show an average of 5,131 GPS jamming incidents a day during the third quarter, with more than 124,000 individual vessels affected. More recently, SplashTech reported how four tankers in the Black Sea had apparently broadcast positions placing them in Lima, Peru, more than 12,000 km away. Separate monitoring identified 1,702 impossible position jumps involving 379 vessels in the Gulf of Oman over a single week in September.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "98f14a554258",
+   "title": "Europe’s shore power deadline is racing ahead of the grid",
+   "original_title": "Europe’s shore power deadline is racing ahead of the grid",
+   "url": "https://splash247.com/europes-shore-power-deadline-is-racing-ahead-of-the-grid/",
+   "source": "Splash247",
+   "published": "2026-10-12T20:23+00:00",
+   "added": "2026-10-12T20:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "regulation",
+    "equipment"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "port",
+    "ports",
+    "quay",
+    "regulation",
+    "shore power"
+   ],
+   "summary": "Two EU regulations will require ports to provide shore power and ships to use it from 2030. But with grid upgrades taking up to a decade, the infrastructure needed to meet the deadline is struggling to keep pace. AFIR tells TEN-T core and comprehensive ports above a traffic threshold, not only the big hubs, to put shore power on the berth for 90% of qualifying container and passenger calls. The 90% test is still ahead of the cable. Rotterdam is aiming for the second half of 2028. Article 6 already lists the misses: no point, not enough power or grid stability, incompatibility on a certified ship installation, emergency. From 1 January 2035 those availability exceptions tighten to the lower of 10% of a ship’s annual calls or ten calls, unless the company shows it could not reasonably have known. The visible shore bill is still stacked against the auxiliary engines. There is no sign of a general 2030 delay.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "4f002898b490",
+   "title": "ABS, U.S. Energy Department Team Up on Nuclear-Powered Ships",
+   "original_title": "ABS, U.S. Energy Department Team Up on Nuclear-Powered Ships",
+   "url": "https://gcaptain.com/abs-u-s-energy-department-team-up-on-nuclear-powered-ships/",
+   "source": "gCaptain",
+   "published": "2026-10-12T20:02+00:00",
+   "added": "2026-10-12T20:48+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Photo caption (L to R): Ted Garrish, United States Assistant Secretary for Nuclear Energy, and John McDonald, ABS Chairman and CEO The American Bureau of Shipping (ABS) and the U.S. Department of Energy (DOE) have signed an agreement to advance the use of nuclear power in commercial shipping, including nuclear-powered vessels, floating power plants and the infrastructure needed to support them. The memorandum of understanding, signed with DOE’s Office of Nuclear Energy, establishes a framework for joint work on advanced nuclear technologies and their potential maritime applications. In August, the Department of Energy hosted the launch of the International Atomic Energy Agency’s Atomic Technologies Licensed for Applications at Sea (ATLAS) initiative, aimed at developing an international framework for the safe and secure use of nuclear technology aboard ships and floating facilities. Center for Maritime Innovation convened industry and government officials to examine regulatory barriers to deploying nuclear-powered ships and offshore energy platforms. Garrish said the partnership would draw on decades of U.S. DUBAI, Oct 11 (Reuters) – The United States’ response to Iran’s seven conditions in a proposal to reopen the strategic Strait of Hormuz was “insufficient”, Iran’s security chief, Mohsen Rezaei, was quoted by state... Two more tankers have been struck in the Strait of Hormuz as U.S.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "00f7b41e3cc8",
+   "title": "New Reports Reveal Five More Ships Hit Near Hormuz",
+   "original_title": "New Reports Reveal Five More Ships Hit Near Hormuz",
+   "url": "https://gcaptain.com/new-reports-reveal-five-more-ships-hit-near-hormuz/",
+   "source": "gCaptain",
+   "published": "2026-10-12T19:27+00:00",
+   "added": "2026-10-12T20:48+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Vessels in the Strait of Hormuz, as seen from Musandam, Oman, July 31, 2026. REUTERS/Stringer Five more commercial vessels were struck in and around the Strait of Hormuz on Sunday, including a containership and four tankers, as attacks on merchant shipping continue to escalate across the region. UK Maritime Trade Operations (UKMTO) disclosed four of the incidents in time-late reports on Monday, adding to an already growing number of attacks reported in recent weeks. Four vessels were struck while transiting the Strait of Hormuz, while a fifth tanker was hit by a drone near Sohar anchorage, Oman. The reports follow a particularly violent weekend for commercial shipping in the region, including earlier attacks on tankers in Hormuz and a U.S. The new incidents also follow the release of the Joint Maritime Information Center’s October 11 advisory , which classified the security threat in the Strait of Hormuz as SEVERE , its second-highest threat category. UKMTO has urged ships to transit with caution and report suspicious activity as authorities investigate the latest incidents. DUBAI, Oct 11 (Reuters) – The United States’ response to Iran’s seven conditions in a proposal to reopen the strategic Strait of Hormuz was “insufficient”, Iran’s security chief, Mohsen Rezaei, was quoted by state... Two more tankers have been struck in the Strait of Hormuz as U.S.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "24ee1b054fb7",
    "title": "Crude oil tanker, container ship hit in Strait of Hormuz as Iran warns ships cooperating with US of...",
@@ -39,6 +154,63 @@
    "summary": "Crude oil tanker, container ship hit in Strait of Hormuz as Iran warns ships cooperating with US of... Moneycontrol.com",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
+  },
+  {
+   "id": "e8631045a4e3",
+   "title": "NPA to inspect northern inland dry ports over logistics constraints",
+   "original_title": "NPA to inspect northern inland dry ports over logistics constraints",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdXlvNjJHamNrZ2dvQ2FycjloSENHYmtsT3RVSDFVeVl2OVJIRFc3bkFERW5hRDNwSWZyZXB5OVBsZGZTTEZmVVN1bzdtNXVHRmJlNTRTN0JIUW80azNSd3pOb1ppOFZLeDJDQk1FWi1laXFXWlZrWkJFdnIwTHJYNm0wN2FXUjFncHJtYkN0MWt6YkNmaEVzZlRocHgzM1pubURyaV9TeXlhcXhn0gGyAUFVX3lxTE10NVpCRW9EX1p3Ukg4eE5xY1NTS3huNGMxcHY0Sy1PSEJESEpNSGhEakpIbUNDUmJWdVVabmRHbXI3ZHlrM0lVUkZQUjgzN1pvTm8ycmtCOWVNVzBLZEptWHNZYWtXMU5EcHdoUjIzR25IOGRCVXBvdzg3djJ4dTNNd3YwYThqU3N2dU5ad291TFhGNFZjRXdNYnVhSXRwLUQ0TjF1OFVzNFdscGtGMEhPX1E?oc=5",
+   "source": "Businessday NG",
+   "published": "2026-10-12T19:20+00:00",
+   "added": "2026-10-12T20:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "dry port",
+    "logistics",
+    "port",
+    "ports"
+   ],
+   "summary": "NPA to inspect northern inland dry ports over logistics constraints Businessday NG",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0d5d40895bef",
+   "title": "Soaring Tanker Rates Leave Americas Awash in Crude Oil",
+   "original_title": "Soaring Tanker Rates Leave Americas Awash in Crude Oil",
+   "url": "https://gcaptain.com/soaring-tanker-rates-leave-americas-awash-in-crude-oil/",
+   "source": "gCaptain",
+   "published": "2026-10-12T19:19+00:00",
+   "added": "2026-10-12T20:48+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crude",
+    "freight rate"
+   ],
+   "summary": "HOUSTON, Oct 12 (Reuters) – Dense heavy crude, which oil refiners around the world favor for its typically low cost, is piling up in the Americas as soaring freight rates have stifled exports and US refiners have been running close to their limits. The glut in North and South America has opened an unusual split in the global oil market, as buyers in Asia and Europe struggle with supply shortages and benchmark prices hold above $100 a barrel. Heavy crude is a denser type of oil that Asian, many US, and some European refineries are typically configured to process. Flagship Canadian, Colombian and Ecuadorian heavy crude grades have all eased more than $10a barrel to trade at their lowest level in six weeks, according to price reporting agency Argus Media. The cost of a tanker from the Americas to Asia rose to more than $80 million, or about $40 a barrel, last week compared with around $10-15 million near the start of the year. Cokers convert residual crude oil into feedstocks for diesel and gasoline production, and a heavier crude slate requires them to run at a higher capacity. Many US refineries are also configured for offshore Gulf of Mexico crude such as Mars Sour, rather than Canadian or Venezuelan oil that must be mixed with lighter feedstock.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "72c974ce9f90",
@@ -182,6 +354,32 @@
    ],
    "summary": "Which war has a bigger impact on diesel prices - Iran or Ukraine ᐉ News from Fakti.bg - Business Fakti.bg",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e86a1b1bfa93",
+   "title": "Saudi ammonia completes StS transfer as NW Europe production costs soar",
+   "original_title": "Saudi ammonia completes StS transfer as NW Europe production costs soar",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbEc1T3EwWFlCUWNxU1U1Um81dlFjYjFtNno3ZndSb1hVWW53QlYydGRxMHZGR3cxazFsdkhRTThhOFJ0VXRLNlF6cEtiZlF2VDh0TWhnZkhFMEMwX0x6RzYxekFqdEtFUVVHVm15cUpXZTVzdlZwN2dGOWFXUkswOTFlcXpUb0dkdDR4dlNGQUlBN0xoTjByUld4MDNmZGpldERkTk1nNjlIR1lLNWFEV2o3MGtENHZ5VHRURFEtMA?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-12T17:23+00:00",
+   "added": "2026-10-12T20:48+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "ammonia",
+    "commodit"
+   ],
+   "summary": "Saudi ammonia completes StS transfer as NW Europe production costs soar Quantum Commodity Intelligence",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16441,201 +16639,6 @@
    ],
    "summary": "Azerbaijan calls for infrastructure integration to strengthen Middle Corridor Operativ Məlumat Mərkəzi",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3ed5878bb70c",
-   "title": "India condemns attack on ship carrying Indian crew in Black Sea",
-   "original_title": "India condemns attack on ship carrying Indian crew in Black Sea",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTllDU3pPb2hmTVpCcjRjOV82Wk5kV1JCVzVZdEhHOXpNa3hLV2UyQWRwQWY3VUd6RmhpUUQ3RHFudDNtaUFxVjkybUN5U195YTdCSDEyLU1BUnNMVHc0ZGt4UGExd1h2QUlRUnhaR2ZVazRNMXgtaGVENDhRRE1GY2JUM2Y5eEJXaGVoRWFWZlZfQi1heF9DR3FJVFg1T1R6dV8wMHBja3ZITkMtaW9KSFQ3ajlnTGFx?oc=5",
-   "source": "India Shipping News",
-   "published": "2026-10-08T03:44+00:00",
-   "added": "2026-10-08T04:08+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Asia"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "shipping"
-   ],
-   "summary": "India condemns attack on ship carrying Indian crew in Black Sea India Shipping News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a209e5837397",
-   "title": "US CENTCOM rejects Iran's claim of Hormuz closure, says 20 million barrels of crude moving through",
-   "original_title": "US CENTCOM rejects Iran's claim of Hormuz closure, says 20 million barrels of crude moving through",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOa0lBVndqX0EzMGJET25UZWs1U0hhYnB2ZUttejhZOHlyaWVwZ045YVo2bDlTS0IyaEc3MTVIUEJIVFFIUVQxa2syNjdnQUNGUTc0YUttZF9TSGM4bVRZeHR5UkxUTW1saXdXOUJQRnBwQUdoUlZpWlhFM2hiRDNCUkRvMUdhYy1Ja0lXMnlKcFZPSXJxTUx5dTF2emU0clVUZEhmbEVzX0k5VjRWVU9LTDNKczdvdVdvU1U1YUpYcU9rS1gtWmRqQUI1X1hyX0dLWFMtcEhOVmV2N1ZESVBCeElsTWQ?oc=5",
-   "source": "India Shipping News",
-   "published": "2026-10-08T03:41+00:00",
-   "added": "2026-10-08T04:08+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "crude",
-    "hormuz",
-    "shipping"
-   ],
-   "summary": "US CENTCOM rejects Iran's claim of Hormuz closure, says 20 million barrels of crude moving through India Shipping News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "467428d85e80",
-   "title": "Payra Port Adds Five Cranes as Direct Mother-Vessel Operations Resume",
-   "original_title": "Payra Port Adds Five Cranes as Direct Mother-Vessel Operations Resume",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SalJJSHhkT3JMWkVaMjktT294TTc2dzRHZDRjem4tMGM0dmxObDNCZjBGaWp5Y1FTM2ZONmRyc1hveVI2MEIyYlNjU29tZ1ZUMnFJXy0tOHJLTjZjQWVlU25SRjU4Zw?oc=5",
-   "source": "Maritime Gateway",
-   "published": "2026-10-08T03:39+00:00",
-   "added": "2026-10-12T08:02+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "port",
-    "vessel"
-   ],
-   "summary": "Payra Port Adds Five Cranes as Direct Mother-Vessel Operations Resume Maritime Gateway",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ac5c21881df4",
-   "title": "Bumper crop of grain shipments pushes up North Vancouver port export volumes",
-   "original_title": "Bumper crop of grain shipments pushes up North Vancouver port export volumes",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaXp3ejhILVlQMmpZM3ZyZU43SzNRQlEwS2pYWUxENEg3MkRjMGdMUjNiaWY2Mk12VUVNcmJ3bDN5V2pNdVlyNE51NGE3X3pVZmR1X0NnajM3blZfWnozdWQ1bU9rX0t2M3pVNzRVRkVWYjN3UEhhd1pxTGdXQXBMT1RtN3lic2lUaUFtYnpUbWlBenQ3QWpqRG9fY1pIMFJRb2h3Q0ZxUmh6TW9LT0xSNUxZY0dQQ2hWNmhPQUlvY2pTRjlyMDYwam1PZw?oc=5",
-   "source": "Business in Vancouver",
-   "published": "2026-10-08T03:28+00:00",
-   "added": "2026-10-08T06:23+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "grain",
-    "port"
-   ],
-   "summary": "Bumper crop of grain shipments pushes up North Vancouver port export volumes Business in Vancouver",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "51fb6c73fc31",
-   "title": "Porty morskie napędzają gospodarkę Polski. Padają historyczne rekordy przeładunków",
-   "original_title": "Porty morskie napędzają gospodarkę Polski. Padają historyczne rekordy przeładunków",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1VDS0h2eEwydW5pRDU1bVRDTkZ3alhTOWJ3X01jamJGVnppLS1GRS1ZQVFBc1RSRy1iWkRpNnRhemN3R1Zwb2NHYjhHV1lxRDBadm8zTVlMLVd3dmZWakpwUzU5UENQUmdzN085cmdWem51aUc2V1JqREdPQ01VT1RCOUlMRmZXOUtsSkkzRm9SYTBMWllFMWNZZG1iYzFwZVptU2xCOUlXeXV4SFQ0WGhha0ZjWnFrTnV0TDllUXUwY1k?oc=5",
-   "source": "trojmiasto.wyborcza.pl",
-   "published": "2026-10-08T03:18+00:00",
-   "added": "2026-10-08T03:27+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polski",
-    "porty morskie",
-    "przeladun"
-   ],
-   "summary": "Porty morskie napędzają gospodarkę Polski. Padają historyczne rekordy przeładunków trojmiasto.wyborcza.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "23162660f085",
-   "title": "From cargo to clean fuel: How India’s Kandla Port is becoming a global refuelling hub for the green shipping era",
-   "original_title": "From cargo to clean fuel: How India’s Kandla Port is becoming a global refuelling hub for the green shipping era",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGlTMXhJUW9vYjIzYjY0Y1o4Mk85UGtmX0xZbWNpdU42SUxfTnRlYzQzMjUxMlV2TS1seDNlaF9JUzJoUklWOGUxNEMxU2ZrLTNzMHcwU0dGQkRaSmt6NVJYdnl5cUNzSk9HWHdKV0p2SkZDYUljU3pqT1IwLVZ2OXp3aGJyTDJreTE1UUNYdUZBU2t4WDMxUXRKRG40ZzTSAaQBQVVfeXFMT3RYYmt5U2hDdVBIeGhIdDVJeHp5T09fY0Zja0Z3ZWNyVUY0bnA4RFpCYnhxNDJoLXZab2YySjh3Vzd4VTJOcnljMXZscmR3M0hlQy12dGZFY3R5MEthaGxoX2RXNXBZRzkwTmFYU3RMb0dEazhLd3FfY09zVHZlNElhZE1JUjZqbnl2Wkd1YTk5UFV6M2pmcmkwRE5yNHJvYk9FWGE?oc=5",
-   "source": "Organiser Weekly",
-   "published": "2026-10-08T03:09+00:00",
-   "added": "2026-10-08T03:50+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "shipping"
-   ],
-   "summary": "From cargo to clean fuel: How India’s Kandla Port is becoming a global refuelling hub for the green shipping era Organiser Weekly",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a9617a79176a",
-   "title": "Italian and European stainless mills kept scrap purchases limited in S",
-   "original_title": "Italian and European stainless mills kept scrap purchases limited in S",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUDA0UzVZTEw2S2VpSGl3TEY3X1ZWM0hFbmhxY09XNER3dER3YlpUYXRqaUN5c1RaaDBPSktCaEQ3MTNKRnFYckJYTEZVRnBqM0w1UEduTEFwRWNlclZ6b3h4NktHelZoRUZvODJWRTNCOF9Vd09FdU4ycC1mSUk4YVh3aGNrQ0tGaGtOYnRYZGRRamVUemlleS1aaE5YUUE0WHpZT24xczNJQUVBbXg1WXQtN2hpWTY3LWFkTGxQdnF1ZVZqZXQzZ29QdUNscTZiV1F4dzB3aFdVTVVtUlJwbV9R?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-08T03:06+00:00",
-   "added": "2026-10-08T03:50+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "scrap"
-   ],
-   "summary": "Italian and European stainless mills kept scrap purchases limited in S Shanghai Metals Market",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
