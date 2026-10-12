@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T16:57+00:00",
+ "generated_at": "2026-10-12T17:20+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "3eb5d703083b",
+   "title": "ISM coasters and mini bulkers – Week 41",
+   "original_title": "ISM coasters and mini bulkers – Week 41",
+   "url": "https://www.hellenicshippingnews.com/ism-coasters-and-mini-bulkers-week-41-4/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-12T17:00+00:00",
+   "added": "2026-10-12T17:20+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "bulker",
+    "shipping"
+   ],
+   "summary": "The Black Sea coaster shipping market has once again hit a rough patch, but this time it does not concern the already notoriously Source: International Seaborne Market",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "cacc44aa5295",
    "title": "Central Poland’s warehouse market grows beyond Łódź",
@@ -1097,6 +1125,38 @@
    "summary_method": "feed"
   },
   {
+   "id": "52d1e7692a90",
+   "title": "Djibouti’s ports face rising costs amid Red Sea shipping disruptions",
+   "original_title": "Djibouti’s ports face rising costs amid Red Sea shipping disruptions",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzYxZzdNdWZUSnFrVFZJNUR1cFhuRjRpM3RMcWFXUFhMVVNqX21CV0xMek1vUmZIdmR0OE4xMTFXZGpUc0lyekZHWXN6b084b3hjZ0FlaFFHTnlqXzRITzdBY194cHpZVTJjTDJvMFhuRGVQeW1ZWGFfUXJPNEQtd0prMmdsRWFPX2FfTXY2RC1EYlRRaVlGOE9MeXlhNFhzZ0ZaOWJLSVNpclk?oc=5",
+   "source": "Capital Newspaper",
+   "published": "2026-10-12T10:09+00:00",
+   "added": "2026-10-12T17:20+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics",
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "disruption",
+    "port",
+    "ports",
+    "red sea",
+    "shipping"
+   ],
+   "summary": "Djibouti’s ports face rising costs amid Red Sea shipping disruptions Capital Newspaper",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "5d7fe608cf5c",
    "title": "Gulfport and Pascagoula ports return to normal operations after Hurricane Isaias",
    "original_title": "Gulfport and Pascagoula ports return to normal operations after Hurricane Isaias",
@@ -1433,6 +1493,31 @@
    ],
    "summary": "Freight Forwarding Market Sees DSV Complete €14.3 Billion Schenker Acquisition openPR.com",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0d4c00e12170",
+   "title": "200 nowych miejsc pracy w największym magazynie Lidla. Otwarcie – wiosną",
+   "original_title": "200 nowych miejsc pracy w największym magazynie Lidla. Otwarcie – wiosną",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSUVtUnl1RHh2TzVzWFBvdlpUclBwWkNYUDRrXzYtbzd0b3FGVDV6OVF1Sko3cTNYM0Q5QzZJUjhmVTM3YnRnSGJRUmNxUUxONmxRdlVOTGdLUFZFaHlfUkNFdFJ1WDNPX0dVd214el85dVI3LTl6VnFDNWJvbUhGREdsQXhJbTU2cFdHTHM0NGlXNmxUUHVDZkROVk5uNVFpbDAw?oc=5",
+   "source": "Inżynier Budownictwa",
+   "published": "2026-10-12T09:34+00:00",
+   "added": "2026-10-12T17:20+00:00",
+   "lang": "pl",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "magazyn"
+   ],
+   "summary": "200 nowych miejsc pracy w największym magazynie Lidla. Otwarcie – wiosną Inżynier Budownictwa",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16545,86 +16630,6 @@
    ],
    "summary": "Port of Helsingborg scores two new electric reach stackers from Kalmar Electrek",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f0fc88108e36",
-   "title": "ATI, DP World commission six new hybrid cranes at MSH",
-   "original_title": "ATI, DP World commission six new hybrid cranes at MSH",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdHNRWHZuUnNucDJzekpvekJQMnVfemMxcE1KV0RvRDVwSDJBamZ6MVpveFdhaTFuLXV2cV9PRzFEdzdtemJNRjlITGg4WkhfQUNCWEFYLVpJSEhvaDBIbnhtY3NRbi05dVZVSHk0V3ZxakJrc2JYdl91U0VRMVFaOTRaS0NmcFFRVUYzYjhvS19JSHJHTXNkTFR3?oc=5",
-   "source": "BusinessMirror",
-   "published": "2026-10-07T22:00+00:00",
-   "added": "2026-10-07T23:17+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "cranes"
-   ],
-   "summary": "ATI, DP World commission six new hybrid cranes at MSH BusinessMirror",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5239b42e9465",
-   "title": "How the Ukraine War Is Leaving Wheat to Rot",
-   "original_title": "How the Ukraine War Is Leaving Wheat to Rot",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYl8wVGdua21Hdy03UWo3Z1huTnVneGhFNFE1VjV5eVZDZmt0aXJydTJCOVMxbHJOcjhHZjBjMUNyNF9wVU8xLXN6VTgzYUFMSjRnQzZxTUlmREF5N0h5VlZ5UWJ0d1N1UXgzbXhFcmVFTnpVSjVqWWx4TFl4cjVZVFJfZ1FQdGc?oc=5",
-   "source": "The National Interest",
-   "published": "2026-10-07T21:43+00:00",
-   "added": "2026-10-10T18:24+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "ukraine",
-    "war",
-    "wheat"
-   ],
-   "summary": "How the Ukraine War Is Leaving Wheat to Rot The National Interest",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ca1e05d4a86a",
-   "title": "C3 sale: New owner InfraRed Capital Partners eyes expansion of ports provider",
-   "original_title": "C3 sale: New owner InfraRed Capital Partners eyes expansion of ports provider",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQmZ3UktHVnJNRkFWU2VJMGhOU2phM3ctb1ZIZkRrLXJzazRFdlQ5cC0wZjVfRlFvMnhKRnI4Y2x6ZzZvMjlJMWVibU1sTVFZLVBaR3FKZ0ZWNFJhWk44bTlvTEQ0ZkljX3lvdHQ4WUJBeDdaTnM4MEdKeVdlS2lOOUtoUjd0Zk1BN2dkOS13U05PQ2czTjQxLS1hRW5LSGs3dUw1enN2c3RzMW9Tc0I3VUxPTkR0YVRrdkY4?oc=5",
-   "source": "BusinessDesk | NZ",
-   "published": "2026-10-07T21:40+00:00",
-   "added": "2026-10-07T23:17+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "C3 sale: New owner InfraRed Capital Partners eyes expansion of ports provider BusinessDesk | NZ",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
