@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T15:52+00:00",
+ "generated_at": "2026-10-12T16:12+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,32 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "cacc44aa5295",
+   "title": "Central Poland’s warehouse market grows beyond Łódź",
+   "original_title": "Central Poland’s warehouse market grows beyond Łódź",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb2ZHc0t0eGc3WDNVMzY1cTdYNFRYMVk1NDEwWE9iSm1jNWlLQlJUUHVoNlpycl9DcDIzUXRLTzU2RFh6UGh2R1RmWHFsdjY1NHZwOG45QjN1MnN6bGpwS3NobjBCNzNGdWlCaGNCSzhtX1NEV1c4OUV0MkU4SGE5Q3VVS3o4UHFPdEVwMnQxXzRFd1E?oc=5",
+   "source": "EurobuildCEE",
+   "published": "2026-10-12T16:09+00:00",
+   "added": "2026-10-12T16:12+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "poland",
+    "warehouse"
+   ],
+   "summary": "Central Poland’s warehouse market grows beyond Łódź EurobuildCEE",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "1828c40e9f47",
    "title": "From reactors to shipping: Rosatom tightens its grip on Russian transport",
@@ -16588,35 +16614,6 @@
    ],
    "summary": "Poland has 3,800 km of inland waterways, but they carry just 0.01% of freight CEO Magazyn",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ad4eca99802a",
-   "title": "Budimex wins another Port Polska contract worth up to PLN 54m",
-   "original_title": "Budimex wins another Port Polska contract worth up to PLN 54m",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1k0a2pmMHFJTVlLVWY2V0VCQWJxNUhiYjFBN1N2LTF4cVlGbDhTaHQtV3VEQWY0OUlfVlZfZ0Y3VS1aaE5QbnFFWlNiN1lyWXNPWnJ6aVY0cnI1aF9URS1WTjBrTElWTnJzOFA5ZHRmRmhnWFlZNEU3aGNsQmhpc3o3SGxJZGxZdFE?oc=5",
-   "source": "CEO Magazyn",
-   "published": "2026-10-07T21:02+00:00",
-   "added": "2026-10-10T02:43+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "ports",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "magazyn",
-    "polska",
-    "port",
-    "port polska"
-   ],
-   "summary": "Budimex wins another Port Polska contract worth up to PLN 54m CEO Magazyn",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors. Involves a Polish port.",
    "summary_method": "feed"
   }
  ]
