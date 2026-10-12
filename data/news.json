@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T06:02+00:00",
+ "generated_at": "2026-10-12T06:36+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,65 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "04f02bcc2da2",
+   "title": "Hapag-Lloyd suspends bookings to three Philippine ports as container crisis deepens",
+   "original_title": "Hapag-Lloyd suspends bookings to three Philippine ports as container crisis deepens",
+   "url": "https://splash247.com/hapag-lloyd-suspends-bookings-to-three-philippine-ports-as-container-crisis-deepens/",
+   "source": "Splash247",
+   "published": "2026-10-12T06:16+00:00",
+   "added": "2026-10-12T06:36+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "shipping"
+   ],
+   "priority": "high",
+   "score": 16,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "carrier",
+    "congestion",
+    "port",
+    "ports",
+    "shortage",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "Hapag-Lloyd has suspended new bookings to Manila, Batangas and Subic Bay until the end of December, as worsening congestion and a chronic shortage of empty-container storage capacity disrupt Philippine supply chains. The German carrier stopped accepting bookings to the three gateways from all origins and across every trade lane on September 29, citing severe constraints on container returns. Existing bookings may also face cancellation or revised arrangements. The crisis centres on the Philippines’ longstanding trade imbalance, with significantly more laden containers arriving than departing, leaving carriers struggling to find space for empty boxes. Philippine Ports Authority general manager Jay Santiago has urged foreign shipping lines to establish additional empty-container depots, describing this as the quickest solution to the worsening logistics bottleneck. Mary Zapata, president of the Confederation of Truckers Associations of the Philippines, told local newspaper Daily Tribune that some operators have waited as long as 40 days to return empty boxes. The problems triggered industrial action earlier this month, prompting the Philippine Bureau of Customs to acknowledge the severe pressure on truckers, customs brokers, importers and exporters. Subic Bay waiting times, however, remain below 12 hours, while Batangas operations are described as normal.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "f7840c49157a",
+   "title": "[SMM Iron Ore] Firmer spot lifts import margins as stock builds weigh on prices",
+   "original_title": "[SMM Iron Ore] Firmer spot lifts import margins as stock builds weigh on prices",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYWV2d1NBb3JvSUpzLU1WeGZHN2txNFlGNFRkU28tNjFjd2pvV2RScjZROVhCdXJIVXJwVDNOSnZIV1JoOVliWW1GQ28tbkxDbjVGVEs3UGRQOUlxYlRQUU9rMUxfbmZ2MmpWWFZoNEdlcDNTTGxrcTFXdXNxUkp6M3VjQ2xuWkUwMWlhU1E4cjdoZ0dEMHFnYm9zRHF2T21SZ2V4SVlXQlluckFxM2oyeXRkbUgtUFMycC1PSnVkSQ?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-12T05:46+00:00",
+   "added": "2026-10-12T06:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "iron ore",
+    "prices"
+   ],
+   "summary": "[SMM Iron Ore] Firmer spot lifts import margins as stock builds weigh on prices Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "4fabf333d298",
    "title": "Re-thinking the economics of potash",
@@ -39,6 +98,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "7e969dc12ab0",
+   "title": "Terminal CPK: jedno z pięciu konsorcjów rezygnuje przed złożeniem oferty",
+   "original_title": "Terminal CPK: jedno z pięciu konsorcjów rezygnuje przed złożeniem oferty",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTmU5Z3otREJTSnBoc0VYTnRGa3o1OGp4QkNyN2tZVW5zZzRYRG9KUEpFb1pKMURWY2YtampxSmpoYjQ4R01lNjJQTU9GVWNxTy1YX3I1MnZWSGhJTlk0clBKQ0RTajUtUmpOcnBmLVRZOTdaZHFLaWVRZGZBLUpaNHBQSGFORmI3SFNNSk9GOURnQ0tRQTczeVFsR2FuUVV5Nko0?oc=5",
+   "source": "InfoBus.pl",
+   "published": "2026-10-12T05:30+00:00",
+   "added": "2026-10-12T06:36+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Terminal CPK: jedno z pięciu konsorcjów rezygnuje przed złożeniem oferty InfoBus.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "330e06331353",
    "title": "Czech business eyes new opportunities along Middle Corridor - Interview",
    "original_title": "Czech business eyes new opportunities along Middle Corridor - Interview",
@@ -62,6 +146,35 @@
    ],
    "summary": "Czech business eyes new opportunities along Middle Corridor - Interview Trend News Agency",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1ab135e2b167",
+   "title": "Tanker Attacks Escalate as US Forces Disable Cargo Ship in Gulf of Oman",
+   "original_title": "Tanker Attacks Escalate as US Forces Disable Cargo Ship in Gulf of Oman",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVFA4bXRYeG9mbnJkd1FmOTU4ZUdnRW8weWNRdy1SVXFoZHdIVlJORXhLeDBGU2RkMjN4ekJFNHZvXzhVYUNmeFBodGZHb3pwZG50TEwxazRsMkx4bklGXzBZS2lVS01EdGNmck1LQzMxUDRrcENQbEZXc0gwTnowLUxaOHNrWEpXV00xVGxNMVJaRHgteEd2YUQ1WW1Lai1qbTRZ?oc=5",
+   "source": "Ships & Ports",
+   "published": "2026-10-12T05:24+00:00",
+   "added": "2026-10-12T06:36+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East",
+    "North America"
+   ],
+   "tags": [
+    "attack",
+    "port",
+    "ports"
+   ],
+   "summary": "Tanker Attacks Escalate as US Forces Disable Cargo Ship in Gulf of Oman Ships & Ports",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -138,6 +251,31 @@
    ],
    "summary": "AIIB supports Middle Corridor transformation into integrated transport network (Exclusive) Trend News Agency",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0c01ca18c118",
+   "title": "European Steel Stocks That Could Gain If Energy Costs Ease",
+   "original_title": "European Steel Stocks That Could Gain If Energy Costs Ease",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMEFMczhHa0t4UWxOYlZIekdudFRQMS1lNkJlZnJtSDZNb3V2RzlBS0NyZXdxR3pBbm82bGpobnBlSFJsdG8yenFRQ3lHbzVRZFdSbTlFUUZXSTNtOUFzTXpLY0JOYTBOcUt5dHVseEYxVnNDUkJXSi1xUDFobXFfYUU4bHppaVZTSWxXcEw4bWI5am5UMjZWa0RqMEhjTTZJSGZyYkYzbjRzR3otcl82ZXFpRUFYRzNjV3dmYVFPbDZKakVGYTJac2dzWdIB0AFBVV95cUxPbmZwMzFhNldJNEx0SXlTb1ZOeFBwNnlBNjVLLUZNaHE1QlFrMk5YVk9lbC0zTVdCc0RvdEU1RU5wdHVsbmtkX29pSHhzZlc2WXdSdlZDWW1sOUpKTEZRMFNFcFVMQ0daTUVldXNVVldzMUZfbGZzVmpzRkgxdGpjdnA1RUNUeGJDT0pjWFl1ZGkwX3BDZ2VlQldYUEJlN0dJZzQ5MERTYnN5dWNrLXZMUWdBcWxmR3pBdXRSdS1ocHkzY2FnX0g5T0VkSWdIaEFy?oc=5",
+   "source": "Simply Wall Street",
+   "published": "2026-10-12T04:04+00:00",
+   "added": "2026-10-12T06:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "European Steel Stocks That Could Gain If Energy Costs Ease Simply Wall Street",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -2207,6 +2345,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "7bc704cb75b4",
+   "title": "Brazil Soybeans 7.3% Planted, Production 180.0 Million Tons",
+   "original_title": "Brazil Soybeans 7.3% Planted, Production 180.0 Million Tons",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaC02dEdBZXdyM0JmQUI3a3ZUUlBuNEhQdVFmVGllSnpSVzRZNDYtTUdsSVk0UEhSR1A4c2ZmR25TdDNwRE9lcmszdERuX1VPc25TNThpYzFvUDRRbU9ndlk3ZWxJc25LMWM3OFZvQnY5TmVuZFkwa015d3NWdTFCX3dpbVgyNXhQd0piQ3lsR2w2NEpGRHRraVRac1RwLTlxdGlQbGZlNncwZjYtWVlVSw?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-10-10T15:34+00:00",
+   "added": "2026-10-12T06:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "soybean"
+   ],
+   "summary": "Brazil Soybeans 7.3% Planted, Production 180.0 Million Tons Global Agriculture",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "5e44d191962c",
    "title": "Off Highway Electric Vehicle Market Forecast to 2035: Mining and Construction Electrification to Drive Growth",
    "original_title": "Off Highway Electric Vehicle Market Forecast to 2035: Mining and Construction Electrification to Drive Growth",
@@ -3014,6 +3177,33 @@
    ],
    "summary": "Konecranes sets Port Solutions a market-share target and leaves its margin floor at 9% Container Management",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "63ee0feb1cb8",
+   "title": "USDA Corn Forecast Sends Futures Down More Than 4% as Soybeans Defy Selling Pressure",
+   "original_title": "USDA Corn Forecast Sends Futures Down More Than 4% as Soybeans Defy Selling Pressure",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbDVnNjFNRVZXcnl2UU1vQ0JTbUh4OW9Yck1nMW1kanMzQWJVV21HZXJvLXI0NTFsdnc1SFlxTEhxc29TbWtjanB6anR3V2lobVA3MW1Jd3dUcTVJU1V0anYxVUNTSjBXWW5EdG91S1k3WWNPblh2V2JTN084Z0w5bzBrd3g0ZG95MHVtY1Nfa3QxT1dTMGc?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-10-09T21:05+00:00",
+   "added": "2026-10-12T06:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "corn",
+    "futures",
+    "soybean"
+   ],
+   "summary": "USDA Corn Forecast Sends Futures Down More Than 4% as Soybeans Defy Selling Pressure AgroLatam",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -8082,6 +8272,31 @@
    ],
    "summary": "Corn, Soybeans and Wheat Face Tighter Supplies and Market Uncertainty Grain Journal",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4f7728a4bf42",
+   "title": "Emergency Contingency Surcharge increase on S5S trade route effective November 2026",
+   "original_title": "Emergency Contingency Surcharge increase on S5S trade route effective November 2026",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNzZLa0ExbWdCdkRqZ2lRR1JOX2lSRTNqcWxpQllvb1I0bXR2Qnprdl8tV3FmSnpwWU4xYmctcHlSLVFtZDNHNmQtUlMyQm9tNmRUMXMxZGVsMEhNN2poMnZRWXpzZmtkbEZEZTZXTDNJdENDYjNMRnNKazVEUFowSnhLcFJjakViWXhQeHI4NHBKeE56RkRqb013VDI5YXZXVl9GaVNRcTJZd3FrOTQ5ZldrbTExLVN1eWRNbzhYQTl1S29nNnhmdGNNOFFsNzB3b0JCdHJ4YU5ZZw?oc=5",
+   "source": "Data Portuaria",
+   "published": "2026-10-08T20:48+00:00",
+   "added": "2026-10-12T06:36+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "trade route"
+   ],
+   "summary": "Emergency Contingency Surcharge increase on S5S trade route effective November 2026 Data Portuaria",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -14714,6 +14929,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "99b3006a85d3",
+   "title": "Brazil’s Conab Projects Record Soybean Crop as Planting Lags",
+   "original_title": "Brazil’s Conab Projects Record Soybean Crop as Planting Lags",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbi1RdkMtdWlfRXdGQXlrVVFnVy1kMDBQOWhBUE1JWDgyalg2d3NjbDFVN25YcHlsZXlKWDFxT19Dbm1DX1Byakl5TWV4Zkdxems3ZDVTd05FS3ZINDJuZ09ZTmxJaHFDZkdFRXpBOF92RjY4ZlB2c0ZyRS1kUjNwZ2g0elFUd3NiRjQ2S3hONURUV25SUlFfMTdFTDlYU0tQU2NiM3A1XzV1emUyc2M3X0dBOA?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-10-07T16:46+00:00",
+   "added": "2026-10-12T06:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "soybean"
+   ],
+   "summary": "Brazil’s Conab Projects Record Soybean Crop as Planting Lags Global Agriculture",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "eb99d599ab81",
    "title": "Hydrogen production costs rise as gas markets strengthen",
    "original_title": "Hydrogen production costs rise as gas markets strengthen",
@@ -16373,267 +16613,6 @@
    ],
    "summary": "News Content Hub - Fairplay Towage orders new tugboat fleet for LNG terminal support Riviera Maritime Media",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a306786f066f",
-   "title": "Gallagher Bassett buys second London shipping law firm in five months",
-   "original_title": "Gallagher Bassett buys second London shipping law firm in five months",
-   "url": "https://splash247.com/gallagher-bassett-buys-second-london-shipping-law-firm-in-five-months/",
-   "source": "Splash247",
-   "published": "2026-10-07T11:00+00:00",
-   "added": "2026-10-07T11:05+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquire",
-    "acquired",
-    "charter",
-    "law",
-    "shipowner",
-    "shipping"
-   ],
-   "summary": "Arthur J. Gallagher’s claims and risk management arm, Gallagher Bassett, has acquired London-based maritime law firm Winter & Co Solicitors, continuing a run of deals aimed at expanding its marine business. Winter & Co advises P&I clubs, marine insurers, shipowners and charterers on shipping-related legal matters, with Glenn Winter and his team remaining in London under Manan Sagar, head of Gallagher Bassett’s Europe, Middle East and Asia operations. The transaction is Gallagher Bassett’s second acquisition of a London shipping law firm in five months. In May, the company bought Mays Brown Solicitors, another specialist maritime practice whose client base includes owners, operators, charterers, P&I clubs, insurers and shipyards. In February it acquired Bremen-based Reck & Co, which provides surveying, claims handling, recovery and loss-prevention services to the global transport and marine markets. Those deals follow Gallagher Bassett’s takeover of London-headquartered W K Webster in February 2025. W K Webster specialises in marine and transit claims management and operates offices in Singapore, the US and the Netherlands. The latest acquisition gives Gallagher Bassett another dedicated shipping legal team alongside the marine claims and surveying businesses it has assembled over the past two years.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a7ce08a8b37c",
-   "title": "Russia seeks to make the western Black Sea unsafe for shipping",
-   "original_title": "Russia seeks to make the western Black Sea unsafe for shipping",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFUyS2tiZVJiQnFMdHJUQ2xWcURxQVhMYVFOdUd5b1ZwLUp0aWVOd1VRekRhVmRiRktGVFVmVmU4YWFVeERfbGM4aFlfdnRTdDVYbmhLdGZrb19kS05JNF8xQjBUMDVWclQwSExOS1VsNGxpZlRzZndBU3FIczUyQnRZS0dnaDE5cXR2S1VEQ1ptZVdUN2V5eng3ai1LZm8?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-07T10:49+00:00",
-   "added": "2026-10-07T11:05+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "black sea",
-    "russia",
-    "shipping"
-   ],
-   "summary": "Russia seeks to make the western Black Sea unsafe for shipping UkrAgroConsult",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a0ead6e11f46",
-   "title": "SFL lands $275m cash haul from Trafigura tanker sale",
-   "original_title": "SFL lands $275m cash haul from Trafigura tanker sale",
-   "url": "https://splash247.com/sfl-lands-275m-cash-haul-from-trafigura-tanker-sale/",
-   "source": "Splash247",
-   "published": "2026-10-07T10:39+00:00",
-   "added": "2026-10-07T10:49+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "charter",
-    "commodit"
-   ],
-   "summary": "John Fredriksen-linked SFL Corporation has agreed to sell seven tankers to commodities giant Trafigura in a deal expected to generate about $275m in net cash proceeds and a book gain of roughly $175m. The package comprises four 2014- and 2015-built LR2 product tankers and three 2019-built suezmaxes, all of which are already on time charter to Trafigura. The existing charters will terminate as the vessels change hands during the fourth quarter of 2026 and first quarter of next year. “We have enjoyed strong cash flows from the vessels over the last five years,” SFL Management chief executive Ole Hjertaker said, adding that the company had also retained a meaningful share of the upside in asset values. SFL bought the four LR2s from Frontline-linked companies for a combined $160m in late 2021, attaching minimum five-year charters to Trafigura that added around $160m to its contracted backlog. The suezmaxes were picked up separately in 2021 as SFL made what it described at the time as a counter-cyclical tanker investment. Their disposal comes with tanker asset values and earnings at exceptionally strong levels, allowing SFL to crystallise the gains from a portfolio assembled close to the bottom of the previous tanker cycle.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "ed28ab10d66b",
-   "title": "Exports stranded as Adani Russia-embargo creates Indian air cargo chaos",
-   "original_title": "Exports stranded as Adani Russia-embargo creates Indian air cargo chaos",
-   "url": "https://theloadstar.com/exports-stranded-as-adani-russia-embargo-creates-indian-air-cargo-chaos/",
-   "source": "The Loadstar",
-   "published": "2026-10-07T10:38+00:00",
-   "added": "2026-10-07T10:49+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "embargo",
-    "russia",
-    "sanction",
-    "supply chain"
-   ],
-   "summary": "India-Russia trade, which has been active despite the US sanctions on Moscow, now faces new supply chain hurdles, according to industry sources. The biggest barrier is that the eight Indian airports, including Mumbai’s two, managed by Adani Group have temporarily suspended handling Russia-related shipments. The stoppage has already left some 150 tonnes of Indian exports for Russia – primarily pharmaceuticals, machinery, and spare parts – stranded over the past week. While there is no official word from Adani, industry watchers are viewing the abrupt cargo ban as an extended fallout of the sanctions, as it occurred a few weeks after US-based asset management group BlackRock agreed to funnel some $1bn in equity to Adani Airport Holdings. And India-Russia trade disruption is not limited to air freight: container carriers have also stopped accepting bookings from India to Russia’s Novorossiysk port, a major hub in the Black Sea, over fears of escalating drone attacks on vessels, as well as other growing security risks in the region, sources told The Loadstar . The disruption and export congestion is an added blow for Mumbai air freight stakeholders as the hub switch from the old Mumbai airport to Navi Mumbai (NMI) continues to generate controversy.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "87fe4631ec93",
-   "title": "Botas goes to market for nearly three-year LNG carrier charter",
-   "original_title": "Botas goes to market for nearly three-year LNG carrier charter",
-   "url": "https://splash247.com/botas-goes-to-market-for-nearly-three-year-lng-carrier-charter/",
-   "source": "Splash247",
-   "published": "2026-10-07T10:30+00:00",
-   "added": "2026-10-07T10:49+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "carrier",
-    "charter",
-    "lng",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Turkey’s state-owned energy company Botas has gone to market for an LNG carrier on a firm 940-day time charter as it continues to build out its gas shipping capacity. The Ankara-based company is seeking a vessel built in 2015 or later with capacity of between 173,600 and 175,000 cu m. The firm period comes with an option for Botas to extend or shorten the charter by up to 60 days. Bids are due by October 15 and must be submitted in US dollars based on the daily hire multiplied by the 940-day charter period. Botas has also set several technical thresholds. The ship must be capable of more than 19 knots, have a maximum boil-off rate of 0.1% per day on a fully laden voyage and be fitted with a full or partial reliquefaction system or sub-cooler. Owners must also provide a recent SIRE 2.0 inspection report. The tender follows another move by Botas into LNG shipping earlier this year. In April, the company sought prequalification bids for the construction of two 174,000 cu m LNG carriers, targeting experienced South Korean builders.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c6a65f820007",
-   "title": "Payra Port gets five modern cranes",
-   "original_title": "Payra Port gets five modern cranes",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSV9NRXFFV1BiV2VTcVlGLVZQaVRIVTdkVjdhLXNSSkpubmVLNEVrbDRRODhSSWZ4d2c3NjQxUl9BUDh4YXZHdEI5WHFLVHFQbFZBMlVwcWlETXNZbVQ4LWhsOXdLc3ZfcDlaeG5DbHdWUmNuWUlSWUl0V3Bzb2h2cDlrSFNCMGhPbkx2ckx3?oc=5",
-   "source": "The Daily Star",
-   "published": "2026-10-07T10:24+00:00",
-   "added": "2026-10-07T10:26+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "port"
-   ],
-   "summary": "Payra Port gets five modern cranes The Daily Star",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "11e5bda2112c",
-   "title": "CMA CGM Acquires FedEx’s Logistics Business, Deepening Its Presence in the Supply Chain",
-   "original_title": "CMA CGM Acquires FedEx’s Logistics Business, Deepening Its Presence in the Supply Chain",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xR2ZpZ0ZobUVRSnBPeEpuR2RQY0xaR3lhWVV0TGRFZVBKc1oycHFidFAyVG5JamVSeGk5cUE3dGhpU2U2S2hJS1hkVlZMVElDNU5iczRJU0hsYjFLQTVkR2M1dzFRVEdTNG11Q3lpcE4xNUU?oc=5",
-   "source": "Trans.INFO",
-   "published": "2026-10-07T10:23+00:00",
-   "added": "2026-10-08T13:46+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquire",
-    "acquires",
-    "logistics",
-    "supply chain"
-   ],
-   "summary": "CMA CGM Acquires FedEx’s Logistics Business, Deepening Its Presence in the Supply Chain Trans.INFO",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8261d598780d",
-   "title": "Panama prosecutors could do more damage to Hutchison than arbitrators",
-   "original_title": "Panama prosecutors could do more damage to Hutchison than arbitrators",
-   "url": "https://theloadstar.com/panama-prosecutors-could-do-more-damage-to-hutchison-than-arbitrators/",
-   "source": "The Loadstar",
-   "published": "2026-10-07T10:21+00:00",
-   "added": "2026-10-07T10:26+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "North America",
-    "Latin America"
-   ],
-   "tags": [
-    "council",
-    "port",
-    "ports"
-   ],
-   "summary": "Long story short: Panama’s comptroller general is sending prosecutors more audit material on former Panama Ports Company executives and former port regulators. In the CK Hutchison Panama dispute, what that criminal file eventually shows could matter more than any damages model. On Friday 2 October, Panama’s comptroller general, Anel Flores, told the Atlantic Council in Washington that his office would send prosecutors more audit material next week on former executives of Panama Ports Company (PPC), the CK Hutchison subsidiary ...",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "f463c97bdaa9",
-   "title": "Azerbaijan, C. Steinweg Group discuss joint Middle Corridor projects",
-   "original_title": "Azerbaijan, C. Steinweg Group discuss joint Middle Corridor projects",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXNIRVhPODk0cjV1ZXZEamVTd0dLcENQYmpkcVRjaXdqUkhDWFhJSDRlTlV1OTdwVkRTUE9aUlhCVDdKNmhoREpBX3Z6d0NQSGtzbElnXzAxZHRBXzZBVHZZdEJVMTl0aXBfMHlZZnkzNXo1MUlVV3ZCcURFUEdPMWhXS1pFczBvUVVQdXdJSVNGZkRHcVF0VkdXRmdpVlh6c005MGZ5MUJqQdIBqgFBVV95cUxNVXNIRVhPODk0cjV1ZXZEamVTd0dLcENQYmpkcVRjaXdqUkhDWFhJSDRlTlV1OTdwVkRTUE9aUlhCVDdKNmhoREpBX3Z6d0NQSGtzbElnXzAxZHRBXzZBVHZZdEJVMTl0aXBfMHlZZnkzNXo1MUlVV3ZCcURFUEdPMWhXS1pFczBvUVVQdXdJSVNGZkRHcVF0VkdXRmdpVlh6c005MGZ5MUJqQQ?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-07T10:21+00:00",
-   "added": "2026-10-07T13:28+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Azerbaijan, C. Steinweg Group discuss joint Middle Corridor projects Report.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
