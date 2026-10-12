@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12T01:25+00:00",
+ "generated_at": "2026-10-12T01:50+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,59 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "dde903bdc82b",
+   "title": "Hairatan railway port emerges as trade hub linking Afghanistan to overseas markets",
+   "original_title": "Hairatan railway port emerges as trade hub linking Afghanistan to overseas markets",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDVHMwWGpzUVV1c1JJLUVYSnB3QnZUX0dveE9jbzNXMzBGVTdCSlpMUFlDMVc2dlZVOUVIWTU3M05SQUVjVkR1NllKV2FRb1dSeUhLSEExM2xseWVHaXJteEZB?oc=5",
+   "source": "Global Times",
+   "published": "2026-10-12T01:17+00:00",
+   "added": "2026-10-12T01:50+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "railway"
+   ],
+   "summary": "Hairatan railway port emerges as trade hub linking Afghanistan to overseas markets Global Times",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5d5bcbc18c33",
+   "title": "A Record Harvest, but No Profit: Wheat Prices in Odesa Region Nearly Halve",
+   "original_title": "A Record Harvest, but No Profit: Wheat Prices in Odesa Region Nearly Halve",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYmFNNUdmUWVvMTRFRW1yQTN0OVpvcTBLYUlQQ2h1X2xBVmZzcTdsTzVscUtmaEZCQzUyRVcyS004cGMxZkYyemxlcmxCV0Uyc3pqckx6cXhrUmg3cVBVMmhCbTRxdFdjNmFfNHVWZkJVX2llTW4xV1RrVFNvZ29xRkE0SWJqRGJINFVtMnFyWGRLbGVReEQ3S0dScGJMZ0JMNmc2QXd4alhiRnItdHNadVdGc0Q?oc=5",
+   "source": "Корабелов.ІНФО",
+   "published": "2026-10-12T00:54+00:00",
+   "added": "2026-10-12T01:50+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "prices",
+    "wheat"
+   ],
+   "summary": "A Record Harvest, but No Profit: Wheat Prices in Odesa Region Nearly Halve Корабелов.ІНФО",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "1c9e1eb0dc5c",
    "title": "Australian resource exports forecast to hit A$422 billion as AI reshapes commodity demand",
@@ -650,6 +703,32 @@
    ],
    "summary": "3 European Auto Supplier Stocks Tied To Volkswagen Reshoring Moves Simply Wall Street",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "29a4cfc93d97",
+   "title": "US Bombs Commercial Ship as It Continues Enforcing Blockade of Iranian Ports",
+   "original_title": "US Bombs Commercial Ship as It Continues Enforcing Blockade of Iranian Ports",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONnhHQ003Y0JaZmFGdmFKM0lWeTlvN2pmWl9UcENabjFzSVhScTc2N0dMTWhZMndZenF4S2FURmVhR05neGEyeExYaWUzaEhQUW54SDg5Q3BwMXYxd3B6UVpQZHpuR0FRcmZMSFFmQ2RSZVU3YklzQmZjaUlBRjNneW5BcU9CSEljYTVVQkcxNWVBejRLUEFxaEQ0MDFoS05ybFRHVUxVNkJLWkZQVkVRT1FkWQ?oc=5",
+   "source": "Antiwar.com",
+   "published": "2026-10-11T18:36+00:00",
+   "added": "2026-10-12T01:50+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "US Bombs Commercial Ship as It Continues Enforcing Blockade of Iranian Ports Antiwar.com",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16594,87 +16673,6 @@
    ],
    "summary": "The Baltic states are calling for EUR 10 billion to fund Rail Baltica Railway PRO",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a31b2f6bccb5",
-   "title": "Leo Express suspends cross-border service to Frankfurt",
-   "original_title": "Leo Express suspends cross-border service to Frankfurt",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjFHX2pOVFdqU2Rwb0JfSEVmZ0NOcnIyQ2hUalRkdDdLamg4bW5FMDVCdHFnWnBkZHJTUmVvbzFKeUtNSElZaWtnNUpHdjB4dlMwYTQ4ZnZlMGc2Y1JSbThWT1NDenZtTDhzc29xSnNqZUd4NTFnRGd4NXd3LUt4OXhxSXdfQW5IbzBjaHZjem9GVnY0N09FbG9ZRkdTNG1tcjVJUVZR?oc=5",
-   "source": "International Railway Journal",
-   "published": "2026-10-07T09:20+00:00",
-   "added": "2026-10-07T10:26+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "railway"
-   ],
-   "summary": "Leo Express suspends cross-border service to Frankfurt International Railway Journal",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "758b9578dab4",
-   "title": "Port of Gothenburg awards NCC contract for new Stena Line terminal",
-   "original_title": "Port of Gothenburg awards NCC contract for new Stena Line terminal",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLXNsbFNUNElpRTVwTEswVWQ4ajE0aVRETmdyTDhYaHVNZk8yR1d5M2VRSURBYVN1MGt1UXpMNF9saHNZS3BsNzlZbGtxb3pPU3VNRS1JTWl6aHlhU29VaXpYYlBkWDlZUldRRWtDdURXdXQ2WGpqcExoMGUwMm1ZSVliOHNBeHA4Vm9ja2ZGemNQTllReHN5TXRTMjdjRFBFcl9TV0NPTkxfU1BScEdzOVhXTDNUQdIBuwFBVV95cUxOV3ZUdlpsM05tb1BuS1R3SlB6dzFSQTJqdGpLdDNHQlBRWnk1ZE9VMndybENnR1REODA1QURjYVJ2VUxsemhZMGxWRU1OODRGSmdQcVFlREprLUNvV3NWVTZFSTNwVGhxaW00VmxJTXk2b2M1eFB3YV9mMjhsTXJTT203LXBKU2lCaTZSUHNablZ0aDlOd3lzeUJ2OWVvc3hKM3dSZVI3bEVZZFVRZFVFZ3hNeTMwQUNfVmZj?oc=5",
-   "source": "Logistics Update Africa",
-   "published": "2026-10-07T09:18+00:00",
-   "added": "2026-10-07T10:02+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Baltic & Nordics",
-    "Africa"
-   ],
-   "tags": [
-    "gothenburg",
-    "logistics",
-    "port",
-    "terminal"
-   ],
-   "summary": "Port of Gothenburg awards NCC contract for new Stena Line terminal Logistics Update Africa",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "88fb98520249",
-   "title": "Przeładunki kontenerów w polskich portach w górę o 15 proc. Pomorze staje się bramą dla Europy Środkowo-Wschodniej",
-   "original_title": "Przeładunki kontenerów w polskich portach w górę o 15 proc. Pomorze staje się bramą dla Europy Środkowo-Wschodniej",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbG9IWnlhSTZaaTBwZjJOSUJ6ZTVwQTJpUVdfeTVoVVlVQ3VhRkRzMkJZdE1hZWpEbnZEWFk1WGl5NnotUUFKM0daQ1NQMzNpY0p1X3NLMnlfU3hmanhjNTlqaE92ZGY3Y2lpRC1hQVVDMTlIY0JRZE5BMlVnMDh2VW5fSkh2amxFOFJFcGhTVjFoM1cxbTJ6cDlXeDNpcF9ZZE9NSUtPRTN5Ymd1QV9sNU1id0hHRTY2aEZFT3NBbGFOTmRGU0U1SW93TQ?oc=5",
-   "source": "PKB24.pl",
-   "published": "2026-10-07T09:11+00:00",
-   "added": "2026-10-07T09:22+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polski",
-    "przeladun"
-   ],
-   "summary": "Przeładunki kontenerów w polskich portach w górę o 15 proc. Pomorze staje się bramą dla Europy Środkowo-Wschodniej PKB24.pl",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
