@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T17:02+00:00",
+ "generated_at": "2026-10-13T17:26+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,60 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "ecd98e15d05d",
+   "title": "Port Polska ubiega się o ponad 63 mln euro z UE",
+   "original_title": "Port Polska ubiega się o ponad 63 mln euro z UE",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeHJhcTFvRF9jMXpFMDdMb3dLM3JrbHJFNmlNNHZQaGlYUktzeTVXNXVXblhRYUhxZU5QY2l0TUVpT3BXZmZfaF9pMTNLMnNpWTdtR0tnZ0xwUXlncWMwTTFEdzBBcE5ZZmF2aGx3dldmemg1UFFhQ05EazRuU0RoLUFsTDJGOTkweFJCbGxLUS1fdGRJLTJ5MnhNeW5sclNSTHBRbVo2UFU3T1U?oc=5",
+   "source": "PropertyNews.pl",
+   "published": "2026-10-13T17:16+00:00",
+   "added": "2026-10-13T17:26+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Port Polska ubiega się o ponad 63 mln euro z UE PropertyNews.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b5b04c82d6b4",
+   "title": "Iran increases threat to Strait of Hormuz shipping, and other Middle East developments",
+   "original_title": "Iran increases threat to Strait of Hormuz shipping, and other Middle East developments",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2ZhdVNPN0VESnFGVjZsNVpGSGZZZTUxU3d2U3JPTklvN2RUOXBaVTdrRmI4OWVYbjVNVHFHcTR5a2syZjFtOXRXZWNiSHZ2ancyTzNKT2VlVFVmYkI4OWEzd0FScXg2ZXVnbUZmVm5OanlldEM4ekVQRDBxR0hGYzB0MVpTMEctYkVsdlVYX3NRM2lfck1Rc19qU0haTXpSVi04TE1YY01ySDZVZ2lvUEoxcXNCWGV2Q0hj?oc=5",
+   "source": "iNFOnews.ca",
+   "published": "2026-10-13T17:15+00:00",
+   "added": "2026-10-13T17:26+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Iran increases threat to Strait of Hormuz shipping, and other Middle East developments iNFOnews.ca",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "7a1a11db0503",
    "title": "AAL Completes Nine-Voyage Steel Bridge Transport Solution For Melbourne’s North East Link",
@@ -96,6 +150,58 @@
    "summary_method": "extract"
   },
   {
+   "id": "19265140fcf7",
+   "title": "Malta’s Economy Could Be Hit By Middle East Shipping Disruptions, Chris Fearne Warns",
+   "original_title": "Malta’s Economy Could Be Hit By Middle East Shipping Disruptions, Chris Fearne Warns",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY29zSHRlM1RCcVJqNmNxUUNZczdfdUhUWFhyRzBtZFhuQW5MaE1wZktYWEN0OXVoZmdWMmFKQ2JyblIwamp6MmQzeE16LXowZDhTalhjLU84QXhSTmlETmxyVFdyYnZSTUc0V3FlV0VRTjVQZUE0V1FGb2JZVHdxcXo3cXBPVTV1QkZFV1J5WDJ0QUNQYUJnNVMxeWQyWTNnXzhSbUs5LUNQeUY1TFVmOFVFR2twTnZT?oc=5",
+   "source": "Lovin Malta",
+   "published": "2026-10-13T16:53+00:00",
+   "added": "2026-10-13T17:26+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "disruption",
+    "shipping"
+   ],
+   "summary": "Malta’s Economy Could Be Hit By Middle East Shipping Disruptions, Chris Fearne Warns Lovin Malta",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ec67e8eff165",
+   "title": "Azerbaijan, Turkmenistan cooperation boosts Middle Corridor efficiency - minister",
+   "original_title": "Azerbaijan, Turkmenistan cooperation boosts Middle Corridor efficiency - minister",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qcDJQNGEwNTBUaEg1X1dISHljVUFaT01oN2hZaGJXa1hjOHMyaGZhUnlzUDU5cWJUbDY2R1NrcmN1dGQ0V0lNMERyZm1lUkxQbHo4SXV3UQ?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-13T16:39+00:00",
+   "added": "2026-10-13T17:26+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "Azerbaijan, Turkmenistan cooperation boosts Middle Corridor efficiency - minister Trend News Agency",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "7c642e10d5da",
    "title": "Trump’s Diesel Deal Irks Allies and Is Unlikely to Reduce Prices",
    "original_title": "Trump’s Diesel Deal Irks Allies and Is Unlikely to Reduce Prices",
@@ -156,6 +262,33 @@
    "summary": "General cargo vessel ALFA WATAN, one of the two vessels attacked in drone strikes in the Black Sea off NATO member Bulgaria, according to a October 6, 2026 statement by Bulgarian PM Radev, sails in Istanbul, Turkey October 5, 2026 in this screengrab obtained from a handout video. YORUK ISIK/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. REFILE - ADDING INFORMATION.? SOFIA, Oct 13 (Reuters) – Eleven sailors were missing at sea on Tuesday from a ship sunk by a drone attack off the coast of Bulgaria, possibly the second deadly sinking of a cargo vessel in the area in a week, prompting Bulgaria to summon Russia’s ambassador. Two cargo ships were hit by drones overnight and one was sunk, Bulgarian officials said. Bulgarian officials said five crew members had been rescued but 11 were still listed as missing from the ship which sank off the coast of the village of Krapets, near the Romanian border. Russia has been bombing Ukraine’s Black Sea ports, forcing Ukraine to rely increasingly on river ports on the Danube and shipping routes close to the coasts of NATO members Bulgaria and Romania.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "65e1cb640aad",
+   "title": "Ukraine may export no more than 11 million tons of wheat in 2026/27, farmers union says",
+   "original_title": "Ukraine may export no more than 11 million tons of wheat in 2026/27, farmers union says",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSmNvMEJic3U1S1VhbWo1SC1DdFJralM3NGI0a1U0RHhRNXZtdlhwZDFoQnJUa2lhdm5ZZnhoYjJZckJUbkd1d2JnWWJRbWpteDFXUEJ6Q2hQbFVaNVl0dHVVTVdvblpPbGotMnJQOC1mNFpXRExYaS1rQjR0ejU3WkticGw4MndqckY5N2FpY0dLMzlvbFBJVy1qQm9OQThYbjJrT2s5aE80Nk5tdnByUTllXzNUNU1N?oc=5",
+   "source": "Grainews",
+   "published": "2026-10-13T15:49+00:00",
+   "added": "2026-10-13T17:26+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "ukraine",
+    "wheat"
+   ],
+   "summary": "Ukraine may export no more than 11 million tons of wheat in 2026/27, farmers union says Grainews",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "078a180cbcc7",
@@ -16482,137 +16615,6 @@
     "terminal"
    ],
    "summary": "PTP opens $39m cold-chain terminal at Cádiz port Splash 24/7",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9e48afce5ffc",
-   "title": "Australia to Release Final Plan to Keep More LNG Output at Home",
-   "original_title": "Australia to Release Final Plan to Keep More LNG Output at Home",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRU8zYlJFOU0yZEhob2dhRk5aRVE1dFVDdU1DTGs5dWhlb1hNWm5GeVFxQllYWk9fd2Zibi1GaWpqQ0RRRzNoVkxJaTN0WVFEamdfcU9TLWd3X3NUcnp2SHQ1UTY3WVg3YmNRSjBlT25JbDdHeU1tZXNyYXNlQVJ1enJ2THd0Zy0xRnFjVXlxQllnMnRYSHFhOUswM1VUc3pqWHRtbzBULVZoa056ZmxRakw4eUVUTHJ1?oc=5",
-   "source": "Energy Connects",
-   "published": "2026-10-09T05:01+00:00",
-   "added": "2026-10-09T05:14+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "lng"
-   ],
-   "summary": "Australia to Release Final Plan to Keep More LNG Output at Home Energy Connects",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5c7265a5d0c3",
-   "title": "Fuel, fertiliser costs strain American farmers' support for Republicans in midterms",
-   "original_title": "Fuel, fertiliser costs strain American farmers' support for Republicans in midterms",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWVVIS3J2YUJuZnpwa25wNWVkTHlJOFY4SWlyNFlTaXRJVEd1R0RTeWhMYlZoamJkT2R6bkpJaDVocXUydHVGT3ByZFI2dktHeHRXOEZxSFpFUEQ2LUZqNWl2dnlVbWZUeHdWR0M0NnBRNmV2cG0xc19ZTU1qQmpmNTVBeFB5V3ZZeHNDanlDYWFrUl9HTU16VDJyZDNvY05ES2l5cm5wZ3g3SlFtZFREQTNfVFZSd3FHMVMxeThqNlZFRERmMFlhM05CT0Q0enF5dDE5ZVhWLWw2cHFuaUFILXZmTVBHalhqTTE0a2NLTGtnRzVvREg00gH3AUFVX3lxTE9ZVUhLcnZhQm5menBrbnA1ZWRMeUk4VjhJaXI0WVNpdElUR3VHRFN5aExiVmhqYmRPZHpuSkloNWhxdTJ0dUZPcHJkUjZ2S0d4dFc4RnFIWkVQRDYtRmo1aXZ2eVVtZlR4d1ZHQzQ2cFE2ZXZwbTFzX1lNTWpCamY1NUF4UHlXdll4c0NqeUNhYWtSX0dNTXpUMnJkM29jTkRLaXlybnBneDdKUW1kVERBM19UVlJ3cUcxUzF5OGo2VkVERGYwWWEzTkJPRDR6cXl0MTllWFYtbDZwcW5pQUgtdmZNUEdqWGpNMTRrY0tMa2dHNW9ESDQ?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-09T04:59+00:00",
-   "added": "2026-10-09T08:02+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "fertiliser"
-   ],
-   "summary": "Fuel, fertiliser costs strain American farmers' support for Republicans in midterms The Economic Times",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "58699b19a0c6",
-   "title": "SLNG Begins Construction of Third LNG Bunkering Jetty in Singapore",
-   "original_title": "SLNG Begins Construction of Third LNG Bunkering Jetty in Singapore",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeEFXU3FCZGZMeFgtOVRwNEJUUUhHMUNkUk1kbXNIVF9yaW5PRk9jNGNvdnYtNC1UdlpLdWhMRGtVWktjVHdZOXpwR1ExMlJxVWxyTDhMbmwwZTRQUGh0SWVyQlVNeC1oTWFVZTZ0OC0taF9PV0JZdUJ3WTdEUHRPTHA3Wk5lOWpQZUZmd09pZm5wT0kzT3h1c05DNEM0R1dGa1MxeUFXMUVCaXNWWExCcGxmWk9PTzlTQy1DYlpoM2Y?oc=5",
-   "source": "Asia Business Outlook",
-   "published": "2026-10-09T04:48+00:00",
-   "added": "2026-10-09T11:01+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "bunker",
-    "lng"
-   ],
-   "summary": "SLNG Begins Construction of Third LNG Bunkering Jetty in Singapore Asia Business Outlook",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4409e726296f",
-   "title": "Yellow Pea Prices Rise as Black Sea Shipments Stop",
-   "original_title": "Yellow Pea Prices Rise as Black Sea Shipments Stop",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWV6VkFLNjNGQVBJa3lWbkJOZDQ3azUyVUtzdUR4OGdhX19iUl9RR2JBdmpscG5GQzNSTjZmLUNiNERYT1oydlJHd2FEZ2tvLVVBWkg0Q1pNR2ZGeDNtR05Pd0JuVlhMVjNyVmNwT1NDV2RYcHRjNDlJRnpHRW1ZdnJLdm9qc0FWdXRjcnVn?oc=5",
-   "source": "urbanacres.in",
-   "published": "2026-10-09T04:45+00:00",
-   "added": "2026-10-09T04:54+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "prices"
-   ],
-   "summary": "Yellow Pea Prices Rise as Black Sea Shipments Stop urbanacres.in",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "64e0b68f5bdc",
-   "title": "Nigerian Importers Face Third CMA CGM Shipping Surcharge in 2026",
-   "original_title": "Nigerian Importers Face Third CMA CGM Shipping Surcharge in 2026",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeDBQN01lS2hvMTdaelJ2Z3hrTENkcDgxd000Z09HZEp6d2w2dnUyV2xhZmlNYk1adjNqaVk5bFJYTVE3Z3RUVG1POHR5RlhWTjY4ei1RWURmbks0V2RTUEpEcVVhaFZtbWEwSjBETHUzXzV1Wk5nQ0xicTJ1UjdwUGYydm1ibnNuOWdWN3pwWGJDY3FJdm80VUJB?oc=5",
-   "source": "Ships & Ports",
-   "published": "2026-10-09T04:34+00:00",
-   "added": "2026-10-09T04:54+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "shipping"
-   ],
-   "summary": "Nigerian Importers Face Third CMA CGM Shipping Surcharge in 2026 Ships & Ports",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
