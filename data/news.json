@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T16:14+00:00",
+ "generated_at": "2026-10-13T16:41+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,68 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "7c642e10d5da",
+   "title": "Trump’s Diesel Deal Irks Allies and Is Unlikely to Reduce Prices",
+   "original_title": "Trump’s Diesel Deal Irks Allies and Is Unlikely to Reduce Prices",
+   "url": "https://gcaptain.com/trumps-diesel-deal-irks-allies-and-is-unlikely-to-reduce-prices/",
+   "source": "gCaptain",
+   "published": "2026-10-13T16:17+00:00",
+   "added": "2026-10-13T16:41+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "prices",
+    "russia",
+    "russian",
+    "ukraine"
+   ],
+   "summary": "President Donald Trump attends an event to sign executive orders in the Oval Office at the White House in Washington, D.C., U.S., August 6, 2026. REUTERS/Evelyn Hockstein/File Photo By Nick Wadhams (Bloomberg) — President Donald Trump’s deal for Russian diesel exposed the US to legal questions, opened a rift with his Republican allies and European leaders and heightened tensions with Ukraine — all in exchange for an outcome that experts suggest is unlikely to succeed. It’s still not clear how Trump plans to get around that, and some lawmakers, including Senator Roger Wicker, a Mississippi Republican, have already said they don’t expect the deal to go through.Play Video Trump acknowledged on Monday that neither side had actually committed to stop attacking each other’s energy infrastructure. Keith Kellogg, the president’s former envoy to Kyiv, dismissed Trump’s latest disagreement with Zelenskyy as “noise.” He said he didn’t expect it to escalate to anything similar to their infamous face-to-face argument in the Oval Office in February 2025. “Look at what’s happening on the ground.” That’s all in exchange for an effort to bring down global diesel prices that have remained stubbornly high, mostly because of the Iran war, which has throttled traffic through the Strait of Hormuz.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "63a7fd5ab789",
+   "title": "11 Missing as Drone Attacks Strike Two Ships Near NATO Waters",
+   "original_title": "11 Missing as Drone Attacks Strike Two Ships Near NATO Waters",
+   "url": "https://gcaptain.com/11-missing-as-drone-attacks-strike-two-ships-near-nato-waters/",
+   "source": "gCaptain",
+   "published": "2026-10-13T16:07+00:00",
+   "added": "2026-10-13T16:41+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Central & Eastern Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "attack",
+    "drone",
+    "nato",
+    "russia",
+    "vessel"
+   ],
+   "summary": "General cargo vessel ALFA WATAN, one of the two vessels attacked in drone strikes in the Black Sea off NATO member Bulgaria, according to a October 6, 2026 statement by Bulgarian PM Radev, sails in Istanbul, Turkey October 5, 2026 in this screengrab obtained from a handout video. YORUK ISIK/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. REFILE - ADDING INFORMATION.? SOFIA, Oct 13 (Reuters) – Eleven sailors were missing at sea on Tuesday from a ship sunk by a drone attack off the coast of Bulgaria, possibly the second deadly sinking of a cargo vessel in the area in a week, prompting Bulgaria to summon Russia’s ambassador. Two cargo ships were hit by drones overnight and one was sunk, Bulgarian officials said. Bulgarian officials said five crew members had been rescued but 11 were still listed as missing from the ship which sank off the coast of the village of Krapets, near the Romanian border. Russia has been bombing Ukraine’s Black Sea ports, forcing Ukraine to rely increasingly on river ports on the Danube and shipping routes close to the coasts of NATO members Bulgaria and Romania.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "078a180cbcc7",
    "title": "Port Polska ubiega się o unijne środki na kluczowe inwestycje",
@@ -1256,6 +1318,31 @@
     "ports"
    ],
    "summary": "ESPO: OPS available at 60% of European ports, but grid and demand hurdles persist WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ab8fc0b73358",
+   "title": "Port Lotniczy Olsztyn-Mazury z rekordem! – krótki film",
+   "original_title": "Port Lotniczy Olsztyn-Mazury z rekordem! – krótki film",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0psNjRhalFXVTFwNDVtWnlNNGRkOTRBSzNQVFdoRngyOXRzWWVPckNILVgxZHpyZF94TDNqdDRYSFpDVk43Q21oYUlLalZ1a3NpR3JiZnFVQzVRdHFjdTN6eUNGWTU3cVRXdzdRcnNLdEZsUjNZR1BKZ2h4bmJGQndTQzVpcVk?oc=5",
+   "source": "Olsztyn.com.pl",
+   "published": "2026-10-13T10:35+00:00",
+   "added": "2026-10-13T16:41+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port Lotniczy Olsztyn-Mazury z rekordem! – krótki film Olsztyn.com.pl",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -16518,89 +16605,6 @@
    ],
    "summary": "Fortescue’s China friendship rocky as iron ore buyer’s boycott bites NT News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "92d463b9a287",
-   "title": "Shore Power Could Clean Up Ports. So Why Is It Still So Rare?",
-   "original_title": "Shore Power Could Clean Up Ports. So Why Is It Still So Rare?",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3WU5VVlVZemwwUmtBSGpwRF9CelF4SV9CVmdTSHZ1VnM4bGdScHJqUmh6RHFEeHJUM1F3ZDFZeHE4X2RIQ1RYWDBOYTAtLTVXWVJNSDVCSUhDYkVVNHN3SkEtdDZRRmtEVlFOWVVRQQ?oc=5",
-   "source": "Intelligent Living",
-   "published": "2026-10-09T03:19+00:00",
-   "added": "2026-10-09T03:51+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "shore power"
-   ],
-   "summary": "Shore Power Could Clean Up Ports. So Why Is It Still So Rare? Intelligent Living",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d8874e51c024",
-   "title": "Paradip dry bulk terminal project advances with Adani subsidiary",
-   "original_title": "Paradip dry bulk terminal project advances with Adani subsidiary",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX2UyZ1hwN3JOUGdwZUxxWE1LWmU2ODE0SW14UHNPSzlMQnJJemU0TnF4OEQzdGVSbDFyS0hadlhKOFZXVFNtamRPdzJkSzZsRGl3aV9UTnZnTkNsbmVRUzRUT2JON1lUTWNtdmVHT0pQTmg1LVVja3RSVXNXLUxOdUlVNTJxb0w3QUtDUUdGRjhtRzdoNmZQTDRoMzdWUQ?oc=5",
-   "source": "Maritime Gateway",
-   "published": "2026-10-09T03:04+00:00",
-   "added": "2026-10-09T05:14+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bulk terminal",
-    "dry bulk",
-    "terminal"
-   ],
-   "summary": "Paradip dry bulk terminal project advances with Adani subsidiary Maritime Gateway",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d58277e93299",
-   "title": "Maersk Warns of Potential Shipping Disruptions across East Africa",
-   "original_title": "Maersk Warns of Potential Shipping Disruptions across East Africa",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU1FuUF9YM0RPNUJ3VERDbXQ4QUdvNjkyOG1yXzFLUWl4cDNPV3d6S0dNMDVHQmRjUUgtZUh4a0xHNkEwbzhwRS1MSlpiOS03alFsUGdqS2tPSjUycnJtbm1fbFJhbUpQeklHS2FjeGR6bDdqLVNGc0hLQ3A3NW5hM0ZFcWhFUnJlVEE?oc=5",
-   "source": "Sada Elbalad English",
-   "published": "2026-10-09T02:50+00:00",
-   "added": "2026-10-09T08:02+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "shipping",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "disruption",
-    "shipping"
-   ],
-   "summary": "Maersk Warns of Potential Shipping Disruptions across East Africa Sada Elbalad English",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
