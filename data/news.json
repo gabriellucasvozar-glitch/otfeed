@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T09:46+00:00",
+ "generated_at": "2026-10-13T10:05+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,87 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "da594d28d1a0",
+   "title": "Fujian Guohang maps out Hong Kong fleet expansion",
+   "original_title": "Fujian Guohang maps out Hong Kong fleet expansion",
+   "url": "https://splash247.com/fujian-guohang-maps-out-hong-kong-fleet-expansion/",
+   "source": "Splash247",
+   "published": "2026-10-13T10:04+00:00",
+   "added": "2026-10-13T10:05+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bulker",
+    "chinese",
+    "fleet",
+    "shipping"
+   ],
+   "summary": "Chinese bulker owner Fujian Guohang Ocean Shipping is preparing to establish 12 wholly owned shipping companies in Hong Kong as it lays the groundwork for a newbuilding investment programme valued at approximately CNY2.49bn ($372m). The Beijing Stock Exchange-listed company disclosed on October 12 that its board had approved the creation of the subsidiaries through Guohang Ocean Shipping (Hong Kong) Holdings. Each company will have registered capital of $100,000, giving the proposed structure combined subscribed capital of $1.2m. Guohang has estimated the six-vessel investment at CNY2.49bn ($372m) and intends to raise up to CNY700m ($105m) through a private share placement. Of the proposed proceeds, CNY680m ($102m) has been earmarked for the vessels, with the remaining CNY20m ($3m) allocated to working capital. The Hong Kong restructuring comes just weeks after Guohang abandoned plans for a secondary listing on the Hong Kong Stock Exchange. In September, the company said it would instead pursue a domestic equity placement to support fleet investment and strengthen its capital structure. Guohang has traditionally concentrated on dry bulk shipping, with its latest investment plans signalling an expansion into product tankers and specialised multipurpose tonnage. The new Hong Kong companies will also provide additional capacity for future shipowning arrangements beyond the initial six-vessel programme.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "373b947ac29e",
+   "title": "Bluecore takes nuclear barge plan beyond the drawing board",
+   "original_title": "Bluecore takes nuclear barge plan beyond the drawing board",
+   "url": "https://splash247.com/bluecore-takes-nuclear-barge-plan-beyond-the-drawing-board/",
+   "source": "Splash247",
+   "published": "2026-10-13T10:04+00:00",
+   "added": "2026-10-13T10:05+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "barge"
+   ],
+   "summary": "US maritime nuclear startup Bluecore Energy has secured low-enriched uranium for its first floating power system as it moves ahead simultaneously with fuel, regulatory and class work. The Long Beach-based company has purchased uranium hexafluoride, or UF₆, enriched to 4.95% uranium-235 through nuclear fuel intermediary WMC. The material is being held at an undisclosed US nuclear fuel facility outside California while Bluecore works towards fuel fabrication, testing and validation. The move takes Bluecore another step beyond engineering and non-fuelled prototype work as it develops a compact water-cooled reactor designed from the outset for deployment on a floating platform. WMC buys, sells, stores, finances and transports materials across the nuclear fuel cycle, including enriched uranium products typically containing up to 5% uranium-235. Bluecore held its first pre-application meeting with the US Nuclear Regulatory Commission in August, presenting the reactor concept and discussing a potential licensing route. California planning records show the startup has leased warehouse, landside and submerged space at the port for its research operation and barge testing. The work sits within a wider US effort to bring nuclear technology into commercial maritime applications. Bluecore founder and chief executive Kofi Asante said the latest step is part of building the fuel, testing, engineering, safety, regulatory and class pathways together rather than sequentially.",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "cef8040ceee0",
+   "title": "Italian maize buyers turn to US, Brazilian supplies amid blac ...",
+   "original_title": "Italian maize buyers turn to US, Brazilian supplies amid blac ...",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaF9zZElyM0l1ZU5BNU1JblIyRHEzU2I1M3Z5aXFXZHgyOWFXbGRnMmE5S1ZxMEpsLWQ0SV9aVjBZc1JISl81TnJGUnhCTzlCTWRuTEVXRjh3blVCUWJBNnkzVU9RX3VhSG9wcFJPc3Y2YzBrdzBoOENzSXFxTzJfeGprZ0VyRUdiXzhsWUs1dXhWTW9TNUpIdFplZWg4eWV2eVlF?oc=5",
+   "source": "Milling Middle East & Africa",
+   "published": "2026-10-13T09:56+00:00",
+   "added": "2026-10-13T10:05+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East",
+    "Latin America",
+    "Africa"
+   ],
+   "tags": [
+    "maize"
+   ],
+   "summary": "Italian maize buyers turn to US, Brazilian supplies amid blac ... Milling Middle East & Africa",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "438e8818a9a2",
    "title": "Gothenburg prepares for next phase of container port expansion",
@@ -37,6 +118,31 @@
    ],
    "summary": "Gothenburg prepares for next phase of container port expansion Splash247",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e32f474fdd1d",
+   "title": "Cyberatak wyłączył chłodnie, incydent IT zakłócił dostawy. Gdy cyfrowa awaria zatrzymuje łańcuch dostaw",
+   "original_title": "Cyberatak wyłączył chłodnie, incydent IT zakłócił dostawy. Gdy cyfrowa awaria zatrzymuje łańcuch dostaw",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU1dYWHBaTmVDYjF3TVd5aTBObGpDbUZ3RU1nOFlHeDQ3SGV3OEpyM0c0UzlFX0FBeHFYSmk1ZHNRLUluYTVNT082TE01UDFrajBBQlVtRzREMHhRTnlWSUhTQ0ZRbTNVS18yU2VkNFBsSzYwOHhWMjhhNTdWUXdPdk96b2phN0pLZ3duSmNQVnRlZk1zVk5KLTZGVnBkNEUwTzViRU5IbU50MHlvaGllQkROaU5aVWdLNzZWanI0OUtEak1vWjFGNlBR?oc=5",
+   "source": "Trans.INFO",
+   "published": "2026-10-13T09:37+00:00",
+   "added": "2026-10-13T10:05+00:00",
+   "lang": "pl",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "lancuch dostaw"
+   ],
+   "summary": "Cyberatak wyłączył chłodnie, incydent IT zakłócił dostawy. Gdy cyfrowa awaria zatrzymuje łańcuch dostaw Trans.INFO",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16534,115 +16640,6 @@
    ],
    "summary": "Uzbekistan calls Baku Port a key link for cargo along Middle Corridor (Exclusive) Trend News Agency",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dfb6637da4f3",
-   "title": "SPM Shipping plays the market",
-   "original_title": "SPM Shipping plays the market",
-   "url": "https://splash247.com/spm-shipping-plays-the-market/",
-   "source": "Splash247",
-   "published": "2026-10-08T13:46+00:00",
-   "added": "2026-10-08T13:46+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "shipowner",
-    "shipping"
-   ],
-   "summary": "With only a few months in gas, Dubai-based SPM Shipping, a shipowner, operator and offshore player, has now added its third VLGC, according to sources. The fast-growing owner is ambitious and moving comfortably in the largest segments in shipping, first placing money in both the cape and VLCC segments, an uncommon move for a relative newcomer to shipping. Its latest move is the 84,000 cu m Hellas Hercules, a 2015 Hyundai-built ship, sold for about $95.5m by Greek owner Latsco Shipping, marking its first VLGC sale in years. The company has previously tapped Dorian LPG for two vessels in the same bracket. In September, it moved twice, adding a 50,000 dwt oil and chemical tanker, a 17-year-old vessel from Oman Shipping, the Korean built unit is freshly renamed SPM Invictus (ex-Al Amera). A $17.5 m price tag is attached to this deal. SPM Shipping is a rapidly growing shipowner headquartered in the UAE. The company is affiliated with Priya Blue, one of India’s largest ship recyclers, and is the shipowning arm of Best Oasis, a major global cash buyer of ships.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "1d818ca6e541",
-   "title": "Klaipėda Port completes private 5G trials to advance automation and operational security",
-   "original_title": "Klaipėda Port completes private 5G trials to advance automation and operational security",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbE13bmdSRk1PR1RNS2VOWU9TeVRRUEkyZlBSYTd3SWFKcVh1a3U4WG9zb1hTVjFLdldWRG1tbEJmMUdaQm5ZSXJDLTBiRWtlY24tRmx5Ui16clRtTUJJWHNWNjc4S1lYeFhPVHcteVJaQzdXR3ZaRXc0aHNDc3lSaVBGUzN0VjFjanVfWUhyM1VabXUtbTlpZG1PVkdZdG52UG1QUXJOdU9HMEdXdEZzdzZR?oc=5",
-   "source": "Breakbulk.News",
-   "published": "2026-10-08T13:24+00:00",
-   "added": "2026-10-08T19:28+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "equipment",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "automation",
-    "klaipeda",
-    "port",
-    "security"
-   ],
-   "summary": "Klaipėda Port completes private 5G trials to advance automation and operational security Breakbulk.News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a983ce3e3fed",
-   "title": "CargoBeamer zwiększa liczbę pociągów intermodalnych na trzech europejskich trasach",
-   "original_title": "CargoBeamer zwiększa liczbę pociągów intermodalnych na trzech europejskich trasach",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZFNBMUNobHk2M0IwZ3NaR1NyWEhMcHVrMEx3MFEwampWUVFGNFBzTmtmb1I2alNxYzJ4R0JXdVpKaThUcmVpV2tNaFNFMkRYeGxYN2NHRVNDdDF1TXZTem52TjgzYjNMN0QtejJwWjc5dzc4aHg1eTRqbXlTamVGOWRtMURfSlAyRm5NUzFpQ08yQnV5czJFU3lfNGRoTVpfQk5hbW9SRzZ2Q1BkaUNYbG1ieDFSelRRZmxFY3RQVkdwUFNuUUZBaUtJQUk?oc=5",
-   "source": "Kurier Kolejowy",
-   "published": "2026-10-08T13:23+00:00",
-   "added": "2026-10-09T23:45+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "intermodal"
-   ],
-   "summary": "CargoBeamer zwiększa liczbę pociągów intermodalnych na trzech europejskich trasach Kurier Kolejowy",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5c7004c48914",
-   "title": "Rekordowa operacja przeładunkowa w DB Port Szczecin",
-   "original_title": "Rekordowa operacja przeładunkowa w DB Port Szczecin",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUkl0MlF4eGV2THh0V0RNMWYtdDducjZ0TldubjI2T05iMW1BNkN5MnByYmp6YXJtakRreU1odDcwb0xtSHFjdXJ6bjh0MmJKQm1RWTVjQlhkcFNTU1NURmJETjdLOFI0Q29zVU5BQWhMdlgtbnJ6ejA2X0J6WHhnTFRfZUs2RFlCOEZMbW1TSkpfbkE?oc=5",
-   "source": "GospodarkaMorska.pl",
-   "published": "2026-10-08T13:21+00:00",
-   "added": "2026-10-08T13:46+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "high",
-   "score": 11,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "port",
-    "przeladun",
-    "szczecin"
-   ],
-   "summary": "Rekordowa operacja przeładunkowa w DB Port Szczecin GospodarkaMorska.pl",
-   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
    "summary_method": "feed"
   }
  ]
