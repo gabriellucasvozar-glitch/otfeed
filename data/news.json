@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T23:32+00:00",
+ "generated_at": "2026-10-13T23:59+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,58 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "73bce29d27a9",
+   "title": "Rio Tinto says oil price shock advantages Australian miners",
+   "original_title": "Rio Tinto says oil price shock advantages Australian miners",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV20xdlpDWFVzLXFEd0NfV3Jjc2VPdW5lTUVDY0xoS3F5MUVkS1gxUG00dkNERHhRb1BCajZrakl6QkFkVUF4UVNDTDg5Qzg3aExDWlpRazlMXy1mWGNKQ29tekhhSnpkd0NvaTFXQVJ5MTR6MjIzOUFydXBNZDJPTXdTYk5hU2lfYjRvajhleFprTFpnd193YVdvajByU2lQaktQOW1NX1ZWQWxHSjg5V2F3?oc=5",
+   "source": "AFR",
+   "published": "2026-10-13T22:52+00:00",
+   "added": "2026-10-13T23:59+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "oil price"
+   ],
+   "summary": "Rio Tinto says oil price shock advantages Australian miners AFR",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0550fa7667e9",
+   "title": "PKP LHS plans to buy 12 new broad-gauge diesel locomotives",
+   "original_title": "PKP LHS plans to buy 12 new broad-gauge diesel locomotives",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZjZaM3dqdy0zRVlaZjFmNm1iQ0Z5cUNBT1AwSS0xU0E2eWpvVVNXWXljX3pPd1FEU242Q2gwbGF4U1lHcTdqYW0zRzFMVDdZZTlXd2tVU0ZBVTFPU0dNSThsUWFkY3libFR4bUtFQjdKNFZmZUdaMTN0NUJ6alZZVE1weTBfSU1NcDZLWFNjMlRMWWZ0Rm5uRlowMkxSS21kdm5Qd1JwVDBJUQ?oc=5",
+   "source": "RAILMARKET.com",
+   "published": "2026-10-13T22:25+00:00",
+   "added": "2026-10-13T23:59+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "diesel",
+    "locomotive"
+   ],
+   "summary": "PKP LHS plans to buy 12 new broad-gauge diesel locomotives RAILMARKET.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "800a65c194a7",
    "title": "Rail freight news from 4 European rail carriers",
@@ -498,6 +550,39 @@
    "summary_method": "feed"
   },
   {
+   "id": "e12003bd7e22",
+   "title": "Moscow accused the EU and NATO of restricting shipping in the Baltic Sea and hindering Russian trade",
+   "original_title": "Moscow accused the EU and NATO of restricting shipping in the Baltic Sea and hindering Russian trade",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQclYwMFkwOGh4b0w3blFPM0Q4ZW5Ybm4xc295bGlFekNBWWtYRU1qeHNWOHE4Y2dfZXA1M3NrQjZ5RzJ0MlliZ2xDTTRQMnE2TkRCU0ctVjJaWVNWMzduWkIzbDB4bWxkNmdScldUNzNLN0ZPeDVVelc3ZjdNNGlCWWZGT1JqRm4teW9mZDNzUG9RTThPb1d6MTRKQ3dBTTNPazFxV2laVElvR25qMjdJVGdzRjl5MUViVkxpV0NPOUxRMDA0MFVHbjJ2YTlZNGxmaEpmQw?oc=5",
+   "source": "Fakti.bg",
+   "published": "2026-10-13T18:57+00:00",
+   "added": "2026-10-13T23:59+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "baltic",
+    "eu ",
+    "nato",
+    "russia",
+    "russian",
+    "shipping"
+   ],
+   "summary": "Moscow accused the EU and NATO of restricting shipping in the Baltic Sea and hindering Russian trade Fakti.bg",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b769d84cecce",
    "title": "Aegis Logistics to acquire majority stake in Dubai's Tristar for $809 mn",
    "original_title": "Aegis Logistics to acquire majority stake in Dubai's Tristar for $809 mn",
@@ -580,6 +665,36 @@
    ],
    "summary": "Russia forced to turn to grain storage bags, following Ukraine’s earlier experience UkrAgroConsult",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "849cd3d8dc5b",
+   "title": "SunCap Property Group acquires Savannah industrial site for ±959,822-SF Pine Meadow Logistics Park",
+   "original_title": "SunCap Property Group acquires Savannah industrial site for ±959,822-SF Pine Meadow Logistics Park",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWldXek9VT0RfS1Q0bDhNejNyN0ZoWWRZSzA5SHlCWVVBZWRkTHF2dGhxSXNoQlFaZFVwZHVBRGZUMGRNOEJHcmdMQTJQc1ZVRmtqSllLNF9JbV9CSHNKeUxxcC1oZDV3OVM0S3VWVjBmT191OFZoSHVQVEVXZGpxczNuZlZtZFFTa2lieUNYRV9yT2lRN21BZ0t6X1pGVDc0TWlvV2RmNU95T3JlT0JzWm5nVm1maXZfbFEyN0JwZw?oc=5",
+   "source": "American Journal of Transportation",
+   "published": "2026-10-13T18:03+00:00",
+   "added": "2026-10-13T23:59+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "logistics",
+    "logistics park"
+   ],
+   "summary": "SunCap Property Group acquires Savannah industrial site for ±959,822-SF Pine Meadow Logistics Park American Journal of Transportation",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -16500,122 +16615,6 @@
     "ammonia"
    ],
    "summary": "The world's first ship to run on ammonia has begun its voyage to Australia. Stock Titan",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6fa55fcb477c",
-   "title": "Bulgaria is stepping up rail investment in the ports of Burgas and Varna",
-   "original_title": "Bulgaria is stepping up rail investment in the ports of Burgas and Varna",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEJQMThuZGNaaXEwMGpBUTN6VEFCY05ic0FWU3ZZbk9MSHNCQ00xY0lPNzBSRUlvN2ZNSURKVzZjWEVDTUwyMWRla0dSTUZEcWhmQXN5cmFFOVRZVHRvbmwyTEZ1ejVfSVNFRDYxdFRkaTZqTmRBS0NEMkhfeHY5cGFEWGZGY0F0d2N6YVJSQ2xRUWtHWWUyM1dZLVFueGlaTVBiOG9n?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-09T08:03+00:00",
-   "added": "2026-10-09T08:27+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "rail"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "railway"
-   ],
-   "summary": "Bulgaria is stepping up rail investment in the ports of Burgas and Varna Railway PRO",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1bf52f531e4b",
-   "title": "[India Domestic] India’s domestic steel and scrap prices mostly declin",
-   "original_title": "[India Domestic] India’s domestic steel and scrap prices mostly declin",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmRYclBJTmxKMlZSNVNpRVlUOE42ZmllZG5raGRrLTlySFU0VU1IYThfSGZVQWMycEpfTFRZMUtVM2Y3bVdCcWdHaGhJaFpUT3Rsa2E2N3laSW1ZNEY2V0xzcy1UZEV5UkM1Yi1YUGlZQjN2QjBjcGVkbkdyNDl3R2Q4aEE0VTJKb2JOdFVEcnVMcHpnTzR2OW5Tb1ZOaFVlZ0ZTcjhn?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-09T07:54+00:00",
-   "added": "2026-10-09T08:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "prices",
-    "scrap",
-    "steel"
-   ],
-   "summary": "[India Domestic] India’s domestic steel and scrap prices mostly declin Shanghai Metals Market",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5253f6ce5faa",
-   "title": "Splash Wrap: Drones, driverless trains and the future of shipping",
-   "original_title": "Splash Wrap: Drones, driverless trains and the future of shipping",
-   "url": "https://splash247.com/splash-wrap-drones-driverless-trains-and-the-future-of-shipping/",
-   "source": "Splash247",
-   "published": "2026-10-09T07:52+00:00",
-   "added": "2026-10-09T08:51+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "drone",
-    "shipping",
-    "vessel",
-    "war"
-   ],
-   "summary": "Maritime war spread far and wide in the Black Sea and the Middle East this week, attacks increasing both in number and geographical scope. This week’s Maritime CEO interview was Bing Hou, who after four decades at sea and ashore, has developed ShipGod AI , which he described as an offline-first workspace giving each vessel its own digital environment and AI assistant. “The turning point for me was watching how much time good officers spend managing documents instead of being officers, and how much of what they know is never captured for the next crew,” Hou said. Over at Splash Ports , this week’s CEO interview was with Beth Branch, president and chief executive of the Port New Orleans . Also of interest in this week’s ports coverage, while driverless trucks are becoming a common sight at terminals around the world, there’s also a growing band of pioneers developing autonomous freight trains to move containers beyond a port’s perimeter, something Splash Ports took an in-depth look into yesterday. And in big tech news for the container sector, HD Hyundai has just delivered what it says is the world’s first containership designed to eliminate manual lashing .",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "cb97c2da9fe8",
-   "title": "Soybean prices in Ukraine are falling under pressure from falling sunflower and rapeseed prices",
-   "original_title": "Soybean prices in Ukraine are falling under pressure from falling sunflower and rapeseed prices",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWUs5OFhtbXFzSENheTJnSllGQlV0ZldNMU1Nb2Y2NXpINEVGSy1HYkR0RzM4ZEZBdWo2QVVCOGMzMnY5UENKZ01GMHB5UGdYdmVjbGxKZDE1aU9zUTNxbklPQVd2UmFnOUlhNUp1TDgxVm9sYkN2MDhQMTB4blJUM0pHeUwwYWRjNWlrVlpLVkNkUmIxMEhUM0c4RE9DanVWckkzeFgxeUNKMmVVVlRwa2tJUWZBV2QySTY0NWdkSnhJeklm?oc=5",
-   "source": "електронна зернова біржа України",
-   "published": "2026-10-09T07:52+00:00",
-   "added": "2026-10-12T07:08+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "prices",
-    "rapeseed",
-    "soybean",
-    "ukraine"
-   ],
-   "summary": "Soybean prices in Ukraine are falling under pressure from falling sunflower and rapeseed prices електронна зернова біржа України",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
