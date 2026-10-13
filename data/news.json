@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T15:26+00:00",
+ "generated_at": "2026-10-13T15:52+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "078a180cbcc7",
+   "title": "Port Polska ubiega się o unijne środki na kluczowe inwestycje",
+   "original_title": "Port Polska ubiega się o unijne środki na kluczowe inwestycje",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNjdyNkhtS0p1c0VUSDhrRng2dGZZOFAyVHFzeEowN1dFVkU5SjVYcjhlRVVJUkdqaWFJQjU2ZUp4VWRDSkk4RHpSb3h0N3MyY3JrOUM5NWdreDRfYklDSEtjY3FWYmcwQ1RsaF94WE01aWVaWXhmSTVQV19rSXNteWFIYXJoYU1POGExMGJMU3FNLVBRekszS05Wb2R6S1QzT0xaSWhxTGxFTHFEUGZ4eWFNWQ?oc=5",
+   "source": "Rynek Lotniczy",
+   "published": "2026-10-13T15:47+00:00",
+   "added": "2026-10-13T15:52+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Port Polska ubiega się o unijne środki na kluczowe inwestycje Rynek Lotniczy",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "1827fc6c8f5f",
    "title": "Terminal CPK. Wycofanie jednego wykonawcy nie przerywa dialogu",
@@ -92,6 +119,32 @@
    "summary_method": "extract"
   },
   {
+   "id": "7101e58122ed",
+   "title": "McKinsey Global Material Report Outlines Macro Mining Trends",
+   "original_title": "McKinsey Global Material Report Outlines Macro Mining Trends",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVUVZeUNKYzRyaGxFaHduM2hsOWZ4NzhLVktkOUF5dXMtRE0zMW5UbF80cDY4QVpuN29yUnplajJwd2hhOGtzVTlhWm82V01PRUM2NGgxWFlKaXlZZWcwTTc5UmtLeWs5bXNwWXMyYUZidkxPam03Q2xOTVpWbmFlWU5NMjBsVXU0VzJacEJQZmozUzd4emtwcm9obk9nWXU3Q3c?oc=5",
+   "source": "Supply Chain Digital Magazine",
+   "published": "2026-10-13T14:55+00:00",
+   "added": "2026-10-13T15:52+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "supply chain"
+   ],
+   "summary": "McKinsey Global Material Report Outlines Macro Mining Trends Supply Chain Digital Magazine",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "92da3f1f0d62",
    "title": "Ukraine turns to German ports as grain export bottlenecks deepen",
    "original_title": "Ukraine turns to German ports as grain export bottlenecks deepen",
@@ -122,6 +175,87 @@
    ],
    "summary": "Ukraine turns to German ports as grain export bottlenecks deepen Miller Magazine",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e2098695ca97",
+   "title": "South Korea Promotes Arctic Trade Route",
+   "original_title": "South Korea Promotes Arctic Trade Route",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKQ1I5T0FNNW1XbXJ5TDF6b0l1YlJ5X1NlS3EwaTlWMjI2RG5xaWtoNGhkRHd0bWRFNW1hbUh6bHY3ZVpCR2VRbEV0bFVGV0g5X3hlc2VoaXFacUd4aElTdVBULU5LejNTSTlBOFpJaHJFaHZRc011SFRjZw?oc=5",
+   "source": "teleSUR English",
+   "published": "2026-10-13T14:48+00:00",
+   "added": "2026-10-13T15:52+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "trade route"
+   ],
+   "summary": "South Korea Promotes Arctic Trade Route teleSUR English",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f2b100c61e64",
+   "title": "US-Canada trade war: How Canada’s retaliatory tariffs affect e-commerce",
+   "original_title": "US-Canada trade war: How Canada’s retaliatory tariffs affect e-commerce",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWJqYU9qRTFCNFNPcF9kUzlCVEp5ODBHMlRjWmRESE5xenhTdkR6UncwWlp6cDZpOG1xazRRVU1fMTBST29pQi03RG1lRGV0UXBDbldNaTMyM2R1SnVhQmRHeUVaaWpxWl93dy1lbnpnUmxlODMtcHQzWkw0VDl4Z19ZdDRmLW0wZFVwTVNaVU5KQWZvdDNrX1dOWkR4ZnZubVdKcGhR?oc=5",
+   "source": "KNSI",
+   "published": "2026-10-13T14:12+00:00",
+   "added": "2026-10-13T15:52+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "supplychain",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "tariff",
+    "trade war",
+    "war"
+   ],
+   "summary": "US-Canada trade war: How Canada’s retaliatory tariffs affect e-commerce KNSI",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0c123bc63bd0",
+   "title": "Modern Terminals and CLPe sign MOU on electrification roadmap for Hong Kong container operations",
+   "original_title": "Modern Terminals and CLPe sign MOU on electrification roadmap for Hong Kong container operations",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWJZNUlXMElHcjdDenlqbUNXYkp5YzZ0WmhBX0JWSHFxQmhfdHViTHFKYU4zYkZkTzJjdE9qeHo0ZkhnVEROTy01S0FaV0ZwOTk5bEtqZWVEYXpRSlI4U0U4blJZSG5JcHFnN2M3UVk0TlU5Y3dWaENZeFpLLTRQVlJaVjZ2dlU3Rm9ZNkRheENyakNkWE56dmF0M0VzWlpodDBESA?oc=5",
+   "source": "Container Management",
+   "published": "2026-10-13T14:11+00:00",
+   "added": "2026-10-13T15:52+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "electrification",
+    "terminal"
+   ],
+   "summary": "Modern Terminals and CLPe sign MOU on electrification roadmap for Hong Kong container operations Container Management",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -392,6 +526,33 @@
    ],
    "summary": "Red flag for exporters: Hapag-Lloyd booking freeze puts PH electronics supply chains at risk Bilyonaryo Business",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "639339f42545",
+   "title": "Port of NEOM, CEVA Almajdouie Expand Red Sea Cargo Links to Europe and GCC",
+   "original_title": "Port of NEOM, CEVA Almajdouie Expand Red Sea Cargo Links to Europe and GCC",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2o5a3NVQUlaMGRLTzZ5c3pZTHZ2Q2pfOWpjTkh3Z1lQcHZQLUxBQjYzNFNRcnprZlFPang1OXBPTlM1YVNSRXIxYmFsOTFqY0x5VWZaaVI3QzRpd2RwMTVsUTVMSUpwUDlUNVZBOHpJbi1hYklyTkE4RWNBSThVU2dnaFVnc2pNYjBscXdJWXFVRTkwSmtVLUViQUZpdw?oc=5",
+   "source": "Breakbulk.News",
+   "published": "2026-10-13T12:37+00:00",
+   "added": "2026-10-13T15:52+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "port",
+    "red sea"
+   ],
+   "summary": "Port of NEOM, CEVA Almajdouie Expand Red Sea Cargo Links to Europe and GCC Breakbulk.News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -1047,6 +1208,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "6d8f08c3a422",
+   "title": "India cut iron ore exports to a four-year low in September",
+   "original_title": "India cut iron ore exports to a four-year low in September",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWTNuS1JRLVg2bzFDUU8yX2NoRHdGYXNUS0x6enZjM3NMOVBjcmlFX2hPY0ZxOEJ6STQ5ZDdUQzBrdUg0czhHdDAzRTk0YjUwNEhpdkhBSm1LSnNEQk5HVDMxSWszVG1fTGJpM0NjTElXNFloY01KTUlnWnpUa0tELTljbnFVSlJjcTd0UWJGdnhmNG1P0gGUAUFVX3lxTE9ZM25LUlEtWDZvMUNRTzJfY2hEd0Zhc1RLTHp6dmMzc0w5UGNyaUVfaE9jRnE4QnpJNDlkN1RDMGt1SDRzOEd0MDNFOTRiNTA0SGl2SEFKbUtKc0RCTkdUMzFJazNUbV9MYmkzQ2NMSVc0WWhjTUpNSWdaelRrS0QtOWNucVVKUmNxN3RRYkZ2eGY0bU8?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-13T10:30+00:00",
+   "added": "2026-10-13T15:52+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "India cut iron ore exports to a four-year low in September GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e3c528b84008",
    "title": "Black Sea disruption pushes wheat buyers towards alternative origins",
    "original_title": "Black Sea disruption pushes wheat buyers towards alternative origins",
@@ -1574,6 +1760,31 @@
    ],
    "summary": "Cyberatak wyłączył chłodnie, incydent IT zakłócił dostawy. Gdy cyfrowa awaria zatrzymuje łańcuch dostaw Trans.INFO",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "cd4259914149",
+   "title": "Norway to reuse steel from decommissioned ships to reduce construction emissions",
+   "original_title": "Norway to reuse steel from decommissioned ships to reduce construction emissions",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3MtemxsVmJGaFZlbTFmdTNtNHhmVld6alUyaV9RWXBSLWNLdHFpdFZtaVpsaTBFd3dxODdKR2NCWC1QcFhycWFySXA3TnNJUzN2TVE3SVIzS21BRXdQQkR6ZHdfV0x6d3l2eTRTZVBZdUxHU2cwYk9UaXotZ0lMc2lndlh5cTY5X2NqWlc2Q3FDVXpwNk5tVlhLTVVralEzaWN6M29LLVg1MVdCNmpmTHFETWZMUVdUb0Itd215TXdWLVdkaGxWYVBrMVEyXzUxREs5Y3U2UkFEdw?oc=5",
+   "source": "SteelOrbis",
+   "published": "2026-10-13T09:33+00:00",
+   "added": "2026-10-13T15:52+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "Norway to reuse steel from decommissioned ships to reduce construction emissions SteelOrbis",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16398,233 +16609,6 @@
    "summary": "Shell Restarts Pearl Partially as Hormuz Attacks Lift Crude and Refining Margins AD HOC NEWS",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
-  },
-  {
-   "id": "dabc53cdb09e",
-   "title": "DP World locks in Luanda until 2051 and adds a US$90m push for a more automated terminal",
-   "original_title": "DP World locks in Luanda until 2051 and adds a US$90m push for a more automated terminal",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb201VVBpRTA1T0JDWnB0clVZc2NONzBUNGFqeTVwd1d1cjFWdVVQRTk3SjdrOWxfQVpOQktxakhtV2k4Yk9BZlpjTGZlTTgtNlRnOEtUU3Z0MEFjaGFhT0N5cThQcThrZlFsSU1lcVZWellJSDRqaUJtZ2F0SC1MNGNYYlVJblQ3aVVDa1kwYlpORVF3X05qUkw0VzlPLWd4Nlp2QTlfYUVYYm9XRHduVklxUkI1UQ?oc=5",
-   "source": "Capmad",
-   "published": "2026-10-09T01:14+00:00",
-   "added": "2026-10-12T08:02+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "ports",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "automated terminal",
-    "terminal"
-   ],
-   "summary": "DP World locks in Luanda until 2051 and adds a US$90m push for a more automated terminal Capmad",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cb758f6f275b",
-   "title": "duisport increases Trieste-Duisburg intermodal link, plans extension to Wels",
-   "original_title": "duisport increases Trieste-Duisburg intermodal link, plans extension to Wels",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVZFTlFoMVlfSEZfd1Y0TzRRMWlpaFJ1Q0I3NktOaHFpRXY1MFVNVkgwdHZWMWk3elVRdnlOTHRXcXJpSWRhRkl4Q3A4Vmx4Vzlpd3k2a29xcWkyMnZ0cW9QWkIzWUZ0MENfT1F1V1lieHBMOTZ2YkNYMnZQWU1nSzRhMlpXWVh5eWJ5aXpmVWpHZGM1em9HeHBrZUY5enNjbUY3WDUyZ1VJQS1xQ1pST3hDTElZWS1wQThEX2x6SQ?oc=5",
-   "source": "RAILMARKET.com",
-   "published": "2026-10-09T01:00+00:00",
-   "added": "2026-10-09T09:56+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "intermodal"
-   ],
-   "summary": "duisport increases Trieste-Duisburg intermodal link, plans extension to Wels RAILMARKET.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8b8014589874",
-   "title": "Fuel and fertiliser costs outpace higher grain prices - CoBank",
-   "original_title": "Fuel and fertiliser costs outpace higher grain prices - CoBank",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPendWSU55dnlyeHZwTDNxRExBd0FhTzlOVG92d3VLN1lpNUs0d1puaFFfQVgzU0k1SmlsYkdJNms4ZG9sYWRaclFyZzFIanZQQTg0eHp6OEgyeUs0R0d2anhhN2VWVWlodXk4c0JzQzRNeWdrVnRodV81N0hCbmpjcUVPLWxKUkhaM0dkX2NlQU1uQTlzT2JSZU9TQXRuM1JoMmc?oc=5",
-   "source": "The Pig Site",
-   "published": "2026-10-08T23:00+00:00",
-   "added": "2026-10-09T00:33+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fertiliser",
-    "grain",
-    "prices"
-   ],
-   "summary": "Fuel and fertiliser costs outpace higher grain prices - CoBank The Pig Site",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "52bdec61b9ea",
-   "title": "Global Cranes Market to Grow at 5.5% CAGR as Infrastructure Development, Smart Crane Technologies and Rising Demand for Heavy Lifting Equipment Gain Momentum, reports Maximize Market Research",
-   "original_title": "Global Cranes Market to Grow at 5.5% CAGR as Infrastructure Development, Smart Crane Technologies and Rising Demand for Heavy Lifting Equipment Gain Momentum, reports Maximize Market Research",
-   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPVzVMZWFEYXdsZmFZMTNxVEVreEpHRGM4S25VM3dKOUZMaDE3NkkxQVBIVmYxbTd2Yld4QUxkMm15dEJNSUttSnZ4QVdQeVRBX1FUU0dvWjZ4R2tieUI1czhzRG9vQlU3akpTdS1UVjRaNi1LUVhycEMtU1lDQlc1dTZKZ1BkOXRJM0NfdTViVFNEeW42Q1NhN3lSX21jUWpyejRMWUl1VVN1LUpQcjE3RU1fdTVrbF9PcFkyQnRsQjVtQnR4QkNmTzB5Um5ISzFrVUNXNDF0RllRbU9Ga1RBa3JIazNMaURzM0t1bkdyWmt4VXNBQ0dqU19qbnhUZ004WHY0Q0tvc1puOWVQNkp2VTRIMm9lUDZ3WG1vd2pxUkZCZ3NuSC05cHl1X0xCMHU1by1fcnFGZktYRDdKckRENXAwUVFPX29qcWVRT29RS3RBSTZqamJPVUJDT3NNdzdiY1ZaNg?oc=5",
-   "source": "PR Newswire UK",
-   "published": "2026-10-08T21:30+00:00",
-   "added": "2026-10-08T22:59+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "crane",
-    "cranes"
-   ],
-   "summary": "Global Cranes Market to Grow at 5.5% CAGR as Infrastructure Development, Smart Crane Technologies and Rising Demand for Heavy Lifting Equipment Gain Momentum, reports Maximize Market Research PR Newswire UK",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b39f733873a7",
-   "title": "Diana Shipping secures time charter deal for Capesize vessel G. P. Zafirakis",
-   "original_title": "Diana Shipping secures time charter deal for Capesize vessel G. P. Zafirakis",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVFVrS25sVHdZZFM0ckxTWC1KbGRJRE45OENUS3lmc3paRzk5OUh3Q0kzYm92N1MteDJpb3JnMHdzcnZXSmZjQWJqdjRrR3JTd0c4VGdHbDN3U2pCdzdmZkVyemVaN3VnZlVBSUluYTZDaHIyN2puZElYVzBwRzNaUmNvLXFoSmlqYmIyX05uMmMzLUVUVF93NFZYRmw1Z1hYNUZtNzVUV2ZsMnVSMlY2Z0s3V1g5czFXM05lWFl2alhfWWkyZkJvYjhSME9ZQQ?oc=5",
-   "source": "Data Portuaria",
-   "published": "2026-10-08T21:15+00:00",
-   "added": "2026-10-09T13:22+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "capesize",
-    "charter",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Diana Shipping secures time charter deal for Capesize vessel G. P. Zafirakis Data Portuaria",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e3ccaa5eb401",
-   "title": "Container rates ease as Asian port congestion persists",
-   "original_title": "Container rates ease as Asian port congestion persists",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObmdYeFkzMnJncHc3X3JjLUk4anlobVNEVVJUZkdWclgwU3pfbkVVR3dHWjZLVnczUjV1T3ZxSzNtLUxxYnFRWGtpTW96ZXlQaW5PTHg3Nk11blRZTVBiVmtvMG5RcW5fNk5LcmNLWl82N01vemNSM3psOUltVHVGUmNIMjM4aGNfY2YzNG1B?oc=5",
-   "source": "Daily Cargo News",
-   "published": "2026-10-08T21:06+00:00",
-   "added": "2026-10-10T14:19+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "congestion",
-    "port",
-    "port congestion"
-   ],
-   "summary": "Container rates ease as Asian port congestion persists Daily Cargo News",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d7d3ad10a986",
-   "title": "Baltic dry bulk freight index hits six-week low on weaker rates",
-   "original_title": "Baltic dry bulk freight index hits six-week low on weaker rates",
-   "url": "https://www.hellenicshippingnews.com/baltic-dry-bulk-freight-index-hits-six-week-low-on-weaker-rates/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T21:00+00:00",
-   "added": "2026-10-08T21:37+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "high",
-   "score": 19,
-   "regions": [
-    "Baltic & Nordics",
-    "Latin America"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry",
-    "capesize",
-    "dry bulk",
-    "panamax",
-    "supramax",
-    "vessel"
-   ],
-   "summary": "The Baltic Exchange’s dry bulk freight index dropped to its lowest point in more than six weeks on Thursday as declining capesize rates offset increases in the panamax and supramax segments. The main Baltic index, which monitors rates for capesize, panamax and supramax vessels, decreased 21 points, or 0.7%, to 2,973 points. This marked the index’s lowest reading since August 25. The capesize index fell 85 points, or 1.9%, to 4,512 points, reaching its lowest level since August 20. Average daily earnings for capesize vessels, which normally transport 150,000-ton cargoes such as iron ore and coal, dropped $768 to $37,420. Dalian iron ore prices reached an 18-month low on Thursday, the first working day following a week-long holiday break in China, the world’s top consumer. Weak steel margins reduced the demand outlook for the key steelmaking ingredient. Average daily earnings for panamax vessels, which typically carry 60,000 to 70,000 tons of coal or grain, increased $232 to $21,688. Source: Investing.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "d302833b772c",
-   "title": "The Decarbonisation of European Ports",
-   "original_title": "The Decarbonisation of European Ports",
-   "url": "https://www.hellenicshippingnews.com/the-decarbonisation-of-european-ports/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T21:00+00:00",
-   "added": "2026-10-08T21:15+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "equipment",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "ammonia",
-    "digitalisation",
-    "hydrogen",
-    "port",
-    "ports",
-    "terminal"
-   ],
-   "summary": "European ports are being remade. Long established as cargo-handling facilities, they are becoming multi-functional nodes at the intersection of the energy transition, digitalisation and infrastructure resilience: gateways for conventional trade, industrial platforms for renewable energy and sustainable fuels, receiving terminals for hydrogen, ammonia and captured CO2, and marshalling hubs for offshore wind. The transformation is not voluntary. Whether a global fuel intensity standard and carbon pricing mechanism is adopted, and in what form, determines whether the EU’s regional measures remain the operative constraint on shipping calling at European ports or become one layer of a two-tier system. Brent moved from below $60 at the start of 2026 to above $100, European gas prices rose by between 40% and 67%, and the Commission’s spring 2026 forecast revised its Brent assumption upwards by 46%. They also explain why the EU Ports Strategy of March 2026 gives as much weight to security, dual-use capability and foreign ownership as to decarbonisation. 3.1The FuelEU Maritime Regulation The FuelEU Maritime Regulation (“FuelEU”) imposes progressively stringent limits on the greenhouse gas intensity of energy used by ships calling at EU ports, measured well-to-wake.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
   }
  ]
 }
