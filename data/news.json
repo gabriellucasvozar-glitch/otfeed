@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T20:20+00:00",
+ "generated_at": "2026-10-13T20:58+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -2232,6 +2232,31 @@
     "maize"
    ],
    "summary": "Italian maize buyers turn to US, Brazilian supplies amid blac ... Milling Middle East & Africa",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "851eb0131bad",
+   "title": "Government invests R8.9 billion to restore key iron ore export corridor",
+   "original_title": "Government invests R8.9 billion to restore key iron ore export corridor",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGkzUWk3NGlkMGttekZwMTFad2FzdmNYYURzV25LZFpUVU9QUktpZDhGSUZnbVZDZGsyTGJZelJ6SlJFLS1DV09Kb3huVW45bXRuY2xlSUZvU3RsRWROd1BRc1BpNFhWNkliSGh2TEJfeEw3TklpTXVfLTg3QUVJdzVDbGlvWjJWeUQtbDUwLW1uNmJ2X2V4X0pIUi0tWk1STVBtRUtkWGtQdw?oc=5",
+   "source": "South African Government News Agency",
+   "published": "2026-10-13T09:55+00:00",
+   "added": "2026-10-13T20:58+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "Government invests R8.9 billion to restore key iron ore export corridor South African Government News Agency",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16599,35 +16624,6 @@
    "summary": "Mediterranean Shipping Co (MSC) and Ocean Network Express are restructuring their vessel-sharing partnership between Asia and South America’s east coast, with Hapag-Lloyd dropping out of the existing three-carrier arrangement. MSC said that the current agreement covering the Ipanema service would end in its present form, leaving the Swiss carrier and Singapore-based ONE to operate the weekly service jointly. The first sailing under the revised agreement is scheduled to depart Shanghai on April 3, 2027. MSC will contribute additional ships to replace capacity associated with Hapag-Lloyd’s departure. ONE confirmed that it would continue operating the trade under its East Coast South America Express 1, or SX1, brand, maintaining weekly sailings between major Asian export centres and South America’s principal container gateways. The revised service will connect Shanghai, Ningbo, Shekou, Hong Kong and Singapore with Brazilian ports including Santos, Paranaguá, Navegantes and Rio Grande, as well as Montevideo and Buenos Aires.ONE said the final rotation remains subject to further operational review. The move ends a longstanding three-way cooperation on the route. MSC, ONE and Hapag-Lloyd expanded their Asia–South America east coast partnership in late 2018, with ONE adding weekly services to broaden coverage between the two regions. The latest restructuring leaves MSC and ONE continuing their cooperation while Hapag-Lloyd withdraws from the vessel-sharing arrangement.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "85300ea9b7a7",
-   "title": "Hormuz crisis: freight traffic down at the ports of Genoa and Ravenna",
-   "original_title": "Hormuz crisis: freight traffic down at the ports of Genoa and Ravenna",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNVpCckF0dHA5Z2k2MS11SHF1S3hVc3Y5RmdZSTVBakdSLU1LQXhEVWxYQ1hKOGNMOTZNVHRmS2EtTDIyQXJMV05vRzRIM2RidklJcGlBUUN6VkVGR0tyNkk3ZHRvQ2xrX1h6cVRqcG9sdE1mbDlqMzNINm1yTkl4d0t6Q1c5R1JVVmc4RldHQkhrTnJuRnQtV3dTMUJqU0dNOE45YzhaVFVRVkFCTE5sag?oc=5",
-   "source": "Il Sole 24 ORE",
-   "published": "2026-10-09T06:03+00:00",
-   "added": "2026-10-09T06:26+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe",
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "port",
-    "ports"
-   ],
-   "summary": "Hormuz crisis: freight traffic down at the ports of Genoa and Ravenna Il Sole 24 ORE",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
   }
  ]
 }
