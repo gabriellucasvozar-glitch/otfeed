@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T15:00+00:00",
+ "generated_at": "2026-10-13T15:26+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,56 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "1827fc6c8f5f",
+   "title": "Terminal CPK. Wycofanie jednego wykonawcy nie przerywa dialogu",
+   "original_title": "Terminal CPK. Wycofanie jednego wykonawcy nie przerywa dialogu",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQ19vRk54MnlYNVBmWlBLOTlEaGYxY2t5VlJzaHJRZksxQnFzc3J6c3Z6eEFmSFJXWXBUdUZVMTlwMEV2bzBSZkZvN1VMd1loQ2J6M1JpNDRtX3FRZVJ0TDZZOVFYMmhfbWU4cGFxV1JzWU5XWWktZzV1LU5HN1o3SG5KQnBid3pNbE1mczk0LXh2Z1M1YnAwcW4tMGZLbl9IWUZTWExfdUsyX3NxeS1JVnRPY2ZCb2VLcXdXVUFDYjdpZEwyQldsbVk5QXNiMEh6SmpUY2pTOWJ0SE55eXU4?oc=5",
+   "source": "Rynek Infrastruktury",
+   "published": "2026-10-13T15:21+00:00",
+   "added": "2026-10-13T15:26+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Terminal CPK. Wycofanie jednego wykonawcy nie przerywa dialogu Rynek Infrastruktury",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "43404b710374",
+   "title": "Europe’s “highest low-speed railway” fights for its future",
+   "original_title": "Europe’s “highest low-speed railway” fights for its future",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnFBY05KYTBicWYtcmFZMjlMandEdHhuUUFpODRwRGhGNWYxNm9OT3FWako5MzF1TmFkT3ZpcHNqRm9xT2t1aWxmQkVJb3k3MkVzb2hoYWNyYVd2OWpTMHozQzQ3SWlmRUFBMWE3R1hsaVB3OWtzMG1qNmVnUVY2MnBxRVUtWlNXZC1OdHJVQ1daT2Uxc1pkNw?oc=5",
+   "source": "International Railway Journal",
+   "published": "2026-10-13T15:00+00:00",
+   "added": "2026-10-13T15:26+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "Europe’s “highest low-speed railway” fights for its future International Railway Journal",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "a759d2789b11",
    "title": "Look beyond AI productivity gains, forwarders told",
@@ -40,6 +90,39 @@
    "summary": "Freight forwarders should focus on using artificial intelligence to capture lost gross profit and deliver more tailored customer service, rather than treating the technology primarily as a productivity tool, according to Erik Muttersbach, founder of AI software company Zauber. Speaking on The Loadstar Podcast , Mr Muttersbach said AI could transform freight forwarding into a higher-value, higher-margin business over the next three to five years, with a growing divide between companies that adopt the technology quickly and those that struggle to keep pace. Mr Muttersbach said 2025 saw a wave of AI start-ups and funding announcements, while 2026 has been characterised by companies running pilots and proofs of concept, alongside industry leaders committing to larger-scale deployments. He highlighted that rather than using AI to increase productivity, forwarders should instead target opportunities to improve profitability. AI could also help forwarders deliver on complex customer-specific requirements that have traditionally been difficult to manage consistently across global operations. “There’s an opportunity to do incredibly individual customer service every single time,” he stressed, and underscored that forwarders that continue offering only standardised services risk losing their competitive edge as customers increasingly expect individualised service to become the norm.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "92da3f1f0d62",
+   "title": "Ukraine turns to German ports as grain export bottlenecks deepen",
+   "original_title": "Ukraine turns to German ports as grain export bottlenecks deepen",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRGtNWlBDUnRZcFpDcV9wWUN6U0NvdGtzTGdiLTN6YkdNUUZKV0VzdS1Rb2dwUEpYWGU5QThkOUVBS2Z3NVVCRDAtUFEyXzJzOF9ZSmxnMmMyTXo4OHJTbDVHamNHcGJ6YU5GNjV4TFhrOWtPVnllWGhEMy02dTFxZTNQYjljdU15ajZIZWdaRVE0bUsxek1hMzI1Vmt0SkhvS2Fr?oc=5",
+   "source": "Miller Magazine",
+   "published": "2026-10-13T14:48+00:00",
+   "added": "2026-10-13T15:26+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "ports",
+    "commodities",
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Western Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "bottleneck",
+    "grain",
+    "port",
+    "ports",
+    "ukraine"
+   ],
+   "summary": "Ukraine turns to German ports as grain export bottlenecks deepen Miller Magazine",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "fe9138ffa9b4",
@@ -588,6 +671,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "589e6171173b",
+   "title": "Intermodal rail transport in Poland is gaining momentum",
+   "original_title": "Intermodal rail transport in Poland is gaining momentum",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd1NyVmRINXoyS1E3QnYwQXFkRzI0RXFzMWNrLTRPMmxBZmo4TFczMnQtRm1RLW9BSmlManlscHhrU0s5bF82WEpRV211amxLZXV1V3haUzdpS0h5LXI4YmN5aHFVV2xsWGNfXzIyMDNrSHFlQndOV1pNakZWaTN3UEY4OWNXVzFMd1lQbEUtbEJRWm8?oc=5",
+   "source": "Trade.gov.pl",
+   "published": "2026-10-13T11:29+00:00",
+   "added": "2026-10-13T15:26+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "intermodal",
+    "poland"
+   ],
+   "summary": "Intermodal rail transport in Poland is gaining momentum Trade.gov.pl",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "cdb4c1c27801",
    "title": "Ruszył konkurs na prezesa i członka zarządu PKP CARGO SERVICE",
    "original_title": "Ruszył konkurs na prezesa i członka zarządu PKP CARGO SERVICE",
@@ -610,6 +719,33 @@
    ],
    "summary": "Ruszył konkurs na prezesa i członka zarządu PKP CARGO SERVICE Kolejowy Portal",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "77a27730945f",
+   "title": "Broekman Logistics Flags Growing Role of Middle Corridor in Europe Asia Project Cargo",
+   "original_title": "Broekman Logistics Flags Growing Role of Middle Corridor in Europe Asia Project Cargo",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTkwalNKNVE1UnFqOGFENTQ0Z0dNVmJUWndjMzF1d291RklubVViU1N4dVktY0ZQaTlnYWpELXVzN2lFWWs5c1FRUWF2alpZYmlRcFBtb3dFejJKT0JxMU01S2JIcFFYS2dTMVpNSWFzd3NWdXNQV2JTcmRlRmxhSHpUUTg1NmR2elJiQThMQjFCWEc1Z25PVDlJbS0wOVNPdV8zZUpXSnpVMXU2V0E?oc=5",
+   "source": "Breakbulk.News",
+   "published": "2026-10-13T11:16+00:00",
+   "added": "2026-10-13T15:26+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "logistics",
+    "middle corridor"
+   ],
+   "summary": "Broekman Logistics Flags Growing Role of Middle Corridor in Europe Asia Project Cargo Breakbulk.News",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -2502,6 +2638,31 @@
    ],
    "summary": "Alexandria opens its first dry port to absorb surging transit cargo EnterpriseAM",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "345337f1b241",
+   "title": "Rapeseed Market: MATIF Rebound, Heavy Oilseed Supply, Palm & Soy Pressure",
+   "original_title": "Rapeseed Market: MATIF Rebound, Heavy Oilseed Supply, Palm & Soy Pressure",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVXBhNEw3Zm4zdVBsbU5kQ0w4V1VhMzBWOVNaeVZab184bXJqeE9hRFdSNjhLcFZmZVdpU0NESDh0UUxWdWpSaXRzbjRkM1ZSOTdKRUNYYVZMeXp4eVZlX28wN2ZncVgyUlZrRnpTUkVwUndQV1kxT3BqZ3plZFJUSm40bUJfWXZ1bXE2cmNoeG1OVmVhRWJzbUxWb054R0xCREphUVJHcmk?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-13T06:25+00:00",
+   "added": "2026-10-13T15:26+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "rapeseed"
+   ],
+   "summary": "Rapeseed Market: MATIF Rebound, Heavy Oilseed Supply, Palm & Soy Pressure CMB News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16463,175 +16624,6 @@
    ],
    "summary": "European ports are being remade. Long established as cargo-handling facilities, they are becoming multi-functional nodes at the intersection of the energy transition, digitalisation and infrastructure resilience: gateways for conventional trade, industrial platforms for renewable energy and sustainable fuels, receiving terminals for hydrogen, ammonia and captured CO2, and marshalling hubs for offshore wind. The transformation is not voluntary. Whether a global fuel intensity standard and carbon pricing mechanism is adopted, and in what form, determines whether the EU’s regional measures remain the operative constraint on shipping calling at European ports or become one layer of a two-tier system. Brent moved from below $60 at the start of 2026 to above $100, European gas prices rose by between 40% and 67%, and the Commission’s spring 2026 forecast revised its Brent assumption upwards by 46%. They also explain why the EU Ports Strategy of March 2026 gives as much weight to security, dual-use capability and foreign ownership as to decarbonisation. 3.1The FuelEU Maritime Regulation The FuelEU Maritime Regulation (“FuelEU”) imposes progressively stringent limits on the greenhouse gas intensity of energy used by ships calling at EU ports, measured well-to-wake.",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "b7d7e3cf67f9",
-   "title": "Descartes Releases October Global Shipping Report: U.S. Container Imports Reach Highest September Volume on Record",
-   "original_title": "Descartes Releases October Global Shipping Report: U.S. Container Imports Reach Highest September Volume on Record",
-   "url": "https://www.hellenicshippingnews.com/descartes-releases-october-global-shipping-report-u-s-container-imports-reach-highest-september-volume-on-record/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T21:00+00:00",
-   "added": "2026-10-08T21:15+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "supplychain",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "logistics",
-    "shipping",
-    "supply chain",
-    "teu"
-   ],
-   "summary": "Descartes Systems Group, the global leader in uniting logistics-intensive businesses in commerce, released its October Global Shipping Report for logistics and supply chain professionals. U.S. container imports reached 2,546,261 twenty-foot equivalent units (TEUs) in September, the highest volume on record for the month. The October update of the logistics metrics monitored by Descartes continues to highlight the resilience of U.S. While month-over-month volumes dipped 2.2%, September volumes were the highest on record for the month (2,546,261 TEUs), 10.3% higher than in September 2025 (2,307,933 TEUs) and 24.8% above September 2019 (2,040,813 TEUs) (see Figure 1). Imports from China totaled 924,454 TEUs in September 2026, increasing 4.5% from August and 21.2% from September 2025. September imports from the top 10 CoO were essentially unchanged month-over-month (see Figure 2). For importers, maintaining visibility into changing costs, capacity and trade conditions and having the flexibility to adjust sourcing and routing decisions accordingly remains essential.” Descartes began its global shipping analysis in August 2021 to help importers manage supply chain risk. To read past monthly reports, learn more about the key economic and logistics factors driving global shipping, and review strategies to help address challenges in the near-, short-, and long-term, visit Descartes’ Global Shipping Resource Center.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "bf2c162b9fad",
-   "title": "LR2 demand grows despite 28% fall in clean product volumes",
-   "original_title": "LR2 demand grows despite 28% fall in clean product volumes",
-   "url": "https://www.hellenicshippingnews.com/lr2-demand-grows-despite-28-fall-in-clean-product-volumes/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T21:00+00:00",
-   "added": "2026-10-08T21:15+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "disruption",
-    "hormuz",
-    "shipping"
-   ],
-   "summary": "LR2 product tankers loaded on average 2.1 million barrels per day (mbpd) of clean products during the first three quarters of 2026, 0.8 mbpd less than in the same period of 2025. In 2025, more than 40% of clean product volumes carried by LR2s were loaded in the Persian Gulf, equivalent to 1.2 mbpd. Following the effective closure of the Strait of Hormuz, this fell to 0.4 mbpd in 2026, accounting for just 18% of all clean product volumes loaded on LR2s. However, the decline in clean products has been more than offset by increased crude oil and heavy product volumes carried by LR2s. Despite the increase in volumes, total tonne-mile demand rose by only 2% year-on-year in the same period. Higher volumes from the Mediterranean and the Americas accounted for 80% of the increase in crude oil and heavy product volumes, although LR2s gained volumes in almost all loading regions. In the US and Canada, the increase in crude oil and heavy product volumes loaded on LR2s exceeded the overall increase in exports from both countries. LR2s also captured nearly 30% of the increase in Venezuela’s crude oil and heavy product exports.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "4de16d910517",
-   "title": "Dry Bulk Shipping Fleet Growing, But Ageing as Well",
-   "original_title": "Dry Bulk Shipping Fleet Growing, But Ageing as Well",
-   "url": "https://www.hellenicshippingnews.com/dry-bulk-shipping-fleet-growing-but-ageing-as-well/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T21:00+00:00",
-   "added": "2026-10-08T21:15+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "dry bulk",
-    "fleet",
-    "shipping"
-   ],
-   "summary": "According to Xclusiv, “annual fleet growth remained close to 3% in both 2024 and 2025 before accelerating modestly so far in 2026. The main feature of this expansion is not simply its pace, but its uneven distribution. Handysize capacity has grown much faster than the rest of the fleet since end-2023, while Capesize/Newcastlemax supply has expanded considerably more slowly. The dry bulk orderbook has increased from around 8.0% of the fleet in DWT terms at the end of 2023 to approximately 15.0% currently. Around 12.8% of the existing dry bulk fleet by vessel count is already more than 20 years old, with the proportion even higher in several smaller and mid-sized segments. Total seaborne dry bulk trade is expected to increase by around 1.7% in 2027, with iron ore growing at a similar pace, while coal and grains remain comparatively subdued. Bauxite continues to stand out as the strongest growth area, with volumes expected to rise by around 7.3%, while minor bulks are also projected to post moderate gains. At the same time, the ageing fleet and the possibility of stronger demolition mean that the headline orderbook may overstate the true increase in effective capacity.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "8d486a1be9ee",
-   "title": "XENETA Weekly Shipping Market Update: Falling Rates Welcome News For European Shippers In Tender Season While Transpacific Edges Downwards",
-   "original_title": "XENETA Weekly Shipping Market Update: Falling Rates Welcome News For European Shippers In Tender Season While Transpacific Edges Downwards",
-   "url": "https://www.hellenicshippingnews.com/xeneta-weekly-shipping-market-update-falling-rates-welcome-news-for-european-shippers-in-tender-season-while-transpacific-edges-downwards/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T21:00+00:00",
-   "added": "2026-10-08T21:15+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "freight rate",
-    "shipping",
-    "tender"
-   ],
-   "summary": "The Xeneta Weekly Ocean Container Shipping Market Update provides data and intelligence including the latest freight rate and capacity movements across global trades with supporting insight from Peter Sand, Xeneta Chief Analyst. Xeneta analyst insight – Falling rates welcome news for European shippers in tender season while Transpacific edges downwards “Spot rates on the Far East to Europe trades have fallen heavily since the post-Hormuz crisis peak in July. The Mediterranean is taking the biggest hit, down 43% since 1 July, while North Europe is down 34%. The pace of the decline has eased a little, but rates are still elevated and the trend is still downward, so we are not at the floor yet. The spread was between these Europe-bound trades was around USD 500 on 1 October 2025 before peaking at USD 2,000 on 1 January 2026. Today the spread has overbalanced below where it was a year ago at just USD 400. “For European shippers, tender season is in full force and falling short-term rates are a welcome development as they negotiate long-term contracts, because they also benchmark against the short-term market.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "2f7bf60a8e2a",
-   "title": "Hanwha Ocean Faces Multiple Labor Talks as Crane Sit-In Enters Ninth Day",
-   "original_title": "Hanwha Ocean Faces Multiple Labor Talks as Crane Sit-In Enters Ninth Day",
-   "url": "https://www.hellenicshippingnews.com/hanwha-ocean-faces-multiple-labor-talks-as-crane-sit-in-enters-ninth-day/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T21:00+00:00",
-   "added": "2026-10-08T21:15+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "court",
-    "crane"
-   ],
-   "summary": "A high-altitude sit-in protest by subcontracted workers atop a 30-meter crane and on a factory rooftop at Hanwha Ocean’s Geoje shipyard has entered its ninth day. The protest, which began with demands for direct negotiations with Hanwha Ocean as the primary contractor, has entered a new phase after a court sided with the subcontract union. On the afternoon of Oct. 8, Hanwha Ocean is scheduled to hold separate rounds of collective bargaining with its regular workforce union, the Hanwha Ocean Branch, as well as two subcontract unions — the Geoje-Tongyeong-Goseong Shipbuilding Subcontract Branch and the Welliv Branch. Previously, the National Labor Relations Commission had ruled that Hanwha Ocean was subject to collective bargaining with the Welliv Branch, a union representing workers at a partner company that operates employee cafeterias, commuter buses and related services. 8, when Kim Yu-cheol, chairman of the Hanwha Ocean Branch, joined the high-altitude tower crane protest to press demands for an extension of the retirement age and improvements to the performance-based compensation system. They argue that because Hanwha Ocean has applied performance bonuses at the same rate to direct and subcontracted workers, subcontracted workers should also receive a fair share of performance-based compensation.",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "227f86de23e3",
-   "title": "Thermal weakness drags global coal flows lower",
-   "original_title": "Thermal weakness drags global coal flows lower",
-   "url": "https://www.hellenicshippingnews.com/thermal-weakness-drags-global-coal-flows-lower/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T21:00+00:00",
-   "added": "2026-10-08T21:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "coal"
-   ],
-   "summary": "• Global seaborne coal flows fell sharply by over 6.7% in September 2026. • Driven by a 12.7% decline in seaborne thermal coal flows. • Global seaborne met coal flows jumped 13.5% in September 2026. • Coal arrivals into India during September 2026 fell by 13.9% • Coal arrivals into Japan during September 2026 jumped by 12.9% Global seaborne coal flows were 115 Mt in September 2026, down 6.7% y/y, driven by a large 14% decline in seaborne thermal coal flows. This contrasts with a 13.5% rise in seaborne met coal flows, but because 72.8% of all coal flows in September were thermal coal, the met coal increase could not offset the overall decline. The opposite was true of Japan, which saw coal arrivals increase by 12.9%. In China, domestic coal prices have risen for 11 straight weeks, so buyers are turning to cheaper seaborne coal. September is a dip, not the start of a trend September’s 6.8% fall in global seaborne coal flows, to 115 Mt, was a thermal story. Met coal rose 13.5%, but thermal made up 72.8% of volumes and set the direction.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
  ]
