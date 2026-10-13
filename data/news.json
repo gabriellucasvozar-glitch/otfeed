@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T07:17+00:00",
+ "generated_at": "2026-10-13T07:44+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,90 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "9895d276c072",
+   "title": "ProRail awards contract for the modernisation of the Rotterdam Noord marshalling yard",
+   "original_title": "ProRail awards contract for the modernisation of the Rotterdam Noord marshalling yard",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXljeXBGMl9YblA1Sm43M1FaendGb0swcWN3dWJwUnJDaGN4bG5YdDBVaUJXWGw2RnYxTzh1OHpFM2pzcGY3cE53SnNtd0dCM0IxODBTQmNXZXJFMHVxb01aemdncF9nZzhMZWxyRHluejlkVkZRRGZmMjN3UDNpWHJ4anc0Y1U1dDJXOGViUE1ud0Z1UW1B?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-13T07:34+00:00",
+   "added": "2026-10-13T07:44+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "ProRail awards contract for the modernisation of the Rotterdam Noord marshalling yard Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9228df01cf1a",
+   "title": "French marines swoop on former Sovcomflot tanker in the Indian Ocean",
+   "original_title": "French marines swoop on former Sovcomflot tanker in the Indian Ocean",
+   "url": "https://splash247.com/french-marines-swoop-on-former-sovcomflot-tanker-in-the-indian-ocean/",
+   "source": "Splash247",
+   "published": "2026-10-13T07:33+00:00",
+   "added": "2026-10-13T07:44+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus",
+    "Asia"
+   ],
+   "tags": [
+    "fleet",
+    "russia",
+    "shadow fleet",
+    "vessel"
+   ],
+   "summary": "France has taken its crackdown on Russia’s shadow fleet into the Indian Ocean, boarding a former Sovcomflot aframax more than 450 nautical miles south of Réunion. French marines descended by helicopter onto the 110,119 dwt DF Peak on Monday after authorities questioned the validity of its claimed Benin registration. President Emmanuel Macron said the vessel was suspected of sailing under a false flag and involvement in illicit fuel transportation. “France is determined to combat the shadow fleet, wherever it may be in the world,” Macron declared. The French military said the boarding was conducted under Article 110 of the UN Convention on the Law of the Sea, which permits inspections of vessels suspected of lacking valid nationality. Built in 2006, the tanker previously traded as NS Captain for Russian state-controlled Sovcomflot before becoming Kaliningrad in 2024 and subsequently DF Peak. The vessel has been under EU sanctions since June 2024 and is also blacklisted by Washington and London. Ukrainian intelligence links the ship to Russian crude exports. The operation follows several French interventions against Russia-linked tankers in European waters, including the interception of the Deliver off Sicily in June.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "6172cc4ae9cc",
+   "title": "Washington teams up with ABS to accelerate nuclear shipping",
+   "original_title": "Washington teams up with ABS to accelerate nuclear shipping",
+   "url": "https://splash247.com/washington-teams-up-with-abs-to-accelerate-nuclear-shipping/",
+   "source": "Splash247",
+   "published": "2026-10-13T07:26+00:00",
+   "added": "2026-10-13T07:44+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "shipping"
+   ],
+   "summary": "The US Department of Energy (DOE) has joined forces with classification society ABS to accelerate the development of commercial nuclear-powered shipping and floating power plants. The agreement with DOE’s Office of Nuclear Energy covers feasibility studies for floating reactors, dedicated nuclear shipping corridors and the ports, shipyards and industrial infrastructure required to build and support nuclear-powered vessels. ABS will co-manage the Maritime Nuclear Applications Group, providing technical, regulatory and economic expertise, while coordinating related work through the US Maritime Administration’s Center for Maritime Innovation. “Advanced nuclear technology is moving from concept to application, and the maritime industry needs to be ready for it,” said ABS chairman and CEO John McDonald. In 2022, DOE contracted ABS to examine barriers to commercial nuclear propulsion, while the class society subsequently published the industry’s first comprehensive rules for floating nuclear power plants. As Splash reported in July, ABS approved in principle a South Korean 15,000 teu containership concept incorporating a molten salt reactor, following earlier approvals for floating nuclear power modules developed by HD Hyundai. Last month, ABS backed a study examining the economics of a 174,000 cu m nuclear-powered LNG carrier. The vessel would cost approximately 2.5 times as much to build as a conventional LNG carrier, although researchers projected lower lifetime costs under certain carbon-pricing scenarios.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
   {
    "id": "582679c68990",
    "title": "Lineas is expanding its rail operations at the Port of Antwerp",
@@ -64,6 +148,31 @@
     "restrukturyzacj"
    ],
    "summary": "Restrukturyzacja PKP CARGO. Zarządca wnioskuje o zmianę harmonogramu Kolejowy Portal",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "da150ab82a4c",
+   "title": "CF Moldova to become a joint-stock company, but without privatisation",
+   "original_title": "CF Moldova to become a joint-stock company, but without privatisation",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2FoLXhNWFRuNko2MnQwbEY4ZURGeGtSeWdmZmRDNmFLOHU3ZWMwNXEzQk9Bc1VfSS1iR2huNF9UV0kwcUNJVG9meWh1dHVQYnB2VWNxNlg1SmRNTV9ZUWgtR3V5bk8zdEdzcHBlZnZFZ0ZsVDd2RHk1X3JnYXJzcEdPcnBZcFJqMWJZeU9pLW15LUdNVjhtd1Bpb2JUcUg5?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-13T07:02+00:00",
+   "added": "2026-10-13T07:44+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Central & Eastern Europe"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "CF Moldova to become a joint-stock company, but without privatisation Railway PRO",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
@@ -6188,6 +6297,36 @@
    ],
    "summary": "3 European Auto Supplier Stocks Tied To Volkswagen Reshoring Moves Simply Wall Street",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9a762521be3e",
+   "title": "Nordic Countries Build Three Strategic Transport Routes, Expand Ports and Revive Abandoned Railways to Move Troops and Supply the Baltic States",
+   "original_title": "Nordic Countries Build Three Strategic Transport Routes, Expand Ports and Revive Abandoned Railways to Move Troops and Supply the Baltic States",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOUZnamgxNmRLQm9wMFF6MmZDTGRONjRELU1ENGJWeFp2WEp0dFNaSFFiWXJKWTE0RmxyNW9TQWViTHpJb3VFTW5YaDRQcHFXdkE4T0RoblJnVVdpZU1OSjdFNGxqOUlvbjg2aWlLU21UOTlJWF9CdGYzRmhGdmF0U1RBWTJFT2IySUVfYjNWRGNPMVZiWFVDenZjakJ6VUdySlVNREF2Zks3MDU3TDVfaUVwLXVkLUVIUlpLTmFsRVI3SmZJQWZ5bzdqOENkQ0p3NExncFNXV3lfSEx2amZwdHNIWE9Od0g4Yjlhc0x2MWZkMjV3ZFVDWVFVUy12TFBQVlEwOGctOA?oc=5",
+   "source": "The Baltic Sentinel",
+   "published": "2026-10-11T18:52+00:00",
+   "added": "2026-10-13T07:44+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "port",
+    "ports",
+    "railway",
+    "railways"
+   ],
+   "summary": "Nordic Countries Build Three Strategic Transport Routes, Expand Ports and Revive Abandoned Railways to Move Troops and Supply the Baltic States The Baltic Sentinel",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16527,160 +16666,6 @@
    "summary": "Brazilian Iron Ore Exports Decline in September IndexBox",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "22ffda2c892c",
-   "title": "India-EU green shipping corridor targets cleaner maritime trade",
-   "original_title": "India-EU green shipping corridor targets cleaner maritime trade",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWHZPQ3FNaVY2VXR2MDZZN2tadWd1TjJscFBtQzFUR05NRHQ0UHJMbGtJdTBubDl6Y2thVm9nMXRuNGplMUx0WjN1UERtV3EzRWpsb0VWdi1GQ2otSXoxVUh3X2lqcEpKUjlrMHJ4MkhCZkV2X1dyV3c3V24yX0lMQ21jYm9WVGRJZUR5ZWVKZkI?oc=5",
-   "source": "safety4sea",
-   "published": "2026-10-08T10:06+00:00",
-   "added": "2026-10-08T14:54+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "EU institutions",
-    "Asia"
-   ],
-   "tags": [
-    "eu ",
-    "shipping"
-   ],
-   "summary": "India-EU green shipping corridor targets cleaner maritime trade safety4sea",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "08eefe1082ab",
-   "title": "Rosatom folds Delo into expanding logistics platform",
-   "original_title": "Rosatom folds Delo into expanding logistics platform",
-   "url": "https://splash247.com/rosatom-folds-delo-into-expanding-logistics-platform/",
-   "source": "Splash247",
-   "published": "2026-10-08T10:00+00:00",
-   "added": "2026-10-08T10:10+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "high",
-   "score": 19,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "acquire",
-    "acquired",
-    "buyout",
-    "logistics",
-    "russia",
-    "shipping",
-    "stake"
-   ],
-   "summary": "Russia’s state-owned Rosatom has completed the buyout of Delo Group founder Sergei Shishkarev’s controlling stake, taking full control of one of the country’s largest transport and container logistics groups. Rosatom, which previously held 49% of Delo, has acquired Shishkarev’s remaining 51% and will now begin consolidating the company with its other transport holdings, including shipping and logistics group FESCO. Neither side disclosed the final consideration. Rosatom is pitching the consolidation as the creation of Russia’s largest national logistics company. Delo brings a sizeable container platform to the state corporation. Rosatom controls 92.5% of the Vladivostok-based group, whose assets include more than 30 ships, container and rail operations and the Commercial Port of Vladivostok. Rosatom triggered the mutual buyout process in February after disagreements with Shishkarev. The Delo founder initially elected to acquire Rosatom’s stake but subsequently abandoned that route, handing the purchase right back to the state corporation. Rosatom said the combined logistics assets now account for around 50% of Russia’s container handling market and 44% of rail container transportation.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "97d80390b913",
-   "title": "Drewry: Red Sea Diversion Tracker Shows Exponential Annual Rise",
-   "original_title": "Drewry: Red Sea Diversion Tracker Shows Exponential Annual Rise",
-   "url": "https://www.hellenicshippingnews.com/drewry-red-sea-diversion-tracker-shows-exponential-annual-rise/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T10:00+00:00",
-   "added": "2026-10-08T10:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "carrier",
-    "diversion",
-    "port",
-    "ports",
-    "red sea",
-    "security",
-    "suez"
-   ],
-   "summary": "With regional security changing rapidly, Drewry’s Red Sea Diversion Tracker delivers timely intelligence to shippers, carriers, ports and other stakeholders on the evolving structure of carrier networks. Transits via Suez up 154% year-on-year During the week ended 4 Oct, the number of containership transiting via the Suez Canal (in either direction) reached a one-year high of 61, up 154% when compared with the number in the same week of 2025, as carriers continued their gradual policy of returning to the Suez route. The average number of transits was 52 in the latest 3 weeks, up 15% from the average in the previous three weeks. Source: Drewry",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c81bfae7a625",
-   "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
-   "original_title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
-   "url": "https://www.hellenicshippingnews.com/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T10:00+00:00",
-   "added": "2026-10-08T10:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "crude",
-    "hormuz",
-    "vessel",
-    "war"
-   ],
-   "summary": "Middle East oil exports have climbed back above levels seen before the US-Israel war on Iran began in February, despite Tehran’s attempts to blockade the Strait of Hormuz and attack vessels. Crude exports from the region exceeded pre-war levels on four days in the final week of September, reaching between 19.5 and 22.5 million barrels per day (bpd), according to provisional data from maritime tracking firm Kpler. Before the war, exports averaged about 18 million bpd. Gulf countries, she suggested, may be paying Iran to allow their oil through – potentially handing Tehran a significant portion of the value of the cargo. “I also suspect that these countries know that this is unsustainable from a perspective of [the] US escorting [ships], and also unsustainable from them paying Iran 10 percent of their cargo, or 20 percent of their cargo,” she added. But as early as March, the shipping journal Lloyd’s List reported that Iran’s Islamic Revolutionary Guard Corps (IRGC) had already imposed a “toll booth” system to control vessel traffic through the strait. The Trump administration, during the course of the war, has repeatedly said Iran will not be permitted to charge a toll under any potential agreement with Washington.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "76a71c97c3c8",
-   "title": "Bearish signs on oil markets emerge",
-   "original_title": "Bearish signs on oil markets emerge",
-   "url": "https://www.hellenicshippingnews.com/bearish-signs-on-oil-markets-emerge/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T10:00+00:00",
-   "added": "2026-10-08T10:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "houthi",
-    "red sea",
-    "vessel"
-   ],
-   "summary": "Oil markets have been in constant flux since the start of the US-Iran conflict, with market participants closely monitoring the situation in the Middle East Gulf (MEG). The conflict has expanded towards the Red Sea since August, disrupting oil flows at Bab-el-Mandeb as the Houthis resumed attacks on Saudi-linked vessels and on the East-West pipeline in early September, crippling crude loadings from Saudi Arabia’s Yanbu port. That said, operating rates at the East-West pipeline have recovered to ~80% capacity (Bloomberg), while recent satellite imagery at the Yanbu reflects continued VLCC loadings, refuting claims that the pipeline has been severely damaged. Crude stock draws concentrated in China One key reason oil prices have not surged toward $150/bbl is China restraining its crude purchases. One key reason is the inability to access Iranian crude/condensate supplies under the current US blockade, prompting private refiners to draw on onshore crude stocks to levels below their 3-year seasonal range. Recent announcements of the strategic stock release pledge could further dampen oil import demand, with a combined 100mb of crude and diesel set to be distributed among G7 countries over four months under IEA coordination. In addition, the latest round of 40mb of sour crude bidding from the US SPR adds another source of oil supply.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
   }
  ]
 }
