@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T14:34+00:00",
+ "generated_at": "2026-10-13T15:00+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "a759d2789b11",
+   "title": "Look beyond AI productivity gains, forwarders told",
+   "original_title": "Look beyond AI productivity gains, forwarders told",
+   "url": "https://theloadstar.com/freight-forwarders-must-look-beyond-ai-productivity-gains/",
+   "source": "The Loadstar",
+   "published": "2026-10-13T14:56+00:00",
+   "added": "2026-10-13T15:00+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "artificial intelligence",
+    "forwarder",
+    "forwarding"
+   ],
+   "summary": "Freight forwarders should focus on using artificial intelligence to capture lost gross profit and deliver more tailored customer service, rather than treating the technology primarily as a productivity tool, according to Erik Muttersbach, founder of AI software company Zauber. Speaking on The Loadstar Podcast , Mr Muttersbach said AI could transform freight forwarding into a higher-value, higher-margin business over the next three to five years, with a growing divide between companies that adopt the technology quickly and those that struggle to keep pace. Mr Muttersbach said 2025 saw a wave of AI start-ups and funding announcements, while 2026 has been characterised by companies running pilots and proofs of concept, alongside industry leaders committing to larger-scale deployments. He highlighted that rather than using AI to increase productivity, forwarders should instead target opportunities to improve profitability. AI could also help forwarders deliver on complex customer-specific requirements that have traditionally been difficult to manage consistently across global operations. “There’s an opportunity to do incredibly individual customer service every single time,” he stressed, and underscored that forwarders that continue offering only standardised services risk losing their competitive edge as customers increasingly expect individualised service to become the norm.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "fe9138ffa9b4",
    "title": "Velenje coal mine could become large underground thermal energy storage facility",
@@ -170,6 +198,37 @@
    "summary": "Longford Farming: Agriculture Minister unveils €46 million fertiliser aid scheme Ireland Live News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
+  },
+  {
+   "id": "0c8d55a898b2",
+   "title": "France Seizes Another ‘Shadow Fleet’ Tanker; Russia Decries ‘Piracy’",
+   "original_title": "France Seizes Another ‘Shadow Fleet’ Tanker; Russia Decries ‘Piracy’",
+   "url": "https://gcaptain.com/france-seizes-another-shadow-fleet-tanker-russia-decries-piracy/",
+   "source": "gCaptain",
+   "published": "2026-10-13T12:56+00:00",
+   "added": "2026-10-13T15:00+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "military",
+    "russia",
+    "sanction",
+    "shadow fleet"
+   ],
+   "summary": "Shadow Fleet Tanker ‘DF Peak’ as seen from a UAV or helicopter during the VBSS operation. (Source: EMA) PARIS/MOSCOW, Oct 13 (Reuters) – France’s military was taking a tanker suspected to be part of Russia’s “shadow fleet” skirting Western sanctions to Reunion island on Tuesday in what Moscow called another act of “piracy.” Sanctions on Russia for invading Ukraine and aimed at cutting its oil revenue have spawned a fleet of often aging and unregulated vessels helping Moscow keep its crude exports flowing. The DF Peak, previously named the Kaliningrad and flagged from Benin, is at least the fifth Russian-linked tanker to be seized by France since 2024. France had also not notified Russia about the tanker’s seizure, it said. In a post on X on Monday evening, President Emmanuel Macron showed French military personnel intercepting and boarding the tanker from helicopters in what he said was some 450 nautical miles south of Reunion, a French territory in the Indian Ocean. The vessel has been hit by US, UK and EU sanctions in 2024. It was partially loaded and last seen off the coast of Madagascar on October 12 at 0429 GMT with its previous port listed as Guanta in Venezuela, LSEG ship tracking data showed.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
   },
   {
    "id": "04f887c8fb99",
@@ -9921,6 +9980,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "4d8dc53c4575",
+   "title": "India-EU Green Shipping Corridor",
+   "original_title": "India-EU Green Shipping Corridor",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12clZkUU15TXJBcWU3NUJCdV9VRldnQU9HbmoyZndXdkNhNDlNSy1DRjRPTXV2LTY1bC1ONERxejl6YWZwSFM4YVRTWUxhTExrTlNxeEdfTFdWcy13UzY2aWQxaVJ1OEE2Snc?oc=5",
+   "source": "ClearIAS",
+   "published": "2026-10-10T18:57+00:00",
+   "added": "2026-10-13T15:00+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "EU institutions",
+    "Asia"
+   ],
+   "tags": [
+    "eu ",
+    "shipping"
+   ],
+   "summary": "India-EU Green Shipping Corridor ClearIAS",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
    "id": "ae5c7a44f734",
    "title": "Port w Świnoujściu trzeci w Polsce. Wzrost przeładunków o 7,2 proc.",
    "original_title": "Port w Świnoujściu trzeci w Polsce. Wzrost przeładunków o 7,2 proc.",
@@ -16545,85 +16631,6 @@
     "coal"
    ],
    "summary": "• Global seaborne coal flows fell sharply by over 6.7% in September 2026. • Driven by a 12.7% decline in seaborne thermal coal flows. • Global seaborne met coal flows jumped 13.5% in September 2026. • Coal arrivals into India during September 2026 fell by 13.9% • Coal arrivals into Japan during September 2026 jumped by 12.9% Global seaborne coal flows were 115 Mt in September 2026, down 6.7% y/y, driven by a large 14% decline in seaborne thermal coal flows. This contrasts with a 13.5% rise in seaborne met coal flows, but because 72.8% of all coal flows in September were thermal coal, the met coal increase could not offset the overall decline. The opposite was true of Japan, which saw coal arrivals increase by 12.9%. In China, domestic coal prices have risen for 11 straight weeks, so buyers are turning to cheaper seaborne coal. September is a dip, not the start of a trend September’s 6.8% fall in global seaborne coal flows, to 115 Mt, was a thermal story. Met coal rose 13.5%, but thermal made up 72.8% of volumes and set the direction.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "275e518d9aea",
-   "title": "Baltic Exchange joins industry leaders at SGX Commodities Forum in London to discuss the future of freight markets",
-   "original_title": "Baltic Exchange joins industry leaders at SGX Commodities Forum in London to discuss the future of freight markets",
-   "url": "https://www.hellenicshippingnews.com/baltic-exchange-joins-industry-leaders-at-sgx-commodities-forum-in-london-to-discuss-the-future-of-freight-markets/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T21:00+00:00",
-   "added": "2026-10-08T21:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "commodit"
-   ],
-   "summary": "Baltic Exchange CEO Mark Jackson joined industry leaders at the SGX Commodities Forum on 29 September at the Royal Automobile Club in London, taking part in the FFA Freight Panel alongside John Banaszkiewicz of Freight Investor Services, Bilal Muftuoglu of Howe Robinson Partners and Alexis Ellender of Kpler. The session was moderated by Holly Birkett of TradeWinds. The panel examined the challenges facing freight markets amid geopolitical disruption, changing trade routes and increasingly complex supply chains. Mark Jackson and fellow panellists discussed the importance of protecting landed cargo margins in a volatile market and the growing role of freight derivatives in managing risk. The discussion also considered how freight is increasingly being viewed not simply as a cost of moving cargo, but as a strategic trading and risk management tool. The wider forum was well attended, with a near-full house reflecting strong market interest in the challenges and opportunities facing commodity markets. It brought together traders, producers, consumers, brokers, analysts, investors and risk managers to discuss the forces reshaping global commodity markets. The event concluded with a networking reception, giving the Baltic an opportunity to connect with market participants and industry partners in London and continue conversations around the outlook for global commodities and freight. Source: Baltic Exchange",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "88cca24770ba",
-   "title": "Battery-Powered Ships Sail Past the 2,000-Vessel Milestone",
-   "original_title": "Battery-Powered Ships Sail Past the 2,000-Vessel Milestone",
-   "url": "https://www.hellenicshippingnews.com/battery-powered-ships-sail-past-the-2000-vessel-milestone/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T21:00+00:00",
-   "added": "2026-10-08T21:15+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fleet",
-    "vessel"
-   ],
-   "summary": "The maritime industry’s decarbonization transition has reached another historic milestone, with the global fleet of battery-powered commercial vessels officially surpassing the 2,000-ship mark. Data collected on the Maritime Battery Forum (MBF) Ship Registry confirms that 2,000+ commercial ships have been delivered with battery installations or are currently on order. Overall, this fleet represents a massive 2.4 GWh of installed maritime battery capacity, the same electricity to power 240k European homes for the entire day in. “Reaching 2,000+ ships marks a significant moment for marine electrification,” says Syb ten Cate Hoedemaker, Managing Director of the Maritime Battery Forum. This milestone proves the technology is ready to scale.” The data show that 68% of these vessels operate as hybrids, utilizing a battery in combination with another energy source such as a diesel engine or hydrogen fuel cell. While passenger vessels account for the largest segment at 570 ships, the register demonstrates that every type of commercial vessel is now available in a battery-powered configuration. The milestone fleet encompasses a highly diverse profile, including 313 offshore vessels, 265 cargo vessels, 219 fishing vessels, and 149 workboats, alongside hundreds of specialized vessels (145), yachts (116), tugs (83), and cruise ships (83), proving that scalable energy storage can adapt to varied operational requirements across the sector.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "46872497ffa5",
-   "title": "WinGD awarded Global Service agreement for three TMS Cardiff Gas LNG carrier newbuilds",
-   "original_title": "WinGD awarded Global Service agreement for three TMS Cardiff Gas LNG carrier newbuilds",
-   "url": "https://www.hellenicshippingnews.com/wingd-awarded-global-service-agreement-for-three-tms-cardiff-gas-lng-carrier-newbuilds/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T21:00+00:00",
-   "added": "2026-10-08T21:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "carrier",
-    "lng"
-   ],
-   "summary": "Swiss marine power company WinGD has secured a long-term engine service agreement covering three newbuilds operated by Athens-based ship management company TMS Cardiff Gas Ltd. The three LNG carriers built by HD Hyundai Samho in South Korea, are each equipped with two of WinGD’s 5X72DF dual fuel engines. The agreement further strengthens WinGD’s lifecycle support for the Greek shipping community, one of the world’s most important ship owning and ship management markets and a key centre for globally operating fleets. The agreement also reflects the growing role of Global Service by WinGD in building long-term relationships with Greek owners and operators beyond the initial delivery of the engine. Jürgen Gerdes, General Manager Global Service Sales at WinGD said: “Our solutions make a real difference to the performance and profitability of ships. We’re delighted that these vessels will benefit from dedicated support from the start of their operational lives, backed by expertise and a service network capable of supporting them wherever they trade.” George Theodosiou, Technical Manager at TMS Cardiff Gas Ltd said: “We deliver for our customers wherever and whenever they need it, and it’s critical that our ships’ engines do the same.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
