@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T12:36+00:00",
+ "generated_at": "2026-10-13T13:08+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "04f887c8fb99",
+   "title": "News West African port congestion exposes gaps beyond terminal gates",
+   "original_title": "News West African port congestion exposes gaps beyond terminal gates",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbV9oX3pJMVc1aVhrdlhrYU5Tb1ZIZktmM1dYekZVN1ZCdmU5NzFMZm1lUU1tcTdBR0pxbEt4ZzI4X0otOWo2WTdIZkNTbnVkNjZqRXZwRUozXzJlMEQ0d0MybmJFRXhwT2NrTEZYUTdXSVhPYXIwQ1RXdGJkNTcxeVVPbTBSV3NiNEZqSzktNE44QQ?oc=5",
+   "source": "The Loadstar",
+   "published": "2026-10-13T12:56+00:00",
+   "added": "2026-10-13T13:08+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "congestion",
+    "port",
+    "port congestion",
+    "terminal"
+   ],
+   "summary": "News West African port congestion exposes gaps beyond terminal gates The Loadstar",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "b59b7a2bd7fe",
    "title": "Brazil's Sorghum Boom Threatens U.S. Farmers as China Shifts Grain Purchases",
@@ -95,6 +124,38 @@
    "summary_method": "feed"
   },
   {
+   "id": "02c008d85101",
+   "title": "Bulgaria Points to Russia as Drones Hit More Cargo Ships",
+   "original_title": "Bulgaria Points to Russia as Drones Hit More Cargo Ships",
+   "url": "https://gcaptain.com/bulgaria-points-to-russia-as-drones-hit-more-cargo-ships/",
+   "source": "gCaptain",
+   "published": "2026-10-13T11:56+00:00",
+   "added": "2026-10-13T13:08+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "black sea",
+    "drone",
+    "russia",
+    "security",
+    "shipping"
+   ],
+   "summary": "A view shows a vessel that was hit by a drone in the Black Sea, in this handout image released by the Bulgarian Interior Ministry on October 13, 2026. Bulgarian Interior Ministry/Handout via REUTERS ATTENTION EDITORS - THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY. Oct 13, 2026 (Bloomberg) –Bulgaria summoned Russia’s ambassador to Sofia after two ships were hit off the country’s coast, as concerns mount over the security of Black Sea shipping. The strikes on two cargo vessels on Tuesday add to a series of more frequent attacks on ships in the western part of the Black Sea, a vital route for Ukrainian grain exports that’s close to the territorial waters of NATO member states. Another cargo ship, which the Bulgarian President’s office identified as HS Dignity, sailing under the flag of Guinea-Bissau, was struck and sank 17 miles away from the village of Krapets. “We have already strengthened our posture along the eastern flank and will continue to monitor the security environment, adjusting our deterrence and defense posture as needed,” NATO Secretary General Mark Rutte said on X after speaking to Radev about the case. Bulgaria is already seeking support from the North Atlantic Treaty Organization and the European Union to investigate last week’s cases.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
    "id": "f5cf22c6312f",
    "title": "Emarat Maritime piles six more tankers onto China orderbook",
    "original_title": "Emarat Maritime piles six more tankers onto China orderbook",
@@ -122,6 +183,35 @@
    "summary": "Dubai-based Emarat Maritime has added another six tanker newbuildings to its rapidly expanding fleet, lining up a series of 74,000 dwt LR1 product carriers in China. The company’s own fleet register now lists six LR1 newbuildings, with the first two scheduled for delivery in 2029 and the remaining four in 2030. Shipbuilding database records seen by Splash place the sextet at Jiangsu New Hantong Ship Heavy Industry. Delivery of the six new ships would therefore triple its LR1 fleet. The orderbook includes six 114,000 dwt LR2s at Hengli Heavy Industries, with one due this year and five in 2027, alongside the six latest LR1s. Splash identified Emarat last November as the owner behind the Hengli LR2 sextet. Splash reported in June that Emarat signed for three firm 930 teu feeder vessels plus three options at Hubei Guangji Xinneng Shipbuilding. The company’s current fleet page now lists six feeder newbuildings, four for 2028 delivery and two for 2029. That leaves Emarat with a newbuilding pipeline spanning 12 product tankers, four large gas carriers and six feeder containerships — a major expansion for a company whose current operating fleet numbers 19 ships.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "e4eab1bb6731",
+   "title": "The EU imported 1.6 million tonnes of iron and steel products from Russia in January and August",
+   "original_title": "The EU imported 1.6 million tonnes of iron and steel products from Russia in January and August",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd0kzVC16by1SX0dRdU5CVXJpdXpxMVliV3NSY2hZdFFpeGRkTjZPX1BhalFvV1c2X0JqbzBIRkcwWVl2TmhpVHU2V05vb19hYktwVk1tX0o0S1h2UEhnd1JWZWRYUGRndnplWk1oQU00OGcwbkgySzJjTUN0RmE4ZHk4clJWWjk3R1VpTDVXUkxhWHVURGFPRXU1SVdpcEcxZkF2U0ZsTzBoRTF6RzcyN1RVYWoyUDdPRHVTTS12WGvSAcYBQVVfeXFMTVQ3OWxzMXd5cmtYTmhZV3NDaEVWN3ZVNWtMaEZ0R3dOM3JFZFFvU1BRblhtVHBjWDZLNENpcWVSaE10OHE2Q0M0VHFqV1Q4MnVBOXVkMXlLR3NuWDVYVmZfSzVNVFRCZFFKbk1ITDB0RUhOQWFXTUl1SGFmSC1hWDVvYlZlTVctN0RQTTNaaE9fYTVrR3VkZm5odHdTWlZqWklqVkpmMU5KdE9zUnJ4NXhYSGZsSTVfNG5TbWpaQlhsbk5Ianp3?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-13T11:30+00:00",
+   "added": "2026-10-13T13:08+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "russia",
+    "steel"
+   ],
+   "summary": "The EU imported 1.6 million tonnes of iron and steel products from Russia in January and August GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "cdb4c1c27801",
@@ -388,6 +478,35 @@
    ],
    "summary": "ESPO: OPS available at 60% of European ports, but grid and demand hurdles persist WorldCargo News",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5e8764ad5535",
+   "title": "Saudi Arabia Shoots Down Houthi Missiles as Regional Conflict Escalates",
+   "original_title": "Saudi Arabia Shoots Down Houthi Missiles as Regional Conflict Escalates",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWTNKVk9qWkhzSkx1MnNwcGFDY3pPREowRWlNWWdxckJfQmN5VlZhaWRfNFZ1elJQSFR5amN5Y1FwQlgtN21QTFJWYS1CTFJWal9ORC1nLV9DR3hPd2ZCSDZDQ1RpbHBzR09WTkRMa1RlazVTNWJLVkVsZFg5bjA3bzd3RHdjN1JLbElLZ3VaVmp3N19rRVY5OUoxaWp3X3pDT2g2b3c0ME9iYUJ4X0Q0eXA3NkZrRjFmWDUxR0w5V0QwRGhiWkUyVnRpONIBywFBVV95cUxQWTNKVk9qWkhzSkx1MnNwcGFDY3pPREowRWlNWWdxckJfQmN5VlZhaWRfNFZ1elJQSFR5amN5Y1FwQlgtN21QTFJWYS1CTFJWal9ORC1nLV9DR3hPd2ZCSDZDQ1RpbHBzR09WTkRMa1RlazVTNWJLVkVsZFg5bjA3bzd3RHdjN1JLbElLZ3VaVmp3N19rRVY5OUoxaWp3X3pDT2g2b3c0ME9iYUJ4X0Q0eXA3NkZrRjFmWDUxR0w5V0QwRGhiWkUyVnRpOA?oc=5",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-10-13T10:30+00:00",
+   "added": "2026-10-13T13:08+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "houthi",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Saudi Arabia Shoots Down Houthi Missiles as Regional Conflict Escalates Crude Oil Prices Today | OilPrice.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16538,123 +16657,6 @@
    "summary": "Cameroon’s Kribi Port Invests CFA21.5 Billion to Increase Container Terminal Capacity by 30% Business in Cameroon",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
-  },
-  {
-   "id": "8f1c99344b14",
-   "title": "Ukraine looks outside its borders to German ports to bypass port siege",
-   "original_title": "Ukraine looks outside its borders to German ports to bypass port siege",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa1lkVGh2Y1lnQ1JadEZhLU54dXdSVmJ3SjRTZU1iN3I2RHBrcUJQdU5LVGhSVWwxYXN3WVUyeFdOQU1zeGF5TFZHOXROOXVaV3R5anF3SmNGQUdnRU9QM3BGdlFEU2wwYVEyaGs4dVNDdjNnZV81TGhtcWxmcjNpUmFESlJRaGhlVERFMG5Kd0tNSWFDVXNvQlVOTVhyVzZabEowOWFYY2ltR3RQU1dKSEhicGZOZ9IBwwFBVV95cUxPTGpzSVlvWHhZRHZkUTN5VVNyYVM5ZkpDLVBac0wwLWtqVXlRWVU4VUZjLV8wdDVGblVpNGp6dlFiRFJaWXpzM0hQS2ZlQW1wNlR0aHFTY2tFR1JZUkFNTlJPOTY1d1paLVVQcFB6YWZCal8wc19YQkd3bUt2SWtzOWpsOFFDN2tPLTBVQW9laTVNRnl4VU1kQ2JrbVlJY3hKc1hBQ2RabVg4WTA4dTI2RjJwTVFDcWhvcDBQU3VzUDhiODA?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-10-08T17:27+00:00",
-   "added": "2026-10-08T17:55+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Western Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "ukraine"
-   ],
-   "summary": "Ukraine looks outside its borders to German ports to bypass port siege Baird Maritime",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bfe0e7643b6f",
-   "title": "US sanctions 17 ships in push to shut down Iran’s shadow fleet",
-   "original_title": "US sanctions 17 ships in push to shut down Iran’s shadow fleet",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtSUlmdndidVZ5c2xpMWFKbGJybzJFbldHVEVwTHpsaTlVb1IxS2lxb09UMGNpdEZ3TEJSNFJKWWtvOExpdWI3UHNoSzRJcm8xa0E?oc=5",
-   "source": "Iran International",
-   "published": "2026-10-08T17:25+00:00",
-   "added": "2026-10-09T14:31+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East"
-   ],
-   "tags": [
-    "fleet",
-    "sanction",
-    "shadow fleet"
-   ],
-   "summary": "US sanctions 17 ships in push to shut down Iran’s shadow fleet Iran International",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f95d05b5bd52",
-   "title": "South Korea Recalls Envoy to Ukraine After Being Accused of Shipping Fuel to Russia",
-   "original_title": "South Korea Recalls Envoy to Ukraine After Being Accused of Shipping Fuel to Russia",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUZDTmI0d3owWTllRTNQRDZoTGFfZmt0Tkp0Z3JDR01NRDhmT2w5cC02cWYwUXFhVDlfYzRGRWtaZi1FVWZNN1pUQjZwcy1LNU5CTjJmUUtwWmhNbU5tY3ZaTzBtVU0xdmRaR3ZQRW8wR1hYV1JkZ0VoN01TamtnYWQwNU41X21rUmNyVGlaYm1QQTNyd1lhVGIzUGF2ZFBLaUFiSUVhaDgyMHc4cWhHeGRPWE5IN2FpSG1sM0NvQnlTNTNCTnhBQ19R0gHKAUFVX3lxTE1tRkNOYjR3ejBZOWVFM1BENmhMYV9ma3ROSnRnckNHTU1EOGZPbDlwLTZxZjBRcWFUOV9jNEZFa1pmLUVVZk03WlRCNnBzLUs1TkJOMmZRS3BaaE1tTm1jdlpPMG1VTTF2ZFpHdlBFbzBHWFhXUmRnRWg3TVNqa2dhZDA1TjVfbWtSY3JUaVpibVBBM3J3WWFUYjNQYXZkUEtpQWJJRWFoODIwdzhxaEd4ZE9YTkg3YWlIbWwzQ29CeVM1M0JOeEFDX1E?oc=5",
-   "source": "Breitbart",
-   "published": "2026-10-08T17:24+00:00",
-   "added": "2026-10-08T18:46+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "russia",
-    "shipping",
-    "ukraine"
-   ],
-   "summary": "South Korea Recalls Envoy to Ukraine After Being Accused of Shipping Fuel to Russia Breitbart",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "62e415588887",
-   "title": "Supertankers Racing to Middle East Worsen Global Ship Crunch",
-   "original_title": "Supertankers Racing to Middle East Worsen Global Ship Crunch",
-   "url": "https://gcaptain.com/supertankers-racing-to-middle-east-worsen-global-ship-crunch/",
-   "source": "gCaptain",
-   "published": "2026-10-08T17:23+00:00",
-   "added": "2026-10-08T18:46+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "shortage",
-    "vessel"
-   ],
-   "summary": "Supertankers are racing to the Middle East to cash in on soaring fees for carrying oil through the Strait of Hormuz , exacerbating a global shortage of vessels that has spiked freight rates. Crude flows through the waterway, which connects the Persian Gulf to international markets, have recovered to near pre-war levels in recent weeks despite continued attacks on ships. But the perils of the trade have prompted tanker fees to skyrocket: Moving oil from the gulf to East Asia costs more than six times as much as it did prior to the conflict. Meanwhile, crude producers outside of the Middle East — particularly in the Americas – are still maintaining high levels of output, even as flows from the Persian Gulf rebound. At least one VLCC was offered this week to sail from the US Gulf to Japan at a potential record fee of $82 million, or more than $40 a barrel. For the Persian Gulf to East Asia journey, which takes about three weeks, assessed supertanker rates reached an all-time high of nearly $1.4 million per day on Wednesday. The scarcity and sky-high fees for supertankers have prompted a switch to smaller Suezmax and Aframax vessels for non-Middle Eastern routes.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
   }
  ]
 }
