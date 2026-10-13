@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T01:09+00:00",
+ "generated_at": "2026-10-13T01:35+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -939,6 +939,35 @@
    "summary": "The Black Sea coaster shipping market has once again hit a rough patch, but this time it does not concern the already notoriously Source: International Seaborne Market",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "c96402e94d5f",
+   "title": "Attacks on ships in the Black Sea make grain exports harder as wheat gets cheaper",
+   "original_title": "Attacks on ships in the Black Sea make grain exports harder as wheat gets cheaper",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNk12U0FRYjFQQnN2ZHNEWURTVGhZUWVvYU9HWTM2SUlFMHdwcjBxQ0hFTV9wNFdlTmlhOTZMaGNqZWpfdUdFby0yTTZWQ01KeURvODU3VE8xVnBfeVFPMFltMVhMbFFZQVFVX0VZTFlvTVZMOHpSek96MkUzbHBOYXpORzVqd1pqbGVLVlVSdDBHdmRMWUctRlUtVUE5QW5ZZGJvNllWTWZWSmJVN0xua0RJNjZTVHlYb2lRcWtCc9IBvwFBVV95cUxQNk12U0FRYjFQQnN2ZHNEWURTVGhZUWVvYU9HWTM2SUlFMHdwcjBxQ0hFTV9wNFdlTmlhOTZMaGNqZWpfdUdFby0yTTZWQ01KeURvODU3VE8xVnBfeVFPMFltMVhMbFFZQVFVX0VZTFlvTVZMOHpSek96MkUzbHBOYXpORzVqd1pqbGVLVlVSdDBHdmRMWUctRlUtVUE5QW5ZZGJvNllWTWZWSmJVN0xua0RJNjZTVHlYb2lRcWtCcw?oc=5",
+   "source": "BurgasMedia",
+   "published": "2026-10-12T17:00+00:00",
+   "added": "2026-10-13T01:35+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "grain",
+    "wheat"
+   ],
+   "summary": "Attacks on ships in the Black Sea make grain exports harder as wheat gets cheaper BurgasMedia",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "f6124ead173e",
@@ -16633,31 +16662,6 @@
    ],
    "summary": "Oil prices jump as Middle East risks mount Minute Mirror",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d57eaf9018d3",
-   "title": "Kazakhstan invites Italian firms to Middle Corridor projects",
-   "original_title": "Kazakhstan invites Italian firms to Middle Corridor projects",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yNnNGd1BuY2tJOXIxODZuWUQwSVZTMUNGUTFxZDA0d1NYYjdwVHlYMlRNcGxSeTFEcGl2em1lY3NrNzZ2Nl9Ua2FPbHBPdGU3ZXlvenlPNEtqRTlreXZn?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-08T06:51+00:00",
-   "added": "2026-10-08T12:56+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Kazakhstan invites Italian firms to Middle Corridor projects Trend News Agency",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
