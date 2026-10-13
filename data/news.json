@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T03:03+00:00",
+ "generated_at": "2026-10-13T03:27+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "ef4470cea373",
+   "title": "Pasifik Eurasia to carry 30,000 tons of Kazakh grain via BTK railway",
+   "original_title": "Pasifik Eurasia to carry 30,000 tons of Kazakh grain via BTK railway",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWYwWE1pSDRJZ25veGdlM180elhHLTNMa0NLMlNvelBXS2xBYkxLTFVRZ2V6TUpiY2JPbDRDTnA4ZzU0MHFMcE1uT0M1cTluOHpoY3FSblJLbnQ5a0txR2s4czlHUWpXZlpfelpwRHRERW5WWDhuR0hNTXBBSWRWdDIzeVVTM1cybFlfc2IxYUh6VkVLYjMyQ1VYaGNSZC1BY0pvbk5xYmZTeUVOM1h0bjBCOA?oc=5",
+   "source": "Türkiye Today",
+   "published": "2026-10-13T03:19+00:00",
+   "added": "2026-10-13T03:27+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "railway"
+   ],
+   "summary": "Pasifik Eurasia to carry 30,000 tons of Kazakh grain via BTK railway Türkiye Today",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "c652181e7c71",
    "title": "Chinese coal prices rise to a three-year high.",
@@ -763,6 +790,38 @@
     "polish"
    ],
    "summary": "Polish government bonds could rebound after three months of selling CEO Magazyn",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d21afe201865",
+   "title": "Chinese companies lease 695,000 sq m of warehouse space in Poland, the most in the EU",
+   "original_title": "Chinese companies lease 695,000 sq m of warehouse space in Poland, the most in the EU",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hYVh3a0xzdndsTk5SY0hBWDFHd1djYVdMT19WbDZXNFRMUFdJU2g5cXZCeE9pUnFYdi1xWl9Jc1NWOFdXbWlYaldKa0hfbTNSWGh0ZEFwd2hzSVhFX3MwckQ1djIxdWVGb3k4eVQyTE9lWFR0ZmhvR0NWajh1QQ?oc=5",
+   "source": "CEO Magazyn",
+   "published": "2026-10-12T20:18+00:00",
+   "added": "2026-10-13T03:27+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Poland",
+    "EU institutions",
+    "Asia"
+   ],
+   "tags": [
+    "chinese",
+    "eu ",
+    "magazyn",
+    "poland",
+    "warehouse"
+   ],
+   "summary": "Chinese companies lease 695,000 sq m of warehouse space in Poland, the most in the EU CEO Magazyn",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
@@ -8018,6 +8077,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "55bc1978dc3e",
+   "title": "ViDiS SA Secures Major Warehouse and Office Lease to Support Expansion",
+   "original_title": "ViDiS SA Secures Major Warehouse and Office Lease to Support Expansion",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOclFoaUh5T2Y3Yy05X1BUMVVORllEQWw1eWVhSDJoQUF5dHJBR0tJZEZKUWJobXd6V24zWnRXTlVsZ2dkZktaa1FrQktmdmlRekctenNJRTJab3d6c1hSdzVOaFZ6VzRvWHhTVkpSZEVXcHFWQ2hRLVltSXdPU1otV05PbnQ0ZkhGRzNxbzVDTFpjLThseVVCamlIWTd1eHJaTEhleC1QeHBTbUJYdkdaM1dpNFhsU1hRNnE5dG1aczR2eW1DcFQ3d0IzS0E3NGVxaXY4eTByLTlJMjNwUDB2LTFIQnZ0UQ?oc=5",
+   "source": "The Globe and Mail",
+   "published": "2026-10-09T19:52+00:00",
+   "added": "2026-10-13T03:27+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "warehouse"
+   ],
+   "summary": "ViDiS SA Secures Major Warehouse and Office Lease to Support Expansion The Globe and Mail",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "2843215b1411",
    "title": "Govt in talks with Singapore's PSA to operate more Ctg Port terminals: Minister",
    "original_title": "Govt in talks with Singapore's PSA to operate more Ctg Port terminals: Minister",
@@ -14871,6 +14955,36 @@
    "summary_method": "extract"
   },
   {
+   "id": "ac26a623c76c",
+   "title": "U.S. and Russia Discuss Reviving Russian Gas Sales to Europe",
+   "original_title": "U.S. and Russia Discuss Reviving Russian Gas Sales to Europe",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbE1XOHpBaloyUUg2TERlM1pIQU9CTHh6UlpVZzdsdUViZC1ZRUR3X1Z5SmFSSzZBTTRNT1B6dVB4U0I5RDlxT0hGZHhkbThVd1RvdEE5QmQ5aVFuM1RaUzVObVNNSmVXSEdYNmVDV1EtQXpqeEVBVG96UUYtRDRLYk43ejU3dVpRcHdzdUpPVHNtOUZHeUF1eTAwN3hhN3BuWVJwX0xHYW42bXZ4SW5NNnJWN1jSAboBQVVfeXFMUG5RT1pvaVVvSVE0UHFKWVp6anpIU0hPWUxlRE9zWnBZMDJNRUNudS0wN0dFbm9OUHhOTFU0VGIzbGYxb1M5eV9hNEVLNUxVQXE2WWlXVU5qNXAzWkJFQWp1RnJlaXJ3OXlxYTJjMVFFTUNLa3d2eWtQYVRzVEZERnU3ck5HOU5aUllua1oxcU5KRHdveHNLU1RvendJRURnQldocG9EblEtd2tsOTRaOHE5Y2lUbUY3alpn?oc=5",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-10-08T12:30+00:00",
+   "added": "2026-10-13T03:27+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "crude",
+    "oil price",
+    "prices",
+    "russia",
+    "russian"
+   ],
+   "summary": "U.S. and Russia Discuss Reviving Russian Gas Sales to Europe Crude Oil Prices Today | OilPrice.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "f791576c10bf",
    "title": "RTG terminals offer speed to market",
    "original_title": "RTG terminals offer speed to market",
@@ -16578,121 +16692,6 @@
    ],
    "summary": "The hidden cost of US ports productivity Kuehne+Nagel",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "be3bcccc40cf",
-   "title": "Lithuania calls for EU sanctions against Russian grain",
-   "original_title": "Lithuania calls for EU sanctions against Russian grain",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeXV3WTV5cVN2bEMyN1h1TF9sTFFvbUZnSXhSeTZyNHdLdGlXLWNzTVVxVjl3V3N2dFNTdXBIcndIcFpfdXhoLVFwU1Vsdm5NTmhxUHpCUkhLYk5rN0h6b1NFdXFxLXdHZnFGU0ZBMHVyYzZoX0tqc2lJejloN2hKMmwyXzFnWlRNN2pr?oc=5",
-   "source": "The Kyiv Independent",
-   "published": "2026-10-08T08:18+00:00",
-   "added": "2026-10-13T02:44+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Baltic & Nordics",
-    "Russia & Belarus",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "grain",
-    "russia",
-    "russian",
-    "sanction"
-   ],
-   "summary": "Lithuania calls for EU sanctions against Russian grain The Kyiv Independent",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4e39efc40ff3",
-   "title": "Fundamentals bearish, iron ore prices fall 3.12% [SMM Iron Ore Daily Review]",
-   "original_title": "Fundamentals bearish, iron ore prices fall 3.12% [SMM Iron Ore Daily Review]",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHdBRGUzLXRPVmpBb0lYRTZRcGt2bWpOMHlpa1A1cUdzc05zYmp4R2ptcWZERi1QZEdTV0lwVVUwZ2gyRXByalB3aUNPM19CTHRrQUxiallqUnR3cTFZZENCZkpuU0ozV0R6RmNXaWo5N1lGUTdsQkdOekdOM1VGaXFRQ2FZbDNwbVN1cXFaRkVBMGpoN0FZbGwtQ3ZGczlLTkNtbEJrdXpfTVVRYmJ2WGYwUmVLVE0?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-08T08:18+00:00",
-   "added": "2026-10-08T11:38+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "iron ore",
-    "prices"
-   ],
-   "summary": "Fundamentals bearish, iron ore prices fall 3.12% [SMM Iron Ore Daily Review] Shanghai Metals Market",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f916f65745f2",
-   "title": "CargoBeamer boosts three intermodal routes",
-   "original_title": "CargoBeamer boosts three intermodal routes",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQem9FVHl6QWZ1VGRNTTN5WkkxMkd5dGxEME51T0dneWd6M2Q1ZUdpNTUxVlVPbjBwaHlMRWtnNllMaERQQzdEY29VelFxS2dEZldPVVV1Y09pcm9OTWJHV0F6VGxqczY1dkxvM2d5QlFKSXZHSTVxWFNzNnlfdWh6UVZjcFpHcEwxOGJ2Ykd0QUwtZVE?oc=5",
-   "source": "RAILMARKET.com",
-   "published": "2026-10-08T08:15+00:00",
-   "added": "2026-10-09T07:43+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "intermodal"
-   ],
-   "summary": "CargoBeamer boosts three intermodal routes RAILMARKET.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "91163505fac8",
-   "title": "Turkish ‘steel bulb flat’ anti-dumping duty upheld by EU court; Chinese mainland duty not addressed",
-   "original_title": "Turkish ‘steel bulb flat’ anti-dumping duty upheld by EU court; Chinese mainland duty not addressed",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WTEd2NC02TVNTU1h4cHZhaXVIUWNsZ0pNTlNkZzZsR2lHUjF2aVdOeExyNWFsTmhXaEJ1RlBqWGNlSEVSeUlMX2hZWmxCTWRaNEppX1dWSWFyb0xNNDZmeEVB?oc=5",
-   "source": "HKTDC Research",
-   "published": "2026-10-08T08:08+00:00",
-   "added": "2026-10-08T11:38+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "high",
-   "score": 9,
-   "regions": [
-    "EU institutions",
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "court",
-    "duty",
-    "eu ",
-    "steel"
-   ],
-   "summary": "Turkish ‘steel bulb flat’ anti-dumping duty upheld by EU court; Chinese mainland duty not addressed HKTDC Research",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   }
  ]
