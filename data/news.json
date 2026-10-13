@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T06:17+00:00",
+ "generated_at": "2026-10-13T06:51+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "ab79c9551232",
+   "title": "Coal shortage and property disputes force suspension at Bosnia’s Ugljevik power plant",
+   "original_title": "Coal shortage and property disputes force suspension at Bosnia’s Ugljevik power plant",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV3c1UFBjWkxsc3pJdmFNcVY5d0wxS0hmOEpFUWVvbmNtMGdyblVKa0szQm54RS1kWk12b2FjMHlfYnhRLVgxN3c4WVdlN0NINWhJdzFwZm51aDRKdC1XaExQR0RWYW9BNUNIWE9XR0x2NnhaWnphdnVyVC1kQk14WVo2SkhfQUZ2U1FiTG9tVW5LbmU2NmdESnFQUDdKVWRnS3Rjc3lqbw?oc=5",
+   "source": "streamlinefeed.co.ke",
+   "published": "2026-10-13T06:34+00:00",
+   "added": "2026-10-13T06:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "coal",
+    "shortage"
+   ],
+   "summary": "Coal shortage and property disputes force suspension at Bosnia’s Ugljevik power plant streamlinefeed.co.ke",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "0936f7efe767",
    "title": "China: Ningbo-Zhoushan Port completes LNG, methanol and B24 bunkering ops on same day",
@@ -16655,34 +16682,6 @@
    ],
    "summary": "Hormuz vessel traffic hits two-month low after tanker attacks ET Infra",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "46a0f05cd2e0",
-   "title": "Capesize ballaster list and India coal flows: dry bulk view",
-   "original_title": "Capesize ballaster list and India coal flows: dry bulk view",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbXBCNEtCX0RWVmM3ZVZTSVBnQnA4bTBjSEs3LWpLeUUzNVhueEVTNElMVy1mczZqaFU4UmF1a01uS3h6cnhVTng4NV9MMmd0Yl84SG5WUlgxTVBuSURrUWpyenNXUWZCYUpIdHM1LXp3SXZ5YXp0VnA4ckh6MnI2a25PT2pYY1BOd0VHVC0xRVV1NkNfQ3Q0Y0tlTDQ4eDkxUmZOOURwSWZ0bU5YUl9HQndKenU4X09YdHc?oc=5",
-   "source": "Kpler",
-   "published": "2026-10-08T09:46+00:00",
-   "added": "2026-10-08T10:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "capesize",
-    "coal",
-    "dry bulk"
-   ],
-   "summary": "Capesize ballaster list and India coal flows: dry bulk view Kpler",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
