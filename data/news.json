@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T11:43+00:00",
+ "generated_at": "2026-10-13T12:04+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -41,6 +41,56 @@
    "summary": "Dubai-based Emarat Maritime has added another six tanker newbuildings to its rapidly expanding fleet, lining up a series of 74,000 dwt LR1 product carriers in China. The company’s own fleet register now lists six LR1 newbuildings, with the first two scheduled for delivery in 2029 and the remaining four in 2030. Shipbuilding database records seen by Splash place the sextet at Jiangsu New Hantong Ship Heavy Industry. Delivery of the six new ships would therefore triple its LR1 fleet. The orderbook includes six 114,000 dwt LR2s at Hengli Heavy Industries, with one due this year and five in 2027, alongside the six latest LR1s. Splash identified Emarat last November as the owner behind the Hengli LR2 sextet. Splash reported in June that Emarat signed for three firm 930 teu feeder vessels plus three options at Hubei Guangji Xinneng Shipbuilding. The company’s current fleet page now lists six feeder newbuildings, four for 2028 delivery and two for 2029. That leaves Emarat with a newbuilding pipeline spanning 12 product tankers, four large gas carriers and six feeder containerships — a major expansion for a company whose current operating fleet numbers 19 ships.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "cdb4c1c27801",
+   "title": "Ruszył konkurs na prezesa i członka zarządu PKP CARGO SERVICE",
+   "original_title": "Ruszył konkurs na prezesa i członka zarządu PKP CARGO SERVICE",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEZqVGwyUlE4OVo3RHVQb2YtTFYzMmFhS0lmcFl5M2pCalk4Y2t5dC1EV1dIV3pxY1pzam5sMDVENE82X2FRU0NYalJIcFFtZGZXNDhDc2FxWEJZN0lRSDFjSFJ3N0dwYjVXUHdBcUNUclc3RHpILWZraTEyTEZiTy14dlJnYk9aeU1CaGp0eDVFQQ?oc=5",
+   "source": "Kolejowy Portal",
+   "published": "2026-10-13T11:24+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "pkp cargo"
+   ],
+   "summary": "Ruszył konkurs na prezesa i członka zarządu PKP CARGO SERVICE Kolejowy Portal",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9223d4a6a6c1",
+   "title": "Cabinet to be briefed on new fuel and fertiliser schemes",
+   "original_title": "Cabinet to be briefed on new fuel and fertiliser schemes",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR213cVBOdkNCMzAtc3Q0MDVrME1aamNINGNNaTdGOGtPdGh3X2ZUQWoxOFpjZE1kWHN5YWZNZTBLelNQV0twMUoxWVJYZFhOLVVwOVNQamkzSFd4aHdIVUxTNDllYmNTeTVIa0RLS0Vtb0poc25XbmIyNGZUNmFwVUFnRktTX01HVnh2Q1g0bHdLVUZpSmxoX253?oc=5",
+   "source": "Agriland",
+   "published": "2026-10-13T11:15+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fertiliser"
+   ],
+   "summary": "Cabinet to be briefed on new fuel and fertiliser schemes Agriland",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "1cfea873c40f",
@@ -378,6 +428,231 @@
    ],
    "summary": "US maritime nuclear startup Bluecore Energy has secured low-enriched uranium for its first floating power system as it moves ahead simultaneously with fuel, regulatory and class work. The Long Beach-based company has purchased uranium hexafluoride, or UF₆, enriched to 4.95% uranium-235 through nuclear fuel intermediary WMC. The material is being held at an undisclosed US nuclear fuel facility outside California while Bluecore works towards fuel fabrication, testing and validation. The move takes Bluecore another step beyond engineering and non-fuelled prototype work as it develops a compact water-cooled reactor designed from the outset for deployment on a floating platform. WMC buys, sells, stores, finances and transports materials across the nuclear fuel cycle, including enriched uranium products typically containing up to 5% uranium-235. Bluecore held its first pre-application meeting with the US Nuclear Regulatory Commission in August, presenting the reactor concept and discussing a potential licensing route. California planning records show the startup has leased warehouse, landside and submerged space at the port for its research operation and barge testing. The work sits within a wider US effort to bring nuclear technology into commercial maritime applications. Bluecore founder and chief executive Kofi Asante said the latest step is part of building the fuel, testing, engineering, safety, regulatory and class pathways together rather than sequentially.",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "5fa4d1ff74de",
+   "title": "Coal Prices Remain Elevated on Strong Demand",
+   "original_title": "Coal Prices Remain Elevated on Strong Demand",
+   "url": "https://www.hellenicshippingnews.com/coal-prices-remain-elevated-on-strong-demand/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-13T10:00+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "coal",
+    "disruption",
+    "futures",
+    "lng",
+    "prices"
+   ],
+   "summary": "Coal futures traded just below $150 per ton, hovering near a three-year high as elevated LNG prices, driven by supply disruptions linked to the Middle East conflict, continued to encourage a shift toward coal-fired power generation. With coal costing roughly 80% less than LNG, buyers in Asia and Europe have increased imports ahead of the winter season. The International Energy Agency also projected in September that global coal demand would reach a record high this year, despite ongoing efforts to transition to cleaner energy sources and the closure of numerous coal-fired power plants across Europe and North America. Meanwhile, Indonesia, the world’s leading coal exporter, tightened export restrictions, contributing to a 23% drop in shipments in August. The IEA expects Indonesian coal production to decline by more than 12 million tons this year, citing lower production quotas and policy uncertainty. Source: Trading Economics",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "4c58da9c8346",
+   "title": "IMOS Fuel Types Expand from Six to Ten to Support Growing Operational Complexity",
+   "original_title": "IMOS Fuel Types Expand from Six to Ten to Support Growing Operational Complexity",
+   "url": "https://www.hellenicshippingnews.com/imos-fuel-types-expand-from-six-to-ten-to-support-growing-operational-complexity/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-13T10:00+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bunker",
+    "shipping",
+    "sulfur",
+    "vessel"
+   ],
+   "summary": "A changing fuel landscape The fuels powering vessels have shifted sharply in recent years, and the first shift was regulatory. Heavy fuel oil made up about 79% of international shipping fuel consumption in 20181 until the International Maritime Organization (IMO) cut the sulfur limit from 3.50% to 0.50% in 2020.2 Singapore, the world’s largest bunkering port and an indicator of the global market, shows how fast the market moved: low-sulfur fuel oil rose from under 1% of bunker sales in 2018 to 63% in 2020.3 Then the market shifted again. Scrubbers brought high-sulfur fuel back,3 and HSFO reached 29.5% of fuels tested by Veritas Petroleum Services (VPS) in 2023,4 alongside 54.3% VLSFO and 14.2% MGO. Biofuel blends, LNG, LPG, and methanol add further fuel types, and biofuel volumes tested by VPS rose 50% in 2025, to 1.2 million MT.5 Regulation, which triggered the previous shifts, is now driving the next one. Expanded fuel types in IMOS To keep pace with these shifts, IMOS now supports up to ten fuel types per vessel, up from six. The same limit applies to time charter contracts, so a long-term charter can reflect the vessel’s full fuel configuration.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "072799b3062b",
+   "title": "China revives push for US LNG as PetroChina pursues long-term deals",
+   "original_title": "China revives push for US LNG as PetroChina pursues long-term deals",
+   "url": "https://www.hellenicshippingnews.com/china-revives-push-for-us-lng-as-petrochina-pursues-long-term-deals/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-13T10:00+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "chinese",
+    "lng",
+    "shipping",
+    "war"
+   ],
+   "summary": "China, which had halted purchases of U.S. liquefied natural gas (LNG) since March last year, is moving to secure U.S. LNG again. As the Iran war disrupts global energy shipping and China works to diversify LNG suppliers, Chinese companies, including PetroChina Company Limited, the country’s largest state-owned energy company, are discussing long-term supply contracts with U.S. LNG company Venture Global is in early-stage talks on long-term supply deals with at least three Chinese LNG importers, including PetroChina Company Limited. As the war disrupts LNG shipments worldwide, China is diversifying its sources. China Gas Holdings signed a 20-year long-term LNG purchase agreement with Venture Global last month. In this context, if negotiations between major Chinese LNG importers such as PetroChina Company Limited and Venture Global result in actual long-term contracts, Chinese corporations’ moves to secure U.S. LNG remains in place, whether China lowers tariffs on U.S.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "6acb9d4d6dda",
+   "title": "1 in 12 Ocean Shipments Has a Blank Carrier ETA",
+   "original_title": "1 in 12 Ocean Shipments Has a Blank Carrier ETA",
+   "url": "https://www.hellenicshippingnews.com/1-in-12-ocean-shipments-has-a-blank-carrier-eta/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-13T10:00+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "supply chain"
+   ],
+   "summary": "Tradlinx, a supply chain data platform based in South Korea, today released findings from an analysis of more than 500,000 ocean container shipments a year, showing that carrier ETAs are not only inaccurate but frequently missing. Carriers left the ETA blank in 42,832 cases, or 8.43% of shipments, most often while cargo was waiting at a transshipment port. Across more than 500,000 shipments a year, carriers left the ETA blank in 42,832 cases. The ETA for the intermediate transshipment port was missing in 30,929 cases (6.09%), the final-destination ETA of transshipment cargo in 6,168 cases (1.21%), and the destination ETA of direct shipments in 5,735 cases (1.13%). In this group of 25,341 shipments (4.99%), the average carrier ETA error was 90.0 hours. Our data points to a more basic gap: for roughly one in twelve shipments, the ETA simply goes missing somewhere along the way,” Tradlinx said. The model produced an estimate wherever the carrier ETA was missing, and its average error came in 31.4% lower than that of carrier ETAs, at 10.6 hours versus 15.4 hours. The difference was largest where carrier ETAs went furthest off course: on shipments missed by 48 hours or more, average error fell from 90.0 hours to 9.2 hours.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "09e21fc52654",
+   "title": "LNG shipping stocks: A positive week",
+   "original_title": "LNG shipping stocks: A positive week",
+   "url": "https://www.hellenicshippingnews.com/lng-shipping-stocks-a-positive-week/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-13T10:00+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "lng",
+    "shipping"
+   ],
+   "summary": "The UP World LNG Shipping Index rose 3.84 points (1.68%) to close at 231.87, while the S&P 500 gained 1.15%. The advance was broad but gentle: breadth was 11:10, the median constituent rose 2.3%, and while the weighted index (wUPI) eased less than half a per cent, the overall tone pointed to stabilisation rather than a strong directional push. Volume ticked up from the prior week but stayed on the lower side. UPI & SPX The UP World LNG Shipping Index, which tracks 21 listed LNG shipping companies, gained 3.84 points (1.68%) to close at 231.87 points, while the S&P 500 index gained 1.15%. Week 41-2026: Chart of the UP World LNG Shipping Index with S&P 500 (Source: UP-Indices) Broader View UPI strengthened after returning to the spring range. Tsakos Energy Navigation (NYSE: TEN) is also preparing to attempt a further rise to new highs, having gained 2.7% last week and approaching the upper edge of its sideways range. Dynagas LNG Partners (NYSE: DLNG) fell 4.5%, giving back the gains from the week before last. After a promising week two weeks ago, Golar LNG (NASDAQ: GLNG) fell 2.6% and fell back to support. For now, this keeps a large share of Qatari volume bottled up, and US LNG exporters emerge as the clear winners.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "ca8cfcdeba5f",
+   "title": "Dutch bio-methanol plant targeting bunker market eyes 2027 investment decision",
+   "original_title": "Dutch bio-methanol plant targeting bunker market eyes 2027 investment decision",
+   "url": "https://www.hellenicshippingnews.com/dutch-bio-methanol-plant-targeting-bunker-market-eyes-2027-investment-decision/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-13T10:00+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "bunker",
+    "permit"
+   ],
+   "summary": "Renewable fuels producer Perpetual Next’s planned 220,000 mt/year bio-methanol plant in Delfzijl could start production by the end of the decade, with bunkering as a key target sector. Perpetual Next expects to take a final investment decision on its DeltaNor bio-methanol plant by the end of 2027, a company spokesperson told ENGINE. Permits are among the factors the decision depends on, the spokesperson added. On Monday, Perpetual Next and renewable hydrogen producer Lhyfe announced a memorandum of understanding to study supplying up to around 12,000 mt/year of renewable hydrogen to the plant. The hydrogen would come from a 120 MW project Lhyfe is developing in the same Delfzijl industrial area. Adding hydrogen to the gas DeltaNor makes from biomass could let the plant turn more of its carbon into methanol and raise output. Last month, Perpetual Next hired engineering firm Bilfinger to help bring the project to an investment decision. DeltaNor is one of five bio-methanol plants Perpetual Next is developing, alongside three in the US and one in Estonia. Source: By Nachiket Tekawade, ENGINE, https://www.engine.online/news/",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "14e41b99cb9e",
+   "title": "Soybean Futures Hit 6-Week Low",
+   "original_title": "Soybean Futures Hit 6-Week Low",
+   "url": "https://www.hellenicshippingnews.com/soybean-futures-hit-6-week-low/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-13T10:00+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "futures",
+    "prices",
+    "soybean"
+   ],
+   "summary": "Soybean futures fell below $12.8 per bushel, hitting a six-week low as expectations for a record-large US crop and active harvesting weighed on prices. The USDA raised its 2026 soybean production forecast to 4.562 billion bushels from 4.535 billion in September, above expectations of 4.534 billion, while lifting its average yield estimate to 53.1 bushels per acre from 52.8. Mostly dry weather across the Midwest is allowing farmers to accelerate harvesting, with the USDA’s weekly crop progress report due Tuesday. Meanwhile, Brazil’s soybean planting is advancing at a record pace, with favorable rainfall supporting fieldwork. Traders are now monitoring potential Chinese demand following recent talks between Trump and Xi Jinping, although punitive Chinese tariffs continue to discourage private buyers. China also lowered its 2026/27 soybean production forecast to 20.36 million tonnes but kept its import outlook at 95.5 million tonnes, well below the USDA’s 115 million-tonne estimate. Source: Trading Economics",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "8132d3f2d35e",
+   "title": "MAR surpasses 30 million GT",
+   "original_title": "MAR surpasses 30 million GT",
+   "url": "https://www.hellenicshippingnews.com/mar-surpasses-30-million-gt/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-13T10:00+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fleet",
+    "shipping"
+   ],
+   "summary": "The International Shipping Register of Madeira (MAR) has passed 30 million gross tons, bringing the Portuguese flag close to the ten largest ship registers worldwide. The registered fleet has roughly doubled in size since 2020. MAR-fleet-size The objective is for the Portuguese flag to enter the top ten flag states in 2027 and to become the second-largest register within the European Union. With an average vessel age of 13.3 years, the Portuguese flag is the youngest among the major EU registers. EUROMAR provides a service available 24 hours a day across all time zones. And as an EU flag, it is supported by Portugal’s diplomatic network of around 110 missions worldwide, a factor that carries particular weight in the current conditions facing international shipping. Reaching 30 million GT reflects the trust that shipowners and managers place in the Portuguese flag. We thank them for choosing MAR and look forward to supporting their fleets as the register works towards its targets for 2027. Source: International Shipping Register of Madeira (MAR)",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   },
   {
@@ -1034,6 +1309,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "11b327965ec2",
+   "title": "Konecranes supplies four Automated Stacking Cranes to Eurogate's Wilhelmshaven terminal",
+   "original_title": "Konecranes supplies four Automated Stacking Cranes to Eurogate's Wilhelmshaven terminal",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORV9TempGaWJoVDkxVUlJd3ViTEFlTmhlNGRjTDdYWjJOZDZGaWhWeW8zYUVCLXJ6aHJTZVEtdmpJU182Q3hFd2pma0pKT1pDbktseE9kejQ0NjhFT1V6YXJRNThKcnVHQlBZc0U4eDBwZkRTbnJabXZDRTBZZ0s1XzR1ZFBrNUI2djhpa2ZJN1M0XzlVV24tOWtZakVrTlZidGE2RFpqQVNkMUtuSUc0OUZ1TWdGTFJfYWxqUEFtU0xGNTlieTBxdGpzbUlYMWJUalpMVjJUYkY2LVE?oc=5",
+   "source": "DataPortuaria",
+   "published": "2026-10-13T07:35+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "konecranes",
+    "terminal"
+   ],
+   "summary": "Konecranes supplies four Automated Stacking Cranes to Eurogate's Wilhelmshaven terminal DataPortuaria",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "9895d276c072",
    "title": "ProRail awards contract for the modernisation of the Rotterdam Noord marshalling yard",
    "original_title": "ProRail awards contract for the modernisation of the Rotterdam Noord marshalling yard",
@@ -1649,6 +1953,34 @@
     "corn"
    ],
    "summary": "Brazil to harvest nearly 140 mln tons of corn, but domestic demand limits exports UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "28016e47b7bb",
+   "title": "Wagenborg launches fuel-flex vessel prepared for methanol, ammonia and LNG",
+   "original_title": "Wagenborg launches fuel-flex vessel prepared for methanol, ammonia and LNG",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVJSZjJNOW1UaXBUOGRHN3RESGVpLTZxRnpfOXlDWXpTaGYwTjUzM0RkX3AxTV9nLVRveDQ5RFNHQVppb2hvRUQ5NzBZUG81U1Ywa0FLTVYwVUF0bVIyTEZrMUFSYnl5Qno1M3ZHcFRiV3kzeE9NbEJPUEpTQVpLSWNEdnFjTkNkV3VZMUlrNFJERnJuT2RDRURrbjZsSUtVMTVWUEtNbDdzWGpYaEE?oc=5",
+   "source": "Manifold Times",
+   "published": "2026-10-13T05:34+00:00",
+   "added": "2026-10-13T12:04+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia",
+    "lng",
+    "vessel"
+   ],
+   "summary": "Wagenborg launches fuel-flex vessel prepared for methanol, ammonia and LNG Manifold Times",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16342,323 +16674,6 @@
    "summary": "“Threats to freedom of navigation affect both global trade and the people who keep it moving.” That was the clear message from BIMCO Secretary General & CEO, David Loosley to Sagarmanthan: The Great Oceans Dialogue in New Delhi this week. Conflict, attacks on shipping and trade disputes are making the operating environment increasingly complex. But the consequences go beyond commercial uncertainty. “For most of us, the effects of geopolitical disruption are experienced primarily through higher costs. Seafarers – and their families – bear those consequences physically and emotionally,” David said. He also welcomed India’s response, including Prime Minister Modi’s proposal for a shared BRICS distress and rescue network and the government’s “seafarer-first” initiative. Some of the ways we at BIMCO support members and the industry are through advocacy, maritime-security guidance and war-risk clauses. We also work hard to make sure the essential role of seafarers is understood beyond our industry. Source: BIMCO, https://www.bimco.org/news-insights/bimco-news/2026/10/08-sagarmanthan/",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
-  },
-  {
-   "id": "f8cf35cfd4a4",
-   "title": "Thordon Bearings Adds Production Plant To Meet Growing Demand",
-   "original_title": "Thordon Bearings Adds Production Plant To Meet Growing Demand",
-   "url": "https://www.hellenicshippingnews.com/thordon-bearings-adds-production-plant-to-meet-growing-demand/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-08T17:00+00:00",
-   "added": "2026-10-08T17:13+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "lead time",
-    "manufacturing"
-   ],
-   "summary": "Thordon Bearings has opened a new manufacturing facility as part of its strategic response to robust growth across all business segments and rising demand for its sustainable bearings and seals. The third plant provides ample additional space for Thordon to manufacture complementary non-bearing equipment, boost production output, minimise lead times and develop future products. Located at 3180 Mainway, Burlington, just steps from Thordon’s head office at 3225 Mainway, Plant 3 will primarily focus on producing high-performance TG100 water-lubricated mechanical seals and water quality packages for the marine and hydropower markets. Anna Galoni, Sandy Thomson, Marianna Thomson, MP Karina Gould and MPP Natalie Pierre cut the ribbon to officially mark the opening of Plant 3 Anna Galoni, Chair and CEO of Thordon Bearings, commented: “Alongside our commitments to innovation and quality, we continue to invest in growth. Creating additional production space has allowed Thordon and MBA to optimise layouts for assembly, machining and office areas, improving throughput, productivity and efficiency. This expanded facility strengthens our ability to meet the lead times our distributors and customers expect as we service growing demand.” The new facility primarily provides additional space for operations, freeing up capacity at 3225 Mainway for manufacturing and workforce growth. Thordon expects its workforce to continue growing as it brings new talent on board.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "2eaf9a918198",
-   "title": "Indian ammonia prices firm amid reported Southeast Asian supply constraints",
-   "original_title": "Indian ammonia prices firm amid reported Southeast Asian supply constraints",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNC12ckdCOTNmdUJ4eXJJaHZ4UGc1bHZqWUdYN0RSNm10SDNyeUFFVXBBZ09mUHpjN1I4M3htRGFfZDN3amY3QThDbnhfTUlsLTF1LXBFOW45MFBOcnl6UFlNbzJ4X0x5czhqOWhFcmROdDJTVGF3dVVzRkNzTThkbUlMTFJ0QS00UVVwLU1jNlRYZExGT1RGNHM2WF82MndXb3JhU2JqRHNobEJtUG9GUHhlVWZTUllqVjVlZVdzcjZXZlo1?oc=5",
-   "source": "Quantum Commodity Intelligence",
-   "published": "2026-10-08T16:59+00:00",
-   "added": "2026-10-09T13:45+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "ammonia",
-    "commodit",
-    "prices"
-   ],
-   "summary": "Indian ammonia prices firm amid reported Southeast Asian supply constraints Quantum Commodity Intelligence",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ef3a42bec57e",
-   "title": "Aktualności - Ostatnie rejsy statkiem z floty Hotelu Robert’s Port: Mikołajki - Śniardwy - Mikołajki / 10-11 października",
-   "original_title": "Aktualności - Ostatnie rejsy statkiem z floty Hotelu Robert’s Port: Mikołajki - Śniardwy - Mikołajki / 10-11 października",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVzNwM25ZbGNOY1Q3VlFvNkJPQzJwNTZVZV9feXZoVkg3ZWpHY0JOUGd2TDFrLWRNenE0Sno0TWl3Yk9oai1tQ1g3Q2tWT1R5dE1keHhVVnBGVm1wa05nMHhWZTNiWEJKa1VnUFZtWlU4SWdwTmt3UWI5al8xd255OTBzQXBobnJySjl2SUlFN2kwN2w1aXp3dlRuc25rRzY3anJNMGNEWUpZZnJZdlJDSDlKelZMdzJ6UjVHQnpLZlJuUkhXbzFrdUpoMnhEY0dqY1F1NzEwR0pqWkxtelk1U1JUTklpeXlL?oc=5",
-   "source": "Mazury24.eu",
-   "published": "2026-10-08T16:19+00:00",
-   "added": "2026-10-09T11:23+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "port"
-   ],
-   "summary": "Aktualności - Ostatnie rejsy statkiem z floty Hotelu Robert’s Port: Mikołajki - Śniardwy - Mikołajki / 10-11 października Mazury24.eu",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cff0136101b9",
-   "title": "Oil Prices Surge on Iran Risks and Hurricane Isaias",
-   "original_title": "Oil Prices Surge on Iran Risks and Hurricane Isaias",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNakg4TEVfcXdqVjhGS3hyQ29YdWdPWVktd3JfS1pyWVFMYURNNnBJelpIRjFCNlFISXM4Z09jejNJOWRjd3ZYVGpndjV0QXBONnlWNDRNSGhGSE1JVVRHYUsxaENDaFdNYWFnSmFxR29lbTVKc1FSTktMZmtWM0ROamM5RW9Malp5MkE?oc=5",
-   "source": "Markets.com",
-   "published": "2026-10-08T16:03+00:00",
-   "added": "2026-10-09T09:11+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "oil price",
-    "prices"
-   ],
-   "summary": "Oil Prices Surge on Iran Risks and Hurricane Isaias Markets.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cf212141a07e",
-   "title": "Haoxin evaluates AI logistics platform acquisition for $7M-$10M By Investing.com",
-   "original_title": "Haoxin evaluates AI logistics platform acquisition for $7M-$10M By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWl96cXd2V21YTlFMZTB2Rk9mODlneDBzUjl2RHQ3d1pNdTJGVjk5M3F6djE3RWVuVFQwOEk4T1RpeUNhamNmMmNIR01kQ3hOZktIYjJxR3QwVG0xQ044QXE0bWRUTGI1VlpyaG56ZzA4NzA4RFY2X1d0WUhpaUVJZzBJa3dFZHhrRzZYU0FHY01UcE9xOUFIUHdfQ2x3Mk96NDRjM2JHNjMwTXdtVThZZlJ5RVlXWXdRUnhIa25R?oc=5",
-   "source": "Investing.com India",
-   "published": "2026-10-08T15:54+00:00",
-   "added": "2026-10-08T16:01+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "acquisition",
-    "logistics"
-   ],
-   "summary": "Haoxin evaluates AI logistics platform acquisition for $7M-$10M By Investing.com Investing.com India",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "33b9a7fd35c6",
-   "title": "The Battery Show North America Unveils Keynote Slate Focusing on Supply Chain Resilience, Manufacturing Scale-Up, and Energy Storage",
-   "original_title": "The Battery Show North America Unveils Keynote Slate Focusing on Supply Chain Resilience, Manufacturing Scale-Up, and Energy Storage",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPODl6UFMwU0YwcUs0Mm5xajZFNDBucTZOOUJLOFd6RE9fWi0za0NEUkpTb1VBMGRMTjFkTTVXMmM0eDVra3hpVUxBUU8zcU1CeVhjR0ZCR3dhOUF1SVUza28wX3doQXI1V2dBSGJuNFN0aEFINngwU3MyYnAzeDVqM2FJRTBqYkVqdi1DbnplbWlfdzRLM3VfYkdKWmVPX3JWanh2cWNvYWw3Z2Rfcld1SS0wU09SWUxaVHN0MXhzVHhqTDcxMFA5S1Y4aXk5cXQ3WG1uSHU3VGxQWjVZT0o0MEoybFNXSm85UzJENkQ5U0dlc1MyNG1lUzl1MkxSZ01CdkxDUWZlN0hKSFFQWFdxTU9sdktmUQ?oc=5",
-   "source": "FinancialContent",
-   "published": "2026-10-08T15:48+00:00",
-   "added": "2026-10-10T22:47+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "manufacturing",
-    "supply chain"
-   ],
-   "summary": "The Battery Show North America Unveils Keynote Slate Focusing on Supply Chain Resilience, Manufacturing Scale-Up, and Energy Storage FinancialContent",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d8e8e4e8f2ab",
-   "title": "Signal Commodity Radar | Spotlight: Coal",
-   "original_title": "Signal Commodity Radar | Spotlight: Coal",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wOXNvay1pOHlJY3RaT0pYS2NlaVlaclhNQ2xyWmQyUlVDQkg0b1dRemNMbXk2VG0zd1IzQ3hFREp0TDFPM3pvSFBuam81R25oMFVrVktwc0pDdGQ2dkM0OHdpRkFLM1pZdTlqQzJ2Tk0?oc=5",
-   "source": "American Journal of Transportation",
-   "published": "2026-10-08T15:31+00:00",
-   "added": "2026-10-08T16:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "coal",
-    "commodit"
-   ],
-   "summary": "Signal Commodity Radar | Spotlight: Coal American Journal of Transportation",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "05db2acd4e01",
-   "title": "Haoxin Holdings (HXHX) Evaluates Strategic Acquisition of LogiAgent AI Logistics Technology",
-   "original_title": "Haoxin Holdings (HXHX) Evaluates Strategic Acquisition of LogiAgent AI Logistics Technology",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPanhiUVBTclNPTExJUWRGMHNDNFhpS0hqVzdJNV83cjBiYXhhTmVOcnE2d2FXSTBvZWR5OFVZQ3dUaVhLbUw0OVJ0c2ZtMHIzV1hIT204QkZMTDFRZmllRlFRSkhndDcwYWFMMzkwdnVlM0tpWHdydFlfd1V6Q0h3UmwyNjVBdUEzSkJoWm5xbDN3QnplUHNrRWpBcjVoV3VOVkhRWWhKVUtIYWhrd09pbktlMjRWOGp4blFOUlo0S3plTmhZVUZUQWM1UVVtSGVVNU9qTHJpaXlneWplamcwdHJNRl9DWE5ucm5ya1pwNEU0QQ?oc=5",
-   "source": "FinancialContent",
-   "published": "2026-10-08T15:28+00:00",
-   "added": "2026-10-08T18:46+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquisition",
-    "logistics"
-   ],
-   "summary": "Haoxin Holdings (HXHX) Evaluates Strategic Acquisition of LogiAgent AI Logistics Technology FinancialContent",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9bd381824848",
-   "title": "Brazil Corn Prices Increasingly Set by Ethanol Industry, Cofco Says",
-   "original_title": "Brazil Corn Prices Increasingly Set by Ethanol Industry, Cofco Says",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWWtwSXBaR3BiMUpObEY4Z01GdzJybFp2d3V3d1oyN25vNEg3LVVEbDBEbnFjVzRUcTJzT3VBc2ZXNy14WllGOFhWaHZnQ21SbE5TelN1RzhWVFhvVG9PQ2JqVE1iX0UxOEdMdGYxS3RxTHFFM1FDNUtmc1YxZGt6RHdkUVV1cHYyeHNaSk9hNkh2ZFY3WVJKVkI2VS11dnFscWpWMkhYcG1fdTNO?oc=5",
-   "source": "The AgriBiz",
-   "published": "2026-10-08T14:47+00:00",
-   "added": "2026-10-08T14:54+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "corn",
-    "prices"
-   ],
-   "summary": "Brazil Corn Prices Increasingly Set by Ethanol Industry, Cofco Says The AgriBiz",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2484ea7449f7",
-   "title": "Port Polska: 4 osoby w finale konkursu na prezesa. Decyzja w drugiej połowie października",
-   "original_title": "Port Polska: 4 osoby w finale konkursu na prezesa. Decyzja w drugiej połowie października",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUG9pQkRfUUdDaW45bUJ5dkNiOEdkTlpGSDBEdmxOT2dMNjQ3ZFNPVE5yU3doVWV1X0FpYXEyQllBY2dvcFRyR0s5M1Y0enp4QWd6U3NqRENIZF9sUkxtRVdFUkRQZHhNeEg4dm51X1BWU3JuRERsUEVIODR5akduSTZYdkVkb3VsNHV3ZWJHOXJhNDRURWxLQ3BSSmxWaUkxXzYtUnhSVDlaN2lDektpZzBRTGdaV3Fi?oc=5",
-   "source": "InfoBus.pl",
-   "published": "2026-10-08T14:45+00:00",
-   "added": "2026-10-13T05:28+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polska",
-    "port",
-    "port polska"
-   ],
-   "summary": "Port Polska: 4 osoby w finale konkursu na prezesa. Decyzja w drugiej połowie października InfoBus.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5d3c43e4127a",
-   "title": "METRANS expands terminal in Poznań",
-   "original_title": "METRANS expands terminal in Poznań",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HLU11SWpjMmthTTY5U2lxaUJxU3pNVlFmNUhaMXdQbm4wNVM4TFN3LXNVNG85QlV1b1pYQzFMQnBiQWVfeXFjdS1POVctVlllV01DaHhnaGZfNGJZT0hHOG1WRUdUd0lOZnJlSGZqYV9uWTRiTENz?oc=5",
-   "source": "Railvolution",
-   "published": "2026-10-08T14:42+00:00",
-   "added": "2026-10-08T15:16+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "METRANS expands terminal in Poznań Railvolution",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d5b9fce437c8",
-   "title": "Latvian entrepreneurs express interest in establishing logistics hubs in Uzbekistan",
-   "original_title": "Latvian entrepreneurs express interest in establishing logistics hubs in Uzbekistan",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDdMY20zMnlzcnJZUlljNUdac1N6eU5zOTluUFNCMHNVMmxDN0JsM0VRT0VmM3lxSlMxQnRleGk0c0NIWEEtb3Nrd2dFWnZHS1lpNVNya3h3c0VtYTE0LW9paXBSRDlNS0lSUUxyMGJINHFWMHhVVGlIWktUZ0hpSUZ2aEo1d0tiUVNXYzFLdzJjNkg5MFB3NG9TUEVGVkhyZUtKSHNzUjZvcnhtYndHd1M5YUJMUQ?oc=5",
-   "source": "Daryo",
-   "published": "2026-10-08T14:32+00:00",
-   "added": "2026-10-08T17:13+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "logistics",
-    "logistics hub"
-   ],
-   "summary": "Latvian entrepreneurs express interest in establishing logistics hubs in Uzbekistan Daryo",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
   }
  ]
 }
