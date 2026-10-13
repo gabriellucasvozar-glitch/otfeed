@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T19:14+00:00",
+ "generated_at": "2026-10-13T19:51+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "5698b8e25fc4",
+   "title": "Delays at Mexican ports costs trucking firms millions",
+   "original_title": "Delays at Mexican ports costs trucking firms millions",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSjVZQmp0WV9xWXFWRkRZMU5oWHMzeEpiMGlNNmlrTXVRUTkxaFpqTlFPM3o1UXFRbTE3SG5hOEY2NWwtQlNJWTRJTzdlbnoyQ3ZpdDd6aEJtaXhPd3Y0MjFabXgtWlB3YVdVX2FSa1ZfOWpDUHVxME9RTUN2eWJUWm44aw?oc=5",
+   "source": "MEXICONOW",
+   "published": "2026-10-13T19:07+00:00",
+   "added": "2026-10-13T19:51+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "trucking"
+   ],
+   "summary": "Delays at Mexican ports costs trucking firms millions MEXICONOW",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0c91f68b7e53",
+   "title": "Russia forced to turn to grain storage bags, following Ukraine’s earlier experience",
+   "original_title": "Russia forced to turn to grain storage bags, following Ukraine’s earlier experience",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkZYYlg2cDRRSmhUT2xlNzZnUkhHcTZ1NHVZUWEtNEhTdlhOUFBvMHR6V2ZUV1NFTUtaUkh0UGtjajRfZU1IaFhjc054MnRINW9Cd3hVNExWQ01KeWNLVzh4SDRWRFRsLWJyY2ZUcnZQUko1SEktUWVyVFRzOGxORjlkeWh6R1hKSnYwLURaYVdWN0dxVkI3ZmNQOTFVdjNoR1h3VzlaZ3NXMHFzT1luU0pRYjYzOExt?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-13T18:24+00:00",
+   "added": "2026-10-13T19:51+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "grain",
+    "russia",
+    "ukraine"
+   ],
+   "summary": "Russia forced to turn to grain storage bags, following Ukraine’s earlier experience UkrAgroConsult",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "ecd98e15d05d",
    "title": "Port Polska ubiega się o ponad 63 mln euro z UE",
@@ -533,6 +590,33 @@
    ],
    "summary": "Russia Ships Less Crude on Slowdown in Black Sea Loadings Bloomberg.com",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ee6da9e0c63e",
+   "title": "Susza i niski poziom wody w Renie zakłócają logistykę zbóż i dostawy pasz",
+   "original_title": "Susza i niski poziom wody w Renie zakłócają logistykę zbóż i dostawy pasz",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDdUeEJLVDQ4ZkI3aXpSb3NtR3hKcDlsZGs1REhERGoyTXdnazRNRDhPTVdSVzE3TkZUdEYxdWRXdEEycVlyd1Y3VDBRUVUyeWUtdmRUN3hVWWFvT183Z2N6eGM5ekRBSDlWWHEyOVhqTm1EUkVRLUc1ZWRfTHFEaFA3UWFxTU9tZ29XVVpDS0FKV3dFUWJackFNWXh4UEJ4anpGMnltaG40bFczb2Zr?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-13T14:17+00:00",
+   "added": "2026-10-13T19:51+00:00",
+   "lang": "pl",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "logistyk",
+    "zboz"
+   ],
+   "summary": "Susza i niski poziom wody w Renie zakłócają logistykę zbóż i dostawy pasz CMB News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -5244,6 +5328,32 @@
    ],
    "summary": "Turkish steel industry aims to expand in the Baltic market amid EU quotas SteelRadar",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "232fcdf9a105",
+   "title": "Asia’s coal imports set to surge as LNG stays costly",
+   "original_title": "Asia’s coal imports set to surge as LNG stays costly",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaG80RmNKZVV2alVtOGFlXzVkc01LUlpoNS1ReFBobGhSdksyRjhoLXh0bmtLRTBpY3VrSWFNMEMxWW54OTI0Z1dJVFg5Rm4wQ1hYbEl5RjNJVDVzREhHZHZJYnR5NnhVVG9aWFJTX01pOGhXYUFPbGhYZ3dNR2lBTXBIOV9oRS1LX1Rhc25nYkJtYkhteVNGQmZFbFZsdm5TRkR2SkJDd3QxWlR6SE9WOA?oc=5",
+   "source": "The Daily Star",
+   "published": "2026-10-12T17:41+00:00",
+   "added": "2026-10-13T19:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "coal",
+    "lng"
+   ],
+   "summary": "Asia’s coal imports set to surge as LNG stays costly The Daily Star",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16517,108 +16627,6 @@
    ],
    "summary": "Hormuz crisis: freight traffic down at the ports of Genoa and Ravenna Il Sole 24 ORE",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cbf29a96c7b6",
-   "title": "Europe Tightens the Paper Trail on Steel: Melt-and-Pour Origin Now Mandatory at the Border",
-   "original_title": "Europe Tightens the Paper Trail on Steel: Melt-and-Pour Origin Now Mandatory at the Border",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcXhfRzBGTWpnc2E0R25Vc2U5OUc4Y1MyMTZrckcyUjRMdzluNk5CbjE5TDFUa19EV044N1BmMXhIMHhmRlZMUkVaeTRUTnBmZ0VzZ2VXdkREVWRpcm5FazNyLVZVNjZDcUJCLUF0c0dLWUpmVW9SZnFnaG9famtfX014dlpHc2FFRUhMTTFuQTBudGpfWDdLb2JtWmpPSVpXMGFJY2NLSWhQUmZSM2hQVFVzdHI0c2Z1d1htTlN2M0laeXRxTzFwMnNoVjFvbnFRd0dv?oc=5",
-   "source": "AD HOC NEWS",
-   "published": "2026-10-09T06:01+00:00",
-   "added": "2026-10-09T07:21+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "Europe Tightens the Paper Trail on Steel: Melt-and-Pour Origin Now Mandatory at the Border AD HOC NEWS",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "af6cd94b60a5",
-   "title": "COMMENTARY: Cheap coal and expensive gas set stage for year-end coal export surge",
-   "original_title": "COMMENTARY: Cheap coal and expensive gas set stage for year-end coal export surge",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV1ZiYXFqeTFKbDFDNHBQOXoxZE1jN28xdXJQTmlKWUtuWnh0UC0xQUU2YVZHM2sxWEJyNUt4RTJ3YURQZ2ZLUjRpZG9fRXdJR0Uzb0dDekpvMVhWekFualVuN19KVFZLb2JSS2ZERWpnTzhMcW0wWHIyb0FCSU51bmJpT1BaeXpNbXhGS3pEUzJNVUV6SXU3RGJUd2l2ZTNxS2lFUzFLVjZoNUJsdnNTYW1ueVVqZzlvVXM5M1JkVnV1ZS12ZmZIdGlB?oc=5",
-   "source": "Reuters",
-   "published": "2026-10-09T06:00+00:00",
-   "added": "2026-10-09T06:26+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6.0,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "COMMENTARY: Cheap coal and expensive gas set stage for year-end coal export surge Reuters",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dc9520e97a65",
-   "title": "CFL intermodal expands European network with new Luxembourg–Poland connection",
-   "original_title": "CFL intermodal expands European network with new Luxembourg–Poland connection",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkY2MEJ2T3BLcjhndm5pejVOOTBhY045NnlYbGFSM1A1U01hSXJkRmJYX29oeFJTeS1VWkdwWXFxdTg1T2taTkRNc0VhUml6SWNYVElVSEVUTktzTWpVQ1lEQ053MjhzUnRrWUZKeWdQbkJDN2hSeDJTNTZ2eDJDM0Nod0FUSWtoUnkyeFJDaGo5UVg0dDJTbC00aTVwaTVwdTQtZXJ1eUtuR01jdll2LThrWU9oNkVxMklIVWNRdkRFckVxZUZiag?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-09T05:44+00:00",
-   "added": "2026-10-09T09:11+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "intermodal",
-    "poland"
-   ],
-   "summary": "CFL intermodal expands European network with new Luxembourg–Poland connection RailFreight.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5d3226457be5",
-   "title": "MSC Restores Direct Karachi Service to Seven European Ports",
-   "original_title": "MSC Restores Direct Karachi Service to Seven European Ports",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTnk0aDZ6aHM1anRnM2YwZFhHV1B2aUh5eWQ2eWo5RTJvbjkzYXYtTGdVSkRYNEtzQnQwNlFGRkdlMEtuNERlZ3A0T01YWThWQjh6S1AtYl94cFB2enpQeFA3dzJyUlZuUUtTN3hGRTBQN0RWQ0NHcVZqbWVmOVRYeW50OEoyb1RRUnpv?oc=5",
-   "source": "Retail News Asia",
-   "published": "2026-10-09T05:38+00:00",
-   "added": "2026-10-12T21:48+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "MSC Restores Direct Karachi Service to Seven European Ports Retail News Asia",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
