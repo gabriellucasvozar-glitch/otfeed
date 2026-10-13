@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T02:20+00:00",
+ "generated_at": "2026-10-13T02:44+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -38,6 +38,62 @@
     "prices"
    ],
    "summary": "Chinese coal prices rise to a three-year high. Vietnam.vn",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8c1322db971f",
+   "title": "Ulsan Port Shifts Crude Imports Away From Strait of Hormuz",
+   "original_title": "Ulsan Port Shifts Crude Imports Away From Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0kzdHN6QmR4Nm1LOExpWlIxb01oZF9yYkNmaUVjRHhMQnpDbHF1emV2Vnk3bld6dTlNY0N0NzJJdGpBamxOM2tqZ1hyYWZsU2tJRDZUTFNMYU45eExwVEp5cFJ6RlpXZWNyWVZtNGtDNEd1SWFNT2hsV01TSGVyd1luUTVHX3QtUV96SnY5QTJvZUZkSWotbzlTeDEwdWpKRkE?oc=5",
+   "source": "Seoul Economic Daily",
+   "published": "2026-10-13T01:50+00:00",
+   "added": "2026-10-13T02:44+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "hormuz",
+    "port"
+   ],
+   "summary": "Ulsan Port Shifts Crude Imports Away From Strait of Hormuz Seoul Economic Daily",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7236fec79c12",
+   "title": "Wheat’s war premium under pressure, exposing Australian farmers",
+   "original_title": "Wheat’s war premium under pressure, exposing Australian farmers",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT1hfQm9jU0VPcDhoR1EtdUxUbHZXaHVtcWVvTTBYejN6THdpRlNzOHNpdU5wYXY1cXlFa3A4bXpVTjRWV01WWFNXU3R2YnpRVDJmVWNjU2NReWRzSmNIZGNpU1M3VWc5WUpMUzl1bU9uSnBLVUVOa0ZIMFVzczY3T3pCQkxGeldMbk12ODZ1YmJiZi01YXZ3Y25yaHM1S0ZEcDBhUHl4RGIwQmIxSF92WjVqV2w5UmdLekE?oc=5",
+   "source": "AFR",
+   "published": "2026-10-13T01:03+00:00",
+   "added": "2026-10-13T02:44+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "war",
+    "wheat"
+   ],
+   "summary": "Wheat’s war premium under pressure, exposing Australian farmers AFR",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -9020,6 +9076,38 @@
    "summary_method": "feed"
   },
   {
+   "id": "e33ac7cb1652",
+   "title": "Estonia, Latvia, and Lithuania call on EU to ban transit of Russian grain",
+   "original_title": "Estonia, Latvia, and Lithuania call on EU to ban transit of Russian grain",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeFFPdzRRRC1rSUxPaWJWVHM4WnZPcEdXUi14ekRpWkxsdGthQkxaSXFpV0RtU2pmY01nNW5YNUpZWWZoMGo4cno3TUNuNDdTZ0l1aHNDVVU2b2lTZXlweS0zMS1pWUdFUll6bEZ2Sk5PZGtSci05LXBSdkNfTUhmUFA2NHJVWmszRVptVDF3aXdkMEVNcnJmanNZLTBCZWMwUXZfWA?oc=5",
+   "source": "The Baltic Times",
+   "published": "2026-10-09T12:39+00:00",
+   "added": "2026-10-13T02:44+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "baltic",
+    "eu ",
+    "grain",
+    "russia",
+    "russian"
+   ],
+   "summary": "Estonia, Latvia, and Lithuania call on EU to ban transit of Russian grain The Baltic Times",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "1b108a3541fa",
    "title": "Ethanol Could Offer Shipping Another Path to Lower Emissions",
    "original_title": "Ethanol Could Offer Shipping Another Path to Lower Emissions",
@@ -16383,6 +16471,38 @@
    "summary_method": "feed"
   },
   {
+   "id": "be3bcccc40cf",
+   "title": "Lithuania calls for EU sanctions against Russian grain",
+   "original_title": "Lithuania calls for EU sanctions against Russian grain",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeXV3WTV5cVN2bEMyN1h1TF9sTFFvbUZnSXhSeTZyNHdLdGlXLWNzTVVxVjl3V3N2dFNTdXBIcndIcFpfdXhoLVFwU1Vsdm5NTmhxUHpCUkhLYk5rN0h6b1NFdXFxLXdHZnFGU0ZBMHVyYzZoX0tqc2lJejloN2hKMmwyXzFnWlRNN2pr?oc=5",
+   "source": "The Kyiv Independent",
+   "published": "2026-10-08T08:18+00:00",
+   "added": "2026-10-13T02:44+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "grain",
+    "russia",
+    "russian",
+    "sanction"
+   ],
+   "summary": "Lithuania calls for EU sanctions against Russian grain The Kyiv Independent",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4e39efc40ff3",
    "title": "Fundamentals bearish, iron ore prices fall 3.12% [SMM Iron Ore Daily Review]",
    "original_title": "Fundamentals bearish, iron ore prices fall 3.12% [SMM Iron Ore Daily Review]",
@@ -16571,109 +16691,6 @@
    "summary": "Cido Shipping founder Hyuk Kwon has pledged five overseas ships as collateral after agreeing to settle KRW393.8bn ($277m) in personal tax arrears in South Korea, bringing a 15-year dispute with the country’s tax authorities towards a close. South Korea’s National Tax Service said Kwon has submitted a plan to clear the entire amount and already paid KRW100bn ($70m) in cash in July. Five ships have been put up against the remaining balance. The tax authority said a preliminary valuation showed the five ships were worth more than the remaining arrears. Kwon, who built Cido into one of Asia’s larger privately controlled diversified shipping groups, has been fighting the tax assessment since 2011. Kwon founded his shipping business around 1990 and moved Cido’s headquarters to Hong Kong in 2004, with the company retaining shipmanagement activities in South Korea and Japan. Splash reported in June that Cido had been linked to four 300,000 dwt VLCCs at HD Hyundai’s Subic yard for 2029 and 2030 delivery, following earlier orders for suezmaxes and product tankers. Last month, Cido signed up Avikus autonomous navigation technology for 20 LNG dual-fuel 7,600 ceu PCTCs under construction in China, with a framework covering a further 12 ships. Korean authorities have not disclosed which part of Kwon’s shipping portfolio is behind the five vessels pledged as security.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "218989e4a5b1",
-   "title": "How did India's steel and raw materials industry perform in H1FY'27?",
-   "original_title": "How did India's steel and raw materials industry perform in H1FY'27?",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNnRMZzVWWTViYVRuZXZNczUzLWwwcWU2eDBySTdicHl1T194V1NRcnJUbzZmeFhDOC1lWUk4R0g1R2xhMmVJNkU0SDVaUUJYVHNhRW9YM1hYU0FVeTItbjluMS12WE5lcDV4cVhHZW5OLWhVbEhxamljQUsxekU4M19VU3duMkNKdW5ZdDJvWWJEOXFRMnhTNTNBcEtINTh6NDFTV2kzQnBvd1BTRFJlNw?oc=5",
-   "source": "BigMint",
-   "published": "2026-10-08T07:40+00:00",
-   "added": "2026-10-08T09:50+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "How did India's steel and raw materials industry perform in H1FY'27? BigMint",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "22a57c879067",
-   "title": "[SMM Analysis] Q3 Ex-China Stainless Steel Review: Europe's surcharge fell EUR158/mt, yet CIF prices rose 2.8%",
-   "original_title": "[SMM Analysis] Q3 Ex-China Stainless Steel Review: Europe's surcharge fell EUR158/mt, yet CIF prices rose 2.8%",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSlV4dXhxZEdZNWhHTjNuelpiRWRxM0JQeTRkdzhSdTEtLVpTbklYeEZKb2VWLVlkaWV5LTNEbGZjY19zd2paVU9oQmlZT08yaVc1akxZQlhxcHNHQ195V2tPMHpRNWtBcXR1YTBGZWJCbUF0dmdYTGpFN3dpM09VeUpVYU1abWZhX1BYMzdFYnhhQXJRZ0hmYjZadjhTRmdJTUlSOGJkVXRiSnkwaHdkdW9taUdKTmNuQmdCZGV2X3pqSE52TVZOVVJPb0I3TERCbTQ5bmF0MWstMXE3Mko3bg?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-08T07:36+00:00",
-   "added": "2026-10-08T08:23+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "prices",
-    "steel"
-   ],
-   "summary": "[SMM Analysis] Q3 Ex-China Stainless Steel Review: Europe's surcharge fell EUR158/mt, yet CIF prices rose 2.8% Shanghai Metals Market",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b0717f8708e3",
-   "title": "Shipping group Maersk raises emergency fuel surcharge due to Middle East conflict",
-   "original_title": "Shipping group Maersk raises emergency fuel surcharge due to Middle East conflict",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZzZBZjNVQzctNHRmQWJhZnUtRGxqMGVkTTVzVHJzX3JPR0wtVjFwZmxaSUtYMVk3VF94Umk5ODRSWHI3VDlKeWxTNmdwU3BKVmFxRXcxOHdMTmFGUTRjTGxnZzJ6Vi1PZl8xaWMwZGkzTGpNdmVMSnBDVmxtQ0dHbTI2bVlMMThlYnlra3NxdDd1dFAwTzd3dHR3YmM0NG43d3QwdXVnUEV0M25LRjBCMklqbVJLZDJvYXpoNmlRelBnQmpEeTN5cG1n?oc=5",
-   "source": "Reuters",
-   "published": "2026-10-08T07:36+00:00",
-   "added": "2026-10-08T07:58+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3.0,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "shipping"
-   ],
-   "summary": "Shipping group Maersk raises emergency fuel surcharge due to Middle East conflict Reuters",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "85e69f188578",
-   "title": "In Port Louis, the African Union backs Mauritius as a bridge to Asia",
-   "original_title": "In Port Louis, the African Union backs Mauritius as a bridge to Asia",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTJBX3hoVFc4dHVJRUo2cFRTMEhQYXVXeVBxS0E0S0ZaUW5xM0ZqSHFaVkFscndIaTFfcVFkZXZYZlRVclh4dGp4aE56aDdYSlozLXZXc0tETEg5YWszb0dCNV9YenZoQ1R5eVNKZjM0b1E2TU5QVVJ4QVhPcXNIT2N4MGNMa2pqMmw1TVAwN3phaGptbkZNblJWTQ?oc=5",
-   "source": "Capmad",
-   "published": "2026-10-08T07:30+00:00",
-   "added": "2026-10-12T19:17+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "In Port Louis, the African Union backs Mauritius as a bridge to Asia Capmad",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
   }
  ]
 }
