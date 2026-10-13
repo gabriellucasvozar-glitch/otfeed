@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T10:55+00:00",
+ "generated_at": "2026-10-13T11:20+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,61 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "1cfea873c40f",
+   "title": "Strong US import demand will support transpacific rates till new year",
+   "original_title": "Strong US import demand will support transpacific rates till new year",
+   "url": "https://theloadstar.com/strong-us-import-demand-will-support-transpacific-rates-till-new-year/",
+   "source": "The Loadstar",
+   "published": "2026-10-13T11:13+00:00",
+   "added": "2026-10-13T11:20+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "freight rate"
+   ],
+   "summary": "Transpacific container freight rates are likely to remain higher than on Asia-Europe for some time, as stronger economic conditions in the US support import demand and weaker European growth weighs on cargo volumes and freight rates. Evergreen general manager Wu Kuang Hui said the rate divergence had become increasingly pronounced: “strong on US routes, weak on Europe routes”. And he said on Friday he expected the stronger US market to continue supporting transpacific rates at a premium to Asia-Europe rates, and there was “no reason to be pessimistic” about the US routes before the lunar new year 2027 as “there are record-high import volumes at several major US ports, low inventory levels, and optimistic consumer demand”. US imports from the Far East have grown about 5.1%, but volumes to Europe have increased more rapidly, by 12.2%. On Friday, the Shanghai Containerised Freight Index showed Shanghai-US east and west coast rates relatively stable, at $10,524 and $7,584 per 40ft, respectively. Shanghai-Europe rates continued to decline, losing 3%, to $2,274 per teu. By contrast, transpacific capacity remains supported by robust US import demand. Mr Wu noted that US spot rates were significantly higher than negotiated rates in Q4 last year, and expects long-term contract prices next year to exceed this year’s.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "49ec7eb71a3f",
+   "title": "Lianson Fleet snaps up third ultramax",
+   "original_title": "Lianson Fleet snaps up third ultramax",
+   "url": "https://splash247.com/lianson-fleet-snaps-up-third-ultramax/",
+   "source": "Splash247",
+   "published": "2026-10-13T11:00+00:00",
+   "added": "2026-10-13T11:20+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "acquire",
+    "acquired",
+    "bulker",
+    "fleet",
+    "vessel"
+   ],
+   "summary": "Malaysia’s Lianson Fleet Group (LFG) has added a third ultramax bulker, paying $23m (RM93.9m) for a 2013-built Japanese vessel as it continues to expand beyond its traditional offshore support vessel business. The Bursa Malaysia-listed company said its wholly owned subsidiary acquired the 61,446 dwt to-be-named LFG Cengal from an unrelated Japanese seller. The purchase is being funded entirely from internal cash and will have no effect on group gearing. The latest purchase takes LFG’s disclosed spending on ultramaxes to around $75.3m in little more than three months. Splash reported in July that the former Icon Offshore had made its first move into the segment with the $52.32m acquisition of two 2017-built ships, the Tian Mu Shan and Yan Dang Shan , from Chinese sellers. The pair came in at about $26.16m apiece. In June it agreed to pay $15.5m for the 2012-built, 56,735 dwt supramax Sea Affluence , taking disclosed spending on bulker acquisitions since June to about $90.8m. Managing director Lim Chern Wooi said the ultramax sector offered long-term opportunities as LFG develops into a more diversified maritime group. The company currently says it owns and operates 12 OSVs and 41 marine transportation assets spanning bulk carriers, tugs and barges.",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "extract"
+  },
   {
    "id": "978528599968",
    "title": "Port Polska nie będzie globalnym hubem DHL? Prezes mówi wprost",
@@ -37,6 +92,32 @@
     "port polska"
    ],
    "summary": "Port Polska nie będzie globalnym hubem DHL? Prezes mówi wprost Bankier.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "cac76c6b9920",
+   "title": "ESPO: OPS available at 60% of European ports, but grid and demand hurdles persist",
+   "original_title": "ESPO: OPS available at 60% of European ports, but grid and demand hurdles persist",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2hoMHAxT1BJX2t2Q3dkSXBxMGw4WWtNU0pDdTRoSjh4Nkwtb2ZXV0dHVFYwT2pENmJRMlh0TWRaMFFySTJxOERkYzkxQWdMX2JOckFCdUFBcmUxankzSG9OcVpZRkpGTlg3RlZMTDlWN2o0a252OG40RFBoWG91X1pUSUtKNkNWVnRUdHN4cEFXbG5tZEhwQkN2Rl92MzRSVXlPaUcxT3UtOVExWks2aDVCaEhqb1lTQUFya1NnbVNYYW5nb0ZkZzRn?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-13T10:38+00:00",
+   "added": "2026-10-13T11:20+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "ESPO: OPS available at 60% of European ports, but grid and demand hurdles persist WorldCargo News",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -129,6 +210,33 @@
    ],
    "summary": "Baltic grain surge disrupts urea exports as port congestion d ... Milling Middle East & Africa",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c548c07f7a99",
+   "title": "Italy's Meloni urges EU to deliver long-term response to high energy prices",
+   "original_title": "Italy's Meloni urges EU to deliver long-term response to high energy prices",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWVGQUwtOHV1ZF91ME1UeklLSzdFT0tHM3RwNDdpc2FKQm93UXZweTF0SG9SeVF2X1c4YU5SSXZQZVdZUFkxWnFsZ1FlcVpCT3Faa1NhNEFqZC1KNXZzOHVJcHItazlnMW5VanJ3UTRnb0dySnk0aGdCVEVfSGI2d09wbTNNa2g4M0FMRlFiVDhxWTZWbVVaal9RS0JpWklVMXVDR2RmVF9CY21GVHNnN1ZqZnRqZ0ZSZE9HYg?oc=5",
+   "source": "Anadolu Ajansı",
+   "published": "2026-10-13T10:16+00:00",
+   "added": "2026-10-13T11:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "prices"
+   ],
+   "summary": "Italy's Meloni urges EU to deliver long-term response to high energy prices Anadolu Ajansı",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -1270,6 +1378,31 @@
    ],
    "summary": "Alexandria opens its first dry port to absorb surging transit cargo EnterpriseAM",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c6759f624d54",
+   "title": "India’s Record Renewable Quarter Exposes a Coal Supply Problem",
+   "original_title": "India’s Record Renewable Quarter Exposes a Coal Supply Problem",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWjFRd1NkeTlCaWlibjZETVBBQ0ZuTzRuR2lWRlV5S1piQUx1N3hXYUVVenlhUV9USHBXVENod0R4WjdoYkt5OXZKZjdKU1A2LUkzcGY3dDNTVnNUaWw4RFREX3BmekFrZHllMkpuM193TldaQ0xBMXA5LW14aW5fSFNfd1dtbFptS1Q5cg?oc=5",
+   "source": "Discovery Alert",
+   "published": "2026-10-13T06:24+00:00",
+   "added": "2026-10-13T11:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "coal"
+   ],
+   "summary": "India’s Record Renewable Quarter Exposes a Coal Supply Problem Discovery Alert",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16520,145 +16653,6 @@
    ],
    "summary": "Port Polska: Miliardowe kontrakty i prace na trzech frontach Rynek Lotniczy",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b67c5009cd18",
-   "title": "DP World signs 15-year New Mooring Terminal concession",
-   "original_title": "DP World signs 15-year New Mooring Terminal concession",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSERPRWpIbGJkLWRQRzJ2Q0JuakhnOTJ5U3FZdGNDWVg1UU1LVEo0UXBxbkhhZ0J2V2VhNDNFVzJ1Sl9lYllUVnNsaThCeE5UX1FUWF9FcHNoRlJGSFZwTzJNZGROVmxabEpDZmJFdVg4Y184RVdlNEw0OXJFWDZHN0pGRXhZbURRY2htSHpLcXVCUWlzRWZNSXExZXlDMDNISWVPcTVWSmNWb0JSb0JlSA?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-08T14:14+00:00",
-   "added": "2026-10-09T02:48+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "mna"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "concession",
-    "port",
-    "terminal"
-   ],
-   "summary": "DP World signs 15-year New Mooring Terminal concession Port Technology",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "322cee567364",
-   "title": "UK Sanctions 12 More ‘Shadow-Fleet’ Tankers as Russia’s Arctic Traffic Grows",
-   "original_title": "UK Sanctions 12 More ‘Shadow-Fleet’ Tankers as Russia’s Arctic Traffic Grows",
-   "url": "https://gcaptain.com/uk-sanctions-12-more-shadow-fleet-tankers-as-russias-arctic-traffic-grows/",
-   "source": "gCaptain",
-   "published": "2026-10-08T14:10+00:00",
-   "added": "2026-10-08T14:54+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Western Europe",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "fleet",
-    "russia",
-    "sanction",
-    "shadow fleet"
-   ],
-   "summary": "A drone view shows the Russian-flagged tanker Bratsk, which is under U.S. sanctions for links to the Russian state-owned shipping company Sovcomflot, near the Baniyas oil terminal, in Baniyas, Syria, April 8, 2026. REUTERS/Khalil Ashawi The United Kingdom on Thursday sanctioned 12 oil tankers it identified as part of Russia’s shadow fleet, including the 22-year-old Dakar that is currently making an unusual late-season voyage on the Northern Sea Route. The 12 tankers comprise nine chemical/products tankers and three oil tankers, according to the UK’s detailed sanctions notice. The Foreign Office said the additional designations bring the number of shadow-fleet oil tankers sanctioned by Britain to more than 600. Bellona’s Environmental Transparency Center identified 50 shadow-fleet oil tankers and 18 LNG carriers on the route between the beginning of the 2026 summer-autumn navigation season and mid-September, already exceeding the organization’s totals for the entire 2025 season of 38 oil tankers and 13 LNG carriers. The organization also found that 26 of the 50 oil tankers had an ice class of Ice3 or lower, or no ice class at all, while 33 were at least 15 years old. The figures point to a growing role for sanctioned and older vessels in Russia’s Arctic energy logistics.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "583142a5ff6c",
-   "title": "Port Lotniczy Lublin: ponad 57,5 tys. podróżnych skorzystało z lotniska we wrześniu",
-   "original_title": "Port Lotniczy Lublin: ponad 57,5 tys. podróżnych skorzystało z lotniska we wrześniu",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX3NnRHJXTXJwRE5PRUQyYmlDRksyMERLM3dwRzlnVmFVbFl1SXhyRTV5TVFwNGFyMDdxV2psWTcxQThxU1FhYnUyTjN1ZzItdGFybkRkTmY4bVJvTjMyU1IyeGRfRzQtU1dmNmxJaEFXeGtaZFpicGQ3THlubTI0ZmQxeDVkZUgwc0lKVE1zQTU4OG82cmVKMjFJNFZ3VnpCYTY5MWRkOFg2SHJrQ05MN2VB?oc=5",
-   "source": "dlapilota.pl",
-   "published": "2026-10-08T14:10+00:00",
-   "added": "2026-10-08T16:53+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port Lotniczy Lublin: ponad 57,5 tys. podróżnych skorzystało z lotniska we wrześniu dlapilota.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2dd421c0770b",
-   "title": "The battle against supply chain chaos keeps SMBs ‘in overdrive’",
-   "original_title": "The battle against supply chain chaos keeps SMBs ‘in overdrive’",
-   "url": "https://theloadstar.com/the-battle-against-supply-chain-chaos-keeps-smbs-in-overdrive/",
-   "source": "The Loadstar",
-   "published": "2026-10-08T14:00+00:00",
-   "added": "2026-10-08T14:04+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "inventory",
-    "supply chain"
-   ],
-   "summary": "Small and mid-sized shippers (SMBs) are in a state of permanent overdrive, according to a report by Netstock. Inventory moves have accelerated, dead stock is threatening to pile up on them, and traditional, linear supply chain planning is failing. The 2026 Supply Chain Planning Benchmark Report , based on data from over 2,500 Netstock customers and a survey of more than 150 users at businesses with less than $250m in annual revenue, shows shippers under unceasing strain managing their supply chains. For one thing, the percentage of SMBs sourcing from two or more regions grew, from 45% in 2024 to 55% in 2026. This points to a fundamental shift in the challenges with which supply chain planners are struggling. The report said that, last year, supply chain planning was largely dictated by trade policies – tariffs – which brought about an emphasis on front-loading and building buffer stock. The landscape shifted from a year of singular shocks to one defined by supply chain chaos, where trade policy changes, shipping route disruptions, raw-material costs, demand shifts, and uneven supplier performance converged at once. “This report uses the term ‘supply chain chaos’ to describe a different kind of disruption: volatility shifts one variable at a time, while chaos moves several at once; leaving planners without a stable baseline for decision-making.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "fcc0ad82e38d",
-   "title": "Germany blocks COSCO takeover of logistics firm Zippel over security concerns",
-   "original_title": "Germany blocks COSCO takeover of logistics firm Zippel over security concerns",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXZsMGIybGxxQm9fUlQ1dTJ0SmdVbFZBTjE2Y2Z3c1h2UDlneTNDaERhdHlhV0J4Sk4zeFl0WEhCeS1jdXVtVU1ydVNudDVIUFhIMDc1NGxaa1hOczkxb3YwY1VmMkRRU1FiSHVjUUFiX01iZUFwYmNIVDRCT0hTc05IVXhvMGZIYzR5dW9Pa3B2U1RSRVlwdjlZTmtUYkhLNnZUeXVRYVk?oc=5",
-   "source": "Container News",
-   "published": "2026-10-08T14:00+00:00",
-   "added": "2026-10-12T15:26+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "logistics",
-    "security",
-    "takeover"
-   ],
-   "summary": "Germany blocks COSCO takeover of logistics firm Zippel over security concerns Container News",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   }
  ]
