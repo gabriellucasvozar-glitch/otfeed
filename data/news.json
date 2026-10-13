@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T10:05+00:00",
+ "generated_at": "2026-10-13T10:30+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,40 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b9af49b113a1",
+   "title": "Baltic grain surge disrupts urea exports as port congestion d ...",
+   "original_title": "Baltic grain surge disrupts urea exports as port congestion d ...",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTW9xRHJYOVRqdXRwMndPVTEycFc2Y2JHMkswb2pfNU9zNVM2eFlWY1ZDZDNOVzRiMnl0Q09MOHBWbnhEcmRnQ1V0cnplVDBmWEVOZjNGX1JubTl5V0VFa3dsOEVmbnJqRTBVSHFBTTNZMmlfR2x6S0hHcV9KZDBmVTZRM3E3RkVhZ0ZIcGdxcHZCTW5WSDNiblVBcHlvYkU3cEE?oc=5",
+   "source": "Milling Middle East & Africa",
+   "published": "2026-10-13T10:16+00:00",
+   "added": "2026-10-13T10:30+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "commodities",
+    "supplychain",
+    "ports"
+   ],
+   "priority": "high",
+   "score": 16,
+   "regions": [
+    "Baltic & Nordics",
+    "Middle East",
+    "Africa"
+   ],
+   "tags": [
+    "baltic",
+    "congestion",
+    "grain",
+    "port",
+    "port congestion",
+    "urea"
+   ],
+   "summary": "Baltic grain surge disrupts urea exports as port congestion d ... Milling Middle East & Africa",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "da594d28d1a0",
    "title": "Fujian Guohang maps out Hong Kong fleet expansion",
@@ -1151,6 +1185,33 @@
     "ports"
    ],
    "summary": "Ports in India: Growth, Infrastructure and Future Outlook Dainik Jagran MP CG",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2d4473f6b639",
+   "title": "Pociągiem na lotnisko? To wciąż niewykorzystany potencjał. Port Polska to zmieni",
+   "original_title": "Pociągiem na lotnisko? To wciąż niewykorzystany potencjał. Port Polska to zmieni",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEhhcVdSOFlEQU9IOC1IRUp0TEhqWTdOS1FLVjNjNVo5VVZSanRjR2xJR29meHNDSDlBSDZDcDVCbkZKNmYyWnJMTVI4ZVVBUjZtZ01WbjgzSnZIYk1PV01aa1d5VlgxSXVFNEdZajgzbDJtT1RIak03SHpqQ1Fkb2I4Ukx1Q0prbHRWdUY4VE9VUG1jZWh3eXZDdXFuUzdpbUpoNHlaSHY5dw?oc=5",
+   "source": "Wyborcza.biz",
+   "published": "2026-10-13T06:10+00:00",
+   "added": "2026-10-13T10:30+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Pociągiem na lotnisko? To wciąż niewykorzystany potencjał. Port Polska to zmieni Wyborcza.biz",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -11569,6 +11630,37 @@
    "summary_method": "extract"
   },
   {
+   "id": "4650fb9f9f70",
+   "title": "UK imposes new sanctions targeting Russian oil and shadow fleet",
+   "original_title": "UK imposes new sanctions targeting Russian oil and shadow fleet",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaVRwTkxJd2wxbXhlczM4VGh1a3UwOXA2R0wtYm9aVmNDSHU3cktVRGhwTm5CME1rSnZQTFowcHU3MjFwb3FBSDVDVmYzVE1Mbk44U2FVRV8xcmFIZnBONE5keDU1SGQ4SzBnOTJ3RW40eldYZGlmSXk1Q0FBN3RlQURockMzWmRwZ01uVzR3ajQ?oc=5",
+   "source": "safety4sea",
+   "published": "2026-10-09T11:01+00:00",
+   "added": "2026-10-13T10:30+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "russia",
+    "russian",
+    "sanction",
+    "shadow fleet"
+   ],
+   "summary": "UK imposes new sanctions targeting Russian oil and shadow fleet safety4sea",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "090f0711ddec",
    "title": "BIR: EU recycled steel export restrictions could put downward pressure on prices",
    "original_title": "BIR: EU recycled steel export restrictions could put downward pressure on prices",
@@ -16562,84 +16654,6 @@
    ],
    "summary": "Italian scrap prices tick up in October Kallanish Commodities",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "88cd27b51cea",
-   "title": "Latin America's nearshoring test: Turning proximity into growth",
-   "original_title": "Latin America's nearshoring test: Turning proximity into growth",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVEtZOXJab3FPT1UyVkxkTElJSGxHT0JTOEdqRVMyYndNN3I5ekxQa2w1QVozanNxaUFSVmR6RVhpTnN0bEJBcmhYbXNER3JZOV9MdHdxVmpudHBvVzEzWktoNlAzTE1WNzVrejVsSW4weUlESnFDYUdMMXdNSktJdXBBUlJuYUJ6Wm41VmxHekZaOFZYTGpKNG9oT2E5bkc3alZZSHRyVjDSAa4BQVVfeXFMT1BDVXB6TThZbTdZTVlXbndrZ3EwQWtPNmNSam9wWDd3dkZKcEJzcVpYMVRIeS1oaE1CZEpJX29sNWl3ZDdleDQyX1M4bUlTUVZqYVc1bE1xdk4xY0xma0lPLVBXdm1DRVVZWWJIczIybjBpNG1iNDctVFpsN2xyZHN2SDVpcDJTVTJyN1hLYlhDM04zZllhQkFSYVQwMVp5dFNXQjZHRDI2dlNKazlB?oc=5",
-   "source": "upi",
-   "published": "2026-10-08T13:49+00:00",
-   "added": "2026-10-08T14:31+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "nearshoring"
-   ],
-   "summary": "Latin America's nearshoring test: Turning proximity into growth upi",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2774dfa460c4",
-   "title": "Klaipeda Port carries out trial of private 5G network from LMT, Santa Monica Networks",
-   "original_title": "Klaipeda Port carries out trial of private 5G network from LMT, Santa Monica Networks",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNek9oWVZQcHBWMFZaZ29aUUhORVM0SG1tWHI1WC1meDVOSEJRNHpEeTF4MUwzREVfbTV0YU1XeFFLeU92dElHYU1odHVjLXQ2VDM3Si01eGllR1hHYmVUd0hld0NfdUQ4cUNfNlg5MDFRQ1I2RG5EZTlNQjY0MHRLZ3ljc1FKTFlibVVlZ2FqMzdPVF9rWGxuZlJGc3VTZ1h3TTFUWWZ3d3F3STcyLUVlbXRFZTUzSGNpXzhzV3NLR0pNOFNFVmc?oc=5",
-   "source": "Telecompaper",
-   "published": "2026-10-08T13:48+00:00",
-   "added": "2026-10-08T15:40+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "klaipeda",
-    "port"
-   ],
-   "summary": "Klaipeda Port carries out trial of private 5G network from LMT, Santa Monica Networks Telecompaper",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f280b496e782",
-   "title": "Uzbekistan calls Baku Port a key link for cargo along Middle Corridor (Exclusive)",
-   "original_title": "Uzbekistan calls Baku Port a key link for cargo along Middle Corridor (Exclusive)",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84UkVzOURMdGJldmtZMHZRM0NGUF9BbklPUzdBcTE3NVV0Y0NRU2xXaEI2MlpoNzBJWFVCVVJYLUlVTEpXSlFYcERrUF9rSDFiMWx3MnczN2l6MUk0Wk1n?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-08T13:47+00:00",
-   "added": "2026-10-09T22:28+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor",
-    "port"
-   ],
-   "summary": "Uzbekistan calls Baku Port a key link for cargo along Middle Corridor (Exclusive) Trend News Agency",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
