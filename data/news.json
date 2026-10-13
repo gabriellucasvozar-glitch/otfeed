@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T01:56+00:00",
+ "generated_at": "2026-10-13T02:20+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "c652181e7c71",
+   "title": "Chinese coal prices rise to a three-year high.",
+   "original_title": "Chinese coal prices rise to a three-year high.",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5THJMRFBxbTE4cURlc280NzlmazNfTkdwak9LR3RPRnFZUUk0bElEaWdBQTR6bG1iZnRmcS1ZSkpLaTByVjNqSXp5Wmh3ZnF1VUdOX3d6c2VwcE5NSUNUN2g0UW1ydVgzRjB0VUcxX0FSVlotWVUtamVtbw?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-13T02:01+00:00",
+   "added": "2026-10-13T02:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "chinese",
+    "coal",
+    "prices"
+   ],
+   "summary": "Chinese coal prices rise to a three-year high. Vietnam.vn",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "0e59e44c99eb",
    "title": "Oil Futures Little Changed as Market Weighs Export Recovery, Shipping Risks",
@@ -766,6 +794,33 @@
    ],
    "summary": "Baltic boom pushes Polish ports into the European big league Splash247",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1d919979c376",
+   "title": "Port Blockade to Cost Ukraine Around 2% of GDP",
+   "original_title": "Port Blockade to Cost Ukraine Around 2% of GDP",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX1JLMU85Qm1yaU1KaGhadWxZU1lnRVFuWndfYXFHM0dma0xiZ01HUWNET09EREZBRDNhR3pyZDJPY3NYekpra3JJY2RHZFI0RFJYYzJpOG9uX05QVE1tZEpFeG02X0sxaVFkM2IzaVFEYV9TTjN2ZV9pNHRXTWdYSW52MDktdW1VVFJQYjJVTGFScER1SVE?oc=5",
+   "source": "AgroPortal.ua",
+   "published": "2026-10-12T19:04+00:00",
+   "added": "2026-10-13T02:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "port",
+    "ukraine"
+   ],
+   "summary": "Port Blockade to Cost Ukraine Around 2% of GDP AgroPortal.ua",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -4245,6 +4300,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "4eb3a600537c",
+   "title": "Yemen fighting expands as Houthis attack Saudi Airport again",
+   "original_title": "Yemen fighting expands as Houthis attack Saudi Airport again",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWh4ejFYWE1BeFhlOWdQS0FhT0JOUWlOMEYyY1ItT2tPNy1GanU4YXFHTWxmM0JfNEI3SVFtVFlkQzYtRlhxZzRMb3ZNV3NtbmNiSUxQMXdnbE9GM3dXT1FvSnpheW9Ha2tLaWhmQ2pBUlNFZVRZLWh0YjByT1ZCcjNUSU4tVDZhOXR0ZzhzMEZnRDRDMVdrRnZPRVh0Zw?oc=5",
+   "source": "India Shipping News",
+   "published": "2026-10-12T03:34+00:00",
+   "added": "2026-10-13T02:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "attack",
+    "houthi",
+    "shipping"
+   ],
+   "summary": "Yemen fighting expands as Houthis attack Saudi Airport again India Shipping News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "05e87307a2c1",
    "title": "Samsung SDS has acquired Ujeong Air, a domestic air logistics carrier. With this acquisition, Samsun..",
    "original_title": "Samsung SDS has acquired Ujeong Air, a domestic air logistics carrier. With this acquisition, Samsun..",
@@ -6057,6 +6141,34 @@
    "summary_method": "extract"
   },
   {
+   "id": "29326affb1c0",
+   "title": "Ports to get special scanners to detect drugs concealed in shipping containers",
+   "original_title": "Ports to get special scanners to detect drugs concealed in shipping containers",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTkdOMnZQSm5welEtdXdYNnpNM2JhWjJDb1FfUlNkLVBiUU15Sk0wLWhrcm9FWFZuTmhSc3FZLVVzQm9uSjNoelBicTd4S0t0MXNCam9RRjREUF9tRnhPNzNvb0VYbnkwc0g5ak4yRGpqMUZfTWtrcXRUMVBRVk5sU2JXdnBENWNMeTJwSnN0VVdGZldWMUMyUVdkNEgzcTZ1QldLSjNNSE5EY3I1YzVBa3hwa3BscjBYMDVpWHdkVDJWSm8tLU82Qg?oc=5",
+   "source": "The Sunday Times, Sri Lanka",
+   "published": "2026-10-11T02:35+00:00",
+   "added": "2026-10-13T02:20+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "shipping"
+   ],
+   "summary": "Ports to get special scanners to detect drugs concealed in shipping containers The Sunday Times, Sri Lanka",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "db2da1bf2940",
    "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
    "original_title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
@@ -6790,6 +6902,33 @@
    ],
    "summary": "Chiny chcą skrócić przeładunek do godziny. Tysiąc węzłów logistycznych czeka przebudowa Kurier Kolejowy",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1358e1a08c05",
+   "title": "CFM increases the price of rail freight transport. Tariffs increase by 15% from November 1, amid higher fuel costs",
+   "original_title": "CFM increases the price of rail freight transport. Tariffs increase by 15% from November 1, amid higher fuel costs",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPclVoX201dWxjY3FpYWNpRXdzZC05b1VkRWl4Y3JOR3lIWFVYY3piQmhlUTRUN2xySU1pMWRrY200RGRuN09CX191R1Y5TUpybFExQzBDZ0hZYjJUQ3ZVTGE2azFNeVRQNGgzNlpCblZBWFhhTUZrVlBHam40NkhKY25IRFhRWTVYZllQSGVNOFZ2N1Y2QWdGZWVveXJteVRyeUl2Z19JQldRSXlTT2ZMM3NSWmJHc1VWci1vdzVZcUR1djNzcndzZ2V0Y19GWTFjdHZtZUFQaGJGTmxTQTBFelowaw?oc=5",
+   "source": "cotidianul.md",
+   "published": "2026-10-10T08:29+00:00",
+   "added": "2026-10-13T02:20+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "rail",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "rail freight",
+    "tariff"
+   ],
+   "summary": "CFM increases the price of rail freight transport. Tariffs increase by 15% from November 1, amid higher fuel costs cotidianul.md",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   },
   {
@@ -16534,144 +16673,6 @@
    ],
    "summary": "In Port Louis, the African Union backs Mauritius as a bridge to Asia Capmad",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "92f25fe7af39",
-   "title": "Lithuania to propose EU ban on Russian grain transit, sanctions on agricultural oligarchs",
-   "original_title": "Lithuania to propose EU ban on Russian grain transit, sanctions on agricultural oligarchs",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa2J6R0k3aGNuX1lablhVdmZaUDJaSkMyckh4VVl4VVctaVR3V3Nzd3hXZURmVmJ1d0ZuTVlfeUtRUVRCdm5SdEZKNEZPVGRQTnlMTEZrY05EXzY2eDBMZlc1ckh0OHB6aWJSNC1DYWtEdkRUNUFxT2YzN2c3aHlZOFJlWmpwdFJiRDBsNklFNERoVmlUdjVfeDJBbnM2RTd1X1pwU2I0a2ZIc2lKTTkyMGI4Nm1LenJkSllFUEttWlBSMmRicTZjdU9uemdxdkMyam1B?oc=5",
-   "source": "LRT",
-   "published": "2026-10-08T07:21+00:00",
-   "added": "2026-10-08T07:58+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Baltic & Nordics",
-    "Russia & Belarus",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "grain",
-    "russia",
-    "russian",
-    "sanction"
-   ],
-   "summary": "Lithuania to propose EU ban on Russian grain transit, sanctions on agricultural oligarchs LRT",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "377aec8f1e16",
-   "title": "Polimex Mostostal wycofał się z przetargu na terminal CPK",
-   "original_title": "Polimex Mostostal wycofał się z przetargu na terminal CPK",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS19qQWR6cUI3MUkyOGhVZm1ncjVuVlFlRm44eWo2UGN1Q0Fhaml0NGVhV3UxYmVzY2xPcFB4dlExN2FEVHF0WFJteS1hUkRwa1VyS1UtZ2w4SHo2UF9NTHRIdTBVbWMxeGpPb1BIMC11dmFkYnl4TVhqSklZNGp3RGlXRmRaYU8wSkVtX3B3QzJHUjlQU0VpLVAySnlHRzgydjZTNWpDVUtZd3Fo?oc=5",
-   "source": "StockWatch.pl",
-   "published": "2026-10-08T07:11+00:00",
-   "added": "2026-10-08T07:37+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Polimex Mostostal wycofał się z przetargu na terminal CPK StockWatch.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "15d124bb40dd",
-   "title": "PIF Energy launches $2bn VLCC buying spree",
-   "original_title": "PIF Energy launches $2bn VLCC buying spree",
-   "url": "https://splash247.com/pif-energy-launches-2bn-vlcc-buying-spree/",
-   "source": "Splash247",
-   "published": "2026-10-08T07:08+00:00",
-   "added": "2026-10-08T07:12+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "hormuz",
-    "shipping"
-   ],
-   "summary": "US energy trader PIF Energy has unveiled plans to spend $2bn acquiring up to 15 crude tankers, with purchases already underway as the company moves to secure shipping capacity through the Strait of Hormuz. The Dallas-based company, founded and led by chief executive Ben Morrow, specialises in crude oil and refined products trading, supply and logistics, with operations spanning the US Gulf, Europe and the Middle East. PIF, which stands for Pay It Forward, trades crude and products including diesel and jet fuel, supplying refineries, governments and industrial customers. The privately held business has also been pursuing opportunities in Iraq, where it has held discussions with the country’s oil ministry over cooperation in the upstream sector. PIF is targeting secondhand VLCCs, with the new fleet intended to transport oil from Iraq and other Gulf producers to markets in Asia and Europe. “Our investment is focused on a practical contribution: owning and operating the transportation capacity to connect crude supply with refinery demand and support sustained deliveries,” PIF stated in a recent social media post. The company expects to complete its initial acquisition programme within three to four weeks, subject to vessel availability and due diligence. The company has yet to identify individual vessels being acquired or disclose how the $2bn programme will be financed.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "97de977f3419",
-   "title": "Hamburg harbour container terminal",
-   "original_title": "Hamburg harbour container terminal",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbTJCcHJpV3pjR3RLckZUN1NrUTdJMVotenI1X3A0Y19pOVZDcTlUV2VQdnN2NTBpLUgwbnlhT0Nuak5qbkRTR1k4NFJRZDlNNDNBUnpPNmdCZlRZZjk1T0lnQ0xva1MwOVVaTWo4SEVxZ01Uc3c0a2VQZUFsS05URlZnd0tEZ3dLTWVkLUhkdnZKWDhIbFBUZzhsTk4xdlE3a2JpVk1GcVVfdWFUcU9neDNlMzRlWTNxdFNONDZpQ3duT2ZuRUQyaQ?oc=5",
-   "source": "The Daily News | Texas' Oldest Newspaper",
-   "published": "2026-10-08T07:04+00:00",
-   "added": "2026-10-08T08:46+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "container terminal",
-    "hamburg",
-    "terminal"
-   ],
-   "summary": "Hamburg harbour container terminal The Daily News | Texas' Oldest Newspaper",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f592f4ee6dd8",
-   "title": "Tokayev proposed discussing the integration of TRIPP into the Middle Corridor within the C5+1 framework",
-   "original_title": "Tokayev proposed discussing the integration of TRIPP into the Middle Corridor within the C5+1 framework",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYUEtTE9qRkRpS2l4VUUyaUU5UDVHVHc3RjNteHM5ZXVUWDdqOUpSTkNPa0JJVjNrLWF3d1dNNFdHa0VDOFYzYzNQeXBBMEJHYUluUkxibHRWMFZ3YUpwYi1taUtjTWNHNUFHamV4aFZHVk5OS2xCMEhzdmxoQ3FMUS1RUmJaWFBRZm00UzB4NUNYb1JVbHN3VFREMEcyZm5RS2UtcG1RNXR1dEIyN004aXdKNDFsMHdianRCZDQzdi1UX25qdVN2R3ZB?oc=5",
-   "source": "Baku.ws",
-   "published": "2026-10-08T07:04+00:00",
-   "added": "2026-10-13T00:43+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Tokayev proposed discussing the integration of TRIPP into the Middle Corridor within the C5+1 framework Baku.ws",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
