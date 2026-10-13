@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T08:04+00:00",
+ "generated_at": "2026-10-13T08:32+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,57 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "636db715c8b9",
+   "title": "Southeast Asia Industrial Park Expands Seaport-Linked Investment Opportunities In Tay Ninh, Vietnam",
+   "original_title": "Southeast Asia Industrial Park Expands Seaport-Linked Investment Opportunities In Tay Ninh, Vietnam",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMVUtdjg0b04tWmU1d24tdzBxaDRkX2dNdEhSZGx6RHRrV3J4NUNVNzRfQUFtYUhfNmpYYmdNUk5iSGYyQmhQdlBXTkNtc1l1c3UtN1QxelpnVzNrSGxfRGREeDFpeVpSZE1RclN5SkZyVHVFdVFROVItZnZpbG52cXU0Y0pOeTh6U3RRdU9yM2d0VHkydi1ubEJTY1RjQ1VZcm8wNS1FT2FaZzV5c3BhUEI3cGFaTWRDZDVNaVhRcjlyVUJhQjhrc3Vzb2lQZEwtUXF6dnBJWQ?oc=5",
+   "source": "EIN News",
+   "published": "2026-10-13T08:29+00:00",
+   "added": "2026-10-13T08:32+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "seaport"
+   ],
+   "summary": "Southeast Asia Industrial Park Expands Seaport-Linked Investment Opportunities In Tay Ninh, Vietnam EIN News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "46a9847375e2",
+   "title": "How AI will transform freight forwarding beyond the hype",
+   "original_title": "How AI will transform freight forwarding beyond the hype",
+   "url": "https://theloadstar.com/how-ai-will-transform-freight-forwarding-beyond-the-hype/",
+   "source": "The Loadstar",
+   "published": "2026-10-13T08:23+00:00",
+   "added": "2026-10-13T08:32+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "forwarding",
+    "logistics"
+   ],
+   "summary": "AI is everywhere in logistics right now, but what does it actually mean for freight forwarding? In this episode of The Loadstar Podcast, host Charlotte Goldstone speaks to Erik Muttersbach, founder of Zauber and former Forto technology executive, about where AI and agentic AI really stand today, what is already happening in forwarding, and what could change over the next three to five years. Erik shares what he is learning from real-world deployments with customers, tackles some of the biggest misconceptions around AI, and explains why adoption and change management may be just as important as the technology itself. They also discuss the buy-versus-build question, the patterns Erik has seen across a decade of technology adoption in forwarding, and how companies can separate genuine AI capability from the hype. Looking ahead, what will AI actually change across the forwarding value chain – and which parts of the industry will prove hardest to transform? Watch the episode on YouTube and subscribe so you never miss an update! This article is © The Loadstar. This article is © The Loadstar. This article is © The Loadstar.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "2c3100a4e3fe",
    "title": "Iran threatens ships going dark in Hormuz",
@@ -12165,6 +12216,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "57891ddfb633",
+   "title": "Kalmar extends partnership with Port of Halmstad",
+   "original_title": "Kalmar extends partnership with Port of Halmstad",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORXllWU1xVC1xdW15ZlZFdlZkMkRVa0xRSTVmMTk3b2xQMUJ6b0hrVWt0bHg1UnhvcmtFeUMxczhCRVRzcWhNSjZuVHBrdXp0VG43aHN0X29lQ2VycDUxRUloaEgwVHhCcGpBbDlyZFllS29HWkRuTE14LU1iSWZHY0N5SUlMX2NTeVlqbVBTWFRZdjBHZ09TTg?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-09T08:09+00:00",
+   "added": "2026-10-13T08:32+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "kalmar",
+    "port"
+   ],
+   "summary": "Kalmar extends partnership with Port of Halmstad WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "9b443419c3f4",
    "title": "Tokyo Gas moves into Indonesian inter-island LNG shipping",
    "original_title": "Tokyo Gas moves into Indonesian inter-island LNG shipping",
@@ -16585,90 +16663,6 @@
    "summary": "Analysts cut fair value for Kumba Iron Ore stock to ZAR 270.50 AD HOC NEWS",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "54ae9013a98d",
-   "title": "German lawmakers approve funds for eight-ship fleet of sub-hunting frigates",
-   "original_title": "German lawmakers approve funds for eight-ship fleet of sub-hunting frigates",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMW1vZGpROXJ4MkV4enUyQkwzVUFnV21DNnR2dkh1Z1hPNGt0Q2dVRGVDZFp6blZCRmpBbGcyWm9BeklBdFY0V0N4Qzd5YWpxTEY2UWpPT2FhNzFFb29wLWdmak00V0dJQmtwRmxNZmpZY1hxRVNiTFBKYmF0UGZSTHhSbVN5Z2Rad3N3ZEM3SEhlNDRBNWxqcXdocktoUnZvQ0Z4YUNsZmRfOGNfejhVWmhNVjVweC1BQnhBSkh5d040eXhjeDRqZQ?oc=5",
-   "source": "Defense News",
-   "published": "2026-10-08T11:18+00:00",
-   "added": "2026-10-08T12:56+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "defense",
-    "fleet"
-   ],
-   "summary": "German lawmakers approve funds for eight-ship fleet of sub-hunting frigates Defense News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a59a3d5818c1",
-   "title": "East of Suez: Dubai crude races higher, Asia distillate cracks rise",
-   "original_title": "East of Suez: Dubai crude races higher, Asia distillate cracks rise",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZzZDdZNXpidk4ta0ZSNW1zN3QzbFpfWktaNzFsa2Y0VVpUWUlMa0c2alhLcjNfSFBjcXllU0gxUEZ6V3Nma2xOZjhkbzc2V1pBZEJBeXpjMEpNdER2cWdnTEo5blRTUEdISi05UXNRWlFicjZvclZzMkxFeFB5MUNyci1PTGpnZVVlTTNJLXFBYjIzV3R0NWY0eTZXVVNCUF9GS0tPbXpJMWI2?oc=5",
-   "source": "Quantum Commodity Intelligence",
-   "published": "2026-10-08T11:14+00:00",
-   "added": "2026-10-08T11:57+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "commodit",
-    "crude",
-    "suez"
-   ],
-   "summary": "East of Suez: Dubai crude races higher, Asia distillate cracks rise Quantum Commodity Intelligence",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "749658da50d2",
-   "title": "Hong Kong eyes new Pinglu Canal as route to port revival",
-   "original_title": "Hong Kong eyes new Pinglu Canal as route to port revival",
-   "url": "https://theloadstar.com/hong-kong-eyes-new-pinglu-canal-as-route-to-port-revival/",
-   "source": "The Loadstar",
-   "published": "2026-10-08T11:13+00:00",
-   "added": "2026-10-08T11:16+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "ports",
-    "equipment",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "autonomous",
-    "china",
-    "port"
-   ],
-   "summary": "Hong Kong is looking to the new Pinglu Canal to stem the decline in cargo volumes at its port by extending its reach into western China’s inland markets, and strengthening its role as a regional transhipment hub. The Hong Kong government sees the newly opened canal, which links inland industries in China’s Guangxi Zhuang Autonomous Region, with Beibu Gulf, as a means to broaden the port’s cargo catchment area and competitiveness. Decades ago, Hong Kong competed with Singapore and Rotterdam as the world’s busiest port. By 2025, Hong Kong was ranked the 12 th busiest port, as volumes dropped 6%, to 12.91m teu. Container traffic between Guangxi and Hong Kong reached 160,000 teu in the first half of 2026, up 22% year on year, according to the government. which wants to build on this growth by combining the canal with existing sea-rail services and new land and river connections. Among the services already linking Hong Kong to China’s western land-sea corridor are a Hong Kong-Guizhou daily service and a Chongqing-Qinzhou-Hong Kong sea-rail intermodal service. And Ms Chan said Hong Kong port retained significant operational strengths. At the same time, Hong Kong is expanding its port community system, which has more than 9,000 registered companies, and has facilitated more than 20 cases of trade financing using trusted cargo-flow data.",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "extract"
   }
  ]
 }
