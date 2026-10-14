@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T19:39+00:00",
+ "generated_at": "2026-10-14T20:11+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "5ebfe9a99518",
+   "title": "New Port of Santana Shiploader Enters Testing Phase",
+   "original_title": "New Port of Santana Shiploader Enters Testing Phase",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3VBNTctZW55aVpKa1JNZUVUbTZ3YXhfYTFVT2pLdUFwZDhPc1B1ajNUWjh2bUZwZlBkck12RDlTOW5Nay1oVWMyQXNpZmZZbHF4bENYYXBsZVA3b0dnTHdXOHZVc0txUURiZjZ0bjF4bDMxV3N5aHI4bU9SZTJ1M3lMOUFGSm9zamVRbDhR?oc=5",
+   "source": "DatamarNews",
+   "published": "2026-10-14T19:38+00:00",
+   "added": "2026-10-14T20:11+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "shiploader"
+   ],
+   "summary": "New Port of Santana Shiploader Enters Testing Phase DatamarNews",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "fa606b2701b8",
    "title": "US Army Corps approves permit for Georgia Ports' 3.5m teu Savannah Container Terminal",
@@ -743,6 +770,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "581cca519a37",
+   "title": "Australia’s green iron opportunity becomes economic necessity with end of China steel boom",
+   "original_title": "Australia’s green iron opportunity becomes economic necessity with end of China steel boom",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSENvbGlWWHJFb3VQTVM4bV9wR3E2cU8wVGJHZ0Z4YkdXZ3FwQzVMaXpLcHl3NFM1bWRYNjFScTZCRW00eXNFb19OcmszbkVuUDgtQy1lNlFLR18zREhpLU0zSXZVWFdfV0QxcUZsbHFDaFYwTFp1MnlOMmUyc2N6LVlFZ3dMX3JtTkIzdks4NmRmYm5oVVduZE9lYnpoQXg2WlF4QTRwNzc2VXJ0?oc=5",
+   "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+   "published": "2026-10-14T13:45+00:00",
+   "added": "2026-10-14T20:11+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia",
+    "Oceania"
+   ],
+   "tags": [
+    "china",
+    "steel"
+   ],
+   "summary": "Australia’s green iron opportunity becomes economic necessity with end of China steel boom Institute for Energy Economics and Financial Analysis (IEEFA)",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "ce3ac6bee4f3",
    "title": "China Signs $336 Million Loan to Expand Mongla Port Container Capacity",
    "original_title": "China Signs $336 Million Loan to Expand Mongla Port Container Capacity",
@@ -1091,6 +1146,59 @@
     "middle corridor"
    ],
    "summary": "Kazakhstan seeks Belgium partnership to boost Middle Corridor trade Euronews.com",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "29cb39510bb9",
+   "title": "FLOW Ports Alliance Eyes Expansion as Offshore Wind Infrastructure Needs Grow",
+   "original_title": "FLOW Ports Alliance Eyes Expansion as Offshore Wind Infrastructure Needs Grow",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHlEejJmLTVmWDgyQkJvdjFaMDZzQkJkMmFKa2lLa1VtS2N4VGtjTmR4aTJqNDAzM0tnNEkwN01Xbmc4cXdJNW1feS11R1FDUi1LeWFwTXJNZHUxMDFpcnIyTnQ5OGNSaVpwcW1CT2tVMjY4elJ0am92LVNCT1RaM3NPTHU3QUxLY1FrTk1PaUlNVXF4ZUl5UUlJQUU4dzlFWEE4?oc=5",
+   "source": "Breakbulk.News",
+   "published": "2026-10-14T12:51+00:00",
+   "added": "2026-10-14T20:11+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "FLOW Ports Alliance Eyes Expansion as Offshore Wind Infrastructure Needs Grow Breakbulk.News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fe7b6f1dc997",
+   "title": "Cross-dock warehouses cater to specialised logistics needs",
+   "original_title": "Cross-dock warehouses cater to specialised logistics needs",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSUJiTzRtM0J1SlIyRHpNWmZiMXVTVV9kZnZzWldUUERxRDRCUnFmNjdXZkhpc1dVS0FydzJ4Rm1XRGxoWmlUdlgxWFRISExyd3M0dC13N21aWTdVYkRGMHJYQjR6bUlJWFhOYjROZ1FMXzFXNHlyb3QyajRSUWdibXVVQmtuQVJPQjhaV1BkWThwNW93QkNsZEdMQ2VJdw?oc=5",
+   "source": "EurobuildCEE",
+   "published": "2026-10-14T12:46+00:00",
+   "added": "2026-10-14T20:11+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "logistics",
+    "warehouse"
+   ],
+   "summary": "Cross-dock warehouses cater to specialised logistics needs EurobuildCEE",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
@@ -1801,6 +1909,33 @@
    ],
    "summary": "El Niño puts Panama Canal capacity and grain shipments at risk in 2027 safety4sea",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ce831e59db48",
+   "title": "EU carbon trading scheme driving up rail freight costs, PKP chief warns",
+   "original_title": "EU carbon trading scheme driving up rail freight costs, PKP chief warns",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDBsZ0ZBemtVekEyeEdITnBxaXZBVUxHbGVOY003VWpXeWdxU01mZy1ONUo4SHNGaUFVek1tUzRHQVdYZ3VydFBVYWpDTnRvMDhJWEFfdV9KUWdZZGV4TlRWR3l5ejZaWktSZmNCWWgyUC00RlRtMHc2OEI0OWtSY3doQVlIT245ZWJXYzNJcXJtRTl1UGliUnU2c2pld0tkUjBBdkF2QjlFbVpWT2F0VnN5a2s1YXc?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-14T10:50+00:00",
+   "added": "2026-10-14T20:11+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Poland",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "rail freight"
+   ],
+   "summary": "EU carbon trading scheme driving up rail freight costs, PKP chief warns RailFreight.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -15293,6 +15428,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "08e5294b4eec",
+   "title": "Can Middle Corridor Deliver on Its Promise?",
+   "original_title": "Can Middle Corridor Deliver on Its Promise?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQemV5UlVDNDB5ODAxUGFhZDBVTVE3OTY5Z1FyUFJ0Nk1KMzlzeTREWEd0N2RlYXFOQUNDclpXVDhRMkNxbExUUUd5SVBzZGdqUXpvN0VKem56XzctNTBrVS04T3lZZmVxc1k3Q0lCek9nX3lfb3l0dUdxbmZHZHRISA?oc=5",
+   "source": "The Astana Times",
+   "published": "2026-10-12T04:06+00:00",
+   "added": "2026-10-14T20:11+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "Can Middle Corridor Deliver on Its Promise? The Astana Times",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "0c01ca18c118",
    "title": "European Steel Stocks That Could Gain If Energy Costs Ease",
    "original_title": "European Steel Stocks That Could Gain If Energy Costs Ease",
@@ -16387,177 +16547,6 @@
    "summary": "Global shipping earnings have reached another extraordinary milestone, with Clarksons Research’s cross-sector ClarkSea Index surging 12% in a week to an unprecedented $84,951 a day, its fifth consecutive all-time high. The index, a widely followed overall earnings barometer, measures average daily earnings across tankers, bulk carriers, containerships and gas carriers, weighted by vessel numbers in each sector. It covers approximately 80% of global shipping capacity, providing a broad measure of the industry’s fortunes. The latest reading dwarfs the previous shipping supercycle’s 2007 peak of $50,714 a day. Average VLCC earnings jumped another 21% last week to $804,601 a day, while suezmaxes climbed 17% to $724,398 and aframaxes surged 46% to $393,951. Elsewhere, dry bulk has softened, with capesize earnings retreating 16% to $31,130 and overall bulker earnings slipping 3% to $22,319. VLGCs are enjoying record earnings, reaching $209,000 a day on the US Gulf-Japan route, although LNG carriers remain the conspicuous laggard, with modern spot earnings down 19% to $34,250. The present boom is universal, transcending shipping sectors, as demand remains robust and ton-miles have been added as ships detour around war zones by taking longer routes home.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "8211cba6dfc1",
-   "title": "Star Bulk sells down kamsarmax pair to Hermes",
-   "original_title": "Star Bulk sells down kamsarmax pair to Hermes",
-   "url": "https://splash247.com/star-bulk-sells-down-kamsarmax-pair-to-hermes/",
-   "source": "Splash247",
-   "published": "2026-10-11T20:00+00:00",
-   "added": "2026-10-11T20:19+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "mna"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bulk carrier",
-    "bulker",
-    "carrier",
-    "dry bulk",
-    "sells",
-    "vessel"
-   ],
-   "summary": "Nasdaq-listed Greek dry bulk heavyweight Star Bulk Carriers has agreed to sell a 35% ownership interest in two recently built kamsarmax bulkers to Itochu’s investment and asset-holding vehicle, Hermes World Maritime, while retaining commercial and technical management of both ships. The Petros Pappas-led owner identified the vessels as the 2026-built Star Ellie and Star Bella. Financial terms and the expected completion date have not been disclosed. The pair form part of Star Bulk’s three-vessel kamsarmax acquisition programme at Hengli, confirmed in November last year. Market sources previously valued similar vessels at approximately $36m to $38m apiece, although Star Bulk did not disclose its acquisition costs. Hermes has recently been building its exposure to the dry bulk market. The two-vessel package was valued at approximately $33.6m, with Hermes paying around $16.4m for its minority stake. The latest agreement extends Hermes’ investment beyond handysize tonnage into modern kamsarmaxes, while allowing Star Bulk to release part of its ownership exposure without giving up the ships’ management. Star Bulk puts its fleet at 138 bulkers totalling approximately 13.8m dwt on a fully delivered basis, including its remaining newbuilding commitments.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "e3e071bd43f4",
-   "title": "Ningbo Ocean eyes two car carriers in $480m leasing plan",
-   "original_title": "Ningbo Ocean eyes two car carriers in $480m leasing plan",
-   "url": "https://splash247.com/ningbo-ocean-eyes-two-car-carriers-in-480m-leasing-plan/",
-   "source": "Splash247",
-   "published": "2026-10-11T19:40+00:00",
-   "added": "2026-10-11T19:42+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "carrier",
-    "china",
-    "lng",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "China’s Ningbo Ocean Shipping is looking to add two 7,000 ceu LNG dual-fuel car carriers under a long-term leasing programme, with potential rental payments of up to $480m. The Shanghai-listed carrier disclosed the plan in a stock exchange filing, saying it or one of its subsidiaries intends to lease the vessels from a financial leasing company for a period of up to 20 years. Ningbo Ocean has yet to select a leasing partner or agree on the final financing terms. The company has also not identified the vessels, their source or delivery dates. The proposal remains subject to shareholder approval, with a vote scheduled for October 26. The move comes just two months after Ningbo Ocean entered the car carrier market with the 7,000 ceu Clean Star, which it chartered for two years at a reported $80,000 per day. The LNG dual-fuel vessel, built at CIMC Raffles in China and backed by Greek owner Atlas Maritime and Danish investment firm European Maritime Finance, began carrying Chinese-made vehicles to Europe in August, with calls including Gioia Tauro and Barcelona. Ningbo Ocean, controlled by Ningbo-Zhoushan Port Group, has traditionally concentrated on container and dry bulk shipping, building up its fleet through successive newbuilding programmes at Chinese yards.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "43260d62df7a",
-   "title": "Chinese shipping investor makes play for asphalt tanker owner Xin Yuan",
-   "original_title": "Chinese shipping investor makes play for asphalt tanker owner Xin Yuan",
-   "url": "https://splash247.com/chinese-shipping-investor-makes-play-for-asphalt-tanker-owner-xin-yuan/",
-   "source": "Splash247",
-   "published": "2026-10-11T19:15+00:00",
-   "added": "2026-10-11T19:22+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "shipping",
-    "takeover"
-   ],
-   "summary": "Chinese shipping entrepreneur Liu Jichun is seeking control of Hong Kong-listed asphalt tanker operator Xin Yuan Enterprises through a proposed cash takeover worth up to HK$771m ($99m). Liu’s investment vehicle Ocean Vivo has announced a voluntary conditional offer of HK$2.21 per share for the stock it does not already own, valuing Xin Yuan’s entire equity at approximately HK$972.4m ($125m). Ocean Vivo and parties acting in concert currently control 20.71% of the company, having built their position through off-market share purchases in March and July. The proposed combination would bring Xin Yuan’s asphalt tanker chartering business alongside Liu’s existing shipping interests, with the buyer indicating plans to explore cooperation and potential changes to the company’s asset structure. Xin Yuan operates 10 vessels with an aggregate capacity of approximately 92,000 dwt. The company also has two asphalt tanker newbuildings scheduled to join its fleet in the fourth quarter of 2026. The takeover remains conditional on Xin Yuan resuming share trading, which has been suspended since February 2025 following allegations concerning the company and certain directors. The current deadline for satisfying that precondition is October 30, although the buyer can extend it. Singapore-based Pioneer Logistics Holdings is looking to exit its indirect investment in Xin Yuan as part of the proposed transaction.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "5845678fab1e",
-   "title": "Scrap crunch puts Gujarat’s metal economy on alert",
-   "original_title": "Scrap crunch puts Gujarat’s metal economy on alert",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbFVuZEl6Uk5HUF9SNm1CTTZQQmt5UW54OTA2aFVwQ0xYaTRJNkI1S2FneVhQcWxsaVBSZ1l4bG10SEFOZV8wbWNYSHdGR2RrY3ZtR1ppZWZUcFRTQ0gtWnNHUW9PVmhMcTl3dnJCbXpXWlhPcTI1WGVRaTJwNklsa014TkhVMmZjVWd6Yl83ZGdEdFkydXZfdVY1SW5EdnpET2Y5UFdoQmNOclY0bWtZdGRwXzVmUlNnUlh0X24xTkc3T3FW0gHKAUFVX3lxTE1KYmhkQkg5MllxT0hGT2lrZDc3MEFZaGF6QWxBR2JkX3pHS1NXdW1NY3VlUU0wanZIUlhYdkMxd0NyUFpmYmxaUnNwdGtkVWdSdXpXSGhFeHgxdGtDOW84RHdtVkJEZGVDOU5QMFVMbzdXVzVEckZlNkZPMlFKQXh1YnZYTmFtVW9Ma1Q4UWxoQklZTE1ld1lmQTBEdUQ1OV9BSFNLd21Zd2ZCZWhOV25VMERrY1BGMjE3cHNCXzhSUzYtVXR6UUxMTmc?oc=5",
-   "source": "The Times of India",
-   "published": "2026-10-11T19:08+00:00",
-   "added": "2026-10-11T19:22+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "scrap"
-   ],
-   "summary": "Scrap crunch puts Gujarat’s metal economy on alert The Times of India",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3302cb997c5d",
-   "title": "3 European Auto Supplier Stocks Tied To Volkswagen Reshoring Moves",
-   "original_title": "3 European Auto Supplier Stocks Tied To Volkswagen Reshoring Moves",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWl9BZkgtcXpTR2tCVHlwbGhYMUlwYkwtTVpTcUtUZTJVbl93eEsxb1haLTBEQlJ1ZEpPdkxHbGtlc1MtRzZrc2E4RE8wcllNRHRaS3dVWjlVSldKQjRra3dBU3A5VzM2N3F5Rm9HeEZlcEFrbVR0RzBzZ2wzRWxVWWhER0F0RVFwMnNkeWhnSndQUUswbTA4dTl4TnI0QTF1QVRhVXNYYU8xZElzNHNLb3dSRjFldy0wNzdVMzNyYkQ2cHhPdGc3bnNuY9IB0AFBVV95cUxPVU8yVVhGQm5OOW5meFpfQzJhRUt4cGlPNzhSNUxxZmV3OHlVU3VlRlY2UGM3ek1VbmNVTFdGeEdfamxrbGVTTGtBYkRaWnhYaURfS250Y3BIS29hOFdRYl9HY01iRS1CSkNZcC16SXpGMUxHSXpOZE84amt4VXRCNjM1ZDVWMDNaZ1JMNnZLRTl1RjkyWk9EN00xbHltRF9fVnFkV0RiUHYxeVV3TU84aXJFQ0w1UTdJZjdQTkhGZThPZ2pFTFFHMkV1ajdVaGZf?oc=5",
-   "source": "Simply Wall Street",
-   "published": "2026-10-11T18:56+00:00",
-   "added": "2026-10-11T21:19+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "reshoring"
-   ],
-   "summary": "3 European Auto Supplier Stocks Tied To Volkswagen Reshoring Moves Simply Wall Street",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9a762521be3e",
-   "title": "Nordic Countries Build Three Strategic Transport Routes, Expand Ports and Revive Abandoned Railways to Move Troops and Supply the Baltic States",
-   "original_title": "Nordic Countries Build Three Strategic Transport Routes, Expand Ports and Revive Abandoned Railways to Move Troops and Supply the Baltic States",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOUZnamgxNmRLQm9wMFF6MmZDTGRONjRELU1ENGJWeFp2WEp0dFNaSFFiWXJKWTE0RmxyNW9TQWViTHpJb3VFTW5YaDRQcHFXdkE4T0RoblJnVVdpZU1OSjdFNGxqOUlvbjg2aWlLU21UOTlJWF9CdGYzRmhGdmF0U1RBWTJFT2IySUVfYjNWRGNPMVZiWFVDenZjakJ6VUdySlVNREF2Zks3MDU3TDVfaUVwLXVkLUVIUlpLTmFsRVI3SmZJQWZ5bzdqOENkQ0p3NExncFNXV3lfSEx2amZwdHNIWE9Od0g4Yjlhc0x2MWZkMjV3ZFVDWVFVUy12TFBQVlEwOGctOA?oc=5",
-   "source": "The Baltic Sentinel",
-   "published": "2026-10-11T18:52+00:00",
-   "added": "2026-10-13T07:44+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "rail"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "port",
-    "ports",
-    "railway",
-    "railways"
-   ],
-   "summary": "Nordic Countries Build Three Strategic Transport Routes, Expand Ports and Revive Abandoned Railways to Move Troops and Supply the Baltic States The Baltic Sentinel",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
   }
  ]
 }
