@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T12:47+00:00",
+ "generated_at": "2026-10-14T13:23+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,89 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "7c932d394108",
+   "title": "Cyber-crime group hits 38 shipping and port groups with data leak threat",
+   "original_title": "Cyber-crime group hits 38 shipping and port groups with data leak threat",
+   "url": "https://theloadstar.com/cyber-crime-group-hits-38-shipping-and-port-groups-with-date-leak-threat/",
+   "source": "The Loadstar",
+   "published": "2026-10-14T13:15+00:00",
+   "added": "2026-10-14T13:23+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "container terminal",
+    "logistics",
+    "port",
+    "ports",
+    "shipping",
+    "terminal"
+   ],
+   "summary": "Cyber extortion group ‘n0n’ has named 38 organisations across the global shipping and ports sector on its dark-web leak site, raising concerns that data may have been stolen. Cybersecurity firm SOCRadar reported yesterday n0n published the listings in a single batch on 12 October, that included container terminals, shipping lines, port IT providers, and logistics businesses across 18 countries. The group emerged last month, listing 21 organisations across sectors including telecoms, retail, pharmaceuticals, and education. SOCRadar said the pattern of data described in the listings suggested a possible common point of entry, rather than 38 separate network intrusions. The amounts did not appear to correspond with the volume of data allegedly stolen: EUSU Logistics faced a $14m demand for 60mb, with ILCS Pelindo at $2.4m for 2.4gb. Of its 21 earlier victims, SOCRadar said 19 remained at the claimed stage, one was listed as negotiating, and one, Chibitek, had experienced a data leak. SOCRadar warned that maritime businesses that exchange EDI with companies named in the attack should plan for the possibility that their operational data could appear in the 19 October release. It advised them to identify the port community systems, EDI hubs, and file-transfer services handling their data; to check with providers for potential breaches, patch exposed systems, and investigate unusual access or bulk downloads.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "042e200be84e",
+   "title": "Hormuz Fertilizer Crisis Threatens Global Food Supplies and U.S. Farm Costs",
+   "original_title": "Hormuz Fertilizer Crisis Threatens Global Food Supplies and U.S. Farm Costs",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMkpKczJzeFpRQmViN2hJQ3laLVNVbUdYdG0xSFZXVjFEdmVrZEN3OWRDNWVZZ3RSZVFTVmdaMXdNOXpBbVZzQVRkX3ZzSnRDbzFfU3kyMS1GU3hfY1ZBU2VOeTFabVRyNnV5TzN4ZWlyOXVyZGdaR2EtN1k5eUI0SHpqV0tIVlJPUlpoQ1VOQTlkT2VuNUlVamxn?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-10-14T13:07+00:00",
+   "added": "2026-10-14T13:23+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "fertilizer",
+    "hormuz"
+   ],
+   "summary": "Hormuz Fertilizer Crisis Threatens Global Food Supplies and U.S. Farm Costs AgroLatam",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1a8670fc5164",
+   "title": "CPK utknął w procedurach. Budowa fundamentów terminala po raz kolejny się przesuwa",
+   "original_title": "CPK utknął w procedurach. Budowa fundamentów terminala po raz kolejny się przesuwa",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYV92dlVqck1LZnlVbkc3RllsYTJRUmlsYkdwUUhMMEc3OE9BUE1IRko3VXhXUGVZMFFwTGVfc0dQVjlUcHZYOGJyY0JEZEhuLUhScEE3TnFvd3Naemc3MDJ2T05kRjhMQjVQdXVoMmpVR211ckJvWkdseGZPd2JKT0toYjhPYi1IRHFXSkRtak43bXM1ZVIxeWtqUVJEWFVGOUZ5MGx3UHlzQ1oyZWs3R0dEQ2ZXVWlwZWhLVEJxTVpwUC1C?oc=5",
+   "source": "Gazeta Prawna",
+   "published": "2026-10-14T12:37+00:00",
+   "added": "2026-10-14T13:23+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "CPK utknął w procedurach. Budowa fundamentów terminala po raz kolejny się przesuwa Gazeta Prawna",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "181bfb2438c3",
    "title": "Gulf conflict upsets networks – and fleet size – of biggest feeder operators",
@@ -42,6 +125,58 @@
    "summary": "The US-Iran conflict and subsequent closure of the Hormuz Straits have upended the networks, and fleet deployment strategies, of the world’s three largest common feeder operators – and seen AD Ports’ Global Feeder Services significantly close the gap on the market leaders. According to new analysis from Alphaliner, the Middle East conflict, now in its eighth month, has forced the two largest operators, X-Press Feeders and DP Worldm to reduce their offered capacity as the closure of Gulf routes curtailed their networks. “X-Press Feeders remains the world’s largest feeder operator by deployed capacity, although its fleet has contracted by 7.1% year on year, as per Alphaliner’s survey on 21 September,” the analyst writes this week. “Fallout from the Middle East conflict forced X-Press to make service cuts across the region, which is the main reason for the decline.” As a result, X-Press Feeders’ global capacity is now 182,776 teu, down 13,987 teu from September 2025, with its capacity serving the Middle East region down 34.2% – equivalent to 38,000 teu – which Alphaliner linked to service suspension in the wake of the conflict.",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "247fd672288d",
+   "title": "Polsko-tureckie konsorcjum wybuduje Terminal FSRU na Zatoce Gdańskiej",
+   "original_title": "Polsko-tureckie konsorcjum wybuduje Terminal FSRU na Zatoce Gdańskiej",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0RqX1pUTXE3U1NuNThiQmQzMS1sWjZhRTNMYXF1Ml9YdmRpbXRnUmhDY29jYl84QzBXOXRtcGZScXJuZWRGcGlHTkRMV09jMEQ1RG1ycDQ3Ym5hc0hKeFlzZ0NaQk1VaE5QZkg5QXRVblBmemlSdFphOGtRSGZrWkx5WVRucFd6ZU94aHI5TFEyRXI2Vkl5SWp6VEtDSHd5QnA5VVpoT3NPZjZIVllUR21fQ0V1S0E?oc=5",
+   "source": "PortalMorski",
+   "published": "2026-10-14T12:25+00:00",
+   "added": "2026-10-14T13:23+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gdansk",
+    "terminal"
+   ],
+   "summary": "Polsko-tureckie konsorcjum wybuduje Terminal FSRU na Zatoce Gdańskiej PortalMorski",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1cc0301f3e69",
+   "title": "Lower export duties allow Argentina to increase wheat shipments",
+   "original_title": "Lower export duties allow Argentina to increase wheat shipments",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbENyYjFvZlpiNm9jTHFiSkRUdTZHLTg0YWYzUVVYV3Rza1BmOEJlNnNuSTZib0FxemlkNVBYUTZvM1ZCMGVZX2tta19JcXpHakJsSEE3Wkh4RDFDbVBNZWhPaW91NG9SWm1sNV9SQW9YamZTVmZRaGZEbEVqVk9GaHVOQ1JDMkRaOFppY0VXNVlNV0RmRzZ1UVZaSzJQVjB1?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-14T12:07+00:00",
+   "added": "2026-10-14T13:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "wheat"
+   ],
+   "summary": "Lower export duties allow Argentina to increase wheat shipments UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "3512269beb4e",
@@ -100,6 +235,59 @@
    "summary_method": "extract"
   },
   {
+   "id": "2f0c17e7fd42",
+   "title": "Türkiye's crude oil and petroleum product imports rise 2.33% in August",
+   "original_title": "Türkiye's crude oil and petroleum product imports rise 2.33% in August",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWszUHNHcUpKc3IyQ2VVejFzWC1xTnFHQ2lBMy12VW5UaTNVNzhpcmJOel96TklsV3lHSGZTMlprcWw5RGZRd0JBWXA4OHdBemsyMWhOSHlhaFlJWGNTY3BCcEZYZ0IweDdTNktPbWNKQXpxY3hXZEtQYklLdi1oNVF6bENZZ01hSnVZWmNwRVF1ckdnLTQycjExWGg2UU1RMk5KZ1BQMVBvbXVkRkE?oc=5",
+   "source": "Anadolu Ajansı",
+   "published": "2026-10-14T12:00+00:00",
+   "added": "2026-10-14T13:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "crude"
+   ],
+   "summary": "Türkiye's crude oil and petroleum product imports rise 2.33% in August Anadolu Ajansı",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8ea4d38ab1d5",
+   "title": "Iron ore prices in China remain within a narrow range following the holidays",
+   "original_title": "Iron ore prices in China remain within a narrow range following the holidays",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU0d4dFpfMmU3SnlJTzF6N1FLXzNnNzRuS0twY2JTX3NxcTh6UnI5bGstNTRWUmc5d3lOTUJQSVhNNjBMNlpFNnRGbXd4LVNqR0RZa2c1U1FsWFVSM0J4anA5dHQ5Z3c2Mng5dGR3VGI1T28zSFY2QzRGUFNRQ3NJMGZkNjVybXhrWFhWcnNlVTlBME4wdW5QM0RNeHUxVVhFRW9jVG9yMNIBrAFBVV95cUxNYzJKVExPMXBMLWlTMTZUaWNhTDZoZWI0Zlh1aExXR2N1TGtKMGVpeTlsYWEzeEQxT3ZXdEZTeDd4dm9USDM1YkVITmlPTS1saU5NeGZNRzJMM0s2WlBBcDF3Nm9ucElhYWJqeTdidU9qdkdkVENOSnFYWERSQ1hLQ1J3ZGtLeVJkRTRzWGhaOG1lZkRtTkYwMk9LTzlOM0wxVjhFYjUtMEhZWHot?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-14T11:55+00:00",
+   "added": "2026-10-14T13:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "iron ore",
+    "prices"
+   ],
+   "summary": "Iron ore prices in China remain within a narrow range following the holidays GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a053e7df0032",
    "title": "Changhua invests NT$1.4 billion in fishing port expansion",
    "original_title": "Changhua invests NT$1.4 billion in fishing port expansion",
@@ -121,6 +309,34 @@
     "port"
    ],
    "summary": "Changhua invests NT$1.4 billion in fishing port expansion Taiwan News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "55ecc60634f1",
+   "title": "4 Japanese Companies Develop A Floating Data Center Concept For Ports Aimed At Easing Land And Power Shortages",
+   "original_title": "4 Japanese Companies Develop A Floating Data Center Concept For Ports Aimed At Easing Land And Power Shortages",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZWZkajlESThLQk1Eb3FpaWRRYXlxaHV1T0l0T2s1blVCbmk1WDg1RzlxbEk2ZHNiU05ObktqX3FGaWhuMF84bzhNRnJhd09pdFdzWEFhQ3VNblF5c2tSSFZVNmp4QWRwTERnczlFSUpBVG1leWFIRk5oNjlfTWNrQTZVQkFUa0VDNGdDRlItZ25CRmJZcFVyRjJOckZ1MEJQRHowYjQ0aWNUWUk0NWx0OFM1Z0g3dnZLTWowOW1MRlNpbTFBUW1TREVSNV94NHI2Z3AzbnNNVEw?oc=5",
+   "source": "Marine Insight",
+   "published": "2026-10-14T11:43+00:00",
+   "added": "2026-10-14T13:23+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "shortage"
+   ],
+   "summary": "4 Japanese Companies Develop A Floating Data Center Concept For Ports Aimed At Easing Land And Power Shortages Marine Insight",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -208,6 +424,31 @@
    ],
    "summary": "Trump tariff threat built a US copper mountain, but the effects are fading Reuters",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a638c280b176",
+   "title": "Amazon uruchomił nowe centrum logistyczne na Dolnym Śląsku. Obiekt ma 200 tys. mkw.",
+   "original_title": "Amazon uruchomił nowe centrum logistyczne na Dolnym Śląsku. Obiekt ma 200 tys. mkw.",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZUdiZ3NLX0VXcGx0ekVwV2NhQ3prTjhmckdjakxaaThlMW43c1NuV3BCY0pRcVhPRWlBakNkdl82c25QdGRmcHVYbURFYkk1N0ZMZGRIa2J3VGs2TUdtUURmZXlSNGZ2UlJoMUY0TTBiTGlhVUswTjFjVmNsMm4xdWRFTC14MjJZaVJTUDBYcXk4N2RLRG5yZGg3cmh0bkNXZjBoelRLV19NNU82QVNVLWpFbnhXZmN6dHMwNTN2OGNRb2NHbkp0Ug?oc=5",
+   "source": "Wiadomości Handlowe",
+   "published": "2026-10-14T11:04+00:00",
+   "added": "2026-10-14T13:23+00:00",
+   "lang": "pl",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "centrum logistyczne"
+   ],
+   "summary": "Amazon uruchomił nowe centrum logistyczne na Dolnym Śląsku. Obiekt ma 200 tys. mkw. Wiadomości Handlowe",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -1952,6 +2193,34 @@
     "ammonia"
    ],
    "summary": "GSFC Seeks JV Partner for 500,000 Tpy Green Ammonia Project Construction World",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fc92259f7b71",
+   "title": "Brazil Approves New Stacked-Trait GM Soybean From China’s DBN",
+   "original_title": "Brazil Approves New Stacked-Trait GM Soybean From China’s DBN",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3o4bHdiWWJITE0yS09Cb05pN1d4ZVNsdEg1YzZoMkJqTGJiN25XVFZ5VXpheUFqbnhqZkhoS256WGhLLXdDd1U0Vk41em1abHdKdlJWcjJQMVA5U1RuYVpoeFVocUF1dWtMMUhBT3FjNk5YaXdpZzNYNUhlV0R1R3c5cTlVelZTU1g3TWd6bklXX2E3X2l3NTd5X2QwWkRfZG8xUlpISWg4R0JyRUp0bFlad3E?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-10-14T06:45+00:00",
+   "added": "2026-10-14T13:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia",
+    "Latin America"
+   ],
+   "tags": [
+    "china",
+    "soybean"
+   ],
+   "summary": "Brazil Approves New Stacked-Trait GM Soybean From China’s DBN Global Agriculture",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16300,285 +16569,6 @@
    ],
    "summary": "Jan De Nul's mega TSHD Vasco da Gama raises the bar at Port Hedland DredgingToday",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "734d04a22a2b",
-   "title": "Chiny chcą skrócić przeładunek do godziny. Tysiąc węzłów logistycznych czeka przebudowa",
-   "original_title": "Chiny chcą skrócić przeładunek do godziny. Tysiąc węzłów logistycznych czeka przebudowa",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSDZjcUthMHFPanpPZmxOTEYwRzA0ME9rckxpUWx5T1hIbnRnWjNNc3ptVEpfU1R3VlVrUzl0SlFNYnNZaVE5ZkM4a051VXlDaGRTU0tNNW42RzJsRWdhNjIya3V2aXV2cVBKelk0WUhNb1NDM3VUemRLVm42R1hoZUc2aDlrM2V6WFRlVzVOS3NjZ1FCU1NOVWFiSmNLT0hLRzNXOUVxVHAtbVJXdUFGaTEyQTduSTIwUFYwZ3NGWmdtSTdYdFdQc0xsSXNEdVBIZFdr?oc=5",
-   "source": "Kurier Kolejowy",
-   "published": "2026-10-10T08:30+00:00",
-   "added": "2026-10-10T08:49+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "przeladun"
-   ],
-   "summary": "Chiny chcą skrócić przeładunek do godziny. Tysiąc węzłów logistycznych czeka przebudowa Kurier Kolejowy",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1358e1a08c05",
-   "title": "CFM increases the price of rail freight transport. Tariffs increase by 15% from November 1, amid higher fuel costs",
-   "original_title": "CFM increases the price of rail freight transport. Tariffs increase by 15% from November 1, amid higher fuel costs",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPclVoX201dWxjY3FpYWNpRXdzZC05b1VkRWl4Y3JOR3lIWFVYY3piQmhlUTRUN2xySU1pMWRrY200RGRuN09CX191R1Y5TUpybFExQzBDZ0hZYjJUQ3ZVTGE2azFNeVRQNGgzNlpCblZBWFhhTUZrVlBHam40NkhKY25IRFhRWTVYZllQSGVNOFZ2N1Y2QWdGZWVveXJteVRyeUl2Z19JQldRSXlTT2ZMM3NSWmJHc1VWci1vdzVZcUR1djNzcndzZ2V0Y19GWTFjdHZtZUFQaGJGTmxTQTBFelowaw?oc=5",
-   "source": "cotidianul.md",
-   "published": "2026-10-10T08:29+00:00",
-   "added": "2026-10-13T02:20+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "rail",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "rail freight",
-    "tariff"
-   ],
-   "summary": "CFM increases the price of rail freight transport. Tariffs increase by 15% from November 1, amid higher fuel costs cotidianul.md",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "75a07cbca2a5",
-   "title": "Dzięki otwarciu trasy transpacyficznej port Hai Phong odnotowuje przełom w zakresie przeładunku towarów.",
-   "original_title": "Dzięki otwarciu trasy transpacyficznej port Hai Phong odnotowuje przełom w zakresie przeładunku towarów.",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZGd6VHJ4bUVqcmg0emZZOFZNdTlJWEtVdnBXNVRMb3dQYjQ5RjhETnppLUNFc0JILThBVlBGVjFxNGdwaWJpaXE2Y1hKWUlVb3I2OE1SYVY0YjlYNGhpUzhYQWZvLVBpQ1FDMUVZSzFEN3ZpOFRIY0xnQTB5RDJKMzcwbG1tY1RHQ3V0cHpWZi1ySG8?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-10T07:00+00:00",
-   "added": "2026-10-12T05:20+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "przeladun"
-   ],
-   "summary": "Dzięki otwarciu trasy transpacyficznej port Hai Phong odnotowuje przełom w zakresie przeładunku towarów. Vietnam.vn",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "db5a3d7b8705",
-   "title": "Beihai Delivers First Ammonia-Powered Bulker as Mineral Europa Sets Sail",
-   "original_title": "Beihai Delivers First Ammonia-Powered Bulker as Mineral Europa Sets Sail",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yVGxfLXVRN1p0RzBRVGxRWlZmSTZTbktjN3ZwUTdqaU5fV3ZFdFdxVENScDVnYWlQSzVxXzU1VUpzRUk5dkdZeEFHaU45X0Y5NU81bGlKLWZEQzRuOU11VXZR?oc=5",
-   "source": "Xinde Maritime News",
-   "published": "2026-10-10T07:00+00:00",
-   "added": "2026-10-13T08:04+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "ammonia",
-    "bulker"
-   ],
-   "summary": "Beihai Delivers First Ammonia-Powered Bulker as Mineral Europa Sets Sail Xinde Maritime News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dd41ed65beee",
-   "title": "Fire-stricken HMM boxship seeks refuge in South Africa",
-   "original_title": "Fire-stricken HMM boxship seeks refuge in South Africa",
-   "url": "https://splash247.com/fire-stricken-hmm-boxship-seeks-refuge-in-south-africa/",
-   "source": "Splash247",
-   "published": "2026-10-10T06:11+00:00",
-   "added": "2026-10-10T06:26+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia",
-    "Latin America",
-    "Africa"
-   ],
-   "tags": [
-    "port",
-    "teu"
-   ],
-   "summary": "A fire-damaged HMM containership is seeking a port of refuge in South Africa after salvors were appointed under Lloyd’s Open Form (LOF), with cargo interests facing the prospect of general average. The 5,593 teu HMM Platinum suffered a fire while sailing from Kattupalli, India, towards Santos, Brazil. The blaze reportedly originated in a container off southern Madagascar. Claims specialist W.E. Cox said the Liberian-flagged ship, built in 2013, was carrying around 2,300 containers and warned that damage could be substantial. Salvage specialist SMIT has been engaged under LOF terms, while a declaration of general average is considered likely. The vessel was initially expected to divert to Durban, with an anticipated arrival on October 8. However, the latest casualty advisory says alternative arrangements are being explored, with Gqeberha, formerly Port Elizabeth, identified as a possible port of refuge. A separate notice from cargo claims specialist WK Webster identifies the fire location as off Lavanono, near Madagascar’s southern tip, and says some of the cargo is temperature-sensitive.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "dcc34e23a8dd",
-   "title": "Black Sea attacks threaten Ukraine and Russia grain exports as sowing incentives weaken",
-   "original_title": "Black Sea attacks threaten Ukraine and Russia grain exports as sowing incentives weaken",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPclVvQnV2NlU4T2JVYlloZ1A4b0ZZLVg2dERjMlRITWJ6OGdnX1gzZ2RjbW9GSlEwZThvSTgxQkU5T3Y5b2dkNjY0Ni1mcWNxQXlRNEd3cV9UTVpwanJjZGhsbmx1T2JZQVRId0s4SFlfRkhPeU9Xd0tLLU1xX19wZDZhS3M4Ymw1NjJXNEhwdGJKS0dFNHNTSzZ2a0lyUQ?oc=5",
-   "source": "Traders Union",
-   "published": "2026-10-10T05:11+00:00",
-   "added": "2026-10-10T05:22+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "grain",
-    "russia",
-    "ukraine"
-   ],
-   "summary": "Black Sea attacks threaten Ukraine and Russia grain exports as sowing incentives weaken Traders Union",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0b0eb4894f2e",
-   "title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
-   "original_title": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XSHo3OVZwWkpjbWtaenNwMkNaZ1cxUnpGd1NyUmZCM2dpV3V3NlpXODIwdDdvdTlYVlJxNTM5SGRneGNjYWRlZERtWFN0ZHNvZ3dqZDBRR1BXSFVscGJZdEJ4SXBsNjBubUdlaWVRa1RpQjFlNEgzX1JsYTBTd9IBgwFBVV95cUxPTW82R2FFR3ZQQm1PUk1RNVdfMGlXNS1TYXNDb3U1NDBtUm0tYjFrQ0loWS1VTlNEaTAyVV8tcnhONW5tZE1JMVdES196NEVLeFRES05qU2p2Q0NIWWFKZk16Q2JQcGtHYjZiOHF1QzBHckl0VFpfWVl2QWNCTXVrOWFNdw?oc=5",
-   "source": "CNBC",
-   "published": "2026-10-10T05:00+00:00",
-   "added": "2026-10-10T06:53+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain",
-    "ukraine"
-   ],
-   "summary": "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant CNBC",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cbe82562f8d7",
-   "title": "FIATA launches practical user handbook on multimodal transport corridors, with the Middle Corridor as first case study",
-   "original_title": "FIATA launches practical user handbook on multimodal transport corridors, with the Middle Corridor as first case study",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVUlrZUFtZ0ZWSkh2ODg3OWhxRVBUc0NXM2xaTG9BOE4zZ1JCc2NUY1hoQ01CeXFjTnUtZWR5bFFjLWJyMDRIandCVjlMVElKZ0hUaVBTVVduS0ozNG10OURjelUtNUVlUF9WbGxmSnFEcVBfRC1mREFrNjEtcFlVdG9tLWZTRjhwOGJxVUlhdk1WYllOM3ZXMlZWakpELWU5ZDZNYjJfWmRDZlNVcHoxQlFwdXI3ZE1GSUFZc2NxMGxGTXZGVjBMQmZId0F1LVd6SjBoLVFUTVRjcmZvak4zOUxMazRZdW5nV1pSNjdFdw?oc=5",
-   "source": "India Shipping News",
-   "published": "2026-10-10T03:33+00:00",
-   "added": "2026-10-10T05:43+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor",
-    "shipping"
-   ],
-   "summary": "FIATA launches practical user handbook on multimodal transport corridors, with the Middle Corridor as first case study India Shipping News",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "565775297c1e",
-   "title": "Crude Oil Price Forecast: WTI Nears $92 as Strait of Hormuz Crisis Offsets Russian Diesel Supply",
-   "original_title": "Crude Oil Price Forecast: WTI Nears $92 as Strait of Hormuz Crisis Offsets Russian Diesel Supply",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeERlcHQxTURCQWpoMm53QTZST21xV0s0clJ4ZXcwbXBjbmNNRjBWdlJRci13Nl9Ya3Y3YjdVUDJxYVpmZmV2d3ZzNjZNbXN0X3VPRnJJclgtdDNXMDdRaW1GOEJwTXJFMnBPSm5BdnZOYUxvZXA4RVFiMVBCQUp0dGNtT3FLTlpzRnJkdG5pTGxxSDFZdnhtdTJOdGFuY1VDOVZ2UVpqNjdHYzJrbHFqc05kN2N3UQ?oc=5",
-   "source": "TradingKey",
-   "published": "2026-10-10T03:00+00:00",
-   "added": "2026-10-10T07:11+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "diesel",
-    "hormuz",
-    "oil price",
-    "russia",
-    "russian"
-   ],
-   "summary": "Crude Oil Price Forecast: WTI Nears $92 as Strait of Hormuz Crisis Offsets Russian Diesel Supply TradingKey",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "296a24540f3d",
-   "title": "Thermal Coal Prices 2026: Asia Energy Security & Outlook",
-   "original_title": "Thermal Coal Prices 2026: Asia Energy Security & Outlook",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnRlRTYyUFpjbHlZQkpOMTNMVlZEb0M2b0pfWi1qcV83NVFWOERfZzBLU21YZHFYOFBNRTh6MUtRU25mNS1vTmRZdzNCT0JYMVBuZnRhQUlRNHNiS1RLc0tqRHNSWWlzT0RxaFQ3V29oZGRwekNucGJXR1otc1ZHLWFoTnc0bjMtYnNpTVlDSERnejdWQTFQRVlFNjZndw?oc=5",
-   "source": "Grand View Research",
-   "published": "2026-10-10T02:52+00:00",
-   "added": "2026-10-10T04:23+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "coal",
-    "prices",
-    "security"
-   ],
-   "summary": "Thermal Coal Prices 2026: Asia Energy Security & Outlook Grand View Research",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
