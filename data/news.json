@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T18:18+00:00",
+ "generated_at": "2026-10-14T19:03+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,37 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "baf55157df98",
+   "title": "Port of Savannah Wins Approval for $2.3 Billion Container Terminal",
+   "original_title": "Port of Savannah Wins Approval for $2.3 Billion Container Terminal",
+   "url": "https://gcaptain.com/port-of-savannah-wins-approval-for-2-3-billion-container-terminal/",
+   "source": "gCaptain",
+   "published": "2026-10-14T18:03+00:00",
+   "added": "2026-10-14T19:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Ukraine & Black Sea",
+    "North America"
+   ],
+   "tags": [
+    "container terminal",
+    "port",
+    "ports",
+    "terminal",
+    "teu"
+   ],
+   "summary": "The Georgia Ports Authority has secured federal approval for a new $2.3 billion container terminal in Savannah, clearing a major hurdle in its plan to expand the port’s annual handling capacity to 12 million twenty-foot equivalent units (TEUs). Army Corps of Engineers approved the Savannah Container Terminal permit following a three-year review, Georgia Ports President Kevin Price announced Wednesday at the authority’s annual State of the Port of Savannah event. The project is a centerpiece of Georgia Ports’ nearly $5 billion infrastructure investment plan for the next decade, which includes five additional large containership berths in Savannah and expanded roll-on/roll-off capacity at the Port of Brunswick. Another major piece of that expansion is already underway at Savannah’s Ocean Terminal, where a $1.6 billion redevelopment will increase annual container capacity from 200,000 TEUs to 1.75 million TEUs. “Our $5 billion investment in future port infrastructure is the largest in the nation and a reassuring roadmap to customers which comes on the heels of our $4.13 billion investment the last ten years in port and inland infrastructure,” Georgia Ports Authority Chairman Alec Poitevint said. The port handled a record 504,015 TEUs in September , up 3.7% from a year earlier, pushing container traffic for the first quarter of its fiscal year above 1.5 million TEUs.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
   {
    "id": "f9eb61f8ec70",
    "title": "China P&I seeks seat at global insurance top table",
@@ -39,6 +70,35 @@
    ],
    "summary": "China Shipowners Mutual Assurance Association, better known as China P&I Club, has formally applied to join the International Group of P&I Clubs, potentially bringing a mainland Chinese insurer into the powerful marine insurance grouping for the first time. The International Group confirmed it had received the application after China P&I chairman Xu Lirong and other senior executives visited its London headquarters on October 13. “The Group was pleased to welcome CPI Chairman Xu Li Rong and other senior members of CPI to the IG’s London office,” International Group chief executive Nick Shaw said.“ At the meeting, the IG was presented with CPI’s application to join the IG, which will be considered in accordance with the agreed process.” The application will be assessed over the coming months against admission criteria agreed by the existing clubs. Founded in Beijing in 1984 and now headquartered in Shanghai, China P&I has grown into China’s largest P&I insurer. As of February this year, it had 104.8m gt across 2,199 P&I-entered vessels and describes itself as the eighth-largest P&I insurer globally by entered tonnage. More than 200 members include China Cosco Shipping and China Merchants alongside international names such as OOCL, Seaspan, PIL, CMA CGM, Costamare, Wan Hai and Zodiac Maritime.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "214bce4d071c",
+   "title": "Bulk Carrier Sinks Weeks After Deadly Strait of Hormuz Strike",
+   "original_title": "Bulk Carrier Sinks Weeks After Deadly Strait of Hormuz Strike",
+   "url": "https://gcaptain.com/bulk-carrier-sinks-weeks-after-deadly-strait-of-hormuz-strike/",
+   "source": "gCaptain",
+   "published": "2026-10-14T17:22+00:00",
+   "added": "2026-10-14T19:03+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "bulk carrier",
+    "carrier",
+    "dry bulk",
+    "hormuz"
+   ],
+   "summary": "Vessels in the Strait of Hormuz near the beach of Bandar Abbas, Iran, June 17, 2026. Amirhosein Khorgooi/ISNA/via WANA (West Asia News Agency)/Handout via REUTERS LONDON, Oct 14 (Reuters) – A container ship and a dry bulk carrier have both sunk near the Strait of Hormuz in the past 24 hours after being hit by projectiles in separate incidents, maritime officials said on Wednesday. Attacks around the waterway have surged over the past 10 days, with Iran saying it is stepping up strikes in response to the US blockade of its ports and tougher sanctions introduced last month. The Singapore-flagged GFS Pride , a small container vessel with a capacity of 2,824 20-foot equivalent units (TEU), sank while sailing through the strait , according to maritime security sources. In a separate incident, the Antigua and Barbuda-flagged Cape Dao sank close to the strait, weeks after being struck by a projectile on September 23, data from UN shipping agency the International Maritime Organization showed on Wednesday.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   },
   {
@@ -150,6 +210,32 @@
     "terminal"
    ],
    "summary": "Tokyo Gas turns to Philippine floating LNG terminal, eyeing Southeast Asia Nikkei Asia",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9e4e05e3a0eb",
+   "title": "CMA CGM plans third container terminal in Abidjan",
+   "original_title": "CMA CGM plans third container terminal in Abidjan",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmQ5NFc3SlVRYUJLZWhHNmJ6UTFHWHYwZU15aGZZWVhnZnRGSmpkMzJtQmRzVzgtUTAzS0Q2cUJFX3VjdU54ZldrdnZQZnpIRGNwNVRxeXFBMzF0VHg0YlBlbEhxdHA3TXhGQkNER0Nla09fT0ExMHdUZXoxUEdBUzV3a3ExZVZVVkdiT2txMzkxYjEyODdNWkI1dw?oc=5",
+   "source": "africabusinessplus.com",
+   "published": "2026-10-14T16:38+00:00",
+   "added": "2026-10-14T19:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "container terminal",
+    "terminal"
+   ],
+   "summary": "CMA CGM plans third container terminal in Abidjan africabusinessplus.com",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -16467,85 +16553,6 @@
    ],
    "summary": "US Treasury Secretary Scott Bessent says pressure on Iran will continue as drone attacks threaten shipping Business Upturn",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "50fb45d68ce6",
-   "title": "Ships, ports, and Filipino seafarers: Driving national progress and global trade",
-   "original_title": "Ships, ports, and Filipino seafarers: Driving national progress and global trade",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTzVVcnpCR3c2Y1huTjN4WkJHeUFNVW9LWWduVVdLLXcycHhHa3ZSVGoyc1QyUVJSWmNxZDZCVmhDQmlacFozUk1UU2xRNWl3QU1QeHp5OF9QMFlSalZuNjBrSXJsY05fR1FTbHhsVUFxT2ZEUEZBbGFQWDRxUWVXRFlkVFdlV0ttNTFMUFZ5MUxBLV81WGZDMVM2bkhoYXVuN3VLZVBEM0UzOGVLb3hhSS1oWWo0QUdvX0ZWLWlsa2YwZUhIeUZEdzRZcTY4X1FWVW80R0Zqd9IB3AFBVV95cUxOYWRfc3ZXUGpwY2VxalE4bTRQaG5JeEhHV0dpV29uMWhadFptb1J6MTBMZ18yRTVLdGtuY2pPTnA1RVZHNjgzcWRZakhEYzJvcW9ETFlMdjJ1cGVmZm5kTVExN3dCOVBKOTdtSkJJUXRrMFhLZlN1bFpLcURmZzFsOHlHUDA3ZWZseVFiSE9IaTc2N1BpS1F0S1BJWGg3WUNpUExYbldQTF9UOXJCUnMzb1N1ZmUtNFNNTEQwQk5mUlNjXzJ6NUFEY3JYWVgxNnExa3hSdjNYNzF4Sl9o?oc=5",
-   "source": "The Manila Times",
-   "published": "2026-10-11T16:30+00:00",
-   "added": "2026-10-11T17:20+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Ships, ports, and Filipino seafarers: Driving national progress and global trade The Manila Times",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bdf212a7b0cc",
-   "title": "Supertanker Shipping Costs Hit Record $77M Amid US-Iran War",
-   "original_title": "Supertanker Shipping Costs Hit Record $77M Amid US-Iran War",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZS1zTlM4N0hyRVlZZ0pOLUpfV0VFUjRCWHdMQXl5RU1zRmJCcERNbzJuZmE3VVIzTGFJcGx6by1yYmVqNzVvQzV6Nnh6YzVlanZSR0VvcnJNQm4yQlpwSmpCR3NXUTc5cmlsb25DczVwYWVaY01Uak1fUlZmdUtDTTBXUm5qNFBrNmxVSDZ3SFRRTkxVeHdXMXNGcEw3U2JwRy1LZ1dPcXhSVUM1NHlXX0ozMmwxMUxxZUpsXzVfUF9IU0htTVk4U0dmTkJjUDdkVXpIX1FB?oc=5",
-   "source": "Forbes Middle East",
-   "published": "2026-10-11T15:22+00:00",
-   "added": "2026-10-11T16:41+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "shipping",
-    "war"
-   ],
-   "summary": "Supertanker Shipping Costs Hit Record $77M Amid US-Iran War Forbes Middle East",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7743a0aa3470",
-   "title": "The Middle Corridor and Corridor VIII: Can Bulgaria Turn Its Geographic Position into a Strategic Advantage?",
-   "original_title": "The Middle Corridor and Corridor VIII: Can Bulgaria Turn Its Geographic Position into a Strategic Advantage?",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNlE3cF9QYm9BejRaNU1ydEhTUlZ4NmN1ZVlHQ1Q5QTBJYVRmMTdMYzRJd19OQ3dIME4ycmVBTU8zTmpMbTJBR0tDVGx1YU5Xbnh1X0dibmg0S3lMU2VlQWdBMUdsb2VBVy1MYVhrd0RyUWVWRk1BbGl5RzNTS1VSdTMzT1ljUFBLMHM2S1NhSVNidlAyejhsZ3ItVS11ZC1DM2xCM29VZ19KQ0tnT0tWVUtheDhudDlValRzbllaNmRlSFRUZlZPaUNmYUVmeGRLallr?oc=5",
-   "source": "BGNES",
-   "published": "2026-10-11T15:05+00:00",
-   "added": "2026-10-11T15:41+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Central & Eastern Europe",
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "The Middle Corridor and Corridor VIII: Can Bulgaria Turn Its Geographic Position into a Strategic Advantage? BGNES",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
