@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T09:47+00:00",
+ "generated_at": "2026-10-14T10:17+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "662659a56ffa",
+   "title": "Shipping firms and ports caught in mass cyber extortion claim",
+   "original_title": "Shipping firms and ports caught in mass cyber extortion claim",
+   "url": "https://splash247.com/shipping-firms-and-ports-caught-in-mass-cyber-extortion-claim/",
+   "source": "Splash247",
+   "published": "2026-10-14T10:00+00:00",
+   "added": "2026-10-14T10:17+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "logistics",
+    "port",
+    "ports",
+    "shipping"
+   ],
+   "summary": "A cyber extortion group has threatened to publish data it claims it stole from 38 shipping, port, and logistics companies unless they pay multimillion-dollar ransoms by October 19. Cybersecurity firm SOCRadar said the group, known as n0n, added the 38 organisations to its dark web leak site in a single batch on October 12, marking a sharp shift towards maritime targets. The list includes 12 port and container terminal operators, 10 shipping lines and ship operators, port IT providers, logistics companies, and other maritime businesses across 18 countries. n0n is described as a financially motivated data-theft extortion operation rather than a conventional ransomware group. The group is threatening to release the alleged stolen material at 13:27 UTC on October 19. SOCRadar said ransom demands it reviewed ranged from $2.4m to $14m, payable in Bitcoin. In one example SOCRadar cited, Eurogate Tanger was allegedly asked to pay 10% of a $6m demand before being given access to a private negotiation room. The data n0n claims to possess varies between companies and includes EDI archives, container manifests, vessel schedules, gate movement records, commercial documents, internal system configurations, employee accounts, and financial records. SOCRadar said the relatively small, application-specific datasets claimed for several victims could indicate a common application or shared vulnerability rather than 38 separate compromises, although this too remains unconfirmed.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
   {
    "id": "fd5d4f9f527c",
    "title": "Zhonggu steps up boxship investments with larger newbuilds",
@@ -280,6 +309,33 @@
    ],
    "summary": "Shanghai Port Group in talks to acquire LME-approved warehouse operator H&M Metal Warehousing Prop News Time",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ef1770f59116",
+   "title": "Port: Gantry Crane 6 back in service, prepares for upcoming storm",
+   "original_title": "Port: Gantry Crane 6 back in service, prepares for upcoming storm",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdm9ybEJ5cE11RzRCSXZfOUpoRGo2eWhxSzRzTlAzbmR6NWE4bFVmdjA0R3N2aU5waTkxbGhEOHFCMmZadkVTRThKaWZqWUtlSmUtemdVRlFkVEJlNzVXVTZqREM4UU1UQURadDVvVi1CTmpBMmNldjRaejFOWFBUTHB5SmYxdVNlQlE3X2lzRXhnbWF5YUF4YWR2MzRxeE9oRlRwNzJJMThHOVpZeTdqUTM4dHZVOG9yeGtkOFlQV2hHb1h0Y0U0VFFSdkZvZjNRWVVRUjZ5ZmpYZw?oc=5",
+   "source": "guampdn.com",
+   "published": "2026-10-14T08:27+00:00",
+   "added": "2026-10-14T10:17+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "port"
+   ],
+   "summary": "Port: Gantry Crane 6 back in service, prepares for upcoming storm guampdn.com",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -8410,6 +8466,34 @@
    "summary_method": "extract"
   },
   {
+   "id": "36209bd748d0",
+   "title": "DP World adds electric cranes as Santos expansion advances",
+   "original_title": "DP World adds electric cranes as Santos expansion advances",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZHo2VHZuZVhUdHB6UW0wUXk2cnRVTWtYUTVBYXhEcFJvMzE1cHpHcGVRWkdmZl9lZ2pzT0JFaDdhd1ptSV9CNGhMSWp4ZVozeVlKb21uQmJjWnBNNVlvd2pkZ0pRNEYtMTBJOXAyLUtZNHc3aWtsNzJpY29CbVJuWjYwZ3dOSElBSlNrS3hsbXpYc1RCRURxYXpGazY5Y3Qzd3NtcjZRZTFyb1ZENHVZS3JB?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-12T14:43+00:00",
+   "added": "2026-10-14T10:17+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "port"
+   ],
+   "summary": "DP World adds electric cranes as Santos expansion advances Port Technology",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "930b74817257",
    "title": "Port of Barcelona advances shore power with Red Eléctrica",
    "original_title": "Port of Barcelona advances shore power with Red Eléctrica",
@@ -16515,93 +16599,6 @@
    ],
    "summary": "ENGIE, Port of Antwerp-Bruges and Zefier expand renewable electricity generation in the port of Zeebrugge American Journal of Transportation",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f4851783c54d",
-   "title": "European gas prices set for weekly rise on Hormuz supply risks, colder weather forecasts",
-   "original_title": "European gas prices set for weekly rise on Hormuz supply risks, colder weather forecasts",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa2FWTUJEVElfaDRJbTVMWmZqWFA5VVYwYjVZLU9QYVk5aTJmNkdfOVRFTXl5a3V3emR0TmZvTkd4Z09oYnBoQ0tmcmZUTE5tN3FUVmp0M0cwTUEwOGRsd180RmFVQXhkT2ppMDZBVW50Y25OR2VVenJGd1F3NjN4ZmJvazVWM0hkTDVNM0lVRno1N29rUEd6bnFlMzVtUXFsc3F2SjJQOGw2UzdjZVl4SWZuVnBOOGgyUF9WcjZWZGxXODhnZGhvYnFQdU45di1CbzEw0gHbAUFVX3lxTE90MkFlUDlyNFRCVWxITml4c3NFenQ0SjQ5WEkwb25DeXd0TFRlYy1TQ2phN0Q4aU1wZFROT0FhRDlHd2kxN1JOMW53MVkwVWpnWU1vbzltNHdnTDBMbndDa2Jtcm8zaEJZTVlzMVpUdk16OF81VmpfRUtaTXFoVG9hTUh2N3lvVHE3YVdWczB5aUJLNE42OTUzQWpwS3cteFZKcGdnZkxyMk9jbUMyeHF2SmMwbjlVSmJRb1JuN2JDV1ZadlJIekJ6SFZQM05MbENORkF4dWZBSlJZMA?oc=5",
-   "source": "Anadolu Ajansı",
-   "published": "2026-10-09T13:32+00:00",
-   "added": "2026-10-09T16:24+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "prices"
-   ],
-   "summary": "European gas prices set for weekly rise on Hormuz supply risks, colder weather forecasts Anadolu Ajansı",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d5036b3d6007",
-   "title": "Baltic countries seek EU ban on Russian grain transit",
-   "original_title": "Baltic countries seek EU ban on Russian grain transit",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOE5EMlFfSlJBRWVpQXVUYUlId0l5b3NGR3owaUN4VEtYYkNJSlBpYjNxZk9xemV4SmdKOERGQnMyTnhjSE1yQjVFb0JBQ3l4UTRFaktXOENqXzg3cURmNzRHNmN3YzJvZXVJbHdqaVRCbXRkR25VcVExRlgzX2Y5djljaw?oc=5",
-   "source": "Yahoo Finance UK",
-   "published": "2026-10-09T13:22+00:00",
-   "added": "2026-10-09T14:55+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Baltic & Nordics",
-    "Western Europe",
-    "Russia & Belarus",
-    "EU institutions"
-   ],
-   "tags": [
-    "baltic",
-    "eu ",
-    "grain",
-    "russia",
-    "russian"
-   ],
-   "summary": "Baltic countries seek EU ban on Russian grain transit Yahoo Finance UK",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4c97cd2f3a12",
-   "title": "Baltic Exchange shipping updates: Oct 9, 2026",
-   "original_title": "Baltic Exchange shipping updates: Oct 9, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBSRG4zT3dPT3hfYkp1R2lxZnJRbXNDRmlUYXVvWFEzQjFkN0RaSEg3N2ZDekZPUUhtc2R3LW84MVpBRnhqTlJ4TmtMRXNHRE1q?oc=5",
-   "source": "The Edge Malaysia",
-   "published": "2026-10-09T13:21+00:00",
-   "added": "2026-10-10T21:34+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Baltic & Nordics",
-    "Asia"
-   ],
-   "tags": [
-    "baltic",
-    "shipping"
-   ],
-   "summary": "Baltic Exchange shipping updates: Oct 9, 2026 The Edge Malaysia",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   }
  ]
