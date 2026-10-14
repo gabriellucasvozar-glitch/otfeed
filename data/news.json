@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T14:03+00:00",
+ "generated_at": "2026-10-14T14:38+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,32 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "58d48da5859a",
+   "title": "Elbląg szykuje się na większe statki. Port zyska nowe możliwości",
+   "original_title": "Elbląg szykuje się na większe statki. Port zyska nowe możliwości",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ1J2MTVEQXRNS0stejhZWEY2WFZCaUJCNHE5ZW9ZVXlEUG00UmRjMjR0Vkk4SU5nN0JOQk15dFdRZUFlTHJWX0tCeGNpT0dWWG15U00waGY4ZlRkSVVPQ3RQTWVwQ25FNlM4TVplWHZIb2JtQ3NVN1JsYmhRYTZZRFpRVTNGakdabnI5WGxkbnVlak5YV1JXTDlyTng?oc=5",
+   "source": "Radio Olsztyn",
+   "published": "2026-10-14T14:34+00:00",
+   "added": "2026-10-14T14:38+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "elblag",
+    "port"
+   ],
+   "summary": "Elbląg szykuje się na większe statki. Port zyska nowe możliwości Radio Olsztyn",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "9220e2da7e7d",
    "title": "TNPA signs 25-year lease for Saldanha industrial growth",
@@ -95,6 +121,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "92cbc3563f85",
+   "title": "IUMI conference in Rotterdam: War, freight rates and EV fires",
+   "original_title": "IUMI conference in Rotterdam: War, freight rates and EV fires",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVRXbTJDbWpubFRubEM2NlNjUVVjWGY1bEhsTUtJdW84enJMUzZCSG0xWTVSdVdVQVJBRFJrZWNMZ1JGOTJUZ19kSlpXXzFlQ1BVdmdaWHhGSkQ2ZklydWZ4NnV1aExiaDhSVDM3Q2Z5YUJ4bHV0cFVZbWhfY08xMDhuWWI5ODlpTjc2MGFaZTNOVGJnMTBaQS1jVkVyLWlIU3REbmg4cUlrM19BVVE?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-14T13:08+00:00",
+   "added": "2026-10-14T14:38+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "freight rate",
+    "war"
+   ],
+   "summary": "IUMI conference in Rotterdam: War, freight rates and EV fires WorldCargo News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "042e200be84e",
    "title": "Hormuz Fertilizer Crisis Threatens Global Food Supplies and U.S. Farm Costs",
    "original_title": "Hormuz Fertilizer Crisis Threatens Global Food Supplies and U.S. Farm Costs",
@@ -146,6 +199,35 @@
    "summary": "Kazakhstan seeks Belgium partnership to boost Middle Corridor trade Euronews.com",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
+  },
+  {
+   "id": "b34ec29aa75d",
+   "title": "Container Ship Sinks Near Hormuz After Being Hit by Projectile, Sources Say",
+   "original_title": "Container Ship Sinks Near Hormuz After Being Hit by Projectile, Sources Say",
+   "url": "https://gcaptain.com/container-ship-sinks-near-hormuz-after-being-hit-by-projectile-sources-say/",
+   "source": "gCaptain",
+   "published": "2026-10-14T12:45+00:00",
+   "added": "2026-10-14T14:38+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "dry bulk",
+    "hormuz",
+    "security",
+    "vessel"
+   ],
+   "summary": "LONDON, Oct 14 (Reuters) – A container ship has sunk near the Strait of Hormuz after being hit by a projectile and a separate dry bulk vessel is sinking in another incident, maritime security sources said on Wednesday. The Singapore-flagged GFS Pride container ship, with a small 2,824 TEU (20-ft equivalent unit) capacity, had sunk, the sources said. The vessel’s United Arab Emirates-based manager GFS Ship Management FZE could not be immediately reached for comment. In a separate incident, the Antigua and Barbuda flagged Cape Dao was reported to be sinking close to the strait after being previously hit by a projectile on September 23, the sources added. Your personal maritime briefing awaits! A vessel was struck by an unknown projectile 13 nautical miles west of Al Jazeera in the United Arab Emirates on Friday, causing a fire that has since been extinguished, British navy affiliated agency UKMTO said, citing multiple sources. Aug 11 (Reuters) – The United Kingdom Maritime Trade Operations said on Tuesday it received a report of an incident involving a container ship and military forces in the Gulf of Oman,...",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "1a8670fc5164",
@@ -505,6 +587,36 @@
    "summary_method": "extract"
   },
   {
+   "id": "99894d4b4bbb",
+   "title": "Fastmarkets launches Russian Baltic wheat price assessments amid shifting export flows",
+   "original_title": "Fastmarkets launches Russian Baltic wheat price assessments amid shifting export flows",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3ZlZ0puNFVYdmZibVFxRFk4aVY4NVR0dkdCMmMzUkZjeFZaUlNidGRMeExFTElBYUN4RVBCU0lYUTdVb2JzZ3A4WjlWUU9qNzRpeWdMMm1xR2xFNXVKb0otU29DeGlTZ2FSNnBLa3BOZFN4VWpXVDJRVXU5RTJ3QVM1em9HVlhzbk9uR21oQUxaWmlKWV9xeDAwbVBoaEdDbVdFUktmbnFaR095SV9NM0pFZmJGZ1lYRkRvN3NJckNtdw?oc=5",
+   "source": "Fastmarkets",
+   "published": "2026-10-14T11:23+00:00",
+   "added": "2026-10-14T14:38+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "baltic",
+    "russia",
+    "russian",
+    "wheat"
+   ],
+   "summary": "Fastmarkets launches Russian Baltic wheat price assessments amid shifting export flows Fastmarkets",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "189e3bd2742e",
    "title": "Trump tariff threat built a US copper mountain, but the effects are fading",
    "original_title": "Trump tariff threat built a US copper mountain, but the effects are fading",
@@ -636,6 +748,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "8c25a100e631",
+   "title": "El Niño puts Panama Canal capacity and grain shipments at risk in 2027",
+   "original_title": "El Niño puts Panama Canal capacity and grain shipments at risk in 2027",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTBkTFFsNmJhek9KUTlJdFFlbUhRLXVCbFBhOUZUYWFVZnhJcmxjR1ZxNFpUT0NnX2ZsUlNPN1FpNU40TzVKS2o4VWtQWkl0d2R4OE1JWVRHSWxGMDRhSjVxY3BmNVpHSUdyc1lmTzJHOVpDb1VjblZibVE4aHZHMExldXExaGs1MEZidjlHRnFEbm5IaXNWSi1B?oc=5",
+   "source": "safety4sea",
+   "published": "2026-10-14T10:50+00:00",
+   "added": "2026-10-14T14:38+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "El Niño puts Panama Canal capacity and grain shipments at risk in 2027 safety4sea",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b8e19b20151e",
    "title": "EXPLAINER – Arctic’s new trade routes come with climate cost",
    "original_title": "EXPLAINER – Arctic’s new trade routes come with climate cost",
@@ -684,6 +821,34 @@
    ],
    "summary": "Port of Mobile revenue hits record $245 million after deepening Port Technology",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "65eaa722dabe",
+   "title": "Industry calls for stronger EU ETS mechanism to secure investment in shipping e-fuels",
+   "original_title": "Industry calls for stronger EU ETS mechanism to secure investment in shipping e-fuels",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZGpjNC1HNXRQekRmNFpFa1NZNUdhUjVPOVZha3FySkdDZi1MXzFIc0c5dmwyNV9aTE5ZNlU2SkpCM0tUYmpyZVJhN1pTbWxxTlJSanpmakR1UmM1UGg3ZXFxSmFxQjNQaXIxX1RmQkI2NVAyQjhMaVN1eVJBd1RmVk9aek9kbGNvd2ZLUGxZdEIyMnNYalFsMms2bl9vOVZBY0k1SUZiMzlYTHhLSnc?oc=5",
+   "source": "safety4sea",
+   "published": "2026-10-14T10:42+00:00",
+   "added": "2026-10-14T14:38+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 7,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "ets",
+    "eu ",
+    "shipping"
+   ],
+   "summary": "Industry calls for stronger EU ETS mechanism to secure investment in shipping e-fuels safety4sea",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   },
   {
@@ -819,6 +984,33 @@
    ],
    "summary": "Brazil may reduce soybean and corn production due to El Niño and fertilizer shortages UkrAgroConsult",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d32d0edfa09c",
+   "title": "Philadelphia ports sets $837 million expansion, first new berth in 50 years",
+   "original_title": "Philadelphia ports sets $837 million expansion, first new berth in 50 years",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUlRvVlhwVUhWWktINkpvdTR4aVhnZDBnZzdkdUlpbDU1WHFkT19SbEZDTG05dEpTakNheEJqQ0NmTXMtdHd1aldnX2VaNkpxdGFtWlhSamowOHpXQWJldklyT3VyU1kySk90VElwYTdmZTBIeksyRkpYUlVISkFMa2l5b2h2dEZlUGFhZUxXSGVWRUd5NzU1N3dSN2JHYXJ3bHNUUkxCRDk0S1U?oc=5",
+   "source": "FreightWaves",
+   "published": "2026-10-14T10:05+00:00",
+   "added": "2026-10-14T14:38+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "berth",
+    "port",
+    "ports"
+   ],
+   "summary": "Philadelphia ports sets $837 million expansion, first new berth in 50 years FreightWaves",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -1816,6 +2008,33 @@
    ],
    "summary": "One day left for farmers to declare fertiliser closing stocks Agriland",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5215cec571f2",
+   "title": "How Burdensome Is CBAM? Washington Wants to Know",
+   "original_title": "How Burdensome Is CBAM? Washington Wants to Know",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02MmdPckI0UTlzX1lhUjktR3djTTVZU214dmMwVTVpQ2QtelRlY0pmOUhqT1RMR2xXbGp5Q2RwZ0t0NF80bWNhb1J5QnVFUERYbXRTQzZWejZkanhlS3hKWVRDNUkwc0o5U1RCQ2dHZVYwWTN3WndSa01n?oc=5",
+   "source": "Steel and Stainless Steel News",
+   "published": "2026-10-14T08:15+00:00",
+   "added": "2026-10-14T14:38+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "cbam",
+    "steel"
+   ],
+   "summary": "How Burdensome Is CBAM? Washington Wants to Know Steel and Stainless Steel News",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   },
   {
@@ -6855,6 +7074,39 @@
    "summary_method": "feed"
   },
   {
+   "id": "54f37ea0b7ef",
+   "title": "Black Sea attacks trigger calls for EU crackdown on Russian grain",
+   "original_title": "Black Sea attacks trigger calls for EU crackdown on Russian grain",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGJqZU1qVE9MYV91UlFCZDM1cFdKQjA2U1dlNW1YUW5iWUhLcVh5S1hnVHZLVmY5M285Um9RUXpkaEYyVXpsbEFkc2tEYmJFc0FSb3Y3dW5sMmllaGFTTnV1dlBwbGcxZlREbTJoSDdFUWFWWWJEQXBpUjJqZ0JPTjFxR3NzWndoYk5HZHhsTzhKLWpwMXFqZzVGWHlGeW9BdWhJTnNoMGFlUVQzVGc4ek5yMEkwTEE?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-10-13T09:04+00:00",
+   "added": "2026-10-14T14:38+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 14,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "eu ",
+    "grain",
+    "russia",
+    "russian"
+   ],
+   "summary": "Black Sea attacks trigger calls for EU crackdown on Russian grain TradeWinds News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "016f2f6cd957",
    "title": "GP Petroleums approves ₹44.27 crore acquisition of Pipavav terminal stake",
    "original_title": "GP Petroleums approves ₹44.27 crore acquisition of Pipavav terminal stake",
@@ -8922,6 +9174,31 @@
    ],
    "summary": "Hanjin Posts Q3 Revenue of 889.8 Billion Won on Strength in Global and Port Businesses 아시아경제",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0669121408d5",
+   "title": "World Bank: Middle Corridor needs over $55 billion in investments to quadruple freight volumes by 2040",
+   "original_title": "World Bank: Middle Corridor needs over $55 billion in investments to quadruple freight volumes by 2040",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdVhmcFVzLUNibVZBQ3AtN0FMQmczNnZ3YzNaTDlRU0RTTzFnVDkyVGV2MTcxMGY1NW1tVFptSnctenNVZWtyNXRSR25FVUhTS1FWZXZsZkh3aDFueHFseDdhSWFZRmtYd3lmWE1MZmlSWlUzaXB4V2dJQzViS1B0cTBDT19BcVhKcXJBRHd5MThpTzlJNXJzdmlNaGdfUV9wMDFPa2ZqXzJ4dEJVNkx5dnhLNXVWSzB3VXc0OWhGYm05T211d2tYTmIxSFpZOFgxZzVsWm5FdHpmcDNxNS1iUU5Kbw?oc=5",
+   "source": "RAILMARKET.com",
+   "published": "2026-10-12T23:00+00:00",
+   "added": "2026-10-14T14:38+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "World Bank: Middle Corridor needs over $55 billion in investments to quadruple freight volumes by 2040 RAILMARKET.com",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16294,282 +16571,6 @@
    ],
    "summary": "Russians again attack logistics company warehouses in Dnipropetrovsk region mezha.net",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e9a24a465e72",
-   "title": "Największy hydrauliczny dźwig na świecie już w Porcie Gdańsk, pierwszy w Polsce! To wydarzenie zbiega się z jubileuszem 30-lecia działalności firmy Speed, która owo urządzenie sprowadziła. Relacje braterskie podstawą sukcesu w biznesie",
-   "original_title": "Największy hydrauliczny dźwig na świecie już w Porcie Gdańsk, pierwszy w Polsce! To wydarzenie zbiega się z jubileuszem 30-lecia działalności firmy Speed, która owo urządzenie sprowadziła. Relacje braterskie podstawą sukcesu w biznesie",
-   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQdC1HZEc5QjRKUEF6T3FwRXBSVWtCY3ozYjNlc3ZwM0FYc3VhSDNsakREaF9wLVFqOUl2YW1Xck9FNkJrbFdYZGM5WlpUb0NTTVRRUDZ4eXhnbnZkNUpWQTg4RW90V1NJZE9va3htNVNYdGdzRUdnVEJPNUpCU2dXSzhabTFXa3c5LVcwNjJPZlVVMTNCTjlKTTZVZzczcXR5SF91ejhhNEJoY1lLTG9CNEFqU1RTbTZyN2x6eFk5eEU2bE9xM01menc5T21fZUJCcERVbnZ0eVpvSG5aNFJRZldvWHhVMmxpTnBMRDBQQmtSSUZFTkRMaEpnV3R3Y1RIYU1RTl9VMU5MaTA0UzF5ZmhzTHQyZUxmc0t2VjF3U1JBVy1TS1FrakkxS3A2akRlV1NLSmVMbVNRYVhfSS1r?oc=5",
-   "source": "netka.gda.pl",
-   "published": "2026-10-10T14:11+00:00",
-   "added": "2026-10-14T09:10+00:00",
-   "lang": "pl",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "dzwig",
-    "gdansk"
-   ],
-   "summary": "Największy hydrauliczny dźwig na świecie już w Porcie Gdańsk, pierwszy w Polsce! To wydarzenie zbiega się z jubileuszem 30-lecia działalności firmy Speed, która owo urządzenie sprowadziła. Relacje braterskie podstawą sukcesu w biznesie netka.gda.pl",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity. Involves a Polish port.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2010833e0ca9",
-   "title": "Nippon Express completes acquisition of Metro Supply Chain Group",
-   "original_title": "Nippon Express completes acquisition of Metro Supply Chain Group",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTXZZZm9MdXdGdjVCTFFTUTdYNG83UGVGXzNoRVhFUXB6QXRQaHdIR1NLYmdVcDZMeFdvUjN4X0hnTkJEcFdhS0dDNkVITFgxRGNGRmtmM3VnX1lUTWFGNWVVTDJ3bHJ1UWRxa3Y2N2x6bVlNYk5nai1oNXNtYXFEUU1YSEp0Q1VTQ0NJQjl2S2luWERfdUdj?oc=5",
-   "source": "Container News",
-   "published": "2026-10-10T14:00+00:00",
-   "added": "2026-10-14T03:30+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquisition",
-    "supply chain"
-   ],
-   "summary": "Nippon Express completes acquisition of Metro Supply Chain Group Container News",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "023bcd22cd55",
-   "title": "Diana Shipping (DSX) Slips 2.76% to $2.82 as Dry Bulk Names Test Key Support - Bullish Percent Index",
-   "original_title": "Diana Shipping (DSX) Slips 2.76% to $2.82 as Dry Bulk Names Test Key Support - Bullish Percent Index",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNktMU3pRNVN2Y3FkWndXQWNLbDdpamV3WnNHM3JwR0VXUTlpVkpqei1EcEQyVnNOZE5FeWR3RXBrM3lLcTNwM2FaZ05qMEI5Tms4Vl9QX2RKYVAtWmQ4Z2p5NnhESVVtTWp5Z3ozT0xFTFZyOTUtOVRzRzZmdlMtVTRXQTJwOGljd0RNSjlLRzc0MGF2S3pZbVpVMFVlcHpQQTFjQUlBUkltdHJkMkZGb1VnMA?oc=5",
-   "source": "https://www.siam.in/",
-   "published": "2026-10-10T12:42+00:00",
-   "added": "2026-10-12T11:48+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "dry bulk",
-    "shipping"
-   ],
-   "summary": "Diana Shipping (DSX) Slips 2.76% to $2.82 as Dry Bulk Names Test Key Support - Bullish Percent Index https://www.siam.in/",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "89d1f68c23d3",
-   "title": "Why is US turning to Russia for diesel despite sanctions?",
-   "original_title": "Why is US turning to Russia for diesel despite sanctions?",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGNTbVgyVC14ZDVBOEs3Mm1rTW16emtnYzdRZm1OWi1SQ0xod09CRWZaajVkbEVmanlDdUxDRGd4NXNJOFdJYUYwUmV2UW00VXl2a2p4M0ZxNVc2NGlNdFIyN1R4UEFwTzN4aFdDcFNSM3ZKdnpIN3Bqek1wT25UUkhZUVV4UlJ0YjNROFc3TEgwQ25hZWlmZmJMVVJ1ZUnSAaQBQVVfeXFMT1R5NE0yR3F1TTRkZHZCb1h4M2lvd1JTMklBT05BUWY5SGRsSVFSbG9LTlNNeDJVNFpnMk9ZcVVpNnBLOUxPQmdacjA2VTdCeWVSei1lbmVJYUw1MFBnN1RRV2VjNENoQmhDck5EbkpXaFpoUW0wQ1ktbG54Z2l2LTVyN2dDc3BERTZzYTlOVGdyNDItSnh3UnFRc2RlbWktbWtKVXI?oc=5",
-   "source": "Al Jazeera",
-   "published": "2026-10-10T12:25+00:00",
-   "added": "2026-10-10T21:34+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "diesel",
-    "russia",
-    "sanction"
-   ],
-   "summary": "Why is US turning to Russia for diesel despite sanctions? Al Jazeera",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7def6de8b993",
-   "title": "Kuibyshev Railway Sends First Wheat Exports To Vietnam By Rail",
-   "original_title": "Kuibyshev Railway Sends First Wheat Exports To Vietnam By Rail",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWGlYRlhzUzQwRWlVODRSOXZNMHdadlVlbkM0T1dhMUl4VHlMbkptUzhTUXNOTENFTkgyclNJclp1eFo1VWhPM2h1M3RkNERzeE15eVkzS3JVYWIxMEJNejRERk1zX0RZcVVXR1pvQ3ozNnVrU2N6WU9WOFJMZ24xOTcxREFWT3VJRW9lYW5VUG1PS1NxbXhvRy13?oc=5",
-   "source": "russia's pivot to asia",
-   "published": "2026-10-10T12:14+00:00",
-   "added": "2026-10-10T13:24+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "rail",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "railway",
-    "russia",
-    "wheat"
-   ],
-   "summary": "Kuibyshev Railway Sends First Wheat Exports To Vietnam By Rail russia's pivot to asia",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "203190d0d7bb",
-   "title": "Why Iranian, Houthi Threats to Red Sea Shipping Matter More For Oil Now",
-   "original_title": "Why Iranian, Houthi Threats to Red Sea Shipping Matter More For Oil Now",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGNHYmwzU1Zza21sWTB4UGFjZzFDUEpSYU0zLW5ZUWtHX25QTFZLZ3ZUZzVwM2M3YmJ6X3JOdWZMRVN6cHJBRUNiRWwwU0RwQW11UlFwWmc5UWhjS0xPMnl0NktMeWw2T1pFRTVDZTZEQlJtZktydFE0QUJzSG5tdWRRdVVNOE84eUJZeXlNdFFrR1B6T0xiVU9tQnJWVHV0ZW80?oc=5",
-   "source": "EnergyNow.com",
-   "published": "2026-10-10T12:12+00:00",
-   "added": "2026-10-11T22:20+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "houthi",
-    "red sea",
-    "shipping"
-   ],
-   "summary": "Why Iranian, Houthi Threats to Red Sea Shipping Matter More For Oil Now EnergyNow.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "36c636d05588",
-   "title": "New York Fed Study: Trump Tariffs Raised Consumer Goods Prices 2.9% by February 2026",
-   "original_title": "New York Fed Study: Trump Tariffs Raised Consumer Goods Prices 2.9% by February 2026",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNXZmcGE3OFN3WU9XdDJVbHhKaG9iU3lSMUpFMXdvbnFpR2VyaEkxTDZ4ZDhWMkVpcFFzaHhnZmd5MTJjYmNLcUJDUEpRNFJ3UlpSNEpERU40VkZZTXFoSVJQZEZ6SWRpZ0gyZ2hJWHhQVzI2cUxCRTFnaU40Wkh6X284ZVVRbE8zUFZtTXBTdGppS2Q3Q2dzVmt2cVdidlpXQ2RpekI5SC1PLWZRNWNQU0lQT2c?oc=5",
-   "source": "Global Trade Magazine",
-   "published": "2026-10-10T11:54+00:00",
-   "added": "2026-10-12T07:08+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "prices",
-    "tariff"
-   ],
-   "summary": "New York Fed Study: Trump Tariffs Raised Consumer Goods Prices 2.9% by February 2026 Global Trade Magazine",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "405a284f5f29",
-   "title": "Türkiye Opens EU-Backed Railway Link to Boost Europe-Central Asia Connectivity",
-   "original_title": "Türkiye Opens EU-Backed Railway Link to Boost Europe-Central Asia Connectivity",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTdTMm96aERHRzRnRTM0R05uWUJRWGp0Z2dvMzIzZlZYTjA0THVjLTZPektpVFdsSi1nc3lRMWZCcmhTc0oxOTV4SXRpSDdFT3dwY2tJc2RSZHIzVDFRUU9RLTVMaFRhY0N0dXhEWV9jOUxMTjZPNmhTdlJxR1MzQk92ZXNLNFhCaEIzMmFPa3d5REJsQjJmRkpfdURmNFZKeUdPZnBtTDVmbEVBT1BuYQ?oc=5",
-   "source": "The Astana Times",
-   "published": "2026-10-10T11:10+00:00",
-   "added": "2026-10-10T13:44+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Ukraine & Black Sea",
-    "EU institutions",
-    "Asia"
-   ],
-   "tags": [
-    "eu ",
-    "railway"
-   ],
-   "summary": "Türkiye Opens EU-Backed Railway Link to Boost Europe-Central Asia Connectivity The Astana Times",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4d36e5362334",
-   "title": "US port imports peak at 2.3 mn TEU in August 2026: NRF",
-   "original_title": "US port imports peak at 2.3 mn TEU in August 2026: NRF",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOelhQT3kzN0swa2s0UFRycmtjaWVwT29fTlViTWNwWjJ4Q29ObkQ4dXo3cURQbmtyUXFidU5GSUtib0FCUTdaSlUtT1pGMDZPZDQ0bDlQbEEzaktEWVdkQ2w4Q21odElSVHoxS1BtbDR0OTl6OERoVnZrcDE3ODVpaC0yaVBjLUIwZ0F6QmxLY3ZEa0tDc0VwcGtrSlhINExzT2FPbWI4TjdwZFhvTTBGdTRBa2hLSUF4QVZ5cTNDNEJWZw?oc=5",
-   "source": "Fibre2Fashion",
-   "published": "2026-10-10T09:52+00:00",
-   "added": "2026-10-11T10:20+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "teu"
-   ],
-   "summary": "US port imports peak at 2.3 mn TEU in August 2026: NRF Fibre2Fashion",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b117955cdee3",
-   "title": "Port poprawia wyniki. Ile z tego wzrostu zostaje w Świnoujściu?",
-   "original_title": "Port poprawia wyniki. Ile z tego wzrostu zostaje w Świnoujściu?",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbmlMXy1IZm1KbC1abTRIRFg3dUo2MWNPam9JWFNRWGprdXlRb1lKNkdpdEJtaDBNellpR19pWmhmOUZpX2JJdUVkM2pUQ1Frb0dUa0piWEpzaGlsbndublZoblUtdm1UYy1yYkFyalBPeW9EZmxjbHp4NzVGSzVuNXViVUlPTWlWWjJHMGdiZy1CYS1zZnQ5dGFjTjVCNTRqaWxsQtIBpAFBVV95cUxQbmlMXy1IZm1KbC1abTRIRFg3dUo2MWNPam9JWFNRWGprdXlRb1lKNkdpdEJtaDBNellpR19pWmhmOUZpX2JJdUVkM2pUQ1Frb0dUa0piWEpzaGlsbndublZoblUtdm1UYy1yYkFyalBPeW9EZmxjbHp4NzVGSzVuNXViVUlPTWlWWjJHMGdiZy1CYS1zZnQ5dGFjTjVCNTRqaWxsQg?oc=5",
-   "source": "swinoujskie.info",
-   "published": "2026-10-10T09:32+00:00",
-   "added": "2026-10-10T11:18+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "wyniki"
-   ],
-   "summary": "Port poprawia wyniki. Ile z tego wzrostu zostaje w Świnoujściu? swinoujskie.info",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
