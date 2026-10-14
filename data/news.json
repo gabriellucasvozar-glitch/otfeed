@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T05:51+00:00",
+ "generated_at": "2026-10-14T06:23+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "5bfcd657f4ab",
+   "title": "Elisabeth Braw: The Undersea War",
+   "original_title": "Elisabeth Braw: The Undersea War",
+   "url": "https://splash247.com/elisabeth-braw-the-undersea-war/",
+   "source": "Splash247",
+   "published": "2026-10-14T06:07+00:00",
+   "added": "2026-10-14T06:23+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "vessel",
+    "war"
+   ],
+   "summary": "A ship’s anchor can wreak havoc on the world’s undersea infrastructure, something that has provided plenty of rich material for Splash reporting in recent years. For Elisabeth Braw, the Cook Islands-flagged tanker Eagle S provides one of the most brazen examples. On Christmas Day 2024, the vessel was accused of dragging its anchor 90 km across the Gulf of Finland seabed, severing the Estlink 2 power link and four telecommunications cables before Finnish authorities intervened. That collision between maritime law and an emerging security threat runs through Braw’s new book, The Undersea War: The International Battle for Supremacy at the Bottom of the World , published by John Murray this month. Braw, a senior fellow at the Atlantic Council who leads research into threats to the global maritime order, started writing in October 2024, having followed the subject for considerably longer. The 2022 Nord Stream pipeline explosions remain in the headlines. The Eagle S affair followed the Yi Peng 3 cable investigation and has been succeeded by further suspected anchor-dragging incidents in the Baltic. The book ranges from the Baltic to the Pacific, drawing on interviews with naval officers, undersea engineers and cable operators to show just how dependent modern economies have become on infrastructure that is difficult to monitor and harder still to defend.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "b375c845d492",
    "title": "Caspian corridor struggles to handle Russian grain exports",
@@ -16606,32 +16633,6 @@
    ],
    "summary": "Lloyd’s List Intelligence (LLI) has launched Satellite Confirmed Spoofing, a new capability within its proprietary maritime intelligence platform, Seasearcher. This new functionality combines AIS spoofing detection with automatic satellite imagery validation, helping compliance, risk and intelligence teams identify deceptive vessel behaviour with greater confidence. The launch reflects growing demand for defensible intelligence, helping maritime organisations prioritise investigations, strengthen compliance processes, and make decisions based on independently validated evidence. Vessels seeking to evade scrutiny are broadcasting false positions that look entirely legitimate,” said Arne Staal, Chief Research Officer at Lloyd’s List Intelligence. “We’ve detected this behaviour for some time, but detection models are by nature probabilistic. We can now take our users from flagging probable spoofing events, to corroborating the event with satellite imagery. For compliance teams, insurers, and regulators, this marks a shift from inference to independent evidence, so they can decisively act on what the imagery shows rather than what a vessel chose to report.” Satellite Confirmed Spoofing is designed to support that mission by helping customers move from an inferred risk signal to a validated event. By combining maritime expertise, advanced analytics and satellite technology, we are making it easier for organisations to identify deceptive shipping practices and understand the evidence behind them. Source: Lloyd’s List Intelligence",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "e45ef658f872",
-   "title": "Klaipėda Port showcases the future of smart operations with a private 5G network trial and design",
-   "original_title": "Klaipėda Port showcases the future of smart operations with a private 5G network trial and design",
-   "url": "https://www.hellenicshippingnews.com/klaipeda-port-showcases-the-future-of-smart-operations-with-a-private-5g-network-trial-and-design/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-09T10:00+00:00",
-   "added": "2026-10-09T11:23+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "klaipeda",
-    "port"
-   ],
-   "summary": "Trials of a private 5G network at Klaipėda Port in Lithuania have successfully concluded, marking a key milestone in defining the port’s digital future. Santa Monica Networks and Latvian telecommunications provider LMT (LMT Group) have completed the comprehensive design phase for a potential port-wide private network and demonstrated concrete, practical applications directly to port company executives, illustrating how 5G technology can optimize daily workflows. According to Mindaugas Žiūkas, Director of Santa Monica Networks, as the port increasingly digitizes its operations, reliable connectivity is becoming crucial as the foundation for a growing number of machines, devices, and daily processes, not just for human communication. Autonomous systems demonstrate private 5G applications Executives and IT specialists from companies operating at the Port of Klaipėda attended the demonstration. Santa Monica Networks, LMT, and their technology partners showcased specific private 5G use cases in a real-world port environment and discussed with port representatives how these solutions could further modernize the port. A private 5G network could unlock even more opportunities for the Port of Klaipėda by enabling the implementation of advanced solutions, process automation, and increased operational capacity, while ensuring uninterrupted connectivity and secure data transmission, even in extraordinary situations. Increasing use of digital solutions in port operations A private 5G network would give the port greater control over connectivity management.",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
   }
  ]
