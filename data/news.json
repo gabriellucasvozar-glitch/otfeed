@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T14:38+00:00",
+ "generated_at": "2026-10-14T15:13+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,120 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b6fb6cd132ba",
+   "title": "GFS ship sinks after missile attack, second ship sustains damage",
+   "original_title": "GFS ship sinks after missile attack, second ship sustains damage",
+   "url": "https://theloadstar.com/gfs-ship-sinks-after-missile-attack-second-ship-sustains-damage/",
+   "source": "The Loadstar",
+   "published": "2026-10-14T15:09+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "high",
+   "score": 17,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "attack",
+    "fleet",
+    "hormuz",
+    "port",
+    "port authority",
+    "shipping",
+    "teu",
+    "vessel"
+   ],
+   "summary": "Missiles struck two container ships in Global Feeder Shipping’s (GFS) fleet in the Strait of Hormuz in the last 24 hours, with one vessel subsequently sinking after catching fire. Singapore’s Maritime and Port Authority (MPA) said that the 2008-built 2,824 teu GFS Pride was damaged and caught fire before sinking. All of its 21 crewmen were evacuated, with no injuries reported. The other ship, 2015-built 4,350 teu GFS Giselle, sustained hull damage but remained operational and proceeded under its own power to a safe anchorage. Iran’s Islamic Revolutionary Guard Corps Navy said an unnamed container ship carrying more than 2,500 containers had struck a mine while transiting what it described as an “unauthorised and dangerous” route through the strait. The sinking of GFS Pride is the second vessel loss since the US-Israel-Iran war began on 28 February, according to data from the International Maritime Organization, the United Nations’ shipping agency. The earlier incident involved a bulk carrier, Cape Dao, which sank in the Gulf of Oman yesterday, after being hit by two torpedoes on 23 September. Both GFS Pride and GFS Giselle were originally owned by Dubai-based Simatech Shipping, before the latter’s liner operations were acquired by GFS in October 2018.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "04f6433d2037",
+   "title": "Azerbaijan, Kazakhstan seek closer port coordination on Middle Corridor",
+   "original_title": "Azerbaijan, Kazakhstan seek closer port coordination on Middle Corridor",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZE04VFpmTnBlRnZkWjR5cTFPQ0NMVzhEOW8tVHQzaHBmdjZITTR6OGtXcjBFemlmTHlQTzRIb3Jzb29zeUx5YXFFR0ZqOERrM0xhcm9qSUVBbnRkMnh5NnlYV2tHaDFneDFlSWNWWmxUVkc2WUw3b0k4T1lqeThta1lHbDZQYnZMVHBPTXBDR09JeHdEa2FiLVVKUG1vb0ZsVk5uQXY4c0lUQQ?oc=5",
+   "source": "Report.az",
+   "published": "2026-10-14T14:53+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor",
+    "port"
+   ],
+   "summary": "Azerbaijan, Kazakhstan seek closer port coordination on Middle Corridor Report.az",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e44bb723f869",
+   "title": "Opinion: China-Kyrgyzstan-Uzbekistan Railway: Turning Transit Into Local Benefits",
+   "original_title": "Opinion: China-Kyrgyzstan-Uzbekistan Railway: Turning Transit Into Local Benefits",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOekRvcmllQ3hUOEhXNHRoa2daV3lKaldEdUk1a0FIVjJKcE5QSzI2b2s0ZnBXTUhWalNSUUlBb09WTWt6WVVqYnJhekFLUUZTYzFVR0tRVnk5LVBvWjFtT256NDdqb0RNLTZVZFphbjdSS2I4NzgyLUg0Y2tyYzNMakFqSTdSVU1SLWZHOWl0ZVlud0hRRXU3REZWWEN1TWpZMnc?oc=5",
+   "source": "The Times Of Central Asia",
+   "published": "2026-10-14T14:52+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "railway"
+   ],
+   "summary": "Opinion: China-Kyrgyzstan-Uzbekistan Railway: Turning Transit Into Local Benefits The Times Of Central Asia",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "258f1dc172ac",
+   "title": "Astana hosts discussions on Azerbaijan’s role in Middle Corridor development",
+   "original_title": "Astana hosts discussions on Azerbaijan’s role in Middle Corridor development",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbS1yWnhGbGE0aVNKYmo3ZkZGU1NJRDcycVFPTFVnRVdJX3dibTJlWlpVeGh2em42TklHUmFiV0kwUGlJVF9KaVJXdDlwUHBObU1IS21sdXpvay1UMzhxX1E5amlnQ1ZFV1ZYU2FYUWxteG1meTkycG55Skt6SjV2NTVWYjY0ZVNyYmdVeEFXNS1vRTI1RVFFd3V4N3N6Z2JQNk5KVWZySFltRTdOWnJrTA?oc=5",
+   "source": "azərtac",
+   "published": "2026-10-14T14:48+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "Astana hosts discussions on Azerbaijan’s role in Middle Corridor development azərtac",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "58d48da5859a",
    "title": "Elbląg szykuje się na większe statki. Port zyska nowe możliwości",
@@ -37,6 +151,34 @@
    ],
    "summary": "Elbląg szykuje się na większe statki. Port zyska nowe możliwości Radio Olsztyn",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "58ea176a6caa",
+   "title": "Kazakhstan negotiates with Port of Antwerp-Bruges on Middle Corridor — Euronews",
+   "original_title": "Kazakhstan negotiates with Port of Antwerp-Bruges on Middle Corridor — Euronews",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUDB1S1llTnRPWGVIRWUyVGROVEltZXY5WTRDTUlpeVlwUGNQMDdKanI3WWJqbkM0djdLUXI3dUNuZVpRT0hYWHFhaGlmeHY3T3FhaXVua1BfR1J4ZWk2VGcydlByQld4VjFTbjlBcnZ2RzE2RXZ6a3lOaTZIVHJUTWYzbXlOTm5CcWtkb3JnTTNLQ3U3ei1CZ0pVeDByQWFjM08yWVVocmtzLTNr?oc=5",
+   "source": "UA.NEWS",
+   "published": "2026-10-14T13:23+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor",
+    "port"
+   ],
+   "summary": "Kazakhstan negotiates with Port of Antwerp-Bruges on Middle Corridor — Euronews UA.NEWS",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -341,6 +483,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "a354ee7bc11b",
+   "title": "China Iron Ore Prices Fall Post-Holiday: Q4 Supply Rise to Weigh - News and Statistics",
+   "original_title": "China Iron Ore Prices Fall Post-Holiday: Q4 Supply Rise to Weigh - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSFNuTzhOVjhjZ003dW12aHFPNVpLYjFxWlhvaVo4QkhEOUNtR1dBMnNGWFF1S21nc1NBOHQtXzBFSzlncTZ5MDE2SkV0UUREbUg5XzdNeUR6WDhjZVpkc0t4QmhlQUtEZ2ZzazdaeEVvbDV0VGxkS2MxLWNNMEdoMGtQbWZwUmtTVWx4Q0JLWjV6Mk9vaG9CZGNzQQ?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-14T12:21+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "iron ore",
+    "prices"
+   ],
+   "summary": "China Iron Ore Prices Fall Post-Holiday: Q4 Supply Rise to Weigh - News and Statistics IndexBox",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "1cc0301f3e69",
    "title": "Lower export duties allow Argentina to increase wheat shipments",
    "original_title": "Lower export duties allow Argentina to increase wheat shipments",
@@ -362,6 +532,34 @@
     "wheat"
    ],
    "summary": "Lower export duties allow Argentina to increase wheat shipments UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "158d2eb63bbc",
+   "title": "Wheat, corn and soybeans decline in Chicago on Tuesday, while European futures rise",
+   "original_title": "Wheat, corn and soybeans decline in Chicago on Tuesday, while European futures rise",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWwxQ1BiVVBFMC1fd2ItNDVndGx3R29kYm8zWm5LQ0hiUnpSWldRQlFHMEVhTzJwYmxCaDFiSnFCVnJ2LXdlMldXMmlVZk05UEprLXhyU1hCOGhBbTIwbzVFSWQwS3JJdlB3SHFSYzV2VzAyNXVKai1FY1JQNWNpajE0bzRoV2o1UXRlblI2Y09pMDAxa3RmRTNLdXRpaXlKV29CYnl5Vm5OWGZNZFJHdTNFcDQ5Qk9u?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-14T12:05+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "corn",
+    "futures",
+    "soybean",
+    "wheat"
+   ],
+   "summary": "Wheat, corn and soybeans decline in Chicago on Tuesday, while European futures rise UkrAgroConsult",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -555,6 +753,32 @@
    ],
    "summary": "From Smart Warehouses to AI-Powered Ports: How Technology Is Transforming Dubai’s Logistics Industry businessnewsthisweek.com",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "622f55383c29",
+   "title": "ADB backs DC to AC conversion at Azerbaijan Railways",
+   "original_title": "ADB backs DC to AC conversion at Azerbaijan Railways",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSXpVZ3ExRW1kbnEzRVF6RF9VMXEwTVY1a1JYMU1kY1VnTVljX0NacEkwWXhQS21TRWl5TlNkdHlvckMwS1BDblpUMjA1LXdhYXMxc2NvVXprdzJuTlRlaFlja1JUanlIZGMtSEh6VkhWWWtIU01GcjZHTzdPNjBBcmV2dVQ5VDJhWFZKNXd2QnNvd281YzZ4dHFMRnpaZXc3V2trVFhWQXVRdw?oc=5",
+   "source": "Railway Gazette International",
+   "published": "2026-10-14T11:28+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "railway",
+    "railways"
+   ],
+   "summary": "ADB backs DC to AC conversion at Azerbaijan Railways Railway Gazette International",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -1466,6 +1690,31 @@
    "summary_method": "extract"
   },
   {
+   "id": "388065d40ce9",
+   "title": "R8.9bn restoration programme targets Sishen-Saldanha iron ore export line - Suid-Kaap Forum",
+   "original_title": "R8.9bn restoration programme targets Sishen-Saldanha iron ore export line - Suid-Kaap Forum",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaGVMWEZDREpWMFpkWFpNbHA2T3ZTSUlEWXZIOGx1UUpBaGNWV01QWXBOdWpCeUlpN1JVcnhkd2prTjhkX2dOVlc5cjN4emQwMmNFZ19ZUmxHeHkyTGZjM0RVSFF1cDZHVnBGcGZCX0ZrNHJ6VGtLMlZ6cmVydGtodU1lMi1MLUJ0a2FNdjkzemNKYW9xSWdhMjZzdEdUbFJ0Nk5QOGRnU2lHQmRkYmZLUFpienYzaHdZb2RlSWZPSE1VdGhzal9RLTdPOUlYNDQ3T0ZyQy0wRXlnT3M?oc=5",
+   "source": "Suid-Kaap Forum",
+   "published": "2026-10-14T09:59+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "R8.9bn restoration programme targets Sishen-Saldanha iron ore export line Suid-Kaap Forum",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "79656b697a7e",
    "title": "Egypt signs Chinese deal for new Alexandria bulk terminal",
    "original_title": "Egypt signs Chinese deal for new Alexandria bulk terminal",
@@ -2278,6 +2527,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "5b074f0dd4ea",
+   "title": "EU rapeseed market tightens as Euronext prices hit post‑harvest highs",
+   "original_title": "EU rapeseed market tightens as Euronext prices hit post‑harvest highs",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSFVsSWFVT3FwRDBfN3JTZzJhdURDUFUzX19nLWVDS0xsQ3pHdXpjODZHY25VcG43RjJ1Y28wSjZYczNEamFxc1FNVUdmRzV1OTl0TzNBYmpDUlJKZWdBWG55RHhpdmxZbDAyQzdwUTktTUVjTkVjN3pySWp3aGt5RHVVb2laS1pPb3JGdTkxUE93UXJmN0E?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-14T07:26+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "prices",
+    "rapeseed"
+   ],
+   "summary": "EU rapeseed market tightens as Euronext prices hit post‑harvest highs CMB News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "59f08a3ce108",
    "title": "VIA Rail builds Montréal plant to finish up to 36 locomotives",
    "original_title": "VIA Rail builds Montréal plant to finish up to 36 locomotives",
@@ -2663,6 +2939,33 @@
    ],
    "summary": "CTP debuts 200,000 sq m Italian logistics park Green Street News",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c52dc6f67976",
+   "title": "Will ASX 200 Miner Champion Iron (ASX:CIA) Gain From Chinese Steel Restocking?",
+   "original_title": "Will ASX 200 Miner Champion Iron (ASX:CIA) Gain From Chinese Steel Restocking?",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1ZhbDRIdENCdVFaOEJxNGhKSW00TWpyekN5LVdiMlIwYmJuc3plN3ZudUNpWGd0Z1NlNV9RWmZQLW9hMGZTYTBXejlFRVdUNE5WUDg5N2N5REMzRUVHWXpNQTFoc3pOMmY0TUgxcmt1OUxLUE9EZG1QdzliT2piZ3pMYmZyTVpCREV6RzQtamtabzBSYVJpY1Y0N3FXX0Y0S0JScnpQYWxSSk1YcEZOLVd0eTZOTzFCOXRuSzF4c2g2b2xN?oc=5",
+   "source": "Kalkine Media",
+   "published": "2026-10-14T06:09+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "chinese",
+    "steel"
+   ],
+   "summary": "Will ASX 200 Miner Champion Iron (ASX:CIA) Gain From Chinese Steel Restocking? Kalkine Media",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -7986,6 +8289,33 @@
    ],
    "summary": "China provides $336 million financing for Bangladesh port expansion with five-year grace period Swarajya",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e3b7d18610be",
+   "title": "InfraRed Capital Partners to Acquire New Zealand Logistics Business C3 from Brookfield",
+   "original_title": "InfraRed Capital Partners to Acquire New Zealand Logistics Business C3 from Brookfield",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzFtVEtCd3NGMzR2UVd2UUhZTGRrdEliNzJIOTBBVmpjc0o3YlBGZG42R2FqMHdGbG9mZTFUTmpaWTRnWExZZU5SOWh3R2VKb0RYRktUM244RllUNHZGNDJLUUcwM09aSHFyeUNZSUtlcjdXQ01YTDJRY1hnQTRLQXpiYTM3ZUFYRjNwR0ZVMFJ2YllQOWNjUEFjRkVzMDhzRnNGSGp2NmgtaDNscjJPai1oQ1habXVuSVVsRA?oc=5",
+   "source": "Machine Maker",
+   "published": "2026-10-13T06:52+00:00",
+   "added": "2026-10-14T15:13+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "acquire",
+    "logistics"
+   ],
+   "summary": "InfraRed Capital Partners to Acquire New Zealand Logistics Business C3 from Brookfield Machine Maker",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -16239,339 +16569,6 @@
    "summary": "Saudi Aramco has reportedly informed European oil refiners that it will supply them with all the crude oil they requested for November after the kingdom’s main cross-country pipeline returned to operation following attacks. At least three European refiners confirmed they will receive full allocations of crude oil from Saudi Arabia’s state oil company next month, Bloomberg news reporting citing people familiar with the matter. The return of supplies will help address a tight market in Europe after the disruption forced refiners to search for alternative sources. Last month, Aramco notified European refiners that they would receive no crude in October after an attack on the East-West pipeline. The situation prompted a rush to secure replacement cargoes. Orlen SA, the largest buyer of Saudi crude, issued more than ten tenders to purchase alternative barrels. Saudi Arabia typically exports an average of 700,000 to 800,000 barrels per day of crude to Europe, according to ship tracking data compiled by Bloomberg. Source: Investing.com",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
-  },
-  {
-   "id": "1612a650e5dd",
-   "title": "Pociski uderzyły w terminal lotniska w Rijadzie. Port zamknięty do niedzieli",
-   "original_title": "Pociski uderzyły w terminal lotniska w Rijadzie. Port zamknięty do niedzieli",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMHVnN0ZVbnNsc1FvZkVOYmo3VWRtel9tNkp6LU5wcnNKWDBRNFFkbFc5bHVLZXlzLWIyVnZ4d0xIZi1XdU1SakpjZndYODdCdDU2TDROWjdJR203bXhRTkp0bjUtdU9fRjdZLVBhWUNWZGt3Qmlyck5NN3dWRlpUT0JyclMtajM0YS1nR2RhVXhobWI3MzdDTjF0aWI3T1QwRG1pTVdZbGptSllwb2VBclBrUUlSOW8?oc=5",
-   "source": "Pasazer.com",
-   "published": "2026-10-10T20:03+00:00",
-   "added": "2026-10-10T21:52+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "terminal"
-   ],
-   "summary": "Pociski uderzyły w terminal lotniska w Rijadzie. Port zamknięty do niedzieli Pasazer.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "68701925fb7c",
-   "title": "Dutch Propose Law To Crack Down On Russian Shadow Fleet",
-   "original_title": "Dutch Propose Law To Crack Down On Russian Shadow Fleet",
-   "url": "https://gcaptain.com/dutch-propose-law-to-crack-down-on-russian-shadow-fleet/",
-   "source": "gCaptain",
-   "published": "2026-10-10T19:55+00:00",
-   "added": "2026-10-10T20:37+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Western Europe",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "fleet",
-    "law",
-    "russia",
-    "russian",
-    "shadow fleet"
-   ],
-   "summary": "An aerial view shows the oil tanker named Boracay (also called Pushpa), a vessel being investigated by French authorities and suspected of belonging to the so-called \"shadow fleet\" involved in the Russian oil trade, off the coast of the western France port of Saint-Nazaire, France, October 2, 2025. REUTERS/Stephane Mahe Oct 9, 2026 (Bloomberg) –The Dutch government proposed a legal change to crack down more effectively on Russia’s shadow fleet , prompting the Russian embassy to threaten its own retaliation. The Netherlands said the adjustments would allow it to more easily intercept such vessels, which are used to circumvent international sanctions and often sail without a flag. If the bill is passed, shadow fleet ships “sailing under a false flag in the Dutch Exclusive Economic Zone can be detained and required to proceed to an anchorage or port for further inspection,” according to a government press release Friday. pic.twitter.com/0sBzUr5nBe European nations are already on alert to potential Russian threats on its territory. Attacks on commercial vessels off the Black Sea’s western coast are also on the rise, with Russian drone strikes damaging multiple ships earlier this week. European naval forces have boarded another sanctioned tanker linked to Russia’s so-called “shadow fleet,” marking the latest enforcement action as the European Union ramps up pressure on vessels suspected of...",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "4d8dc53c4575",
-   "title": "India-EU Green Shipping Corridor",
-   "original_title": "India-EU Green Shipping Corridor",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12clZkUU15TXJBcWU3NUJCdV9VRldnQU9HbmoyZndXdkNhNDlNSy1DRjRPTXV2LTY1bC1ONERxejl6YWZwSFM4YVRTWUxhTExrTlNxeEdfTFdWcy13UzY2aWQxaVJ1OEE2Snc?oc=5",
-   "source": "ClearIAS",
-   "published": "2026-10-10T18:57+00:00",
-   "added": "2026-10-13T15:00+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "EU institutions",
-    "Asia"
-   ],
-   "tags": [
-    "eu ",
-    "shipping"
-   ],
-   "summary": "India-EU Green Shipping Corridor ClearIAS",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ae5c7a44f734",
-   "title": "Port w Świnoujściu trzeci w Polsce. Wzrost przeładunków o 7,2 proc.",
-   "original_title": "Port w Świnoujściu trzeci w Polsce. Wzrost przeładunków o 7,2 proc.",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jbjFDLXRmNm5TUkFUTmRBUDVka0hObzBRMEpTTWtFclJFNm56bk1MOWI4YzhtZ1dmZ0laNTJNN2kzS0ktaWpJdXJoM25DX2hRanh0UFVVX3kwVk5yU3MtOTU2VDZVSF9NekVmZlBJYjdaLTg?oc=5",
-   "source": "Portal Stoczniowy",
-   "published": "2026-10-10T16:59+00:00",
-   "added": "2026-10-10T17:10+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "przeladun"
-   ],
-   "summary": "Port w Świnoujściu trzeci w Polsce. Wzrost przeładunków o 7,2 proc. Portal Stoczniowy",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ac938b082f7a",
-   "title": "Reliable Shipping From China To Usa Services: Senghor Logistics Supports Electronics Brands Beyond CES",
-   "original_title": "Reliable Shipping From China To Usa Services: Senghor Logistics Supports Electronics Brands Beyond CES",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOLVRpRXZWd1lIeHhYQ1kxR0NmMGxmaUNJZGZvbUtURFRQcXZRUFBIVjdyRjdTdjBnRS1CdjdnTFRmNHU2NGkwTVJvSE5lcGFqRGJ4R0xnZGdHQkJpeGQyaGhhVUM1bUZyMEZNbDEwWTB1OEpJUmJsamtZZnY1NEdEYUFLaXlZQS1OS0RJMjhObGJvZVkzbkd6N1JEaldzdGNzTG41azBuOHJFRHhfSEV0bkthM0hENWpid0VpVGo3SmgyUDRGc0FJN0J2em5wcGtNV3RMY1JGUTFFekk?oc=5",
-   "source": "EIN News",
-   "published": "2026-10-10T16:55+00:00",
-   "added": "2026-10-11T12:20+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia",
-    "North America"
-   ],
-   "tags": [
-    "china",
-    "logistics",
-    "shipping"
-   ],
-   "summary": "Reliable Shipping From China To Usa Services: Senghor Logistics Supports Electronics Brands Beyond CES EIN News",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e3f35105dd14",
-   "title": "US licence for Russian diesel runs to April 2027, with election politics at stake",
-   "original_title": "US licence for Russian diesel runs to April 2027, with election politics at stake",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOC0wSDN6NTZLRS11OEdIbTlZT19uWWZLLWF6cHBWMGVDNm9vZ1VPQ0xGNjFuYlREMGNDbVdwQi1OLVpOUURFYXB0U0hNUklCVVlNV1B0bkdnTjI4TklydDNZaEhoSU5LUklaYy14UDdyemRwTHdERzh5dVk4Szg5SklqX3NzMHByVkxfWUhvNnpDRjVubGF2R1lpU3dWRENhX1k0Z1Q2eUR2ZEhzcmtHQ2xyeTnSAboBQVVfeXFMTVFLUzFiWVBzeG9EbmtCazNNSnFyVXphWTJHT2VSdlhZT3A1azlNdHAzN1llbDZaWTA1eDdXOHVQY1ZDZk9KdDVpbzJmbDBaZ3lyQ3RHUW5aVWFMMmplVVJZODNJUkRlal9qR2dkZFlYbHVDNEpBYUxtTC1KQ3AzQnlUYTJIb1NoUDdYMFJubFpMTzRNYTJiZndwNF9rZ3lkWFplVGFaN3FpcW1pRWtSMko1dFQ1bnFtbllB?oc=5",
-   "source": "BurgasMedia",
-   "published": "2026-10-10T16:32+00:00",
-   "added": "2026-10-11T20:39+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "mna",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "diesel",
-    "russia",
-    "russian",
-    "stake"
-   ],
-   "summary": "US licence for Russian diesel runs to April 2027, with election politics at stake BurgasMedia",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dc510ed5458f",
-   "title": "Crane Harbor Acquisition Corp. II Units (CRANU) Hold Steady at $10.31 as Blank-Check Units Trade in Tight Range - Up Down Ratio",
-   "original_title": "Crane Harbor Acquisition Corp. II Units (CRANU) Hold Steady at $10.31 as Blank-Check Units Trade in Tight Range - Up Down Ratio",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRzFzSU5vMnN3eTNLX1d3VEMyaFpzcDBmQjRxeE92aTdWWFRfLUljZ1puVjFlMVFPZ1VyNTJ5VV9JRUNsNndxcTc3ZVJiSjZvYUZMUHA0bEl4MV9UUTQxOUs1RldfTVhhM0dnYVNKbzJOTnhSZVJ6UUk5RDBUOVNGby1meXJ4Q3BuWi1MSGVqZEU2Q2tuaElYeHFaUWMtZXhpQ3NKSDVhV3RHS2JEZ0FrUEY4Y3d4SmlSeFI2QkZ6U2hHZ09NZXV4X3VVUnpqb0lfOWQwMHRtcXZYWC1iVU9tbzd3?oc=5",
-   "source": "https://www.siam.in/",
-   "published": "2026-10-10T16:30+00:00",
-   "added": "2026-10-14T03:30+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "equipment"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquisition",
-    "crane"
-   ],
-   "summary": "Crane Harbor Acquisition Corp. II Units (CRANU) Hold Steady at $10.31 as Blank-Check Units Trade in Tight Range - Up Down Ratio https://www.siam.in/",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cbcf9244126e",
-   "title": "Prices of Potassium and Urea in Brazil Moving in Opposite Directions",
-   "original_title": "Prices of Potassium and Urea in Brazil Moving in Opposite Directions",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMnQ0RGx6VVJtY0R5RXpBYjJfQ0hoQzQ2OTVWZFRaQkZhZWdlNURlcXd2OTdDdFhqNExmeUdmM1R1bEpkTVVyZTl2U2lHS2xMZnNrRXFLZ1FGY1ZabUdkWnJmX1ZPRW5sWERyWElTaHh6dWdmcFNEdDVfcEFzWDBSX0RvcEdWNmNOOWVCWTNtMHBIdnF2QWxNTWNySzh0QUFaSTlLZ2lJUlZCUl9Qdzl5cHdRTnpwNldfVWVPSGRxYw?oc=5",
-   "source": "Global Agriculture",
-   "published": "2026-10-10T15:49+00:00",
-   "added": "2026-10-10T16:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "prices",
-    "urea"
-   ],
-   "summary": "Prices of Potassium and Urea in Brazil Moving in Opposite Directions Global Agriculture",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9ae6f10bc48b",
-   "title": "Iran and Afghanistan are the only markets where Russian wheat has gained market share",
-   "original_title": "Iran and Afghanistan are the only markets where Russian wheat has gained market share",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN05yNi1tdlExSWZOTEZFUk02X01iMjZVc2ItTXdUa3Zlc2hxM0FOcXJJbzV2eHRzRE1uYk9YaUpDbGNYSDFDVUxseVA0NWJYNFhBSDBnWHE5UXRONEpSR1o2YXNFSVd6c3F4VzFIX2VzenVYUi1DREkyQXNHQkZ0N2pFaF9XaU5mdVEtazUwb1A1UzcxNHIwNnRkTjhOYnFOb0w4RTlZUmcxRUlSN1hoMEFtUzJwQmo2MXJsRDlR?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-10T15:44+00:00",
-   "added": "2026-10-10T15:54+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East"
-   ],
-   "tags": [
-    "russia",
-    "russian",
-    "wheat"
-   ],
-   "summary": "Iran and Afghanistan are the only markets where Russian wheat has gained market share UkrAgroConsult",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7bc704cb75b4",
-   "title": "Brazil Soybeans 7.3% Planted, Production 180.0 Million Tons",
-   "original_title": "Brazil Soybeans 7.3% Planted, Production 180.0 Million Tons",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaC02dEdBZXdyM0JmQUI3a3ZUUlBuNEhQdVFmVGllSnpSVzRZNDYtTUdsSVk0UEhSR1A4c2ZmR25TdDNwRE9lcmszdERuX1VPc25TNThpYzFvUDRRbU9ndlk3ZWxJc25LMWM3OFZvQnY5TmVuZFkwa015d3NWdTFCX3dpbVgyNXhQd0piQ3lsR2w2NEpGRHRraVRac1RwLTlxdGlQbGZlNncwZjYtWVlVSw?oc=5",
-   "source": "Global Agriculture",
-   "published": "2026-10-10T15:34+00:00",
-   "added": "2026-10-12T06:36+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "soybean"
-   ],
-   "summary": "Brazil Soybeans 7.3% Planted, Production 180.0 Million Tons Global Agriculture",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5e44d191962c",
-   "title": "Off Highway Electric Vehicle Market Forecast to 2035: Mining and Construction Electrification to Drive Growth",
-   "original_title": "Off Highway Electric Vehicle Market Forecast to 2035: Mining and Construction Electrification to Drive Growth",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWklnb2dtQk1BcVp0V2JQNUpwaDdFOHRzREtSekF3WWp0dHh6TmM2ZXlmenJuNXJ5NlducWZuV1pNM213TWtIczFvUUpQX2dNSHdmVUVDUWZ6Y1o4WDFHaG9hZmdKMGJvbWtSMi1CVktGb2RMRTNwMTRiLWRZRzd5LUN2aVNsZG9lSW1BeDdOVmN2d0M2MTRRWUFmdWYxS1RpM0t4c1A1c0ZzWHVLQ0dpejV0eVl2VDdUMXc0SU54OE1TbDBpbEpiYVB6NmVIdXRfYUZuVA?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-10T15:31+00:00",
-   "added": "2026-10-11T06:28+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "electrification"
-   ],
-   "summary": "Off Highway Electric Vehicle Market Forecast to 2035: Mining and Construction Electrification to Drive Growth IndexBox",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3ed459eb0802",
-   "title": "Russians again attack logistics company warehouses in Dnipropetrovsk region",
-   "original_title": "Russians again attack logistics company warehouses in Dnipropetrovsk region",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PNURXblp3WVVJWHlOekFDUkJYQ3AyRGwtY2MxVHVZQzkyV05MNGtjVGNvd3pybmxoWmVtRU1HR2w3bXBSdGtVTDFOeVBabkZYclh5TmRueExCeDFIUFZrbzZoVmM3UWFnaFE?oc=5",
-   "source": "mezha.net",
-   "published": "2026-10-10T14:21+00:00",
-   "added": "2026-10-11T20:57+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "attack",
-    "logistics",
-    "russia",
-    "russian",
-    "warehouse"
-   ],
-   "summary": "Russians again attack logistics company warehouses in Dnipropetrovsk region mezha.net",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
   }
  ]
 }
