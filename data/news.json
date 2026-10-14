@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T16:34+00:00",
+ "generated_at": "2026-10-14T17:11+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,61 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "835926e11bde",
+   "title": "Huawei unveils Intelligent RAIL 2.0 Solution at InnoTrans 2026",
+   "original_title": "Huawei unveils Intelligent RAIL 2.0 Solution at InnoTrans 2026",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjVKZDdZV0pwbENMTUgwa29xb1lKZW5fZXVpaEtlUEhvUlRuUTRpU0pTYllTNHZtalFtMzhLaUZYeElySVE2bFg3bkxzY0VhM0ZkZ3JscEF2aXdXc19VZW45NmZ2bER0RDBnOTFUUnV1SGlQRGN1WWVqc1NLR3pYT0hrZGxJaURNM1M1RndMQUp6NlVPT2cyNGVVQkNzRFd1MWNzOHRaVTdkZXNmVFZaM3B5ckhZelk0UUtkXzBkNnc?oc=5",
+   "source": "Railway Gazette International",
+   "published": "2026-10-14T16:15+00:00",
+   "added": "2026-10-14T17:11+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "Huawei unveils Intelligent RAIL 2.0 Solution at InnoTrans 2026 Railway Gazette International",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a06a3bf7d784",
+   "title": "U.S. Shipping Regulator Proposes $200,000 Fees on Spanish Ships Over Port Ban",
+   "original_title": "U.S. Shipping Regulator Proposes $200,000 Fees on Spanish Ships Over Port Ban",
+   "url": "https://gcaptain.com/u-s-shipping-regulator-proposes-200000-fees-on-spanish-ships-over-port-ban/",
+   "source": "gCaptain",
+   "published": "2026-10-14T15:56+00:00",
+   "added": "2026-10-14T17:11+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe",
+    "North America"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Shipping containers are seen at the port of Barcelona, Spain, October 3, 2024. REUTERS/Nacho Doce The U.S. Federal Maritime Commission (FMC) is proposing $200,000 fees on Spanish-flagged vessels entering American ports, along with restrictions on billions of dollars in Spanish imports, after concluding that Spain’s refusal to admit certain U.S.-flagged ships has created unfavorable conditions for American shipping. The proposed measures include a $200,000 fee each time a Spanish-flagged vessel enters a U.S. port from abroad, as well as potential restrictions on imports of Spanish cosmetics, oils and fats, ceramics, stone products, and sugar and confectionery. The dispute began in November 2024, when Spanish authorities refused port access to the U.S.-flagged Maersk Denver and Maersk Seletar , both operated by Maersk Line, Limited, over cargo connected to Israel. The regulator said the restrictions undermine the ability of U.S.-flagged ships to compete for cargo moving to and from Spain, while also affecting vessels that could be called upon to support U.S. The Commission has now narrowed its proposed vessel fee to $200,000 per voyage while identifying specific categories of Spanish goods that could face import restrictions. The FMC said the proposed penalties are intended to address shipping conditions created by Spain’s port restrictions, rather than the broader political dispute over the transportation of military cargo to Israel.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
   {
    "id": "e1155a1b0171",
    "title": "Rumuński port w Konstancy zostanie zmodernizowany. W planach inwestycja o wartości 100 mln euro",
@@ -182,6 +237,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "e7c8891556bb",
+   "title": "Containership Sinks as Hormuz Attacks Spiral Out of Control",
+   "original_title": "Containership Sinks as Hormuz Attacks Spiral Out of Control",
+   "url": "https://gcaptain.com/containership-sinks-as-hormuz-attacks-spiral-out-of-control/",
+   "source": "gCaptain",
+   "published": "2026-10-14T14:44+00:00",
+   "added": "2026-10-14T17:11+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "An image purportedly shows the Singapore-flagged container ship GFS PRIDE listing heavily and emitting thick black smoke following an attack in the Strait of Hormuz on October 13, 2026. The vessel subsequently sank, with all 21 crew members safely evacuated. The image has not been independently verified. A Singapore-flagged containership has sunk after being struck by a projectile in the Strait of Hormuz, as a widening series of attacks on merchant shipping raises fresh questions about U.S. As a result, the number of distinct ships involved in the latest attacks has not been fully established. The tally is subject to revision as additional incidents are verified, particularly given the growing number of reports emerging days after attacks occur. forces continue to facilitate commercial transits and oil shipments through Hormuz, the latest series of attacks shows that merchant vessels remain vulnerable even as Washington asserts control over the waterway. A growing number of empty supertankers have been turning away from the Persian Gulf as escalating Iranian attacks threaten a critical transfer hub for wartime oil shipments. Six commercial vessels were reported struck in and around the Strait of Hormuz on October 11, including five tankers and a container ship, as attacks on merchant shipping continue to...",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
    "id": "58d48da5859a",
    "title": "Elbląg szykuje się na większe statki. Port zyska nowe możliwości",
    "original_title": "Elbląg szykuje się na większe statki. Port zyska nowe możliwości",
@@ -233,6 +317,33 @@
    ],
    "summary": "TA Services acquires 2 Texas-based businesses Trucking Dive",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "05c9500a4b63",
+   "title": "Most Efficient Inland Port System Named",
+   "original_title": "Most Efficient Inland Port System Named",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX1NOaXZRWVh6T2YwNXJLTGNJLUIyOGM1QTNLejhaWkVHd0tXVmxleEdpanNPR1hhbkw5UU1kb3pfbm1WRTJwS0p6MXZlUFJ1eS1zUHFDdXpjM2pyb3BGclV5ck1uZXZNLTJjZDc0ZFM3TjdNVXdiMEE5R2dvR09ZMF9WeWxHdE5lcWtxZ0Vwd9IBjwFBVV95cUxOX1NOaXZRWVh6T2YwNXJLTGNJLUIyOGM1QTNLejhaWkVHd0tXVmxleEdpanNPR1hhbkw5UU1kb3pfbm1WRTJwS0p6MXZlUFJ1eS1zUHFDdXpjM2pyb3BGclV5ck1uZXZNLTJjZDc0ZFM3TjdNVXdiMEE5R2dvR09ZMF9WeWxHdE5lcWtxZ0Vwdw?oc=5",
+   "source": "Maritime Logistics News",
+   "published": "2026-10-14T14:25+00:00",
+   "added": "2026-10-14T17:11+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "logistics",
+    "port"
+   ],
+   "summary": "Most Efficient Inland Port System Named Maritime Logistics News",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -1292,6 +1403,31 @@
    "summary": "Forwarding powerhouse Kuehne + Nagel (K+N) is readying to disclose Q3 26 numbers next Thursday (22 October) and, to do so in style, is preparing the ground, internally spreading the mantra: “Our culture is second to none, our culture is really important in the company.” Those were some of the remarks today to the K+N crew by a motivated commander-in-chief Stefan Paul, according to Premium sources. (The boss felt relieved, it seemed, that rival DSV is still lagging in the league tables…)",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "da7fa5ed97b9",
+   "title": "Rio Tinto's iron ore sales rise in Q3 2026 as Simandou ramp-up advances",
+   "original_title": "Rio Tinto's iron ore sales rise in Q3 2026 as Simandou ramp-up advances",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNblM5YnhUMmo5Rk1xdzZ5Tm9tRW15dl9LN2kyR0FWU3FmMG5PN2NNQW1NLVNER3Rma1loRFBONS1xamtNR3VMOXpSbi1VSDlsS29XYVlkdkJyNWhCR0lMWHlwMUlsOEU1ZlZTNU9tbnVXbHp2QWs3R0UtYVJNRURrWE91a2Y3SHZlbjMxYkR5MEt0V2VxQ2FKUjJMcWxNejcxZ1hldmNOcGo2Nm5FTFVpVUI2UlNETkpTdldPUmpaUV9vRmxtcktNUkREWks?oc=5",
+   "source": "SteelOrbis",
+   "published": "2026-10-14T10:33+00:00",
+   "added": "2026-10-14T17:11+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "Rio Tinto's iron ore sales rise in Q3 2026 as Simandou ramp-up advances SteelOrbis",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "e2d6ca63024d",
@@ -8778,6 +8914,35 @@
    ],
    "summary": "Dinlanka Logistics acquires 11.11% stake in Ceylon Hotels Corporation Hiru News",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e3985b742979",
+   "title": "Wheat steadies after sell-off as Black Sea risks and Algerian tender lend support",
+   "original_title": "Wheat steadies after sell-off as Black Sea risks and Algerian tender lend support",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPek9PTkpoNWhfbEg1WUFSd0tCT1F2Njd4bGFVRHBxOThXTlZYSF9IODJmLThONlhzMnhMUFZPVmtPTk54SE9Md2FGY3MtbjdJUm1ydlFTVWZaU3Y0SUc1aUFfUDlrQnNzSnhzR09PN2Z6cFdWbk5aUDBjZU91d0QxMFltNTRQVGppVVJHQzAyTXZiWl9CRzFQajJuVU9ZcFp0R1BOV3kxaFd1dGliUUE?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-13T06:21+00:00",
+   "added": "2026-10-14T17:11+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "tender",
+    "wheat"
+   ],
+   "summary": "Wheat steadies after sell-off as Black Sea risks and Algerian tender lend support CMB News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16388,169 +16553,6 @@
    ],
    "summary": "UK adds 38 Russia sanctions designations targeting oil, finance and supply chains London Daily News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6deb28a9ae68",
-   "title": "Strikes in the Black Sea are increasing the cost of Bulgarian grain exports ᐉ News from Fakti.bg - Business",
-   "original_title": "Strikes in the Black Sea are increasing the cost of Bulgarian grain exports ᐉ News from Fakti.bg - Business",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcy1ZMnNEMlVsUHlWaHVyNXg1R05VRk9EdWpybWw3OXR3LVE1cVA3aEF6Z2ttX2JiSFpIc05aYWJFX3pmel9WVnBsM3dJcjNaemZNdElBR1djbkRkZDctRDVYTkZlMUVfTGRzelhCbE9aOXlHaS04SXkyODloQUFUTTk0ZkpCSlJFMmRjbElRMDltNF85S2ZFbDdtcmZDMWhRSW4yVlBMT1Jnd2lvT0RR?oc=5",
-   "source": "Fakti.bg",
-   "published": "2026-10-11T09:00+00:00",
-   "added": "2026-10-11T12:20+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "grain"
-   ],
-   "summary": "Strikes in the Black Sea are increasing the cost of Bulgarian grain exports ᐉ News from Fakti.bg - Business Fakti.bg",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b27519d83c1f",
-   "title": "“Even buying an old ship can still be profitable” ... Secondhand vessel prices jump 80% amid buying frenzy",
-   "original_title": "“Even buying an old ship can still be profitable” ... Secondhand vessel prices jump 80% amid buying frenzy",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80cG9FRVU3Zzhxc0dWVzhBMjkwVW5SQktTb3BWR0lta016YVY2S2MtbDlpYVJLa1RFMlBsdW8waTh6bDZQMFVmczkwZ1N4dE84S2Nj?oc=5",
-   "source": "매일경제",
-   "published": "2026-10-11T08:40+00:00",
-   "added": "2026-10-11T14:44+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "prices",
-    "vessel"
-   ],
-   "summary": "“Even buying an old ship can still be profitable” ... Secondhand vessel prices jump 80% amid buying frenzy 매일경제",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "782629709508",
-   "title": "Chile launches first works tender for $4.4bn San Antonio port expansion",
-   "original_title": "Chile launches first works tender for $4.4bn San Antonio port expansion",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmF5em91Z1BGOTZ1R0JDUjlCRjdMeFlXVmZNVnUzVkNNS1JmM0gwaVYwakI4UUhYYTB0NUt5RGNBZVFsNGxYd1drQ2NmY0NqZ3VvMDZMc0U4SVZGeWlMcEtsd3dRSWMwQkVCelJfeUppdUU2ZGJFQWVsVHZJQklnTmJ6WmthcDNJRXoxNmpYS29uZE1wLTJiZg?oc=5",
-   "source": "Splash247",
-   "published": "2026-10-11T08:08+00:00",
-   "added": "2026-10-11T08:16+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "port",
-    "tender"
-   ],
-   "summary": "Chile launches first works tender for $4.4bn San Antonio port expansion Splash247",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2cb0878153d4",
-   "title": "Trump’s diesel deal with Putin draws calls for EU resolve",
-   "original_title": "Trump’s diesel deal with Putin draws calls for EU resolve",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUFdaRFNlVnQ4dDlzWnV1T2ZZQlZMQ2xDUmhzVGlLN3dVaXN0MjFvUWl4Y3lwZG9QNEFCNkowcTJadkVBdFYtd3gweTMyTmRnRGVNYWFTazNnOHNWbGpwM3BiaTEyR0lrR01aeTc1SGxHR0c4RHE5LWZxMkJGRmFFRERYNU1Ba1RIR294cjlzd9IBjwFBVV95cUxQUFdaRFNlVnQ4dDlzWnV1T2ZZQlZMQ2xDUmhzVGlLN3dVaXN0MjFvUWl4Y3lwZG9QNEFCNkowcTJadkVBdFYtd3gweTMyTmRnRGVNYWFTazNnOHNWbGpwM3BiaTEyR0lrR01aeTc1SGxHR0c4RHE5LWZxMkJGRmFFRERYNU1Ba1RIR294cjlzdw?oc=5",
-   "source": "The Defence Blog",
-   "published": "2026-10-11T07:57+00:00",
-   "added": "2026-10-11T09:19+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "defence",
-    "diesel",
-    "eu "
-   ],
-   "summary": "Trump’s diesel deal with Putin draws calls for EU resolve The Defence Blog",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6afdeef7cc46",
-   "title": "Trump’s trade wars hurt US manufacturers ahead of midterms",
-   "original_title": "Trump’s trade wars hurt US manufacturers ahead of midterms",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVklBSWxtSUJNVVY5N3BUM1hTUERhUTEzOWJHVE9OWEY5ZGYyQk1pZGhFdko4eUdZYzZ2M2lfSWc2VG1uVXpVNng4VXpsWHIwWHRDcWJncVBjdHN4NDV0djNSX01aS1R5ZFkwUkxZcEgzRm5NRFdaOXE5X1cwMloxVWY5RkR0VnBMV1ZXek1zai1Lb0JkelhCOGtSUGdyYU5RWV9YUtIBqAFBVV95cUxPRDExdHZiSjJYVHdUWS1peE5aQ21lanB5VDdxSFBsRGVIVjFPRUpzNUN5Z25FUWdNSGtWb252TlFQQjB6cWVBY0ZWS2JqU2RybnpEZlBfVzFyVGI2aUQwUkI3Ql9vZTl1M3ZEXzNzUzU4Vk1GVGt5QU53aHNVMXFrVXkyenVxcGp1MFJ6UVlIWEJyMmRveE03Sl93UTBHY080Q0ZucHFUSWQ?oc=5",
-   "source": "Kuwait Times",
-   "published": "2026-10-11T07:29+00:00",
-   "added": "2026-10-11T10:20+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "trade war",
-    "war"
-   ],
-   "summary": "Trump’s trade wars hurt US manufacturers ahead of midterms Kuwait Times",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4785878fb544",
-   "title": "Major Ports in India, List, Map, Initiatives, UPSC Notes",
-   "original_title": "Major Ports in India, List, Map, Initiatives, UPSC Notes",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01ZHE3SFJyZEVZeG9Kc19ObG55MnVULW5fS2JtV0xuUUJqdnFCeDRYLXNEZ2tLVEFWWWtnLTd4SHNzYm9QeTdqcWZnQ0pxUlMwdnBjdVVlNFUtQWJxOHFPWWxIZW1ReVFHa2c?oc=5",
-   "source": "Vajiram & Ravi",
-   "published": "2026-10-11T07:25+00:00",
-   "added": "2026-10-13T11:43+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Major Ports in India, List, Map, Initiatives, UPSC Notes Vajiram & Ravi",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
