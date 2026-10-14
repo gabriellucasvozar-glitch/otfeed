@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T12:05+00:00",
+ "generated_at": "2026-10-14T12:47+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,36 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "181bfb2438c3",
+   "title": "Gulf conflict upsets networks – and fleet size – of biggest feeder operators",
+   "original_title": "Gulf conflict upsets networks – and fleet size – of biggest feeder operators",
+   "url": "https://theloadstar.com/gulf-conflict-upsets-networks-and-fleet-size-of-biggest-feeder-operators/",
+   "source": "The Loadstar",
+   "published": "2026-10-14T12:26+00:00",
+   "added": "2026-10-14T12:47+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "fleet",
+    "hormuz",
+    "port",
+    "ports"
+   ],
+   "summary": "The US-Iran conflict and subsequent closure of the Hormuz Straits have upended the networks, and fleet deployment strategies, of the world’s three largest common feeder operators – and seen AD Ports’ Global Feeder Services significantly close the gap on the market leaders. According to new analysis from Alphaliner, the Middle East conflict, now in its eighth month, has forced the two largest operators, X-Press Feeders and DP Worldm to reduce their offered capacity as the closure of Gulf routes curtailed their networks. “X-Press Feeders remains the world’s largest feeder operator by deployed capacity, although its fleet has contracted by 7.1% year on year, as per Alphaliner’s survey on 21 September,” the analyst writes this week. “Fallout from the Middle East conflict forced X-Press to make service cuts across the region, which is the main reason for the decline.” As a result, X-Press Feeders’ global capacity is now 182,776 teu, down 13,987 teu from September 2025, with its capacity serving the Middle East region down 34.2% – equivalent to 38,000 teu – which Alphaliner linked to service suspension in the wake of the conflict.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
   {
    "id": "3512269beb4e",
    "title": "AI shippers still looking for capacity risk sharp airfreight peak squeeze",
@@ -38,6 +68,61 @@
    "summary": "AI infrastructure shippers, still seeking peak-season capacity, could push air freight rates sharply higher, as demand for servers, chips, and data centre equipment adds pressure to an already firm market. According to TAC Index, sources have reported that ecommerce customers and other major shippers with product launches had secured peak-capacity, while some AI hyperscalers had yet to book their space. The warning comes despite a Golden Week dip in TAC’s global Baltic Air Freight Index, which fell 2.1% in the seven days to 12 October, leaving it 24.3% above a year earlier. Cathay Cargo’s Hong Kong-origin long-haul fuel surcharge rose almost 26%, from HK$11.20 to HK$14.10 (US$1.42-$1.79) per kg, for the first half of October. DHL Air UK’s equivalent charge increased 4.1% week on week, to HK$12.80 per kg for 12–18 October, although it remained below its late-September level. Japan Airlines will raise its fuel surcharge on domestic exports bound for the Americas and Europe from ¥185 ($1.16) to ¥192 per kg on 16 October, an increase of 3.8%. Its medium-haul and short-haul Asian surcharges will rise by around 4%. The impact on individual operators will depend on their fuel exposure and ability to recover costs, but the combination adds another pricing risk for shippers seeking remaining peak-season space.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "7456ca7cd3dd",
+   "title": "Baltic Dry Index falls to 2667 down 134 points",
+   "original_title": "Baltic Dry Index falls to 2667 down 134 points",
+   "url": "https://www.hellenicshippingnews.com/baltic-dry-index-falls-to-2667-down-134-points/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-14T12:00+00:00",
+   "added": "2026-10-14T12:47+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 14,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "coal",
+    "grain",
+    "iron ore",
+    "prices"
+   ],
+   "summary": "Today, Wednesday, October 14 2026, the Baltic Dry Index decreased by 134 points, reaching 2667 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore. The index is based on a daily survey of agents all over the world. Baltic Dry hit a temporary peak on May 20, 2008, when the index hit 11,793. The lowest level ever reached was on Wednesday the 10th of February 2016, when the index dropped to 290 points.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "a053e7df0032",
+   "title": "Changhua invests NT$1.4 billion in fishing port expansion",
+   "original_title": "Changhua invests NT$1.4 billion in fishing port expansion",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82cTFJVmZvMWhRLUhWbXY0UlhTVGM3WTVaQzNGZGp1ZVBNaktpZjNUXzdyOFlZMUxleWZ6eEpMT1FIeGdTb054Z3MwYU5sNklBbGloZEtnc3c?oc=5",
+   "source": "Taiwan News",
+   "published": "2026-10-14T11:48+00:00",
+   "added": "2026-10-14T12:47+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Changhua invests NT$1.4 billion in fishing port expansion Taiwan News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "e80c3b3a70e1",
@@ -674,6 +759,35 @@
    ],
    "summary": "An ammonia cargo has sailed through the Strait of Hormuz for the first time since July, according to S&P Global Commodities at Sea(opens in a new tab) data. The 25,000 mt Gas Aqua loaded at Ras al Khair in the Persian Gulf over Oct. 3-6, and arrived at Fujairah in the Gulf of Oman Oct. 9, according to CAS data. The ship then transferred its full ammonia cargo to the 25,000 mt Searambler in Oman over Oct. 11-12. The shipment is significant as it is the first time a non-Iranian-linked vessel has sailed into the Persian Gulf to load ammonia since the US/Israel war with Iran started in February. It is also the first ammonia shipment through the Strait of Hormuz since an Iranian cargo exited in July. Only three non-Iranian cargoes have sailed through the Strait since the outbreak of the war in the Middle East – two loaded in Saudi Arabia and one in Qatar.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "1dd88b03fb65",
+   "title": "Russian diesel imports unlikely to ease US fuel prices",
+   "original_title": "Russian diesel imports unlikely to ease US fuel prices",
+   "url": "https://www.hellenicshippingnews.com/russian-diesel-imports-unlikely-to-ease-us-fuel-prices/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-14T10:00+00:00",
+   "added": "2026-10-14T12:47+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "prices",
+    "russia",
+    "russian"
+   ],
+   "summary": "US authorization to import Russian diesel is unlikely to have a material impact on diesel prices in the near term because Russia has little capacity to boost exports, and the US license could also face legal hurdles, energy analysts say. “The amount of diesel Russia can provide would be a drop in the bucket compared to global demand,” said Masha Kotkin, a fellow at the Center for Strategic and International Studies. “If you are asking about US diesel prices, I don’t think it’s going to make a difference. 9 that “Russia will immediately supply over 300,000 Tons of Diesel Fuel to the American and Global Marketplace, another 500,000 Tons during the month of November, and 1,000,000 Tons immediately thereafter.” The US Treasury Department also issued a sanctions waiver allowing the sale, delivery, and importation of diesel fuel, including importation into the US, until April 7, 2027. Legal concerns US lawmakers have raised concerns about the legality of importing Russian diesel to the US. “President Trump’s decision to allow Russian diesel imports to the US runs directly counter to that law.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
   },
   {
@@ -2828,6 +2942,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "a3783d341e20",
+   "title": "Lawmakers Argue Trump's Russia Diesel Deal 'Violates' the Law. Here's What Legal Experts Say",
+   "original_title": "Lawmakers Argue Trump's Russia Diesel Deal 'Violates' the Law. Here's What Legal Experts Say",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjJDOFZveTZzQWowY0ZmNlJFS01kbHpZY3BlVkREdGltal9HakF4Rk8tZkJGVWxGVGtGdlE3RkFCMGQzSkp3Tjk4Y0traUdTRlVRbk5rZlNUTzJNZkp0djFOemY4cmtMN3VJTlQ0TWtRdzBjN0lEb2k5RnFVV2NBSldUUHllaG1aRjFfTTNYcVJtdVVhX2RPaVVhTW5VMFdoQ3BXSUxOSQ?oc=5",
+   "source": "Time Magazine",
+   "published": "2026-10-13T21:22+00:00",
+   "added": "2026-10-14T12:47+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "law",
+    "russia"
+   ],
+   "summary": "Lawmakers Argue Trump's Russia Diesel Deal 'Violates' the Law. Here's What Legal Experts Say Time Magazine",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "c4fabdbe8a9f",
    "title": "3 Stocks Riding Mexico Nearshoring and Export Growth",
    "original_title": "3 Stocks Riding Mexico Nearshoring and Export Growth",
@@ -4491,6 +4634,33 @@
    ],
    "summary": "Port of Aalborg selects supplier for shore power and BESS WorldCargo News",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c7a34fda7b0a",
+   "title": "Baltic Dry Index Hits A Two-Month Low As Capesize Rates Slide",
+   "original_title": "Baltic Dry Index Hits A Two-Month Low As Capesize Rates Slide",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnJJRFpQUjY3NjVxYUNtdVo4VG1iTzhDU3pVVEc5UFF6UXBXWTZKQmN1MWstVW1HdDFQajhfeHZEanhHUF9YbHZKdDRkTkFBcEl6dmRlVGkyZUdCdHZCdm50NG1GdTdaenhvOEc2TDdlVzVUR0p1VUtOMTNlRDd3ZW5VY2hmLWR6MGtOblhJWVNSUGIy?oc=5",
+   "source": "Finimize",
+   "published": "2026-10-13T13:37+00:00",
+   "added": "2026-10-14T12:47+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "capesize"
+   ],
+   "summary": "Baltic Dry Index Hits A Two-Month Low As Capesize Rates Slide Finimize",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -10405,6 +10575,32 @@
     "cargo handling"
    ],
    "summary": "Cargo Handling Equipment Market to Reach USD 44.25 Billion openPR.com",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "203208f30d5d",
+   "title": "TNPA, Freeport Saldanha sign 25-year lease for 55-hectare port precinct",
+   "original_title": "TNPA, Freeport Saldanha sign 25-year lease for 55-hectare port precinct",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLVpEWHA0Tm12WGVHdGtjUzFsUGRydV9tMjZtVldPSDZUc29naC1vQnNTV2laMTVkQ2hEUWF5SDNXQXkyM0ZwbmYzVXhJV3FOTUpiTVVTYWlna2VVLURad1ByUEZ3SlltSlQ3QWpINVNLQWM4VDlIdXQ0bGRxcUxlSkRNa2V4dlRaRTAwc0ZiZzMzdjU4MUFORnc4QWswbFQ2T3JCY3FB?oc=5",
+   "source": "Food Business Middle East & Africa",
+   "published": "2026-10-12T11:47+00:00",
+   "added": "2026-10-14T12:47+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East",
+    "Africa"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "TNPA, Freeport Saldanha sign 25-year lease for 55-hectare port precinct Food Business Middle East & Africa",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -16383,202 +16579,6 @@
    ],
    "summary": "Thermal Coal Prices 2026: Asia Energy Security & Outlook Grand View Research",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "df33cf66f345",
-   "title": "Two new cranes arrive at Port of Southampton",
-   "original_title": "Two new cranes arrive at Port of Southampton",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaDAzUU9veGhFOThoYkYzdnFaeXFQREJGTmJPazN0OTJVWmhTYnotOHNEemI4YnU3akxwWkJBc1hBUTFCSEV0T1pheVNYcFQ3Y0R5ZFVZdThiWmlKT3l3UzVtVFU0ek01cHpNRHJneGxOV01kU2pIQnNIdVg2c25law?oc=5",
-   "source": "Yahoo News UK",
-   "published": "2026-10-10T02:30+00:00",
-   "added": "2026-10-10T04:01+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "port"
-   ],
-   "summary": "Two new cranes arrive at Port of Southampton Yahoo News UK",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "71d626d2fc42",
-   "title": "Asia’s ports emerge as key gateways to US$1.4tn maritime transition",
-   "original_title": "Asia’s ports emerge as key gateways to US$1.4tn maritime transition",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05LU95Y1gtVWJpU3k0UHREcXQ1VHlwN2FFSE1tMTNJbnpVWGtaZEt2TWRXM0VpY2RBQnJORGVXTzhfS0k0aURnOEhZRkNRcjltQnVFbXR6N3J5WFc4TDJPdzRWY3dhMDQ?oc=5",
-   "source": "Nation Thailand",
-   "published": "2026-10-10T02:23+00:00",
-   "added": "2026-10-10T03:00+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Asia’s ports emerge as key gateways to US$1.4tn maritime transition Nation Thailand",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c730498211ec",
-   "title": "US ports strengthening trade ties with China",
-   "original_title": "US ports strengthening trade ties with China",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fTjZackdQMjhOcEc1VzlYdVNkTVlUNUVHLTZYQlVjdEF3RVRWbkNzUDJVUkRkYllJdlE1MzBYRThCWVduLXdjc3FHX0lMNGc4VVJWYV8zcU1yRUVJNjdRckhKVEpmZGIxNXQ4MFlMRUtlcEF3cElCaDRFSmxRZw?oc=5",
-   "source": "China Daily",
-   "published": "2026-10-10T02:17+00:00",
-   "added": "2026-10-10T03:22+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia",
-    "North America"
-   ],
-   "tags": [
-    "china",
-    "port",
-    "ports"
-   ],
-   "summary": "US ports strengthening trade ties with China China Daily",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6b66259ab45e",
-   "title": "Trump says he has deal for Russian diesel as Treasury eases sanctions",
-   "original_title": "Trump says he has deal for Russian diesel as Treasury eases sanctions",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQenE3WG5jNGhhNVFRLXNkVEwyNHQ5Y09BcTlkSGlyTm9IOUdTQ2kybTNfQ1NvT0xOa3pMeFZCYmNjbVg5a1dsU2RPbUt1cGFjTEdyWVZaXzg3Z3k3YzRZVDMtamlqS2pKblFtcVk3M1YybTNyV0d3cW1qWHd1ZWJwSkVQVlJOLXJHQjBzYzhoMlJSMm5hV2ZEY3ZUaVo2NGdDT1JuSjNHSFDSAagBQVVfeXFMUHpxN1huYzRoYTVRUS1zZFRMMjR0OWNPQXE5ZEhpck5vSDlHU0NpMm0zX0NTb09MTmt6THhWQmJjY21YOWtXbFNkT21LdXBhY0xHcllWWl84N2d5N2M0WVQzLWppaktqSm5RbXFZNzNWMm0zcldHd3Ftalh3dWVicEpFUFZSTi1yR0Iwc2M4aDJSUjJuYVdmRGN2VGlaNjRnQ09SbkozR0hQ?oc=5",
-   "source": "Breitbart News",
-   "published": "2026-10-10T01:21+00:00",
-   "added": "2026-10-10T04:46+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "diesel",
-    "russia",
-    "russian",
-    "sanction"
-   ],
-   "summary": "Trump says he has deal for Russian diesel as Treasury eases sanctions Breitbart News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "13bdfaa6140e",
-   "title": "DP World Wins 15-Year Chittagong Port Terminal Concession - News and Statistics",
-   "original_title": "DP World Wins 15-Year Chittagong Port Terminal Concession - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPXzBfb0xSV2gzTnFocXlDd2s4aVFfVVFSSXZ2NEhtS0xKLXJtbVpoZ0p4MFlvLU1VY3Yydl9abUE5eU5LTndWci01OGk3SVUxR0xpX0xVNklJRm5uem9hUnRBYm5Vd1pndk1UY3JGZ0F5bHdyOHctS0VBYnFFYmZXbnN1b3c4WmRMc2Q4SHZFMk0xQk1kcGtGZ2kxTHNRM0laNlgyYmhWREQwWEZGVkJEQlVXcFFVbjMt?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-10T00:31+00:00",
-   "added": "2026-10-13T14:34+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "mna"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "concession",
-    "port",
-    "terminal"
-   ],
-   "summary": "DP World Wins 15-Year Chittagong Port Terminal Concession - News and Statistics IndexBox",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4041c53c6594",
-   "title": "Brazil unveils $4.1bn port concession programme and $858m infrastructure financing",
-   "original_title": "Brazil unveils $4.1bn port concession programme and $858m infrastructure financing",
-   "url": "https://splash247.com/brazil-unveils-4-1bn-port-concession-programme-and-858m-infrastructure-financing/",
-   "source": "Splash247",
-   "published": "2026-10-09T23:25+00:00",
-   "added": "2026-10-09T23:25+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "mna",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "concession",
-    "ministry",
-    "port",
-    "ports",
-    "terminal"
-   ],
-   "summary": "Brazil is preparing a major expansion of private investment in its ports, outlining a $4.1bn concession programme alongside new infrastructure financing opportunities and proposed regulatory changes designed to accelerate terminal development. The Ministry of Ports and Airports plans to auction 34 port concessions between 2027 and 2030, representing an estimated R$20.6bn ($4.1bn) in private investment. Among the largest projects is the Santos 10 container terminal, with estimated investment of $1.29bn. The government also plans to issue 70 authorisations for privately developed port facilities, representing a further potential $6.6bn in investment. Separately, Brazil’s Merchant Marine Fund has granted financing priority to three port infrastructure projects worth a combined R$4.28bn ($858m). The largest is the Terminal Mar Azul project at São Francisco do Sul, in Santa Catarina, with planned investment of approximately $381m in facilities for steel products and fertilisers. Another $252m has been earmarked for the concession covering the access channel to the Port of Paranaguá, while Hanseatic Global Terminals’ proposed container and general cargo terminal at Aracruz accounts for approximately $224m. A public consultation has been opened on proposed amendments to regulations governing port terminal leases, including changes that could make it easier for operators to expand facilities, replace equipment and undertake new investments.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a477d37f2dda",
-   "title": "Saldanha port lease opens door to $418m investment pipeline",
-   "original_title": "Saldanha port lease opens door to $418m investment pipeline",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWV6NUx2TlYwU2ZPVjJJUFZteFBfWHIweEdwN0hDRHQ5WnczeUZGTDBtWmFrRTNOZ25fX2hubUozX2ZzOUpTZHViUndlSkI4MUUxOFJrbTFRY1dONHVsS0Nxc0JSR0JudkZuOHhIWGI5cUxZYUVSSmhzYkR5ZkliRVJJeHBxV21B?oc=5",
-   "source": "Splash 24/7",
-   "published": "2026-10-09T23:17+00:00",
-   "added": "2026-10-10T08:49+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Saldanha port lease opens door to $418m investment pipeline Splash 24/7",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
