@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T13:23+00:00",
+ "generated_at": "2026-10-14T14:03+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "9220e2da7e7d",
+   "title": "TNPA signs 25-year lease for Saldanha industrial growth",
+   "original_title": "TNPA signs 25-year lease for Saldanha industrial growth",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUU9lYWVFSzlIeGQ4OUtRbzNJOGdWZ0lnaDRoQm9RTk1pV1FBQ3Z0aXhsT0d0WFV4TjJwSWRCaDQ1bzVXbUpZZ0dxSjQ3VVIyUk1MZTVIWUFXR3RPeUFicVQ3MHY2ajNFQ3NCTUJvLU0yLWR0QVVHQlA1Q2FhUFV6clMyY2lJOGFCT0ZNOXpTejVuQ2FIWGFORV9GangwZFA0TF8yeldHOG5BTFl2MnBTLVVB?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-14T13:20+00:00",
+   "added": "2026-10-14T14:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "TNPA signs 25-year lease for Saldanha industrial growth Port Technology",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "7c932d394108",
    "title": "Cyber-crime group hits 38 shipping and port groups with data leak threat",
@@ -45,6 +70,31 @@
    "summary_method": "extract"
   },
   {
+   "id": "d3ca4b31dfa6",
+   "title": "Everllence Wins First PARSYN Order for India’s Green Ammonia Push",
+   "original_title": "Everllence Wins First PARSYN Order for India’s Green Ammonia Push",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdi1GSlRQWWlUZno5TlYwZnBjTzlJYzFyWEoxQ3hvX3FlOFRwY2VTRjJ2RWxFZ3plVFBTTmNrWExxZTRqUlR0NmZQeWZwbXVlMExTcnd0eFZfVmpwSEY4NmxxVDNJdXRHbXBfM2NZT195MG9hMURRNTFGSUZOQVIxQmJ5SkZ0RXJ2aWdMQlhDQTNzUFhqeWZrbFlwOTJqdms4ZEM5VlZ4NUtMd3U0N0RvRzJUeTNZTzJrR3c?oc=5",
+   "source": "ChemAnalyst",
+   "published": "2026-10-14T13:10+00:00",
+   "added": "2026-10-14T14:03+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "ammonia"
+   ],
+   "summary": "Everllence Wins First PARSYN Order for India’s Green Ammonia Push ChemAnalyst",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "042e200be84e",
    "title": "Hormuz Fertilizer Crisis Threatens Global Food Supplies and U.S. Farm Costs",
    "original_title": "Hormuz Fertilizer Crisis Threatens Global Food Supplies and U.S. Farm Costs",
@@ -72,6 +122,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "b296deb6882f",
+   "title": "Kazakhstan seeks Belgium partnership to boost Middle Corridor trade",
+   "original_title": "Kazakhstan seeks Belgium partnership to boost Middle Corridor trade",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaGUzdnd6dnBvVkwyY0VLV2pMVkl0UEpGOWRYRGZVN29MSzVGWTQyZ241RzFzS1E1WlBPOFAxcHU4V0FUS3duTk9QX3dwbHZKMmdUUjA5NGdodXhhWS1wOEJWbHFqRTFNTFRxeVVORTEyblBFcWxGRkVQYTVMWG1QR1lDYXNQV010aHRmTU1Zdng0SmF1VERFWl94NnVKQklyTjF6dzYyTnN0TEMyUklwcFl1R3Q?oc=5",
+   "source": "Euronews.com",
+   "published": "2026-10-14T12:59+00:00",
+   "added": "2026-10-14T14:03+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "Kazakhstan seeks Belgium partnership to boost Middle Corridor trade Euronews.com",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "1a8670fc5164",
    "title": "CPK utknął w procedurach. Budowa fundamentów terminala po raz kolejny się przesuwa",
    "original_title": "CPK utknął w procedurach. Budowa fundamentów terminala po raz kolejny się przesuwa",
@@ -94,6 +170,35 @@
    ],
    "summary": "CPK utknął w procedurach. Budowa fundamentów terminala po raz kolejny się przesuwa Gazeta Prawna",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3ab2f8eb26cd",
+   "title": "World’s First Ammonia-Powered Dry Bulk Carrier Sets Sail On Its Maiden Voyage To Australia",
+   "original_title": "World’s First Ammonia-Powered Dry Bulk Carrier Sets Sail On Its Maiden Voyage To Australia",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY3o1ZGNvU3laWHh5czBmZG5BaHJaa1NwYzhsUi1DcEQyeTdSMTA5ZDZyZVNTa2o3RzlMaTVBS1BwNlJ3aEVTUTNGUlR0UmxCZGhrYk9ENnpqVl9iLUZ1cFR6UV8yYzd6N0VSakpRSTNkOGF4bmJXSzRjSkhHWnVVTDdBZlhrMjJaNkJDcW5LQzY4Y1Jxdng5d0dpNEp6NHV5ekx2eVhGMWZoSjRfNEtPMEx6NTJmUDVMMXFTRg?oc=5",
+   "source": "Marine Insight",
+   "published": "2026-10-14T12:29+00:00",
+   "added": "2026-10-14T14:03+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "ammonia",
+    "bulk carrier",
+    "carrier",
+    "dry bulk"
+   ],
+   "summary": "World’s First Ammonia-Powered Dry Bulk Carrier Sets Sail On Its Maiden Voyage To Australia Marine Insight",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -2943,6 +3048,32 @@
    ],
    "summary": "Will Monadelphous Benefit From a Firmer Iron Ore Tape (ASX:MND)? Kalkine Media",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ceb3e9d8574f",
+   "title": "Two New Berths and Mustin Yard Planned in $837 Million South Philly Port Expansion",
+   "original_title": "Two New Berths and Mustin Yard Planned in $837 Million South Philly Port Expansion",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWV2dFZGOXNXbGk3YWJqTXNCYXVrdXVIR1UwaTFNNkdnS3JOUnVobU4zUnZCU1NPUjk5b3hUdnJRcXZBTUVKUDFUalVsaW5OQ3cwWlp1WXFRY1dIZWxod3RzaFJtU0htMEVIbzlsUUtTZnJLWU4ydHlDODhkS0RBMzV5cGl6cnRqTXRtMS1MYTlWU0ZINDhhX3IxODgyX3pleHRsZGhURl9HYjE0T2NrdzJnOA?oc=5",
+   "source": "South Philly Review",
+   "published": "2026-10-14T01:29+00:00",
+   "added": "2026-10-14T14:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "berth",
+    "port"
+   ],
+   "summary": "Two New Berths and Mustin Yard Planned in $837 Million South Philly Port Expansion South Philly Review",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16438,136 +16569,6 @@
     "wyniki"
    ],
    "summary": "Port poprawia wyniki. Ile z tego wzrostu zostaje w Świnoujściu? swinoujskie.info",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0e1cbcb1d754",
-   "title": "Modi to Launch Transport, Port and Research Projects in Chennai",
-   "original_title": "Modi to Launch Transport, Port and Research Projects in Chennai",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZTdLajFzM1dPNl9UdjNnQmRzb0ZaeUdCRVBvbDM2alRlZWN3V3FUOVdIaXdsVTExZjdjcjZHSHYwODJZT0FjcFU4bnlUNGZ6TWVKNHZ5T3dOMkhJTzhLLWNvTWdoejM5Y2dJRUxKYVk0dWZ1T0wyMTNQaGQ0dWd0SzZONjNiYlRvZFR3bnpmWGs?oc=5",
-   "source": "OpenGov Asia",
-   "published": "2026-10-10T09:27+00:00",
-   "added": "2026-10-10T14:19+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Modi to Launch Transport, Port and Research Projects in Chennai OpenGov Asia",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0ed673dc8152",
-   "title": "EU Targets €12 Billion Investment to Expand Middle Corridor",
-   "original_title": "EU Targets €12 Billion Investment to Expand Middle Corridor",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3RZVlFvMmdJZGRoSGtjdC1YSW5fRktQYk9wY0tnQkNKY0NaZUlqUDFsTDMzT0xlWXJITHFCVTBHS0J5SXZIY1ZUMTFjMEc2NkMwTmZCdUZYaFRRbEtndk5DTnhOYTMyMzZtUTV0ZnNtQjFsZU9FRlJHRlRtWVJzZktMaThXQm5JaWt5dQ?oc=5",
-   "source": "Georgia Today",
-   "published": "2026-10-10T09:01+00:00",
-   "added": "2026-10-10T12:44+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Ukraine & Black Sea",
-    "EU institutions",
-    "Asia"
-   ],
-   "tags": [
-    "eu ",
-    "middle corridor"
-   ],
-   "summary": "EU Targets €12 Billion Investment to Expand Middle Corridor Georgia Today",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "85c9cd8c0d60",
-   "title": "Montreal sets schedule for Contrecœur quay piling",
-   "original_title": "Montreal sets schedule for Contrecœur quay piling",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0JrQTdhYmpMZWw0TWttdFZBM3BkMTItRHJNMU5JcXRYcFZaNXgtZGtJcE1BeTdZaGNBZGFNaVUxaUdOTzJ4am1Mc19DaUZDUXl5RWhSVmlHVHJicVkxVzRSNHg4cGFDVFhXWFp3V3VKY1EzdjRTMXhXNXNzUm5iZlRmS1A5UW9VVTFJSlVqSEpJQjFBQlJZMU92YTMzSnFNMmxIVTVLZw?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-10T09:00+00:00",
-   "added": "2026-10-12T09:49+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "quay"
-   ],
-   "summary": "Montreal sets schedule for Contrecœur quay piling Port Technology",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "55332fcc201c",
-   "title": "Terminal na lotnisku w Goleniowie: drugie podejście i pierwsza oferta w budżecie",
-   "original_title": "Terminal na lotnisku w Goleniowie: drugie podejście i pierwsza oferta w budżecie",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDhYaWNNU2tfUTRhdXhSUEd0R25IM0xCdm9TWlJ6dlR5dFRMY2dtZ0Z1ODc1OFNhMVZ6RDd4eUVTeWI0Uk1OaDV0M1dhY0NqYzNKaDRXZkJGU01YTTZmT2Nha2RZS3FWSldrQkFwSFZDTXNOX0pEaFdtWkhhdGdFY29BR1F2dnBONHBKdmxmaU9wQmVBWmlTV2VxRGdkeEh1bGpPWGxIbURObVNGZE92TA?oc=5",
-   "source": "Gryfino Głos Miasta",
-   "published": "2026-10-10T09:00+00:00",
-   "added": "2026-10-12T11:48+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Terminal na lotnisku w Goleniowie: drugie podejście i pierwsza oferta w budżecie Gryfino Głos Miasta",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f80234fe82e1",
-   "title": "Jan De Nul's mega TSHD Vasco da Gama raises the bar at Port Hedland",
-   "original_title": "Jan De Nul's mega TSHD Vasco da Gama raises the bar at Port Hedland",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX3A3MTk4dWZkMVB1YlJpMnZva2xjX3BrLXBuSndtNVhZakZsUWJVYU9jdzhPQlZWRHdsYzhLTi1GRDQ2MjExMmVLdm5iQnVha2M0RENvZzROaHhGVlNWMnRCc2V3V3lOVHJpMFhHUnA0aDU2VUN6a0w1Y0hucGJ4TjVzOWY0WDBOU0g2RHY4ZVFRLVNwcUJaLTlncWJhTUNtd2xQOEN1UWM4c3M?oc=5",
-   "source": "DredgingToday",
-   "published": "2026-10-10T08:40+00:00",
-   "added": "2026-10-10T14:56+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "dredging",
-    "port"
-   ],
-   "summary": "Jan De Nul's mega TSHD Vasco da Gama raises the bar at Port Hedland DredgingToday",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
