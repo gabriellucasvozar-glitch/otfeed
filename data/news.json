@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T04:43+00:00",
+ "generated_at": "2026-10-14T05:14+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,93 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "c4dff1551049",
+   "title": "SGX Iron Ore at USD 90.72: What Does the Latest Decline Mean for Australia's Pilbara Miners and Export Revenues?",
+   "original_title": "SGX Iron Ore at USD 90.72: What Does the Latest Decline Mean for Australia's Pilbara Miners and Export Revenues?",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeERKckxqX09JSkRZeFRNNnMyTWZXTlB0bzl0WXNtYWVSem94aG1NVmhHUzhEcWZrY2hQbTJiZ29BQnRtdVhBQ1Y5ZFpoTVA3X1Q5M2lBUjJiTno4dDBBYVlsMWtFbkdmZjJxR0xMWE01OTc0cGhxZE9qaTFIMDlGOUdmWkVNYVZKMW9wZ2Jua0k3cUNXYndJaEFMbTJ4U3BqUFFGMXpCcHBHVElUZ2pyTlZMX0JvTnRaTXdYckg3M2VaTWRBdkNxZW0wbTNfOWpuRXBYRmhpX0dhNVVRc3lwQ1FhSXA?oc=5",
+   "source": "Kalkine",
+   "published": "2026-10-14T04:45+00:00",
+   "added": "2026-10-14T05:14+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "SGX Iron Ore at USD 90.72: What Does the Latest Decline Mean for Australia's Pilbara Miners and Export Revenues? Kalkine",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5e6037e09347",
+   "title": "Middle East Diesel Exports Plunge 52%: Persian Gulf Shipping Bottleneck Hits Oil Market Harder Than Russia-Ukraine War",
+   "original_title": "Middle East Diesel Exports Plunge 52%: Persian Gulf Shipping Bottleneck Hits Oil Market Harder Than Russia-Ukraine War",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xZEdEa0JmSzFtZ3ctM0pxbzUzU2dZWlptcldWMmNEQkxwRnMzak9HSzZNN2tDVEo5RjNIY05SX1BBajJ5NTJoQ21EdXkwR29OYWJjbG1Kdkd4cmpaQ3JDXy1wUFJFSXJmYUJZNVVqQVRJZ2dMelE?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-10-14T04:35+00:00",
+   "added": "2026-10-14T05:14+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus",
+    "Middle East"
+   ],
+   "tags": [
+    "bottleneck",
+    "diesel",
+    "russia",
+    "shipping",
+    "ukraine",
+    "war"
+   ],
+   "summary": "Middle East Diesel Exports Plunge 52%: Persian Gulf Shipping Bottleneck Hits Oil Market Harder Than Russia-Ukraine War BigGo Finance",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "47b39066d09c",
+   "title": "Iron Ore Futures Near Four-Year Low as Supply Rises, Steel Demand Shrinks - News and Statistics",
+   "original_title": "Iron Ore Futures Near Four-Year Low as Supply Rises, Steel Demand Shrinks - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVmpySG5yTzNPd2FwUGxoYzZNWHR6eE8tRHd4WVFoa1lScThUSG40QzhYQ2Q2VlVwdFQ0UERubjJVLU04d3Bqb2UxSi03eXNKaWFlNllScmFjS2Q5X3pXTnZHUlVfQ2gybm5QaU1ZaXN4NnZVeXNIaWNWc0pWcEJ4STQ1X0ZSMDlLeE0wZ29IY1dueGxpaWh2MkNjeUNXLS1fZ0NQX1pLcVU?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-14T04:31+00:00",
+   "added": "2026-10-14T05:14+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "futures",
+    "iron ore",
+    "steel"
+   ],
+   "summary": "Iron Ore Futures Near Four-Year Low as Supply Rises, Steel Demand Shrinks - News and Statistics IndexBox",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "e2341b693c73",
    "title": "China hold 2027 fertiliser import tariff quota unchanged at 13.65 million tons",
@@ -16542,86 +16629,6 @@
    "summary": "KVH Industries, Inc. is excited to share that Endpoint Secure and Network Secure, two new cybersecurity packages for the CommBox Edge Pro (previously Edge 6) platform, are now available to commercial and leisure vessels. Delivered via the CommBox Edge Pro appliance, the packages help protect workstations and networks with enterprise-grade security using the appliance already onboard. With CommBox Edge Pro now offering expanded new security packages, KVH is giving operators a practical way to bridge the gap between SD-WAN support and fully managed IT services while keeping the customer in control. It includes enterprise endpoint detection and response with automated rollback, continuous vulnerability scanning, full hardware and software asset inventory, and automated patching for the operating system and more than 600 third-party applications. Network Secure includes everything in Endpoint Secure, and adds intrusion detection and prevention running on the CommBox Edge Pro appliance itself, plus advanced DNS-layer filtering designed to block malicious and unwanted content before it reaches a business device. Both packages are available to existing and new CommBox Edge Pro users via a subscription upgrade, which can be delivered over the air. KVH’s CommBox Edge Pro enhances the vessel’s modern multi-network, multi-channel connectivity with firewall, segmentation, and SD-WAN standard on every license.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "e9c821a2367d",
-   "title": "US LNG may lose competitive edge as gas prices climb, Fulcrum CEO says",
-   "original_title": "US LNG may lose competitive edge as gas prices climb, Fulcrum CEO says",
-   "url": "https://www.hellenicshippingnews.com/us-lng-may-lose-competitive-edge-as-gas-prices-climb-fulcrum-ceo-says/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-09T10:00+00:00",
-   "added": "2026-10-09T11:23+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "lng",
-    "prices"
-   ],
-   "summary": "US liquefied natural gas projects face a competitiveness challenge as domestic natural gas prices continue to rise, according to Fulcrum LNG CEO Jesus Bronchalo. Bronchalo made the remarks Tuesday during a panel discussion at Rice University’s Baker Institute. He said natural gas prices are expected to increase further in the US, which is already among the most expensive locations globally for LNG production. “Henry Hub is going to get to the point where it becomes too expensive or you are not going to be too competitive,” Bronchalo said, referring to the US gas price benchmark. Joshua Lubarsky, president of maritime firm Seapath Group, noted at the same conference that while the US ranks among the world’s highest-cost LNG producers, its gas price dynamics provide stability that appeals to buyers. The financing structure for US LNG projects is shifting, with growing reliance on private equity supported by government-backed sovereign wealth funds, said Julie Mayo, general counsel at Sempra Infrastructure. Mayo pointed to Sempra’s use of private equity funds for expansion as an example of the new financing approach for US LNG projects, moving away from traditional external loans. Sempra operates as one of the largest US LNG exporters through its Cameron LNG facility and Port Arthur development. Source: Investing.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "72e361e510e1",
-   "title": "New Stadler Flirts enter service in Lithuania on 22 October, Klaipėda next",
-   "original_title": "New Stadler Flirts enter service in Lithuania on 22 October, Klaipėda next",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUnZuY29rTjRCXzdaQ2x5blJMNEhkS0tvTlRCLWhKMFY1c252ZXVYelFXd1M2dG91dHdNRGQwMHdNdkhWLUw3NG1UaTRnRng4cmYyUlF4QVFTTFI3cUR3TUVkQlVISXZCb3I2VzgyTnByS2RBVGVqbmJlSDJZTW1NOV9nZFluQnVJQ3hsazJLYVo4cTJOak9PZHBnY2ZTMi1IbUlJ?oc=5",
-   "source": "Railway Supply",
-   "published": "2026-10-09T09:58+00:00",
-   "added": "2026-10-09T22:06+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "rail"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "klaipeda",
-    "railway",
-    "stadler"
-   ],
-   "summary": "New Stadler Flirts enter service in Lithuania on 22 October, Klaipėda next Railway Supply",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8c5efce37110",
-   "title": "Steel, aluminium, cement: the UK’s new carbon tax hits imports in January. Who pays, and when?",
-   "original_title": "Steel, aluminium, cement: the UK’s new carbon tax hits imports in January. Who pays, and when?",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lQkN6Zm84Y2ZoanFlTExoVnVPQUJEb3VRMDNWMG1oM3NhSWktcXV6dWM3QUVuQ1NpNmFfMy1aRUk0UzhSWVJQTzZ1cnpjdy1YSFU2bE5SVFJoTTBNUHJfRw?oc=5",
-   "source": "Trans.INFO",
-   "published": "2026-10-09T09:58+00:00",
-   "added": "2026-10-09T10:21+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "aluminium",
-    "steel"
-   ],
-   "summary": "Steel, aluminium, cement: the UK’s new carbon tax hits imports in January. Who pays, and when? Trans.INFO",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
