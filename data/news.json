@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T12:37+00:00",
+ "generated_at": "2026-10-15T13:22+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "436b14b624ea",
+   "title": "Global Grain Freight Costs Surge as Shipping Disruptions Threaten U.S. Export Competitiveness",
+   "original_title": "Global Grain Freight Costs Surge as Shipping Disruptions Threaten U.S. Export Competitiveness",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2NLRkdJb0pYM05EU3AzY0FfaEVvSkM3OGo2aUg4NF9ESzJ1NTBmeXpROWRjU1d1eDJwZnd3Q185eHFqdjNpVG05b3U0SUNFVnlTYll5LXJDRklEWS0xdHFXMmszR3A3OS1KcElRUlJJZzVUNXJYZVo1b3RPNU1yUDVjOUpIUVVhd2lpQzVNcmlaa05VbVV5WUMzQU5oelhr?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-10-15T12:47+00:00",
+   "added": "2026-10-15T13:22+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "disruption",
+    "grain",
+    "shipping"
+   ],
+   "summary": "Global Grain Freight Costs Surge as Shipping Disruptions Threaten U.S. Export Competitiveness AgroLatam",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "5e17a3392a74",
    "title": "UK port volume growth not due to EU shippers avoiding ETS, says BPA",
@@ -47,6 +76,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "ca4b2f44d40a",
+   "title": "[SMM Analysis] CBAM Costs and Emissions Data Reshape European Procurement of Indian Steel",
+   "original_title": "[SMM Analysis] CBAM Costs and Emissions Data Reshape European Procurement of Indian Steel",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQnNYVzBqeXlDeXVKY21hSVZ1TGpHc1Viczk5Vy00VXRVQVBiQlhwY3c5X3QxMS1QdUFaSzdiOUhyWl9BUEVJY01JdkJ0bUI2NFFHMjdWaW5fZ1JuV1lnNXNENFNWaEFYSkVqQjhORWI0c0JHMmJCdTByY1l2MWpzR1hWWUpwZTFLM1E4OVo1RGpKd3VlSjlwSmZPLUthd0hJd3NKeUpwSGVldDFfT21pNDNKSzl3ejJPeVNqN1J0RUJ3Rk4xVDNGY0U2SHc?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-15T12:14+00:00",
+   "added": "2026-10-15T13:22+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "cbam",
+    "steel"
+   ],
+   "summary": "[SMM Analysis] CBAM Costs and Emissions Data Reshape European Procurement of Indian Steel Shanghai Metals Market",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e70829a0e174",
    "title": "Low Rhine water level driving barge cargo to capacity-strained road and rail",
    "original_title": "Low Rhine water level driving barge cargo to capacity-strained road and rail",
@@ -74,6 +130,59 @@
    "summary": "Terminals at Antwerp and Rotterdam are coming under growing pressure as unseasonably low water along the Rhine continues to restrict container barge movements on the river, with cargo being pushed towards already-constrained rail and road networks. SeasC4U’s Gunther Ginckels told The Loadstar barges around Duisburg-Ruhrort were operating at roughly two-thirds of normal capacity, while vessels further upstream were carrying substantially smaller loads. “Some services are suspended further upstream on the Kaub gauge, where low water has severely restricted navigation, while large volumes are being shifted to rail and truck, but alternative capacity is limited,” said Mr Ginckels. “Cargo is still moving, but carrying capacity is sharply reduced, transport costs have risen, transit times are longer and less predictable, while inland terminals, rail networks, and trucking markets are absorbing displaced cargo at higher cost and delays.” Some 35% of box movements along the Dutch hinterland tend to travel by inland waterway, meaning that even seeing a part of that traffic transferred to alternative modes piles massive pressure onto already constrained transport networks. Back in August, Metro Global stated that more than 200 trucks would be required to replace lost barge capacity, and while low water levels have become part and parcel of the Rhine’s summer months in recent years, the persisting into October presented additional problems.",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "extract"
+  },
+  {
+   "id": "da615fa0c62e",
+   "title": "U.S. Threatens Sanctions On Spanish Shipping & Olive Oil Imports Amid Trade Dispute",
+   "original_title": "U.S. Threatens Sanctions On Spanish Shipping & Olive Oil Imports Amid Trade Dispute",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGtCWDVtcWlkM2s3VEdWS2VnUnJ3dlRTOEFFRnZWeTI2Tm9ncDExUHZ1ZElBeHRMV2JXRWFYeU9JNXhCaWtlWnNzXzZESXRTRldZY2szQjRUSDRuSUFYV3V0NTlBTVplQjVaVlduYjFKa3g3NGRVcEdKVDFlb21xS1R3TFNyai1mZkFZM2VmaThMSTB0aGd4VWktdmtlR2FJdUpIRVppYVdZbUpUYy04SA?oc=5",
+   "source": "Marine Insight",
+   "published": "2026-10-15T12:09+00:00",
+   "added": "2026-10-15T13:22+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "sanction",
+    "shipping"
+   ],
+   "summary": "U.S. Threatens Sanctions On Spanish Shipping & Olive Oil Imports Amid Trade Dispute Marine Insight",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c4ac4917e2a1",
+   "title": "India's Soybean Oil Imports Could Reach 5.6 Million Tons as Argentina and Brazil Lead Supply",
+   "original_title": "India's Soybean Oil Imports Could Reach 5.6 Million Tons as Argentina and Brazil Lead Supply",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTlic21Xb1RySUVORV9ITEVzV05KcmVrbVdWT08wcVV1OFN4R2kzdHVlakVfcmlvdG5XUVA1TDVHbVl0V1p4d2ozRFNzbFZZdW5mSE5tejBwd1BYTzZ5ckNya0ZuRnNzdkxrMXU1Sm5ITVIycTJfTE1qbl9GTnIxM1V3STBYUUFPZGxKRUUtQW1xbVBVYk9TYWM1Zw?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-10-15T12:02+00:00",
+   "added": "2026-10-15T13:22+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia",
+    "Latin America"
+   ],
+   "tags": [
+    "soybean"
+   ],
+   "summary": "India's Soybean Oil Imports Could Reach 5.6 Million Tons as Argentina and Brazil Lead Supply AgroLatam",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "a4d7b08d6567",
@@ -257,6 +366,34 @@
    ],
    "summary": "New Silk Way forum in Kazakhstan discusses Middle Corridor expansion Trend News Agency",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "67c4d552bf00",
+   "title": "Romanian Black Sea tanker fires disrupt Danube shipping corridor as sailors go missing",
+   "original_title": "Romanian Black Sea tanker fires disrupt Danube shipping corridor as sailors go missing",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2hVaXM1OUpCa05lSW9IbnpiNTdGaUkzR2U2V1Q3S3h3aXFKM25xRXMzWUVlMHZPM0FHdkszZU1RU0c1Wmg1d0lDRElkQkRNeXhaVTZUTU0yMnNtVlZLN1BkT2hqeWFxYnZVNmpiNWxQVzRFa094UzJ0bHNXU0h4T3AtaEFFWU8tTjJnRTFpYUxOUQ?oc=5",
+   "source": "Traders Union",
+   "published": "2026-10-15T11:11+00:00",
+   "added": "2026-10-15T13:22+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "shipping"
+   ],
+   "summary": "Romanian Black Sea tanker fires disrupt Danube shipping corridor as sailors go missing Traders Union",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -13047,6 +13184,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "824eb8992db3",
+   "title": "Alstom has delivered 18 Traxx locomotives to the Polish operator CLIP Intermodal",
+   "original_title": "Alstom has delivered 18 Traxx locomotives to the Polish operator CLIP Intermodal",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWZ4TkIxckRiRWRzc24zYmxSZVVVMlM4RTZXbVg3Z3F2RGwtT1pBNlVDMkhsSXFfSW8xMl9YRkh6QmlOcGdrbEhnOU54QWxTNEpXN3h2T253aThhRWtPVjhITnpZVkJwdUtHcEwxTkNMNTlabjhqWDExemR1YU9YS0xHRWk5WGJhRWdpQlB6ZEhNR1VpY1E?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-13T07:43+00:00",
+   "added": "2026-10-15T13:22+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "intermodal",
+    "locomotive",
+    "polish",
+    "railway"
+   ],
+   "summary": "Alstom has delivered 18 Traxx locomotives to the Polish operator CLIP Intermodal Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "2fefb9242d9a",
    "title": "Bangladesh, China Ink $335 Million Deal for Mongla Port, 80 km from India: Why Does It Matter for India?",
    "original_title": "Bangladesh, China Ink $335 Million Deal for Mongla Port, 80 km from India: Why Does It Matter for India?",
@@ -16432,168 +16597,6 @@
    ],
    "summary": "CBAM costs for steel products could reach €5 billion a year — Trasteel CEO GMK Center",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e5288740cdc6",
-   "title": "India’s steel industry expanding amid global market contraction, says FM Sitharaman",
-   "original_title": "India’s steel industry expanding amid global market contraction, says FM Sitharaman",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVWVDQmdFNFdndUNYdUxwTEFQSnVjSmlBNmhFd0Vzay1vaVpxeFdRb2pkOGZpd25ZZFVZR1FVeXR6V1g1M2hxSjZLTmxvdm53MkRmSkdKR3V1dFFQV05FXzVacGlhT0kyR3N6LXRSb0xzeHkxNFpVUTdTSGtmdHNjRjQycHBMTWMtcWRvVVNsY0hmUVdGbHNkZzhKTmwwS0tadDg5enpzelB4c0NuV3BXRGtZdzJ4TFhaMGRodWZGTjZaYlNtWHp3OEFZa1JKa3I3bjRERVZn0gHbAUFVX3lxTE9qeDQxeElPT080Ui12dUxobGxUWEg5OTlXYWxmNVFXUXJ6RDB4QWpJN3F1WmY4a1UyMG9ZWVV1dDNpYldqMnJ2SGJ1QTJ3VnNtWWpYeXRfQlA1VXZMLUhTR2xXOUhDVkhYOGswbWNqVTd3QjY5aWJ3R0xiMkJfNDVBendEandjdnV3UWtIQU1uV1pTWE1ZZ3Q1R21oWjV0WnNqUVMwNS1BTDc3MzJ1OFNtTmM2X2JhTjROSmh6NUpTUURCS2ptQUJxTXl4ZFNSZlhVM1Z0QkRQcGsxbw?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-10-12T14:03+00:00",
-   "added": "2026-10-12T15:52+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "India’s steel industry expanding amid global market contraction, says FM Sitharaman Moneycontrol.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "20ef33b16452",
-   "title": "Mantsinen 300 - największy hydrauliczny dźwig na świecie działa już w Porcie Gdańsk",
-   "original_title": "Mantsinen 300 - największy hydrauliczny dźwig na świecie działa już w Porcie Gdańsk",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSE1Cd1RtRURITnZHSm8tcUdKYWl0YzNySWpGcjlzTXBhYnNBem43dXFFLVlFSVNCYldMOUlGUC1fUGh6S1M2SnBKcVYxWEJBTWN0SWFkVWNfakUxeVprSmIySzIwQUlYWXlONEJkMzZfRkhZczVuZXd5QW5abVh0aEdMZXBjTEpaTTFCT0tzY1hWcTJROGVLXzhNbkFKaVNwcnFmR0Z2NW1SWUNrcVNwYlBGQ2NGYUhhNUpjTGktV3VSdw?oc=5",
-   "source": "Zawsze Pomorze",
-   "published": "2026-10-12T13:52+00:00",
-   "added": "2026-10-14T19:39+00:00",
-   "lang": "pl",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "dzwig",
-    "gdansk"
-   ],
-   "summary": "Mantsinen 300 - największy hydrauliczny dźwig na świecie działa już w Porcie Gdańsk Zawsze Pomorze",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity. Involves a Polish port.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2294deb2cfa6",
-   "title": "Puerto Quetzal adds two Liebherr LHM 550 cranes",
-   "original_title": "Puerto Quetzal adds two Liebherr LHM 550 cranes",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV25Rd2pwZFl0ai1NRFExS3J3UFpjd0N2cVdhNEd4TVdTZjJ3QmpsUUVCc3VWSkJkR2NPYnRESmlsY1BscTdFNmQ3RkJrUDNyMUVHUC11VHB2YUNwUUxQdUVaYXZDR1dRS1BMdFV6SnVfcHJPOFFiTUtPNFNROWJxVG9lRzFUb1pIdTNUc09xYzZJTUhEalhr?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-12T13:33+00:00",
-   "added": "2026-10-12T14:04+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "liebherr"
-   ],
-   "summary": "Puerto Quetzal adds two Liebherr LHM 550 cranes WorldCargo News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c678681047e9",
-   "title": "FG seeks private sector investment in inland dry ports amid plan to inspect Kano, Katsina facilities",
-   "original_title": "FG seeks private sector investment in inland dry ports amid plan to inspect Kano, Katsina facilities",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQTV4YlExR2JjTkVIbHdrd3E5TXgxa1RtakxWV2RpLUkwMFE2d1o0aXp0NzlUQk5QVnNZcERfd3dUUzU3STJZUS01bG41OW9xQnctQmZRNXFCeGpQdHBIQkZtTXhUX29ndjM1c0dTRGFES1ZRRFhrLXE4dk5Xb3NZVWRRSHBpNDFsa084c2laSjdJR05IQ056eFFhYmlKMmMyVEJjNnBxUHd2eU1kam14akVwRWJFNHRVc2FoQWY0U2FIUQ?oc=5",
-   "source": "TheCable",
-   "published": "2026-10-12T13:16+00:00",
-   "added": "2026-10-13T17:02+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "rail"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "dry port",
-    "port",
-    "ports"
-   ],
-   "summary": "FG seeks private sector investment in inland dry ports amid plan to inspect Kano, Katsina facilities TheCable",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "037b2356b2ad",
-   "title": "Oil Prices Rise as Attacks on Saudi Arabia and Middle East Tankers Renew Global Supply Concerns",
-   "original_title": "Oil Prices Rise as Attacks on Saudi Arabia and Middle East Tankers Renew Global Supply Concerns",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcTlma3pHSGNhTnkxc3lvR1B1VWc2ZnF3NnY0bHp2TVdEWkRxX0NIUHB4SEhTNkExSXVVTkJIR25lOFZQanEyOEQtOXFjUHE3WHJDSW4wVnhCaVp3TUFIS2FsYWZHUnc2b2dNR043V0tzVVNEdV9kam9VWHd0dTRwYlZWZmtCVE5zMGtsUFBCc0NxdUNpN3MxV0NfczQ0QzFoRjFkbTR6eWd2VUt1Q3hKYkIwVUNWbzdTNC1PZVFicVhGdUt2?oc=5",
-   "source": "EnergyNow.com",
-   "published": "2026-10-12T13:12+00:00",
-   "added": "2026-10-12T21:26+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "oil price",
-    "prices"
-   ],
-   "summary": "Oil Prices Rise as Attacks on Saudi Arabia and Middle East Tankers Renew Global Supply Concerns EnergyNow.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8c903391fdb7",
-   "title": "Rwanda plans logistics hub at Mai Mahiu SEZ to move Mombasa cargo via SGR",
-   "original_title": "Rwanda plans logistics hub at Mai Mahiu SEZ to move Mombasa cargo via SGR",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTXdJRUJaWW9NejZ3dVE2TUVycGl0NWswcG0yT0VYTjJlcGo2MXJ1djZ1WW5XZDZ5UnVpa0tyTmFyQTRQRUlpTTAxZTh5UGJ2M1JIc3JwUkxWZ2V3MEFSYWp0NlZuNjgwckduT0hlRjNoOXRMamxaT0pkNmpQcGtWWFZhTWtPdDR0UG9qcEg4dDdsRUlXMGNSUElMME9HNTFoUGlZNjN4Y3VsUkV3NDBTbGNxVkNYaVZJenc?oc=5",
-   "source": "Mjengo Hub",
-   "published": "2026-10-12T13:03+00:00",
-   "added": "2026-10-14T08:33+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "logistics",
-    "logistics hub"
-   ],
-   "summary": "Rwanda plans logistics hub at Mai Mahiu SEZ to move Mombasa cargo via SGR Mjengo Hub",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
