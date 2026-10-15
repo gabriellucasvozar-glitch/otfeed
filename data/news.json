@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T10:10+00:00",
+ "generated_at": "2026-10-15T10:50+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,181 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "d57b7b0c6ccc",
+   "title": "No post-peak easing at US container gateways, despite drayage woes",
+   "original_title": "No post-peak easing at US container gateways, despite drayage woes",
+   "url": "https://theloadstar.com/no-post-peak-easing-at-us-container-gateways-despite-drayage-woes/",
+   "source": "The Loadstar",
+   "published": "2026-10-15T10:47+00:00",
+   "added": "2026-10-15T10:50+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "supplychain",
+    "shipping",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "bottleneck",
+    "logistics",
+    "port",
+    "ports",
+    "trucking"
+   ],
+   "summary": "Much of the recent spotlight has been on the port of Houston, which is handling record volumes of cargo, and traffic is expected to keep growing, fuelled by multiple drivers. Since mid-August US trucking and logistics firms have blamed tight drayage capacity as the biggest brake on growth and warned of bottlenecks at ports and inland rail ramps. The biggest factor has been the tightening trucking sector, exacerbated by a seasonal shift of drivers from drayage to the longhaul sector, in response to peak volumes. Paul Brashier, VP of global supply chain at ITS Logistics, an Echo company, reported that dray rates in Houston had shot up 40% over the past four months – albeit from a low base. He pointed to a convergence of factors that have boosted traffic through Houston: record container volume for the first half of this year, with its teu count up 3% YoY; through August loaded imports were up about 5% YoY, with traffic from Asia up nearly 12%; and imports have surged because of rapid expansion of manufacturing in Texas and the tidal wave of equipment and materials for the build-out of AI-related infrastructure in the state.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "e59ce69303f3",
+   "title": "China Resumes Large US Soybean Buying After Trump-Xi Summit",
+   "original_title": "China Resumes Large US Soybean Buying After Trump-Xi Summit",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeF9pM2RNQy02RHlJT0hndkVRMVI4dWhfWE80bjNVaEM1c1pmbEQ0bl9WaDVBZWdhaWlVVkJ1VmsycjN4bTN5ek9OUFRfaGtQY1JzVFIwZHdjUS1Fc2Z2eUVSbkZ1ZTBIanBUdzJCODgxVUMtNkdGT0psMUFVaEpFOTVUYzBXVGVTbnJoTEtoZHFFWUpBODNOOF9qZXpidVhrdkVVazB5WTU5c01LQ0ZPQ3FTVko?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-10-15T10:41+00:00",
+   "added": "2026-10-15T10:50+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "soybean"
+   ],
+   "summary": "China Resumes Large US Soybean Buying After Trump-Xi Summit Global Agriculture",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c9b9dc004279",
+   "title": "U.S. toy prices surge as tariffs and Iran war lift holiday costs",
+   "original_title": "U.S. toy prices surge as tariffs and Iran war lift holiday costs",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGJxU0o1RGEwTXhLTjdWTU1XVDFjNmlhVUdkT0luY2dvNzB1MnNlOFhfSFd3OEVJWmtPODdwem83V2Y0OER6YlMwWTRoZzFHY19VT3NPRldadG9wQkE0R192eThXbk5CdG56OUhXNzU4RjVkU01menZpOFBCanZ1NHVHUkVTNFF1cjk2cEFCNDM2N0U?oc=5",
+   "source": "Traders Union",
+   "published": "2026-10-15T10:37+00:00",
+   "added": "2026-10-15T10:50+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "prices",
+    "tariff",
+    "war"
+   ],
+   "summary": "U.S. toy prices surge as tariffs and Iran war lift holiday costs Traders Union",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1dd9ea61f35b",
+   "title": "Guangzhou and Hong Kong open electric container shuttle",
+   "original_title": "Guangzhou and Hong Kong open electric container shuttle",
+   "url": "https://splash247.com/guangzhou-and-hong-kong-open-electric-container-shuttle/",
+   "source": "Splash247",
+   "published": "2026-10-15T10:27+00:00",
+   "added": "2026-10-15T10:50+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping",
+    "equipment"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "battery-electric",
+    "port",
+    "terminal",
+    "teu",
+    "vessel"
+   ],
+   "summary": "Guangzhou Port has launched the Greater Bay Area’s first zero-carbon container route, putting a battery-electric vessel into cross-border service between Nansha and Hong Kong. The 240 teu Sui Gang Dian Hang 02 opened the route this week, carrying furniture and consumer goods to Hong Kong International Terminals. The vessel uses containerised batteries that can be exchanged by crane or recharged directly. An onboard platform monitors energy consumption, maintenance and ship-shore operations. Authorities estimate that each vessel in the series will eliminate more than 550 tonnes of carbon dioxide annually and over 19,000 tonnes during its operating life.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "2d7f016084aa",
+   "title": "COSCO lands ten-year Chinese car-export deal",
+   "original_title": "COSCO lands ten-year Chinese car-export deal",
+   "url": "https://splash247.com/cosco-lands-ten-year-chinese-car-export-deal/",
+   "source": "Splash247",
+   "published": "2026-10-15T10:22+00:00",
+   "added": "2026-10-15T10:50+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "chinese",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "COSCO Shipping Specialized Carriers’ car-carrier business has signed a 10-year contract of affreightment with Chinese automaker DFSK, securing a long-term vehicle-export cargo relationship. The agreement was signed with Chongqing Xiaokang Import & Export, DFSK’s export operation. The companies said they intend to expand shipping volumes, allocate vessel capacity and develop the global route network serving DFSK exports. DFSK, a brand under Seres Group, says the automaker has exported more than 600,000 vehicles and established a presence in over 70 countries and regions. No annual cargo commitment, freight rate, named route, vessel allocation, commencement date, or contract value was disclosed.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "e92165518a0f",
+   "title": "US threatens to punish Spanish shipping over Israel port ban",
+   "original_title": "US threatens to punish Spanish shipping over Israel port ban",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVVQVXE1TWlBd0s3RHlhQUREcVQtT3ctUnA3bm1lVWZuaFA1WW10MmlYS1ZqNEwxUGNmQW1TdnZSNTZ3TzNCY1JFaU10MWJ3YmdBaHE3S3RlWGhBUDFyUjNfRXp6elNzNUNnM1N1WnlCU2JnUEU3QmYxNGFKLU15LVkxc2ZxSDJEYjJuM2ZGY2poRi1aaUkteS1qVjlWclJVWHVMaVFzSldWTXJBM1hMQWhhX3U?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-10-15T10:12+00:00",
+   "added": "2026-10-15T10:50+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "port",
+    "shipping"
+   ],
+   "summary": "US threatens to punish Spanish shipping over Israel port ban TradeWinds News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "bb4f40304aa3",
    "title": "Jinhui cashes in on veteran bulker",
@@ -43,6 +218,31 @@
    "summary": "Hong Kong-based dry bulk owner Jinhui Shipping and Transportation has agreed to sell another ageing supramax, continuing its fleet renewal drive with a $14.6m deal involving a Hong Kong buyer. The Oslo-listed company, majority-owned by Hong Kong-listed Jinhui Holdings, has signed a memorandum of agreement to offload the 2007-built, 55,496 dwt Jin Xing to Heng Fa Shipping, a company ultimately controlled by He Zhixiong. The vessel is expected to change hands between October 20 and November 30. Jinhui has owned the bulker since it was built. The company expects to book a gain of approximately HK$52m ($6.7m) on the disposal, based on the ship’s carrying value at the end of August. The disposal follows an extended period of fleet reshaping by the Ng family-controlled company, which has been selling older supramaxes while investing in larger, more modern ultramax tonnage. Jinhui currently operates 19 bulk carriers, including 16 owned vessels and three chartered-in units. The company said the latest disposal would help reduce short-term borrowings, settle outstanding liabilities and provide additional liquidity.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "eb70d8c0237c",
+   "title": "DP World sets 2028 deadline for Constanța yard electrification and OPS works",
+   "original_title": "DP World sets 2028 deadline for Constanța yard electrification and OPS works",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZkE2c2FtZzUweTJSUE9scnFXMnRmQWNZcnFHZm5RTS1TWFpfblFlRWpzR1BZa2hCbVlxamZQSGtBaEFzQU5rbWxDMUVydjFDSE9BYlRiSHlGYWd1WW1LZXlWa19sVDJKS2ZNa0xXT1FlVWRVNi1SbEUyUHBzOFRkeW92Q0xZa1RwTzJXSF9qY0w1X3ZUR290Y2R5ZHJRM3BWbkQ1akZIeUJDckE0MTMwSW91QWZlRVlPNXlFbzkyVUZvdHRVX0J5VmR4ekR5a0dJbDdZSEtGVEE?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-15T10:01+00:00",
+   "added": "2026-10-15T10:50+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Central & Eastern Europe"
+   ],
+   "tags": [
+    "electrification"
+   ],
+   "summary": "DP World sets 2028 deadline for Constanța yard electrification and OPS works WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
   },
   {
    "id": "c85ab4aa8a2d",
@@ -16426,197 +16626,6 @@
    "summary": "Spot rates have become more volatile, relative to the wider box shipping market, since the pandemic, with overall prices increasingly diverging from signals provided by the spot market. In its latest analysis, Sea-Intelligence, compared spot rate movements on the Asia-Europe and transpacific trades with broader market developments, using World Container Index (WCI) and Container Trade Statistics (CTS) data. The consultant compared monthly average WCI rates for Shanghai-Rotterdam and Shanghai-Genoa with CTS data for Asia-Europe. Sea-Intelligence used this relationship to forecast the overall market rate index from spot rate movements, and then compared its predictions with the actual CTS figures. Before the pandemic disruptions, Sea-Intelligence found, the difference between forecast and actual market rates fluctuated relatively little, suggesting spot rates provided a reasonably reliable indication of wider market developments. However, deviations became substantially larger from 2020, which the analyst said reflected a greater disconnect between spot rate movements and the market as a whole – also evident when fluctuations were measured relative to overall rate levels, meaning it could not simply be attributed to higher freight rates. Sea-Intelligence also identified a gradual upward trend in the difference between forecast and actual rates on Asia-Europe, indicating that the overall market increasingly recorded higher rates than would have been predicted from spot prices alone.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "b2b7601287b8",
-   "title": "Noble Chapter 11 – what happens when a big account is chief creditor",
-   "original_title": "Noble Chapter 11 – what happens when a big account is chief creditor",
-   "url": "https://theloadstar.com/noble-chapter-11-what-happens-when-a-big-account-is-chief-creditor/",
-   "source": "The Loadstar",
-   "published": "2026-10-12T10:33+00:00",
-   "added": "2026-10-12T10:35+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bankruptcy",
-    "inventory",
-    "logistics"
-   ],
-   "summary": "Mind you: an inventory gamble and a widening payment dispute offer a warning for logistics businesses chasing government work. The bankruptcy of US-based privately held Noble Supply & Logistics has become a race between collecting receivables and running out of cash. Co-founder and CEO Tom Nobel – responsible for “strategy and value creation” – expanded the company’s focus over time from “solely providing e-commerce solutions to government customers to providing global supply chain, logistics services, ...",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c78723c71706",
-   "title": "European Steel Production Hits All Time Low",
-   "original_title": "European Steel Production Hits All Time Low",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSXZaZEJOck8tNG00bVFPMVNlbHo3RzdTY3FfLXZrOF91U3JUSDVKbnRrRUs1N19BX0UyekNrcnVaVGRuNWswMmcwRlp0U0RQOTdJeU5xNHNHci1VSlhSM1NVczdreUJ4RHM0bUJzMjhSQ3dhbnZra2xDYzF6OWtoUzIxUmdER1I5VmFDNnpXelJ4LW1HZktVbkRLLUNoYUxwei05cXRyWXFpb1hfelkwYmd3YnE?oc=5",
-   "source": "Industrial Info Resources",
-   "published": "2026-10-12T10:24+00:00",
-   "added": "2026-10-12T12:09+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "European Steel Production Hits All Time Low Industrial Info Resources",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "13d38ee5027b",
-   "title": "Tankowiec objęty sankcjami zatrzymany w Szwecji. Teraz może opuścić port",
-   "original_title": "Tankowiec objęty sankcjami zatrzymany w Szwecji. Teraz może opuścić port",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdWdGWDBsMk1SZWlLMzVfVm90dnUwQXJCNzdwTTdseHJJUWprTk1YVldXZTYxd1BtMC1rNk5uWF94SHZEWUdhYW5hVDl4X2ZOQnZFQmFtYjlhdTVmNXd2YXR4NnVodjM2X2I0aWE4Sjl6YWRZeWRESGxDQ2MzQkNibm9DTzBidVNJMDFzR2k5c3R1a01ZN2dHeklKMVdpbjNHczFqVXJicE1BOFhDejY0eVJoZ3pycmxXR0Rnak1LbTR0UmVWcHBBUFR0Q3ZHMjZBYW5jUEpVeW4?oc=5",
-   "source": "Bankier.pl",
-   "published": "2026-10-12T10:18+00:00",
-   "added": "2026-10-12T12:09+00:00",
-   "lang": "pl",
-   "category": "geopolitics",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "sankcj"
-   ],
-   "summary": "Tankowiec objęty sankcjami zatrzymany w Szwecji. Teraz może opuścić port Bankier.pl",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b81660928887",
-   "title": "Alstom delivers 18 Traxx Universal locomotives to CLIP Intermodal for cross-border freight services across Europe",
-   "original_title": "Alstom delivers 18 Traxx Universal locomotives to CLIP Intermodal for cross-border freight services across Europe",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVnhYLUQ2U1ZEMXd1ZEgtcEgtcnVHUVZWcDNtU1liZl9ocTZfajNHZzYzMDNtTVBoRGQ3TlNhZ3FkVndwQ2RVSGszU01YRDctcDA1a0pzaW41czgzMi1ENnZKUUVQQkxvT0N4QkE5WFNUekt3cnBkVHhWT0MxQTN1cTBEUE9HOTdYT1dJTjBhWl92M211NjU5SmQtbkNhNzVvX01zU2xJWno1R2w4MTItWUdCN0hQaGc5RFhLR0tBaU1iRURwX3gtX1JndEoxVWc3aWpzYlM1cFdRX2doV2pFajdqTzBocjVteDQ4c2UtcjBSemtBRm91ZQ?oc=5",
-   "source": "Global Railway Review",
-   "published": "2026-10-12T10:13+00:00",
-   "added": "2026-10-12T12:55+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "intermodal",
-    "locomotive",
-    "railway"
-   ],
-   "summary": "Alstom delivers 18 Traxx Universal locomotives to CLIP Intermodal for cross-border freight services across Europe Global Railway Review",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "053c3c6b616e",
-   "title": "Lithuania is turning the green energy used by trains into a new source of income",
-   "original_title": "Lithuania is turning the green energy used by trains into a new source of income",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYXctYi1GVzdfal9JRlZrdktWdllQMlBQenlZdi1LZTRxLWN2eEZ0T2RUMjlxMC01Qmx3bzd4emk1ZnhpWE5MbDhIUDN1WGlEUHF3TFV2UHVjR1JRZVJUa3YzQWx0ckFvWW1ncmpJdTkxQ2JaZF9pcVJZUzZpUWJWMWtzUVB1SVpQMmdlQjlORWQ1VFRS?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-12T10:10+00:00",
-   "added": "2026-10-12T12:55+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "railway"
-   ],
-   "summary": "Lithuania is turning the green energy used by trains into a new source of income Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "52d1e7692a90",
-   "title": "Djibouti’s ports face rising costs amid Red Sea shipping disruptions",
-   "original_title": "Djibouti’s ports face rising costs amid Red Sea shipping disruptions",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzYxZzdNdWZUSnFrVFZJNUR1cFhuRjRpM3RMcWFXUFhMVVNqX21CV0xMek1vUmZIdmR0OE4xMTFXZGpUc0lyekZHWXN6b084b3hjZ0FlaFFHTnlqXzRITzdBY194cHpZVTJjTDJvMFhuRGVQeW1ZWGFfUXJPNEQtd0prMmdsRWFPX2FfTXY2RC1EYlRRaVlGOE9MeXlhNFhzZ0ZaOWJLSVNpclk?oc=5",
-   "source": "Capital Newspaper",
-   "published": "2026-10-12T10:09+00:00",
-   "added": "2026-10-12T17:20+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics",
-    "shipping",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "disruption",
-    "port",
-    "ports",
-    "red sea",
-    "shipping"
-   ],
-   "summary": "Djibouti’s ports face rising costs amid Red Sea shipping disruptions Capital Newspaper",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5d7fe608cf5c",
-   "title": "Gulfport and Pascagoula ports return to normal operations after Hurricane Isaias",
-   "original_title": "Gulfport and Pascagoula ports return to normal operations after Hurricane Isaias",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVE9yZTNHU3JaZTVyNFBrdGxCOWpIYUNBdTItZEtrZzZkWjZGaFdjMFJCZmtNU0g4QUN6NGNRTUVDTmJBTlh1cHRLT1VGRVdjWGhNYzNzbUExYmRzSU9SNDFBZ1lDeWJ1S2hWYVJQMGhiVG1ZSHpTWm1DMFNTbWhiUTFLdS1MZGpIQy1QYXBKd3HSAZ4BQVVfeXFMTjZPWVhLT19PV2F3UkFKUk9hbGFPOGc3UEdvNzFHbklOeWQxNHVVYVhhRTN1dGN6dmRrUjZWcmZ3WjRzbWxTX2ppWlA4TnVrT3FNdkdVZEZOSmdvcjhZeWNieXI1QW8xb3B5NTY0LXA3bUZPRHlOaHIyMWtSNFZ3OUdpaW15YVd5ZTJBOUo1anNVbm5sMmt5RVc0MV9OUWc?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-10-12T10:07+00:00",
-   "added": "2026-10-12T10:35+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Gulfport and Pascagoula ports return to normal operations after Hurricane Isaias Baird Maritime",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
   }
  ]
 }
