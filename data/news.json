@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T21:14+00:00",
+ "generated_at": "2026-10-16T21:49+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,65 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6851d2779378",
+   "title": "JBS Terminais at Port of Itajaí Tops 800,000 TEUs, Expands Reefer Infrastructure",
+   "original_title": "JBS Terminais at Port of Itajaí Tops 800,000 TEUs, Expands Reefer Infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSlp5bWl1cW9lU0phaE1zczl0bTFnSjItcDlYYUFNSzlyTTFtdjhCbDNPX0pmLVBJaE1LVUcwNTZ6em1QQ1pSS0Z3amxzUDg1djVUSmVVUzVOcC1zbThIeXp6cVV2LW5RaVBKTjd6WV9YX25nU0V6UHJVU3RON196NHFCd2xlQmgySHJyQm81am9YdzlVWkd4VXJxN3BlYU13TWhIZzFnS1I2Um5DanlIUXRR?oc=5",
+   "source": "DatamarNews",
+   "published": "2026-10-16T21:05+00:00",
+   "added": "2026-10-16T21:49+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "teu"
+   ],
+   "summary": "JBS Terminais at Port of Itajaí Tops 800,000 TEUs, Expands Reefer Infrastructure DatamarNews",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e514b5ac0c44",
+   "title": "What lessons can we learn from declining carrier schedule adherence and rising port congestion?",
+   "original_title": "What lessons can we learn from declining carrier schedule adherence and rising port congestion?",
+   "url": "https://www.hellenicshippingnews.com/what-lessons-can-we-learn-from-declining-carrier-schedule-adherence-and-rising-port-congestion/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-16T21:00+00:00",
+   "added": "2026-10-16T21:49+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "congestion",
+    "forwarder",
+    "port",
+    "port congestion",
+    "ports"
+   ],
+   "summary": "Look at it from the viewpoint of a shipper moving goods by containership on the Asia-Europe route. The proportion of ships on this route which arrived on the scheduled day of arrival declined from 51% in May to just 31% in September (average of all ports and all carriers), according to the Drewry Container Capacity Insight. Even the Gemini alliance, which has a higher-than-average track record for on-time arrivals, managed just 34% in September. The Asia-Europe trade’s schedule reliability scores by carrier in September ranged between 19% and 38% and the proportion of sailings not cancelled ranged between 0% and 23%, according to Drewry’s analysis for this route. Looking at this from a carrier viewpoint, the logic is that cargo volumes were strong in the peak season, port congestion got worse in Asia, but the carriers could make higher profits by throwing more ship capacity at the market and cancelling fewer sailings… which must have made port congestion worse. At Drewry, we are looking more closely at how carrier performance, port congestion and network exposure can be brought together to give shippers a clearer picture of where they may be vulnerable. Ultimately, the aim should be to move away from simply reacting to delays and towards building those risks into carrier selection, procurement strategies and contingency planning.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
   {
    "id": "ef590ecbcc36",
    "title": "The Week in Alt Fuels: Building the bunker menu",
@@ -223,6 +282,35 @@
    "summary_method": "extract"
   },
   {
+   "id": "ddfb216a27f1",
+   "title": "Advanced Shipping & Trading – WEEKLY SHIPPING MARKET REPORT WEEK 42 2026",
+   "original_title": "Advanced Shipping & Trading – WEEKLY SHIPPING MARKET REPORT WEEK 42 2026",
+   "url": "https://www.hellenicshippingnews.com/advanced-shipping-trading-weekly-shipping-market-report-week-42-2026/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-16T21:00+00:00",
+   "added": "2026-10-16T21:49+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "capesize",
+    "china",
+    "shipping"
+   ],
+   "summary": "The Capesize “Golden Myrtalia” 178/2011 SWS, China (SS/DD 10/2026) was committed to Norwegian interests at USD 40 mill Source: Advanced Shipping & Trading S.A.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
    "id": "d2aace7559a1",
    "title": "Tanker Market Moved Higher in September",
    "original_title": "Tanker Market Moved Higher in September",
@@ -327,6 +415,58 @@
    "summary": "The UK Chamber of Shipping has welcomed the decision by Skills England to retain five maritime apprenticeship standards following representations from across the maritime industry. The five apprenticeships being retained are Seafarer Deck Rating, Small Commercial Vessel Crew Member, Officer of the Watch 500gt Near Coastal, Marine and Boatyard Operative, and Marine Pilot. A UK Chamber of Shipping spokesperson said: The decision to retain these key maritime apprenticeships is excellent news for our industry and for the people looking to build rewarding careers within it. Attracting, training and retaining the next generation of maritime professionals is critical to the future of UK shipping. Apprenticeships provide vital routes into maritime careers, giving people the opportunity to build the skills and experience they need, while helping employers develop the workforce our industry depends on. It is encouraging to see Skills England respond positively to the evidence and feedback provided from across the maritime sector. Organisations making representations in support of retaining the apprenticeships included the UK Chamber of Shipping, Merchant Navy Training Board and British Tugowners Association, alongside the Maritime Skills Alliance and other maritime employers, training providers, trade unions and sector representative bodies.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "6cd2e9e51b7b",
+   "title": "Wind-Assisted Shipping Gains Ground as Airbus RoRo Adds Rotor Sails",
+   "original_title": "Wind-Assisted Shipping Gains Ground as Airbus RoRo Adds Rotor Sails",
+   "url": "https://gcaptain.com/wind-assisted-shipping-gains-ground-as-airbus-roro-adds-rotor-sails/",
+   "source": "gCaptain",
+   "published": "2026-10-16T20:52+00:00",
+   "added": "2026-10-16T21:49+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "shipowner",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Caption: LD Armateurs’ Spirit of Toulouse, built for Airbus transatlantic transport operations, fitted with six 35-meter-tall Norsepower rotor sails at an outfitting site in Shanghai, China. Photo: LD Armateurs/Norsepower French shipowner LD Armateurs has completed the installation of six towering rotor sails aboard Spirit of Toulouse , a new roll-on/roll-off vessel being built to transport aircraft components for Airbus across the Atlantic. The installation, completed at a shipyard outfitting site in Shanghai, makes the 168-meter vessel the largest RoRo ship equipped with wind-assisted propulsion and gives it more mechanical sails than any other ship, according to LD Armateurs and Finnish wind propulsion specialist Norsepower. Airbus expects the new fleet to cut annual emissions from its transatlantic shipping operations by more than half, from approximately 68,000 metric tons of CO2 in 2023 to 33,000 metric tons by 2030. “Completing installation of six Norsepower Rotor Sails on Spirit of Toulouse is a significant milestone for wind propulsion in the RoRo segment,” said Heikki Pöntynen, CEO of Norsepower. The project comes as wind-assisted propulsion moves beyond individual demonstration projects and finds wider use across the commercial shipping fleet. Earlier this year, Berge Bulk completed the installation of four folding rotor sails on its 208,000-dwt Newcastlemax bulk carrier Berge Meru , following a similar project aboard the larger Berge Neblina in 2024.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "38789b769b8f",
+   "title": "Maersk raises emergency fuel surcharge for U.S. and Canada intermodal services",
+   "original_title": "Maersk raises emergency fuel surcharge for U.S. and Canada intermodal services",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdUt1SkRnLThBMWVoaHE5VXBJX3FUa3lzNGc3RlkwQktnUWZHR0pGcXZlRjZYSHI0TUx0R1llNlZWeEE5VV9NNW51ME1zSUFudmdIS2xKSGc2Z3BUbkVlMzZ3YXVjUXNSREhsOVZDSk5ra0czX1dwNi1rVFh0VFhnOVhSSTBLa0RMWDZYZ3h6dkFtMldlc1VpeHlFWGNOTU9lVFBvcERqQXFUS3JieG9CZ0dIT2VONk9fMl9WSVQxVnU1NlJWMW5HdTNJUllrSXc0Rnc?oc=5",
+   "source": "Data Portuaria",
+   "published": "2026-10-16T20:30+00:00",
+   "added": "2026-10-16T21:49+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "intermodal"
+   ],
+   "summary": "Maersk raises emergency fuel surcharge for U.S. and Canada intermodal services Data Portuaria",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
   },
   {
    "id": "61dfd9a83593",
@@ -971,6 +1111,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "00ed58469868",
+   "title": "Guthrie-Edmond Regional Airport opens $7M terminal expansion",
+   "original_title": "Guthrie-Edmond Regional Airport opens $7M terminal expansion",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWDlreXhDR2pXaDlNV19LeUFnTTlEYW5hMG5nOUdBTXhDWW5zeXV0SndFNXpvaTV5NmpKMFQ3MG9pODg5T29RLXJpZnA0aEFGWWRJN2pQaDdIWFd6NFlpWnJjV0FPeDJYM252TVR2eGpaa0ZqN0lxenlieGdMNlE3djhBMDEyNGdvWm14V2M1dENmZw?oc=5",
+   "source": "The Journal Record",
+   "published": "2026-10-16T14:58+00:00",
+   "added": "2026-10-16T21:49+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Guthrie-Edmond Regional Airport opens $7M terminal expansion The Journal Record",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "53bf7081e6a3",
    "title": "Recycled Mixed Metal Scrap Market Forecast to 2035: Growth Momentum Builds on Circular Economy Mandates - News and Statistics",
    "original_title": "Recycled Mixed Metal Scrap Market Forecast to 2035: Growth Momentum Builds on Circular Economy Mandates - News and Statistics",
@@ -1281,6 +1446,33 @@
    ],
    "summary": "DP World Backs $150 Million Maputo Port Expansion as Mozambique Eyes Bigger Role in Southern Africa’s Trade pan african visions",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9394e0c97f58",
+   "title": "EU urea imports hit year-to-date record in August",
+   "original_title": "EU urea imports hit year-to-date record in August",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcmhQOTNpQ0FHWXNRZlBhR0Z3U04tU2hvYVVhM3drWUJFS0NGZFc0X2syLXZZM1NnZUtXSGw1dXRONVhtY3prVWtUYXZOMElIR2FXTVBVRXk4UjFJRFpEVUxRUnU2N1dqY3k2MUhLbjF5dmxNckdFSUZBU1pVZ24yeXh0UlVCT2NEQVNCZ3gzYS1FMGJnUm1tblBTUVFtNlBVX0E?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-16T13:19+00:00",
+   "added": "2026-10-16T21:49+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "commodit",
+    "eu ",
+    "urea"
+   ],
+   "summary": "EU urea imports hit year-to-date record in August Quantum Commodity Intelligence",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16375,186 +16567,6 @@
    "summary": "Danish offshore accommodation specialist CBED has acquired the Seaway Moxie from Seaway7, adding a fourth vessel to its fleet. The 2014-built commissioning service operation vessel (CSOV) has already been delivered and will be renamed Wind Dedication . The UK-flagged vessel can accommodate up to 60 people, including crew. It joins Wind Innovation, Wind Creation and Wind Evolution in the CBED fleet. CBED added Wind Creation and Wind Evolution to its fleet during 2024 as it expanded its exposure to offshore wind work. The vessel will initially be chartered back to Seaway7 and continue supporting the offshore wind contractor’s existing project commitments until early 2028. Seaway7 has been using the vessel as part of its offshore wind support fleet alongside its cable-laying, heavy-lift, and installation assets. CBED general manager Daniel Alon said the company had been looking to add another vessel for some time and highlighted the unit’s operational performance and ability to work in more demanding sea conditions. The vessel will initially carry CBED branding and its new name before the company repaints it in its fleet colours at its next scheduled drydock.",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "extract"
-  },
-  {
-   "id": "39ada2eeef7d",
-   "title": "From Lach Huyen to the world: Hai Phong seaport breaks into the global Top 100 ranking, handling 8.3 million TEU.",
-   "original_title": "From Lach Huyen to the world: Hai Phong seaport breaks into the global Top 100 ranking, handling 8.3 million TEU.",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdl9SVHFPVENZZ1l4bG1MQWo1X1c4alg4ZVhIaDdmWlE5TzV1OWlIRnc2YmRMOFFITXNwQUNLQndXNE9JRHhUZG9FeGtoMmUzVHdTUTNuT1BEX2FJWWtIYXdBV2pKV0EyUThXa1c3cWc2Szk1YjBSbjFqbnZjcjlmNGpkQXhmdnBWSHVqd0NHcUk2aGJnVTFPYTVidjdOTlZ0RkJLX3ZBQ0JCc2ppRGlZdXFYbmlDVER1REhyVkhzZElHM3FGa2F3Vg?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-14T02:26+00:00",
-   "added": "2026-10-14T03:30+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "seaport",
-    "teu"
-   ],
-   "summary": "From Lach Huyen to the world: Hai Phong seaport breaks into the global Top 100 ranking, handling 8.3 million TEU. Vietnam.vn",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "822f650b38ed",
-   "title": "Rio Tinto said high fuel costs are tilting the iron ore market in Aust",
-   "original_title": "Rio Tinto said high fuel costs are tilting the iron ore market in Aust",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS1BITjNUUFpzc01NWHRiaHNQQzE1ZnVtX3FhLWRpVE85b3ktVXZkMFdrUlhpMEExX1A2T0JHZXRNSV9hWkJPRGNzaEp2czRVVlFNZXZLVWh5d3ppZkdlRWk3V1IwVTU0WEZRMmp2cjJXN2ZOaXk5alNvaFVicWxYYzEzQXRYZ0FiZVBiUFBuNlN0aEdhRXpwV3ZKdVppRHVhTmJZUF82cw?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-14T02:18+00:00",
-   "added": "2026-10-14T09:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "iron ore"
-   ],
-   "summary": "Rio Tinto said high fuel costs are tilting the iron ore market in Aust Shanghai Metals Market",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fcb494679d46",
-   "title": "The dangerous search for Australia’s next iron ore",
-   "original_title": "The dangerous search for Australia’s next iron ore",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOUhFUklCNEgwWksyYm1kQWRtN2xOXy1XUnJBRVVDM1Fmd1pNMVZvLUlDQzVQdXowc085YWNfVW1fc0dGUjAxNDM5d0dvVWFybFByVWZzOHBIQnlSakx6T2pLTU1LSzB5VWdhUGFWQ19hbUFIUUp2Q1hwZHJhdElfQmgwY0xpNXpad3RtaU5BTzBBZFFuYW5oQllGeTBVSWc?oc=5",
-   "source": "AFR",
-   "published": "2026-10-14T01:52+00:00",
-   "added": "2026-10-14T02:57+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "iron ore"
-   ],
-   "summary": "The dangerous search for Australia’s next iron ore AFR",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "608d56217b2c",
-   "title": "Will Monadelphous Benefit From a Firmer Iron Ore Tape (ASX:MND)?",
-   "original_title": "Will Monadelphous Benefit From a Firmer Iron Ore Tape (ASX:MND)?",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOWZnQzdncHNKTS1jZUl1U0dTRVR4STNHeDVBU1FxVzM1QzBGa0lyTDl0bnA0ajBlSDZCTDFmQ1ZoOVVjcU03ZjZONGZXODBtSVlWbXIyRDdPRXBDeGZXTWk0UjZ4cjU1RF94NVJ2aGN3QkRsYXhtSy0yNUNudVAxT1pZa3d2MnRYUzdua0ZLenJiOGN0SjB0NHRxLVlpNUNqc1JQVjRBNklCdw?oc=5",
-   "source": "Kalkine Media",
-   "published": "2026-10-14T01:44+00:00",
-   "added": "2026-10-14T12:05+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "iron ore"
-   ],
-   "summary": "Will Monadelphous Benefit From a Firmer Iron Ore Tape (ASX:MND)? Kalkine Media",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ceb3e9d8574f",
-   "title": "Two New Berths and Mustin Yard Planned in $837 Million South Philly Port Expansion",
-   "original_title": "Two New Berths and Mustin Yard Planned in $837 Million South Philly Port Expansion",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYWV2dFZGOXNXbGk3YWJqTXNCYXVrdXVIR1UwaTFNNkdnS3JOUnVobU4zUnZCU1NPUjk5b3hUdnJRcXZBTUVKUDFUalVsaW5OQ3cwWlp1WXFRY1dIZWxod3RzaFJtU0htMEVIbzlsUUtTZnJLWU4ydHlDODhkS0RBMzV5cGl6cnRqTXRtMS1MYTlWU0ZINDhhX3IxODgyX3pleHRsZGhURl9HYjE0T2NrdzJnOA?oc=5",
-   "source": "South Philly Review",
-   "published": "2026-10-14T01:29+00:00",
-   "added": "2026-10-14T14:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "berth",
-    "port"
-   ],
-   "summary": "Two New Berths and Mustin Yard Planned in $837 Million South Philly Port Expansion South Philly Review",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1133f2e7448a",
-   "title": "Will BHP (ASX:BHP) Keep Riding Iron Ore Swings?",
-   "original_title": "Will BHP (ASX:BHP) Keep Riding Iron Ore Swings?",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjFoU0VXWUV4TXNuY25ZUjNWTTlEZTdjOHRzUVU1SDRISjhBTHFMbHBiRWN1eEs4aGZGNVNkRVRuVS03SDRHQ2hITktkamxrM3Y3ZHVhVDViSmlXbHRUcFFEbTh5MThNTlJwNzJsUFBORWtzNGpsRFNTcVR0MXBaREpMcXdOeExnVTAwUGNzVEE?oc=5",
-   "source": "Kalkine Media",
-   "published": "2026-10-14T01:23+00:00",
-   "added": "2026-10-14T09:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "iron ore"
-   ],
-   "summary": "Will BHP (ASX:BHP) Keep Riding Iron Ore Swings? Kalkine Media",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f8eb4d96be83",
-   "title": "Asia’s coal appetite endures as winter looms and supply tightens; Iran war boosts outlook",
-   "original_title": "Asia’s coal appetite endures as winter looms and supply tightens; Iran war boosts outlook",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa09IOHlzS2J4aTVnMXdtV21jb2RuQmV2TUFjYXdxVWE5MDYxRF9Bbkd6WlpVcVNMeFpnVWZOYWs0bUFUSkRvWXJ5QjhvWmVrVms1OFluRE1DNUJqNDlidEo1ZGYtZHhMOGhJak1hT3JEQUJ6RXgwdjlZR25oOVUxTDZLdjg5QU80ZjdEWmhmYks3Tmw1Y2djN1BnSllZMVo1SGd4TXFNSk1zTElseHg3NUt2VU9acVV3OEdCN0JzaEY4cXpXMDJIQXpxUF9ZUDV5bTRJOWpoV25ndE96M0lmMzFYbmw1Yl9fcmc?oc=5",
-   "source": "The Business Times",
-   "published": "2026-10-14T00:35+00:00",
-   "added": "2026-10-14T01:20+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "coal",
-    "war"
-   ],
-   "summary": "Asia’s coal appetite endures as winter looms and supply tightens; Iran war boosts outlook The Business Times",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
