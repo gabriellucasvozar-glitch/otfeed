@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T23:15+00:00",
+ "generated_at": "2026-10-16T23:43+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -1295,6 +1295,33 @@
     "fertiliser"
    ],
    "summary": "Homegrown solutions can reduce EU’s dependence on imported fertilisers joint-research-centre.ec.europa.eu",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e3f4cf850905",
+   "title": "Putin says 'no problem' to export grain from Ukraine - ABS-CBN",
+   "original_title": "Putin says 'no problem' to export grain from Ukraine - ABS-CBN",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlN1dHNzejNaUFRSaDBYc1cxbkJ0VGg3TkJzZG9xbVRFU2lVcDhvWTlzSWc0WjF2X2ZOQkpGa1JGMWpnVGRyVVJKc1F2TV9xT09JcG9KLUY0Y2Y4U3lGejVzdmhBaUgyRFk5dnpiVE91dHhvSDNvRXhmT0Q2YzhQTTNTVTRDX3JnNk5xcEw2QnN3RFRZYll3?oc=5",
+   "source": "ABS-CBN",
+   "published": "2026-10-16T15:06+00:00",
+   "added": "2026-10-16T23:43+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "ukraine"
+   ],
+   "summary": "Putin says 'no problem' to export grain from Ukraine ABS-CBN",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -10037,6 +10064,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "3e422dd4fa59",
+   "title": "Oil prices retreat as investors weigh supply outlook, Middle East tensions",
+   "original_title": "Oil prices retreat as investors weigh supply outlook, Middle East tensions",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU1RzbU1JckJmVXl3RnktNlBxbzNzNmxWUmMyZjFsRVVtOC1lRW1xSjlFTHFSWFhYR1poOVlqVkZ2cFlvZmVyQkVUNVNrWUsxdVBoTzV0aXRtM3NZLTVHTGFuVk1WcW1sWDlVVjhqWE1MU2Rtb2tsT1QyRW9sZDNnUW5VWDVaQWM0S3hDaGtMZWtKd05FUHFJRU9CTzJXTm0wMDA3UTlIUFFyUjRFMmlR0gG3AUFVX3lxTFBXWEF3Y1ZVNDRfbElBMl9KRVRMWmE5WndqSkE4dUJXeXdvamZpbUE3dUtCTGJpMl9OQjY2dHlLTDM2VnlxTDRYcUM5QVRScVJ0WWt5SWVMMGZOMTU3Tkl1UEdkVFB6cDR5YmFySWFNQVo1N3d0UWVWdmJrSTlGQ0hxQ0hGOWg4bVh4d2xPNTFiV3R0T0lNQVRNLVE0U01qQWxKUnRjWlNXQ2pXU0Y5bGdiZ3FCdWE2NA?oc=5",
+   "source": "The Express Tribune",
+   "published": "2026-10-15T05:35+00:00",
+   "added": "2026-10-16T23:43+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "oil price",
+    "prices"
+   ],
+   "summary": "Oil prices retreat as investors weigh supply outlook, Middle East tensions The Express Tribune",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "066bfc460eff",
    "title": "The Black Sea Shipping Crisis Is Now Reaching Nato Doorsteps",
    "original_title": "The Black Sea Shipping Crisis Is Now Reaching Nato Doorsteps",
@@ -11990,6 +12043,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "d405ab722e4c",
+   "title": "Middle East oil exports plunge as attacks disrupt Hormuz shipping",
+   "original_title": "Middle East oil exports plunge as attacks disrupt Hormuz shipping",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jb1Y0cTNUdnpUeU5odVZtTGFWRnBqV3hvY1hpWG9FS09qZV9rOTZZT3dyelExc1JvcXRzbHRhbGJZOTVVLWZkTXlHY2pLUXk1TlVzUTRwel8?oc=5",
+   "source": "TRT World",
+   "published": "2026-10-14T16:47+00:00",
+   "added": "2026-10-16T23:43+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Middle East oil exports plunge as attacks disrupt Hormuz shipping TRT World",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "9e4e05e3a0eb",
    "title": "CMA CGM plans third container terminal in Abidjan",
    "original_title": "CMA CGM plans third container terminal in Abidjan",
@@ -13713,6 +13794,31 @@
    ],
    "summary": "4 Japanese Companies Develop A Floating Data Center Concept For Ports Aimed At Easing Land And Power Shortages Marine Insight",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "986f52ecca66",
+   "title": "PKP LHS announces plans to buy 12 broad-gauge locomotives",
+   "original_title": "PKP LHS announces plans to buy 12 broad-gauge locomotives",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUzFTUERiN0N4b3I2aXRkM2VCUUZNZnZnMVJ1WVFMQWl2a3Z2M3VYQXQtOTdlT25QY0pYc21XX1NadkZONk4xVDk4dHFpS3RsTkc4SnFEcF9YTWZCUFdtWjJHUi0xRDN1ZmxCRGs4Q0FpelZrNTVVYU1VR0FLTzdPUUVEclRvSXFmcW5ZM3BOSVF3MENyNjVTWTVteTlxSTVNMncwX2wwZjV3WlVSVGc?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-14T11:41+00:00",
+   "added": "2026-10-16T23:43+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "locomotive"
+   ],
+   "summary": "PKP LHS announces plans to buy 12 broad-gauge locomotives RailFreight.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -15975,6 +16081,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "21a5c6d1fa6f",
+   "title": "Egypt, Turkey and Bangladesh seek alternatives to Black Sea wheat",
+   "original_title": "Egypt, Turkey and Bangladesh seek alternatives to Black Sea wheat",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVXY5eFIzVzY3LXpvc0dpTE5IUVg3NlJmdk1tdXNrNWxTQ1N3WEd0Mm9NU2NfdU81N19TdnZpUjFxQWhWb0g4Mmt1bDl5SnBOSGFpZmJxbnNyTG5paFkwZ1hIUVB6dmNfTnhyTzhmQzJrWnUtTWZHME9zTWJUc3VRRXdwSXpGa3hyRVdLVzVWRndMckNXSHJOS3FaVlVqX3p5SVE?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-14T07:10+00:00",
+   "added": "2026-10-16T23:43+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "black sea",
+    "wheat"
+   ],
+   "summary": "Egypt, Turkey and Bangladesh seek alternatives to Black Sea wheat UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4cdfb31bc867",
    "title": "SmartSea links crew travel and gangway access in dual launch",
    "original_title": "SmartSea links crew travel and gangway access in dual launch",
@@ -16420,141 +16555,6 @@
    ],
    "summary": "Will ASX 200 Miner Champion Iron (ASX:CIA) Gain From Chinese Steel Restocking? Kalkine Media",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5bfcd657f4ab",
-   "title": "Elisabeth Braw: The Undersea War",
-   "original_title": "Elisabeth Braw: The Undersea War",
-   "url": "https://splash247.com/elisabeth-braw-the-undersea-war/",
-   "source": "Splash247",
-   "published": "2026-10-14T06:07+00:00",
-   "added": "2026-10-14T06:23+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "vessel",
-    "war"
-   ],
-   "summary": "A ship’s anchor can wreak havoc on the world’s undersea infrastructure, something that has provided plenty of rich material for Splash reporting in recent years. For Elisabeth Braw, the Cook Islands-flagged tanker Eagle S provides one of the most brazen examples. On Christmas Day 2024, the vessel was accused of dragging its anchor 90 km across the Gulf of Finland seabed, severing the Estlink 2 power link and four telecommunications cables before Finnish authorities intervened. That collision between maritime law and an emerging security threat runs through Braw’s new book, The Undersea War: The International Battle for Supremacy at the Bottom of the World , published by John Murray this month. Braw, a senior fellow at the Atlantic Council who leads research into threats to the global maritime order, started writing in October 2024, having followed the subject for considerably longer. The 2022 Nord Stream pipeline explosions remain in the headlines. The Eagle S affair followed the Yi Peng 3 cable investigation and has been succeeded by further suspected anchor-dragging incidents in the Baltic. The book ranges from the Baltic to the Pacific, drawing on interviews with naval officers, undersea engineers and cable operators to show just how dependent modern economies have become on infrastructure that is difficult to monitor and harder still to defend.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "88e783066b75",
-   "title": "Argentina's Wheat Tax Cuts Turn a Strong Harvest Into Export Muscle",
-   "original_title": "Argentina's Wheat Tax Cuts Turn a Strong Harvest Into Export Muscle",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMW1veC1OTEtOcUpSNUt6cXlEbDRhVnJOOVlyNGhhTUdITkdkZjluZ1JuOG00NzRpU3Y0ZnFUMkRseTNDaHUybC05OGpCbjVUTzFBNU9pUC1sb1BEQUxnZkpkX0hTYWRTenJTUXZwMVM5ZmZaeS1TOG9ZM1FMOGs1MmNnY3dGaVpDRmdZYUttUmdPdnJXN0FUQW1mVnZhQWJTMlRQd2dEcVR2dw?oc=5",
-   "source": "StoneX",
-   "published": "2026-10-14T05:55+00:00",
-   "added": "2026-10-14T12:05+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "wheat"
-   ],
-   "summary": "Argentina's Wheat Tax Cuts Turn a Strong Harvest Into Export Muscle StoneX",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3d01492d1884",
-   "title": "Ports get March 2027 digital reform deadline while shipbuilders receive new credit-risk cover",
-   "original_title": "Ports get March 2027 digital reform deadline while shipbuilders receive new credit-risk cover",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUxZNVZicTF5d3ZZa294allNSDhGTmRNc0psdS0wMTRvQnZFQUNFV1lUelBTOGRkWElabDFwb2dtTFJQRlhReXpMWHZTYVZRdC1nM1JQTF9KVHYweU5oR0I1dnIzclpsa3ByM1hyS0tVa2IxZkt4d0ItNUlNdHlmNW1SWXVBbHlJS3dMYjRYYnRDVGtqSjBQajNncU1IWE11NkFGatIBqgFBVV95cUxQSnJLd2poUk9lMkdSMFRQWXR2bDJZWnpEeXV5UjVZNHpZQXZGdXJ4UzdOXy0xLUVuVTJsc0lxSE8xZ19KVW1lckl1TUx1eFp1YVpHRVJDZkcxYWNyZi1WQzYweDF2RjNNQzNybTVEVWpsS25hbEFGZlNVOHpiLThhakJGMDI3ZFhQZDNybUVadXc3R0QwU2RtT3ZNTFBQTUJjNHBrbHVTQTIwUQ?oc=5",
-   "source": "The Week",
-   "published": "2026-10-14T05:50+00:00",
-   "added": "2026-10-14T12:05+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Ports get March 2027 digital reform deadline while shipbuilders receive new credit-risk cover The Week",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ab73b995669c",
-   "title": "Iraq gains new Red Sea trade link as Saudi NEOM port advances Gulf logistics corridor",
-   "original_title": "Iraq gains new Red Sea trade link as Saudi NEOM port advances Gulf logistics corridor",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3g2WklCMUhXLUx2THQxd2pFbFZvTmsyY3MzUlV6U2dCVlJQcExoVVRuaGdqeGsyM3F3Q0VkNzZ3ZWVwcS1tanRPcGxyMWF1dzFlbHlGdWVfekZGb2VPdzh6dE5DSXctZ3NDR3ZNbzNKZjFGb1Jnb3JRQUpkUERhNkpWNjhnaUFwYzdiTUNwMkQ2WXNBVkhSc19nN2Q2OGhsc0RBRXVMbHM1ejdfSGg3UlVZY2pZdDQx?oc=5",
-   "source": "IraqiNews",
-   "published": "2026-10-14T05:43+00:00",
-   "added": "2026-10-14T12:05+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "logistics",
-    "port",
-    "red sea"
-   ],
-   "summary": "Iraq gains new Red Sea trade link as Saudi NEOM port advances Gulf logistics corridor IraqiNews",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a420b6e318a3",
-   "title": "Aegis Logistics approves USD 809 million Tristar stake acquisition to expand global liquid logistics footprint",
-   "original_title": "Aegis Logistics approves USD 809 million Tristar stake acquisition to expand global liquid logistics footprint",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSHBzcEdZT0JTdTB2Wk5FSVFHbVpnYVFmN1l1V3VFaXFNZmEteTZ1RzFtdWQtSHA2U09WMzRKX1pDR3VVRmk2TWVpaWJTMHJ6bnBQNGRvdG55cE4yMzhGWUtJamR1NGdUOGliM19IQURKb0JJMVNYNVp4ZHFfTkZsak1FNmhtNDlCdzBnOG4yM2g2elhGTHZpaXptWFZrY1J1LWFiRTBHeWt2YU9LUC0xNkNKSkVJQnBpbFNvRWZlQlpWcF9kNEVDbEo5MkRyUVpfR0xBd3JoNWxkSmpSVkwwY1U1T3pzcGxnR093bmpsVko?oc=5",
-   "source": "Dalal Street Investment Journal",
-   "published": "2026-10-14T05:36+00:00",
-   "added": "2026-10-16T23:15+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquisition",
-    "logistics",
-    "stake"
-   ],
-   "summary": "Aegis Logistics approves USD 809 million Tristar stake acquisition to expand global liquid logistics footprint Dalal Street Investment Journal",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   }
  ]
