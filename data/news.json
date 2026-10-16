@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T13:25+00:00",
+ "generated_at": "2026-10-16T14:08+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,59 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "975db27a2091",
+   "title": "Brazil poised for continued production increases",
+   "original_title": "Brazil poised for continued production increases",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ01Vd19qbzk2S0xGNVNnNU80MUl0VENkZmRGckswczhjaEdYWjJGQ0o5aXpjZVFOaHZwb0t1Smp4cC1xYVRiY3hFa3ZIYmdtOHYxbUxYbjY2RmRZajhLMmtacHB1bnFZZjJWOHNQUGlud1dSdE1mY3NzYXZFYlUtM2lsckZBNUJFNHN3TDJqWnV2endQdGc?oc=5",
+   "source": "World Grain",
+   "published": "2026-10-16T14:02+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Brazil poised for continued production increases World Grain",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "29c6b6a1d10f",
+   "title": "Two Ships Sink Near Strait of Hormuz as Attacks on Container Vessels Escalate",
+   "original_title": "Two Ships Sink Near Strait of Hormuz as Attacks on Container Vessels Escalate",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTJWSnlpdWhLa1UzN0FZU1p1TUlpSEZuMkpEQjhEOUJpVzhWcXkzWDZWbllLcUtSaktCd0MxQ2FlNS1JSjM1M0lpaGVRR3JHUktBbm93aUxSVVRzelpFQ3FBSzZHTDdjbVZfV2FaZVZHQnFoNFVMaTUwZEN1VUFZajRITEl3N0hncEo4?oc=5",
+   "source": "Yahoo",
+   "published": "2026-10-16T13:00+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "vessel"
+   ],
+   "summary": "Two Ships Sink Near Strait of Hormuz as Attacks on Container Vessels Escalate Yahoo",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "ee72c861f246",
    "title": "P&H Starts Construction of Two Grain Silos at Port of Quebec - News and Statistics",
@@ -68,6 +121,63 @@
    "summary_method": "feed"
   },
   {
+   "id": "9bd435da705f",
+   "title": "Iran Ships Some LPG, Jet Fuel Despite US Blockade, Data Shows",
+   "original_title": "Iran Ships Some LPG, Jet Fuel Despite US Blockade, Data Shows",
+   "url": "https://gcaptain.com/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows/",
+   "source": "gCaptain",
+   "published": "2026-10-16T12:10+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "security",
+    "shipping"
+   ],
+   "summary": "The guided-missile destroyer USS Spruance (DDG 111) on patrol as part of the U.S. blockade on ships underway to and from Iranian ports. Photo shared by US Central Command DAMASCUS/LONDON, Oct 16 (Reuters) – Iran has managed to export some liquefied petroleum gas and jet fuel since July, despite a US naval blockade, shipping intelligence showed and people involved in security said. Six of the eight gas tankers and the jet fuel tanker are under US sanctions for transporting Iranian petroleum and petrochemical products, a Reuters analysis of the vessels and sanctions imposed on ships by the US Treasury showed. The official said the appearance of a vessel on US sanctions lists is not the only factor to make it subject to the blockade, adding that US forces are also closely monitoring some ships without taking action against them for operational reasons. Centcom said in an update on October 13 that during the three months of the latest blockade, four commercial vessels had been disabled and 135 ships had been turned around by US forces. A US Treasury spokesperson questioned shipping data suggesting vessels had evaded the blockade, saying ships could spoof their locations or use false identities when loading. “If Iran can move product tankers through, even in small numbers, jet fuel may be a good option.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "d1312804855b",
+   "title": "Ship-Fuel Crunch to Persist Despite More Oil, Vitol Says",
+   "original_title": "Ship-Fuel Crunch to Persist Despite More Oil, Vitol Says",
+   "url": "https://gcaptain.com/ship-fuel-crunch-to-persist-despite-more-oil-vitol-says/",
+   "source": "gCaptain",
+   "published": "2026-10-16T12:07+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "hormuz",
+    "prices",
+    "shipping"
+   ],
+   "summary": "Holding tanks are seen in an aerial photograph at Colonial Pipeline's Dorsey Junction Station in Woodbine, Maryland, U.S. May 10, 2021. REUTERS/Drone Base Oct 16, 2026 (Bloomberg) –Accelerating crude exports through the Strait of Hormuz aren’t translating into higher production of a dirty shipping fuel, according to a top Vitol Group executive, tightening supplies and sending prices soaring. “Many are looking to increased crude flows through the Strait of Hormuz as a silver bullet, but more crude does not necessarily mean more high-sulfur fuel oil,” Gallagher said at Sibcon . North Asian refiners are set to use more than 1 million tons of HSFO to feed upgrading units in November after disruptions to Saudi crude exports from the Red Sea, said Gallagher. Bunker suppliers and traders present at Sibcon said there’s fierce competition for blending components used to reduce impurities, flammability and viscosity in ship fuel to produce LSFO grades. Essential maritime and offshore news, insights, and updates delivered daily straight to your inbox Dive into a sea of curated content with our weekly ‘Dispatch’ email. Saudi Arabia is looking at ways to expand its oil pipeline capacity to destinations outside the Persian Gulf to 10 million barrels a day within two to three years, said Energy Minister Prince Abdulaziz bin Salman.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
    "id": "08e69aa8c892",
    "title": "Egypt opens US$13.1M El Amreya dry port in Alexandria",
    "original_title": "Egypt opens US$13.1M El Amreya dry port in Alexandria",
@@ -93,6 +203,58 @@
    ],
    "summary": "Egypt opens US$13.1M El Amreya dry port in Alexandria Food Business Middle East & Africa",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e51d2567ade5",
+   "title": "Export bodies raise concern over tariffs and port efficiency",
+   "original_title": "Export bodies raise concern over tariffs and port efficiency",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblRzWHJtWnFCNTF2OWN2QmxaM3BudUk1a3FybnNLV0gtaEYxLXhUb2NaVUhNWFRnaU1HRl9mUEdjOU5sTEJSa1BEdUE1VkFRTW5kM0dVVnZaRGwxOGNEckt6M2duZzVHLXlZWWN5T0s1N0NfYUh4MkVLdTctNjh0WUg0NTR5VG5rQXcyaU1XSGNTUXg3SkN4U0FaZHRVT2c?oc=5",
+   "source": "Freight News",
+   "published": "2026-10-16T11:45+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "tariff"
+   ],
+   "summary": "Export bodies raise concern over tariffs and port efficiency Freight News",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b94328d97731",
+   "title": "Coal Making a Comeback: How Fast and How Long?",
+   "original_title": "Coal Making a Comeback: How Fast and How Long?",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa1RQLU5Fd1dWZlBKVFZfUVJwcmRHRlpuaE5SMGhEM2NpbVhDSHlHa2ttdlFPMlpDQmx0bGEzZVhxd3ZsZkFhR3E1UGVHaU9wUTBkdGw4MXVrQmw2NFZOYXdxZEs1Skh4RHZ6emFfYnhEa2dBTUctQmh5eVRjckh1WUlR?oc=5",
+   "source": "Energy News Beat",
+   "published": "2026-10-16T11:40+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "coal"
+   ],
+   "summary": "Coal Making a Comeback: How Fast and How Long? Energy News Beat",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -297,6 +459,60 @@
    "summary_method": "extract"
   },
   {
+   "id": "2f220d6ba632",
+   "title": "Bruksela zatwierdza przejęcie terminala zbożowego w Gdyni przez Bunge i CM",
+   "original_title": "Bruksela zatwierdza przejęcie terminala zbożowego w Gdyni przez Bunge i CM",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTGJ5eFpRRHFsX3g4ZTlrb3FjWVZTYVlwM0R6RjVYTVBmX3I5RFZHcDBRTUZIRnJCSXBQbmd6Ui1nQ0FkVmNGNGdfcENCSVJwZnA5V2thN3pxNTdsUVZjMTNkT2dTMkdTLU5ia2Ftcl83YTZrOWR5ek43cDBNVUNiVk0ybllfMERTRVFxcjFhR25LQWVOWXpFZ2pOQjhrMDlGWDA3UjZVT2VYUUJEN0JPbnIxVjlaYUVhTURWRlB3cUtYQmp2enBySzhmZ1NXT1lwckJr?oc=5",
+   "source": "CenyRolnicze",
+   "published": "2026-10-16T11:11+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "pl",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "przejeci",
+    "terminal"
+   ],
+   "summary": "Bruksela zatwierdza przejęcie terminala zbożowego w Gdyni przez Bunge i CM CenyRolnicze",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5bf11f222b39",
+   "title": "China Trims Soybean Crop Forecast, Holds Import Outlook Steady",
+   "original_title": "China Trims Soybean Crop Forecast, Holds Import Outlook Steady",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWZ2YzVuZnhlX0pVak1kcGFEWlNvaEdsdWo1c1NkbktMMTFLakRiZy1NVnIyWURDb2VEdWxNWTJiT2F4ZGpLN1Z5UDZRWFd4VWp4UzhfeHJQYU8tN1Y0V0I2TXhmNnNnZHlhZUNCeklTM0liNEg1czRrMTFGMFNLVUZDcnBGM3dPZnMxa0hfeV9ZcHpsay1HLUhqNzZjZFhqLTZPVHdaODd5NVBKVXNHdnpONFdyV2hr?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-10-16T11:03+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "soybean"
+   ],
+   "summary": "China Trims Soybean Crop Forecast, Holds Import Outlook Steady Global Agriculture",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "1729c3eac015",
    "title": "Ecologistics leases 44,500 sqm warehouse near Prague",
    "original_title": "Ecologistics leases 44,500 sqm warehouse near Prague",
@@ -493,6 +709,33 @@
    ],
    "summary": "Rotterdam TEU throughput remains flat in first nine months WorldCargo News",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e38ab48bca2c",
+   "title": "Terence Corcoran: Stelco caught in an unwinnable trade war",
+   "original_title": "Terence Corcoran: Stelco caught in an unwinnable trade war",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ1I3bnNzakJRbXp4TG1oNXVPczlSQ2ZrZXpSc3NrNDBBNmpZUGllWnRUTUVfT2NzYVNWak84M2pMNWZPNmtGUFVYbDNkQ3RXRi0zS1JRQnpKR0NqVjNjdGNrWWdfaHVaYUdYUnozRVR0QWI3aVhjRGlFb0N6c3pEWWtVeW5sRHBzWVhBWDFCaUo0TzRBOGc?oc=5",
+   "source": "Financial Post",
+   "published": "2026-10-16T10:03+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "trade war",
+    "war"
+   ],
+   "summary": "Terence Corcoran: Stelco caught in an unwinnable trade war Financial Post",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -1139,6 +1382,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "e6348a152d6b",
+   "title": "Low Rhine & Danube Levels, Emergency Transport Measures Reprice Grain & Oilseed Risk",
+   "original_title": "Low Rhine & Danube Levels, Emergency Transport Measures Reprice Grain & Oilseed Risk",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLW8yUDh3R1h5NUtFVUw0Q1pBYU5oX2FZSlRTaTVoUWExRjdDYUdlMHdXa2NPLVZkSE5JMU80SDB1MnV0b3pweWVkMEtoY2VOcmtkMlNBZkJ5N0ZKYzhDQ1l4N2pydkl4U0UycUNtRjgtNmpMME9mNW80NXBQTDFyd0l5UFNLaG9ISHY1bGNZWUMxa3N0ekhteWQzNzFuXzVGNnBmemJoeVVocGhYUk1uOUdVdXI2eEgyY0JndnkyWUdERjVwMHA3SUtwbDFUMV8xbXFWY1djVV9BY05FcTBwN0l3?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-16T08:46+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Central & Eastern Europe"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Low Rhine & Danube Levels, Emergency Transport Measures Reprice Grain & Oilseed Risk CMB News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "ea9bc699d58e",
    "title": "No, this oil tanker didn’t carry Russian diesel to the United States",
    "original_title": "No, this oil tanker didn’t carry Russian diesel to the United States",
@@ -1302,6 +1570,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "42e5e90eab41",
+   "title": "Hormuz ship attacks hit record as Iran broadens campaign against commercial shipping",
+   "original_title": "Hormuz ship attacks hit record as Iran broadens campaign against commercial shipping",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzBHN0hLaTROWXB5a2FGc1kzbERrbDFLWnl0WTVlMjZwUk1RTGVSTmhWR2FaSEN2alRNaWVqX0lJX3BRV2hRMl9hdDZXUm1HNkJmVkowcHliNlctRHdYNGlWdkxSamRWaTFwWGlLbWpkOGloaU5MVFZkR1BDN2d4RHMwaUtjMGVG?oc=5",
+   "source": "Kuehne+Nagel",
+   "published": "2026-10-16T07:49+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Hormuz ship attacks hit record as Iran broadens campaign against commercial shipping Kuehne+Nagel",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3aa4040d3287",
    "title": "Philadelphia boost for breakbulk in USD837 million investment",
    "original_title": "Philadelphia boost for breakbulk in USD837 million investment",
@@ -1324,6 +1620,31 @@
    ],
    "summary": "Philadelphia boost for breakbulk in USD837 million investment Heavy Lift & Project Forwarding International",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "29084a02a4cc",
+   "title": "Global protein supply faces risks from imported feed and fertilizer dependence",
+   "original_title": "Global protein supply faces risks from imported feed and fertilizer dependence",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkRBa2JkZERmOXZydThrSGtHUHAzZHpfUTNpMjJ6cWVCWmJ0a3VKakJlZkRQQ0xGb01qanZLZ050ZHV4M3BZR3p1WExlS2FuM1NfeVpSeVpia3NpdEhSQkROOG54ZzY5SzVRUko2U05qem5aYWh2cEx4dnFfZ3dmWnlfa2NjOGN3TElzcEln?oc=5",
+   "source": "Food Ingredients First",
+   "published": "2026-10-16T07:45+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fertilizer"
+   ],
+   "summary": "Global protein supply faces risks from imported feed and fertilizer dependence Food Ingredients First",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -2341,30 +2662,36 @@
    "summary_method": "feed"
   },
   {
-   "id": "65af372d37a4",
-   "title": "Two more ships burn on the western Black Sea as the grain war escalates",
-   "original_title": "Two more ships burn on the western Black Sea as the grain war escalates",
+   "id": "02efff2f53aa",
+   "title": "Russian drones hit two more ships in Ukrainian ports. They are now hunting the grain route all the way to the Danube",
+   "original_title": "Russian drones hit two more ships in Ukrainian ports. They are now hunting the grain route all the way to the Danube",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbWI3eVlXcnpwMEFZZmZsQWcwOGlyN245d2J4SkM3LUE2VlZKMHVZSFFNZS1fTmE5elR4bXRDaWdDOGVvdHVYS3NlOW9NcWg1Z0pVQmI4STdTVGNQd3FYeVlXTUJZV3NhSGhoSjN2TWhhWHBx?oc=5",
    "source": "Euromaidan Press",
    "published": "2026-10-15T22:26+00:00",
-   "added": "2026-10-16T01:20+00:00",
+   "added": "2026-10-16T14:08+00:00",
    "lang": "en",
    "category": "geopolitics",
    "categories": [
     "geopolitics",
+    "ports",
     "commodities"
    ],
    "priority": "medium",
-   "score": 9,
+   "score": 14,
    "regions": [
-    "Ukraine & Black Sea"
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
    ],
    "tags": [
-    "black sea",
+    "drone",
     "grain",
-    "war"
+    "port",
+    "ports",
+    "russia",
+    "russian"
    ],
-   "summary": "Two more ships burn on the western Black Sea as the grain war escalates Euromaidan Press",
+   "summary": "Russian drones hit two more ships in Ukrainian ports. They are now hunting the grain route all the way to the Danube Euromaidan Press",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -15172,6 +15499,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "2787e66bc654",
+   "title": "New Wave of Hormuz Attacks Raises Stakes for Ocean Carriers Amid Falling Rates",
+   "original_title": "New Wave of Hormuz Attacks Raises Stakes for Ocean Carriers Amid Falling Rates",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVkxjcmd1T2N6blhRSGoyUlNQdHo4S2JqZUlWUUNjSGhsRDhKQ1BRZWRkdk9NU0Nzbm55MS1jVy13YXJjWHFzckJtWGkyeHlLQm0yeUhUVmZwM1l6X0YxX20xYmY0aTFNLXFUUTljMnFyOTZWSXhQaGZzWWhpUEFzeG9LNnJBNUg4Mlo5U0VWZXVuMzNEd0dYZFdoVnBFMHMzaEpnZGF2VjF6c3h1RGlVWExXcS1sOVd0MjNrVTZ0a2dqX0U5LUg1RlVXYnRqUQ?oc=5",
+   "source": "WWD",
+   "published": "2026-10-13T19:01+00:00",
+   "added": "2026-10-16T14:08+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "carrier",
+    "hormuz",
+    "stake"
+   ],
+   "summary": "New Wave of Hormuz Attacks Raises Stakes for Ocean Carriers Amid Falling Rates WWD",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e12003bd7e22",
    "title": "Moscow accused the EU and NATO of restricting shipping in the Baltic Sea and hindering Russian trade",
    "original_title": "Moscow accused the EU and NATO of restricting shipping in the Baltic Sea and hindering Russian trade",
@@ -16213,353 +16570,6 @@
    ],
    "summary": "South Korea Promotes Arctic Trade Route teleSUR English",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a14c34550dea",
-   "title": "Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers",
-   "original_title": "Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3Q5ZGt4THRJck9ncW9NTnVKY0tDd2VERWpXVnF2djJWcHM1ZDhCanRfRWl3M1dNbTBabm5Hd2RlUTFIZlRVd1NtMlJGQnlBUmN5QW05WnJTZVFvdF9qVUdEUTctWXpLNk9Rd0JqVm83Um52aTR2aXBFUjE3cHpkRWVMcDd2b0FMV1BOT0xuZ3BwU21vVXdGV3lxN2x4RlBwM2REUWpJaEM5YjlHMUtvTHJBOW8wTXIxR3BYMjJGRjA1Tkt4TTB5dHN30gHKAUFVX3lxTE03dDlka3hMdElyT2dxb01OdUpjS0N3ZURFaldWcXZ2MlZwczVkOEJqdF9FaXczV01tMFpubkd3ZGVRMUhmVFV3U20yUkZCeUFSY3lBbTlaclNlUW90X2pVR0RRNy1Zeks2T1F3QmpWbzdSbnZpNHZpcEVSMTdwemRFZUxwN3ZvQUxXUE5PTG5ncHBTbW9Vd0ZXeXE3bHhGUHAzZERRakloQzliOUcxS29MckE5bzBNcjFHcFgyMkZGMDVOS3hNMHl0c3c?oc=5",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "2026-10-13T14:30+00:00",
-   "added": "2026-10-13T16:14+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "oil price",
-    "prices"
-   ],
-   "summary": "Japanese Refiners Buy Middle East Crude Through Ship-to-Ship Transfers Crude Oil Prices Today | OilPrice.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4c0883d4d0c8",
-   "title": "Russia Ships Less Crude on Slowdown in Black Sea Loadings",
-   "original_title": "Russia Ships Less Crude on Slowdown in Black Sea Loadings",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYzFpeXlLVnpWUFNiU1RuN29NYnVEempmZmtid2Q2cm53V2d3SE9UeDhvMl9qYVhLeW1zclBzODZtVmRhcDlPZXdtRGEyN2tPYVVHUmpYVzFTNnlfU3NISnF5UjY3ODRRQkdXU3VMWnBQOXFBYUZjYngwZzlub0xkUDQ0TnFOcEg2OE5FRkhRQ0FDZ1JpaDREUzZGc3Q4bnh3dTNYV3NKZmdhRkVqcHZZ?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-10-13T14:19+00:00",
-   "added": "2026-10-13T16:14+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "black sea",
-    "crude",
-    "russia"
-   ],
-   "summary": "Russia Ships Less Crude on Slowdown in Black Sea Loadings Bloomberg.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "27231f1127e2",
-   "title": "Alstom delivered 18 TRAXX Universals to CLIP Intermodal",
-   "original_title": "Alstom delivered 18 TRAXX Universals to CLIP Intermodal",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM0ZHZGFXUG5TLWt2elcxcHJGTlgzUk1uZ1lab2RXRmxLRXZpc2xWV2ZsdGZWTmR0NnUxd3lNUlRxRUxrX2JoMHI5VHE4VWxCTUF0VC1FRElXTEZhTzBoaXc0N2VUV0RVeUF5a1AwT01XSjRPN3Jkejl3TGFLM244MHZWWEtWOGRLOHhmODlTcldTZkk?oc=5",
-   "source": "Railvolution",
-   "published": "2026-10-13T14:18+00:00",
-   "added": "2026-10-16T05:52+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "intermodal"
-   ],
-   "summary": "Alstom delivered 18 TRAXX Universals to CLIP Intermodal Railvolution",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ee6da9e0c63e",
-   "title": "Susza i niski poziom wody w Renie zakłócają logistykę zbóż i dostawy pasz",
-   "original_title": "Susza i niski poziom wody w Renie zakłócają logistykę zbóż i dostawy pasz",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDdUeEJLVDQ4ZkI3aXpSb3NtR3hKcDlsZGs1REhERGoyTXdnazRNRDhPTVdSVzE3TkZUdEYxdWRXdEEycVlyd1Y3VDBRUVUyeWUtdmRUN3hVWWFvT183Z2N6eGM5ekRBSDlWWHEyOVhqTm1EUkVRLUc1ZWRfTHFEaFA3UWFxTU9tZ29XVVpDS0FKV3dFUWJackFNWXh4UEJ4anpGMnltaG40bFczb2Zr?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-13T14:17+00:00",
-   "added": "2026-10-13T19:51+00:00",
-   "lang": "pl",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistyk",
-    "zboz"
-   ],
-   "summary": "Susza i niski poziom wody w Renie zakłócają logistykę zbóż i dostawy pasz CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f2b100c61e64",
-   "title": "US-Canada trade war: How Canada’s retaliatory tariffs affect e-commerce",
-   "original_title": "US-Canada trade war: How Canada’s retaliatory tariffs affect e-commerce",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObWJqYU9qRTFCNFNPcF9kUzlCVEp5ODBHMlRjWmRESE5xenhTdkR6UncwWlp6cDZpOG1xazRRVU1fMTBST29pQi03RG1lRGV0UXBDbldNaTMyM2R1SnVhQmRHeUVaaWpxWl93dy1lbnpnUmxlODMtcHQzWkw0VDl4Z19ZdDRmLW0wZFVwTVNaVU5KQWZvdDNrX1dOWkR4ZnZubVdKcGhR?oc=5",
-   "source": "KNSI",
-   "published": "2026-10-13T14:12+00:00",
-   "added": "2026-10-13T15:52+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "supplychain",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "tariff",
-    "trade war",
-    "war"
-   ],
-   "summary": "US-Canada trade war: How Canada’s retaliatory tariffs affect e-commerce KNSI",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0c123bc63bd0",
-   "title": "Modern Terminals and CLPe sign MOU on electrification roadmap for Hong Kong container operations",
-   "original_title": "Modern Terminals and CLPe sign MOU on electrification roadmap for Hong Kong container operations",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQWJZNUlXMElHcjdDenlqbUNXYkp5YzZ0WmhBX0JWSHFxQmhfdHViTHFKYU4zYkZkTzJjdE9qeHo0ZkhnVEROTy01S0FaV0ZwOTk5bEtqZWVEYXpRSlI4U0U4blJZSG5JcHFnN2M3UVk0TlU5Y3dWaENZeFpLLTRQVlJaVjZ2dlU3Rm9ZNkRheENyakNkWE56dmF0M0VzWlpodDBESA?oc=5",
-   "source": "Container Management",
-   "published": "2026-10-13T14:11+00:00",
-   "added": "2026-10-13T15:52+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "electrification",
-    "terminal"
-   ],
-   "summary": "Modern Terminals and CLPe sign MOU on electrification roadmap for Hong Kong container operations Container Management",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2b9be2cbf952",
-   "title": "Global shipping reliability sinks to 27 per cent",
-   "original_title": "Global shipping reliability sinks to 27 per cent",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd21fZnE3TmxxaDhZRGRUZHJMVUhpLVNxekVLRnFIUUV0MDdhb0x1Ym8yamxWbE90U2lYRWJNSUR0Y1BRQS1lQjVFMkZWUVIzZnFoaWVabjJIMUxaTDlaRXFBT3dDTkF3WTh3OXVFUF9aOTJqeXdEcjY0aTVUaXp3NUNlN1VRRGV5OUo1aXNmYU5NZWpickM0RE56ZDJhcDQ?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-13T14:11+00:00",
-   "added": "2026-10-13T17:02+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "shipping"
-   ],
-   "summary": "Global shipping reliability sinks to 27 per cent Port Technology",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fe9138ffa9b4",
-   "title": "Velenje coal mine could become large underground thermal energy storage facility",
-   "original_title": "Velenje coal mine could become large underground thermal energy storage facility",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZFFtQV9lUU5PR3l0N0M0QV9CbV9SQlNVVlc5SEk2SnVYRlRveXM1bmZRemFzcHZzazBjcnZ2LXBaS1A3Q3pUd014d0Y4bGdkWW1hXzNKa1VFamlfYmJEcmhORHN0aXJaWG1YeXZCYjFvSnh0ZXh6d1cxUVAxTHJ3M1E0TVI2Q3ZuQ0xZYjk0WDZwZGxOQUI0TnR1ZHB4Tkoxc0FqQUpoOUctS0h0a1NxQlhhVS00Zw?oc=5",
-   "source": "Balkan Green Energy News",
-   "published": "2026-10-13T14:03+00:00",
-   "added": "2026-10-13T14:06+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "Velenje coal mine could become large underground thermal energy storage facility Balkan Green Energy News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6be7af0d1b3a",
-   "title": "Kazakhstan seeks Antwerp-Bruges partnership for Caspian ports",
-   "original_title": "Kazakhstan seeks Antwerp-Bruges partnership for Caspian ports",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05c3hKVVg4RmJvVzV3WWlvZm5CUlREblJHaGVkSGhybHQ5OGt0bXM0RndYUjBtakJIdzFnd0VjN2g4d3BNVWZkQkdLOUppSWFuUlhzbnNrZW9HaHZaUHFF?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-13T14:02+00:00",
-   "added": "2026-10-13T14:34+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe",
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Kazakhstan seeks Antwerp-Bruges partnership for Caspian ports Trend News Agency",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3a4c5ef48afe",
-   "title": "Details over €46m fertiliser supports announced",
-   "original_title": "Details over €46m fertiliser supports announced",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lX0M1aXd6azhaNm11VmpFeUY5TlZkV0ZSaFJpTVQtTXFVdWxURHI3dlcxYUNHUlZoWHpiSkNkcm81d1VmLWhZNFB2clZjbGR2N3hrZkdLSnNLT3NKRjJGMlNZd2FGSDVkMmlFeGJwZDJtYnoyN29nMFFINA?oc=5",
-   "source": "RTE.ie",
-   "published": "2026-10-13T13:52+00:00",
-   "added": "2026-10-13T14:34+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fertiliser"
-   ],
-   "summary": "Details over €46m fertiliser supports announced RTE.ie",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fc50fd759116",
-   "title": "India Iron Ore & Pellet Exports Plunge 67.2% to 0.7 Mt in September 2026 - News and Statistics",
-   "original_title": "India Iron Ore & Pellet Exports Plunge 67.2% to 0.7 Mt in September 2026 - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1laSExldG90YlBwSkt5ZlVKb2pJUFRERG9JeHU4U2xzVWF4bjEyRHY4VlN5ZTNPcENwclBVQkV2c1k0OUxFMGhCLS1nNXVJVHVlU3BrenBFRjlTdkNzM1FZdm9IZUtTUWNxdFJwWlRjdUdUdVFNalpvalFHbmVMMnhtQ1BTTEpOeWRnRFlsRWp1Zk1rRXBLNkltcVdiNzBvcWUyX3FmQnM?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-13T13:40+00:00",
-   "added": "2026-10-13T16:14+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "iron ore"
-   ],
-   "summary": "India Iron Ore & Pellet Exports Plunge 67.2% to 0.7 Mt in September 2026 - News and Statistics IndexBox",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8963094a2f53",
-   "title": "Port of Aalborg selects supplier for shore power and BESS",
-   "original_title": "Port of Aalborg selects supplier for shore power and BESS",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcnpib0cxajBrUjBOVllsdXMteXNaSXVMTHVZbnNoRUxNZk1DYW5SOG1lWUx3dE4xRzlZYUlKTE9Ka0JFczN3eXgyT0F5UlFfQVJ5Ui1SVlNGSkE4RHItZ3Jpa0V2ck5FNm5HRnprbGd6c0trWjlwUV9ZWnROc0w5Y1lKcVpaUGYtOE5RMkpiYkZuRENPRGl1UUJFVHV2bGFFMHJRWg?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-13T13:38+00:00",
-   "added": "2026-10-13T14:06+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "shore power"
-   ],
-   "summary": "Port of Aalborg selects supplier for shore power and BESS WorldCargo News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c7a34fda7b0a",
-   "title": "Baltic Dry Index Hits A Two-Month Low As Capesize Rates Slide",
-   "original_title": "Baltic Dry Index Hits A Two-Month Low As Capesize Rates Slide",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTnJJRFpQUjY3NjVxYUNtdVo4VG1iTzhDU3pVVEc5UFF6UXBXWTZKQmN1MWstVW1HdDFQajhfeHZEanhHUF9YbHZKdDRkTkFBcEl6dmRlVGkyZUdCdHZCdm50NG1GdTdaenhvOEc2TDdlVzVUR0p1VUtOMTNlRDd3ZW5VY2hmLWR6MGtOblhJWVNSUGIy?oc=5",
-   "source": "Finimize",
-   "published": "2026-10-13T13:37+00:00",
-   "added": "2026-10-14T12:47+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry",
-    "capesize"
-   ],
-   "summary": "Baltic Dry Index Hits A Two-Month Low As Capesize Rates Slide Finimize",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
