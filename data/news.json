@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T18:04+00:00",
+ "generated_at": "2026-10-16T18:42+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,37 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "f9ef17d701aa",
+   "title": "Remarks by President António Costa at the press conference following the European Council meeting of 15-16 October 2026",
+   "original_title": "Remarks by President António Costa at the press conference following the European Council meeting of 15-16 October 2026",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/remarks-by-president-antonio-costa-at-the-press-conference-following-the-european-council-meeting-of-15-16-october-2026/",
+   "source": "Council of the EU",
+   "published": "2026-10-16T20:13+00:00",
+   "added": "2026-10-16T18:42+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "regulation",
+    "mna",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "council",
+    "prices",
+    "results",
+    "ukraine"
+   ],
+   "summary": "During the press conference held after at the end of the European Council meeting of 15-16 October 2026, President António Costa presented the main results of the discussions on competitiveness and energy prices, trade, the next multiannual financial framework, Ukraine, and migration.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "488d5aee6147",
    "title": "International Seaways Adds to VLCC Fleet with $370 Million Bruton Deal",
@@ -16520,33 +16551,6 @@
    "summary": "Global energy firm Shell has imported mass-balanced liquefied biomethane (LBM) into Singapore through its local subsidiary, Shell Singapore. “The ISCC EU-certified biomethane was sourced from the USA and mass-balanced via the pipeline to a liquefaction plant, into a conventional LNG cargo supplied by Shell for delivery to Singapore,” Shell explained. The mass-balancing approach allows Shell to use existing LNG infrastructure to bring certified LBM into Singapore, without having to build dedicated facilities. Shell Singapore, formerly Shell Eastern, is one of the companies licensed to supply LNG as a marine fuel in Singapore. The imported cargo will be stored at Singapore LNG’s (SLNG) terminal. Shell said the delivery followed the arrival of its chartered LNG bunker vessel Macoma at the terminal. SLNG recently secured International Sustainability and Carbon Certification (ISCC EU) certification to handle LBM at its terminal. The operation shows the “practical feasibility of bringing certified renewable gas into Singapore through existing LNG infrastructure, covering sourcing, certification, transportation, discharge and storage,” Shell added. Source: By Konica Bhatt, ENGINE, https://www.engine.online/news/",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
-  },
-  {
-   "id": "6b0a702071f8",
-   "title": "TODAY: Saudi wants to pipe 10 mn bbl / d around Hormuz + Iraq’s first crude trucks could reach Syria soon",
-   "original_title": "TODAY: Saudi wants to pipe 10 mn bbl / d around Hormuz + Iraq’s first crude trucks could reach Syria soon",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX3BDd09nckszSlM0Qkw3WmhZZDhwVTIwbHRjVXRvTnhpSHAxZXFBblE5aG1wZlduREY3bnpMM0hSUERnT2J2V1d1d25LME1CV1pweGJXN2lFRzJqak1odFVKakc4dEZITlJzeVNpUGlsUzJPel9OX0c5b0xNaldORDZSRjdaN2o1TTZKVGV2OVMwWGdTXzkzV1BPYU9RaWdOaUI0dHNEU2ZoQWF0SUJCN21LT1B6aXNDZ3J2NzdmSkRhUE82Y3FHdi1ESHY1U0pXR2NlbU9Rek8teHBuRll3?oc=5",
-   "source": "EnterpriseAM",
-   "published": "2026-10-13T21:00+00:00",
-   "added": "2026-10-15T15:19+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "hormuz"
-   ],
-   "summary": "TODAY: Saudi wants to pipe 10 mn bbl / d around Hormuz + Iraq’s first crude trucks could reach Syria soon EnterpriseAM",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
   }
  ]
 }
