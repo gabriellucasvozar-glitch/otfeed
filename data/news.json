@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T07:14+00:00",
+ "generated_at": "2026-10-16T07:56+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,59 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "85dfd53c5e28",
+   "title": "EU: Transport sector calls for rail funding to be safeguarded in the 2028–2034 budget",
+   "original_title": "EU: Transport sector calls for rail funding to be safeguarded in the 2028–2034 budget",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdFkwNHI2ZkJWZFlmanF3SEhPaVk3b2g5R2NieFEwZEM0VmpOTDFhLW5RQzdjdWZ2TV9CdGxEZXVjMlBJZEdBQXdIcFkzalRuWjFrVzJPMU1wVXlScWx0bVdNbER4Z1lwMjJmTTFmWFBaakVpQnZmam81N000TkJsaEdXT282WGdvUmx1M0hlVThidWFKbkE?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-16T07:51+00:00",
+   "added": "2026-10-16T07:56+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "rail",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 7,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "railway",
+    "safeguard"
+   ],
+   "summary": "EU: Transport sector calls for rail funding to be safeguarded in the 2028–2034 budget Railway PRO",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3aa4040d3287",
+   "title": "Philadelphia boost for breakbulk in USD837 million investment",
+   "original_title": "Philadelphia boost for breakbulk in USD837 million investment",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUG1qTXY5akdSaWU5Q1k2eHU5a2FYTjlQZmVfQ3ZVOXl3QzFCUUp0NFFuYXd6OExORllvYlZmTXNJUnd4T2lRVmphd0tZNmhlb213OWpSRElSeGZONVVpQUw5SkNVSEVwRTNfNHg5TThybzBxc01GeEgxTUtBQk94ZDhtVTJOenVOYm9UbTNrTzVqQVIyV3BFZW94d1NPNFJGLVNiMjZySy1WcHc?oc=5",
+   "source": "Heavy Lift & Project Forwarding International",
+   "published": "2026-10-16T07:46+00:00",
+   "added": "2026-10-16T07:56+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "forwarding"
+   ],
+   "summary": "Philadelphia boost for breakbulk in USD837 million investment Heavy Lift & Project Forwarding International",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
   {
    "id": "ace8224e3ca0",
    "title": "Alstom is expanding its digital rail traffic management system to cover 1,200 km in New Zealand",
@@ -62,6 +115,36 @@
    "summary": "Middle Corridor Could Add $58 Billion to Regional GDP by 2040, World Bank Says The Astana Times",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
+  },
+  {
+   "id": "5bc585107254",
+   "title": "Liquimar lines up suezmax trio at New Hantong",
+   "original_title": "Liquimar lines up suezmax trio at New Hantong",
+   "url": "https://splash247.com/liquimar-lines-up-suezmax-trio-at-new-hantong/",
+   "source": "Splash247",
+   "published": "2026-10-16T05:43+00:00",
+   "added": "2026-10-16T07:56+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "china",
+    "crude",
+    "vessel"
+   ],
+   "summary": "Greek tanker owner Liquimar Tankers has been linked to an order for three suezmax newbuildings in China, adding fresh crude carrier capacity after cashing in on the strong secondhand tanker market. The Dimitris Papadimitriou-controlled company has contracted three 157,000 dwt vessels at Jiangsu New Hantong Ship Heavy Industry, according to shipbuilding sources. The conventionally fuelled tankers are scheduled for delivery in the second half of 2030, with pricing estimated at just under $86m apiece, putting the potential investment at close to $258m. The pair changed hands for a reported $68m each, generating approximately $136m in gross sale proceeds. Liquimar has already emerged behind another Chinese tanker project this year. In August, shipbuilding intelligence identified the company as the owner of the 113,500 dwt aframax/LR2 Priamos under construction at Hengli Heavy Industries. Liquimar was set up in 1990, as a way for its parent company, Dioryx Maritime Corp, to expand from dry cargo and containerships into the oil tanker sector, before becoming a standalone entity in 1995. The latest reported deal would add another name to New Hantong’s suezmax orderbook. Earlier this year, Eyal Ofer’s Zodiac Maritime contracted four suezmaxes at the Chinese yard for 2029 delivery, taking its programme in the segment to nine vessels.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "0cd1180af71c",
@@ -16454,84 +16537,6 @@
    ],
    "summary": "Więcej połączeń PCC Intermodal PortalMorski",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "df3da57340cc",
-   "title": "Global Coal Demand Surges Amid LNG Supply Shortage",
-   "original_title": "Global Coal Demand Surges Amid LNG Supply Shortage",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wUXZrYlhQcFZBQjJHMGx1RlhLZENxTHpqODAzLVZGUmxkcFhtZ21OQll3QWRrWEcwUlpkQWVvSm80cVFBRlZRcndITGZoM0VGZndDTTF4dW9wUWZGaFJuX21kblRrNW9WY3h6NTlKM290Uk9RdUExMlRyekI?oc=5",
-   "source": "NewzTodays",
-   "published": "2026-10-13T08:38+00:00",
-   "added": "2026-10-15T19:35+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "coal",
-    "lng",
-    "shortage"
-   ],
-   "summary": "Global Coal Demand Surges Amid LNG Supply Shortage NewzTodays",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ce5e3424f191",
-   "title": "Eurogate orders four Konecranes ASCs for CTW",
-   "original_title": "Eurogate orders four Konecranes ASCs for CTW",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR05hX1UyLTJFWXFzNlBQVXZjM1VjZUozeXBIUXlMRTU5dlZabDdjRTlGaTRBcXBlUVNHdFh1X2psam10QkZQMFhjS2V6RUJ2czhtcUhjbjdHaEtjR3FfMDF4dU5vaXpyZElSd1lnb0U5aUJMbG1LS1ZRRGNqejRxc0JlNUdINEdhTGJUbW8wYzRKWTQ?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-13T08:37+00:00",
-   "added": "2026-10-13T09:46+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "konecranes"
-   ],
-   "summary": "Eurogate orders four Konecranes ASCs for CTW WorldCargo News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2882e8ea5a6f",
-   "title": "Port of Frederiksvaerk daily activity",
-   "original_title": "Port of Frederiksvaerk daily activity",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KT0FPZHBkczlNMFlLaXdnUXdoWlFNb0U5b0tTZkxqaUx0b0F0ZXFSbzRNTloyS2NWNjhHVEN5SFBhQWdYbS1OeDlXVTV0SjFrZjYtSUhDeDhRZ2dHNjJ4SGJhdWRFYVNzMlYxVVp0QVRLUWc?oc=5",
-   "source": "El Estrecho Digital",
-   "published": "2026-10-13T08:31+00:00",
-   "added": "2026-10-15T03:57+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port of Frederiksvaerk daily activity El Estrecho Digital",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
