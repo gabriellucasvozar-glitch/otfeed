@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T09:08+00:00",
+ "generated_at": "2026-10-16T09:43+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,151 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "4f958b412dd3",
+   "title": "Egypt is building a railway between the Red Sea and the Mediterranean",
+   "original_title": "Egypt is building a railway between the Red Sea and the Mediterranean",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2FCVk95SHFOVUNDYnl5X3I5RzRZcXA1MGVwbGpHdjdCU1k1NThOTXA1UHBJMldYdllnMG9Kd3ptd3VRYUk1c1lVaVYzYXNDNHdxYWdYalRmbU1NbGRSRlQ3SmlyMmd5TzNyc0FBWTdXU1gwbzhSQVZLT1c0U3dZdXloUy1ZeVJIaTdPN1pSWQ?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-16T09:32+00:00",
+   "added": "2026-10-16T09:43+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "rail",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "railway",
+    "red sea"
+   ],
+   "summary": "Egypt is building a railway between the Red Sea and the Mediterranean Railway PRO",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8d4b0a104c5f",
+   "title": "UK ports hit back at Brussels over ETS diversion claims",
+   "original_title": "UK ports hit back at Brussels over ETS diversion claims",
+   "url": "https://splash247.com/uk-ports-hit-back-at-brussels-over-ets-diversion-claims/",
+   "source": "Splash247",
+   "published": "2026-10-16T09:30+00:00",
+   "added": "2026-10-16T09:43+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "regulation",
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Western Europe",
+    "EU institutions"
+   ],
+   "tags": [
+    "brussels",
+    "diversion",
+    "ets",
+    "eu ",
+    "european union",
+    "port",
+    "ports",
+    "shipping"
+   ],
+   "summary": "British ports have challenged European Union claims that shipping lines are diverting container traffic to the UK to escape carbon charges, warning that proposed anti-evasion measures risk penalising billions of pounds of investment in British terminals. The British Ports Association (BPA) has rejected findings from Spain’s EU ETS Observatory linking rising UK container activity to the bloc’s Emissions Trading System, arguing that new capacity, changing liner networks and commercial competition offer more convincing explanations. In a new report, the association said around 85% of the UK’s container traffic growth in 2025 was concentrated in London, following the opening of DP World’s £350m ($465m) fourth berth at London Gateway in late 2024. Government figures show UK ports handled 11% more containers last year, equivalent to an additional 600,000 units. The association also disputes treating the widely cited 76% figure as evidence of carbon-driven diversion specifically to Britain, arguing that the available analysis does not isolate the effects of ETS from alliance restructuring, congestion and new terminal capacity. The disagreement comes after the European Commission proposed tightening rules designed to prevent containerships from using neighbouring non-EU ports to reduce their ETS exposure.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "f46258193e34",
+   "title": "More locomotives to Alsa Rail and UZ Cargo Poland",
+   "original_title": "More locomotives to Alsa Rail and UZ Cargo Poland",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOFFJS1NLZ3RLdVJxVm8xVS1pbGFPcDZNUGtKZ0poUzFSWVdXS2tuMnFXT3daeVJ2YUE0N1ZaNllKS3E1VlFmOVhDYTV3RXU2ZkhjbEZlNkt2cXhRWjRqZ0ZFUnlfTks0QXNDQ1VOZHVidEZzTWI1VUlJRlFaLW9IT2NsSTVaS1J1MU1zQWVrZkFrSFhuMF9vamlSSm1DWlh3QTMyNVd2V0pwTHMyUFhrbEJaaG8xLXp2NHBSbHpNVkNKc1ZKSl8wN0FGQ1pSN0JlQWdFejJQYnRjcmQ3bUdMaTJB?oc=5",
+   "source": "RAILMARKET.com",
+   "published": "2026-10-16T09:25+00:00",
+   "added": "2026-10-16T09:43+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "locomotive",
+    "poland"
+   ],
+   "summary": "More locomotives to Alsa Rail and UZ Cargo Poland RAILMARKET.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0abb6f71e45b",
+   "title": "BHP posts record iron ore exports as BHP stock trades at EUR 74.25 - ad-hoc-news.de",
+   "original_title": "BHP posts record iron ore exports as BHP stock trades at EUR 74.25 - ad-hoc-news.de",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHV0UWNxa1M1MFczZHgyaGlhRGRKZzhvR1ZuYXJkY080YTRYRFpNb1YySUJFU2w4eWdrSHR3ZUE1amRYbHlJV0NlUXBKbVNzak81T0NBRzhabFpWVzZnakRlbkNXcW02NDFQR1RubnFfU2dJNG5KR1NnQjJUUnJHbXktcUNHN0tEVVlqOUdTUFV2eXBwUnZaTlVCdHQycWQ2WWpoWVAyZXJia1lzejNyMGh2SXp5bDJlbmpoc2tzLTdrNzlpUGgzag?oc=5",
+   "source": "ad-hoc-news.de",
+   "published": "2026-10-16T08:28+00:00",
+   "added": "2026-10-16T09:43+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "BHP posts record iron ore exports as BHP stock trades at EUR 74.25 ad-hoc-news.de",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f668ebcba754",
+   "title": "East Front News #116: NATO will cut Russia off from the Baltic and Starlink terminals are back in operation",
+   "original_title": "East Front News #116: NATO will cut Russia off from the Baltic and Starlink terminals are back in operation",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUEozZ2EzZ1RiTHA4WGpjWG03THRpM0liUURnSUdHWHJZRDRCVE15Znl5aDEyWmFkWS1QSTVxcVdGeUFCa1lSalpmeEJvbXRFZVZRNzhuVjlsTDBSUFNYZkdGcDRwLWVzZUc3UjllR0xTbVBHTkVNTTc4NkhNaEF0LXFCYTkwcFRMUEM0UTE4X2hyaTNPQmdRdDFvQ1NQRVU1cGpudmlxWVI2U2Jrams3bmV4cEF6Snp5ZFRGMFFvTFlvaEVJYXJISzloaUFDeTRQV0tFMlBYVmhzc1E?oc=5",
+   "source": "Defence24.com",
+   "published": "2026-10-16T08:05+00:00",
+   "added": "2026-10-16T09:43+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "baltic",
+    "defence",
+    "nato",
+    "russia",
+    "terminal"
+   ],
+   "summary": "East Front News #116: NATO will cut Russia off from the Baltic and Starlink terminals are back in operation Defence24.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "cf91eb7bde95",
    "title": "Rekord przeładunków kontenerowych w Long Beach. Najlepszy miesiąc w historii",
@@ -67,6 +212,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "cc0deb1cd668",
+   "title": "Portuguese KLOG expands intermodal connections",
+   "original_title": "Portuguese KLOG expands intermodal connections",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmxfd3lZSEl4R1ZMRzMtc0xVX3dabjQwQ0t4OXB6cV9UU2FlZ2ExUHJreGZMeWZOQk5MZGFGQmJ6SnRyT2pvOVFQc0tVUlVwMVVLdkxwcUhGeUFPNjR4UG51T3ZWZFo1ZE10VXlWaFNTUE0xN1dObkljZVlYX0FGYlE1WVZ6ODJDbnJNd0lJcWlnckpFbkVZUG15cTZDd1RxXy1IN1BOQVNLQnQxX1JKenR5N3lyZTNxQ1FoYlhhN1pESDJ1Zl82Q01n?oc=5",
+   "source": "RAILMARKET.com",
+   "published": "2026-10-16T07:50+00:00",
+   "added": "2026-10-16T09:43+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "intermodal"
+   ],
+   "summary": "Portuguese KLOG expands intermodal connections RAILMARKET.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3aa4040d3287",
    "title": "Philadelphia boost for breakbulk in USD837 million investment",
    "original_title": "Philadelphia boost for breakbulk in USD837 million investment",
@@ -92,6 +262,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "a70c5f3a1bd7",
+   "title": "Australia increased exports of coking coal by 12.4% y/y in September",
+   "original_title": "Australia increased exports of coking coal by 12.4% y/y in September",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVTY4WU1fZVpwcWpuVjg0UWVySXBpbUJ3S1A0VzVtaUVDTG5wSWlRUjNpdzRqX043cE8zZGRkSmstMm45b1VGcldVUjNkWHVIYkdaOVJKdDVESjVCcDhIOGxvWXZ4ai0zSEFCOWl4dUs5Mzlacm13TmFrVTVZQlBxNEZueGNYb2Nrd1NYbkJJRE1Sc1ZTZGhaUXJpTdIBoAFBVV95cUxPM095bGlNUmlXQjcxU3pUMUtabUFWRTZpU19mcGhMS293OUozXzZqbHFWeE83MmJkTUN3S3FLU0JLZjA4eWlvaDFJVk9kbnlSMGQ3LWN1S0xhQm4tYmxCS3FHWEoxYVVyZmJyMlhnNUdyYnEyZm1VN1dzS1B1WllCaG1BSWp2NzZqenpQRHpMYUJtQVZ3bzVuTzhlWG00TDhz?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-16T07:21+00:00",
+   "added": "2026-10-16T09:43+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "coal"
+   ],
+   "summary": "Australia increased exports of coking coal by 12.4% y/y in September GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "ace8224e3ca0",
    "title": "Alstom is expanding its digital rail traffic management system to cover 1,200 km in New Zealand",
    "original_title": "Alstom is expanding its digital rail traffic management system to cover 1,200 km in New Zealand",
@@ -114,6 +309,33 @@
    ],
    "summary": "Alstom is expanding its digital rail traffic management system to cover 1,200 km in New Zealand Railway PRO",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5f627eb00f27",
+   "title": "Tanker rates retreat amid slower activity and shadow fleet uncertainty",
+   "original_title": "Tanker rates retreat amid slower activity and shadow fleet uncertainty",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXdpQ1BuOUpEWjd1VFFaZFRkTXpNd29xRjJ0S3NEUnZvSmZ2QU1XNGlhVi13TG1qWWRHbE5UZFFFeHFrTkhYQ0hMd3JRREdubW4yUHFhRjdvWFJ5c0lLdnRNX1FqUFhMYmZQNHpORG5Ick00d01MNjk3Z2Q4QVRIckdrbzhUcXRxRlRhWkhmWjdIUmtIOU9xVU9RejFWc2FXVzdzUmpTRi1RaUU?oc=5",
+   "source": "Lloyd's List",
+   "published": "2026-10-16T06:43+00:00",
+   "added": "2026-10-16T09:43+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7.5,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "shadow fleet"
+   ],
+   "summary": "Tanker rates retreat amid slower activity and shadow fleet uncertainty Lloyd's List",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -312,6 +534,35 @@
    "summary": "West Africa is fast becoming dry bulk shipping’s biggest growth engine, with its mineral export boom poised to absorb the equivalent of another 120 capesizes by 2030. UK consultancy Tradeviews forecasts in a new report that shipments from the region will surge 50% from 2025 levels to 303m tonnes by the end of the decade, with Guinea’s giant Simandou iron ore project leading the charge. Crucially for shipowners, the long voyages to China will magnify the impact on vessel demand. Liberian iron ore exports nearly doubled to 10.1m tonnes. Tradeviews expects regional exports to reach 267m tonnes next year, with Guinean iron ore shipments climbing to 45m tonnes in 2027 and approximately 112m tonnes by 2030. Tradeviews calculates that moving a tonne from West Africa consequently absorbs around 2.6 times as much vessel time. On this basis, the consultancy estimates West African trades will require the equivalent of 330 capesizes by 2030, compared with 210 last year. The broker described the situation as a “test of elasticity” rather than the start of another cargo boom, pointing out that Shandong alumina refineries processing imported ore lost RMB261.8 per tonne in September.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "6ac24c5d858a",
+   "title": "Ukraine has repealed anti-dumping measures on steel fasteners from China",
+   "original_title": "Ukraine has repealed anti-dumping measures on steel fasteners from China",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDQ5Vl9CTFJ6TFlYNWs4WXFNSVZ4ZHozMHU3Z05VcmNlcDBVRlM0QXVaaXdrd1U0bnA3a3dfWlNBMkpqXy1sRlBjTnUyX0tFd0lIVXJnSDlqV0hzV01CLXFrWnk0eE1nMTMyeV9oSEZQN25JNTh0LVdGQ3VYZzdzU1Bwa1ZhMS1jSGFCdW1mY3NYR1RZVnBzZnRMTkNheVpIOVhxMHhwZ9IBpwFBVV95cUxOcDQ5Vl9CTFJ6TFlYNWs4WXFNSVZ4ZHozMHU3Z05VcmNlcDBVRlM0QXVaaXdrd1U0bnA3a3dfWlNBMkpqXy1sRlBjTnUyX0tFd0lIVXJnSDlqV0hzV01CLXFrWnk0eE1nMTMyeV9oSEZQN25JNTh0LVdGQ3VYZzdzU1Bwa1ZhMS1jSGFCdW1mY3NYR1RZVnBzZnRMTkNheVpIOVhxMHhwZw?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-16T05:15+00:00",
+   "added": "2026-10-16T09:43+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "steel",
+    "ukraine"
+   ],
+   "summary": "Ukraine has repealed anti-dumping measures on steel fasteners from China GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "03f0cd30d404",
@@ -16300,238 +16551,6 @@
     "maize"
    ],
    "summary": "Italian maize buyers turn to US, Brazilian supplies amid blac ... Milling Middle East & Africa",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "851eb0131bad",
-   "title": "Government invests R8.9 billion to restore key iron ore export corridor",
-   "original_title": "Government invests R8.9 billion to restore key iron ore export corridor",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGkzUWk3NGlkMGttekZwMTFad2FzdmNYYURzV25LZFpUVU9QUktpZDhGSUZnbVZDZGsyTGJZelJ6SlJFLS1DV09Kb3huVW45bXRuY2xlSUZvU3RsRWROd1BRc1BpNFhWNkliSGh2TEJfeEw3TklpTXVfLTg3QUVJdzVDbGlvWjJWeUQtbDUwLW1uNmJ2X2V4X0pIUi0tWk1STVBtRUtkWGtQdw?oc=5",
-   "source": "South African Government News Agency",
-   "published": "2026-10-13T09:55+00:00",
-   "added": "2026-10-13T20:58+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "iron ore"
-   ],
-   "summary": "Government invests R8.9 billion to restore key iron ore export corridor South African Government News Agency",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9aa358023940",
-   "title": "How a project born on a delayed train grew to track rail networks in more than 50 countries",
-   "original_title": "How a project born on a delayed train grew to track rail networks in more than 50 countries",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UNmhwNzRhZndLSjJkWFVaYVFoM2NQY3dTcHdDYkptWVM4anBYMzFlRmgxbnlhNXR1RVJFQ3BmUTI3QjVIVHR0cHMweWdqN2dSLTQ3b2E2aC02OVc3X3YzelF1aGN4N0p0Nm1XOVlIZHZSZV81eVUw?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-13T09:53+00:00",
-   "added": "2026-10-13T10:55+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "railway"
-   ],
-   "summary": "How a project born on a delayed train grew to track rail networks in more than 50 countries Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6ffafacea3a8",
-   "title": "Hakerzy uderzają w europejskie supermarkety. Czy łańcuchy dostaw żywności mogą stać się celem wojny hybrydowej, komentuje analityk cyberzagrożeń ESET",
-   "original_title": "Hakerzy uderzają w europejskie supermarkety. Czy łańcuchy dostaw żywności mogą stać się celem wojny hybrydowej, komentuje analityk cyberzagrożeń ESET",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQX3UzVzczQ2JISzNTV1k4bGliSjkybnVVYTNVUDE5SXhKTlVoSU15MEZaWXY0Y2lYRGtfcmMwc0hub1ZkTnJ5ay1oc0NsVmhPaUw5azhCM0VfckdzUnUzZlJsX0xsMmJmQTI1LVR2QkU5cm1aYm9ZalM3RnNMRnhZcjBRczV6TXh2eFk5bEQyVkJ4VlFiS0R4TkgweUc5Y1NyeVJ3TUF1Vk9KY2dQWW03UExvdkpZNUZuZjBlMVBUc1JIanhpS0JoYUdQVGRnNmV2dFJfTVJEVE14Q05sWUptVVB4VFRpeEZVcUpLSW1PbnB5YjBicV9yOWVlZGdIb0k?oc=5",
-   "source": "ITReseller",
-   "published": "2026-10-13T09:41+00:00",
-   "added": "2026-10-14T12:05+00:00",
-   "lang": "pl",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "lancuchy dostaw"
-   ],
-   "summary": "Hakerzy uderzają w europejskie supermarkety. Czy łańcuchy dostaw żywności mogą stać się celem wojny hybrydowej, komentuje analityk cyberzagrożeń ESET ITReseller",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "438e8818a9a2",
-   "title": "Gothenburg prepares for next phase of container port expansion",
-   "original_title": "Gothenburg prepares for next phase of container port expansion",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTG9JczlzVW84S1lnVFZVQ04xWUYwbi05bGpreWhsdGhEYWVDU3o4MTZhck5qOTlNd0hpeU80SXZuQVF3Qnh3SVdEcXNRSWpPSzJuUjVVTmwwUkJpR3pBb05WaElYeENncERuQWJWbUdMSVc3bWQyenoxd1lHX3JULTVocE9ETEZKODdpdXhn?oc=5",
-   "source": "Splash247",
-   "published": "2026-10-13T09:37+00:00",
-   "added": "2026-10-13T09:46+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "gothenburg",
-    "port"
-   ],
-   "summary": "Gothenburg prepares for next phase of container port expansion Splash247",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e32f474fdd1d",
-   "title": "Cyberatak wyłączył chłodnie, incydent IT zakłócił dostawy. Gdy cyfrowa awaria zatrzymuje łańcuch dostaw",
-   "original_title": "Cyberatak wyłączył chłodnie, incydent IT zakłócił dostawy. Gdy cyfrowa awaria zatrzymuje łańcuch dostaw",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU1dYWHBaTmVDYjF3TVd5aTBObGpDbUZ3RU1nOFlHeDQ3SGV3OEpyM0c0UzlFX0FBeHFYSmk1ZHNRLUluYTVNT082TE01UDFrajBBQlVtRzREMHhRTnlWSUhTQ0ZRbTNVS18yU2VkNFBsSzYwOHhWMjhhNTdWUXdPdk96b2phN0pLZ3duSmNQVnRlZk1zVk5KLTZGVnBkNEUwTzViRU5IbU50MHlvaGllQkROaU5aVWdLNzZWanI0OUtEak1vWjFGNlBR?oc=5",
-   "source": "Trans.INFO",
-   "published": "2026-10-13T09:37+00:00",
-   "added": "2026-10-13T10:05+00:00",
-   "lang": "pl",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "lancuch dostaw"
-   ],
-   "summary": "Cyberatak wyłączył chłodnie, incydent IT zakłócił dostawy. Gdy cyfrowa awaria zatrzymuje łańcuch dostaw Trans.INFO",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dadaa4663073",
-   "title": "China: Iron ore prices edge up by $1/t d-o-d amid improving sentiments",
-   "original_title": "China: Iron ore prices edge up by $1/t d-o-d amid improving sentiments",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcWEycndSaldib2NnVDNyN21OMnJEZF9fN2xQVllQVTlOTFA2X09VbFhJbHYzSEZFVXhETzJXVk5JTC00R2VYUU1sTl9oWF9FVGlLRzZMYWhGTVhSQUlzVWh1WWpsMnJMS3VMbmJFY20tM2ZVMjZQVkFWSkxnZDRRT1B0TVJPb0JabUEzTTFzbmp2NzFfWV9hcThrd2xfeFJtSU4xQ0JBLVlvS1RnbDhVeG5ydzc?oc=5",
-   "source": "BigMint",
-   "published": "2026-10-13T09:36+00:00",
-   "added": "2026-10-14T01:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "iron ore",
-    "prices"
-   ],
-   "summary": "China: Iron ore prices edge up by $1/t d-o-d amid improving sentiments BigMint",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cd4259914149",
-   "title": "Norway to reuse steel from decommissioned ships to reduce construction emissions",
-   "original_title": "Norway to reuse steel from decommissioned ships to reduce construction emissions",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3MtemxsVmJGaFZlbTFmdTNtNHhmVld6alUyaV9RWXBSLWNLdHFpdFZtaVpsaTBFd3dxODdKR2NCWC1QcFhycWFySXA3TnNJUzN2TVE3SVIzS21BRXdQQkR6ZHdfV0x6d3l2eTRTZVBZdUxHU2cwYk9UaXotZ0lMc2lndlh5cTY5X2NqWlc2Q3FDVXpwNk5tVlhLTVVralEzaWN6M29LLVg1MVdCNmpmTHFETWZMUVdUb0Itd215TXdWLVdkaGxWYVBrMVEyXzUxREs5Y3U2UkFEdw?oc=5",
-   "source": "SteelOrbis",
-   "published": "2026-10-13T09:33+00:00",
-   "added": "2026-10-13T15:52+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "Norway to reuse steel from decommissioned ships to reduce construction emissions SteelOrbis",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dfbf907af8f4",
-   "title": "Ukraine Halts UAH 18bn VAT Refunds, Squeezing Liquidity of Grain and Oilseed Exporters",
-   "original_title": "Ukraine Halts UAH 18bn VAT Refunds, Squeezing Liquidity of Grain and Oilseed Exporters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNemR3ZXdGRmNVaGhnSjVHODlwTHhxMjhKUE0zcU9BcUltVE9kajR3MTRfUGdrN3didEcxVHFJd29QaVFFRGlmcFFjaEFXRzdncnUyYUJBNl9OU3lhMlR1OTlkei1hdjc5a2ZsRGVmWmpLMFhaXy1aQlhfa2tSNERoRC1NUTdlZHpEV2k1RjNUZlpEZzZpWFZpYkk1M2ItWVIwNVNGZXZ2SWZZQ1JVSnUwdWpma043aS1XR0ZTMDFB?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-13T09:24+00:00",
-   "added": "2026-10-13T12:36+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain",
-    "ukraine"
-   ],
-   "summary": "Ukraine Halts UAH 18bn VAT Refunds, Squeezing Liquidity of Grain and Oilseed Exporters CMB News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1c2044f75800",
-   "title": "India in green ammonia talks with Japan, South Korea, and Germany",
-   "original_title": "India in green ammonia talks with Japan, South Korea, and Germany",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXlFcTc0MGZNWW8zVFBNdm1mNzJpVjN4d3RDTlN3dFc0Qjl0MnRaNWZudURfMWI5UkdjNXVzekhkdGlJZ0djMm1NeXVtVmwtQ3lfZ3F5LS1Bb29PMmM0b2ZrU2UxR1V5Tm1OeFE3UHlRdlNYNENraFpKTHZtb1RTbEc3V043azZkVkZoaVktY2tsSkpNMkxCVWZkb1pTbjR1bUVsM1pRdXVrUHMxenN0WQ?oc=5",
-   "source": "gasworld",
-   "published": "2026-10-13T09:19+00:00",
-   "added": "2026-10-13T09:46+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe",
-    "Asia"
-   ],
-   "tags": [
-    "ammonia"
-   ],
-   "summary": "India in green ammonia talks with Japan, South Korea, and Germany gasworld",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
