@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T10:15+00:00",
+ "generated_at": "2026-10-16T10:54+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,58 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "a741cd264756",
+   "title": "Ex-India spot rates and surcharges ease as peak comes to an end",
+   "original_title": "Ex-India spot rates and surcharges ease as peak comes to an end",
+   "url": "https://theloadstar.com/ex-india-spot-rates-and-surcharges-ease-as-peak-comes-to-an-end/",
+   "source": "The Loadstar",
+   "published": "2026-10-16T10:45+00:00",
+   "added": "2026-10-16T10:54+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bill",
+    "container line"
+   ],
+   "summary": "Container lines, sensing a gradual slowdown in Indian westbound volumes, are revisiting their surcharges and penalties, indicating a hot market may be turning decidedly cooler. The liners had been increasingly rolling booking cancellation and container no-show fees into their freight bills in recent months to maximise profitability from booming demand. Now, according to industry sources, Hapag-Lloyd, for one, has revised its cancellation fee drastically for Indian customers to $100 per container, from the $300 in force since late July. There is now no room for carriers to recover all kinds of surcharges, as they want.” The disruption in the Middle East had prompted a wave of hefty emergency surcharges by all carriers, sparking pushback and questions from various maritime regulatory authorities across their markets, including in India. As a result, ocean rates, ex-India to Europe and the US, are trending down, with expectations that the recent elevated levels will halve over the next few weeks. Indeed, Hapag-Lloyd yesterday advised forwarders it had revised spot rates for bookings on the 8,000 teu Tucapel , one of the vessels deployed on its TPI service between India (leaving JNPA on 24 October) and the US east coast, to $8,000 per 40ft – a reduction of around $1,500.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "73296c190fb8",
+   "title": "Miasto Ho Chi Minh chce, aby jego sektor logistyczny odszedł od wyścigu „ciężarówka – magazyn – plac”.",
+   "original_title": "Miasto Ho Chi Minh chce, aby jego sektor logistyczny odszedł od wyścigu „ciężarówka – magazyn – plac”.",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWXNwTGRIWF9rb0xrQnJlWlBYajZ1M1kwOHJRcTkyMjZqUVhkTGRGSm9qMmlhUUJzQ2libUhvMmZzaTZnQlBmM3lybjZqVFlYQXZmS2FOM1hvVHRrdGtJVFJxbjVteWJpdV9MelFIeTAzdDE3Vmd1TkJ6NFZFV1cwNU5KWkYyblVZQXpqd25XRQ?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-16T10:35+00:00",
+   "added": "2026-10-16T10:54+00:00",
+   "lang": "pl",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "magazyn"
+   ],
+   "summary": "Miasto Ho Chi Minh chce, aby jego sektor logistyczny odszedł od wyścigu „ciężarówka – magazyn – plac”. Vietnam.vn",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "c9f3be67f502",
    "title": "EU may need to cut winter gas demand by 7% with gas storage at a record seasonal low",
@@ -195,6 +247,35 @@
    ],
    "summary": "BIMCO’s Dry Bulk Cargo Network discussed three persistent safety challenges at its latest meeting: fire risks from contaminated scrap metal cargoes, the shift of fumigation duties from specialists to ships’ crews, and continuing fatalities in enclosed spaces. Members highlighted the need for clearer cargo information, stronger charter party provisions, and practical measures to protect crews. The eighth meeting of the BIMCO Dry Bulk Cargo Network was held on Thursday 8 October 2026 and covered the following agenda items: Scrap metals had previously been discussed at the sixth meeting in early 2025, when views differed over whether the IMSBC Code schedule for scrap adequately covers the different types of scrap and the effects of contamination by materials such as plastics, tyres, and oils. These include questions about the meaning of “as dry as possible;” surveyors finding more plastics, tyres, oils and flammable material than the declared impurity percentage suggests; and the implications of lithium batteries being present, including whether this introduces dangerous goods considerations under Class 9 of the IMDG Code. These include confusion about the distinction between different scrap metal cargoes and how they should be described and classified, and a general lack of understanding of the hazards.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "9bded36f8073",
+   "title": "Asian refiners face margin squeeze from record tanker costs",
+   "original_title": "Asian refiners face margin squeeze from record tanker costs",
+   "url": "https://www.hellenicshippingnews.com/asian-refiners-face-margin-squeeze-from-record-tanker-costs/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-16T10:00+00:00",
+   "added": "2026-10-16T10:54+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "The cost of shipping oil in supertankers has reached record highs, putting pressure on profit margins for Asian oil refiners who rely heavily on Middle Eastern crude, the International Energy Agency said in a monthly report. Asian refiners have encountered the highest transportation costs as cargoes move through the Strait of Hormuz to secondary tankers for onward delivery, the IEA said. The freight rate for a Very Large Crude Carrier on a route from the Middle East Gulf to Asia had climbed to around $36 per barrel by early October, more than five times the cost before the Iran war, the agency added. Refiners can partially offset this by purchasing US crude, but those freight rates have also increased, with costs for the US Gulf Coast to China route exceeding $37 per barrel, the IEA said. The rise in delivered crude costs pushed margins for Asian refiners processing medium sour crude into negative territory in September, the agency said. Source: Investing.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
   },
   {
@@ -1670,6 +1751,35 @@
    ],
    "summary": "A.P. Moller Capital Expands Port Investment with Acquisition of Portek The Maritime Executive",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fefa771b03cc",
+   "title": "U.S. Soybean Prices Hit Seven-Week Low Despite China's Renewed Grain Purchases",
+   "original_title": "U.S. Soybean Prices Hit Seven-Week Low Despite China's Renewed Grain Purchases",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdW1NVnpmWElNd3BYSDZPNmVDX2daV1lNWFFZQ1BJU3o1ZHdTMERaamdrUHVKRXF1cm1NVnBqUmN1cTdQRGtuTjBpazRhb0xIV2h4elVlcWhEbXZOSzdiOGpqejl0OXlmZS1SenM5Ni16ajkxY2ZKTjVkb0txR1NKTEpGUXRUN3kyZ0pDcg?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-10-15T23:32+00:00",
+   "added": "2026-10-16T10:54+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "grain",
+    "prices",
+    "soybean"
+   ],
+   "summary": "U.S. Soybean Prices Hit Seven-Week Low Despite China's Renewed Grain Purchases AgroLatam",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -6384,6 +6494,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "812c3e632d3f",
+   "title": "SunSirs: Global LNG Supply Remains Tight, Driving Up Coal Demand and Prices",
+   "original_title": "SunSirs: Global LNG Supply Remains Tight, Driving Up Coal Demand and Prices",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52eWh5bmFKVjVQSF9jaU9KNnhxajNyTnIzX29HcFBzZ2kxMEJnaUdxS3NsdmZjenlFcTJjeGhpV01VaFlhTnNfV0duQ1pzel9zWVE?oc=5",
+   "source": "ChemNet News",
+   "published": "2026-10-15T06:25+00:00",
+   "added": "2026-10-16T10:54+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "coal",
+    "lng",
+    "prices"
+   ],
+   "summary": "SunSirs: Global LNG Supply Remains Tight, Driving Up Coal Demand and Prices ChemNet News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "52bee2405798",
    "title": "Colombo West International Terminal doubles capacity to 3.2m TEU",
    "original_title": "Colombo West International Terminal doubles capacity to 3.2m TEU",
@@ -6903,6 +7040,33 @@
    ],
    "summary": "Shipping Stocks Rally as KOSPI Plunges 14% on Surging Freight Rates Businesskorea",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "21cba1243274",
+   "title": "construction steel social inventory shifted from increase to decline",
+   "original_title": "construction steel social inventory shifted from increase to decline",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNREE0OHhTd2xJTFBBTExfNm42V2ZKVF91b2R2VFFKWFhBRUJtRXYwbTdNa01qak5KWmJEZUVqTXFPd215MWFuQm1uYXNQQnZpZ3FSek9QUFZEQWd2cFg5b1dfM3dIQnhfRmNvcHhybjZiTHBsTmdEeUFSOFU2SDJieXZFYzc4SHJfakpranRrVHZIVkpfMHQ4VUt4cWh6ZERQY0hubGExRm1mbU5TaVJwN0hrQQ?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-15T02:45+00:00",
+   "added": "2026-10-16T10:54+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "inventory",
+    "steel"
+   ],
+   "summary": "construction steel social inventory shifted from increase to decline Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16387,160 +16551,6 @@
    ],
    "summary": "Automated Container Terminal Market to Reach USD 27.38 Billion openPR.com",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cdb4c1c27801",
-   "title": "Ruszył konkurs na prezesa i członka zarządu PKP CARGO SERVICE",
-   "original_title": "Ruszył konkurs na prezesa i członka zarządu PKP CARGO SERVICE",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEZqVGwyUlE4OVo3RHVQb2YtTFYzMmFhS0lmcFl5M2pCalk4Y2t5dC1EV1dIV3pxY1pzam5sMDVENE82X2FRU0NYalJIcFFtZGZXNDhDc2FxWEJZN0lRSDFjSFJ3N0dwYjVXUHdBcUNUclc3RHpILWZraTEyTEZiTy14dlJnYk9aeU1CaGp0eDVFQQ?oc=5",
-   "source": "Kolejowy Portal",
-   "published": "2026-10-13T11:24+00:00",
-   "added": "2026-10-13T12:04+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "pkp cargo"
-   ],
-   "summary": "Ruszył konkurs na prezesa i członka zarządu PKP CARGO SERVICE Kolejowy Portal",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "77a27730945f",
-   "title": "Broekman Logistics Flags Growing Role of Middle Corridor in Europe Asia Project Cargo",
-   "original_title": "Broekman Logistics Flags Growing Role of Middle Corridor in Europe Asia Project Cargo",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTkwalNKNVE1UnFqOGFENTQ0Z0dNVmJUWndjMzF1d291RklubVViU1N4dVktY0ZQaTlnYWpELXVzN2lFWWs5c1FRUWF2alpZYmlRcFBtb3dFejJKT0JxMU01S2JIcFFYS2dTMVpNSWFzd3NWdXNQV2JTcmRlRmxhSHpUUTg1NmR2elJiQThMQjFCWEc1Z25PVDlJbS0wOVNPdV8zZUpXSnpVMXU2V0E?oc=5",
-   "source": "Breakbulk.News",
-   "published": "2026-10-13T11:16+00:00",
-   "added": "2026-10-13T15:26+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "middle corridor"
-   ],
-   "summary": "Broekman Logistics Flags Growing Role of Middle Corridor in Europe Asia Project Cargo Breakbulk.News",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9223d4a6a6c1",
-   "title": "Cabinet to be briefed on new fuel and fertiliser schemes",
-   "original_title": "Cabinet to be briefed on new fuel and fertiliser schemes",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR213cVBOdkNCMzAtc3Q0MDVrME1aamNINGNNaTdGOGtPdGh3X2ZUQWoxOFpjZE1kWHN5YWZNZTBLelNQV0twMUoxWVJYZFhOLVVwOVNQamkzSFd4aHdIVUxTNDllYmNTeTVIa0RLS0Vtb0poc25XbmIyNGZUNmFwVUFnRktTX01HVnh2Q1g0bHdLVUZpSmxoX253?oc=5",
-   "source": "Agriland",
-   "published": "2026-10-13T11:15+00:00",
-   "added": "2026-10-13T12:04+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fertiliser"
-   ],
-   "summary": "Cabinet to be briefed on new fuel and fertiliser schemes Agriland",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1cfea873c40f",
-   "title": "Strong US import demand will support transpacific rates till new year",
-   "original_title": "Strong US import demand will support transpacific rates till new year",
-   "url": "https://theloadstar.com/strong-us-import-demand-will-support-transpacific-rates-till-new-year/",
-   "source": "The Loadstar",
-   "published": "2026-10-13T11:13+00:00",
-   "added": "2026-10-13T11:20+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "freight rate"
-   ],
-   "summary": "Transpacific container freight rates are likely to remain higher than on Asia-Europe for some time, as stronger economic conditions in the US support import demand and weaker European growth weighs on cargo volumes and freight rates. Evergreen general manager Wu Kuang Hui said the rate divergence had become increasingly pronounced: “strong on US routes, weak on Europe routes”. And he said on Friday he expected the stronger US market to continue supporting transpacific rates at a premium to Asia-Europe rates, and there was “no reason to be pessimistic” about the US routes before the lunar new year 2027 as “there are record-high import volumes at several major US ports, low inventory levels, and optimistic consumer demand”. US imports from the Far East have grown about 5.1%, but volumes to Europe have increased more rapidly, by 12.2%. On Friday, the Shanghai Containerised Freight Index showed Shanghai-US east and west coast rates relatively stable, at $10,524 and $7,584 per 40ft, respectively. Shanghai-Europe rates continued to decline, losing 3%, to $2,274 per teu. By contrast, transpacific capacity remains supported by robust US import demand. Mr Wu noted that US spot rates were significantly higher than negotiated rates in Q4 last year, and expects long-term contract prices next year to exceed this year’s.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "3300a887a499",
-   "title": "Vietnam Post Logistics zapewnia kompleksowe rozwiązania w zakresie magazynowania i operacji w Nghe An.",
-   "original_title": "Vietnam Post Logistics zapewnia kompleksowe rozwiązania w zakresie magazynowania i operacji w Nghe An.",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkFqS1AxU2lsTlNjTXZBbjg2VG1FdlZMYmY1RlJjV0RrS1hJR1BJUVkzZjVOUERDWlFWQU5oQmtKc3lKc3JxSk5jWXE0SVNNdlp4VnhHSEhlWWttUmRGV2ZCMFpJalBWSmtCNUxPVUg4aEp6N0VOa25ScjdnSEx1U3BFaTBDRFhUbjBPMWVFNVZKV0dPcWJabVcyLUd3SVdtTi1NVEJUV0c3cElY?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-13T11:12+00:00",
-   "added": "2026-10-13T12:36+00:00",
-   "lang": "pl",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "magazyn"
-   ],
-   "summary": "Vietnam Post Logistics zapewnia kompleksowe rozwiązania w zakresie magazynowania i operacji w Nghe An. Vietnam.vn",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b406462acf3f",
-   "title": "Interview: Reshoring pump production to regain control",
-   "original_title": "Interview: Reshoring pump production to regain control",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY2p2TS1VRnFfWFRVWHYtYWlUYmIzMlcwOGU2Z3Q0akF4M0JNd3ZoaC1ibzhLRjRFVmJpZ3JRd3h3ZEt2bUUxYXQ2dXM4ZjE3OFZFRmVILWZFWmpsd3piU2JMNzNoR293YWZUdVA1VF9IMDg3RGl1cXJwR2E1RHFVQ3pyeDQxR3R2MjlPTXY0TG9vZVJjY3hlNWJCOHZLUQ?oc=5",
-   "source": "World Pumps",
-   "published": "2026-10-13T11:12+00:00",
-   "added": "2026-10-13T12:36+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "reshoring"
-   ],
-   "summary": "Interview: Reshoring pump production to regain control World Pumps",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
