@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T11:26+00:00",
+ "generated_at": "2026-10-16T12:00+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,89 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "08e69aa8c892",
+   "title": "Egypt opens US$13.1M El Amreya dry port in Alexandria",
+   "original_title": "Egypt opens US$13.1M El Amreya dry port in Alexandria",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUZqZm8tajFtaFRIY0UyMGN1ZFh1b3cyVjFrVFV1QkpMNGI4VWVuS29hdXV0ek1KVDExOS1YTFhvc2tCNElzS2NxYnhBZGVTSnpueXh1TGxmNWhlV3d5OFpRNnc4VGd2TWFRbDcyVlFEd1UyS2tJODhRTjlLbmRqWU9RQjA2Q0VjVGJJWnhB?oc=5",
+   "source": "Food Business Middle East & Africa",
+   "published": "2026-10-16T11:47+00:00",
+   "added": "2026-10-16T12:00+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East",
+    "Africa"
+   ],
+   "tags": [
+    "dry port",
+    "port"
+   ],
+   "summary": "Egypt opens US$13.1M El Amreya dry port in Alexandria Food Business Middle East & Africa",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "25a56944d2db",
+   "title": "DHL Express puts its faith – and its cash – in Africa’s trade potential",
+   "original_title": "DHL Express puts its faith – and its cash – in Africa’s trade potential",
+   "url": "https://theloadstar.com/dhl-express-puts-its-faith-and-its-cash-in-africas-trade-potential/",
+   "source": "The Loadstar",
+   "published": "2026-10-16T11:33+00:00",
+   "added": "2026-10-16T12:00+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe",
+    "Africa"
+   ],
+   "tags": [
+    "logistics",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "DHL Express has committed €300m in investment across Africa through to 2030, as the logistics group urges UK businesses to diversify supply chains and pursue opportunities in an area expected to become a major global growth engine by 2035. Hennie Heymans, CEO of DHL Express Sub-Saharan Africa, said the investment “reflected the company’s confidence in the continent’s long-term prospects”, amid shifting global trade relationships, geopolitical tensions, and changes to supply chains. “We would not commit to €300m if we didn’t believe in the future of this continent,” he said today. He said only 12% of African cities were connected by at least one commercial flight a week, underscoring the challenges facing companies seeking to expand manufacturing and distribution. DHL is looking to address some of these constraints through its existing network, which Mr Heymans said spanned every African country and territory. In sub-Saharan Africa, the company operates 12 dedicated aircraft, alongside road transport, facilities and other air connections. The executives stressed that businesses should not approach Africa as a single market, given the differences in languages, legal systems, currencies, and trade regulations. “Be specific to which countries in Africa you want to offer trade to,” Mr Heymans said, and advised companies to identify markets and sectors best suited to their products before expanding.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "99557249028e",
+   "title": "Maersk warns East Africa shippers of port delays through December",
+   "original_title": "Maersk warns East Africa shippers of port delays through December",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkJ3bEtwTTVzNVd4ZDhZQjhZQmlfNHYzc2lTb3hhQk9PN3lyVzZralpBRmEzcUlsOWlkOEFNTGJBUmFTTzNrNGhlVWUwVEViRnlDZEF6TXpJWktjWGsxN01iNVYzRXlET2xwamhSTi1HTjg0UnFJYkp3Y2lvVTlqSjIzeGI1WWdNRHhtMHAxZzVtVm80VzAtODFQNXVQTjg?oc=5",
+   "source": "Food Business Middle East & Africa",
+   "published": "2026-10-16T11:30+00:00",
+   "added": "2026-10-16T12:00+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East",
+    "Africa"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Maersk warns East Africa shippers of port delays through December Food Business Middle East & Africa",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "ebe6ee776c95",
    "title": "Hapag-Lloyd Revises ZIM Acquisition Bid",
@@ -124,6 +207,67 @@
    ],
    "summary": "Ecologistics leases 44,500 sqm warehouse near Prague EurobuildCEE",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9044ab8c4c75",
+   "title": "BPA links UK container growth to port investment rather than EU ETS diversion",
+   "original_title": "BPA links UK container growth to port investment rather than EU ETS diversion",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2luWlFmM2hHQmtIVmg5dUJldHJjZ2dzQk1iTHNraWJMcnVheC1ubHBvejFKMF9vZE9IbkhRQ2tlZ2dlUnJqUzdWOHVadDZ5ck5hVDVwZGxTZzkzMl80STdZREdHNmtmbWNNaU9SQzZMREVRa0IyS3BVWFdXUmVBRmotRHVncmJZZ0ZNSW1YbVRyaTNhWTVURFUtNk9DbndNck1N?oc=5",
+   "source": "safety4sea",
+   "published": "2026-10-16T10:55+00:00",
+   "added": "2026-10-16T12:00+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "ports",
+    "regulation",
+    "supplychain"
+   ],
+   "priority": "high",
+   "score": 9,
+   "regions": [
+    "Western Europe",
+    "EU institutions"
+   ],
+   "tags": [
+    "diversion",
+    "ets",
+    "eu ",
+    "port"
+   ],
+   "summary": "BPA links UK container growth to port investment rather than EU ETS diversion safety4sea",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3239b325a2aa",
+   "title": "EU sanctions 12 individuals and companies involved in evading restrictions against Russia, targeting shipping, oil and payments",
+   "original_title": "EU sanctions 12 individuals and companies involved in evading restrictions against Russia, targeting shipping, oil and payments",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2lybjVUdElRUFNZUV8yNl95djhrSVlJeFAxOFRJbXFOaG1WeDdtekVxMndPY2JSNzVNQjh5RWEwZFl4V2JTeXdUTUltTmppcTFOd1VFalVKSWc5ZEw5SURHVDhTS1FMNjNjYUxuM2dQMXB3RU1NZ0hTaUsxUm9MRjVR?oc=5",
+   "source": "Informat.ro",
+   "published": "2026-10-16T10:53+00:00",
+   "added": "2026-10-16T12:00+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "russia",
+    "sanction",
+    "shipping"
+   ],
+   "summary": "EU sanctions 12 individuals and companies involved in evading restrictions against Russia, targeting shipping, oil and payments Informat.ro",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -1456,6 +1600,31 @@
    "summary_method": "extract"
   },
   {
+   "id": "80b7994113a5",
+   "title": "US pledges $17 million for Colombo port digital overhaul amid renewed maritime cooperation",
+   "original_title": "US pledges $17 million for Colombo port digital overhaul amid renewed maritime cooperation",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNlFxdFNoYnB4alhPVkotaC1uTlRtWEVtSkYwQWZ5dXJHTmc3S1JDci1mUXZKU3RUU3dFNHJwMFhVUkUxVGgtSUN2aGlvMkRBZXVVMllvdWF6QXVMckxnYWEybXZVZ1BLaFhjeGZod2FneUszY2htTVlTb2hOX2JlaGtfNUh3Y2VTT0VzcUFhVC15TEFvUENTRzgwdXlESjJfcFhHT1RSOVEzN00?oc=5",
+   "source": "Sri Lanka Guardian",
+   "published": "2026-10-16T04:58+00:00",
+   "added": "2026-10-16T12:00+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "US pledges $17 million for Colombo port digital overhaul amid renewed maritime cooperation Sri Lanka Guardian",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3b0c37c762f6",
    "title": "EU Steel Capacity Recovery Depends on 5.8 Billion Euro Investment Barrier",
    "original_title": "EU Steel Capacity Recovery Depends on 5.8 Billion Euro Investment Barrier",
@@ -1923,6 +2092,33 @@
    ],
    "summary": "A.P. Moller Capital Expands Port Investment with Acquisition of Portek The Maritime Executive",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5f67b6e92c90",
+   "title": "India’s Rs 19,744 crore green hydrogen push has a fertiliser connection: 3 stocks to watch",
+   "original_title": "India’s Rs 19,744 crore green hydrogen push has a fertiliser connection: 3 stocks to watch",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcy1QaXVPM29RZGhHT3RadVRTeFZ5enNfclpJWlpZZm5xRnBTTDAyTmlqZ2Z1a2xHM0ZPOE1zdm5hX3FHMFhYNVVUcW9JZFRQd2VBcGpQS1A0bUFHQXM4WXY0U1E5dkV1SkYxU01lUTRBVGZCcno3RmNmdENYcXF6RU1iNFVEaDdvT2JIU2dfRWFXb05BYXRxWnR2bl9INlMtS1Q0SHFhSmNkWk9OVkp1OFdWS2hzSFQ4WGp5b1A5bTVmSlhXV0l0d0tMdVZGSHZtOXJYYk5RUzh2TjBPR1J1ZVVTSEVEd9IB7AFBVV95cUxNT0lCVjlHV0VVdjhPWWkyZnBXajRXcFRRZDZob1FQSUhMYXRfa3NjNFRmU0k3SEVacE1PcVlsNG92aEFoUlRCYzUxeE9mRkdfUUczcG1GbksyUVg4T1E2NVcxcXhwTS1JdVk4YUxnbVNnWGk2MmJNZ3J5R2hRMGJFNjJva1NOR0tjVjNxUEhGOEh6aFB2eHRESXlldEJQcVJ2UDAwLU9oc3piMmpub2xrWldLdG4wdTl5VVExNHoyazYtQnB0a0NhdE9IcnRQNkVOTkxtVVlyTXp4a0N1NXE0YXk5VVJ0YmhfRldnUg?oc=5",
+   "source": "The Financial Express",
+   "published": "2026-10-15T23:40+00:00",
+   "added": "2026-10-16T12:00+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "fertiliser",
+    "hydrogen"
+   ],
+   "summary": "India’s Rs 19,744 crore green hydrogen push has a fertiliser connection: 3 stocks to watch The Financial Express",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16368,193 +16564,6 @@
    "summary": "Red flag for exporters: Hapag-Lloyd booking freeze puts PH electronics supply chains at risk Bilyonaryo Business",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
-  },
-  {
-   "id": "9007c41f1929",
-   "title": "People: Wragg Mark-Bell; MHA; Peel Ports Group; Time Finance; National Care Group; Thrive; Bentley Motors; Harrison Drury",
-   "original_title": "People: Wragg Mark-Bell; MHA; Peel Ports Group; Time Finance; National Care Group; Thrive; Bentley Motors; Harrison Drury",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNWVaVll6d0xXcVZwaUwyRHprSlA1dm95dnJSalpSZzk1emZnWkFNOGRyM2M4YmRhc2EtejNoRnFPZVA0UHNqQjU2NEdOTHJicGZPUi1HUFk2Q0Q4SEhqcmhDdWNWYWVsWHN3am9uUTdHZExsOXFVZGFMR2FFQV83Q3lITHhEbENaOVgxaThYZENCUzlBU0R0cUdGNXlUdGppRnhBUjA0RlhpRjhlLS1zaXlzUTIwV0lYOVNQTndGYmtsTFFvRFhaa194Nm9YdkZvVVlfdER6Y201dTd1Qk1qc3lQQ1h5V3IxWmRhdENxbTlFaUxfdmZTX21PcDRqZnEyWTRr?oc=5",
-   "source": "TheBusinessDesk.com",
-   "published": "2026-10-13T12:39+00:00",
-   "added": "2026-10-13T22:01+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "People: Wragg Mark-Bell; MHA; Peel Ports Group; Time Finance; National Care Group; Thrive; Bentley Motors; Harrison Drury TheBusinessDesk.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "639339f42545",
-   "title": "Port of NEOM, CEVA Almajdouie Expand Red Sea Cargo Links to Europe and GCC",
-   "original_title": "Port of NEOM, CEVA Almajdouie Expand Red Sea Cargo Links to Europe and GCC",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2o5a3NVQUlaMGRLTzZ5c3pZTHZ2Q2pfOWpjTkh3Z1lQcHZQLUxBQjYzNFNRcnprZlFPang1OXBPTlM1YVNSRXIxYmFsOTFqY0x5VWZaaVI3QzRpd2RwMTVsUTVMSUpwUDlUNVZBOHpJbi1hYklyTkE4RWNBSThVU2dnaFVnc2pNYjBscXdJWXFVRTkwSmtVLUViQUZpdw?oc=5",
-   "source": "Breakbulk.News",
-   "published": "2026-10-13T12:37+00:00",
-   "added": "2026-10-13T15:52+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "port",
-    "red sea"
-   ],
-   "summary": "Port of NEOM, CEVA Almajdouie Expand Red Sea Cargo Links to Europe and GCC Breakbulk.News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0da161c29ca6",
-   "title": "Digital Freight Forwarding Market Gains Momentum as cargo.one Raises US$20 Million and Acquires Cargofive",
-   "original_title": "Digital Freight Forwarding Market Gains Momentum as cargo.one Raises US$20 Million and Acquires Cargofive",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRklUUlkyUkVLZDVZbjBTM3VVcmhuZWx1bE1PTzRlYVk1RS1OajBGRWNhWEpCRi1KcHM1a1BrYVl4dVRVaFF2VWVWeGl1Qkd2UExSZHRhdUQ1SE9nTVlwVlJhenZNcUlYM29ZN1VnVkRkanVDUWstWWRHc2pRcUhNU1d2Sm0zWlBNTERJMWNMaVdBV2tqLXZJLUd0Z0FPUQ?oc=5",
-   "source": "openPR.com",
-   "published": "2026-10-13T12:34+00:00",
-   "added": "2026-10-13T14:34+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquire",
-    "acquires",
-    "forwarding"
-   ],
-   "summary": "Digital Freight Forwarding Market Gains Momentum as cargo.one Raises US$20 Million and Acquires Cargofive openPR.com",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b59b7a2bd7fe",
-   "title": "Brazil's Sorghum Boom Threatens U.S. Farmers as China Shifts Grain Purchases",
-   "original_title": "Brazil's Sorghum Boom Threatens U.S. Farmers as China Shifts Grain Purchases",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOY3BBMXM4a2xwdFliV25qSGhBZGdsZ21YVXZPMW9WTWp5THNnVEllUW90WFJOeTVlcDhFOHpWMEtzSm9XZEdHM3EtSl9ITzQ3ZnNfckJXTVc5X0l1XzBZcFhMSmtVWGdtRlFlbFVOWWNYc1IyaGt5OFhIT3F5RkRzSXFZVThqYTIzZm8takFoRQ?oc=5",
-   "source": "AgroLatam",
-   "published": "2026-10-13T12:28+00:00",
-   "added": "2026-10-13T12:36+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia",
-    "Latin America"
-   ],
-   "tags": [
-    "china",
-    "grain"
-   ],
-   "summary": "Brazil's Sorghum Boom Threatens U.S. Farmers as China Shifts Grain Purchases AgroLatam",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d65bd3a53742",
-   "title": "Vopak wins New South Wales government backing for Port Botany expansion",
-   "original_title": "Vopak wins New South Wales government backing for Port Botany expansion",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQjF6N2dxNzZrSUQ5dDhnZ2FJaFZMbkZFbW9XajFienluMXhuMXR3QVBqd3J6V21xYU96cFQ2dk5YbEhhOHZCZmJLOXpQRWV6bWNPS3JqZ2lYUE5fVF9VRncwbTEwRFpORFFYeFdsOXdSWGJYNWFNbENKcnJLZTNHYUxYWGJHZDNwVHJBd05hY0steExmUmJrdFVfbVVodw?oc=5",
-   "source": "energynews.pro",
-   "published": "2026-10-13T12:24+00:00",
-   "added": "2026-10-13T14:34+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Vopak wins New South Wales government backing for Port Botany expansion energynews.pro",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b33ed35cae64",
-   "title": "Heydon announces €46.2m Fertiliser Exceptional Aid Scheme",
-   "original_title": "Heydon announces €46.2m Fertiliser Exceptional Aid Scheme",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSGxHQXpXM1lJTmx3dUxwbDhPbVJLOVNLZTVQTTd5RG9kcmYzQk53dTIxaWJ1MzNiZGE3RmRNakw0LU5YVzhtR2Fqb18yUUNpM0ZleXhfWWdib3ZTa1VvTF9iNWJ1dVRaaHdhOUQ3ZHhYRTFIbjlRTWt4LTgzbVFTSFZQRVJQRlY4Y214el9kR21oOXphVHlUWEg0aw?oc=5",
-   "source": "Agriland",
-   "published": "2026-10-13T12:15+00:00",
-   "added": "2026-10-13T14:34+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fertiliser"
-   ],
-   "summary": "Heydon announces €46.2m Fertiliser Exceptional Aid Scheme Agriland",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "043a002181c3",
-   "title": "Bangladesh backs Mongla expansion as workers protest DP World deal",
-   "original_title": "Bangladesh backs Mongla expansion as workers protest DP World deal",
-   "url": "https://theloadstar.com/bangladesh-backs-mongla-expansion-as-workers-protest-dp-world-deal/",
-   "source": "The Loadstar",
-   "published": "2026-10-13T12:13+00:00",
-   "added": "2026-10-13T12:36+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "port",
-    "terminal"
-   ],
-   "summary": "Bangladesh has signed a $336m loan agreement with China to expand and modernise Mongla port, as workers at the country’s main container gateway of Chittagong threaten an indefinite hunger strike over a deal handing a major terminal to DP World. Signed in Dhaka on Sunday, the loan will fund the construction of two container jetties, as well as a cargo and delivery yard, at Mongla, alongside the purchase of modern port equipment, with expectations of an increase in annual capacity of 394,000 teu. Dhaka-based garment exporter Rafayet Ullah said construction of the Padma Bridge would make Mongla a genuine alternative to Chittagong, telling The Loadstar: “The increased number of jetties and modern equipment means the port will be able to facilitate significant volumes.” The China-backed expansion comes as authorities in Bangladesh face opposition from port workers over a decision to award DP World a 15-year concession to operate Chittagong’s largest container terminal, the New-mooring Container Terminal (NCT). Signed on 8 October, extending the concession, the agreement has seen workers and members of left-wing political parties stage mass “symbolic” hunger strikes outside the port as they demanded the deal’s cancellation. And now they plan more drastic action.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
   }
  ]
 }
