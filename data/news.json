@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T06:26+00:00",
+ "generated_at": "2026-10-16T07:14+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "ace8224e3ca0",
+   "title": "Alstom is expanding its digital rail traffic management system to cover 1,200 km in New Zealand",
+   "original_title": "Alstom is expanding its digital rail traffic management system to cover 1,200 km in New Zealand",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMzFOa3VmLWE4TC1xRDZQbkZibnh1eFBLV3F6M0lBT0dqamJXVkhyTjNrZXR6VXZKVHkwdHFHVzZwOENwT01KMVhrTEY1ekJkT1p4OFdXMjRDX0RSZTFaRWJwLVpBLUtfU01hNkRDbnNDbFhWMVFwUUwtcS1iTDhuTWk1UUROUjVIRThhQWN2NG9tMUJ4QWdLMlZNU05MalU?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-16T07:04+00:00",
+   "added": "2026-10-16T07:14+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "Alstom is expanding its digital rail traffic management system to cover 1,200 km in New Zealand Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "3c410f0fb295",
    "title": "Middle Corridor Could Add $58 Billion to Regional GDP by 2040, World Bank Says",
@@ -4264,6 +4289,32 @@
    "summary": "Odra zyska nowy system. Do 2029 roku ma objąć także Kędzierzyn-Koźle NTO",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
+  },
+  {
+   "id": "81bd19e0d56f",
+   "title": "Podcast: How AI will transform freight forwarding beyond the hype",
+   "original_title": "Podcast: How AI will transform freight forwarding beyond the hype",
+   "url": "https://theloadstar.com/how-ai-will-transform-freight-forwarding-beyond-the-hype/",
+   "source": "The Loadstar",
+   "published": "2026-10-15T08:23+00:00",
+   "added": "2026-10-16T07:14+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "forwarding",
+    "logistics"
+   ],
+   "summary": "AI is everywhere in logistics right now, but what does it actually mean for freight forwarding? In this episode of The Loadstar Podcast , host Charlotte Goldstone speaks to Erik Muttersbach, founder of Zauber and former Forto technology executive, about where AI and agentic AI really stand today, what is already happening in forwarding, and what could change over the next three to five years. Erik shares what he is learning from real-world deployments with customers, tackles some of the biggest misconceptions around AI, and explains why adoption and change management may be just as important as the technology itself. They also discuss the buy-versus-build question, the patterns Erik has seen across a decade of technology adoption in forwarding, and how companies can separate genuine AI capability from the hype. Looking ahead, what will AI actually change across the forwarding value chain – and which parts of the industry will prove hardest to transform? Watch the episode on YouTube and subscribe so you never miss an update!",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "8330ed49fc49",
@@ -16480,57 +16531,6 @@
     "port"
    ],
    "summary": "Port of Frederiksvaerk daily activity El Estrecho Digital",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "68f5a7ef2df8",
-   "title": "A section of Kenya Ports Authority (KPA) Senior management follow proceedings during the opening of a five-day port management coaching workshop dubbed Train for Trade, organized in collaboration with the United Nations Conference on Trade and Dev",
-   "original_title": "A section of Kenya Ports Authority (KPA) Senior management follow proceedings during the opening of a five-day port management coaching workshop dubbed Train for Trade, organized in collaboration with the United Nations Conference on Trade and Dev",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSDRvZEN1Wko1dEFSX3REWlBsOUstcmwtN1dlbzVuRkRuSU41cy1yUTBINjdYWC1mTmYyeTdnUEVVOUpjVmh2d3Z4QVoxZGI0ZVFkOWRPOWFLQVdUVHVMSU9xekJpNmIwX3hjZUZFYXpZcVFkMlFYWnJsYUxMRlNpY3ctR1h4d25hR1RNLTQwSDJZTHN5THp5a1d4b25wb0lXa0dqdFZJMkpfREh3RTlmNnYxaUVhY0pIVnFGNFJzSVJJTkZhX3d3NmFlZHFTQnFvM1dEbUhOa0FzdVE3UHc?oc=5",
-   "source": "Facebook",
-   "published": "2026-10-13T08:30+00:00",
-   "added": "2026-10-13T14:34+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "A section of Kenya Ports Authority (KPA) Senior management follow proceedings during the opening of a five-day port management coaching workshop dubbed Train for Trade, organized in collaboration with the United Nations Conference on Trade and Dev Facebook",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "636db715c8b9",
-   "title": "Southeast Asia Industrial Park Expands Seaport-Linked Investment Opportunities In Tay Ninh, Vietnam",
-   "original_title": "Southeast Asia Industrial Park Expands Seaport-Linked Investment Opportunities In Tay Ninh, Vietnam",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMVUtdjg0b04tWmU1d24tdzBxaDRkX2dNdEhSZGx6RHRrV3J4NUNVNzRfQUFtYUhfNmpYYmdNUk5iSGYyQmhQdlBXTkNtc1l1c3UtN1QxelpnVzNrSGxfRGREeDFpeVpSZE1RclN5SkZyVHVFdVFROVItZnZpbG52cXU0Y0pOeTh6U3RRdU9yM2d0VHkydi1ubEJTY1RjQ1VZcm8wNS1FT2FaZzV5c3BhUEI3cGFaTWRDZDVNaVhRcjlyVUJhQjhrc3Vzb2lQZEwtUXF6dnBJWQ?oc=5",
-   "source": "EIN News",
-   "published": "2026-10-13T08:29+00:00",
-   "added": "2026-10-13T08:32+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "seaport"
-   ],
-   "summary": "Southeast Asia Industrial Park Expands Seaport-Linked Investment Opportunities In Tay Ninh, Vietnam EIN News",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
