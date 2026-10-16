@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T01:20+00:00",
+ "generated_at": "2026-10-16T01:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,32 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "f2b5f1de29c8",
+   "title": "Oil prices top US$105 as Middle East supply risks mount",
+   "original_title": "Oil prices top US$105 as Middle East supply risks mount",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMW1raVdaV29QdlJNSEJtQmhPS1V0UVo1T3lMY1AxVkxfTjFTNDFKcktlZ1FuRnplWUkyY3B6Nnh2dDI2TG95ZDdMV2E3MklNSHAzNHBCZUI1cl9jTFdyaExIWkgtOWpUMWNJVFVIM3BLQVpGWTkzWEJjME5zYTNIdjdBZEFNaU91MjRNTDBwVE9Jb0U3Q0FfbnVYZFpXRkxYNDRIQURYcw?oc=5",
+   "source": "The Vibes",
+   "published": "2026-10-16T01:26+00:00",
+   "added": "2026-10-16T01:55+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "oil price",
+    "prices"
+   ],
+   "summary": "Oil prices top US$105 as Middle East supply risks mount The Vibes",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "eab9a4dc7db7",
    "title": "CMA CGM completes acquisition of Nador container terminal stake",
@@ -40,6 +66,34 @@
    ],
    "summary": "CMA CGM completes acquisition of Nador container terminal stake Splash247",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9b84debe2cfd",
+   "title": "UKMTO says threat to Hormuz shipping 'severe', further attacks 'highly likely'",
+   "original_title": "UKMTO says threat to Hormuz shipping 'severe', further attacks 'highly likely'",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0d5anNzMDg0QmNYeFhaZVA1UmpEVjd2ODdiNnZHVFY1Rzc1T2lpR2ZRTEU4Nnh6ZS1SWXcxNVEydDZFY2I0TGQxYUJWOFJUbGxyTGJzSHplanRaX1JCYWpyU2piQkNCZ0NtQkVDbGlKbW9YcVRwektMSC1FVkpvVklvTmM1ODA5WEkzVlpha1poM3ZEeHgxOUVvVmp4NHlGa29fZTZKSVJfbzd2ZktCbjFsVXlxQkZJWWQ4dmlZOWE0UDVxa2c?oc=5",
+   "source": "Middle East Eye",
+   "published": "2026-10-16T00:06+00:00",
+   "added": "2026-10-16T01:55+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "UKMTO says threat to Hormuz shipping 'severe', further attacks 'highly likely' Middle East Eye",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -807,6 +861,35 @@
    ],
    "summary": "Shein rozbudowuje centrum logistyczne w Polsce i rusza z rekrutacją pracowników Wiadomości Handlowe",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "dc7965f7bd87",
+   "title": "Brussels reviews US fees on Spanish vessels over denied calls at the Port of Algeciras",
+   "original_title": "Brussels reviews US fees on Spanish vessels over denied calls at the Port of Algeciras",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb3QtQ3h1OHItcUF5NzRnVlR2WVJldWZpNnlzUjZLM0JKeEplQnd2VWx1RUhGbFRVTDNMZ3BPRDB5dTBZX3NPblRqNW9hUmYzQ28zbEZYTFVtY01tMWJaV1plVS1xQ0ZLWl9SaFNtRDNIaFZabnZJRVNNYzJJa3RpbTkwN3IxYUVEbVlLOTVRd3lab3U2WWdPalN0QjAyYkxtb0ZfSWlxVTlCWXNfUURqVXpIdGZ1bnpLTXcwdkhSM1NFSk5oOFJtQlZ3bV95ejA?oc=5",
+   "source": "El Estrecho Digital",
+   "published": "2026-10-15T17:15+00:00",
+   "added": "2026-10-16T01:55+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe",
+    "EU institutions"
+   ],
+   "tags": [
+    "brussels",
+    "port",
+    "vessel"
+   ],
+   "summary": "Brussels reviews US fees on Spanish vessels over denied calls at the Port of Algeciras El Estrecho Digital",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16458,90 +16541,6 @@
    ],
    "summary": "Super El Niño lifts Argentina soybean crop forecast by 8% UkrAgroConsult",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e5079d7755e9",
-   "title": "Wheat Market Outlook: Russian Export Squeeze and Black Sea Shift",
-   "original_title": "Wheat Market Outlook: Russian Export Squeeze and Black Sea Shift",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlJsdm9jNWx5VldSS09IZkljc2dIcjhhZEYtQTZPeXFsMmNtQ3REX2d6Skx2WGZvUUx2emx3SWFaS1llWEVnNFhDSzczbWt4ZS1sbVlZX3JCUUVDR0diQU03c2tvZkR3cGV1WmczRWJTS18zSTFWZjRGajRudlFwQURCSFgtekhPR1B2MGZBUkV0VTBpYkE?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-13T07:16+00:00",
-   "added": "2026-10-14T09:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "black sea",
-    "russia",
-    "russian",
-    "wheat"
-   ],
-   "summary": "Wheat Market Outlook: Russian Export Squeeze and Black Sea Shift CMB News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "71985392deba",
-   "title": "Konecranes receives order for four automated cranes in Germany",
-   "original_title": "Konecranes receives order for four automated cranes in Germany",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV3d5eWEzMWpmMWRpV20zRVlkS0l5eGxPdlZPOWJweXp1VG9FOE1rNU15UHJ0b0pZaHJleklUNEtCZ1JaMm5kVENDTTdPQWV3YW4tZGNndkQyRjctSkNXNmpPeDBJM0R1RVUyWHFOaC1HTVRpUzh6eGYtWGVVeDRiM0JDZ0lhWEdHUWxrQmlVOE5xaW9PWk0tcjVGd3VWczFIWTNwTEtuQUkxbGZEQVNETHNTU3VyZw?oc=5",
-   "source": "www.marketscreener.com",
-   "published": "2026-10-13T07:12+00:00",
-   "added": "2026-10-13T08:04+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "konecranes"
-   ],
-   "summary": "Konecranes receives order for four automated cranes in Germany www.marketscreener.com",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "582679c68990",
-   "title": "Lineas is expanding its rail operations at the Port of Antwerp",
-   "original_title": "Lineas is expanding its rail operations at the Port of Antwerp",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2NvVWhaQWdhTjNyT1ZXbkptekVFcGt2Uml2WWRMbk43emdfelRpQ3FLd2x1LXhPSUpiX3hObGVZS2RaLVpFeXhqYTdyYWJiVUdZQ0VVR2lTaktrMGEzdEUwQndseGZ0TW5iS3NvNmxXblQxRGRQcVY4ZEhPMDNkbkV2bU1PU3I2Tkd1TWFSbkRZMFN1ZW5WUA?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-13T07:07+00:00",
-   "added": "2026-10-13T07:17+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "rail"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port",
-    "railway"
-   ],
-   "summary": "Lineas is expanding its rail operations at the Port of Antwerp Railway PRO",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
