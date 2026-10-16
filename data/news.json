@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T00:46+00:00",
+ "generated_at": "2026-10-16T01:20+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -95,6 +95,34 @@
    ],
    "summary": "A.P. Moller Capital Expands Port Investment with Acquisition of Portek The Maritime Executive",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "65af372d37a4",
+   "title": "Two more ships burn on the western Black Sea as the grain war escalates",
+   "original_title": "Two more ships burn on the western Black Sea as the grain war escalates",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IbWI3eVlXcnpwMEFZZmZsQWcwOGlyN245d2J4SkM3LUE2VlZKMHVZSFFNZS1fTmE5elR4bXRDaWdDOGVvdHVYS3NlOW9NcWg1Z0pVQmI4STdTVGNQd3FYeVlXTUJZV3NhSGhoSjN2TWhhWHBx?oc=5",
+   "source": "Euromaidan Press",
+   "published": "2026-10-15T22:26+00:00",
+   "added": "2026-10-16T01:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "grain",
+    "war"
+   ],
+   "summary": "Two more ships burn on the western Black Sea as the grain war escalates Euromaidan Press",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -403,6 +431,61 @@
    "summary": "LD Armateurs and Norsepower are proud to announce the completed installation of six Norsepower Rotor Sails™ on board Spirit of Toulouse, the lead vessel in a new fleet of three low-emission RoRo ships built for LD Armateurs (LDA) to support transport operations for Airbus. The installation, carried out by the project team of the shipyard, Wuchang Shipbuilding Industry Group Co. Ltd., at a coastal outfitting site in Shanghai, makes Spirit of Toulouse not only the largest RoRo vessel in the world to be equipped with wind-propulsion but also the vessel with the largest number of mechanical sails in the world. The six rotor sails, each measuring 35m x 5m, are paired with two dual-fuel main engines complemented by two dual-fuel generator sets, capable of running on e-methanol, bio-methanol or marine diesel oil. The Spirit of Toulouse, owned and operated by LD Armateurs, now carries six Norsepower Rotor Sails™ — the highest number fitted to any RoRo vessel— working alongside dual-fuel methanol engines to cut fuel consumption.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "4b64411b6888",
+   "title": "Container Shipping Would See Little Relief if US Eased Sanctions on ‘Shadow Fleet’ Vessels",
+   "original_title": "Container Shipping Would See Little Relief if US Eased Sanctions on ‘Shadow Fleet’ Vessels",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYTkwNmMtaXZoSWVTNDU2T29rVE1MQ3B6V1k2RzlHNHJJTmhjeFpKVHVpdC1pbmlqc0F2aGNOakNjbUpIM25GYThod0h4ZUxfRlY3aFIzeUozNUE3Z3Fpd1hZajdaUVVxQjJfU21OQmFHS3N4RHp6YnZCNndObjd2VEJaVlNiNzB6SVZFWXVialozeHg3QU00dg?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-15T21:00+00:00",
+   "added": "2026-10-16T01:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "sanction",
+    "shadow fleet",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Container Shipping Would See Little Relief if US Eased Sanctions on ‘Shadow Fleet’ Vessels Yahoo Finance",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "723485a4e0be",
+   "title": "Diammonium Phosphate (DAP) Procurement Guide",
+   "original_title": "Diammonium Phosphate (DAP) Procurement Guide",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTVJNd2RyZ2JhbHh4cGJoQkFyTXpReDl3QzBXOWRFM2xTUW1QbXBSQXROdW9BSTRYMWVhbGx6d2s4WkRxdFV6cHVwT2hrY3p6cFlIekktcWd1MXBLRHNuYWMyUnFhNVB3NHVRdFFUdzI3Q3JXSWJXLXZjSmFrM2Via1I3ZXNoRlBiRng5dUl3T2l4OVVNWXY4?oc=5",
+   "source": "ChemAnalyst",
+   "published": "2026-10-15T20:17+00:00",
+   "added": "2026-10-16T01:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "phosphate"
+   ],
+   "summary": "Diammonium Phosphate (DAP) Procurement Guide ChemAnalyst",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "37ee8e1bb851",
@@ -16459,85 +16542,6 @@
    ],
    "summary": "Lineas is expanding its rail operations at the Port of Antwerp Railway PRO",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b6a35f8f6a4b",
-   "title": "Restrukturyzacja PKP CARGO. Zarządca wnioskuje o zmianę harmonogramu",
-   "original_title": "Restrukturyzacja PKP CARGO. Zarządca wnioskuje o zmianę harmonogramu",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPckc4dnZVN3BoYWthcVVmeHJEQkV1bmRoQUU3LWN4S2VsZE1TeEcwMmQxOElTd2JlaER4dVFIcXJoMHNnbHpRS2pSVFB6NXZBMGF4X0psN0FjNzQ5ZGNkQjVhV216OWNIdGdxZXN0cEZWSmp2UkVuZW45N29TWnkxQ1lWcDFmdkp1d2d5SzlydGI3UU1BVllpdVpB?oc=5",
-   "source": "Kolejowy Portal",
-   "published": "2026-10-13T07:04+00:00",
-   "added": "2026-10-13T07:17+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "pkp cargo",
-    "restrukturyzacj"
-   ],
-   "summary": "Restrukturyzacja PKP CARGO. Zarządca wnioskuje o zmianę harmonogramu Kolejowy Portal",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "da150ab82a4c",
-   "title": "CF Moldova to become a joint-stock company, but without privatisation",
-   "original_title": "CF Moldova to become a joint-stock company, but without privatisation",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ2FoLXhNWFRuNko2MnQwbEY4ZURGeGtSeWdmZmRDNmFLOHU3ZWMwNXEzQk9Bc1VfSS1iR2huNF9UV0kwcUNJVG9meWh1dHVQYnB2VWNxNlg1SmRNTV9ZUWgtR3V5bk8zdEdzcHBlZnZFZ0ZsVDd2RHk1X3JnYXJzcEdPcnBZcFJqMWJZeU9pLW15LUdNVjhtd1Bpb2JUcUg5?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-13T07:02+00:00",
-   "added": "2026-10-13T07:44+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "railway"
-   ],
-   "summary": "CF Moldova to become a joint-stock company, but without privatisation Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9f4e1d153184",
-   "title": "Why a Niche Steel Could Stall Europe’s Electrification Plans",
-   "original_title": "Why a Niche Steel Could Stall Europe’s Electrification Plans",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JSWVTUDVlb1hqcm11TTdzMHoyMzdrRUlhVHRkVzlTeXMtcHRER1JWdFAyZTRCbnhuUldIS0FkOU0yTm14ay1wTV9LQXZyd2Fuc1dNdnJ4blVOVWVXcnhSd3BwdVE1OXRPejFOR1ZvSnBwZw?oc=5",
-   "source": "IEEE Spectrum",
-   "published": "2026-10-13T07:00+00:00",
-   "added": "2026-10-14T12:05+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "electrification",
-    "steel"
-   ],
-   "summary": "Why a Niche Steel Could Stall Europe’s Electrification Plans IEEE Spectrum",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
