@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T23:43+00:00",
+ "generated_at": "2026-10-17T00:04+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -961,6 +961,32 @@
    "summary": "Havila Shipping has entered into contracts with Neo Next + Energy E&P UK Limited for the PSV vessels Havila Fanø and Havila Herøy. Each contract is for three years firm until September 2029 and 3 optional periods of one year thereafter. The contracts are on market terms and will be in direct continuation of existing spot contracts and operations will be in the UK sector of North Sea. Source: Havila Shipping ASA",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "fcf57f1c5a44",
+   "title": "The Port of Rotterdam loses 20% of its transshipment traffic while keeping container volumes stable",
+   "original_title": "The Port of Rotterdam loses 20% of its transshipment traffic while keeping container volumes stable",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZi1PWXV5UWZuNDdVUXlqVFdVNV9CbnBIMU1ybGtOd281T05UUHVGb05xaWlINzNwUGlET1RmYkxaZDlUVXVPdTBwQXFZWWc1QmZ0QUxfWjVhRXNTeG1jeWd5Nk1uTzJmYmQxLXRwNU1iUDVpX2pRRi16VkI2TkkxVmtRVFJpbVB6a3RWM2ZqbW1nZTVWWi1Pa2dmRE5sZWxtZ1ZraHMwVHVBV2xYR1B3M3BtQXhrRFY0S000bTJlbXhlNEtqSGlGWmJYWllVYkZxMHE2QkhNY3FSUWZHZHRJ?oc=5",
+   "source": "El Estrecho Digital",
+   "published": "2026-10-16T16:59+00:00",
+   "added": "2026-10-17T00:04+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port",
+    "transshipment"
+   ],
+   "summary": "The Port of Rotterdam loses 20% of its transshipment traffic while keeping container volumes stable El Estrecho Digital",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "bf40f4a7dc0a",
@@ -16527,33 +16553,6 @@
     "wheat"
    ],
    "summary": "Wheat market update: Futures ease, Black Sea risk and EU dryness CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c52dc6f67976",
-   "title": "Will ASX 200 Miner Champion Iron (ASX:CIA) Gain From Chinese Steel Restocking?",
-   "original_title": "Will ASX 200 Miner Champion Iron (ASX:CIA) Gain From Chinese Steel Restocking?",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN1ZhbDRIdENCdVFaOEJxNGhKSW00TWpyekN5LVdiMlIwYmJuc3plN3ZudUNpWGd0Z1NlNV9RWmZQLW9hMGZTYTBXejlFRVdUNE5WUDg5N2N5REMzRUVHWXpNQTFoc3pOMmY0TUgxcmt1OUxLUE9EZG1QdzliT2piZ3pMYmZyTVpCREV6RzQtamtabzBSYVJpY1Y0N3FXX0Y0S0JScnpQYWxSSk1YcEZOLVd0eTZOTzFCOXRuSzF4c2g2b2xN?oc=5",
-   "source": "Kalkine Media",
-   "published": "2026-10-14T06:09+00:00",
-   "added": "2026-10-14T15:13+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "steel"
-   ],
-   "summary": "Will ASX 200 Miner Champion Iron (ASX:CIA) Gain From Chinese Steel Restocking? Kalkine Media",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
