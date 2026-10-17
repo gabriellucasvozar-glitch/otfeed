@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T02:29+00:00",
+ "generated_at": "2026-10-17T03:02+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -11782,6 +11782,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "aace852d5454",
+   "title": "Port of Savannah secures 3.5 million TEU terminal permit",
+   "original_title": "Port of Savannah secures 3.5 million TEU terminal permit",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUW9VNGUzWXFaUjhsVW52TVg1SzV2QnVCQW9paXljU3gzejREejAtMlFBSHFVLXNQRUM2V2pBeDVLQ1otWWQ1R2p2ZWRRRUl5Vlh2VGdxU2w5bDhXcTNiMkNILU53MEwyRWE1MnRTWVRKN3FSSzQ1LU1OaWdYSWZPcmF0cmdWZ1EzWTdjdURuY1hCZG9ra29zQ3M1QXBoNzhwbEtJWGVYYTdZX3RWTHlxeFRB?oc=5",
+   "source": "Data Portuaria",
+   "published": "2026-10-14T19:05+00:00",
+   "added": "2026-10-17T03:02+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "permit",
+    "port",
+    "terminal",
+    "teu"
+   ],
+   "summary": "Port of Savannah secures 3.5 million TEU terminal permit Data Portuaria",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "853946e3f471",
    "title": "FedEx sprzedaje spółkę za 1,4 miliarda dolarów. To zmieni globalny łańcuch dostaw",
    "original_title": "FedEx sprzedaje spółkę za 1,4 miliarda dolarów. To zmieni globalny łańcuch dostaw",
@@ -16515,34 +16545,6 @@
     "ammonia"
    ],
    "summary": "GSFC Seeks JV Partner for 500,000 Tpy Green Ammonia Project Construction World",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fc92259f7b71",
-   "title": "Brazil Approves New Stacked-Trait GM Soybean From China’s DBN",
-   "original_title": "Brazil Approves New Stacked-Trait GM Soybean From China’s DBN",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3o4bHdiWWJITE0yS09Cb05pN1d4ZVNsdEg1YzZoMkJqTGJiN25XVFZ5VXpheUFqbnhqZkhoS256WGhLLXdDd1U0Vk41em1abHdKdlJWcjJQMVA5U1RuYVpoeFVocUF1dWtMMUhBT3FjNk5YaXdpZzNYNUhlV0R1R3c5cTlVelZTU1g3TWd6bklXX2E3X2l3NTd5X2QwWkRfZG8xUlpISWg4R0JyRUp0bFlad3E?oc=5",
-   "source": "Global Agriculture",
-   "published": "2026-10-14T06:45+00:00",
-   "added": "2026-10-14T13:23+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia",
-    "Latin America"
-   ],
-   "tags": [
-    "china",
-    "soybean"
-   ],
-   "summary": "Brazil Approves New Stacked-Trait GM Soybean From China’s DBN Global Agriculture",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
