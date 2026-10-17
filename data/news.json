@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T05:40+00:00",
+ "generated_at": "2026-10-17T06:06+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -125,6 +125,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "8704c01836a1",
+   "title": "US: Steel prices rise to highest level in over 4 years due to tariff impact.",
+   "original_title": "US: Steel prices rise to highest level in over 4 years due to tariff impact.",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWJUVmdyMkp5UFFRWVBnYlZ1amFDWHVQa3JranEyakttYUN2RFRvYW9DbGprQ09tQzFWbi1hS0M5VTMzdGM1Uk11a0JMYjVYMGRFVDJxWllHUDB3RmpHSm5NMW9McFp3a1g5ZzVPYkVuZnk1MjI0T3hkWl9hTzlyT3A4Ykh1MW9EYTFXSHNCZW1mSlR4d3A4UE5fTTYxcFBmSGpR?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-17T00:44+00:00",
+   "added": "2026-10-17T06:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "prices",
+    "steel",
+    "tariff"
+   ],
+   "summary": "US: Steel prices rise to highest level in over 4 years due to tariff impact. Vietnam.vn",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "23834acbe447",
    "title": "Avaada plans ₹40,000 crore capex for green ammonia, methanol plants",
    "original_title": "Avaada plans ₹40,000 crore capex for green ammonia, methanol plants",
@@ -146,6 +174,34 @@
     "ammonia"
    ],
    "summary": "Avaada plans ₹40,000 crore capex for green ammonia, methanol plants Livemint",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e72230cca9e6",
+   "title": "U.S. Steel Prices Hit Four-Year High—Up 52% in a Year on Trump Tariffs",
+   "original_title": "U.S. Steel Prices Hit Four-Year High—Up 52% in a Year on Trump Tariffs",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rTWhPREtOYWROM1haSVZ0enlVVDBUcXZ2Vk9VdGJXWWMtTmxkemxzd0kyZWdOZzZ1d1I2SWd6a0VDYUpyVGx1VjNTZkVudVdrUmQ3bkFwcWFZU2xzenR4TjdlRzB0bEJBWFBGbGJfN3ZfbmdwVWc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-10-16T23:25+00:00",
+   "added": "2026-10-17T06:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "prices",
+    "steel",
+    "tariff"
+   ],
+   "summary": "U.S. Steel Prices Hit Four-Year High—Up 52% in a Year on Trump Tariffs BigGo Finance",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16489,63 +16545,6 @@
    ],
    "summary": "Egypt, Turkey and Bangladesh seek alternatives to Black Sea wheat UkrAgroConsult",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4cdfb31bc867",
-   "title": "SmartSea links crew travel and gangway access in dual launch",
-   "original_title": "SmartSea links crew travel and gangway access in dual launch",
-   "url": "https://splash247.com/smartsea-links-crew-travel-and-gangway-access-in-dual-launch/",
-   "source": "Splash247",
-   "published": "2026-10-14T07:06+00:00",
-   "added": "2026-10-14T07:14+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "vessel"
-   ],
-   "summary": "Maritime technology provider SmartSea has launched two connected platforms aimed at simplifying crew changes, linking journey planning with digital identity checks at ports and vessel gangways. SmartJourney brings together flight information, ground transport, accommodation, vessel schedules and crew rosters in one interface. It tracks travel status in real time, allowing crewing teams to respond to missed connections and schedule changes before they disrupt crew handovers. Companion product SmartAccess handles entry permissions at terminal gates, gangways and offshore installations. The platform checks personnel credentials, required certifications and authorisations against access requirements, including those associated with the International Ship and Port Facility Security (ISPS) Code. It can also be paired with SmartSea’s FacePod biometric units to match arriving seafarers and contractors with authorised personnel records, reducing reliance on manual documentation checks. “Crew movements involve ongoing coordination between travel coordinators, port agents, technical managers, and vessels,” said SmartSea CEO Kris Vedat. “When systems operate independently, small itinerary changes can create scheduling difficulties and extra administrative work.” SmartSea said the platforms provide operators with a connected view of who is expected to arrive, their current transit status and whether they have the necessary clearance to board. Both products are being offered to commercial shipping fleets, offshore support vessels, marine terminals and offshore energy facilities.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "4b0c8fcde6de",
-   "title": "The Turkiye–Bulgaria cross-border line, inaugurated by President Erdoğan and a European Commissione",
-   "original_title": "The Turkiye–Bulgaria cross-border line, inaugurated by President Erdoğan and a European Commissione",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYlo3c3YzZEtHMUNxRzlKaEJDeWRvbWpCaU9LOTFaYWpCWjU4UzhqajhBdDRrZjZhM2ZHX3g3eGlMY05hOFltRE9fbXktUTdwUWszSVMzMWhJcFF2c3Q4TW5VT1ctdHg3N3Z6LXhLMzBQVllvWjZZNWJGaWFqeS1sQUluNURESmI2?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-14T07:01+00:00",
-   "added": "2026-10-14T07:14+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea",
-    "EU institutions"
-   ],
-   "tags": [
-    "european commission",
-    "railway"
-   ],
-   "summary": "The Turkiye–Bulgaria cross-border line, inaugurated by President Erdoğan and a European Commissione Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   }
  ]
