@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T08:23+00:00",
+ "generated_at": "2026-10-17T08:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,32 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b0fff5f0165f",
+   "title": "P&H begins construction on grain storage expansion at Por ...",
+   "original_title": "P&H begins construction on grain storage expansion at Por ...",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORS05djQ2bW5iSWI1d2NBb1JLaTllbTFNV1VDMWRDZFNqSW91LTVGd0plWmFEa0FRYlVmT1dpOG5DR2RRWWZkVjhiTk5RRmM5eVRHbEFURG9uU2JTZzVFTDdOcHdPR0wzM2xPd1hxaGdEVDVTeFB2akJtWUpCUk03TU1RN0JiYlhPQ25uclZOeXJKWVMzTmc?oc=5",
+   "source": "Milling Middle East & Africa",
+   "published": "2026-10-17T08:39+00:00",
+   "added": "2026-10-17T08:55+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East",
+    "Africa"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "P&H begins construction on grain storage expansion at Por ... Milling Middle East & Africa",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "fcc4c3437bc1",
    "title": "Terminal na Śląsku za miliard złotych, a może i więcej. Wybór projektanta na finiszu",
@@ -6316,6 +6342,34 @@
    ],
    "summary": "Shein rozbudowuje centrum logistyczne w Polsce i rusza z rekrutacją pracowników Wiadomości Handlowe",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e19fe64ce5c5",
+   "title": "Canadian wheat exports strong amid Black Sea shutdown",
+   "original_title": "Canadian wheat exports strong amid Black Sea shutdown",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0lsM3NLOEJqWXlmZl9nQUF3b1NuV0Z4NG1sWmRBSVZtdlFTbThzbk50RDZCU3pfQnB1c3BmLVpUSndGODlFZ2tmOEg2MTZhMjJCSDhybDdIMlhqU01ZelNwMjVxWXBUTDg1U0Z5UDR6RHlEcXhkVWFZUmV4TnUteVpScDNJLVp0UGdNZG5aV2Q?oc=5",
+   "source": "The Western Producer",
+   "published": "2026-10-15T17:15+00:00",
+   "added": "2026-10-17T08:55+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea",
+    "North America"
+   ],
+   "tags": [
+    "black sea",
+    "wheat"
+   ],
+   "summary": "Canadian wheat exports strong amid Black Sea shutdown The Western Producer",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16500,58 +16554,6 @@
    ],
    "summary": "How Burdensome Is CBAM? Washington Wants to Know Steel and Stainless Steel News",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "14848cd8d3df",
-   "title": "Ukraine’s grain surplus: Why a strong harvest could squeeze farm margins",
-   "original_title": "Ukraine’s grain surplus: Why a strong harvest could squeeze farm margins",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOEllOU03MGEzZWJJVGs5MHU3a2JjZllEeGltQUVuUDNtLVhzX25vQm9xbkN3bjJPSldGZHdvLTVpMWRiemtTNnItR0lENHpnc3pHckFlRzlJd29HVmlLN043OXhuUUhSdklXX3poYi1LQ3c0OHhraG4yaUlxemxuOE1qMkhWWFNwTWItMjJYTEg1RjQ0QmxQQUZueVRNZUl5NXM1QVhGT05UQQ?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-14T08:09+00:00",
-   "added": "2026-10-14T12:05+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain",
-    "ukraine"
-   ],
-   "summary": "Ukraine’s grain surplus: Why a strong harvest could squeeze farm margins UkrAgroConsult",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a000ff9df161",
-   "title": "Nomura remains bullish on steel stocks as HRC hits four-year high; retains 'Buy' on Tata Steel, JSW Steel,...",
-   "original_title": "Nomura remains bullish on steel stocks as HRC hits four-year high; retains 'Buy' on Tata Steel, JSW Steel,...",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSFM1MDFsbEtnTGR4WE5IX29BcEgxTHk5bVc3WmtWdG1SWS1kUy1kVm1QMUdnRWI0Z3RFTmVJeWFtQ2JrV0gxelh4N1pxUWdLbG56Q1BMTFRwd2NRdWNHbENaMVhFVXRhQ0RfSFQzODI0eE52UEkzMUR0czdGSHRqZ21EQVRkTDR6cFd0TDF6LUJuWGpiNnVVS0NDV0NQZTBUeGNybVVhckdiRFJSZVU5UGRDOExkQzlBX1pkYzVaVDlHUk5TWHN5TjB6WFZWZUI4Tm1sSElOcUpzRVg4RDZLMzl6RkM3eW1WdWs1UnhCcWY0aEJkZmZVYl9RcVlMS2ZOdDlVcTl1emhUZ9IBjwJBVV95cUxOcHo2TWtYcmxjdllyT09iOGc3Q0xXbXpKSWFobklHUklyRzZCOFRZZDNSd2lpTE41a1FuRDlaUHhYZjdTUDRfQ25DSGw0amV2bHlmd1pvQldPa2VGNE5EdlIxa3ZoSTYxWENYcTQtck9zUnVBT1pwNXFHcXU3Zms3UGxqaUFmRGgwaUlRY0thbTlxSWZlQ21WU3ZPejF1b1dWRlI0M3k3Z1RGUHhqVEp3bFM3SzkyMFE5bHZGV2twd0RXTHdZeFZGMXI3YlJZYVZuRVRkSHlOX1ZSejI4b0NDLXlDOU52WFlFSEVTX0pGSkN4dF9LRHpYelYxaXhXZF9xbHJ5cFQ3Ui04U1pfaVQ0?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-10-14T08:04+00:00",
-   "added": "2026-10-14T12:05+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "Nomura remains bullish on steel stocks as HRC hits four-year high; retains 'Buy' on Tata Steel, JSW Steel,... Moneycontrol.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
