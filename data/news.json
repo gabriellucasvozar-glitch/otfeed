@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T12:51+00:00",
+ "generated_at": "2026-10-17T13:21+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,38 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6b69c0ec3bdd",
+   "title": "Zelenskyy warns of continued Russian attacks on Black Sea ports",
+   "original_title": "Zelenskyy warns of continued Russian attacks on Black Sea ports",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVlg2V3REaWN1UWN6U1RjVGF4eGNFQl9rcm93TV80bkZQSWhzZmpsMUtrQnhWN1Nzcm5jRGE4ZUt5NDBub001NFc1Zm94VzBld1NqNlQ1dGZBZDJHd19JUzdoQnotT29RTURMdU0zaEpwRTU2eDZab0M3cXRERlNYUVZ6TjdPM1psYU1vNjA3X29RRFpuWjZpSy1YekpLUDJ0?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-17T12:54+00:00",
+   "added": "2026-10-17T13:21+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 14,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "port",
+    "ports",
+    "russia",
+    "russian"
+   ],
+   "summary": "Zelenskyy warns of continued Russian attacks on Black Sea ports UkrAgroConsult",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "f864888b187b",
    "title": "The Autonomous Ocean: Preparing NATO for the Future of Maritime Security – NAOC",
@@ -16512,31 +16544,6 @@
    ],
    "summary": "Portugal has begun construction of the Lisbon–Porto HSR Railway PRO",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c63bb93f7c78",
-   "title": "What Does the ICE Brent Crude Oil Benchmark Mean for Energy Markets in Australia?",
-   "original_title": "What Does the ICE Brent Crude Oil Benchmark Mean for Energy Markets in Australia?",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWkE1TVA0cHZFVGNJcEJhNlpDYWFuc3RJWlMxWEdSbEZRa09xMEZ2UEVtVTdMcDlmM2p4eEpVTlVEdjBDaW5SVVc1c0hXQ0hQSVdpRGo1XzJBUk1YWWJLY2I4Qm1zSDY5RENmR0RZVEJyWHVCLXlCVW5IWnJYNW5sZVVUMnMwdm9Dc1FWNWNJRGlyOWpiWDNNQWR3ZTFpX3RqS01HdnVSbHVlc2ZfYnFMSzdxRlZjakJFZnd5RlJPWQ?oc=5",
-   "source": "Kalkine",
-   "published": "2026-10-14T08:54+00:00",
-   "added": "2026-10-14T10:56+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "crude"
-   ],
-   "summary": "What Does the ICE Brent Crude Oil Benchmark Mean for Energy Markets in Australia? Kalkine",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
