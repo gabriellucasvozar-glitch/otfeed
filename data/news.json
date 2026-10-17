@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T19:49+00:00",
+ "generated_at": "2026-10-17T20:08+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13527,6 +13527,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "4232caa38368",
+   "title": "Germany adopts national plan for decarbonising shipping",
+   "original_title": "Germany adopts national plan for decarbonising shipping",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQXzFWbndqWHFsSmpHeVUtX21raWJ0amVqUWh3SmJCOGpOX3ZlQ3hjUnZ0SldvS3JRdEZjM3BHS3V0NUxVd1NRWjFDYnFGTkRjMmFuNXVWOUMtWFp1VGVvWm5HSm5PaG1oTExYNUV4MGNnQjRWLXpaUUFkWVdfbmpQdlNNNjdjNTJncHNCbkJnTUZyWWN5d1c0c2NZQlY1UFROdXdsRjI4a3ZYRlU?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-14T17:27+00:00",
+   "added": "2026-10-17T20:08+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "commodit",
+    "shipping"
+   ],
+   "summary": "Germany adopts national plan for decarbonising shipping Quantum Commodity Intelligence",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "214bce4d071c",
    "title": "Bulk Carrier Sinks Weeks After Deadly Strait of Hormuz Strike",
    "original_title": "Bulk Carrier Sinks Weeks After Deadly Strait of Hormuz Strike",
@@ -16510,35 +16537,6 @@
     "shipping"
    ],
    "summary": "The electrification of Danish shipping is advancing rapidly. Access to electricity and sufficient grid capacity remains the biggest barrier. A new project will provide practical recom­men­da­tions for policymakers and other key stakeholders, paving the way to unlock its full potential. Danish Shipping, Danish Maritime, Danish Ports and Green Power Denmark have joined forces on a project to support the electri­fi­ca­tion of shipping and help policymakers and investors make the right decisions to realise its considerable potential. Denmark’s maritime sector should play a central role in the green transition and in the ambitions to accelerate electri­fi­ca­tion across Denmark, as set out in the government’s new budget proposal,” says Nina Porst, Director of Sustainable Ships and Skills at Danish Shipping. The electrification of shipping is rapidly becoming a viable and energy-efficient solution for decarbonisation. The planning and development of Denmark’s future electricity infrastructure must take this into account. Specifically, the project will provide an evidence base for future investments and policy decisions by analysing developments in battery-electric shipping and their implications for electricity supply, charging infrastructure and the wider energy system. Its findings will highlight shipping’s future needs in electricity grid planning and support Denmark’s position as a leading maritime nation in the green transition.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "662659a56ffa",
-   "title": "Shipping firms and ports caught in mass cyber extortion claim",
-   "original_title": "Shipping firms and ports caught in mass cyber extortion claim",
-   "url": "https://splash247.com/shipping-firms-and-ports-caught-in-mass-cyber-extortion-claim/",
-   "source": "Splash247",
-   "published": "2026-10-14T10:00+00:00",
-   "added": "2026-10-14T10:17+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistics",
-    "port",
-    "ports",
-    "shipping"
-   ],
-   "summary": "A cyber extortion group has threatened to publish data it claims it stole from 38 shipping, port, and logistics companies unless they pay multimillion-dollar ransoms by October 19. Cybersecurity firm SOCRadar said the group, known as n0n, added the 38 organisations to its dark web leak site in a single batch on October 12, marking a sharp shift towards maritime targets. The list includes 12 port and container terminal operators, 10 shipping lines and ship operators, port IT providers, logistics companies, and other maritime businesses across 18 countries. n0n is described as a financially motivated data-theft extortion operation rather than a conventional ransomware group. The group is threatening to release the alleged stolen material at 13:27 UTC on October 19. SOCRadar said ransom demands it reviewed ranged from $2.4m to $14m, payable in Bitcoin. In one example SOCRadar cited, Eurogate Tanger was allegedly asked to pay 10% of a $6m demand before being given access to a private negotiation room. The data n0n claims to possess varies between companies and includes EDI archives, container manifests, vessel schedules, gate movement records, commercial documents, internal system configurations, employee accounts, and financial records. SOCRadar said the relatively small, application-specific datasets claimed for several victims could indicate a common application or shared vulnerability rather than 38 separate compromises, although this too remains unconfirmed.",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
   }
