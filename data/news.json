@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T18:56+00:00",
+ "generated_at": "2026-10-17T19:23+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -8022,6 +8022,31 @@
     "scrap"
    ],
    "summary": "Equinor Scraps Troll Gas Field Upgrade, Protecting European Output ChemAnalyst",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c4a4d4d95aae",
+   "title": "U.S. Farmers Face a Profit Squeeze as Corn Stocks Surge 35% and Costs Climb",
+   "original_title": "U.S. Farmers Face a Profit Squeeze as Corn Stocks Surge 35% and Costs Climb",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMnh0Vkh3TXY2eFNvMU1qNW1uQWdqZXMyUmhCQ3o4Z3hWblBJQnpIODdiQU1DOElkbVVodUlUYVA1TjB5bXdXYjNPQk5JZUtCdmxLSzFza0MzVzlsZHprdEFRVExFUDM3SFJWSVdOdDE2YTBmME1UVENXRGhQV0pfZ3Vsa05kdkZua2lkQQ?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-10-15T14:18+00:00",
+   "added": "2026-10-17T19:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "corn"
+   ],
+   "summary": "U.S. Farmers Face a Profit Squeeze as Corn Stocks Surge 35% and Costs Climb AgroLatam",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16515,34 +16540,6 @@
    ],
    "summary": "The CMA CGM Group, a global player in sea, land, air and logistics solutions, and ENGIE Group, a major player in the energy transition, are joining forces to develop a major biomethane production facility at the heart of the Le Havre industrial-port zone. This major logistics hub in Europe, is a strategic location for the development of new low-carbon energy solutions, particularly renewable gases, serving the maritime and industrial sectors. ENGIE will lead the development of the project, including its technical design and permitting process. Starting in 2029/2030, the facility will convert livestock waste, household biowaste and agricultural residues into biomethane, which will be supplied to the CMA CGM fleet through the European gas grid under a certified mass-balance system. As a minority shareholder alongside ENGIE, CMA CGM will invest in the project through PULSE, its energy fund dedicated to innovative technologies and infrastructure that support the decarbonization of the Group’s transport and logistics activities. The Group aims to reach 10 TWh of annual biomethane production capacity in Europe by 2035, up from 1.2 TWh today. As we invest together in biomethane production in France’s largest container port, Le Havre, we are pursuing our long-term vision in securing access to renewable fuels, while contributing to the energy sovereignty of France and Europe.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "68f242bca7a0",
-   "title": "Copper Extends Gains on Mounting Supply Disruptions",
-   "original_title": "Copper Extends Gains on Mounting Supply Disruptions",
-   "url": "https://www.hellenicshippingnews.com/copper-extends-gains-on-mounting-supply-disruptions/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-14T10:00+00:00",
-   "added": "2026-10-14T10:56+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "copper",
-    "disruption",
-    "futures"
-   ],
-   "summary": "Copper futures rose above $6.70 per pound on Wednesday, moving closer to record highs as labor strikes and adverse weather conditions disrupted mining operations across Chile, the world’s largest copper producer. Workers at BHP Group’s massive Escondida mine are set to begin a strike after union leaders reported that wage negotiations failed to reach an agreement before the midnight deadline. Separately, two workers died on Sunday after an avalanche struck Codelco’s major El Teniente mine, where open-pit operations had already been suspended due to unfavorable weather. On the demand side, rising orders for data centers, semiconductor production, and battery storage systems supporting AI technologies and electric vehicles across Asia continued to bolster the outlook for copper. Source: Trading Economics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
  ]
