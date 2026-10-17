@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T21:34+00:00",
+ "generated_at": "2026-10-17T22:00+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13350,6 +13350,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "1e3b19d27fff",
+   "title": "European ethanol: Spot price drops amid falling paper",
+   "original_title": "European ethanol: Spot price drops amid falling paper",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVhnWFowcVFlVURWbHFKSGtGeUhNaUpPRm0yVlpjTngtWHNjTE5xNjZxUDRwNzdDNTE5M09wSk9oUkhsTDB3NzlIbnVCa2RxTWdRUmtjRnZQWmJ0bUV3Wl9YanUxbDFBYnZwdWRzdFdmRnpkZV9qVTU3eVp5NExjUVBTRV9XbXBFaHhLWjZKR1FpaGM5eWFNbEY3Qkg4VFZjZmktV3VUMA?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-14T18:54+00:00",
+   "added": "2026-10-17T22:00+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "commodit"
+   ],
+   "summary": "European ethanol: Spot price drops amid falling paper Quantum Commodity Intelligence",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d4e7b90a132d",
    "title": "US to award $60 million to biofuel, fertiliser, hydrogen projects",
    "original_title": "US to award $60 million to biofuel, fertiliser, hydrogen projects",
@@ -16472,43 +16497,6 @@
    "summary": "Full Suez return for container carriers expected by Q1 2027 Seatrade Maritime News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
-  },
-  {
-   "id": "ad866ec0c78c",
-   "title": "Refinery outages pumping up fuel prices more than cost of crude oil",
-   "original_title": "Refinery outages pumping up fuel prices more than cost of crude oil",
-   "url": "https://www.hellenicshippingnews.com/refinery-outages-pumping-up-fuel-prices-more-than-cost-of-crude-oil/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-14T10:00+00:00",
-   "added": "2026-10-14T10:56+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities",
-    "shipping"
-   ],
-   "priority": "high",
-   "score": 16,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus",
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "attack",
-    "china",
-    "crude",
-    "drone",
-    "hormuz",
-    "houthi",
-    "prices",
-    "red sea"
-   ],
-   "summary": "Global refinery capacity has declined by as much as 10 percent amid mounting transportation challenges and geopolitical tensions. Additionally, a decade of minimal refinery investment has intensified fuel market pressures. In Europe, natural gas prices surged to record sustained highs along with other key refinery inputs, such as Russian crude oil and vacuum gasoil, a feedstock for gasoline, diesel and jet kerosene production. The cost of such evasion was higher for refined products than for crude oil. For example, China slashed its crude oil imports by more than 5 mb/d. stocks of crude oil and refined products are at multiyear lows (Chart 4). When the market bids up the prices of oil or refined products following a supply disruption, those higher prices pull supplies from commercial inventories and can even pull new production online to fulfill demand. Estimates vary widely, but crude oil and petroleum products in floating storage and transit across Organization for Economic Cooperation and Development nations; in Fujairah, United Arab Emirates; and in Singapore, along with estimates of China’s landed oil stocks, added up to about 8 billion barrels in late September, about 450 million barrels below prewar levels.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
   }
  ]
 }
