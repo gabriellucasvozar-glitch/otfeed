@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T11:09+00:00",
+ "generated_at": "2026-10-18T11:40+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -1055,6 +1055,31 @@
     "port"
    ],
    "summary": "Lineas takes over another area at the Port of Antwerp WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d04e983c395a",
+   "title": "Ukraina przeprowadza zakrojony na szeroką skalę atak na port naftowy i centrum danych w Sankt Petersburgu.",
+   "original_title": "Ukraina przeprowadza zakrojony na szeroką skalę atak na port naftowy i centrum danych w Sankt Petersburgu.",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObTliUnQ4MmtFR2lGNkxTellNM3VOMFZJTkRablNYakdzel9tdGc2Y3FjTnlQcVVuVUpmSkI1UUZxN28yVWxOTVhycVFQQnZtU3EyQ0lod1B1SHg2LU54eFZDMlVFak1iQ0NYYlp4VnB6Ri0xYm43YnZCTU9qdXFiTVc1ejR6T2VxeDlURHotTUxOTVFtTm93VTVzcnlnaHlJc05kQ1pjV0c?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-17T07:00+00:00",
+   "added": "2026-10-18T11:40+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Ukraina przeprowadza zakrojony na szeroką skalę atak na port naftowy i centrum danych w Sankt Petersburgu. Vietnam.vn",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -6716,6 +6741,37 @@
    ],
    "summary": "Oil prices top US$105 as Middle East supply risks mount The Vibes",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "72cc20c2da4b",
+   "title": "China Bought Half Of Brazil’s Oil Exports As Iran War And Hormuz Disruptions Drove Sales To Record Highs",
+   "original_title": "China Bought Half Of Brazil’s Oil Exports As Iran War And Hormuz Disruptions Drove Sales To Record Highs",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYUdhZXVkMjZscGFndEF4WXIxSGpRZmZpYklQMGZCeVR3d3R2czFXLThOb3hkRG1tbExJdHJPWk9BXzI2ZUtsRjJ0RVJJS0F0Ml9kU2MxVjVHS0FrWFpRT0FWY3RwLVowVUpIMnVDejFZWmU2a1pVOW1wV3RrWHVjNVU0OTNqcERtX2JJMWJkeDliem5pYWxoSHZoamNkdzZkWVd1Wk9kNERyUVpZZUxSdHlZZ1dJQm13TktPenpXVnVnTnZ4TlhuWmZEcE8xMnhMOUljeERFU1djWEVzaC1YT3ZTTVJHY1XSAecBQVVfeXFMTmFHYWV1ZDI2bHBhZ3RBeFlyMUhqUWZmaWJJUDBmQnlUd3d0dnMxVy04Tm94ZERtbWxMSXRyT1pPQV8yNmVLbEYydEVSSUtBdDJfZFNjMVY1R0tBa1haUU9BVmN0cC1aMFVKSDJ1Q3oxWVplNmtaVTltcFd0a1h1YzVVNDkzanBEbV9iSTFiZHg5YnpuaWFsaEh2aGpjZHc2ZFlXdVpPZDREclFaWWVMUnR5WWdXSUJtd05LT3p6V1Z1Z052eE5YblpmRHBPMTJ4TDlJY3hERVNXY1hFc2gtWE92U01SR2NV?oc=5",
+   "source": "The Sunday Guardian",
+   "published": "2026-10-16T00:22+00:00",
+   "added": "2026-10-18T11:40+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East",
+    "Asia",
+    "Latin America"
+   ],
+   "tags": [
+    "china",
+    "disruption",
+    "hormuz",
+    "war"
+   ],
+   "summary": "China Bought Half Of Brazil’s Oil Exports As Iran War And Hormuz Disruptions Drove Sales To Record Highs The Sunday Guardian",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16440,64 +16496,6 @@
    ],
    "summary": "PKP LHS announces plans to buy 12 broad-gauge locomotives RailFreight.com",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "65f54331a287",
-   "title": "EUROFER: European Steel Shows Early Stabilisation Signs After EU Safeguards - News and Statistics",
-   "original_title": "EUROFER: European Steel Shows Early Stabilisation Signs After EU Safeguards - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOakd3M1Rva3JuLUdIUXZrdlMtSDlkYk5Ta1J3S1ZnZy1xNjJ6MDlaVjl2ZkJVVXVtaEdpNGkwQ0VYVFBGbGM2UHVMRndQUFJZU2ZnY3JaV2RfeW44LVg3LWJ3bmlfMEVVeDVHck1QNUZsMHRfSWNCQ2dYOFlaanVTbmNiaHcxYlhJYS00VUhodE1vWVFRa2RiOEllM002SzU1WFB4MFRMVVl4dGNUQzdtRkRQYmxXRzBteElSeEFJc3d1Y3ptb1F6UTRuNlRRbVBoRWxUWmoxRzRPZw?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-14T11:40+00:00",
-   "added": "2026-10-15T12:37+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "high",
-   "score": 8,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "safeguard",
-    "steel"
-   ],
-   "summary": "EUROFER: European Steel Shows Early Stabilisation Signs After EU Safeguards - News and Statistics IndexBox",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e80c3b3a70e1",
-   "title": "From Smart Warehouses to AI-Powered Ports: How Technology Is Transforming Dubai’s Logistics Industry",
-   "original_title": "From Smart Warehouses to AI-Powered Ports: How Technology Is Transforming Dubai’s Logistics Industry",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdFdUUXJmakFEckFTa1FDWWZHa0FndzNkWUR6TExlZmFJVnl2RnV6WGVsMWhwRnFjSlk4cmUyczF4ZVV4c3o2R2VMVEt2VnNRVlMxVVR4RkxxMlpaamxEdnNxQWprRC1INGNORmpPNkhGZk9CemxYMTFCN0gtS0NKblJWSDlPdjRLRElKMFJLLVFRZkhBdXNKOVFYZ2VKRjllMlNXdlMtUGc5TkZNU0FjQ0VFVGlpRlhqUW1SVGFmNHRsc1F4YzZ4Vmc1UVR0RHQ0Y0doX3NBNEE?oc=5",
-   "source": "businessnewsthisweek.com",
-   "published": "2026-10-14T11:30+00:00",
-   "added": "2026-10-14T11:31+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "logistics",
-    "port",
-    "ports",
-    "warehouse"
-   ],
-   "summary": "From Smart Warehouses to AI-Powered Ports: How Technology Is Transforming Dubai’s Logistics Industry businessnewsthisweek.com",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
