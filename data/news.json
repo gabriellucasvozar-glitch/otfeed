@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T08:18+00:00",
+ "generated_at": "2026-10-18T08:51+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6aa33dfe1f94",
+   "title": "Znaczący turecki armator przenosi serwis Russia Express do Petersburga",
+   "original_title": "Znaczący turecki armator przenosi serwis Russia Express do Petersburga",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX19hNDNtV0RVYzVFRzVWX2FWNkxJSDZDSTRfbjBkeHhwbjEyWUdNMm1xVndWR2kzOUpWeVItaHhETE81UkJGXzdmdnNBSHFMRWRCd09FSDAxS181VTFjbkJHSmdNVW5ZamMxS210YUVXV3V2eXdHVU53cjFZeEd3TVpSTlpMUjNwaFBUaEJUZWN0LTQ?oc=5",
+   "source": "GospodarkaMorska.pl",
+   "published": "2026-10-18T08:18+00:00",
+   "added": "2026-10-18T08:51+00:00",
+   "lang": "pl",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "armator",
+    "russia"
+   ],
+   "summary": "Znaczący turecki armator przenosi serwis Russia Express do Petersburga GospodarkaMorska.pl",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "9a23a5ef568e",
    "title": "Drone Attacks Escalate Against Black Sea Shipping Near NATO",
@@ -16469,32 +16496,6 @@
    ],
    "summary": "EU carbon trading scheme driving up rail freight costs, PKP chief warns RailFreight.com",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b8e19b20151e",
-   "title": "EXPLAINER – Arctic’s new trade routes come with climate cost",
-   "original_title": "EXPLAINER – Arctic’s new trade routes come with climate cost",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmRST0p6eVVRZjJpTVYteWZPdUZyaGNmc1dWMGVFcDlHWDBWNDV0Q3lWWUNiamQwWlZGWm5lUVVVQl84eUxLWThmZ1R6RFBjNzRoNGhqNkE0NExhSXNhcXBMMzZGbWV1VC1yS1MzbzBsVkxVMTMyMkRwWWVzVElnRER3TE9QNFVlUjFEb05pSWtGWGRTNWJ6dVluVkw5NU95dDcyZFB2ME5fRW1OZkFV?oc=5",
-   "source": "Anadolu Ajansı",
-   "published": "2026-10-14T10:48+00:00",
-   "added": "2026-10-14T12:05+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "trade route",
-    "trade routes"
-   ],
-   "summary": "EXPLAINER – Arctic’s new trade routes come with climate cost Anadolu Ajansı",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
