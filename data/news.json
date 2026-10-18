@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T22:58+00:00",
+ "generated_at": "2026-10-18T23:25+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,38 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "0fdfb0adfda4",
+   "title": "EU Russian LNG Imports Rise as US Floats Gas Purchases in Peace Talks.",
+   "original_title": "EU Russian LNG Imports Rise as US Floats Gas Purchases in Peace Talks.",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbG9qZlk2M0NIU3FfdDlaY3lqckpHNUtKNmdkUFFMbzRsalR6OFpJYThvS2VNdWp5bFpUQS1EVHAtWEJEajRtRVJGTF9PN2VWeXhNMVNqbll1WkV3MU5SNll4YTJfREY2SFFQNjhxWXV0d2J1alM3djJNb010VGNycUxGMUhNZUtNMkx6NkJrVGjSAZgBQVVfeXFMTldoNzdtU1QwemFsNDVhSi0yUEduMmphQUQ0NHkwNU8wQko5Wmlma0h0dmxtX2J4OFpzTldfV1lNa1ZTS3loc0dfOFFGUGp4OTYwX3lYZEVUZzlxVTJQWS1JRGJPX2VCSVNua19nNm0zRldMQU1lbVRhaWpZYUlZZXpnOXE2Ynl6OW1wNzdzNW4yZF9iOExNeXc?oc=5",
+   "source": "Ukraine Business News",
+   "published": "2026-10-18T21:53+00:00",
+   "added": "2026-10-18T23:25+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "lng",
+    "russia",
+    "russian",
+    "ukraine"
+   ],
+   "summary": "EU Russian LNG Imports Rise as US Floats Gas Purchases in Peace Talks. Ukraine Business News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "20496a55be6c",
    "title": "Sabah approves 24-hour operations for port",
@@ -16516,33 +16548,6 @@
    ],
    "summary": "What is potash, and why is the US importing it from Belarus? Al Jazeera",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "04f6433d2037",
-   "title": "Azerbaijan, Kazakhstan seek closer port coordination on Middle Corridor",
-   "original_title": "Azerbaijan, Kazakhstan seek closer port coordination on Middle Corridor",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZE04VFpmTnBlRnZkWjR5cTFPQ0NMVzhEOW8tVHQzaHBmdjZITTR6OGtXcjBFemlmTHlQTzRIb3Jzb29zeUx5YXFFR0ZqOERrM0xhcm9qSUVBbnRkMnh5NnlYV2tHaDFneDFlSWNWWmxUVkc2WUw3b0k4T1lqeThta1lHbDZQYnZMVHBPTXBDR09JeHdEa2FiLVVKUG1vb0ZsVk5uQXY4c0lUQQ?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-14T14:53+00:00",
-   "added": "2026-10-14T15:13+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor",
-    "port"
-   ],
-   "summary": "Azerbaijan, Kazakhstan seek closer port coordination on Middle Corridor Report.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
