@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T15:36+00:00",
+ "generated_at": "2026-10-18T16:02+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,67 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "92d4eed2b1ff",
+   "title": "News in Brief Podcast | Week 41 2026 | Congestion, cyberthreat and capacity constraint",
+   "original_title": "News in Brief Podcast | Week 41 2026 | Congestion, cyberthreat and capacity constraint",
+   "url": "https://theloadstar.com/news-in-brief-podcast-week-41-2026-congestion-cyberthreat-and-capacity-constraint/",
+   "source": "The Loadstar",
+   "published": "2026-10-18T16:00+00:00",
+   "added": "2026-10-18T16:02+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "equipment",
+    "shipping"
+   ],
+   "priority": "high",
+   "score": 19,
+   "regions": [
+    "Middle East",
+    "Africa"
+   ],
+   "tags": [
+    "automation",
+    "congestion",
+    "port",
+    "port congestion",
+    "ports",
+    "supply chain",
+    "supply chains",
+    "terminal"
+   ],
+   "summary": "Port congestion is putting pressure on global supply chains, from West Africa and Europe to the Middle East, while escalating conflict is creating fresh challenges for air cargo. In this episode, Drewry’s head of Ports and Terminals, Eirik Hooper, joins us to discuss the causes of congestion, whether major investments in African ports will deliver meaningful improvements, and how automation could help terminals boost efficiency. We also examine the growing cyber threat facing shipping and port operators. Plus, Loadstar publisher Alex Lennane joins us to unpack the impact of the US/Iran war on air cargo capacity in Saudi Arabia, the squeeze on airfreight capacity as peak season approaches, and Samsung SDS’s move to strengthen its airfreight business through the acquisition of Woojung Air. And what’s making headlines on The Loadstar Premium? We take a look at Kuehne+Nagel’s growth ambitions, the world’s leading freight forwarders and ransomware threats targeting the logistics sector. Watch the video on YouTube and subscribe so you never miss an episode! Reproduction, rewriting, or derivative use requires a license. Contact [email protected] for licensing enquiries.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "693380b92c65",
+   "title": "Kolej towarowa w UE traci rynek. Czwarty rok spadku pracy przewozowej",
+   "original_title": "Kolej towarowa w UE traci rynek. Czwarty rok spadku pracy przewozowej",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOXpVQ09mMThMc3Mya2g4YXllRU5xbmdiTzI1WmhXYUFnNXpiVXRHSnlHNllvM2phMnNiVEVRdzVnSkVaeDFqa0ROZFJiSHlQYnV3QzRsTjFNbW5PNlQtYWItOHNxd3NVUGx0bjBZU05pZTBWM2RpQWF3dV93Tk1QTWp6OTkwRXhpRExKckNtbmdlamszNFNHLTM5X01mR3FqQjF3LWJCRVNYa2JLN1NWM2p6czdlYWc4T0J3?oc=5",
+   "source": "Kurier Kolejowy",
+   "published": "2026-10-18T13:46+00:00",
+   "added": "2026-10-18T16:02+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "kolej"
+   ],
+   "summary": "Kolej towarowa w UE traci rynek. Czwarty rok spadku pracy przewozowej Kurier Kolejowy",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "147893a5bfcc",
    "title": "How Long Will $100 Oil Last? Hormuz, LNG and Coal Are Writing Your Winter Fuel Bill",
@@ -3398,6 +3459,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "7b56503667ec",
+   "title": "China’s H-6K Missile Launch Signals Wider Threat to US Carriers",
+   "original_title": "China’s H-6K Missile Launch Signals Wider Threat to US Carriers",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUZtUHdMTmljLUJaV1JMUnk4M1dVQmszd201dmZZZlJYVm5PWjZuMElqYVZXSEV3aUNJSVdVbDA5V2JNcVN3cXF3WVEyOVVtM1R3VUs4dUNDQ0ZJZ3FhdU05bDRpYzdIWkpFLU14bDJkMzl4clBEQWNFcC1UMlN1am5FNDI?oc=5",
+   "source": "Defence Security Asia",
+   "published": "2026-10-16T14:23+00:00",
+   "added": "2026-10-18T16:02+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "china",
+    "defence",
+    "security"
+   ],
+   "summary": "China’s H-6K Missile Launch Signals Wider Threat to US Carriers Defence Security Asia",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "70f15b39b4ac",
    "title": "What Does Iron Ore Near USD 90 a Tonne Mean for Fortescue (ASX:FMG) and BHP (ASX:BHP) Amid Market Uncertainty?",
    "original_title": "What Does Iron Ore Near USD 90 a Tonne Mean for Fortescue (ASX:FMG) and BHP (ASX:BHP) Amid Market Uncertainty?",
@@ -5457,6 +5547,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "e7991ba71cb1",
+   "title": "The LS 800 E – Looking beyond the lift",
+   "original_title": "The LS 800 E – Looking beyond the lift",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbnB6Nnd6dFV6azF3TmhWeEFyWjZ3TVppZDBjemlTT1lhZHc0c1U4NlhIQkd1X09mQkxLQ2loSERhck9sNGZPUXQyRDZwOTdpRmxlLWFFc2dtZWx4Z0l2eFJxMURUVEUyX2VGOHF6bEZCTWh0VjNRNTFFNTU3UVBkcnpjbm1TdEVaOGc?oc=5",
+   "source": "Heavy Lift & Project Forwarding International",
+   "published": "2026-10-16T09:25+00:00",
+   "added": "2026-10-18T16:02+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "forwarding"
+   ],
+   "summary": "The LS 800 E – Looking beyond the lift Heavy Lift & Project Forwarding International",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
    "id": "ebdab19de1b0",
    "title": "Peel Ports names Group CEO after £1.5 billion investment",
    "original_title": "Peel Ports names Group CEO after £1.5 billion investment",
@@ -6124,6 +6239,31 @@
     "shortage"
    ],
    "summary": "Global Fuel Oil Shortage Deepens as Middle East and Russia Supplies Collapse Crude Oil Prices Today | OilPrice.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2ba5a48dbd10",
+   "title": "INTERACTIVE: Platts global bunker fuel cost calculator",
+   "original_title": "INTERACTIVE: Platts global bunker fuel cost calculator",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNckFTeENOSVdfcmhfYnBHTFNfVTlCemV1T0pKM1hIRURKUXhGSFQ1akxLQmhJWDlia1VDUnRGRTJHWnYweVlaelRnT2g5QURvRGhHcjdyTTIxajVKZVU0TUtVU1d0M25SQXNKb1VEU3ZzNjY1RUk3eVJsYURtdWFHWnJpWDUtTWFQWnpHU1FnSnpYdmxTS1NiSW5fN19GdGl3dXc2Tk1FY3JGSmJISjRqelZtSEFGcFJKcVhpTkN6dmtXMnpUVDFDSkpnRQ?oc=5",
+   "source": "S&P Global",
+   "published": "2026-10-16T07:00+00:00",
+   "added": "2026-10-18T16:02+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "bunker"
+   ],
+   "summary": "INTERACTIVE: Platts global bunker fuel cost calculator S&P Global",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16351,151 +16491,6 @@
     "terminal"
    ],
    "summary": "CPK utknął w procedurach. Budowa fundamentów terminala po raz kolejny się przesuwa Gazeta Prawna",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "28fdeaa83458",
-   "title": "Egyptian steel industry divided over billet import safeguard duties ahead of government talks",
-   "original_title": "Egyptian steel industry divided over billet import safeguard duties ahead of government talks",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUDNxNFdOanVKMG4yR2lhY0RGWjVhRXhNVjRPZHBqYUtCUjl6ZmFKcHlQbmlYTU1xRV9kNXBaaXNwaTk4Rk9JNFVRTEpQeGlVSlF2ZWxuUVMwSzJzZ2k0YVJsLS1XR1hISWFQZWJQbGZkdDUxdTBtWGt3NWVTa0VMWGtZR1VkZDVKRVVyeF90OE5mNHBDS3Z0UEdMZ0dRdFlLS1FtaHdnYVNZNHNjZ0RlUUVWRnBCWWxmT3phbnZmTDYxU0tyMU95ZGFmWWNWTkFJWkhlLXc1LW1CdkdqMV9QWVdRdzNZUzhjdzhZ?oc=5",
-   "source": "SteelOrbis",
-   "published": "2026-10-14T12:30+00:00",
-   "added": "2026-10-16T09:08+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "safeguard",
-    "steel"
-   ],
-   "summary": "Egyptian steel industry divided over billet import safeguard duties ahead of government talks SteelOrbis",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3ab2f8eb26cd",
-   "title": "World’s First Ammonia-Powered Dry Bulk Carrier Sets Sail On Its Maiden Voyage To Australia",
-   "original_title": "World’s First Ammonia-Powered Dry Bulk Carrier Sets Sail On Its Maiden Voyage To Australia",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY3o1ZGNvU3laWHh5czBmZG5BaHJaa1NwYzhsUi1DcEQyeTdSMTA5ZDZyZVNTa2o3RzlMaTVBS1BwNlJ3aEVTUTNGUlR0UmxCZGhrYk9ENnpqVl9iLUZ1cFR6UV8yYzd6N0VSakpRSTNkOGF4bmJXSzRjSkhHWnVVTDdBZlhrMjJaNkJDcW5LQzY4Y1Jxdng5d0dpNEp6NHV5ekx2eVhGMWZoSjRfNEtPMEx6NTJmUDVMMXFTRg?oc=5",
-   "source": "Marine Insight",
-   "published": "2026-10-14T12:29+00:00",
-   "added": "2026-10-14T14:03+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "ammonia",
-    "bulk carrier",
-    "carrier",
-    "dry bulk"
-   ],
-   "summary": "World’s First Ammonia-Powered Dry Bulk Carrier Sets Sail On Its Maiden Voyage To Australia Marine Insight",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c2b759000415",
-   "title": "European Council to call for ban on EU transit of Ukrainian grain stolen by Russia",
-   "original_title": "European Council to call for ban on EU transit of Ukrainian grain stolen by Russia",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wQmg3c1FmbkZvOVItc1NPamVKT1laOXF2aEFIMVJpbXItaFByaXNtaFM0Sk9PN3U1RmNZMFFON2RJcEZhTW5RZkV5Ty1EbmhPX2VLUjlkMkloYzVjZWFVZmJzdFg4WWVESFV5aS0wd2PSAXBBVV95cUxOcEJoN3NRZm5GbzlSLXNTT2plSk9ZWjlxdmhBSDFSaW1yLWhQcmlzbWhTNEpPTzd1NUZjWTBRTjdkSXBGYU1uUWZFeU8tRG5oT19lS1I5ZDJJaGM1Y2VhVWZic3RYOFllREhVeWktMHdj?oc=5",
-   "source": "Українська правда",
-   "published": "2026-10-14T12:29+00:00",
-   "added": "2026-10-16T20:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus",
-    "EU institutions"
-   ],
-   "tags": [
-    "council",
-    "eu ",
-    "grain",
-    "russia"
-   ],
-   "summary": "European Council to call for ban on EU transit of Ukrainian grain stolen by Russia Українська правда",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "181bfb2438c3",
-   "title": "Gulf conflict upsets networks – and fleet size – of biggest feeder operators",
-   "original_title": "Gulf conflict upsets networks – and fleet size – of biggest feeder operators",
-   "url": "https://theloadstar.com/gulf-conflict-upsets-networks-and-fleet-size-of-biggest-feeder-operators/",
-   "source": "The Loadstar",
-   "published": "2026-10-14T12:26+00:00",
-   "added": "2026-10-14T12:47+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "fleet",
-    "hormuz",
-    "port",
-    "ports"
-   ],
-   "summary": "The US-Iran conflict and subsequent closure of the Hormuz Straits have upended the networks, and fleet deployment strategies, of the world’s three largest common feeder operators – and seen AD Ports’ Global Feeder Services significantly close the gap on the market leaders. According to new analysis from Alphaliner, the Middle East conflict, now in its eighth month, has forced the two largest operators, X-Press Feeders and DP Worldm to reduce their offered capacity as the closure of Gulf routes curtailed their networks. “X-Press Feeders remains the world’s largest feeder operator by deployed capacity, although its fleet has contracted by 7.1% year on year, as per Alphaliner’s survey on 21 September,” the analyst writes this week. “Fallout from the Middle East conflict forced X-Press to make service cuts across the region, which is the main reason for the decline.” As a result, X-Press Feeders’ global capacity is now 182,776 teu, down 13,987 teu from September 2025, with its capacity serving the Middle East region down 34.2% – equivalent to 38,000 teu – which Alphaliner linked to service suspension in the wake of the conflict.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "247fd672288d",
-   "title": "Polsko-tureckie konsorcjum wybuduje Terminal FSRU na Zatoce Gdańskiej",
-   "original_title": "Polsko-tureckie konsorcjum wybuduje Terminal FSRU na Zatoce Gdańskiej",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0RqX1pUTXE3U1NuNThiQmQzMS1sWjZhRTNMYXF1Ml9YdmRpbXRnUmhDY29jYl84QzBXOXRtcGZScXJuZWRGcGlHTkRMV09jMEQ1RG1ycDQ3Ym5hc0hKeFlzZ0NaQk1VaE5QZkg5QXRVblBmemlSdFphOGtRSGZrWkx5WVRucFd6ZU94aHI5TFEyRXI2Vkl5SWp6VEtDSHd5QnA5VVpoT3NPZjZIVllUR21fQ0V1S0E?oc=5",
-   "source": "PortalMorski",
-   "published": "2026-10-14T12:25+00:00",
-   "added": "2026-10-14T13:23+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "gdansk",
-    "terminal"
-   ],
-   "summary": "Polsko-tureckie konsorcjum wybuduje Terminal FSRU na Zatoce Gdańskiej PortalMorski",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
