@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T17:30+00:00",
+ "generated_at": "2026-10-18T17:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -7998,6 +7998,32 @@
     "soybean"
    ],
    "summary": "CBOT review: Soft crush data weighs on soybeans The Western Producer",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "18b1a516f01b",
+   "title": "Crude oil futures settle at $97.97. Highest level since mid- September.",
+   "original_title": "Crude oil futures settle at $97.97. Highest level since mid- September.",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BNzBFellDeGdYNjRFYlQyZ3BRRDl2VXdkVU5pSEQwNmZ5X0ZHTklzT3pxUFJid2ozN0hFMmJNeUJkejFqSEdrbGxjR1RYblB6ajR2T1FHSHZvMmUzbHV2WGxLZGQ0MjJrdFFwYUFtSGZJX3UxZ2hueFhTZW0?oc=5",
+   "source": "investingLive",
+   "published": "2026-10-15T19:30+00:00",
+   "added": "2026-10-18T17:55+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crude",
+    "futures"
+   ],
+   "summary": "Crude oil futures settle at $97.97. Highest level since mid- September. investingLive",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16469,33 +16495,6 @@
    ],
    "summary": "FLOW Ports Alliance Eyes Expansion as Offshore Wind Infrastructure Needs Grow Breakbulk.News",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fe7b6f1dc997",
-   "title": "Cross-dock warehouses cater to specialised logistics needs",
-   "original_title": "Cross-dock warehouses cater to specialised logistics needs",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSUJiTzRtM0J1SlIyRHpNWmZiMXVTVV9kZnZzWldUUERxRDRCUnFmNjdXZkhpc1dVS0FydzJ4Rm1XRGxoWmlUdlgxWFRISExyd3M0dC13N21aWTdVYkRGMHJYQjR6bUlJWFhOYjROZ1FMXzFXNHlyb3QyajRSUWdibXVVQmtuQVJPQjhaV1BkWThwNW93QkNsZEdMQ2VJdw?oc=5",
-   "source": "EurobuildCEE",
-   "published": "2026-10-14T12:46+00:00",
-   "added": "2026-10-14T20:11+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistics",
-    "warehouse"
-   ],
-   "summary": "Cross-dock warehouses cater to specialised logistics needs EurobuildCEE",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
