@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T14:09+00:00",
+ "generated_at": "2026-10-18T14:42+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -877,6 +877,35 @@
    ],
    "summary": "Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says Internazionale",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b6fbc12c3002",
+   "title": "Shadow fleet now a third of Northern Sea Route traffic",
+   "original_title": "Shadow fleet now a third of Northern Sea Route traffic",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSHBzVnZwSHhlR0lOMmRpRkdOYjlQTEZySUswOF9BcEJnLVpVeGpwX1dESm9xalA5bnQ0Z0ZBY0Q5WjhvTWV1N3EzdmhkTG9nb1pGT1NFN1JDc0pXcUc2RkFPVTlsX0F6bG1PNFc3aWczQVdncnduTG9tMnVqNV95aXpjM2lXQ3o2ZlNQUWY5dUM?oc=5",
+   "source": "UK Defence Journal",
+   "published": "2026-10-17T13:03+00:00",
+   "added": "2026-10-18T14:42+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "defence",
+    "fleet",
+    "shadow fleet"
+   ],
+   "summary": "Shadow fleet now a third of Northern Sea Route traffic UK Defence Journal",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -14526,6 +14555,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "aaf1919fd10e",
+   "title": "U.S. Rail Traffic Rises 7.2% in Week Ending Oct. 10",
+   "original_title": "U.S. Rail Traffic Rises 7.2% in Week Ending Oct. 10",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbmR3cXdXdDlHLXhJcjhFNWQ2RHpmT3VwNDVldWczSURjWkl3SWZBVVpubDlhWmNtUkI0RHhHMmZuVGs5dU5Ub3czeEdFWlZaQ254NmRUaWNNdkxRS2xPbnN1b1FCNFVYWWdzaU5KZEJfZEhWSDVJWldYU3BoTXlzQWkybVptVXFhMnR1cFB5ekg4TTRBSHJJ?oc=5",
+   "source": "Railway Age",
+   "published": "2026-10-14T17:48+00:00",
+   "added": "2026-10-18T14:42+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "U.S. Rail Traffic Rises 7.2% in Week Ending Oct. 10 Railway Age",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "f9eb61f8ec70",
    "title": "China P&I seeks seat at global insurance top table",
    "original_title": "China P&I seeks seat at global insurance top table",
@@ -16446,60 +16500,6 @@
    "summary": "Lower export duties allow Argentina to increase wheat shipments UkrAgroConsult",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "158d2eb63bbc",
-   "title": "Wheat, corn and soybeans decline in Chicago on Tuesday, while European futures rise",
-   "original_title": "Wheat, corn and soybeans decline in Chicago on Tuesday, while European futures rise",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLWwxQ1BiVVBFMC1fd2ItNDVndGx3R29kYm8zWm5LQ0hiUnpSWldRQlFHMEVhTzJwYmxCaDFiSnFCVnJ2LXdlMldXMmlVZk05UEprLXhyU1hCOGhBbTIwbzVFSWQwS3JJdlB3SHFSYzV2VzAyNXVKai1FY1JQNWNpajE0bzRoV2o1UXRlblI2Y09pMDAxa3RmRTNLdXRpaXlKV29CYnl5Vm5OWGZNZFJHdTNFcDQ5Qk9u?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-14T12:05+00:00",
-   "added": "2026-10-14T15:13+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "corn",
-    "futures",
-    "soybean",
-    "wheat"
-   ],
-   "summary": "Wheat, corn and soybeans decline in Chicago on Tuesday, while European futures rise UkrAgroConsult",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3512269beb4e",
-   "title": "AI shippers still looking for capacity risk sharp airfreight peak squeeze",
-   "original_title": "AI shippers still looking for capacity risk sharp airfreight peak squeeze",
-   "url": "https://theloadstar.com/ai-shippers-still-looking-for-capacity-risk-sharp-airfreight-peak-squeeze/",
-   "source": "The Loadstar",
-   "published": "2026-10-14T12:02+00:00",
-   "added": "2026-10-14T12:05+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "freight rate"
-   ],
-   "summary": "AI infrastructure shippers, still seeking peak-season capacity, could push air freight rates sharply higher, as demand for servers, chips, and data centre equipment adds pressure to an already firm market. According to TAC Index, sources have reported that ecommerce customers and other major shippers with product launches had secured peak-capacity, while some AI hyperscalers had yet to book their space. The warning comes despite a Golden Week dip in TAC’s global Baltic Air Freight Index, which fell 2.1% in the seven days to 12 October, leaving it 24.3% above a year earlier. Cathay Cargo’s Hong Kong-origin long-haul fuel surcharge rose almost 26%, from HK$11.20 to HK$14.10 (US$1.42-$1.79) per kg, for the first half of October. DHL Air UK’s equivalent charge increased 4.1% week on week, to HK$12.80 per kg for 12–18 October, although it remained below its late-September level. Japan Airlines will raise its fuel surcharge on domestic exports bound for the Americas and Europe from ¥185 ($1.16) to ¥192 per kg on 16 October, an increase of 3.8%. Its medium-haul and short-haul Asian surcharges will rise by around 4%. The impact on individual operators will depend on their fuel exposure and ability to recover costs, but the combination adds another pricing risk for shippers seeking remaining peak-season space.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
