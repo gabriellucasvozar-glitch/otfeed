@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T21:08+00:00",
+ "generated_at": "2026-10-18T21:39+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -16277,6 +16277,31 @@
    "summary_method": "extract"
   },
   {
+   "id": "779e456970b4",
+   "title": "European steel industry brings 10 million tons of capacity back",
+   "original_title": "European steel industry brings 10 million tons of capacity back",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZlZlbmU2VVhMUzNCZk5IT3JEbVlyTTNCWGZ6MFFGejFwY1BOLWpsNVFKcUZkVFY1M0RJTW9PN09jQ0dhX3BVU1BtQXV0R3pJX1lmeUozQzZuNWlhcXJvNUh0a2hDQTdtM1RhUjY1VHFtUmpMNVVSYW5JRkIxVG1SdGFhd0lZYU4yZ1RiSE84NA?oc=5",
+   "source": "EUROMETAL",
+   "published": "2026-10-14T14:58+00:00",
+   "added": "2026-10-18T21:39+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "European steel industry brings 10 million tons of capacity back EUROMETAL",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "f6865c8b955d",
    "title": "What is potash, and why is the US importing it from Belarus?",
    "original_title": "What is potash, and why is the US importing it from Belarus?",
@@ -16515,33 +16540,6 @@
    ],
    "summary": "Most Efficient Inland Port System Named Maritime Logistics News",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9c80cc634f4e",
-   "title": "Another gantry crane returns to service as port prepares for storm",
-   "original_title": "Another gantry crane returns to service as port prepares for storm",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSG5BVDE3bGNPX2VUZ1NOeFE3SGFtUG95OTRUNy1EOVQ0djZKY0V0dUV6QXVmODV1Y0tjeUY3SVkySzZmM2g1R1pqbm1uaUxTeG1vamxQTGJ5MkdrMy1qRjdEdktZckdDRkxTdERvZmUtdU9IQ180S0ZUZzBHVmxsOTEwdmRmMW1WaWpuSXJvOU9fLURkQlFnOW9mR0RJTWUxcGVrY2kxVmpSTjR3d3FHWXhsN3Nlb0xMUll6SWRoUHBhcUtaV04tY1V5bDBfa2lsNi1MbWR0NUc0T0dFWERQTndPS2ZrZEk?oc=5",
-   "source": "The Guam Daily Post",
-   "published": "2026-10-14T14:00+00:00",
-   "added": "2026-10-17T14:15+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "port"
-   ],
-   "summary": "Another gantry crane returns to service as port prepares for storm The Guam Daily Post",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   }
  ]
