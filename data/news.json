@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T08:18+00:00",
+ "generated_at": "2026-10-19T09:03+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -591,6 +591,36 @@
    "summary": "Kazakhstan strengthens Middle Corridor role as Tokayev advances Caspian cooperation Qazinform",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
+  },
+  {
+   "id": "8a93ad5ccb42",
+   "title": "Union Maritime orders PSV pair at Fujian Shipbuilding",
+   "original_title": "Union Maritime orders PSV pair at Fujian Shipbuilding",
+   "url": "https://splash247.com/union-maritime-orders-psv-pair-at-fujian-shipbuilding/",
+   "source": "Splash247",
+   "published": "2026-10-19T02:30+00:00",
+   "added": "2026-10-19T09:03+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "fleet",
+    "shipowner",
+    "vessel"
+   ],
+   "summary": "UK shipowner Union Maritime has ordered two platform supply vessels (PSVs) from China’s Fujian Shipbuilding, with options for two more, as it expands its offshore support fleet. The 84-metre newbuilds were contracted at a ceremony marking the 160th anniversary of Fujian Shipbuilding’s founding. The deal’s financial details were not disclosed. Union Maritime’s fleet register identifies the vessels as MW656-1 and MW656-2, each with a deadweight capacity of 4,334 tonnes. The vessels, set to be built by Fujian Mawei Shipbuilding, are set to be delivered in 2028 and 2029. The deal adds another vessel type to an established relationship between the London-based owner and the Chinese shipbuilding group, which previously placed a series of tanker orders with Union Maritime. The company’s latest fleet listing shows eight 113,600 dwt LR2 tankers on order at Fujian, with deliveries scheduled between 2027 and 2029. For Fujian, the PSV deal was part of a wider order batch announced at the anniversary event. The shipbuilder also secured contracts for sixteen 87,000 dwt multipurpose grain carriers for COSCO Shipping Bulk.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "b7cdb77db361",
@@ -16535,33 +16565,6 @@
    ],
    "summary": "BGN, has signed a contract with HD Hyundai Heavy Industries (HD HHI) for the construction of four new LPG dual-fuel Very Large Gas Carriers (VLGCs), each with a cargo capacity of 93,000 cbm. The agreement was signed at a ceremony in Istanbul and marks another important step in BGN’s strategy to expand its LPG shipping capacity and strengthen the maritime infrastructure supporting its global trading operations. The vessels will be constructed by HD HHI in South Korea, with delivery expected in January 2030. Equipped with dual-fuel technology, the new VLGCs will be capable of operating on LPG as well as conventional marine fuels, supporting more efficient operations and BGN’s wider commitment to the decarbonisation of maritime transport. The order builds on BGN’s longstanding relationship with HD HHI and follows agreements announced earlier in 2026 for six additional dual-fuel VLGCs: four 90,000 cbm vessels announced in April and two 93,000 cbm vessels announced in June. “We are excited by the pace at which BGN is growing its shipping fleet. By accelerating investment in state-of-the-art vessels, we are building the capacity needed to support our strategic growth and diversify our global energy portfolio.” “We are pleased to continue our partnership with BGN through this order for four more dual-fuel VLGCs.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "6d08cdf2a131",
-   "title": "Anglo-Eastern helps turn CMB.TECH’s ammonia ambition into an operational reality",
-   "original_title": "Anglo-Eastern helps turn CMB.TECH’s ammonia ambition into an operational reality",
-   "url": "https://www.hellenicshippingnews.com/anglo-eastern-helps-turn-cmb-techs-ammonia-ambition-into-an-operational-reality/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-14T21:00+00:00",
-   "added": "2026-10-14T21:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "ammonia",
-    "vessel"
-   ],
-   "summary": "Following CMB.TECH’s announcement that Mineral Europa has embarked on her maiden voyage, Anglo-Eastern is recognising the multi-year engineering, newbuilding and operational effort that helped bring the pioneering vessel from an early alternative-fuel concept into service. CMB.TECH set the project in motion through its vision, investment and willingness to take the technology and commercial risk associated with a developing fuel pathway. Working within a longstanding relationship with CMB.TECH, Anglo-Eastern brought together the capabilities of Anglo-Eastern Technical Services (AETS), its newbuilding and project management arm, with ship management, crewing, training and operational expertise to help convert that ambition into a ship designed and prepared for safe operation at sea. Anglo-Eastern brought together the capabilities needed to help turn that ambition into operational reality. For me, that is the real significance of this project: our ability to work alongside an owner from an early idea all the way through to safe operation at sea, whichever technology pathway they choose.” The 210,000 dwt Newcastlemax was constructed by CSSC Qingdao Beihai Shipbuilding Co., Ltd and is equipped with a WinGD dual-fuel ammonia engine and a Sun Rui Ammonia Fuel Supply System. The dual-fuel configuration allows operation on ammonia or conventional marine fuel, providing operational flexibility as ammonia supply infrastructure and economics continue to develop.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
  ]
