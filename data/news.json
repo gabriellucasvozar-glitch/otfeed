@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T14:27+00:00",
+ "generated_at": "2026-10-19T15:12+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "1e49789752e5",
+   "title": "Congestion, vessel attacks exacerbate India-Middle East cargo flow strain",
+   "original_title": "Congestion, vessel attacks exacerbate India-Middle East cargo flow strain",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzdFOFBadlJVQlU3dEo1UmMwUnJnQnEwQzByOElwR0ZVdEg2cVF0bHFTQTVTQUtqUG1yb3U5Qk5lOGF5aFhFR2JXMmJVanB6ZjFKWGtBTW5VRDBQSkI0QzZvaHdkTEVvZ0tRUGtlVE1lVmJTZ09BTWZNbHZSRzlaWnZjMzBVN2xQT3NlcjFxSU9NQlBMODV2Zmo0WWQxUVIyUUN2S3h4aUN2ZWFm?oc=5",
+   "source": "Journal of Commerce",
+   "published": "2026-10-19T14:48+00:00",
+   "added": "2026-10-19T15:12+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "attack",
+    "congestion",
+    "vessel"
+   ],
+   "summary": "Congestion, vessel attacks exacerbate India-Middle East cargo flow strain Journal of Commerce",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c0ff6d3660ce",
+   "title": "Gemini signals full Suez return by Q1 as it launches new Asia-Med service",
+   "original_title": "Gemini signals full Suez return by Q1 as it launches new Asia-Med service",
+   "url": "https://theloadstar.com/new-asia-med-service-from-gemini-signals-full-suez-return-by-q1/",
+   "source": "The Loadstar",
+   "published": "2026-10-19T14:46+00:00",
+   "added": "2026-10-19T15:12+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "carrier",
+    "suez"
+   ],
+   "summary": "Maersk and Hapag-Lloyd have revealed a further redesign to the Gemini Cooperation’s Asia-Mediterranean network which will see a reorganisation of the regional hub-and-spoke model. Slated for introduction over the course of the second half of November, the move comes as the two carriers eye a full resumption of Suez transits by early next year, according to Hapag-Lloyd chief executive Rolf Habben Jansen. “We have announced a fair number of services that already have returned, and some more are returning in the weeks to come,” he said in a press beefing last week. The chief development in the revamped network is that Gemini will launch a new “transhipment hub-only” service between China and the west Mediterranean via the Suez Canal, dubbed AE18 by Maersk and SE5 by Hapag-Lloyd, featuring the following port rotation: Shanghai-Xiamen-Tanjung Pelepas-Algeciras-Tangier-Algeciras-Xiamen. Maersk said the new service was designed to complement its other Asia-Europe strings as well as flows from Asia to West Africa and South America with its west Mediterranean hubs taking on more relay transhipment responsibilities. As a result, Gemini’s Asia-North Europe Loop 1 (Maersk AE2/Hapag NE1) will replace its current first European port of call of Tangier with Rotterdam, “providing an alternative and improved service from Ningbo and Shanghai to Rotterdam”.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "1de7642385f7",
    "title": "Port Polska z decyzją środowiskową dla wodociągu",
@@ -89,6 +146,32 @@
    ],
    "summary": "Japan notes Middle Corridor’s key role in transport diversification Trend News Agency",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "82f1798a41c0",
+   "title": "Competition heats up as Central American ports develop into regional hubs",
+   "original_title": "Competition heats up as Central American ports develop into regional hubs",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ203NFZKaVVUZmJzWHEwZWR3bmxXRklOenN5VkV1bFM3WkpZRkF3RGluRjFTX2VpYVJ4aFBkX1Jqb3JfRjJPRW0tRnlUN0xJZ2RCTVZJTWVzTjRIa0lkai1aM1QzX3l6Mk1YZzVST0pTMFRJN2t3MHpEOEdCQnNBUGNSLUFSaGNmOGRsaUdSZ2FLbjM1V2t6dnNVQ0NHa1lGMUpNV1lxNHNMX3ZSNER4OTVmaVJEVVN5cGQzMFA5OA?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-19T13:21+00:00",
+   "added": "2026-10-19T15:12+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Competition heats up as Central American ports develop into regional hubs WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -6584,6 +6667,35 @@
    "summary_method": "extract"
   },
   {
+   "id": "d3e0e2b325ad",
+   "title": "US weighs lifting sanctions on Iran's 'shadow fleet' to address surging costs",
+   "original_title": "US weighs lifting sanctions on Iran's 'shadow fleet' to address surging costs",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRnAxODVxOUV3cmk5cGFZeUpvUXJsVkxjUFRTVzc2ei1qQ1JjcU5hdVc1U0dNLUhxRHFKYUh5UDZaeTZMMGlPSy1JQTVZdEVrUTlnejdvODBabU1BdF85VDItNjFPZGZmMFR0RWh6QUNDQUgzV0NOUFZJWUp3YUp6cGotSEpZX3RSUW5TNGRCVFRETjB2bUdWTzJLSzR3ZGdENGNrVWV3?oc=5",
+   "source": "Middle East Eye",
+   "published": "2026-10-16T16:23+00:00",
+   "added": "2026-10-19T15:12+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Russia & Belarus",
+    "Middle East"
+   ],
+   "tags": [
+    "fleet",
+    "sanction",
+    "shadow fleet"
+   ],
+   "summary": "US weighs lifting sanctions on Iran's 'shadow fleet' to address surging costs Middle East Eye",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "cfe3023a1ade",
    "title": "Poland plans to expand railway security powers to counter drone threats",
    "original_title": "Poland plans to expand railway security powers to counter drone threats",
@@ -11101,6 +11213,33 @@
    ],
    "summary": "Oil prices top US$105 as Middle East supply risks mount The Vibes",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "039ea0929f93",
+   "title": "U.S. Boardings Neutralize Iranian Regime’s Shadow Fleet – Analysis",
+   "original_title": "U.S. Boardings Neutralize Iranian Regime’s Shadow Fleet – Analysis",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMWxaSTRJMVB2anVEWnZfdFpFRkpoUm1tWWRrWWhvVGpQZXhvVE5qWXZwVEpwS0Rsc2l3SElLSm9HSnNMRUpMelRoU2NkaEZ0UVU0eHc2bWxSM29Pbm1ZeDdabnRJVVI5Sy13UTZRcDluWXMzeWtoam1VNEhBSENZZjFWS3NYZE9jODdacE05UUZpZzRKR1hyTEF0XzRjSUVwZWhkWQ?oc=5",
+   "source": "Eurasia Review",
+   "published": "2026-10-16T00:42+00:00",
+   "added": "2026-10-19T15:12+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "shadow fleet"
+   ],
+   "summary": "U.S. Boardings Neutralize Iranian Regime’s Shadow Fleet – Analysis Eurasia Review",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16444,142 +16583,6 @@
     "iron ore"
    ],
    "summary": "Rio Tinto Q3 global iron ore sales up 3%; Simandou hits ~10 Mtpa run-rate [SMM Iron Ore] Shanghai Metals Market",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8ad95c973fd3",
-   "title": "Port Polska inwestuje w region przyszłego lotniska. Drogi, woda, szkoły i kadry",
-   "original_title": "Port Polska inwestuje w region przyszłego lotniska. Drogi, woda, szkoły i kadry",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcXc4RXBoT1A5c0ZDWG5uZUg5N0huc3lwUTVhaTJPMTVmeE9RamFvSENyU0E4eVV4dERMY0Fuek1EYVhDWWhQMHlkbHB0YlhNTF9VQ2R4RkhJVDVKQktiQkU4SFk3bEVPRFhKbkJIQmotbEJKZmVnUk9Cbi1qYWloNDJxYjVubktyOXlZV2RBc0xYcFRMaFNhVTU4bW4yYWNjakxPcVJOeThjUkxUT01lQ0g3TElIQVRSMXBycjZ0Z3FUS1BTWm1Z?oc=5",
-   "source": "Rynek Lotniczy",
-   "published": "2026-10-15T07:00+00:00",
-   "added": "2026-10-16T12:42+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polska",
-    "port",
-    "port polska"
-   ],
-   "summary": "Port Polska inwestuje w region przyszłego lotniska. Drogi, woda, szkoły i kadry Rynek Lotniczy",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6cdeff607793",
-   "title": "Chinese shipbuilders and European shipowners call for closer ties",
-   "original_title": "Chinese shipbuilders and European shipowners call for closer ties",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcVpraUdJZHFod1VfbHFaaXNRazl5SVBVN2djdDlCY1JKbjR3ZzdKU1cyLW9lZE1VRUNMSEZnMExybzZGQXE4cENFRnZRQ2gtVlVjNmtNUEh5MDdFaENUQWdfZmlpNUY4amNmMUFQX3RaREFFc3JqZGtza2VQQ0JOZUdlcktNS1VPUzhka29jZDV4ajNDYWhYaWZMbEdtYmlZdGVFZ2tWczdrV1hrSFJj?oc=5",
-   "source": "Shipping Telegraph",
-   "published": "2026-10-15T07:00+00:00",
-   "added": "2026-10-18T05:06+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "shipowner",
-    "shipping"
-   ],
-   "summary": "Chinese shipbuilders and European shipowners call for closer ties Shipping Telegraph",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cee1089188a7",
-   "title": "The backbone of Ukraine's trade is targeted! Russia struck the Izmail Port and 2 ships.",
-   "original_title": "The backbone of Ukraine's trade is targeted! Russia struck the Izmail Port and 2 ships.",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQU55Q1dxM0pzanRXTWVmampxUUdsRDNJMWY5X2RiMnNaeDdRc0NFeVFZNFVfelBrUnZOYzRRV3VsMENRTFA5ak5LUlRsd2xWU2o2SXk3T3JWTUFQd2d0QzVWZ1VEV3oyWEJXbmFYNWxZdHotOENMT2JVMFl0WnNTaGZhZFVaU184bjU0?oc=5",
-   "source": "Haberler.com",
-   "published": "2026-10-15T06:58+00:00",
-   "added": "2026-10-15T09:35+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "port",
-    "russia",
-    "ukraine"
-   ],
-   "summary": "The backbone of Ukraine's trade is targeted! Russia struck the Izmail Port and 2 ships. Haberler.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d73d53a97f68",
-   "title": "Germany’s 2028 track access charges plan a “frightening” prospect for rail freight",
-   "original_title": "Germany’s 2028 track access charges plan a “frightening” prospect for rail freight",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdTBIakNROTBtbjBrZTdCZTlGXzdNeGZFQ1JuSnRSWF9QYVIzaXQ0WGE1MVM3MDJNNmVGeTVMRzFRM0tmckRYZ0ZvTHVRZjY2M252bDd1SUlUbGZDUG81OFZNU1RfWXkwbENhbjd4Y3FwdkRHTHNkUGdvcDFNMzMzdzZhQnYwc1lLemZzYU9KVG5MVjVTVTBQZWhXalQ0T2c4RUZHU1FXTk9MY1NLZmV3ZmE1WndSOS1zWG5kTnlLRmRlOERENU9BdnJSaw?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-15T06:58+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "rail freight"
-   ],
-   "summary": "Germany’s 2028 track access charges plan a “frightening” prospect for rail freight RailFreight.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "693365be16cb",
-   "title": "Baltic Dry Index falls nearly 5% d-o-d as Capesize rates plunge to late-June low",
-   "original_title": "Baltic Dry Index falls nearly 5% d-o-d as Capesize rates plunge to late-June low",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkZYOWs3STZjYnRpeVJ5STJjYm85MWxOT1N0bFA1RWk4ZF9SSFhWTE12MWxEa0pvejJBMnpVa0stQkxsM0ZPNWh0ZGt1bE9VUWk2SlQ0TlBreXB2Rm42MmMzbEhKRERVaDJqUHJraFlSMWF2b1lXZ0FuXzdaTmhlV0k5aTg3LVlrSkNqdDFWY2kyZEhPMlpacUltaXVxTUdzTnFqYkFGRW1RLUpVblNVMFQwRENoUHI4dUJCelpNQXBhejA?oc=5",
-   "source": "BigMint",
-   "published": "2026-10-15T06:55+00:00",
-   "added": "2026-10-17T06:48+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry",
-    "capesize"
-   ],
-   "summary": "Baltic Dry Index falls nearly 5% d-o-d as Capesize rates plunge to late-June low BigMint",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
