@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T12:10+00:00",
+ "generated_at": "2026-10-19T13:00+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "4304fc3715cb",
+   "title": "deugro moves 42 OOG units from UAE to Poland",
+   "original_title": "deugro moves 42 OOG units from UAE to Poland",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd3c2VXZCU0JLa2pEaFVSYm1ucU8zaHNpemlDa1ZjZUpLelk3WERFMWJ4Z1lMWk8zZENqSm1HOGZPSTA0XzM4OTljeF9ubjctVlA5UTJPckpXLVNLVU5aNGFVcERabXBBX19CRmFiMWZxaUk5U3ZzUU14ZzUzdFZfZ004bHVtSVBKQ1BvTXluRkpPSzdqUTcxVDBB?oc=5",
+   "source": "Heavy Lift & Project Forwarding International",
+   "published": "2026-10-19T12:24+00:00",
+   "added": "2026-10-19T13:00+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Poland",
+    "Middle East"
+   ],
+   "tags": [
+    "forwarding",
+    "poland"
+   ],
+   "summary": "deugro moves 42 OOG units from UAE to Poland Heavy Lift & Project Forwarding International",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
   {
    "id": "2f7ed4dad47a",
    "title": "Solar power a shining example of export progress across sub-Saharan Africa",
@@ -37,6 +64,62 @@
    ],
    "summary": "Solar energy is becoming increasingly important for bolstering sub-Saharan Africa’s trading potential, with supply chain executives telling The Loadstar that Kenya and Nigeria are two of the fastest-growing markets for the technology. By the end of the first quarter, Nigeria had climbed into the top 10 of solar panel suppliers to the US, with some 40% of the country’s total exports of the technology, totalling $64bn, ending up in the US. That growth has been felt by forwarders and logistics partners. DHL Express’s chief executive for Sub-Saharan Africa, Hennie Heymans, told The Loadstar the company was seeing “incredible growth” in solar-panel exports out of Nigeria – and nor is that country alone. “We actually see an incredible growth in solar panel exports towards the United States from Nigeria and Kenya,” he said, pointing out that for Africa in general the “new energy” vertical was proving something of a winner, experiencing 20% growth year on year. Interestingly, local forwarders told The Loadstar solar panels were also proffering volumes in the reverse direction for Kenya, although there was debate around whether the volumes were part of a local redevelopment of energy infrastructure or the result of chaos in the supply chains.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "8222a415ec05",
+   "title": "Baltic Dry Index Finally Broke Its 10-Day Slide",
+   "original_title": "Baltic Dry Index Finally Broke Its 10-Day Slide",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ0NocWtlWWJTVkVfaWdWMi1KTUdSaDU5Z1ZIM2xTd3l1WjFXcnBYb05sYVFfMTMzWjN6SVVaUHg1Qk5OTU5SdVZDMmJfalBTaVdWYTRCdjdLeDdORUVuTU9xME4ycjM3V3ZsNmtGVnJpMjBQWmhqM0hPVktmMkNZOGRB?oc=5",
+   "source": "Finimize",
+   "published": "2026-10-19T12:02+00:00",
+   "added": "2026-10-19T13:00+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry"
+   ],
+   "summary": "Baltic Dry Index Finally Broke Its 10-Day Slide Finimize",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ebc2560f5a47",
+   "title": "Baltic Dry Index climbs to 2546 up 35 points",
+   "original_title": "Baltic Dry Index climbs to 2546 up 35 points",
+   "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2546-up-35-points/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-19T12:00+00:00",
+   "added": "2026-10-19T13:00+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 14,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "coal",
+    "grain",
+    "iron ore",
+    "prices"
+   ],
+   "summary": "Today, Monday, October 19 2026, the Baltic Dry Index climbed 35 points, 2546 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore. The index is based on a daily survey of agents all over the world. Baltic Dry hit a temporary peak on May 20, 2008, when the index hit 11,793. The lowest level ever reached was on Wednesday the 10th of February 2016, when the index dropped to 290 points.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   },
   {
@@ -16497,90 +16580,6 @@
     "middle corridor"
    ],
    "summary": "Investments in Middle Corridor open new opportunities for South Caucasus - Director Apa.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5bf53ca6a6d8",
-   "title": "Russia’s shadow fleet: A tool for circumventing Western sanctions",
-   "original_title": "Russia’s shadow fleet: A tool for circumventing Western sanctions",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSEJtVHZWd0lVZ1lIS21NbDh6ak82dVdmczMxMFp3TlRrSW9LakZlT3YwQU9GTVBYcXo4TDZTNkNsdzJqMUxxVE1PY3dTT2N3U2lkU2JMSFdHQVZPWU1oTzhRNWVwUnFTNG1NR2s1SU11LU5DNTg1dTdiZU1sRk52cXYydHVMeGNodU9sT2h3VG9zTEdUdDdSN3VxUGtRZw?oc=5",
-   "source": "Defence24.com",
-   "published": "2026-10-15T06:00+00:00",
-   "added": "2026-10-15T06:58+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "defence",
-    "fleet",
-    "russia",
-    "sanction",
-    "shadow fleet"
-   ],
-   "summary": "Russia’s shadow fleet: A tool for circumventing Western sanctions Defence24.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "008c4897afae",
-   "title": "Latvia unable to ban Russian grain transit amid risk of multimillion-euro lawsuits",
-   "original_title": "Latvia unable to ban Russian grain transit amid risk of multimillion-euro lawsuits",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdF9hVGJBeUN2a053UDZxTDFoX0RjMEFmTE5UeTBQQzU0VUV0dzlrRjFIbDFlNmtIeWc4MU1acVZZTHYtcWdJN3JZUDEtWlM1Z1FpNFd6NkRBOXRIWi1MREZiNVh5aVpvZjhTQ2pFMUI1Nmp4R2RVb2Q3VV9UQXpmbV9Xem9NR1J0X0FRbnNWT3JtdnpDemNZX3ZRX1Q2QWpVa3VWRnp5QnJ1c1dfdEhZVl95aU5wVW84RXc?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-15T05:50+00:00",
-   "added": "2026-10-15T17:12+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Baltic & Nordics",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "grain",
-    "russia",
-    "russian"
-   ],
-   "summary": "Latvia unable to ban Russian grain transit amid risk of multimillion-euro lawsuits UkrAgroConsult",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "236e94d1cc60",
-   "title": "Middle Corridor key to transport connectivity in Caucasus, Central Asia - IMF",
-   "original_title": "Middle Corridor key to transport connectivity in Caucasus, Central Asia - IMF",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43ci1IdG5VNi0walZxdE9oTHhrdThQMjgyazNsLURrakxtdWtMMkh1bm8zNkNrZHZnNXlNQTV2Q2xiQlpTT3IyOG8yN1R3X0xCbVZJeE9TRHhqUWNGQ2NnQW5R?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-15T05:36+00:00",
-   "added": "2026-10-15T11:55+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Middle Corridor key to transport connectivity in Caucasus, Central Asia - IMF Trend News Agency",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
