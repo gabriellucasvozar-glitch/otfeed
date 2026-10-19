@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T09:41+00:00",
+ "generated_at": "2026-10-19T10:19+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,38 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "8226d1eecc7c",
+   "title": "Nanjing Tanker picks Dalian for LR2 quartet",
+   "original_title": "Nanjing Tanker picks Dalian for LR2 quartet",
+   "url": "https://splash247.com/nanjing-tanker-picks-dalian-for-lr2-quartet/",
+   "source": "Splash247",
+   "published": "2026-10-19T10:00+00:00",
+   "added": "2026-10-19T10:19+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics",
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "chinese",
+    "crude",
+    "tender",
+    "vessel"
+   ],
+   "summary": "China Merchants-controlled Nanjing Tanker has selected Dalian Shipbuilding Industry Corporation (DSIC) to build four more LR2 product and crude tankers, taking its planned newbuilding programme in the segment at the Chinese yard to six vessels. The Shanghai-listed owner named DSIC as the winning bidder, following a tender launched last month. The newbuildings will have to meet IMO Tier III emissions standards and phase three requirements of the energy efficiency design index (EEDI). No price or delivery dates have been disclosed, and a formal shipbuilding contract signing has yet to be announced. Nanjing Tanker already has two 115,000 dwt LR2s on order at DSIC under a contract signed in September 2025, with deliveries scheduled for August and October 2028. The latest award puts the owner on course to triple its exposure to the larger product tanker segment. The move adds to a wider fleet renewal drive that has seen Nanjing Tanker place a string of orders at domestic yards. The company also has two 65,000 dwt panamax crude/product tankers booked at Dalian, while in July it contracted four additional 50,000 dwt MR product/chemical carriers at Guangzhou Shipyard International for up to $182.8m. At the end of June, Nanjing Tanker controlled 73 vessels totalling about 2.8m dwt, including 34 product tankers, with its existing product fleet predominantly made up of MR tonnage.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "827c9a12ffcb",
    "title": "Hai An lines up $70m feeder newbuild investment",
@@ -1967,6 +1999,34 @@
    ],
    "summary": "Green steel can help Defence – which can help green steel The Strategist | ASPI's analysis and commentary site",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d29e51ea0798",
+   "title": "As CM Ports Exits Colombo Project, US Invests $17M in Port's Digitalization",
+   "original_title": "As CM Ports Exits Colombo Project, US Invests $17M in Port's Digitalization",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnBQUkd4emNTcGRvVk9JMEV6X1owZjVYNEpsRndDSXN6Y3FES1BXa3llZ000V0toM3dZTHRuZEZQWDB5YnBfNDJJQkJHMGIwWGthMTJPZ2l2LXBaYmxlbU9lLURLcTZuZkZVSFFXeXpTS2gxb09GT3RwZ2pWMWIwemwxR0lkdElKdmdRbFhVa0V0Z1VNYjVOV2tmX3Y?oc=5",
+   "source": "The Maritime Executive",
+   "published": "2026-10-18T18:59+00:00",
+   "added": "2026-10-19T10:19+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "digitalization",
+    "port",
+    "ports"
+   ],
+   "summary": "As CM Ports Exits Colombo Project, US Invests $17M in Port's Digitalization The Maritime Executive",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16501,68 +16561,6 @@
    ],
    "summary": "EU economy chief Valdis Dombrovskis told AFP on Tuesday that Russian diesel sales recently authorised by the United States were unlikely to move the price of the commodity, which has spiked since the start of the Iran war. US President Donald Trump announced on Friday that he had spoken to President Vladimir Putin and they had struck an agreement for Russia to release large amounts of diesel onto world markets, a bid to lower prices that have spiked since the US leader launched the war on Iran on February 28. “As regards specifically this question on Russian diesel exports, if we look at the volumes, they are not of any macroeconomic significance, and frankly, there are strong doubts whether Russia is even able to supply those volumes, and according also to US quality standards, those are big question marks,” Dombrovskis said in an exclusive interview with AFP on the sidelines of the IMF-World Bank Annual Meetings in Bangkok. Dombrovskis addressed a range of topics, including spiking sovereign bond yields in Europe, concerns around inflation due to rising energy prices and a recently concluded trade deal with China under which Beijing agreed to cap hybrid car exports to the 27-nation bloc.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "9d513874bea2",
-   "title": "Port Hedland Iron Ore Exports Slightly Higher in September",
-   "original_title": "Port Hedland Iron Ore Exports Slightly Higher in September",
-   "url": "https://www.hellenicshippingnews.com/port-hedland-iron-ore-exports-slightly-higher-in-september/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-14T21:00+00:00",
-   "added": "2026-10-14T21:53+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "iron ore",
-    "port",
-    "ports",
-    "throughput"
-   ],
-   "summary": "Pilbara Ports delivered a total monthly throughput of 69.3 million tonnes (Mt) during September 2026. The Port of Port Hedland achieved a monthly throughput of 49.6Mt, of which 48.9Mt was iron ore exports. This was a one per cent increase compared to September 2025. Imports through the Port of Port Hedland totalled 174,000 tonnes, a decrease of 19 per cent compared to September 2025. The Port of Dampier delivered a total throughput of 15.2Mt, a one per cent increase from September 2025. Imports through the Port of Dampier totalled 132,000 tonnes, resulting in a 24 per cent increase from September 2025. Several factors influence the fluctuation of throughput, including changes in market conditions, weather conditions, port maintenance operations and customer needs. Source: Pilbara Ports",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "9f057278b53d",
-   "title": "Singapore Strengthens Multi-Fuel Bunkering Capabilities and Digitalisation at SIBCON 2026",
-   "original_title": "Singapore Strengthens Multi-Fuel Bunkering Capabilities and Digitalisation at SIBCON 2026",
-   "url": "https://www.hellenicshippingnews.com/singapore-strengthens-multi-fuel-bunkering-capabilities-and-digitalisation-at-sibcon-2026/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-14T21:00+00:00",
-   "added": "2026-10-14T21:53+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "regulation",
-    "commodities",
-    "equipment"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "bunker",
-    "digitalisation",
-    "law",
-    "ministry",
-    "port",
-    "port authority"
-   ],
-   "summary": "The 24th Singapore International Bunkering Conference (SIBCON), organised by the Maritime and Port Authority of Singapore (MPA), was opened today by Mr Murali Pillai, Senior Minister of State (SMS), Ministry of Law and Ministry of Transport. Themed “Charting a Resilient Multi-Fuel Future”, the biennial conference that is being held from 13 to 15 October 2026 is expected to welcome more than 2,000 maritime professionals from over 60 countries, bringing together global leaders across the shipping, energy, and bunkering ecosystem. Several initiatives were announced at the event to advance capabilities across different marine fuel pathways, strengthen assurance and efficiency for ship-bunkering in Singapore, and support the adoption of electric harbour craft. Advancing Ammonia Bunkering MPA and Enterprise Singapore, through the Singapore Standards Council, launched a new Technical Reference for Ammonia Bunkering (TR 148) . Developed over the past year with industry participants and in consultation with MPA, the Form was launched for public consultation at SIBCON 2026. Strengthening the LNG and Bio-Methane Bunkering Capabilities MPA will invite licence applications to operate liquefied natural gas (LNG) Floating Storage Units (FSUs) in Singapore anchorages by end-2026, subject to regulatory approvals. Strengthening Digitalisation and Efficiency in Bunkering Under Phase 1 of the Digital Bunkering initiative, the electronic bunker delivery note has been the default documentation for bunker operations in Singapore since April 2025.",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
   }
  ]
