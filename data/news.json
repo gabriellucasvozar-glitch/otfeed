@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T03:22+00:00",
+ "generated_at": "2026-10-19T04:04+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,57 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "f2e7e0aa8646",
+   "title": "Container Freight Rates Rebound After Three Weeks",
+   "original_title": "Container Freight Rates Rebound After Three Weeks",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNE1wY0RvVDBGWHVxdGdEUjZHMlBYeHM3UFQ3UENnamZMbk9sMUNwdmEydHVMR0g4MTBvX1VudkN2RTlJM1BmWklMb09DamQtQVFNMXpRM1JJR0hiS1JWUlN6ck9JdktqZFRyX2Z1Q2J4YW9xaWxmcXJZcC1Jc2h6RmhjemN0ZWZS?oc=5",
+   "source": "조선일보",
+   "published": "2026-10-19T02:02+00:00",
+   "added": "2026-10-19T04:04+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "freight rate"
+   ],
+   "summary": "Container Freight Rates Rebound After Three Weeks 조선일보",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2162e94fdce1",
+   "title": "Rotterdam container throughput holds steady as transshipment drops 20%",
+   "original_title": "Rotterdam container throughput holds steady as transshipment drops 20%",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkRWNk9mTkcwU1FOeFdoczVVNE1ZRC1UWV9NSUVkXzBkbjJnZ1ZncmoyMDZ2U252cDAxTHBkSXMtMXJQSHg2SnNjRGtub2xYM3VYd1RNa3RiRnhzZEc5UVVVWDhZMUQ4MjlvTDJwNVU3ektVUmJUMUZ0Wnp4S0ZlbTZDWk55VDFSNk1uXzBsUl9sQ0UwQ2o2YjF3U1NUZw?oc=5",
+   "source": "Container News",
+   "published": "2026-10-19T01:30+00:00",
+   "added": "2026-10-19T04:04+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "throughput",
+    "transshipment"
+   ],
+   "summary": "Rotterdam container throughput holds steady as transshipment drops 20% Container News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "f2c459de80f0",
    "title": "Copper Bulls on the Ropes: Trump's Tariffs Still Missing in Action as Macquarie Warns of a Slide Back to $10,000 a Ton",
@@ -38,6 +89,64 @@
    ],
    "summary": "Copper Bulls on the Ropes: Trump's Tariffs Still Missing in Action as Macquarie Warns of a Slide Back to $10,000 a Ton BigGo Finance",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2f65c558bf98",
+   "title": "US pauses sanctions targeting top importers of Russian crude oil and gas",
+   "original_title": "US pauses sanctions targeting top importers of Russian crude oil and gas",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3JDamxISE5SampuUmNjdHh5YlZpcVQteFJpTXc0UmNJbkY5dkx6TTZrVFp3bS1DLWo3Y252NjV4dDdQdUFyc29IQnE0eHZhOEtmTzRFTUQ3QTRpVURITFVjNmkzcE9aOFVtNW1KQ1FHTWpfMzJHd3J2cDFHYzhCZ2FZcWxyUUVrWjd4aE1DT2dzX3NMR3Fycm40NklYeHBPWVFIZWhEUl8zbERYVmFONzBVa1JWRm5TWW1UWQ?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-10-19T01:04+00:00",
+   "added": "2026-10-19T04:04+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "crude",
+    "russia",
+    "russian",
+    "sanction",
+    "shipping"
+   ],
+   "summary": "US pauses sanctions targeting top importers of Russian crude oil and gas Shipping Telegraph",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0c7f7645593b",
+   "title": "Seaport congestion: A challenge for global trade",
+   "original_title": "Seaport congestion: A challenge for global trade",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGRCbXRXTnBlX1NHbXpIaFdyUkFZc09NUlhqVUVLYXZnZk9OR2VRQS11amlObzcxRC1kd1NyWGQ2LTRPemMxUkRFRmczdzlMdjd1Q1djbE5mNmRJRml6NV8wZnhLRzdDdjJEWEhiZHFrYUJXYnZOdE1KUTNvbWl5NWFrNEtzSHEwRDhDNDZHNTNxbUt4WTYw?oc=5",
+   "source": "Daily FT",
+   "published": "2026-10-19T00:45+00:00",
+   "added": "2026-10-19T04:04+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "ports",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "congestion",
+    "seaport"
+   ],
+   "summary": "Seaport congestion: A challenge for global trade Daily FT",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -916,6 +1025,31 @@
    ],
    "summary": "Russia-Togo Trade: Fertilizers, Phosphates, and Lomé Port Open New Commercial Routes to West Africa russia's pivot to asia",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8dfcb2d8f198",
+   "title": "Reshoring und Automatisierung: Daifuku gestaltet die Zukunft der Lagerlogistik - Xpert.Digital",
+   "original_title": "Reshoring und Automatisierung: Daifuku gestaltet die Zukunft der Lagerlogistik - Xpert.Digital",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vSkZNQmVJVkVmS0F6ZjZWdmwyX0R5Z2l2UWV5ZEdGbmcyRDlhNl8wNDdLM3RreDhwaC1neHBGOTBBcjJPakxoMjNjdnFVYXhDYVVzWU5rMWxETXowOTR30gFnQVVfeXFMT0U4bi1qaW1jdnhGcDhTOHdHYlBzMjRiQllVQmVQbmQ0Unc2S183cDlOLVZJdmFvaDRNRFBDZmNXZS1uWldLZTFraVdHZmNlZExzbmFpZ1ZMOXpDR0JKbHZXY0ZiQ3JUVQ?oc=5",
+   "source": "Xpert.Digital - Konrad Wolfenstein",
+   "published": "2026-10-18T16:31+00:00",
+   "added": "2026-10-19T04:04+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "reshoring"
+   ],
+   "summary": "Reshoring und Automatisierung: Daifuku gestaltet die Zukunft der Lagerlogistik Xpert.Digital - Konrad Wolfenstein",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -2490,6 +2624,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "a0d6f8bfc3d2",
+   "title": "PKP Cargo SA w restrukturyzacji (PKPCARGO) - Notowania GPW - Giełda",
+   "original_title": "PKP Cargo SA w restrukturyzacji (PKPCARGO) - Notowania GPW - Giełda",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5paU05UXNXUl9hcEVIbDd4WmNqV1dFbVk3R0RYV1h1S1B6a0FPS1pGdlpjY2FKN0dKLWN6RnNDeEViaDRTRkZEVFEyZ1pOTjJaVXRMc1QyUFItSGxtajZLcnRQVm9IRkxoMTlCZzZPVG1HTWgtYWx1Qm1n?oc=5",
+   "source": "Bankier.pl",
+   "published": "2026-10-17T06:59+00:00",
+   "added": "2026-10-19T04:04+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "pkp cargo",
+    "restrukturyzacj"
+   ],
+   "summary": "PKP Cargo SA w restrukturyzacji (PKPCARGO) - Notowania GPW - Giełda Bankier.pl",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "8678e66c1934",
    "title": "Iran-Kazakhstan rail freight grows significantly – Zakeri",
    "original_title": "Iran-Kazakhstan rail freight grows significantly – Zakeri",
@@ -3593,6 +3754,32 @@
    ],
    "summary": "Oil Futures Rise on Middle East, Russia-Ukraine Concerns Yahoo Finance",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "12bc7ae3ed18",
+   "title": "Oyetola reaffirms commitment to modernising ports outside Lagos",
+   "original_title": "Oyetola reaffirms commitment to modernising ports outside Lagos",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRUp0eWJIU0t1VG1NTlBWS0MyaDNSbGlOMGk5SDdzbVBfUTJYR1REOTVBYWhGNy1HNUN6eXNxV0ZUODR2T0V6UFNSbE53MXB2Rk9sdGJPbnBDaTFCX0J6dE9EdWV5OGZUbGRtWVQ5SkhWUGRXZTdSWko1NGU0SGtSeW5wZlBkTTBDN0VWdWU5YjlISUNlSGxSVFdLQ3FZa0gzUzJvMDFRZUd0V3p0aVMtOA?oc=5",
+   "source": "The Guardian Nigeria News",
+   "published": "2026-10-16T19:25+00:00",
+   "added": "2026-10-19T04:04+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Oyetola reaffirms commitment to modernising ports outside Lagos The Guardian Nigeria News",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -11907,6 +12094,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "e3c791f39a37",
+   "title": "Record tanker rates could see US roll back sanctions on \"shadow fleet\"",
+   "original_title": "Record tanker rates could see US roll back sanctions on \"shadow fleet\"",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR0s5RktabjRrd05lU2ZLSWJFNlRUeVRrWGxlRzczRExmWDJJTzhLUUpJUEYyOWNvWWJranFZdUUxWktjbHFhTTVPLTVoZnBLZ0taN3J0OUJTUERNMkgzMDdLUEl4OG4yMjBab3JCeV81aVJXaFdiZFdKVC1FS0JvZGJBWGVXN2E3NU56M1k4UVhiX0pGbzVzOE4xV0ROYjRnSjVwbGk5enN1aTQ4MXpUR1h5NnROUdIBwwFBVV95cUxPUDdGWlNuYlVTNHRIcWtCeE9SWWhjaUR6MXlhbFpfLUpYLWxNZlkzaXlCTnptUTV1MExoSHRfTWpGQk9NdkVaNmZPUXhNdkJZaDFUZWh1ZWZWVGV5MXNlU1JfNnJHb041cEZsRTFWczlyYjZPVENXeGdhNDduOFRINUIzT3U0OXMzZVQzNzY4d1N1UmpVdXlaQkZid2JhVm5pVU5ZQnJFOXpDbnV5a29OejZWVXdoZEFEczBUdkRKU2JhdlU?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-15T10:10+00:00",
+   "added": "2026-10-19T04:04+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "sanction",
+    "shadow fleet"
+   ],
+   "summary": "Record tanker rates could see US roll back sanctions on \"shadow fleet\" Baird Maritime",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e9609dcc91e5",
    "title": "Ukraine corn exports up 76% as grain exports fall in 2026/27",
    "original_title": "Ukraine corn exports up 76% as grain exports fall in 2026/27",
@@ -16337,217 +16552,6 @@
    ],
    "summary": "CMB.TECH loads 1,000mt of green ammonia bunker on Mineral Europa Quantum Commodity Intelligence",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f22ff9c3ed99",
-   "title": "Poland targets rail freight bottlenecks in network overhaul",
-   "original_title": "Poland targets rail freight bottlenecks in network overhaul",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYldkNGhsY3JVUEViTFctQlBGTVYtd3FOdjRrQnZwSlJ4YU1VUzlXa1QyVEpaM1FkVkdzS204T3BmSXdLSkNnOVdxS2NjQmkyZlRJSDVEOXF2ZUNUN1lEYW9vcXZKM3VaVmRiUmxyNVRtamdYRF9lNmZNS201bnZMZjlhLTV1ZTd5bVBrem14THp6ekdUM3ZiVVRJMHZwZw?oc=5",
-   "source": "Freight News",
-   "published": "2026-10-14T16:50+00:00",
-   "added": "2026-10-15T17:12+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "bottleneck",
-    "poland",
-    "rail freight"
-   ],
-   "summary": "Poland targets rail freight bottlenecks in network overhaul Freight News",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "03fa6af48136",
-   "title": "Dr. Raid Al Rubaiey Appointed CEO of Sohar Port and Freezone",
-   "original_title": "Dr. Raid Al Rubaiey Appointed CEO of Sohar Port and Freezone",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaldpQkJ0blRIZUxxVGx2RDNPX0p1bDQtQzBGUWtjbFhrMW9tMm0xdE01QzlRa0V5aDlrdV9FUVBtUWtKQ2xBakxtb0NLNkk3UldFb05HUHlIQUpWcVRJZkd4b3NMeVpOVXcyckhXRTc4UDF3ZGlsRjdLYm1IUHdWSVNIRzhQZThSZnFuTml5Vmk3TTQ?oc=5",
-   "source": "The Maritime Standard",
-   "published": "2026-10-14T16:49+00:00",
-   "added": "2026-10-15T08:16+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Dr. Raid Al Rubaiey Appointed CEO of Sohar Port and Freezone The Maritime Standard",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d405ab722e4c",
-   "title": "Middle East oil exports plunge as attacks disrupt Hormuz shipping",
-   "original_title": "Middle East oil exports plunge as attacks disrupt Hormuz shipping",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jb1Y0cTNUdnpUeU5odVZtTGFWRnBqV3hvY1hpWG9FS09qZV9rOTZZT3dyelExc1JvcXRzbHRhbGJZOTVVLWZkTXlHY2pLUXk1TlVzUTRwel8?oc=5",
-   "source": "TRT World",
-   "published": "2026-10-14T16:47+00:00",
-   "added": "2026-10-16T23:43+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "hormuz",
-    "shipping"
-   ],
-   "summary": "Middle East oil exports plunge as attacks disrupt Hormuz shipping TRT World",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9e4e05e3a0eb",
-   "title": "CMA CGM plans third container terminal in Abidjan",
-   "original_title": "CMA CGM plans third container terminal in Abidjan",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmQ5NFc3SlVRYUJLZWhHNmJ6UTFHWHYwZU15aGZZWVhnZnRGSmpkMzJtQmRzVzgtUTAzS0Q2cUJFX3VjdU54ZldrdnZQZnpIRGNwNVRxeXFBMzF0VHg0YlBlbEhxdHA3TXhGQkNER0Nla09fT0ExMHdUZXoxUEdBUzV3a3ExZVZVVkdiT2txMzkxYjEyODdNWkI1dw?oc=5",
-   "source": "africabusinessplus.com",
-   "published": "2026-10-14T16:38+00:00",
-   "added": "2026-10-14T19:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "container terminal",
-    "terminal"
-   ],
-   "summary": "CMA CGM plans third container terminal in Abidjan africabusinessplus.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "12046620f0dd",
-   "title": "The Port of Algeciras will begin a commercial mission to Senegal and Mauritania tomorrow to capture new traffic with West Africa",
-   "original_title": "The Port of Algeciras will begin a commercial mission to Senegal and Mauritania tomorrow to capture new traffic with West Africa",
-   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPb1Q4dXAwZG5Eb2NCOVNpY1pBS29BeU55amJaSHFXSDdiQ0Q4Zll2X05tMGNUOVNsSk5xOFBqdXhFRmhBaXk0MmhPNEtiRE52LTQwOF9vZjlRZThyYVdEMmNEWU10c3VCc2ZaZ05wcEVOMXhwS0xyVUhQajVaYUQ1Q2hFMFJoODhXYW0teUVpRzluX29MVzRZbTB2V25DYUJ6b3FPM2lpdFVwWmRaVUlGWmxMZGg0b2Y1eXhzd3BXQU5rX3QxeEd5N1dDSHlnSHd1ZVpjdHZjclNFWVJwY3VnRGZtZW5UaURCMDRydXdtaTlheUo4UmF6TjBYanRQNVgwT2c?oc=5",
-   "source": "El Estrecho Digital",
-   "published": "2026-10-14T16:29+00:00",
-   "added": "2026-10-15T03:19+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe",
-    "Africa"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "The Port of Algeciras will begin a commercial mission to Senegal and Mauritania tomorrow to capture new traffic with West Africa El Estrecho Digital",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c79142d6d801",
-   "title": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls",
-   "original_title": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbFlGamUwQndfVDN4TDZBa2RvaXU3cUg5WlVnWWxWa1IxTFlROGJON1FTUmFreE53ZmpuTFBtNWZzVkwxeG9raFpoVGp0WXozWm1YZDFscUhjbFFhQnRiSXF6TmdqWlhZeFRmRkNnZl9Edkk4eHpFRDhaeU14SC11Z0dLeFd6am41Z3dXWU44ZTVoQU42SnpnekZOWE81UlhEa3MtMVZaV2ozRUhLWTNGQ196WjMzQdIBuwFBVV95cUxPdmNnSVA4bGN1OXp0NV9OX3BHRXpvRl9DN28yWDVINklHRW8zcnp1SVRKUUxscDI5SndVWXU5VkRVTnhJZV90LUNKczFUTVZpTE9ybUN6SWlXczc2NWhqZTdOR3hGY0czeUtYbmxKLVFsNzZSZEc4amRRdXRCUlhHWk5aOHcwVDE4SkxHbmNPeGpkTThrTXItemhyOUVZQjhfdmJSZWJPZ1BjbTA1TjlMNE5xZVRrXzJMRUx3?oc=5",
-   "source": "Al Jazeera",
-   "published": "2026-10-14T16:16+00:00",
-   "added": "2026-10-14T20:49+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "fertiliser",
-    "hormuz"
-   ],
-   "summary": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls Al Jazeera",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "835926e11bde",
-   "title": "Huawei unveils Intelligent RAIL 2.0 Solution at InnoTrans 2026",
-   "original_title": "Huawei unveils Intelligent RAIL 2.0 Solution at InnoTrans 2026",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjVKZDdZV0pwbENMTUgwa29xb1lKZW5fZXVpaEtlUEhvUlRuUTRpU0pTYllTNHZtalFtMzhLaUZYeElySVE2bFg3bkxzY0VhM0ZkZ3JscEF2aXdXc19VZW45NmZ2bER0RDBnOTFUUnV1SGlQRGN1WWVqc1NLR3pYT0hrZGxJaURNM1M1RndMQUp6NlVPT2cyNGVVQkNzRFd1MWNzOHRaVTdkZXNmVFZaM3B5ckhZelk0UUtkXzBkNnc?oc=5",
-   "source": "Railway Gazette International",
-   "published": "2026-10-14T16:15+00:00",
-   "added": "2026-10-14T17:11+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "railway"
-   ],
-   "summary": "Huawei unveils Intelligent RAIL 2.0 Solution at InnoTrans 2026 Railway Gazette International",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8f5870454d33",
-   "title": "FMC Proposes Remedies to Counteract Unfavorable Spanish Shipping Conditions",
-   "original_title": "FMC Proposes Remedies to Counteract Unfavorable Spanish Shipping Conditions",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTC1KVHRxaDlwN0xGakVabFNVa18xdnd4TjdFS3dJcklPMExmQVZDc0VjSnlHQ3hncnVsN2x6SUFGR2I1bDVROUVIa2c2S1hFdURqVExkMFdDWWpGUU1BN3d4VS00OFFoeG9ZN2Q0dWhLSVNleXlRMVRfUWRqLVhjcVZHYmtnMjNZYVQ1eXQ3YkEyd0dZSFFYb0VjeTE2QdIBowFBVV95cUxPZzNkdFhMekhfdzA0eTlvdGN1ZnBVNURRY1ctUWJOU2lPSC1fZWZQbDRkTDRWcUVtTGVaOVB0a2pmc1NteGNGSzVNU2ZuY0EyQnAtdUQ5d3ZFenVONlBfWmNMcjd6U1NjbExpc2R4STB6V19CUTRoRmxTdVV5N2lramNvTnlrTVplMVRoWUJLb1lHM25YTjVIOHRwamdUZWpKN2w4?oc=5",
-   "source": "Maritime Logistics News",
-   "published": "2026-10-14T16:15+00:00",
-   "added": "2026-10-15T21:50+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistics",
-    "shipping"
-   ],
-   "summary": "FMC Proposes Remedies to Counteract Unfavorable Spanish Shipping Conditions Maritime Logistics News",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   }
  ]
