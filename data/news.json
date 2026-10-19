@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T00:16+00:00",
+ "generated_at": "2026-10-19T01:05+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "191141c760e3",
+   "title": "Metinvest CEO calls on EU to lift restrictions on steel imports from Ukraine — BBC News",
+   "original_title": "Metinvest CEO calls on EU to lift restrictions on steel imports from Ukraine — BBC News",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1dYd3lxQmxVWjkybW5WV1BMYnNBODJKbVVJOGM1bEJ6eU1rcGwtM2I3YVh6Z2RieUQ5Vi1XQmZDSU8tX1NzQ1Y2Q2YyMTdrakJlVEZHbzcxTjBlcTN1d3FzTF9HZFJRM05uWi1IMzJvcDJqOG9ocHRnSVNjZFh2Q2dRaTFudl9UNnpHUUtDWXJaaEZFR2dXQjlnaXhKUGVnNmVoOUdFLXVkQ3pHLW1XZzJjZERMaVR2RVRuQWZGTQ?oc=5",
+   "source": "UA.NEWS",
+   "published": "2026-10-19T00:18+00:00",
+   "added": "2026-10-19T01:05+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Ukraine & Black Sea",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "steel",
+    "ukraine"
+   ],
+   "summary": "Metinvest CEO calls on EU to lift restrictions on steel imports from Ukraine — BBC News UA.NEWS",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "66e23f6200dd",
    "title": "Protein index highlights Australia’s fertiliser, fuel exposure",
@@ -16520,36 +16549,6 @@
    ],
    "summary": "Black Sea becomes new front in Russia-Ukraine wars on grain exports, with no alternative EU route to get shipments out EUobserver",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d49a31258ca2",
-   "title": "China's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High",
-   "original_title": "China's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGg2UExsRVZVYzFfOGV1Y2ZrWlVtbnMxeXh5bWxxdjlFX1pmZDZDSWVYMzA5V25RVThzX1I2SDBLZk1hcGRodjVVdnpVSUpsWWlEWmpmVTFBZURBcWJGNWZYWDlQcXBTYy1DSVB0Y3VjV2RYMnhPOTlja0w1cE1CQXJ0THI5OFdRdTBuRUEyam1xbGZfNkZSalNRSk1oN2pleXpYcTZPUzVmZ2kwR2VLQlBjQUxId9IBuwFBVV95cUxQX1lMbDJCVzc0SkZlTnV2bFBQdVM4bkU5X3ZFaHlFVzRQaVY0ZU9CTUh6SDlOWU5TbVduYVF4WkhSRFF6WWdUMTNDUlZZRHFtd0VETk4zTTFJMGtkVWVrQXI4VUJsQVJ3Z3JHbllRb1Y3cEhRNDJMdmlMWGZhTEswUVdMLW82THhQdW5XNXdYRnZhNkdEQWtGcTU3M2NTN1ctUE5FanV0RlFpV21POW1ZRVI4LVlEYlM0SWFz?oc=5",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "2026-10-14T15:30+00:00",
-   "added": "2026-10-14T19:39+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "coal",
-    "crude",
-    "oil price",
-    "prices"
-   ],
-   "summary": "China's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High Crude Oil Prices Today | OilPrice.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
