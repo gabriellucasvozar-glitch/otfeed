@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T17:36+00:00",
+ "generated_at": "2026-10-19T18:08+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b7f800e3ecb4",
+   "title": "India scraps coal import mandate amid high prices and weaker rupee",
+   "original_title": "India scraps coal import mandate amid high prices and weaker rupee",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbW44REpKUVYzLWVuT3Q2UjVRbUp1eHg5M0UzWEI2ZFlNd0JZY2pMMGg1VkFmWFJTTnJGelAyeXMtZGo1Mm54TTNFeEFRVXdRVlQ5TmtqWVAwbFZUZnR3RnNRSTNlZ2RQVm1LbmJoWkhrN1ZKbTFhNzl6UnlpTm5IWFd1anJKa2hqeWRyY1d6QWtJQjhITjZoaXVOaHAxckNTUFFFMXZRYkZUUWNXT2l4Nk130gG3AUFVX3lxTE9DVlVPTkx1YXV2QWx2TVpVOW50R3k1Zk9zeXV5elh0Zm9UdUNBYnlKeHhqRGxzc0NSM2xPZlhPY0F1TjVZdzFtVjBGRklHMFdGS3pIVkRXdXdrZGo5Sk1hdTBrTlpxUjRaTzB6QVY0WFhaU3lSSGJDZ0dfQ1BtU2FYY0lWV004R0U4azROZW1CUUVwTE5hanVId0xoM1EzaVh0UkxPWlJMYnZSRVBsYXp4VXd0ZTVVWQ?oc=5",
+   "source": "MillenniumPost",
+   "published": "2026-10-19T17:44+00:00",
+   "added": "2026-10-19T18:08+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "coal",
+    "prices",
+    "scrap"
+   ],
+   "summary": "India scraps coal import mandate amid high prices and weaker rupee MillenniumPost",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "26ba9abcc589",
    "title": "Increasing drone attacks in the Black Sea are threatening the EU's ambitions to make Bulgaria the Black Sea gateway along the \"Middle Corridor\" route. #dwgeopolitics",
@@ -16533,34 +16560,6 @@
    "summary": "Hong Kong-based dry bulk owner Jinhui Shipping and Transportation has agreed to sell another ageing supramax, continuing its fleet renewal drive with a $14.6m deal involving a Hong Kong buyer. The Oslo-listed company, majority-owned by Hong Kong-listed Jinhui Holdings, has signed a memorandum of agreement to offload the 2007-built, 55,496 dwt Jin Xing to Heng Fa Shipping, a company ultimately controlled by He Zhixiong. The vessel is expected to change hands between October 20 and November 30. Jinhui has owned the bulker since it was built. The company expects to book a gain of approximately HK$52m ($6.7m) on the disposal, based on the ship’s carrying value at the end of August. The disposal follows an extended period of fleet reshaping by the Ng family-controlled company, which has been selling older supramaxes while investing in larger, more modern ultramax tonnage. Jinhui currently operates 19 bulk carriers, including 16 owned vessels and three chartered-in units. The company said the latest disposal would help reduce short-term borrowings, settle outstanding liabilities and provide additional liquidity.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "b1e11a4a5ba6",
-   "title": "Underwater power cable delivered to Klaipėda LNG terminal",
-   "original_title": "Underwater power cable delivered to Klaipėda LNG terminal",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3ZIQ0NWOHlkNlpIZW12V05pUHpEMng5UE9oYk5FV3pHazVONU5SamsxdXE3T0h1VHh0MHFVUnFiWFdLV0JweGo2QlE1TTczSms5SFI2UlgwZk5Lb3FZejY1dkYwX015TFhvWkxzZ1d3Mm15bnZEcFJPRGdhNUpia19lanBUMkUxMkdqSWRTSXh0c1h3YVZrSFZ6MUJIUjAtdHlBMERxLUNDRXBrU1pyOTlPRQ?oc=5",
-   "source": "LNG Industry",
-   "published": "2026-10-15T10:03+00:00",
-   "added": "2026-10-15T19:35+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "ports",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "klaipeda",
-    "lng",
-    "terminal"
-   ],
-   "summary": "Underwater power cable delivered to Klaipėda LNG terminal LNG Industry",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
