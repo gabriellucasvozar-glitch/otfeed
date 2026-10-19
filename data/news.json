@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T10:56+00:00",
+ "generated_at": "2026-10-19T11:32+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,61 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "80b0cfbd3da9",
+   "title": "Analysis: The ETS question – did carriers redesign Asia-Europe services to avoid carbon tax?",
+   "original_title": "Analysis: The ETS question – did carriers redesign Asia-Europe services to avoid carbon tax?",
+   "url": "https://theloadstar.com/the-ets-question-did-carriers-redesign-asia-europe-services-to-avoid-carbon-tax/",
+   "source": "The Loadstar",
+   "published": "2026-10-19T11:29+00:00",
+   "added": "2026-10-19T11:32+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "ets"
+   ],
+   "summary": "Would a carrier really design its Asia-Europe network around shaving marginal ETS dollars, which it can recoup through surcharges anyway? In short, carriers did redesign for the ETS – though not around the ETS alone. Carriers have redesigned Asia–Europe loops to cut their exposure, and they were right to. A few months ago, the EU ETS Observatory published a report stating that UK volume growth was a direct result of shippers seeking to minimise the EU-ETS charges – bullocks, if you ask me. The first is above – carriers optimised their networks within the rules, as they were entitled to, and importers were spared hundreds of millions of euros a year: the Observatory puts the allowances not collected at the three UK ports alone at about €316m. It removes the carbon price from the Asia leg, the longest of the voyage, and with it any ETS reason to slow down or burn a bio-blend there. The commission’s carbon market report found about 5% of national ETS revenue went to industrial decarbonisation, and only France and Estonia ringfence a share for shipping. Its July proposal would create a reserve of up to 110m allowances from 2028 to 2040, covering 55%–90% of the price gap for sustainable fuels and zero-emission propulsion.",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "0a470c0e0aed",
+   "title": "CMB.TECH Walvis Bay Ammonia Bunkering Terminal Needs Third-Party Demand - News and Statistics",
+   "original_title": "CMB.TECH Walvis Bay Ammonia Bunkering Terminal Needs Third-Party Demand - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjZYY3FfNmxQckNiRjdWeHFIQjhNendYV2dad252U29jcTRxa29FU0NsaE9SOUdCQlBnbjVaOC0yeDQtRXp2NkZHQ25aV3psdE1ySzZQUU1uUUJ6dFVEN2QyX0paa0lUZHl2VXc2aHFGRUNJT0JFbzUwX3JkN0pyUjlUN2VQMDhhMVFPMlFwdDhYMllzOTFUWWNsQ2lVTDVCQXZJbw?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-19T11:21+00:00",
+   "added": "2026-10-19T11:32+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia",
+    "bunker",
+    "terminal"
+   ],
+   "summary": "CMB.TECH Walvis Bay Ammonia Bunkering Terminal Needs Third-Party Demand - News and Statistics IndexBox",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "a4ee0cf6d0ef",
    "title": "How local mobilization of funds could spur more handling of cargo at ports",
@@ -304,6 +359,35 @@
    ],
    "summary": "As of October 16, the latest SMM data shows that total iron ore inventory across 35 main ports in China stood at 148.3 million mt, up 2.85 million mt MoM, with overall inventory trending higher. Daily average port pick-up volume edged down 50,000 mt to 3.185 million mt. As of October 16, SMM’s latest statistics show that total iron ore inventory across 35 main ports nationwide stood at 148.3 million mt, up 2.85 million mt MoM, with overall inventory on an upward trend. Daily average port pick-up volume edged down 50,000 mt to 3.185 million mt. Hot metal production of steel mill blast furnaces declined notably, further weakening support for iron ore concentrates demand and dragging port pick-up volume lower in tandem. With arrivals declining while port pick-up fell more sharply, port inventory continued to accumulate overall. However, steel mill profits are currently in significant losses, and procurement strategies remain largely need-based, with limited restocking willingness, so the boost to port pick-up volume is expected to be limited. Therefore, even if demand shows marginal improvement, the supply-demand pace remains loose, and port inventory is highly likely to continue accumulating. Overall, iron ore fundamentals remain weak in the short term, and port inventory pressure is unlikely to ease soon.",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "d3f90191e33f",
+   "title": "MMI Daily Iron Ore Index Report October 19 2026",
+   "original_title": "MMI Daily Iron Ore Index Report October 19 2026",
+   "url": "https://www.hellenicshippingnews.com/mmi-daily-iron-ore-index-report-october-19-2026/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-19T10:00+00:00",
+   "added": "2026-10-19T11:32+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "futures",
+    "iron ore",
+    "port",
+    "prices"
+   ],
+   "summary": "Today’s recovery extended across futures, port spot and seaborne markets, but better prices should still be distinguished from stronger demand. DCE most-traded closed at 682.5 yuan/mt, up 1.49%; all three port indices rose, the seaborne 61% index reached USD 90.90/dmt and the 65% reached 107.95, with all 12 brands higher. Price moves were broadly aligned, yet SMM reported needs-based buying and subdued trading, leaving the rebound in need of more persistent transaction support. In the week to Oct 16, arrivals in China fell 12.07% WoW and global shipments fell 4.72%; freight eased further and average import margins expanded modestly. Tight regional concentrate resources and improved local purchases may support some domestic markets without establishing a nationwide demand recovery. The immediate test is whether restocking moves beyond purchases for immediate needs. Stronger orders and mill profitability could provide a firmer basis for the recovery; continued thin trading could leave existing stocks constraining upside. Coke producers’ proposed increases from Oct 21 still require market acceptance and may influence cost expectations. A range-bound view remains appropriate while watching transactions, production and inventories for confirmation.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   },
   {
@@ -643,6 +727,32 @@
    ],
    "summary": "Super Terminais launches Porto Verde floating grain terminal WorldCargo News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "64068989b525",
+   "title": "Baltic Exchange: Bulk report – Week 42",
+   "original_title": "Baltic Exchange: Bulk report – Week 42",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQXJJN3V1b3dtMXFWNGkwZ0sxMDlQd2NWR0xqSFAzZHZIYjMtQ3JaS1RzaDdiMnVGYktNSWxCeHN6VElNLWF1WmxFMnJSQVI2M1JOS2ZGaUNfa0VRbHdHX0Mzc3dvaWdBQUZUWU9SVFdaRUJwS2RSeE1IbEVvd09RZVhNZ0dLbWthSm42M29MZw?oc=5",
+   "source": "Dry Bulk",
+   "published": "2026-10-19T08:59+00:00",
+   "added": "2026-10-19T11:32+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "dry bulk"
+   ],
+   "summary": "Baltic Exchange: Bulk report – Week 42 Dry Bulk",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -2426,6 +2536,37 @@
    ],
    "summary": "Hormuz Is Turning Shipping's Fuel Bill Into a Supply Crisis Crude Oil Prices Today | OilPrice.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9d7807b6aab0",
+   "title": "US weighs easing shadow fleet sanctions to curb diesel prices before midterms - CHOSUNBIZ",
+   "original_title": "US weighs easing shadow fleet sanctions to curb diesel prices before midterms - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZTdROWpkUjlTUG02OFU2Z2QzUURpSDVVNFJjak5hWmhLcEdkOEhfdzM5eFFySlN2OEFULVduTmJwWnJXWDJkaHFJZGR3YTBFdjBpQk5ldDU1QXFyVVNVM3BZajNHQW5tV2pQTXhoLVlPQ2RfRVdQZENNSDdfaUhGdXJtUUI0a0pHU0Z2NUZFcWRucnVOMHRybC1nRlHSAZwBQVVfeXFMTWU3UTlqZFI5U1BtNjhVNmdkM1FEaUg1VTRSY2pOYVpoS3BHZDhIX3czOXhRckpTdjhBVC1Xbk5icFpyV1gyZGhxSWRkd2EwRXYwaUJOZXQ1NUFxclVTVTNwWWozR0FubVdqUE14aC1ZT0NkX0VXUGRDTUg3X2lIRnVybVFCNGtKR1NGdjVGRXFkbnJ1TjB0cmwtZ0ZR?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-10-18T21:00+00:00",
+   "added": "2026-10-19T11:32+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "fleet",
+    "prices",
+    "sanction",
+    "shadow fleet"
+   ],
+   "summary": "US weighs easing shadow fleet sanctions to curb diesel prices before midterms - CHOSUNBIZ Chosunbiz",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -7652,6 +7793,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "162953cd8471",
+   "title": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says",
+   "original_title": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1hR0pwcGJWU2NSX0szSlhYNlBMYUc2Y1ktS0NseE5MeEVKdE9jUVVqUHlva3dxeDg4NXRTQXM0UlpyMWJlTHNSN1ZiOWFqcWdIX1NNcGRhYzBsak5iVnZrYnJaX2xGbkRLcjNrQmFkUUd2ejVHWm0ydVJ2RVJhS1VFbkRhTHg5MVJXbnJDQ3YtRmVLWWpKU2xwUXNZSzMtUWI4cjJfaXp4djM0V2lQQmc4X2VsaVkxMHFpVUZ2bWNLaldpQnBNZmNn?oc=5",
+   "source": "Reuters",
+   "published": "2026-10-16T10:53+00:00",
+   "added": "2026-10-19T11:32+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "high",
+   "score": 19.5,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "freight rate",
+    "sanction",
+    "shadow fleet",
+    "vessel"
+   ],
+   "summary": "US considers removing sanctions on some shadow fleet vessels to cut freight rates, official says Reuters",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3239b325a2aa",
    "title": "EU sanctions 12 individuals and companies involved in evading restrictions against Russia, targeting shipping, oil and payments",
    "original_title": "EU sanctions 12 individuals and companies involved in evading restrictions against Russia, targeting shipping, oil and payments",
@@ -9274,6 +9445,33 @@
    ],
    "summary": "Weekly Update – Global Fertiliser Markets – w/e 16.10.2026: UREA PRICES RISE ACROSS GLOBAL MARKETS AS CHINESE PRODUCERS REJECT INDIA'S LOW-PRICE EXPECTATIONS Press Release Distribution Australia",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8be9cada57dd",
+   "title": "Port Polska. Palowanie przy CPK stanęło. Kiedy pozwolenie na budowę?",
+   "original_title": "Port Polska. Palowanie przy CPK stanęło. Kiedy pozwolenie na budowę?",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdE9aVFdJRmNHX3pvMHJGQVFxNkF5U2FxeFV1cjhNZmJPb3dJN3pmMDVZeFpiVU8yQ0x1RVU1M2JVM2dzZGlya3NKSlVpcUtreEstVVRjOTJEODV1SUNsT2NKbU9qOXpHS2NURFFIaXE0LXh1UzdTS0FrTDMyNUZlWkg4Uk93YnFOQkhPcWhQaFVqamxGMC1sVzZLVXpVOUdaZ19TWHBKam92enZUYWEzZ3J0R1QyLUM2?oc=5",
+   "source": "Rynek Lotniczy",
+   "published": "2026-10-16T07:00+00:00",
+   "added": "2026-10-19T11:32+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Port Polska. Palowanie przy CPK stanęło. Kiedy pozwolenie na budowę? Rynek Lotniczy",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -12631,6 +12829,35 @@
    ],
    "summary": "Global Grain Freight Costs Surge as Shipping Disruptions Threaten U.S. Export Competitiveness AgroLatam",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8b43f3a862a7",
+   "title": "UK Finance Minister Urges Tighter Russia Shipping Sanctions, Pledges £17 Million For Chornobyl",
+   "original_title": "UK Finance Minister Urges Tighter Russia Shipping Sanctions, Pledges £17 Million For Chornobyl",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdHBqZVdQZS1Cc3c3X0QzRFE2RGQzN0xpcjlJaHROTU9XYXBwcU9TLXhiNWQ2N1JxZmV0dWs0cjJGNG9BR3lDeHlfbHUtTnozczJVYVlING9pN1lkV19pNmR1VlIxcmVqMTBnYmRPV3g2c3BJMXkzQlFMTUhkbDdLWkNURnFQbExjbzhzLUhBQ0tBSk1tbFJZNWt4eDV5aVFRV0U4SnZGa0szOXZiRmxvMm1yeXhZTW5KYnRSSGZYbzhqTGloc0ZqY1R1ejFjT1BYUWlHTW9DbkZxSzBwQXB3S2thQ19SZTR1NkZkX0JhMUdMMHQwd2hpSlRweFRLdw?oc=5",
+   "source": "Business Today",
+   "published": "2026-10-15T12:43+00:00",
+   "added": "2026-10-19T11:32+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "russia",
+    "sanction",
+    "shipping"
+   ],
+   "summary": "UK Finance Minister Urges Tighter Russia Shipping Sanctions, Pledges £17 Million For Chornobyl Business Today",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16346,226 +16573,6 @@
    ],
    "summary": "Yantai Port achieves record break-bulk cargo volume in China-Africa trade DataPortuaria",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bc29e1f9d7ef",
-   "title": "[SMM Analysis] Construction Steel Supply-Demand Fundamentals Maintain a Weak Balance in the Period",
-   "original_title": "[SMM Analysis] Construction Steel Supply-Demand Fundamentals Maintain a Weak Balance in the Period",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVlA1OXdQQXBkZzNkNzZzQ1h0VTBSNnI0UUlyc2prMENlVmw5UGVFc1laS3h3QkNpdTR2ZVVOSVZUZEdOUERkc3dFaHpXTWh4SkFBZ3F2NjJyNGtFTnBDdVN0UFU1VUlLY1pmOWttdVowVmp6dloxWDhRV0FuT0Vzckt4SUVuOGswSkVEZ2cxd1daeXJZN21uS2EwNE1xUkxidEtPQURhakhLNWhzaUNBZGFaZVpZQW5LaTFmVGJYQ2prRlVFSXNZcjkyZFMycmpDdGtFY3M2eUg?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-15T02:57+00:00",
-   "added": "2026-10-15T09:35+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "[SMM Analysis] Construction Steel Supply-Demand Fundamentals Maintain a Weak Balance in the Period Shanghai Metals Market",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2e5e9c8b8c25",
-   "title": "High Court coal mine ruling factors in exported emissions. Why isn’t federal Labor doing the same?",
-   "original_title": "High Court coal mine ruling factors in exported emissions. Why isn’t federal Labor doing the same?",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVkJsSU41SXplY1NZa0hZMERkT3ZxTDg2c2ROcjBnYlBoVVBhekQ2YUt3UEFiZVphZTFReWpFdkZkbko0TE9rZzc2QWctdDZSaGlCRnZ6eEppZ2MwZTI2WTlQSXpkOEtPOXJnRXN6YUhwTFhGRmxzQ0xkYU1OWDVBX1liNzlfbFVIYVF0Vl9aYzJVZUZJSzJ5a0k1RXNBT2x6QUZkQllVanlNV2FVb3R2NGN0LWdNSlByakhDckVGZEdPZ9IBxwFBVV95cUxQM0hQZ0lpN0lQQ2FWSGVlUUtvSG9RQTRiTEZILTczbVFHMGg2cGZ3T3lwT1Ztb0dpdWRIUWppVWJlYXpTcEZRdWVlTXpQZF9KTi1sd3Fkd2R4QWxiNUZjaThyTmFWV3NBamp6OHhUM3o5RDVNMmd3cm5jSzFtcmdhZkg5Y3VIR2FTdnNjclhhdlJ2cmdmQXhRd0RWMDEtZjBSVk5OQVNLNHpvTFJxSWZzVExOME5tVnk2ZFpadlJNWGlkV2NKajlJ?oc=5",
-   "source": "Renew Economy",
-   "published": "2026-10-15T02:51+00:00",
-   "added": "2026-10-15T06:58+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "coal",
-    "court",
-    "ruling"
-   ],
-   "summary": "High Court coal mine ruling factors in exported emissions. Why isn’t federal Labor doing the same? Renew Economy",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7dbc9573657d",
-   "title": "Eurogate orders four automated stacking cranes from Konecranes for its terminal in Wilhelmshaven, Germany",
-   "original_title": "Eurogate orders four automated stacking cranes from Konecranes for its terminal in Wilhelmshaven, Germany",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWFJ1QXItOExLZTl5aEN0LWFIVVBpZ0s1T1lqSmNzblZlWVo1QnVncGxMSnlnR3l5S3k0MVRmNG5ac29YR3hCVzJzUWZ3b1E0X2VBM05SMmhhN0pvNWdrRHdST2xwT0tOYVBDNG5NVGNCY2xrVVRQd242aFVnU0E1MGl3RTd1WGhKdFJmMDlmOFF5cXRydExFQlhxYlRMeGVtVnp0MEw0WEswMkt3TVJ1MHJUWWpZb2JCclFlNHM3RU9iTkFyRDlvd0trRjJ2eUxSZ3l5OGlodWdudzR3ZUdZNA?oc=5",
-   "source": "Cyprus Shipping News",
-   "published": "2026-10-15T02:47+00:00",
-   "added": "2026-10-17T19:49+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "konecranes",
-    "shipping",
-    "terminal"
-   ],
-   "summary": "Eurogate orders four automated stacking cranes from Konecranes for its terminal in Wilhelmshaven, Germany Cyprus Shipping News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4d5c226f1321",
-   "title": "Shipping Stocks Rally as KOSPI Plunges 14% on Surging Freight Rates",
-   "original_title": "Shipping Stocks Rally as KOSPI Plunges 14% on Surging Freight Rates",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaRlhFeFh0VFV5WV9QUkZOWHhWSkZJblBvUE9jbkhUWnlweWdTQy1qa2RiSUd1UEk4d0ItMVIzOWpNRFlIeWRUUGNMRmlGWWl0a0VfTnNEbDUzbi1uVEF4S21zZV9JUHNOUFkzU3M0RnNtaUJV?oc=5",
-   "source": "Businesskorea",
-   "published": "2026-10-15T02:45+00:00",
-   "added": "2026-10-15T15:58+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "freight rate",
-    "shipping"
-   ],
-   "summary": "Shipping Stocks Rally as KOSPI Plunges 14% on Surging Freight Rates Businesskorea",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "21cba1243274",
-   "title": "construction steel social inventory shifted from increase to decline",
-   "original_title": "construction steel social inventory shifted from increase to decline",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNREE0OHhTd2xJTFBBTExfNm42V2ZKVF91b2R2VFFKWFhBRUJtRXYwbTdNa01qak5KWmJEZUVqTXFPd215MWFuQm1uYXNQQnZpZ3FSek9QUFZEQWd2cFg5b1dfM3dIQnhfRmNvcHhybjZiTHBsTmdEeUFSOFU2SDJieXZFYzc4SHJfakpranRrVHZIVkpfMHQ4VUt4cWh6ZERQY0hubGExRm1mbU5TaVJwN0hrQQ?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-15T02:45+00:00",
-   "added": "2026-10-16T10:54+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "inventory",
-    "steel"
-   ],
-   "summary": "construction steel social inventory shifted from increase to decline Shanghai Metals Market",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "45fb7535ce3d",
-   "title": "US, Iran must agree to Hormuz fertilizer plan",
-   "original_title": "US, Iran must agree to Hormuz fertilizer plan",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0dzB0THY5UFdwTk1EMksyLUdQak1fa2xiSE5WbkJwb2Y5clVzanE2cFZYVmRPb3pVNi1BT3ZDWVBtU1BrU1dscmpXblN6YzNHYldTVGQxNkFrYnFsckZZ?oc=5",
-   "source": "The Jerusalem Post",
-   "published": "2026-10-15T02:32+00:00",
-   "added": "2026-10-15T02:51+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "fertilizer",
-    "hormuz"
-   ],
-   "summary": "US, Iran must agree to Hormuz fertilizer plan The Jerusalem Post",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ddf7fe28ca12",
-   "title": "Port of Hamburg Marketing celebrates Czech handover of leadership at the Port Evening Reception in Prague",
-   "original_title": "Port of Hamburg Marketing celebrates Czech handover of leadership at the Port Evening Reception in Prague",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOb2hmUENlU052cjVXNDcyM01tUEJNYUZQSzYyTUNCaXNNbXMxZGRMTVNkQnRGNTJ3VnJxczVoVk5udklCSkFEM3B2NXhZcUxZVGxKWjltU1BsenpXR0RqcGM2ekxkNHFuQVh5bjZwME9LMDZpSEZtbGwtNkQ5MVNyaHZQNlY0a0pRYzRibHFhQmlGcDFkbXlKWUdIUThMMUdwd1BNdGRIME0wMjJKdEJxV0pyc3JCZXFNbUpHVVFkQnFiZ20tRE84T2d1NGFRWndTc3RpUldMbXQxX1VNM21OREZB?oc=5",
-   "source": "Cyprus Shipping News",
-   "published": "2026-10-15T02:32+00:00",
-   "added": "2026-10-15T03:19+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Western Europe",
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "hamburg",
-    "port",
-    "shipping"
-   ],
-   "summary": "Port of Hamburg Marketing celebrates Czech handover of leadership at the Port Evening Reception in Prague Cyprus Shipping News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0744d299d9f0",
-   "title": "Brazil eggs cost $33 for 30 — but shipping and tariffs ran 7 times higher",
-   "original_title": "Brazil eggs cost $33 for 30 — but shipping and tariffs ran 7 times higher",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mNWlaNjFfZlZBMXpxOUlQelZFN0E2UUN0ZUdhZ2t1SUVSQ3VLVWlxZnpyWTU4NENraHR2STk4Mkl2NEtCS2lFUldxREhldGVmT3ZOYTQ5NA?oc=5",
-   "source": "헤럴드경제",
-   "published": "2026-10-15T02:10+00:00",
-   "added": "2026-10-15T09:35+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "shipping",
-    "tariff"
-   ],
-   "summary": "Brazil eggs cost $33 for 30 — but shipping and tariffs ran 7 times higher 헤럴드경제",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   }
  ]
