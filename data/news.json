@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T18:08+00:00",
+ "generated_at": "2026-10-19T18:52+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -38,6 +38,33 @@
    ],
    "summary": "India scraps coal import mandate amid high prices and weaker rupee MillenniumPost",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2e63031468a2",
+   "title": "PortMiami launches Transshipment Committee with U.S. Customs and Border Protection",
+   "original_title": "PortMiami launches Transshipment Committee with U.S. Customs and Border Protection",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSDlOY0JBckNYdmdsVUVaaVZxRVFTcmpWWEp3YTRjakhxczFFdGhRaGlPd3VxRXFfX01lZ2dBZjhKZGgwbVBnQktiWDExVXN6WTJtY0R2b0xreHFpa1c3RWN4bl9xd0Z3eTVYbVdaSzZPUi00SDczYlRqd3lEcVB4WTBWUUpZMkxzRGNKMnlMY0JVNThjOHpaQ1hhc1ZJSVdQR2NMT0prNGtYVjg5UWhkYmJZeUxtU2pDd296RWNRZTllb2FLZHNkYmd6YnkzQTJwX2hB?oc=5",
+   "source": "Data Portuaria",
+   "published": "2026-10-19T17:30+00:00",
+   "added": "2026-10-19T18:52+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "ports",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "customs",
+    "transshipment"
+   ],
+   "summary": "PortMiami launches Transshipment Committee with U.S. Customs and Border Protection Data Portuaria",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   },
   {
@@ -182,6 +209,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "4e4bc9f747f7",
+   "title": "Ranked: The World’s 30 Busiest Shipping Ports",
+   "original_title": "Ranked: The World’s 30 Busiest Shipping Ports",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcG11Nm9YdXRpSTNyRkt5UVpvbXlXQlNxN0lpM0hlM1FuWUxqVDVCVldpZmR4dVdHbU9QTWIyQ1BtUHVRQUppTWVUNU9CR1NNMUE5elVZWDdaV0d6Y1ZTN2N2V3B2WWYwNFZXOW1QRnhXTU1WSU9uOF90aDNnd2pnYw?oc=5",
+   "source": "Visual Capitalist",
+   "published": "2026-10-19T15:45+00:00",
+   "added": "2026-10-19T18:52+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "shipping"
+   ],
+   "summary": "Ranked: The World’s 30 Busiest Shipping Ports Visual Capitalist",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3d9212dab068",
    "title": "Katoen Natie electrifies cargo handling at its Antwerp multipurpose terminals",
    "original_title": "Katoen Natie electrifies cargo handling at its Antwerp multipurpose terminals",
@@ -232,6 +287,32 @@
    ],
    "summary": "China pulls out of $392 million Sri Lanka port project: Is this an opening for India in its own backyard? Moneycontrol.com",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "eb6caccd63c7",
+   "title": "Maersk Ethanol Bunkering Opens Potential New Corn Market - RFD-TV",
+   "original_title": "Maersk Ethanol Bunkering Opens Potential New Corn Market - RFD-TV",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3A0cmhaSmRxeVp1OFk0T3NDcTJfR3FBNUZaOEZJNnRrYlJGb29iRGJQZDhlQ25YYkR1UW9TQU80M3ZvWXY1VlUyaE5EZHRDQmZzVEdDb0dXTnVIYnQxTy1SS25QZ0JoNVBoc1NJXzMyb2RsNVZrYW1kd09hVGhscmdyNzU?oc=5",
+   "source": "RFD-TV",
+   "published": "2026-10-19T14:53+00:00",
+   "added": "2026-10-19T18:52+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "bunker",
+    "corn"
+   ],
+   "summary": "Maersk Ethanol Bunkering Opens Potential New Corn Market RFD-TV",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16473,93 +16554,6 @@
    "summary": "US threatens to punish Spanish shipping over Israel port ban TradeWinds News",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
-  },
-  {
-   "id": "e3c791f39a37",
-   "title": "Record tanker rates could see US roll back sanctions on \"shadow fleet\"",
-   "original_title": "Record tanker rates could see US roll back sanctions on \"shadow fleet\"",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR0s5RktabjRrd05lU2ZLSWJFNlRUeVRrWGxlRzczRExmWDJJTzhLUUpJUEYyOWNvWWJranFZdUUxWktjbHFhTTVPLTVoZnBLZ0taN3J0OUJTUERNMkgzMDdLUEl4OG4yMjBab3JCeV81aVJXaFdiZFdKVC1FS0JvZGJBWGVXN2E3NU56M1k4UVhiX0pGbzVzOE4xV0ROYjRnSjVwbGk5enN1aTQ4MXpUR1h5NnROUdIBwwFBVV95cUxPUDdGWlNuYlVTNHRIcWtCeE9SWWhjaUR6MXlhbFpfLUpYLWxNZlkzaXlCTnptUTV1MExoSHRfTWpGQk9NdkVaNmZPUXhNdkJZaDFUZWh1ZWZWVGV5MXNlU1JfNnJHb041cEZsRTFWczlyYjZPVENXeGdhNDduOFRINUIzT3U0OXMzZVQzNzY4d1N1UmpVdXlaQkZid2JhVm5pVU5ZQnJFOXpDbnV5a29OejZWVXdoZEFEczBUdkRKU2JhdlU?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-10-15T10:10+00:00",
-   "added": "2026-10-19T04:04+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "fleet",
-    "sanction",
-    "shadow fleet"
-   ],
-   "summary": "Record tanker rates could see US roll back sanctions on \"shadow fleet\" Baird Maritime",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e9609dcc91e5",
-   "title": "Ukraine corn exports up 76% as grain exports fall in 2026/27",
-   "original_title": "Ukraine corn exports up 76% as grain exports fall in 2026/27",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVEMwWUNoUDBmc2oxSmNQTm1PTzJ6dzZWc1Juck13eWZmU3hyQnBmb1FLZjV3ZVI0X2R5MlhEZjh5NFJVU0FjSHFQTDdzOG1mYlRJVnZrUmRPdFBPSHc5a08tbUdueURENmZDcXhRRXJlbnc4ZzQ1cC1UbFdCZ2Q4QjV2c3kzV2RRZ3ZORVFB?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-15T10:07+00:00",
-   "added": "2026-10-15T14:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "corn",
-    "grain",
-    "ukraine"
-   ],
-   "summary": "Ukraine corn exports up 76% as grain exports fall in 2026/27 CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bb4f40304aa3",
-   "title": "Jinhui cashes in on veteran bulker",
-   "original_title": "Jinhui cashes in on veteran bulker",
-   "url": "https://splash247.com/jinhui-cashes-in-on-veteran-bulker/",
-   "source": "Splash247",
-   "published": "2026-10-15T10:04+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Baltic & Nordics",
-    "Asia"
-   ],
-   "tags": [
-    "bulker",
-    "dry bulk",
-    "fleet",
-    "shipping",
-    "supramax"
-   ],
-   "summary": "Hong Kong-based dry bulk owner Jinhui Shipping and Transportation has agreed to sell another ageing supramax, continuing its fleet renewal drive with a $14.6m deal involving a Hong Kong buyer. The Oslo-listed company, majority-owned by Hong Kong-listed Jinhui Holdings, has signed a memorandum of agreement to offload the 2007-built, 55,496 dwt Jin Xing to Heng Fa Shipping, a company ultimately controlled by He Zhixiong. The vessel is expected to change hands between October 20 and November 30. Jinhui has owned the bulker since it was built. The company expects to book a gain of approximately HK$52m ($6.7m) on the disposal, based on the ship’s carrying value at the end of August. The disposal follows an extended period of fleet reshaping by the Ng family-controlled company, which has been selling older supramaxes while investing in larger, more modern ultramax tonnage. Jinhui currently operates 19 bulk carriers, including 16 owned vessels and three chartered-in units. The company said the latest disposal would help reduce short-term borrowings, settle outstanding liabilities and provide additional liquidity.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
