@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T23:18+00:00",
+ "generated_at": "2026-10-19T23:51+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,39 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "e16d119a7a81",
+   "title": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
+   "original_title": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
+   "url": "https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/",
+   "source": "gCaptain",
+   "published": "2026-10-19T23:33+00:00",
+   "added": "2026-10-19T23:51+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics",
+    "mna",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crude",
+    "fleet",
+    "sale of",
+    "sanction",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "A drone view shows the Russian-flagged tanker Bratsk, which is under U.S. sanctions for links to the Russian state-owned shipping company Sovcomflot, near the Baniyas oil terminal, in Baniyas, Syria, April 8, 2026. REUTERS/Khalil Ashawi The Trump administration is authorizing the sale of sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude, US Energy Secretary Chris Wright said. “We are converting dark tankers to legitimate tankers,” Wright said. Wright estimated that there are about 1,600 vessels in the global “dark fleet” of sanctioned tankers. The Trump administration’s effort to convert those into lawful ships could ultimately add “dozens” or even “hundreds” of tankers to the legitimate fleet, he said. More than 40% of the world’s fleet of about 850 very large crude carriers are now either in the Persian Gulf or within a couple of days sailing time from it, according to Signal Ocean, a shipping data provider. In addition, Wright said during the wide-ranging interview that part of the reason the Trump administration agreed to work with Russian President Vladimir Putin to release the country’s diesel supplies into global markets in a widely criticized move was to provide an incentive for the Kremlin to end the war with Ukraine.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "8925db91a018",
    "title": "The AI forwarder of the future",
@@ -37,6 +70,32 @@
    "summary": "“Innovation and productivity are at the core of what we do.” That was the slogan by a global TMS provider in 2016. In the rear-view mirror, most of the innovation has barely moved the needle from a top-down perspective. Productivity of 40 to 60 files remains a common market result. Based on our own experience from building Forto and working with many of the leading global forwarders, we reviewed end-to-end processes of up to 100 steps each: the time each requires, its automation potential, and the time that remains manual: the automation estimates came out up to 82%. We see an evolution of the sources of AI automation over time currently (see graphic). Coordinating activities that carry their own process knowledge and, hence, deliver customer value beyond (month 18 and beyond): These build on the first two, but they also need an understanding of the process itself, plus the judgment to run it. In a tender where $10 on a submitted rate card decides on the actual nomination, a cost advantage of $50, $70 or $100 per file changes the ability to price Profitability . We found in a recent analysis that up to 30% of relevant customer information comes from the customer’s context, such as SOPs, the actual eMail or documents.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "6c27cdda0b39",
+   "title": "European coil and green steel round-up: EU coil largely stable on slow apparent demand",
+   "original_title": "European coil and green steel round-up: EU coil largely stable on slow apparent demand",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREJhVlh3ZE12UVljM0pQMGRaaFdtUC1iUHBrWHlRc00xZWRWWnNSa2prRzdORmpMRnpaSnMya0xPMlhEVFN3THpvc2RuaVZJcVBENG5sWDFhZ3RIVW1tRjlxdGt0WDFoWmtQVm5RdE5wRjJlUUhkdUJHWld4VXQ2UHM4ZUdTUDJxa3VQbVREVzgzSHJ3c1RDVXg5TzlYQktXTTdEbVNJRG5tc2V5?oc=5",
+   "source": "EUROMETAL",
+   "published": "2026-10-19T22:34+00:00",
+   "added": "2026-10-19T23:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "steel"
+   ],
+   "summary": "European coil and green steel round-up: EU coil largely stable on slow apparent demand EUROMETAL",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "997b1866821b",
@@ -16481,66 +16540,6 @@
    ],
    "summary": "Iron ore prices move up slightly after two-day rebound Yieh Corp.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5e17a3392a74",
-   "title": "UK port volume growth not due to EU shippers avoiding ETS, says BPA",
-   "original_title": "UK port volume growth not due to EU shippers avoiding ETS, says BPA",
-   "url": "https://theloadstar.com/uk-port-volume-growth-not-due-to-eu-shippers-avoiding-ets-says-bpa/",
-   "source": "The Loadstar",
-   "published": "2026-10-15T12:19+00:00",
-   "added": "2026-10-15T12:37+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "regulation",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Western Europe",
-    "EU institutions",
-    "Africa"
-   ],
-   "tags": [
-    "ets",
-    "eu ",
-    "port",
-    "ports",
-    "rerout"
-   ],
-   "summary": "UK lobbyists today pushed back at attempts to have the EU designate the ports of Felixstowe, London, and Southampton as “neighbouring container transhipment ports”, in the ongoing question of whether shippers are rerouting cargo to avoid ETS scheme charges. In July, the EU ETS Observatory – developed by Spain’s state-owned ports administrator Puertos del Estado as a way of monitoring “carbon leakage” from its transhipment hub of Algeciras to Morocco’s Tanger Med after the introduction of EU-ETS at the beginning of 2024 – published a report which appeared to suggest that the container volume growth seen in UK ports during 2025 was the direct result of shippers seeking to minimise EU-ETS charges. It had led to a “reduction in the connectivity of container traffic for long-distance services operated at EU ports, compared with neighbouring countries not subject to European environmental regulations, measured in terms of the teu-mile parameter”. However, the British Ports Association (BPA) today argued that 2025’s volume growth seen at the UK’s three main ports was caused by a combination of new capacity coming onstream at London Gateway and the reorganisation of the deepsea shipping alliances that took place at the start of the year.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "ca4b2f44d40a",
-   "title": "[SMM Analysis] CBAM Costs and Emissions Data Reshape European Procurement of Indian Steel",
-   "original_title": "[SMM Analysis] CBAM Costs and Emissions Data Reshape European Procurement of Indian Steel",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQnNYVzBqeXlDeXVKY21hSVZ1TGpHc1Viczk5Vy00VXRVQVBiQlhwY3c5X3QxMS1QdUFaSzdiOUhyWl9BUEVJY01JdkJ0bUI2NFFHMjdWaW5fZ1JuV1lnNXNENFNWaEFYSkVqQjhORWI0c0JHMmJCdTByY1l2MWpzR1hWWUpwZTFLM1E4OVo1RGpKd3VlSjlwSmZPLUthd0hJd3NKeUpwSGVldDFfT21pNDNKSzl3ejJPeVNqN1J0RUJ3Rk4xVDNGY0U2SHc?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-15T12:14+00:00",
-   "added": "2026-10-15T13:22+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "cbam",
-    "steel"
-   ],
-   "summary": "[SMM Analysis] CBAM Costs and Emissions Data Reshape European Procurement of Indian Steel Shanghai Metals Market",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   }
  ]
