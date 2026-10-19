@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T13:00+00:00",
+ "generated_at": "2026-10-19T13:49+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -38,6 +38,58 @@
    ],
    "summary": "deugro moves 42 OOG units from UAE to Poland Heavy Lift & Project Forwarding International",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ec746df5ced8",
+   "title": "ProRail awards Port of Rotterdam yard redevelopment contract",
+   "original_title": "ProRail awards Port of Rotterdam yard redevelopment contract",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTDc5YXhJeHEzMTFCcURReDhFNlpiN1JpTmttNVFCazFxWlpFMEpxck1xZ0RqRFo3TVVQZHV5YngwaEd4U0MydEdmd2pBUURxbXJaXzZNdXJId1BJTjhXampCMzhkVDl2bDJ2NGNSREhBVEs4Mkx4cUt4dWhQcW52X2tOZ0pRR01lbGZyaWFJczR4Wmd4Qkl1c01faER5UVlmTGU3XzhNNjJoaS1D?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-19T12:17+00:00",
+   "added": "2026-10-19T13:49+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "ProRail awards Port of Rotterdam yard redevelopment contract Port Technology",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8590d1ad9b7e",
+   "title": "APM Terminals to remain at Salalah as Oman overhauls concession structure",
+   "original_title": "APM Terminals to remain at Salalah as Oman overhauls concession structure",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQU1aem1CTzVONzRqZ3lfYzJOTE5QQkpUTkJWUk4tcEExLUtETjByMEdoM0ZmVTJxLXBkSE5XZzk0Y2FOTVZ5WEc1eW9QVW9RdjhSXzVlMVNNS2ltM2Q3S3VERjRJcmZVRUthdGJhZk9xVDJSZmV6bFZXNHU4UlBoVWdkQS1CYzA?oc=5",
+   "source": "Splash247",
+   "published": "2026-10-19T12:15+00:00",
+   "added": "2026-10-19T13:49+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "ports",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "concession",
+    "terminal"
+   ],
+   "summary": "APM Terminals to remain at Salalah as Oman overhauls concession structure Splash247",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -1332,6 +1384,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "944176a58fd7",
+   "title": "Stegra selects three logistics partners in Germany, Belgium and UK for steel deliveries",
+   "original_title": "Stegra selects three logistics partners in Germany, Belgium and UK for steel deliveries",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORGJOUmlHLTlRNXlJNUg5R3ljN0tfbDVoUHV4WTRlc2tBbnUyZGRpejYyMGFGQk0waFM5QXBadm5aME0tVTRHc3pPcmtqZXRrUzJRam5FbUFTNGRNU2E0a01lYzF5aWNrYmxNMDh1R1g1NEVMRGJYM2NibFJMYmFDVXo5Q0hwXzhTaks4VDJxeHlad3BmemxLYjFwYzJEN21Ea2Z4UHlUZHVNU196MFNzQTlIODRwcEZVRGMtVWpvU0ItUjRzVk9aREkzRzhialBjaWEzUE1uZ3Fld29FeXZ1My13?oc=5",
+   "source": "SteelOrbis",
+   "published": "2026-10-19T07:37+00:00",
+   "added": "2026-10-19T13:49+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "logistics",
+    "steel"
+   ],
+   "summary": "Stegra selects three logistics partners in Germany, Belgium and UK for steel deliveries SteelOrbis",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b7b823030eff",
    "title": "European shipowners demand bigger share of EU carbon revenues",
    "original_title": "European shipowners demand bigger share of EU carbon revenues",
@@ -1385,31 +1464,6 @@
    ],
    "summary": "Safiport Derince expands electric RTG fleet to 24 WorldCargo News",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "08948fa3cbb0",
-   "title": "Oman moves to replace Maersk-backed Salalah port operator",
-   "original_title": "Oman moves to replace Maersk-backed Salalah port operator",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQU1aem1CTzVONzRqZ3lfYzJOTE5QQkpUTkJWUk4tcEExLUtETjByMEdoM0ZmVTJxLXBkSE5XZzk0Y2FOTVZ5WEc1eW9QVW9RdjhSXzVlMVNNS2ltM2Q3S3VERjRJcmZVRUthdGJhZk9xVDJSZmV6bFZXNHU4UlBoVWdkQS1CYzA?oc=5",
-   "source": "Splash247",
-   "published": "2026-10-19T07:16+00:00",
-   "added": "2026-10-19T08:18+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Oman moves to replace Maersk-backed Salalah port operator Splash247",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16528,59 +16582,6 @@
    ],
    "summary": "Future Fuel Talks: Ammonia bunkering needs customers beyond early adopters – CMB.TECH www.engine.online",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f4fd7cb3e89f",
-   "title": "Azerbaijan, China discuss economic ties, security, Middle Corridor (PHOTO)",
-   "original_title": "Azerbaijan, China discuss economic ties, security, Middle Corridor (PHOTO)",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE05WEYyVEs5SzlFd2l1UUJPYzdhbmJHdTFsb2JuazI4MnNreXg0UUFFTC1WczJfQXpiRTBnLU1rMThfRkNPSXRMUnFOMWJMZEQ4eDFNX2RPRQ?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-15T06:02+00:00",
-   "added": "2026-10-15T14:44+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "middle corridor",
-    "security"
-   ],
-   "summary": "Azerbaijan, China discuss economic ties, security, Middle Corridor (PHOTO) Trend News Agency",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c199c27d19ce",
-   "title": "Investments in Middle Corridor open new opportunities for South Caucasus - Director",
-   "original_title": "Investments in Middle Corridor open new opportunities for South Caucasus - Director",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbzFWdXk0WGtyd3BPVXpQaHFzSTNEOU9IM1IzUXdjUm5OeUxuNGdOdmhadVU4bVM3YVNoTlVoQnJFb1R0ZjNya0RDMXlheUZiWU9WRnF3NlRxQnVBQ3E2TzM4QXlEY3gwR0tuZjNMam1vaWotaXJ1V1NZZUdJZkhSOTZZNG1tczNlRWxTY0Y1QXpQR0FmNjBCNkxjajI5b1p2VmJVZmpFaHdYMHhnV1ZTVXF4OW8?oc=5",
-   "source": "Apa.az",
-   "published": "2026-10-15T06:01+00:00",
-   "added": "2026-10-16T11:26+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Investments in Middle Corridor open new opportunities for South Caucasus - Director Apa.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
