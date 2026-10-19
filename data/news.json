@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T02:12+00:00",
+ "generated_at": "2026-10-19T02:51+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,61 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "f2c459de80f0",
+   "title": "Copper Bulls on the Ropes: Trump's Tariffs Still Missing in Action as Macquarie Warns of a Slide Back to $10,000 a Ton",
+   "original_title": "Copper Bulls on the Ropes: Trump's Tariffs Still Missing in Action as Macquarie Warns of a Slide Back to $10,000 a Ton",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0YVVBUzUyb0RrdEl6b2ppMy11U01TM1lPdXVoYmhUMnNqMEdjZ1EwMGpNaWxZeF8tZUE4Yk9paHNPNGVsVXdkei1GWFJRLWlTWjEyWmZudTUtcURmM3dhbDBzQ0FYaC1XZ3hDamR0UTN1al9tNHc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-10-19T01:25+00:00",
+   "added": "2026-10-19T02:51+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "copper",
+    "tariff"
+   ],
+   "summary": "Copper Bulls on the Ropes: Trump's Tariffs Still Missing in Action as Macquarie Warns of a Slide Back to $10,000 a Ton BigGo Finance",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "84db387f78f1",
+   "title": "Ukraine seeks safe Black Sea grain routes",
+   "original_title": "Ukraine seeks safe Black Sea grain routes",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWllZOElIazFvTW9vVjB0RmFISGZOMHBWeTAwTm53UWM0eTk5bjBORDNYclliR21xY3FGekNqWi10R21zQXMtMmZsZUlrRksyVVZycDlPUjd6SEYtVlJ5Z09VSzh3bG5hSUpLUGlQU2ZocXNJQVVZM3A5VmhkdWdRN01SWjdUbER1aHpGbVNDZGVxdw?oc=5",
+   "source": "Briefs Finance",
+   "published": "2026-10-19T00:33+00:00",
+   "added": "2026-10-19T02:51+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "grain",
+    "ukraine"
+   ],
+   "summary": "Ukraine seeks safe Black Sea grain routes Briefs Finance",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "191141c760e3",
    "title": "Metinvest CEO calls on EU to lift restrictions on steel imports from Ukraine — BBC News",
@@ -16494,64 +16549,6 @@
    "summary": "FMC Proposes Remedies to Counteract Unfavorable Spanish Shipping Conditions Maritime Logistics News",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
-  },
-  {
-   "id": "b6173828ee43",
-   "title": "UK fertiliser prices rise as farmers urged to beat incoming CBAM tax",
-   "original_title": "UK fertiliser prices rise as farmers urged to beat incoming CBAM tax",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTUhhR1RoSUZiMlJFUGw2RkJsZ3psN1ptYmRRNGl2UW5XeTFSNzZHZFJINmdYbnFSV2d5ZTVwVmxUcjViX0d6bXowcnZpUjM0Ul9OME9FeGRQMG90YWF2cGFEbXp3c0U5THptRkt0Z2tkUE8td2ZwN3ljWl9QcTZSMWVmVEZTUldaQnFvTlR6QUFWMW1ZUE9yakVsNVhsbFU?oc=5",
-   "source": "The Scottish Farmer",
-   "published": "2026-10-14T16:00+00:00",
-   "added": "2026-10-15T06:58+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "cbam",
-    "fertiliser",
-    "prices"
-   ],
-   "summary": "UK fertiliser prices rise as farmers urged to beat incoming CBAM tax The Scottish Farmer",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a06a3bf7d784",
-   "title": "U.S. Shipping Regulator Proposes $200,000 Fees on Spanish Ships Over Port Ban",
-   "original_title": "U.S. Shipping Regulator Proposes $200,000 Fees on Spanish Ships Over Port Ban",
-   "url": "https://gcaptain.com/u-s-shipping-regulator-proposes-200000-fees-on-spanish-ships-over-port-ban/",
-   "source": "gCaptain",
-   "published": "2026-10-14T15:56+00:00",
-   "added": "2026-10-14T17:11+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe",
-    "North America"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Shipping containers are seen at the port of Barcelona, Spain, October 3, 2024. REUTERS/Nacho Doce The U.S. Federal Maritime Commission (FMC) is proposing $200,000 fees on Spanish-flagged vessels entering American ports, along with restrictions on billions of dollars in Spanish imports, after concluding that Spain’s refusal to admit certain U.S.-flagged ships has created unfavorable conditions for American shipping. The proposed measures include a $200,000 fee each time a Spanish-flagged vessel enters a U.S. port from abroad, as well as potential restrictions on imports of Spanish cosmetics, oils and fats, ceramics, stone products, and sugar and confectionery. The dispute began in November 2024, when Spanish authorities refused port access to the U.S.-flagged Maersk Denver and Maersk Seletar , both operated by Maersk Line, Limited, over cargo connected to Israel. The regulator said the restrictions undermine the ability of U.S.-flagged ships to compete for cargo moving to and from Spain, while also affecting vessels that could be called upon to support U.S. The Commission has now narrowed its proposed vessel fee to $200,000 per voyage while identifying specific categories of Spanish goods that could face import restrictions. The FMC said the proposed penalties are intended to address shipping conditions created by Spain’s port restrictions, rather than the broader political dispute over the transportation of military cargo to Israel.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
   }
  ]
 }
