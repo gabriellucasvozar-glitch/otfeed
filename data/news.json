@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T16:23+00:00",
+ "generated_at": "2026-10-19T17:02+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,87 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "39be3bd1fc0c",
+   "title": "Oil tanker on fire after hitting mine in Hormuz: Iran’s Guards",
+   "original_title": "Oil tanker on fire after hitting mine in Hormuz: Iran’s Guards",
+   "url": "https://www.hellenicshippingnews.com/oil-tanker-on-fire-after-hitting-mine-in-hormuz-irans-guards/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-19T17:00+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East",
+    "North America"
+   ],
+   "tags": [
+    "hormuz",
+    "shipping",
+    "war"
+   ],
+   "summary": "Iran’s Revolutionary Guards said Monday an oil tanker caught fire in the Strait of Hormuz after hitting a mine, the latest such incident since Tehran tightened its grip of the waterway. Iran seized control of the strait after war broke out against the United States and Israel late February, choking off the vital shipping route which normally carries about a fifth of the world’s oil. The Islamic republic has demanded that all ships seek its authorisation before transiting. “An oil tanker, which was in violation, struck a naval mine south of the Strait of Hormuz, resulting in an explosion and a fire in its engine room,” Iranian state media quoted the Guards as saying. The tanker was travelling in the strait’s “unauthorized southern route” and had disabled its positioning and navigation systems, the statement said. It came a day after the Guards said two oil tankers caught fire in the strait, both after hitting mines. The Guards’ naval commander Admiral Ali Ozmaei warned this week that any vessel that deactivated its navigation systems would be considered “hostile.” The United States has imposed a naval counter-blockade on Iranian oil exports in response to Tehran’s blockade on the waterway. Source: AFP",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "9c1d9685647d",
+   "title": "Bidding Announcement of 4917t Oil Tanker “ZJ2026-0064”",
+   "original_title": "Bidding Announcement of 4917t Oil Tanker “ZJ2026-0064”",
+   "url": "https://www.hellenicshippingnews.com/bidding-announcement-of-4917t-oil-tanker-zj2026-0064/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-19T17:00+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "port",
+    "vessel"
+   ],
+   "summary": "Entrusted by the Sellers, our company (the “Bidding Company”) is scheduled to conduct an online public auction on the Shipbid website ( www.shipbid.net ) from 16:00 to 16:30 on November 3rd, 2026 (Beijing Time) (“Bidding Day”), which is hereby announced as follows: Main Engine: Guangzhou Diesel Engine Factory, model 8320ZCd-4, 1 set, 1765 kW @ 500 r/min; Remark: This vessel is in service. The vessel shall complete its Intermediate Survey within the three month window around 30 May 2027, and its Special Survey prior to 30 May 2029 (The information in relation to the Vessel provided in this Announcement, the Special Provisions and its annexes (if any) is for reference only.) 2.1 This Bidding will be held without a reserve price. If only one bidder registers for the Bidding, such bidder shall be determined as the Buyer on the Bidding Day, with the purchase price being the Starting Price.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "23ece2aa097b",
+   "title": "Fertiliser tax to begin in 2027 at lower-than-expected rate",
+   "original_title": "Fertiliser tax to begin in 2027 at lower-than-expected rate",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVlPc0YzYTllS0E4dEJPSGk3QmhMVWRicEdCcElzTTRJVG5FdHd2Y0Vkczk1RjJnc3lncHk4VFJzcTZ4YzF5UzNoSmdPbzI0RXV4cGtfcXJvVThObEhXYWFWRk03T0dnQmEtZXVhZ2JkWGdJV3ZYcnpsRWlPZkxzVEhiWHp2ZFVOaXZXbXJGcWtRTnFzal9FTloyUHFybWtQdFNTRFZuMHN2V2pja09v?oc=5",
+   "source": "Farmers Guide",
+   "published": "2026-10-19T16:23+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fertiliser"
+   ],
+   "summary": "Fertiliser tax to begin in 2027 at lower-than-expected rate Farmers Guide",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "a73b0e063eff",
    "title": "How are footwear retailers bypassing supply chain disruption?",
@@ -38,6 +119,59 @@
    ],
    "summary": "How are footwear retailers bypassing supply chain disruption? Drapers",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3d9212dab068",
+   "title": "Katoen Natie electrifies cargo handling at its Antwerp multipurpose terminals",
+   "original_title": "Katoen Natie electrifies cargo handling at its Antwerp multipurpose terminals",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1ZSRjZQbXBTZlNjTjUzMDdvaUMxcDVMVXE5N2ZlTXk5VlYzOWNnSFRpc2tzZEIzLUZRbjJBNzJLNlpGVlJRQlQ5MWpUS21YSkFjNW0tcWJVVGxLcDZxdVhSTlVybU9FNFIwd0xiaFlpRlRUaURPc3czM3NnMmZHWDM0eHd6NUhCcDhPMG9sSTRHaTRSd3dlQlRaWU5JYmlsVVF2bkNKMWJlZw?oc=5",
+   "source": "Ship2Shore",
+   "published": "2026-10-19T15:29+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "cargo handling",
+    "terminal"
+   ],
+   "summary": "Katoen Natie electrifies cargo handling at its Antwerp multipurpose terminals Ship2Shore",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "de4cf00d2413",
+   "title": "China pulls out of $392 million Sri Lanka port project: Is this an opening for India in its own backyard?",
+   "original_title": "China pulls out of $392 million Sri Lanka port project: Is this an opening for India in its own backyard?",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONXZ4UzE5WXUzVENUNlJ4T3d1WjlvYU45WE9YYy1aTmREbVE1bFFEX19ES1kzV21tRGo0MzI0UFFjb3otZkxjT1lpSUs3UVBsN2ZTU1FEWHVUVWloTUo5OUpkUUp4YWFxUjVpOTZCcGVIRzhhQUwzODNZMWxQdXdRNkIzd3RWX1V5VlZYbmZ1dlJ4N3ZnRy1VT0ZOOVFWZ3RfQm4yYVVsQXFsRGh1Umx5YWZCMW0xeUEwdURwWHlKMjRrbnY1dEU1VVp0blItSzZoaW52VDJrellHN2Y4THo2UmEzMU1hYlRDblBtZzdmNzfSAfYBQVVfeXFMT2VMczl6RWlxSmJZZ093YkdsYlk1S2VVeUhucmV4Q3FrQXZuaFVodU9LN1d4S0djc0hDektDZ0cwU0d5aEZqem5Sb3Q1UlUwZUlrdkpGU1dOX1h6bTZRZUlCMGlaNzJlWElTajUyYlhZZHNtNmxsTGZ6bkpjT1k3aHFtLTdJYjViSE0yVW1lX3BLemRuMlgtTC1yRGpRay13ZEpDVUN1RC1tT05wY1R2MHNBd000R1UtVjJBUFRDVG0zTkc4eVZxSWdodHAxcjNFN1BUMmt5M0NDb0JnQVNVWUstaWNVVmliX0toaDRJSkRsX21qUF9n?oc=5",
+   "source": "Moneycontrol.com",
+   "published": "2026-10-19T15:28+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "port"
+   ],
+   "summary": "China pulls out of $392 million Sri Lanka port project: Is this an opening for India in its own backyard? Moneycontrol.com",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -180,6 +314,39 @@
    "summary_method": "feed"
   },
   {
+   "id": "76cf268de732",
+   "title": "Oil Prices Fall 2% After Trump Waives Russia Sanctions, but Hormuz Disruptions Keep Brent Above $107",
+   "original_title": "Oil Prices Fall 2% After Trump Waives Russia Sanctions, but Hormuz Disruptions Keep Brent Above $107",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcEFRMEUwSnYtVEo4bGdrMmxQUUxqZGJFcktwbko0bzM5TU5oSWNkVFhMZ0h4ZVdOb1g0MUU4U21HQ0VubV9PMkRQZE16emV2eG1ZR3RHY0V5UktWUmdvbnpFQThIVlhfMFpRTnhIcTVORUVIb0xOUE1WZm9oSjZBWGpqSkNYYXJDcmVSUTlSNVh4bzhDTWdKSlhYLVVaUmVMTEg0blRWNTJYOXQ5Z0tZYkZyNWhIZ3QxbkNwQ2FoZ0VwOTA?oc=5",
+   "source": "Coinpaper",
+   "published": "2026-10-19T14:16+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 14,
+   "regions": [
+    "Russia & Belarus",
+    "Middle East"
+   ],
+   "tags": [
+    "disruption",
+    "hormuz",
+    "oil price",
+    "prices",
+    "russia",
+    "sanction"
+   ],
+   "summary": "Oil Prices Fall 2% After Trump Waives Russia Sanctions, but Hormuz Disruptions Keep Brent Above $107 Coinpaper",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "00654edf37ba",
    "title": "India Shelves Import Plan to Tackle Diminished Coal Stockpiles",
    "original_title": "India Shelves Import Plan to Tackle Diminished Coal Stockpiles",
@@ -233,6 +400,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "0b2005ac0e96",
+   "title": "EU Butter Market Analysis October 2026: Milk Supply, Costs and Prices — CMB News",
+   "original_title": "EU Butter Market Analysis October 2026: Milk Supply, Costs and Prices — CMB News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNampyNl9hSGZHOWFBVkZZeWZ1ZGxBNnEySUU4V3dGdmIzM05DNHU0aDFZblNtaGdpa2VMVzQxX2RPY1UxeWpXdU9zcXRER09PYWVnMER0UDExYWJxdURyWFZlMVNSYWFTWnJ2RnBRV1JmeTdrMWFKbGg4bWhhWEp3clp5eFRQNWdtUjJVeWhSS1dRbThVY1lMZFA3dzAwdw?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-19T13:51+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "prices"
+   ],
+   "summary": "EU Butter Market Analysis October 2026: Milk Supply, Costs and Prices — CMB News CMB News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "5243a414e2d3",
    "title": "Japan notes Middle Corridor’s key role in transport diversification",
    "original_title": "Japan notes Middle Corridor’s key role in transport diversification",
@@ -282,6 +475,31 @@
     "prices"
    ],
    "summary": "Uncertainty Surrounding Indonesian Supplies and Declining Chinese Production Drive Up Thermal Coal Prices in Asia صحيفة مال",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "91bc5f23ccef",
+   "title": "AAL completes nine-voyage steel bridge transport solution",
+   "original_title": "AAL completes nine-voyage steel bridge transport solution",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbjRyck1TNVNCMFpUNE5MT0Mwako1WUdFRklqWjBRbnhJWFJVZ0RaQWpjNXJ0U1F6bDZnUkVsVTJ1SkRJb2ptUXM0U0pTbC1JZlpSZ2J1UnRlTkpublVDWlZfTGxoXzZ5bk04eUNOQXI4RWktSTlMd1hmS1hkLTlfRnBOaUpiQmZtOTFz?oc=5",
+   "source": "American Journal of Transportation",
+   "published": "2026-10-19T13:33+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "AAL completes nine-voyage steel bridge transport solution American Journal of Transportation",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -2443,6 +2661,35 @@
    "summary_method": "extract"
   },
   {
+   "id": "5e7462af9514",
+   "title": "Oman confirms end of Salalah Port concession in 2028",
+   "original_title": "Oman confirms end of Salalah Port concession in 2028",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVjRHYnE2bkw1NVpiVzZsaWJQQTlqbnFuTmtJTVo2UGVLVkhsNzZzX01kXzUzalNKRDB3cGZUUWpDSnN6Q29wdUlzTFE1TVBZSUhjUW1fQm92TTBWdHczYnR6NVZhQjU3UTBUVFl4b0d3bjJfTHNRVzBuUTVFd0xacVJZekx1aXZHUDEyZThiQ05uR194bC1SQQ?oc=5",
+   "source": "Logistics Middle East",
+   "published": "2026-10-19T07:37+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "concession",
+    "logistics",
+    "port"
+   ],
+   "summary": "Oman confirms end of Salalah Port concession in 2028 Logistics Middle East",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "944176a58fd7",
    "title": "Stegra selects three logistics partners in Germany, Belgium and UK for steel deliveries",
    "original_title": "Stegra selects three logistics partners in Germany, Belgium and UK for steel deliveries",
@@ -2496,6 +2743,34 @@
    ],
    "summary": "Ukraine wants to export grain to India via Black Sea NewsBytes",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a37878271f8c",
+   "title": "Freight Forwarding Market to Reach USD 266.7 Billion by 2033, Driven by Digitalization, AI and Sustainable Logistics",
+   "original_title": "Freight Forwarding Market to Reach USD 266.7 Billion by 2033, Driven by Digitalization, AI and Sustainable Logistics",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQS1XOHo0a1pBdm9EWDdPeEQzeWNURkxPSWF6RUcxa1k2WnNodndhUVN4TXFnbjNmVTRJNWhGV2lPVE1nQkZqS2lBUHVQMUw3RE9pQVQwY0ZJT21iRVc0ejZ6YzUwUnExanZBUUxYUEM1LUxqdHEzdFZYd3A2b1BUcS1ub0tKZ2tiMlhVbWJReHBGdnRRQkNFU0FrQnA?oc=5",
+   "source": "openPR.com",
+   "published": "2026-10-19T07:33+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "digitalization",
+    "forwarding",
+    "logistics"
+   ],
+   "summary": "Freight Forwarding Market to Reach USD 266.7 Billion by 2033, Driven by Digitalization, AI and Sustainable Logistics openPR.com",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -2799,6 +3074,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "ce2ba20cedd4",
+   "title": "boAt Strengthens Its International Growth Push, Expanding into Sri Lanka and Bhutan",
+   "original_title": "boAt Strengthens Its International Growth Push, Expanding into Sri Lanka and Bhutan",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWJSaTBBUHZsMzhjWnZ6LUdabS1jZDVta2dSeWtVTHlYNTNNbWt0eTNiZkJiR1h1M3lUZUdGWi03ajZqajRwM3QxQnJHUnB4dkVOR1Z4VHZIZWRNbllYZnpDUi1ERF9PSkk0WnkyRllTNWpRZHI0c0ZDUVdHUmM2QWhLV1JHRXAwZ2pjXy1TRzh4aWpUU3Z2ZWZ1Mmd5UVI0S2pERWlwNUFDYTByZy03N3F3MFNDdW05LVl3Yk85X0hWd9IBzwFBVV95cUxOdzdEcTV3Vjg3YXJyZmptOU15amZqT25Tb1hILW1WaDhtUUFEX1M4Z29xdkVaTURncUZycFFOZEprMTZrb3d3WDNUejNsaTlrQmdoNFNHQm1GT0hYazI1VWg0U3pYWlRqanhkMGdqU1BFUmhfMUlYbFh0NUJBUEpIa1RyMXYyVnJ0UVZMWFhnVG9pdHlIR0hNeWlNVWZSTmU4dXROUXdURlJUdTFPRkFNZ3ExV2ZTMlQ1dFRteXBzb0RNTG5lWnk0SW9CNzJ4cUk?oc=5",
+   "source": "digital terminal",
+   "published": "2026-10-19T06:09+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "boAt Strengthens Its International Growth Push, Expanding into Sri Lanka and Bhutan digital terminal",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e747ebc2d298",
    "title": "Grain Exports via Constanța: Logistics and Costs | Cezar Gheorghe",
    "original_title": "Grain Exports via Constanța: Logistics and Costs | Cezar Gheorghe",
@@ -2848,6 +3148,33 @@
    ],
    "summary": "India Crane Market to Reach US$2.2 Billion at 7.6% CAGR by 2033 | Persistence Market Research openPR.com",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e95805ad8408",
+   "title": "Spain renews diesel locomotive subsidies with an additional €3m",
+   "original_title": "Spain renews diesel locomotive subsidies with an additional €3m",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONDhJMkxhb2p2ZjdIajVfOUE5R0pGTVc2RmktWndQUzdWeTBteUp6M2pWaXFiSlFRc3pWZlQwd0dVQTc4R2ZxTVZNODkyUDFQQUZQaGQ1cWYwTFlJM1NkczhURkU3QTBLc1pGS1pab3hNS1FsYVZ6d3NhbnpEWWQ2OFRqODJtQThOMGVwWVQ2Mm5pUENONXM3ZG1mUkRzUzdsS0dUYzJQOXRjQVpjdkNF?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-19T05:58+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "rail",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "diesel",
+    "locomotive"
+   ],
+   "summary": "Spain renews diesel locomotive subsidies with an additional €3m RailFreight.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -8414,6 +8741,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "a62730abc092",
+   "title": "A.P. Moller Capital agrees takeover of port operator",
+   "original_title": "A.P. Moller Capital agrees takeover of port operator",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCSERxVWJhUWxzNzg5eVFUMWlwREpSb1Zhem9kNlJEMXRjZjk1OHhSN1NRSFRjTklodDJ3blZDeDdJMGlQSXpvUm1IWGdIR3R0YWl3b0FNVVNKdmZfSXRvVFM5bU1QTU0ySUVoSG03VFVWSHc2YjMzMVkwN3g?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-16T14:11+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "takeover"
+   ],
+   "summary": "A.P. Moller Capital agrees takeover of port operator Port Technology",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "632673bc63ed",
    "title": "Can Indian Steelmakers Bite The Green Steel Bullet?",
    "original_title": "Can Indian Steelmakers Bite The Green Steel Bullet?",
@@ -8703,6 +9057,35 @@
    ],
    "summary": "DP World Backs $150 Million Maputo Port Expansion as Mozambique Eyes Bigger Role in Southern Africa’s Trade pan african visions",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "de6579b2793f",
+   "title": "Capesize Shipping Rates Dragged The Baltic Dry Index Lower",
+   "original_title": "Capesize Shipping Rates Dragged The Baltic Dry Index Lower",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRE0tcVExcHdMUjUyMkJwSzktSW9uT0Zuc3dUMDZPN2ZhSzkyT1lRQ3BaLS1Vb3JPMU9NZGRzZXFZSWJ2VWtaSmFFVkZMSEY1UEhXUFBCaklFRGtuRDUwOU1nRWRweV9acjRDbGQ2U3ZlQVBXUmdwR3NNWEZZOHJPSDdwZFh3TXVLb0E2S2xyb00?oc=5",
+   "source": "Finimize",
+   "published": "2026-10-16T13:20+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "capesize",
+    "shipping"
+   ],
+   "summary": "Capesize Shipping Rates Dragged The Baltic Dry Index Lower Finimize",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -13654,6 +14037,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "f101ebf1a26b",
+   "title": "Port Polska: 36 obiektów za ok. 117 mln zł netto. Podpisano 18 umów",
+   "original_title": "Port Polska: 36 obiektów za ok. 117 mln zł netto. Podpisano 18 umów",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGhadUZtR1BGaUFENzhwcE1wRkRSWnZaQkszbXRxNzRYT2RNRTB0bVk2ZVNHLTJlbWlYRE9nS3B6Z2hEb2RxOWV5UGhYOEhsUkV2Xy1YNUFvTXhiSnlVclBmYzl5dW9JV19XRDJuRWJyYWU4SXJBREJsZFdDbENXTEZxaWJvMDJFRjNCZjNlMzRZZ3Nqck9SQ2xn?oc=5",
+   "source": "InfoBus.pl",
+   "published": "2026-10-15T16:45+00:00",
+   "added": "2026-10-19T17:02+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Port Polska: 36 obiektów za ok. 117 mln zł netto. Podpisano 18 umów InfoBus.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "1162f475617e",
    "title": "*Call for Resilient Regional Transport Systems: Iranian Minister Champions Digital Integration at the New Silk Road Forum*",
    "original_title": "*Call for Resilient Regional Transport Systems: Iranian Minister Champions Digital Integration at the New Silk Road Forum*",
@@ -16145,428 +16555,6 @@
    ],
    "summary": "DP World sets 2028 deadline for Constanța yard electrification and OPS works WorldCargo News",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c85ab4aa8a2d",
-   "title": "Middle East war lifts VLCC rates, spurs global replacement orders",
-   "original_title": "Middle East war lifts VLCC rates, spurs global replacement orders",
-   "url": "https://www.hellenicshippingnews.com/middle-east-war-lifts-vlcc-rates-spurs-global-replacement-orders/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-15T10:00+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "high",
-   "score": 20,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "carrier",
-    "charter",
-    "crude",
-    "freight rate",
-    "hormuz",
-    "houthi",
-    "shipping"
-   ],
-   "summary": "Freight rates and charter fees for very large crude carriers (VLCCs) that transport crude oil are soaring as the Hormuz Strait remains closed for an extended period due to the Middle East war and as Iran-aligned Houthi rebels attack Saudi Arabia. With the VLCC market booming, there is an outlook that shipping companies could increase new orders to replace aging vessels. According to the shipbuilding and shipping industries on the 14th, the average VLCC rate in the first week of Oct. shipbroker McQuilling, as of February this year, the global VLCC fleet totaled 851 ships. Clarksons Research counted the VLCC fleet, including ultra large crude carriers (ULCCs) of 320,000 DWT or more, at 912 ships. In the shipbuilding and shipping industries, VLCCs 15 years and older are classified as replacement targets. Therefore, considering the time it takes to receive a new ship, orders to replace vessels 15 years and older are expected to ramp up. According to Clarksons Research, ships 15 years and older account for 42.6% of the VLCC fleet. IBK Securities estimated VLCC replacement demand at about 130 ships, excluding already ordered volumes.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "4e79db575efe",
-   "title": "Oil prices sink on report of easing U.S. sanctions; IEA release plans in focus",
-   "original_title": "Oil prices sink on report of easing U.S. sanctions; IEA release plans in focus",
-   "url": "https://www.hellenicshippingnews.com/oil-prices-sink-on-report-of-easing-u-s-sanctions-iea-release-plans-in-focus/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-15T10:00+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "crude",
-    "fleet",
-    "oil price",
-    "prices",
-    "sanction",
-    "shadow fleet",
-    "stockpil"
-   ],
-   "summary": "Oil prices fell sharply on Thursday after a report showed the U.S. considering easing sanctions on oil shadow fleets. Focus was also on an upcoming meeting of the International Energy Agency on Thursday, which is likely to dictate the speed at which Europe will release more oil from its emergency stockpiles. Oil was also pressured by anticipation of an IEA meeting, where the agency is expected to clarify recent comments from member states regarding an additional 100 million barrel release. IEA members had earlier this year pledged to release 400 million barrels of oil from emergency reserves, due to the U.S.-Iran war. The agency, in a monthly report released on Wednesday, warned that global diesel markets could remain tight well into 2027 due ongoing crude supply disruptions and refinery outages. Ukraine to resume strikes on Russian refineries, Zelensky says Oil pared some of its intraday losses after Ukraine President Volodymyr Zelensky told the Financial Times that the country will resume attacking Russian energy infrastructure after a brief halt. Ukraine has repeatedly struck Russian oil facilities to cut off a key revenue source for Moscow, as the war showed few signs of stopping in nearly five years of hostilities. oil inventories fell by 11.12 million barrels in the week to October 9, against expectations for a 1.9 million barrel build.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "69a8f8c655f7",
-   "title": "Germany puts $448m behind 47-point green shipping plan",
-   "original_title": "Germany puts $448m behind 47-point green shipping plan",
-   "url": "https://splash247.com/germany-puts-448m-behind-47-point-green-shipping-plan/",
-   "source": "Splash247",
-   "published": "2026-10-15T10:00+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "alternative fuel",
-    "fleet",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Germany has approved a national shipping decarbonisation programme backed by €400m ($448.8m) in funding, including proposals for greener shipping corridors, alternative fuel infrastructure and financial incentives for vessel renewal. The federal cabinet adopted the National Action Plan for Climate-Friendly Shipping yesterday, establishing 47 measures aimed at accelerating the transition of both seagoing and inland fleets. The funding, drawn from Germany’s Climate and Transformation Fund, will support new assistance programmes over the coming years. Other priorities include accelerating the availability of low-carbon marine fuels, developing alternative propulsion systems, modernising existing vessels and expanding green shipping corridors. German transport minister Bilger said the programme would help the maritime industry manage its transition while positioning Germany as a leading centre for the development of cleaner shipping technologies. Reducing administrative obstacles is another priority, with the government seeking to accelerate the commercial deployment of technologies already demonstrated in pilot projects. The programme forms part of Germany’s wider 2026 climate protection strategy and was developed in consultation with shipping companies, industry associations, researchers and regional governments. Implementation begins this autumn, with further measures scheduled for discussion at a government maritime conference on November 5. The plan represents a substantial new financial commitment, although the government has yet to establish detailed funding allocations or implementation deadlines for every measure.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a4919d041108",
-   "title": "MPA Introduces Early Adoption Grant to Accelerate Electric Harbour Craft Adoption",
-   "original_title": "MPA Introduces Early Adoption Grant to Accelerate Electric Harbour Craft Adoption",
-   "url": "https://www.hellenicshippingnews.com/mpa-introduces-early-adoption-grant-to-accelerate-electric-harbour-craft-adoption/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-15T10:00+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "port authority"
-   ],
-   "summary": "The Maritime and Port Authority of Singapore (MPA) will introduce the Early Adopter Scheme for Electric Harbour Craft (EASE) from 1 January 2027, to accelerate the adoption of electric harbour craft (e-HC). The grant aims to catalyse early market demand and support the development of a competitive e-HC ecosystem. Transition to Net-Zero by 2050 Singapore’s harbour craft sector comprises more than 1,600 predominantly diesel-powered vessels providing essential marine services, from passenger transport and towage to bunkering and maintenance operations. In line with Singapore’s national climate targets, the harbour craft sector is expected to achieve net-zero emissions by 2050. As harbour craft typically remain in service for more than 20 years, fleet renewal decisions over the coming years will be critical to achieving the sector’s net-zero transition. From 2030, all new harbour craft operating in Singapore must be fully electric, capable of using B100 biofuel, or compatible with net-zero fuels. Early Adopter Scheme for Electric Harbour Craft Grant Valid for two years, EASE aims to spur early demand, giving manufacturers and technology providers greater confidence to invest in production and expand capacity. The grant quantum will be based on battery capacity and capped according to vessel size, up to a maximum of $250,000 per vessel.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "2c09e5a08930",
-   "title": "TD34 FFA trades outpace TD3C in debut week as market seeks greater Gulf freight cover",
-   "original_title": "TD34 FFA trades outpace TD3C in debut week as market seeks greater Gulf freight cover",
-   "url": "https://www.hellenicshippingnews.com/td34-ffa-trades-outpace-td3c-in-debut-week-as-market-seeks-greater-gulf-freight-cover/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-15T10:00+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Baltic & Nordics",
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "baltic",
-    "china",
-    "futures"
-   ],
-   "summary": "The launch of the Forward Freight Agreement (FFA) for the Baltic’s TD34 route (Gulf of Oman to China) by Intercontinental Exchange (ICE) has seen near-record volumes since its launch on 5 October. The cash-settled freight futures contract, based on the Baltic Exchange’s TD34 price assessments, has been embraced by tanker freight traders from the outset, underlining TD34’s rapid emergence as a popular new route for the market. According to Baltic Exchange, 3,837 trades were made on ICE for the new TD34 FFA in its first five days of trading (5–9 October). By comparison, the TD3C FFA (Middle East Gulf to China) recorded 2,989 trades on ICE during the same period. With TD34 FFA trades outperforming the established TD3C contract by more than 128% in its first week, the newly launched FFA contract on ICE reflects the market’s strong confidence in TD34 as an additional reference point for Middle East Gulf VLCC rates. “TD3C has long been one of the most liquid tanker routes in the market so to see TD34 FFA volumes surpass these levels so quickly after the new FFA contract launched on ICE earlier this month shows significant demand for additional hedging instruments on Middle East Gulf tanker routes,” said Stephen Aitchison, Senior Freight Market Assessor at Baltic Exchange.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "19f250a78251",
-   "title": "HD Hyundai Targets U.S. Shipyards With Welding Robots to Ease Labor Shortages",
-   "original_title": "HD Hyundai Targets U.S. Shipyards With Welding Robots to Ease Labor Shortages",
-   "url": "https://www.hellenicshippingnews.com/hd-hyundai-targets-u-s-shipyards-with-welding-robots-to-ease-labor-shortages/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-15T10:00+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "supplychain",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "robotic",
-    "shortage"
-   ],
-   "summary": "HD Hyundai is turning to robotics to help address the chronic labor shortage in the U.S. HD Hyundai Robotics, the group’s robotics affiliate, will participate in FABTECH 2026, North America’s largest exhibition for metal forming, fabricating, welding and finishing, from Oct. ArcPak uses 3D scanning to recognize the geometry of structural components and automatically generate welding paths. HD Hyundai Robotics plans to conduct live demonstrations throughout the exhibition as it steps up sales efforts in the U.S. In May, HD Hyundai Robotics signed a supply agreement with U.S.-based Chouest Group for ArcLift GO. The deal aligns with HD Hyundai’s broader strategy of strengthening technology partnerships with U.S. In South Korea, HD Hyundai Robotics is also moving to expand into the humanoid robot market. To support this effort, HD Hyundai is expanding partnerships with global technology companies. HD Hyundai recently invested about 13 billion won, or approximately $9.6 million, in AIDIN Robotics, a specialist in robotic sensing technology, to strengthen its capabilities in robotic hands for precision work.",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "54aeefc3c336",
-   "title": "Japanese Q4 aluminum premium falls 35% to $255/mt CIF Japan",
-   "original_title": "Japanese Q4 aluminum premium falls 35% to $255/mt CIF Japan",
-   "url": "https://www.hellenicshippingnews.com/japanese-q4-aluminum-premium-falls-35-to-255-mt-cif-japan/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-15T10:00+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Platts, part of S&P Global Energy, assessed the 2026 fourth-quarter premium for imported primary aluminum to Japan at $255/metric ton plus London Metal Exchange cash, CIF main Japanese ports, on Oct. 13, down 35.44% from $395/mt in the third quarter. The Q4 premium assessment was based on 10 trades concluded during the negotiations from Oct. Initial Q4 MJP offers were heard at $310/mt CIF Japan on Aug. Platts assessed the CIF Japan spot premium at $237/mt plus LME cash on Oct. Over the same period, the Platts CIF Main Asian Ports premium fell 39% to $195/mt plus LME cash. Many Japanese consumers were reported to be adequately covered under existing supply arrangements and therefore had little urgency to secure additional spot metal before Q4 MJP negotiations concluded. The Platts CIF Japan premium was at a $42/mt premium to the MAP assessment on Oct. Market participants remained focused on Indonesia, where expanding aluminum production capacity is expected to increase supply into Asian markets in 2027.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "2320845b39d2",
-   "title": "Copper Falls for Third Consecutive Session",
-   "original_title": "Copper Falls for Third Consecutive Session",
-   "url": "https://www.hellenicshippingnews.com/copper-falls-for-third-consecutive-session/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-15T10:00+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "copper",
-    "futures"
-   ],
-   "summary": "Copper futures declined toward $6.50 per pound on Thursday, extending losses for a third consecutive session as stronger-than-expected US inflation reinforced expectations of further Federal Reserve rate hikes, dampening the demand outlook for industrial metals. Higher borrowing costs could slow economic growth, potentially weighing on overall copper consumption. However, tightening supply may limit further price declines, as labor strikes and unfavorable weather conditions disrupt mining operations in Chile, the world’s largest copper producer. Worker strikes affected BHP Group’s major Escondida mine and Antofagasta Plc’s Centinela mine, while adverse weather disrupted Codelco’s El Teniente open-pit operations. On the demand side, copper continues to receive support from strong growth prospects in data center infrastructure, semiconductor manufacturing, and battery energy storage systems. Source: Trading Economics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "d28f794384f1",
-   "title": "Converted diesel-to-battery regional trains enter service in southern France in €41m AGC retrofitting trial",
-   "original_title": "Converted diesel-to-battery regional trains enter service in southern France in €41m AGC retrofitting trial",
-   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPb0tGc0pEQWVoYjA3TWdmekxvWVoyZ1BvMGZoRnBfTmI3cnZSQkxvSVV3UGlzMmZvZXpvYVVkNVprSVFBQWVtMHliaWQzZDhSMXhMWnQ1VGpZekE4bkM2ZkZRRGY3cmVpWGFOTklzbVB5NUNvRlp1UEttbUtvQXdGMzBaU0FZcTUwVU5QRG5ZSEVCRVUzWnV6TEd0R3pubEJvY0RZaF9EM1h0QVR3R0tHOF9OX292anBsclJydEx1ejAzcE9fZFh0aHRNNFdtZGVncjZ6VmNiWnJzZVdkUlBsUEtzZnlsQzNTSExKY0FR?oc=5",
-   "source": "Railway Gazette International",
-   "published": "2026-10-15T10:00+00:00",
-   "added": "2026-10-15T21:12+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "diesel",
-    "railway"
-   ],
-   "summary": "Converted diesel-to-battery regional trains enter service in southern France in €41m AGC retrofitting trial Railway Gazette International",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c3b43cb01803",
-   "title": "Rail freight warns against EU transport budget cuts",
-   "original_title": "Rail freight warns against EU transport budget cuts",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXNCWnAyYTJyYjd1Tm1JbkhaeUJqRHktamVUdXFqRUdXbkZfZUhocDBHYWJCV3VDcmZuSDNhYzNrRkF1cExYVVowbFJoREtFcklrbDgtbmJYelJMQi1YUFk2UFc1MWhYVkViN3ZaTlJqZXYwYjBfYndGdVlJUVJDazJEV3hoTmJWQnNxSWc4RUQ5MmkzaWNmbVBuQVlHdzRMbW42ZU1R?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-15T09:59+00:00",
-   "added": "2026-10-15T15:58+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "rail freight"
-   ],
-   "summary": "Rail freight warns against EU transport budget cuts RailFreight.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d169f75488a3",
-   "title": "Channel expansion propels Mobile port revenues to record highs",
-   "original_title": "Channel expansion propels Mobile port revenues to record highs",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSjV3VFFaWjVEaFJDVFUyX2Z2eEdHQTdId2laanRUSURGd2tUdFN0eHAxWlRfVUlrWDA0MkxYYVhreXJLVnhwT25WQVVpYXNNOUFvallVUllxRm5wS3pma3VsQzBXZkhJejdKcE5jbk1YcTFBbUFSR0ZITXo1S19ub0tILTgzUWhHdkdKSjZR?oc=5",
-   "source": "Splash247",
-   "published": "2026-10-15T09:58+00:00",
-   "added": "2026-10-15T11:19+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Channel expansion propels Mobile port revenues to record highs Splash247",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d5b14e30f529",
-   "title": "Suez tightens transit rules for ageing ships",
-   "original_title": "Suez tightens transit rules for ageing ships",
-   "url": "https://splash247.com/suez-tightens-transit-rules-for-ageing-ships/",
-   "source": "Splash247",
-   "published": "2026-10-15T09:55+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "regulation",
-    "suez",
-    "vessel"
-   ],
-   "summary": "The Suez Canal Authority (SCA) has introduced mandatory inspections and trials for vessels aged 25 years and older, adding further costs and potential delays for operators of ageing tonnage. The new regulations, already effective, require vessels to undergo a comprehensive inspection and trials before securing permission to transit the canal, with all applicable fees payable in advance. According to instructions issued by the authority’s Movement Department and circulated to shipping agents this week, vessels returning within six months of their last inspection will be exempt from repeating the procedure, provided no defects, breakdowns or adverse technical observations have been recorded. The requirements come as the global merchant fleet reaches unprecedented levels of ageing tonnage. Clarksons Research reported last Friday that more than 150m gt of shipping is now aged 25 years or older, up 75% in five years, while a record 68m gt has passed 30 years. The new Suez requirements apply across vessel types. Shipowners and agents will need to factor the additional checks into voyage planning, particularly for vessels operating irregular schedules. The authority has not specified inspection fees or how long the process will take.",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a39f9d0fc536",
-   "title": "Hungary has completed the electrification of the Szeged–Röszke line, on the border with Serbia",
-   "original_title": "Hungary has completed the electrification of the Szeged–Röszke line, on the border with Serbia",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNY1BFb0x5SjNhNzZVbGJ6X2lOSXNjdzVkR3ZDcV9JUUFENUdVY3ZQbXhKZEhBaENaVHFYbXlKYU5zVFE5eXV1aUxSei1SZXBickt6SlRlLVNXR2VWcjhSZ3lEYzlVclV4NHhRT3JseUpiaUR1SHB0UWpHOEd2ckpqWDliZWVJS25wSUt5dUZwMWk1ZVJjTXZ4Zm43bEpYNzg?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-15T09:55+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "electrification",
-    "railway"
-   ],
-   "summary": "Hungary has completed the electrification of the Szeged–Röszke line, on the border with Serbia Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f7c7ff79cd5b",
-   "title": "Icon Energy expands boxship exposure",
-   "original_title": "Icon Energy expands boxship exposure",
-   "url": "https://splash247.com/icon-energy-expands-boxship-exposure/",
-   "source": "Splash247",
-   "published": "2026-10-15T09:54+00:00",
-   "added": "2026-10-15T10:10+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "mna"
-   ],
-   "priority": "high",
-   "score": 16,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquire",
-    "charter",
-    "dry bulk",
-    "stake",
-    "teu",
-    "vessel"
-   ],
-   "summary": "Nasdaq-listed Greek dry bulk owner Icon Energy is expanding its containership investments, agreeing to take a minority stake in a second feeder vessel employed under a long-term charter. The Ismini Panagiotidi-led company said it would acquire approximately 2.8% of the entity being established to own a 2023-built, 1,800 teu eco-design containership. The vessel is chartered to an unnamed major liner operator at $24,750 per day until at least February 2028, generating approximately $12m in minimum contracted revenue for the vessel over the remaining employment period. The investment will be funded from existing cash, with completion expected by the end of October, subject to final documentation. The vessel is being acquired by a consortium led by an established containership owner and operator, which will also handle commercial and technical management. Icon will be entitled to appoint a representative to the vessel-owning company’s board. The transaction marks Icon’s second move into container shipping this year. In June, the Athens-based owner agreed to acquire approximately 5% of a company formed to purchase a 2008-built, 2,000 teu geared feeder. Icon’s core business remains dry bulk shipping, where the company operates a small fleet comprising panamax, kamsarmax and ultramax tonnage.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "02756fd24e52",
-   "title": "ENERGETAB 2026: Kolej to też energetyka",
-   "original_title": "ENERGETAB 2026: Kolej to też energetyka",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HV19mVDFTVDZNVmdiUG9QcmJRNW12eWlxYXVBQVJ0Z0k3M2hldThBWk1acEJsSW5ONGFZdExJb2RncVgyM2NIVEJZMUxTRnQ2OGFwQUo2UXNzMFhjY0xaZXpqWlRtZi1iSEZjeFhOSTdTbkk?oc=5",
-   "source": "Raport Kolejowy",
-   "published": "2026-10-15T09:52+00:00",
-   "added": "2026-10-15T16:34+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "kolej"
-   ],
-   "summary": "ENERGETAB 2026: Kolej to też energetyka Raport Kolejowy",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   }
  ]
