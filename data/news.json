@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T08:36+00:00",
+ "generated_at": "2026-10-20T09:14+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "4343e848212a",
+   "title": "Marsa Maroc adds two Post-Panamax STS cranes at Casablanca",
+   "original_title": "Marsa Maroc adds two Post-Panamax STS cranes at Casablanca",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM3BiVVA5UjB4VGt1ZXNiX0ZPYk9fOERINkdNOG9ocU9BcWw1V1ZNUVZSaG9kNmI5a2g1LVBYbkpyUHRtc3hvbFdhREg2b3IyYWE5YjJnclRwRExKYXo2MDFsWUh2QVRKcy15WlJQczNFVWlCQ2FxYVMtZlVENmRvWUk2SFVubS0zU1hTUWVobEt5RWJmazEtRE90X0xaLTBiQWluZDczdDBDZmdMaTE4Y0dYeWxfeElWYUJRc2dOMEY?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-20T08:33+00:00",
+   "added": "2026-10-20T09:14+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "panamax",
+    "sts crane"
+   ],
+   "summary": "Marsa Maroc adds two Post-Panamax STS cranes at Casablanca WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "05c32fd198e7",
    "title": "MSC tipped for another 20 megamaxes in China",
@@ -73,6 +102,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "239e5cc1fa79",
+   "title": "Transnet Freight Rail Sets New World Record With 696-wagon Iron Ore Train",
+   "original_title": "Transnet Freight Rail Sets New World Record With 696-wagon Iron Ore Train",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR0NneC10UzhucmtucFJtLUVaLUZhenZxS3NZbXFtRlpyNjl2Qk9tNDR1RjRNVmsyZ200YnczZGFZcEMzYUNyZl81d3B6ZnlGQW4tVkxmZWdpUVVPVUt6bDNSd1pFbUExUFBmWm8tUVRsU3piYUQ4cE85eGxrU3Ixdk1KNFJuRzFkY1V0S1B6TDMyckVLU29XYlRaSndMMG1qcDBLNVlhbWZPbjdvX3lPVlZsNDdoUHlQVGc?oc=5",
+   "source": "infrastructurenews.co.za",
+   "published": "2026-10-20T08:11+00:00",
+   "added": "2026-10-20T09:14+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore",
+    "wagon"
+   ],
+   "summary": "Transnet Freight Rail Sets New World Record With 696-wagon Iron Ore Train infrastructurenews.co.za",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "eb45c476943d",
    "title": "Głębokowodny port w Świnoujściu wybudują polskie podmioty",
    "original_title": "Głębokowodny port w Świnoujściu wybudują polskie podmioty",
@@ -97,6 +153,33 @@
    ],
    "summary": "Głębokowodny port w Świnoujściu wybudują polskie podmioty PortalMorski",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a738767dad65",
+   "title": "Iron ore market weakens amid record freight rates and rail woes, says Kumba",
+   "original_title": "Iron ore market weakens amid record freight rates and rail woes, says Kumba",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNand4azBka29renhnRFNCZm1rcElacG1MajhaZjVCYWxKRVdyT2FlaWVOR0xaZU1sblB6cHQ4UHZnWUhwU2NHNHRqV01LQVhDNUNSaDc4SFFXWUdTSEpNNG41RDBlNVJQZXdOVzlTWDlHMm12Nk9vQ2ZaeDZWU1Z0cWFWRFFQYm5YeXZPaDIxRmk0WXJRMDlNbGZ3TQ?oc=5",
+   "source": "MiningMX",
+   "published": "2026-10-20T08:01+00:00",
+   "added": "2026-10-20T09:14+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "freight rate",
+    "iron ore"
+   ],
+   "summary": "Iron ore market weakens amid record freight rates and rail woes, says Kumba MiningMX",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -260,6 +343,60 @@
    ],
    "summary": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate Crude Oil Prices Today | OilPrice.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "85eddcbe0897",
+   "title": "Low demand lowers US wheat quotes, increasing price pressure in Ukraine and the EU",
+   "original_title": "Low demand lowers US wheat quotes, increasing price pressure in Ukraine and the EU",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZEdnY2o0RFZUWkh1bzI4eV9jd2QzMVFPZU9mTDJTVWkydWE0VVJxU2NwSUFQQ0RnaTViUURET3BaWWc5T2tRVTVWTUx2M292cE9RZFFHSWdZcDNlaHVhYkJHNTZ5dXZudF84SC0yaGpxZktTeWllYV8xNUJ5N3pVS0lWYVJnQWtkcjJram84TDVSb3BhX2FGdjFvZktBNmdkRTNxcV9CLWloTzNsX3Y1VncxRU51aV9oUlJydnh1eXZOOTZQX2l2Zi1WVHA?oc=5",
+   "source": "електронна зернова біржа України",
+   "published": "2026-10-20T06:53+00:00",
+   "added": "2026-10-20T09:14+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "ukraine",
+    "wheat"
+   ],
+   "summary": "Low demand lowers US wheat quotes, increasing price pressure in Ukraine and the EU електронна зернова біржа України",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "43c68c2df9c6",
+   "title": "New agreement standardises Middle Corridor operations, more countries can join",
+   "original_title": "New agreement standardises Middle Corridor operations, more countries can join",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVldGTTUxQ0hwZVdnd3IxTW0zVV84NzZENDdzZHFISVptSHU4bXltTXFCYVBLcTUyWUhBTU9FWDJrcW1GWTlvdXE4ejJsenJzSzhVWU4yMVJldXZFOFFnaTRIbktyLTl4bmJmSzlzSXp5bUIzMnJsNWpucmh0VHBVMXBpRV9pY1hzWnlDUFhTVUJQS210clVUT0NsTUtiNE9PU25LSm1pRHZzdTFVNFlub3lFVUVfQmpxRGxYUllGTzVrYmxKUFMzNQ?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-20T06:40+00:00",
+   "added": "2026-10-20T09:14+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "New agreement standardises Middle Corridor operations, more countries can join RailFreight.com",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -458,6 +595,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "a2b64dd87a91",
+   "title": "Brent Crude Nears $110 as Geopolitical Risk Outweighs U.S. Sanctions Relief",
+   "original_title": "Brent Crude Nears $110 as Geopolitical Risk Outweighs U.S. Sanctions Relief",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSnFKZmV5Q3RkbjJJcVNRUENTaWpQODV5M2NsbXlsMzFWa2loR2xRR3NSLVNrSkpiSnE4dURMNXcwNG04dmIxak05dnFTaERzV2VHOF95bm56TkNWd1RLODF5RWVsc3hieVNwaVczbGlfQlhfYkdrN1E0bFRMS1FYMWdkemw5d2wtRURkT1ljdkRLTHFMUzNPc1dtRm8wVWZrai1FY0RwU0gxLUlBWmItdm92QWNFcmMwcjFOMW5Gc9IBxAFBVV95cUxObHc0WnBoT3lQSldIY1pUV3drS2lMeVNjb2xSRDVHZW0tRFBMaU9uUUlXYjJHX0djbTVqNW9mYWpfbUFaYjBrckJtcDlFMkVvSC0yZGF2d0RKcWo5dUZneFFGVTJlTHhGeG13T2UyUXV3alQ3S3ZHbWJYTEVpbGk1RXhMX1VvMTl3dXR1MmdSTTJvbVdScVZnbTc5YVFCU2hTVGxLcW9BRjFjSDVjdnFvbFE5OUtjREU5ZGczMkRWeks3dTcy?oc=5",
+   "source": "PSU India",
+   "published": "2026-10-20T05:44+00:00",
+   "added": "2026-10-20T09:14+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "crude",
+    "sanction"
+   ],
+   "summary": "Brent Crude Nears $110 as Geopolitical Risk Outweighs U.S. Sanctions Relief PSU India",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "5dd3d3d0ed7e",
    "title": "Asian coal prices to stay elevated as Indonesian supply curbs tighten market: Report",
    "original_title": "Asian coal prices to stay elevated as Indonesian supply curbs tighten market: Report",
@@ -481,6 +645,31 @@
    ],
    "summary": "Asian coal prices to stay elevated as Indonesian supply curbs tighten market: Report ANI News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7cf7889217cc",
+   "title": "Kazakhstan, Azerbaijan Pitch Middle Corridor to Japanese Investors",
+   "original_title": "Kazakhstan, Azerbaijan Pitch Middle Corridor to Japanese Investors",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc3I2cWtZdXRDNkdXakVoWGlpM3BiRlZ1dWpldXR1eHV2TUt3TUlzb2RhMjEzcWJUUnF5Uk9teG9OcWpadlFPZDlGRW5CLUdvNWxwZzB6QVhzMy1tZjdKd3VZOE1XMjVleTB2OHBaTnJXejRzSktYMmMwSHc0cDFHUk0tbC0tT1lULWtVQlhlRFc4R2ZQc25XSnRuaHZhR3NlcGc?oc=5",
+   "source": "Caspian Post",
+   "published": "2026-10-20T04:53+00:00",
+   "added": "2026-10-20T09:14+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "Kazakhstan, Azerbaijan Pitch Middle Corridor to Japanese Investors Caspian Post",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -561,6 +750,32 @@
    ],
    "summary": "Leasing firm’s training centre explains tank wagons to chemical company staff Railway Gazette International",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0f73990ef44b",
+   "title": "Iran completes key rail link in new trade route (VIDEO)",
+   "original_title": "Iran completes key rail link in new trade route (VIDEO)",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2JPVmtEMWNKMXhLRFZFYTRYdXJQV2h4U0t0dEdVM1dYbXljamtSaHF0XzhZa1ZSX1lhajZ1RHl5VjU4aHFUTHgzWjVCRVBOdW8tSTdJQko2SVc1NGhncENsNVlNYTExc0hzcTB4anl6X0RLcDJ2UXNaTTJjOC1QN0xYUUZHczVIRGlXY2p2eFlURlFfY0lhNm5GQQ?oc=5",
+   "source": "www.malaysiasun.com",
+   "published": "2026-10-20T03:17+00:00",
+   "added": "2026-10-20T09:14+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "trade route"
+   ],
+   "summary": "Iran completes key rail link in new trade route (VIDEO) www.malaysiasun.com",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -4306,6 +4521,34 @@
    ],
    "summary": "Argentina’s grain and oilseed sales exceed the five-year average by 25% UkrAgroConsult",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6427471b3491",
+   "title": "Why Putin’s shadow fleet now poses greater danger to UK",
+   "original_title": "Why Putin’s shadow fleet now poses greater danger to UK",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnLVV3bHg0d1ltYncxdloxdkVRemxrcEFORFZ5dE1QQVBYemo4LTY3UnZZNmx0RVZvM0h6dVdtTUU2Z2VxMU9WeHRJS1JGSnEycHNlUDVXaXpWNGJ2NDdXYUpTUHhFcWZJRl92TVZUanI1MVN3LTBsNExEMG1pTHM?oc=5",
+   "source": "The i Paper",
+   "published": "2026-10-19T09:00+00:00",
+   "added": "2026-10-20T09:14+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "shadow fleet"
+   ],
+   "summary": "Why Putin’s shadow fleet now poses greater danger to UK The i Paper",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -13341,6 +13584,38 @@
    "summary_method": "feed"
   },
   {
+   "id": "3b1963dc9863",
+   "title": "EU approves acquisition of Polish grain terminal by Bunge and CM",
+   "original_title": "EU approves acquisition of Polish grain terminal by Bunge and CM",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSmFVWmZ5MFNjNV9JOC1DOGdjZGFWNlJNSTdDbUNqVVhTNHY2ME5kaWNGanJWU0ppeUZ6aTlHOGxlcUEwQTUxZHBQRm1xT2tYSjNFN000cTFvam9Qa0NtTUV4MDJzQk13TS1pUTJlUTBKSGtfMTRjSzNPUDhLWWRjZXRSQkJXdTJTdmN4N2RydDFMb2ktaWd6YmRxdFZJUkN1ZkE?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-16T09:18+00:00",
+   "added": "2026-10-20T09:14+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Poland",
+    "EU institutions"
+   ],
+   "tags": [
+    "acquisition",
+    "eu ",
+    "grain",
+    "polish",
+    "terminal"
+   ],
+   "summary": "EU approves acquisition of Polish grain terminal by Bunge and CM UkrAgroConsult",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a0dd51ccffea",
    "title": "Wheat, corn and soybean prices fall in Chicago on Thursday",
    "original_title": "Wheat, corn and soybean prices fall in Chicago on Thursday",
@@ -16248,275 +16523,6 @@
    ],
    "summary": "Fertiliser package to deliver support for Louth farmers Ireland Live News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "49ca053a9da1",
-   "title": "Oil Shipping Costs Spike, Lifting Prices from Pump to Grocery",
-   "original_title": "Oil Shipping Costs Spike, Lifting Prices from Pump to Grocery",
-   "url": "https://gcaptain.com/oil-shipping-costs-spike-lifting-prices-from-pump-to-grocery/",
-   "source": "gCaptain",
-   "published": "2026-10-15T17:27+00:00",
-   "added": "2026-10-15T17:47+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia",
-    "North America"
-   ],
-   "tags": [
-    "crude",
-    "prices",
-    "shipping"
-   ],
-   "summary": "FILE PHOTO: Tankers sail in the Gulf, near the Strait of Hormuz, as seen from northern Ras al-Khaimah, near the border with Oman’s Musandam governance, amid the U.S.-Israeli conflict with Iran, in United Arab Emirates, March 11, 2026. REUTERS/Stringer/File Photo HOUSTON/LOS ANGELES, Oct 15 (Reuters) – When the oil supertanker Esteem Explorer sails from the United States to Japan in late November, loaded with about 2 million barrels of crude, the journey will cost $81 million. The same journey would have cost $9.1 million last year, on average. Refiners process oil into fuel to move food, retail goods and construction materials, and rising costs are stoking inflation in countries that depend on imports. Every $10-per-barrel increase in shipping costs adds about 23 cents per gallon to gasoline, said Kenneth Medlock, a fellow in energy and resource economics at the Houston-based Baker Institute for Public Policy. On that basis, the Esteem Explorer’s shipping cost works out to at least 80 cents more per gallon of gasoline than last year, according to Reuters calculations. “Everything gets more expensive because that’s how we move stuff around.” Freight rates account for more than 40% of the price of US oil, based on Wednesday’s price around $95 per barrel, compared with 7% on average in 2025, according to LSEG shipping and oil price data.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "7b0488ec348a",
-   "title": "Shein rozbudowuje centrum logistyczne w Polsce i rusza z rekrutacją pracowników",
-   "original_title": "Shein rozbudowuje centrum logistyczne w Polsce i rusza z rekrutacją pracowników",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWHZyLVBnd05FMURhM3V0TV9jclhoRkRmZExqUGVjQjAxQV9mMGRuQzBPcGVUbG54M3E0aE51MVlMQy1ra3FlRkdVMnk0ZFhRVEJ3WjZlVG0xeWFjaDVpRXhDQjdMa1ZUQ1RVSmdkM3p3Q2xiVGVuWTM5dE1iMFpPXzVFYVRVeGh0Sk5vemhlUU41ZWM4aVdDTU1XMWEyeW5zVUNfNDFYR0V4YWxLWFdKVkE0NUNmOWxWMWdwREFaSHVwVWxNNVJ0Vg?oc=5",
-   "source": "Wiadomości Handlowe",
-   "published": "2026-10-15T17:20+00:00",
-   "added": "2026-10-15T20:39+00:00",
-   "lang": "pl",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "centrum logistyczne"
-   ],
-   "summary": "Shein rozbudowuje centrum logistyczne w Polsce i rusza z rekrutacją pracowników Wiadomości Handlowe",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e19fe64ce5c5",
-   "title": "Canadian wheat exports strong amid Black Sea shutdown",
-   "original_title": "Canadian wheat exports strong amid Black Sea shutdown",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0lsM3NLOEJqWXlmZl9nQUF3b1NuV0Z4NG1sWmRBSVZtdlFTbThzbk50RDZCU3pfQnB1c3BmLVpUSndGODlFZ2tmOEg2MTZhMjJCSDhybDdIMlhqU01ZelNwMjVxWXBUTDg1U0Z5UDR6RHlEcXhkVWFZUmV4TnUteVpScDNJLVp0UGdNZG5aV2Q?oc=5",
-   "source": "The Western Producer",
-   "published": "2026-10-15T17:15+00:00",
-   "added": "2026-10-17T08:55+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea",
-    "North America"
-   ],
-   "tags": [
-    "black sea",
-    "wheat"
-   ],
-   "summary": "Canadian wheat exports strong amid Black Sea shutdown The Western Producer",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dc7965f7bd87",
-   "title": "Brussels reviews US fees on Spanish vessels over denied calls at the Port of Algeciras",
-   "original_title": "Brussels reviews US fees on Spanish vessels over denied calls at the Port of Algeciras",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb3QtQ3h1OHItcUF5NzRnVlR2WVJldWZpNnlzUjZLM0JKeEplQnd2VWx1RUhGbFRVTDNMZ3BPRDB5dTBZX3NPblRqNW9hUmYzQ28zbEZYTFVtY01tMWJaV1plVS1xQ0ZLWl9SaFNtRDNIaFZabnZJRVNNYzJJa3RpbTkwN3IxYUVEbVlLOTVRd3lab3U2WWdPalN0QjAyYkxtb0ZfSWlxVTlCWXNfUURqVXpIdGZ1bnpLTXcwdkhSM1NFSk5oOFJtQlZ3bV95ejA?oc=5",
-   "source": "El Estrecho Digital",
-   "published": "2026-10-15T17:15+00:00",
-   "added": "2026-10-16T01:55+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe",
-    "EU institutions"
-   ],
-   "tags": [
-    "brussels",
-    "port",
-    "vessel"
-   ],
-   "summary": "Brussels reviews US fees on Spanish vessels over denied calls at the Port of Algeciras El Estrecho Digital",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "858b1cd741d4",
-   "title": "Konecranes Portal AI Assistant now available globally for equipment and service management",
-   "original_title": "Konecranes Portal AI Assistant now available globally for equipment and service management",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVTNKUUpDSHVlcGRHTjJsY2kxSi1Zb0p6WUpmN3JtSDlWR04wdUhPQ0tuWXlPZm1taHc3Q3d1eVdSMHl3OXBieHBZNEw4ZjAwM1A5czNFWklndmhoYk5SeWJ0VHV6eTVFQXFmUWdzQ2xhclZrY01aU19BbDhzc0V6RDRmSkx6SEdFbkJ6cFBILVI4YzNUNG81dlNqRUQ1OG50a00wRjl4c01pNUZLVU1yR3hubEVoNXFWbU5xcHAxeEJJWnlMaGdHMjU5Z01wcG11cGltcmJJczVzaHZyVFRaN0lTZWc?oc=5",
-   "source": "DataPortuaria",
-   "published": "2026-10-15T17:15+00:00",
-   "added": "2026-10-15T22:17+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "konecranes"
-   ],
-   "summary": "Konecranes Portal AI Assistant now available globally for equipment and service management DataPortuaria",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3d3288c1361c",
-   "title": "Bangladesh signs $335.78m Chinese loan for Mongla port modernisation",
-   "original_title": "Bangladesh signs $335.78m Chinese loan for Mongla port modernisation",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2U4OGhocVNrYU5zN0k3WmtRWVJhQjEzVGEzTTFQVjZ5S0h3WTBwMjhwOXBYa1E1VWxXbGlZRjJsRmpRVzZsSmxyRkZlcDhUdk1hLVNNdHJLRHl2MFVwSTlWcDNaeUJCcG5WR2toTWZmUkNmUGQwVng4dDVwSmFlQWdkdEV4VlVLcXZTR0c3cTZqUWxNekQtLU5UQ0lJM3o0UVlGU0kxemVQdU5IUW5jQUhSNA?oc=5",
-   "source": "The Daily Star",
-   "published": "2026-10-15T17:13+00:00",
-   "added": "2026-10-16T10:15+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "port"
-   ],
-   "summary": "Bangladesh signs $335.78m Chinese loan for Mongla port modernisation The Daily Star",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d690c60dd402",
-   "title": "FMC Proposes $200,000 Per-Voyage Fee and Import Limits on Spain Over Port Access Dispute; TPEB Imports Hit a Record 2.55 Million TEU in September",
-   "original_title": "FMC Proposes $200,000 Per-Voyage Fee and Import Limits on Spain Over Port Access Dispute; TPEB Imports Hit a Record 2.55 Million TEU in September",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVVF1NXp4WnNJRnN2aHUzU25KQ0JvTlAtUG9EMlp3cmRIS0ZZcllaRmtrbS1JRS1BR3c3R01oQnlKUDVUMHRLM3hOZ2FwNXRyeWliNmZnc0NfRFVqQktlZ2lrT3NtWF9PaTZBeEdIWGwtdTlmUHhHVndaY3JqemRFSE5fcm1DbEEzUHlOZHBQTnNvS1hXQTh0Nnoyc21jWGpheFM1dEt0Z0NZRlZoaFVwODVTZ2gtb2JxVHA3VkxLTGlzTk9jS3FsSHJEWVQ2RTl0OGJSaEp1T0NWR1BXaXNB?oc=5",
-   "source": "Flexport",
-   "published": "2026-10-15T16:50+00:00",
-   "added": "2026-10-15T17:47+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port",
-    "teu"
-   ],
-   "summary": "FMC Proposes $200,000 Per-Voyage Fee and Import Limits on Spain Over Port Access Dispute; TPEB Imports Hit a Record 2.55 Million TEU in September Flexport",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "70fcff6fe878",
-   "title": "Uzbekistan sees Baku port as key link in Middle Corridor",
-   "original_title": "Uzbekistan sees Baku port as key link in Middle Corridor",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbUhqUmthWE0zX2FtLTB2T1YwRkNwUWpUWDdyVWVmbUt1eU5SRV9uQ29GeUhaU3lGWkpUNGFGelUzNlBuTzZZd0RIRTVKbkd6Q1dBYTJHWDlZVWRNUnAzWnYwZDhvWmUwYjVrSXFTaXdVSW1fd3VKQXBMNEVCMVlwN3VOLS1GS0xqajNwbWZza0dTSFpHXzdN?oc=5",
-   "source": "Operativ Məlumat Mərkəzi",
-   "published": "2026-10-15T16:49+00:00",
-   "added": "2026-10-15T21:12+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor",
-    "port"
-   ],
-   "summary": "Uzbekistan sees Baku port as key link in Middle Corridor Operativ Məlumat Mərkəzi",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f101ebf1a26b",
-   "title": "Port Polska: 36 obiektów za ok. 117 mln zł netto. Podpisano 18 umów",
-   "original_title": "Port Polska: 36 obiektów za ok. 117 mln zł netto. Podpisano 18 umów",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGhadUZtR1BGaUFENzhwcE1wRkRSWnZaQkszbXRxNzRYT2RNRTB0bVk2ZVNHLTJlbWlYRE9nS3B6Z2hEb2RxOWV5UGhYOEhsUkV2Xy1YNUFvTXhiSnlVclBmYzl5dW9JV19XRDJuRWJyYWU4SXJBREJsZFdDbENXTEZxaWJvMDJFRjNCZjNlMzRZZ3Nqck9SQ2xn?oc=5",
-   "source": "InfoBus.pl",
-   "published": "2026-10-15T16:45+00:00",
-   "added": "2026-10-19T17:02+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polska",
-    "port",
-    "port polska"
-   ],
-   "summary": "Port Polska: 36 obiektów za ok. 117 mln zł netto. Podpisano 18 umów InfoBus.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1162f475617e",
-   "title": "*Call for Resilient Regional Transport Systems: Iranian Minister Champions Digital Integration at the New Silk Road Forum*",
-   "original_title": "*Call for Resilient Regional Transport Systems: Iranian Minister Champions Digital Integration at the New Silk Road Forum*",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNY2lUdmhwcGdEaTBEZE13RXg1WXA2cFdMaEtfVjV5cFZNajY0eFFCdmNyWVptLVA0RHNVTkt1eUVLMWtfeE5UQkJjb3NLTkhtN0R4WUt2SnB6UVhLWlQyT3pBZEduTFU2OE10MjZOZjlXSnpWUDV3WWdQd0UwQUtNcDFXY2pPMlJWZUhUSlFsVDZVWVVuWXBJRXZ1bmstOFZzSWJtN25WTDRuYXEtQURGWkFJTU9EMTVzS1oxM0paNUdNZDNsWEhxa211QUxaUml5eWtiZU9QUWhVTkF1b3VPMVNpaW5sNnROanNlSlhnN0J2Rm85dURIbl9idjRneUZFTEhv?oc=5",
-   "source": "تین نیوز",
-   "published": "2026-10-15T16:37+00:00",
-   "added": "2026-10-15T21:12+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "new silk road"
-   ],
-   "summary": "*Call for Resilient Regional Transport Systems: Iranian Minister Champions Digital Integration at the New Silk Road Forum* تین نیوز",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
