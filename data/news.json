@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T21:03+00:00",
+ "generated_at": "2026-10-20T21:37+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b241a9b249b6",
+   "title": "Trump’s 50% Canada tariffs challenged in court",
+   "original_title": "Trump’s 50% Canada tariffs challenged in court",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaUQ5LUl2dDRtYldkMjZyc2xJS0swUEJpS29kZ3RvUVBZQWNxWkhKeGYzYm9NemxiRzdycklfUExFelZZb1VrZnVEaXhvMGo3YWZOcThNUVcyUlpzeV9WeGREdTdRd0swNFJfcUFQTWJobmpHbm54VURSSzJpTXl1NF9nRzg3QzZwVXN1WG9kWTdWM0k?oc=5",
+   "source": "Supply Chain Dive",
+   "published": "2026-10-20T21:28+00:00",
+   "added": "2026-10-20T21:37+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "court",
+    "supply chain",
+    "tariff"
+   ],
+   "summary": "Trump’s 50% Canada tariffs challenged in court Supply Chain Dive",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
   {
    "id": "6adddab45995",
    "title": "Baltic Dry Index Rises Further to Near 1-Week High",
@@ -416,6 +445,62 @@
    "summary_method": "feed"
   },
   {
+   "id": "7795fa0d62a9",
+   "title": "China-US ocean freight rates hold steady as post-holiday space tightens",
+   "original_title": "China-US ocean freight rates hold steady as post-holiday space tightens",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWHJJUTRTOUppTXFkdEZhaVIzWmh5R0I4WWdlQl80OEY2RlhqUWg0WjN0dGkzUnJPQXc4SEl4RDlRZExuRFZJYk9iQkhiUzVhbWl4NFFrYnJpWmM4ajIyQVFBWmx3WmVvMWFhUzN0dy1KNV9ZeUg0NzhkS0c0czBQMmdB0gGWAUFVX3lxTFBMSXZTeF9zWmEtVmVJcW1aRDBqcEJySjlEZGNqemdFWnRIYmdNRmRrNENET1A4SzhmUmI1NHJJTmVoelhBaUFmaDZYZ3NqNVltcmFMalNPbm1DRFZzZWRHeDdXeG5xbzFRY1VsNlgxMDVseWREYzh2bWo4N3Q1Um1xZGZaWU5PQW9LTlBwSjdFQmdFYzNOUQ?oc=5",
+   "source": "Boston 25 News",
+   "published": "2026-10-20T19:20+00:00",
+   "added": "2026-10-20T21:37+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "freight rate"
+   ],
+   "summary": "China-US ocean freight rates hold steady as post-holiday space tightens Boston 25 News",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7b7cf84f04a1",
+   "title": "Ukraine’s expanding Black Sea attacks are disrupting shipping, raising insurance costs, and threatening global food and energy trade - BLiTZ",
+   "original_title": "Ukraine’s expanding Black Sea attacks are disrupting shipping, raising insurance costs, and threatening global food and energy trade - BLiTZ",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQemJHZUl5eU9sejNNSUR2b0lXTXY1N3NRNkpObXRTdVB6SmltcEZDTlczdy0wemZ4YjZ0UWltaXQ4THNFbWdNY21TdTVidDJnSDZKR2Uxenhaa3VKOFZoNXVfQTVJS2VnSGk4TTNtOHFKUEtQRUZIb0xJcTJxVW15VzQtVDZERFNuVEJEZVUweUUzWUVQTnBsVUl5c0FPaEYtYUhreXdfQ3hwTmFBY3U2aHluaWNVS3JkNzlFUUxGdl9QS3NJX1FiSkNxUFZ5VjhKUHhjTWRTUl9oOUJhQlhRc0F0XzJkd3U1SmN2RWZINFFzUUlqSmFZYw?oc=5",
+   "source": "BLiTZ - Fears None But God",
+   "published": "2026-10-20T19:01+00:00",
+   "added": "2026-10-20T21:37+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "shipping",
+    "ukraine"
+   ],
+   "summary": "Ukraine’s expanding Black Sea attacks are disrupting shipping, raising insurance costs, and threatening global food and energy trade BLiTZ - Fears None But God",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "aa17a3bf8e2c",
    "title": "Russia ships the least crude oil in a month as major Baltic port halts",
    "original_title": "Russia ships the least crude oil in a month as major Baltic port halts",
@@ -501,6 +586,43 @@
    "summary_method": "feed"
   },
   {
+   "id": "62e4218d0088",
+   "title": "Russian attacks on vessels, multimillion-dollar losses, and a threat to global grain prices: the European Parliament explained how the Black Sea will be protected",
+   "original_title": "Russian attacks on vessels, multimillion-dollar losses, and a threat to global grain prices: the European Parliament explained how the Black Sea will be protected",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPa20yUzlvcGJvY2VPUTc5SzVZMTBaT09wQ1JBVlhVenBnYzZ5a094VDc0Y3ptSld3UFpoT0hvWEd0SE00d2pzQ3p5UHJIaTVMMkYzdmJOQUNlOE9WOTJIb3o0dXVrNDZHd2ZSWmJRZGNEb3dsdVlhRXVxdXQ3SFYyUW5hdHZMSnlBRXVIYVNBT1FWQ2w1OUpJWm9FanRsbExOd3EyX1RrcllpSUdlek50VG9kNzdjMG5qMERqdjJtTWVnZmhBOHc4UnExY0RScm1WYldfTGFYMHJNXy1fc1lHTjZjRVlfcFFVeW1qQTVMNEtkUjktaWlfZk95cDhJQXEwd3RvQ9IBgwJBVV95cUxPQkFuMWJwMTlvMkR3ZFZXYkdvUjU1VXVrWU1PdTM1WmZPTE9MbkVISC1nbVNvemJWeHhTUjNPSEFmMHZGeHlSdUxPZlZtR1BtU1RJTjgtdzl6MmpqNklUUGhfVFRsTjRsbDVFejF0RzNCLXBUdDJycTQxeG1tbmpLc2JXZFhFVEgwa05YcTVtOGZCYVVrdDlzSHU0X2VIX1dqNjRqdXd0c0dEalJKS0pqVXNsRF83RDA3TUtURnhrbG5JMFRnTWtJZFpab2licVRta0pxUzh6cU9COTNuaG1YbExGemh5OEpnNXJUVGY5VzNOb1lBY3RzdmFjQ3l1Ty1VeThj?oc=5",
+   "source": "Українські Національні Новини (УНН)",
+   "published": "2026-10-20T17:50+00:00",
+   "added": "2026-10-20T21:37+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "shipping",
+    "regulation"
+   ],
+   "priority": "high",
+   "score": 16,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "grain",
+    "parliament",
+    "prices",
+    "russia",
+    "russian",
+    "vessel"
+   ],
+   "summary": "Russian attacks on vessels, multimillion-dollar losses, and a threat to global grain prices: the European Parliament explained how the Black Sea will be protected Українські Національні Новини (УНН)",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "517d1b5e5438",
    "title": "Former Call of Duty Dev Says 'It's Hard to Watch' Xbox Make Money From Black Ops PlayStation Ports",
    "original_title": "Former Call of Duty Dev Says 'It's Hard to Watch' Xbox Make Money From Black Ops PlayStation Ports",
@@ -526,6 +648,36 @@
    ],
    "summary": "Former Call of Duty Dev Says 'It's Hard to Watch' Xbox Make Money From Black Ops PlayStation Ports IGN",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "42e6ddaddf2d",
+   "title": "Russian Diesel Cargoes Continue to Intended Destinations After Export Ban Lifts",
+   "original_title": "Russian Diesel Cargoes Continue to Intended Destinations After Export Ban Lifts",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUlDd1hTQ0twS3hpSHRzTDBPSjlxTEFicGJkXzZzemhkUVdKOGtFTXlUNGJ0S3VfN1pFMjNfVmU4MFpIZGhfdEhmRDZQX29sSVktOXBQWUdjNlFDLXQzZHJuMF9GbkFibTdTMUZISzJUVnNrQTlSay1RdkdURko3OVVnZ0NvcjQwMFBtNURzSmNEQVnSAZgBQVVfeXFMUFd5NFlKT2RoU28zUVhfWDJTZ1NUZkJ1X0JGS2dwcjhScmpYVHdPU3hWb29GYVpIUnZHdWRteWJUcDZDWUJUWnpzZzVMcW9ISHdyTGhNeFFHUXZfQlU2alJwTXB0UkNMUFVQdVpwZmxKNkxDd2VOaWNZNXVyTzhJNXZHM3hJOVhYOG85Y2lOUWExaGlYRS1aT28?oc=5",
+   "source": "Maritime Logistics News",
+   "published": "2026-10-20T17:22+00:00",
+   "added": "2026-10-20T21:37+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "logistics",
+    "russia",
+    "russian"
+   ],
+   "summary": "Russian Diesel Cargoes Continue to Intended Destinations After Export Ban Lifts Maritime Logistics News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -2402,6 +2554,31 @@
    "summary_method": "extract"
   },
   {
+   "id": "9558d7a4647e",
+   "title": "Rising costs are making 10% of global iron ore supplies unprofitable — Vale",
+   "original_title": "Rising costs are making 10% of global iron ore supplies unprofitable — Vale",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWnZqTy1yM2I1YjUxOV9tdTB6NGMwc0JtcnQ5ZElQT01VcTRlU0VhYXFNNGkwc3VLaDYtdlF2YVlPUURBRGNqdTBBQ3ZaclM3c2JCeGptcFhqMGxuUmVESXNQellSYVBJUXBoZHFKT0FtZ2Y0NXNaQ3k5aDJwR2FiWU1uT2NYUUZMQ2dXbVB0aUtfU3NOOXVRZW1pWTE5TG9WWmfSAacBQVVfeXFMTXBHMXhwckxMOUhUTF9lNG8wMEdrZ3c3SW85NVJDUmRsbUxGV2luYklhd2NfeU1USHdJT2I1eS1yTFhBNG1rYmU4cDRIU2gzWTRiRWlwUVZNNWM5ZVoyeWUxdXIzeVhUazdNekNUeWVTcXl1clZrb3BNT0tWaWhnOVlHZDl2aTY2WlN6d1pIRTFjZ0hNUkx0UnEwOXNuSExHWjRNNDJXNEE?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-20T10:39+00:00",
+   "added": "2026-10-20T21:37+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "Rising costs are making 10% of global iron ore supplies unprofitable — Vale GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "c96eda6cd31a",
    "title": "USO, USO Gain Premarket As Brent Crude Hits 5-Month High — Middle East Shipping Attacks Fuel Supply Fears",
    "original_title": "USO, USO Gain Premarket As Brent Crude Hits 5-Month High — Middle East Shipping Attacks Fuel Supply Fears",
@@ -3501,6 +3678,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "ca0e7410050f",
+   "title": "European steel and downstream industries call for comprehensive EU CBAM expansion",
+   "original_title": "European steel and downstream industries call for comprehensive EU CBAM expansion",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYmtqdzF1RVh0RTZ2U0dWek1LU1BhYzN1eWNCQ1BhRUlGMlNVMzQ3UFBnWFF2VTVra2RUQ1dwSzJhcXhQWnlmbnF2a3NRQl9WSC1ncHJwU2hVdk91MHhMNGtQQmdFZWpiTjdJQXF3RmJReHlpVmJYOTY2eW9fT3R6YmV0cmt4LTRwaUxaUndXRnZkY3VBcXFCNGl6NXBuQk5DbjdLTXQtS1pMaVZSeFlPNmlKaEpXRDFkdm9RLXkzaXBRQzBtRTN1emRyYnphdWpIdW12NEJ3VVRIME0?oc=5",
+   "source": "SteelOrbis",
+   "published": "2026-10-20T08:49+00:00",
+   "added": "2026-10-20T21:37+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "high",
+   "score": 8,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "cbam",
+    "eu ",
+    "steel"
+   ],
+   "summary": "European steel and downstream industries call for comprehensive EU CBAM expansion SteelOrbis",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4c4e9d2cf609",
    "title": "Steel Slump 2026? Associations Sell Destocking as a Crisis",
    "original_title": "Steel Slump 2026? Associations Sell Destocking as a Crisis",
@@ -3846,6 +4051,33 @@
    ],
    "summary": "Od Tesli po port. Już jutro w Enea Arenie największe Targi Pracy na Pomorzu Zachodnim Gryfino Głos Miasta",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a847bb79a5db",
+   "title": "Wheat, corn and soybeans decline in Chicago on Monday",
+   "original_title": "Wheat, corn and soybeans decline in Chicago on Monday",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGVrY0xHZTNUV2R4aTlQRDZaUGZZbVhWYXo0M1RYT0toUzZZNkFjNGF4MXRaUi12cGtaQzRYTTZvNExwSXkzNkZTMDZEeTdVcTE5d2lvMklfSXJoZ0FtV0ZocFp4MmF2V01EbXRpdkNtZF9lalVGSURjeWtBdFNhc2N3TU9GWHh4c2NXU2Zic0tldw?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-20T07:18+00:00",
+   "added": "2026-10-20T21:37+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "corn",
+    "soybean",
+    "wheat"
+   ],
+   "summary": "Wheat, corn and soybeans decline in Chicago on Monday UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -13117,6 +13349,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "9eb465430a3d",
+   "title": "Port of Rotterdam Reports 0.9% Throughput Growth in First Nine Months of 2026 - News and Statistics",
+   "original_title": "Port of Rotterdam Reports 0.9% Throughput Growth in First Nine Months of 2026 - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMDJ6aTdndnh2dk5lRTMyMHRCeVFseGhJcm5zS1BkVUhhdXl1RWt6dlo2MWlUZkE4dEJVVXljNGVnWTRqRjVhSEEwY1Vzd0FobG1jVHk3RU02d0szTUNURXpqLUFNZ0J6YjlJaFVVMFR2eTJGZEZPYlY5bWNTd3VEVk5KSG55czUzUXFEdC03ajN5QU50aTlBeGdlamM?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-17T04:32+00:00",
+   "added": "2026-10-20T21:37+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port",
+    "throughput"
+   ],
+   "summary": "Port of Rotterdam Reports 0.9% Throughput Growth in First Nine Months of 2026 - News and Statistics IndexBox",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "7bd6ddaf7b8c",
    "title": "BHP to cut 300 Pilbara iron ore jobs as unions impose sellout deals",
    "original_title": "BHP to cut 300 Pilbara iron ore jobs as unions impose sellout deals",
@@ -13949,6 +14207,34 @@
    "summary": "Caption: LD Armateurs’ Spirit of Toulouse, built for Airbus transatlantic transport operations, fitted with six 35-meter-tall Norsepower rotor sails at an outfitting site in Shanghai, China. Photo: LD Armateurs/Norsepower French shipowner LD Armateurs has completed the installation of six towering rotor sails aboard Spirit of Toulouse , a new roll-on/roll-off vessel being built to transport aircraft components for Airbus across the Atlantic. The installation, completed at a shipyard outfitting site in Shanghai, makes the 168-meter vessel the largest RoRo ship equipped with wind-assisted propulsion and gives it more mechanical sails than any other ship, according to LD Armateurs and Finnish wind propulsion specialist Norsepower. Airbus expects the new fleet to cut annual emissions from its transatlantic shipping operations by more than half, from approximately 68,000 metric tons of CO2 in 2023 to 33,000 metric tons by 2030. “Completing installation of six Norsepower Rotor Sails on Spirit of Toulouse is a significant milestone for wind propulsion in the RoRo segment,” said Heikki Pöntynen, CEO of Norsepower. The project comes as wind-assisted propulsion moves beyond individual demonstration projects and finds wider use across the commercial shipping fleet. Earlier this year, Berge Bulk completed the installation of four folding rotor sails on its 208,000-dwt Newcastlemax bulk carrier Berge Meru , following a similar project aboard the larger Berge Neblina in 2024.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "3c8f4a8e4094",
+   "title": "Vale CEO calls for higher iron ore prices as Iran war drives up costs",
+   "original_title": "Vale CEO calls for higher iron ore prices as Iran war drives up costs",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYlczaDJ6My14aE1VWG9xVndrRjhqbkQ4MVZmNExCa1pId09VOGNZZDI5eF9ycDM1Qm5uRzNoTlBiV3RnbE5KNUp0LU1rR21SYVZWLTBreGpRY0duUERLeDVZd3RGNE1Rb3doZ1BBLXVfcHNaSEtKYkxoa2c3QTVqdGw4YVhPOFNRMkVDV0JrcUNHdnNyTXJv?oc=5",
+   "source": "Mining.com.au",
+   "published": "2026-10-16T20:34+00:00",
+   "added": "2026-10-20T21:37+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "iron ore",
+    "prices",
+    "war"
+   ],
+   "summary": "Vale CEO calls for higher iron ore prices as Iran war drives up costs Mining.com.au",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "38789b769b8f",
@@ -16295,277 +16581,6 @@
    "summary": "Jindal Steel commissions 12.5 MTPA cargo terminal in Odisha ET Infra",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "bbb594bab442",
-   "title": "Falling Cape Freight Rates: Guinea’s Bauxite Shipments Move from a Test of Resilience to a Test of Elasticity",
-   "original_title": "Falling Cape Freight Rates: Guinea’s Bauxite Shipments Move from a Test of Resilience to a Test of Elasticity",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcVotYjNPOHptaGM4SjhncWhZNFlYcHhza2FlVFVLZ1pqMXJtazdsRGpMM2Z0Tk03SXZ1cnhmSUtqdmZ0d2dOT1dkZGlOLWpvMk1KdS11VXVpQmxyS0hwdXBIdTM3TS10UmNPN21VUm81R0NpeFFXNlRvTGdyVjVGbWFZRWpoTF9UX05EcG55c1lpelREekNsMW0yaURSYnNJY1FIN19HWHlMNFhmMHRwQTNzTDFJY0k5ZkhaM2wzWHFrR2FTdGFRc3IxcUIxVzRqREFNWE5HdXJBSHg5am1qY3JrOHNaWldLcmNRNGtLV1VuUTQ?oc=5",
-   "source": "Breakwave Advisors",
-   "published": "2026-10-16T11:35+00:00",
-   "added": "2026-10-16T17:33+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "freight rate"
-   ],
-   "summary": "Falling Cape Freight Rates: Guinea’s Bauxite Shipments Move from a Test of Resilience to a Test of Elasticity Breakwave Advisors",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "25a56944d2db",
-   "title": "DHL Express puts its faith – and its cash – in Africa’s trade potential",
-   "original_title": "DHL Express puts its faith – and its cash – in Africa’s trade potential",
-   "url": "https://theloadstar.com/dhl-express-puts-its-faith-and-its-cash-in-africas-trade-potential/",
-   "source": "The Loadstar",
-   "published": "2026-10-16T11:33+00:00",
-   "added": "2026-10-16T12:00+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe",
-    "Africa"
-   ],
-   "tags": [
-    "logistics",
-    "supply chain",
-    "supply chains"
-   ],
-   "summary": "DHL Express has committed €300m in investment across Africa through to 2030, as the logistics group urges UK businesses to diversify supply chains and pursue opportunities in an area expected to become a major global growth engine by 2035. Hennie Heymans, CEO of DHL Express Sub-Saharan Africa, said the investment “reflected the company’s confidence in the continent’s long-term prospects”, amid shifting global trade relationships, geopolitical tensions, and changes to supply chains. “We would not commit to €300m if we didn’t believe in the future of this continent,” he said today. He said only 12% of African cities were connected by at least one commercial flight a week, underscoring the challenges facing companies seeking to expand manufacturing and distribution. DHL is looking to address some of these constraints through its existing network, which Mr Heymans said spanned every African country and territory. In sub-Saharan Africa, the company operates 12 dedicated aircraft, alongside road transport, facilities and other air connections. The executives stressed that businesses should not approach Africa as a single market, given the differences in languages, legal systems, currencies, and trade regulations. “Be specific to which countries in Africa you want to offer trade to,” Mr Heymans said, and advised companies to identify markets and sectors best suited to their products before expanding.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "04085d93c17f",
-   "title": "Jordan launches USD 2.5 billion railway project in partnership with UAE",
-   "original_title": "Jordan launches USD 2.5 billion railway project in partnership with UAE",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc1hvTFVXSW5WSzRpb29GQUdsaUtMZFlRbktUY29sNHZFUU9WVDctajlLbnk2VzJEcWRER1lrdjFGdlN3UzJRNUgzMzc0cGRMdFF3UkY4ZGozaXJ5U0ltano3Tjc5NFk0R0tERjNLeldjQURCbjRlN1h0UUcxN1dyUFNqQnpKanFXNXUyMVVMZlRUd1Fyeno5VEtkNG5sbXo4bjFPbQ?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-16T11:31+00:00",
-   "added": "2026-10-16T20:10+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "railway"
-   ],
-   "summary": "Jordan launches USD 2.5 billion railway project in partnership with UAE Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "99557249028e",
-   "title": "Maersk warns East Africa shippers of port delays through December",
-   "original_title": "Maersk warns East Africa shippers of port delays through December",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNkJ3bEtwTTVzNVd4ZDhZQjhZQmlfNHYzc2lTb3hhQk9PN3lyVzZralpBRmEzcUlsOWlkOEFNTGJBUmFTTzNrNGhlVWUwVEViRnlDZEF6TXpJWktjWGsxN01iNVYzRXlET2xwamhSTi1HTjg0UnFJYkp3Y2lvVTlqSjIzeGI1WWdNRHhtMHAxZzVtVm80VzAtODFQNXVQTjg?oc=5",
-   "source": "Food Business Middle East & Africa",
-   "published": "2026-10-16T11:30+00:00",
-   "added": "2026-10-16T12:00+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East",
-    "Africa"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Maersk warns East Africa shippers of port delays through December Food Business Middle East & Africa",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "207f622dae19",
-   "title": "Oil Prices Ease as Emergency Reserve Releases Offset Middle East Supply Fears — WTI Still Heading for Strong Weekly Gain",
-   "original_title": "Oil Prices Ease as Emergency Reserve Releases Offset Middle East Supply Fears — WTI Still Heading for Strong Weekly Gain",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNb1lOc3FRTWEtbWhVZXZMNzBXZnNyUy1Zcll5T2dWYnZqVU9abTlMdlowUlByanZaMUpROXd1VDFZN0VzdUdwU2l1d0xjbFVYSEV4YWFFN2pSUjBfZ1p0M19rbDY0M2YxWmR6d2FCWmVFZlRRVmo0UGV0d0lhMEx2ck5HT29kMGR6RVRfNHZ6QjF0X1BlelVOcEI0NllNRVU5TkpSVjhqTjM4Q3BaMTNrcGFBS0hrRnM2WGh6Z0F2VlotVHdFSGduaFZhNlRpSml5N3poTUZ1Vk5vUE9QNTdGYW8xWQ?oc=5",
-   "source": "EnergyNow.com",
-   "published": "2026-10-16T11:30+00:00",
-   "added": "2026-10-16T12:42+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "oil price",
-    "prices"
-   ],
-   "summary": "Oil Prices Ease as Emergency Reserve Releases Offset Middle East Supply Fears — WTI Still Heading for Strong Weekly Gain EnergyNow.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6be3cde73840",
-   "title": "U.S Considers Lifting Sanctions On Shadow Fleet Tankers To Ease Record-High Global Freight Rates",
-   "original_title": "U.S Considers Lifting Sanctions On Shadow Fleet Tankers To Ease Record-High Global Freight Rates",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMWJfYm5GeDQzbXJ5Q3lsOHRpTzQtSl9pd3lZS2wyV0hBY1BlY2tmUDZ3YnA3dzdsc0RDSmRyRzdzS2tUeGZISW0zdHhBSF9ZbEpfNktJazlwTWQ4a0tTeFJLSXFmNGdaU0F4MGxNazk2UGh2ek1GWm9RdHlwUTFmbFR5dVdUS0VLaE1vMERpMTVURGotbXYzbDV5UHVnbkVVNU9XRHdMODFEMXlEMGVSUzBhRFhPeGtzcEcyb0RaM19hbFM2Zmc?oc=5",
-   "source": "Marine Insight",
-   "published": "2026-10-16T11:29+00:00",
-   "added": "2026-10-20T11:33+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "fleet",
-    "freight rate",
-    "sanction",
-    "shadow fleet"
-   ],
-   "summary": "U.S Considers Lifting Sanctions On Shadow Fleet Tankers To Ease Record-High Global Freight Rates Marine Insight",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ebe6ee776c95",
-   "title": "Hapag-Lloyd Revises ZIM Acquisition Bid",
-   "original_title": "Hapag-Lloyd Revises ZIM Acquisition Bid",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalRZdXNldk1rQl9TVUYtZ3NtaWJvN19MRGQ3UlRLTm9pNmpBSWZKX3RVbUoxR3ZCcFdtTGNTU0hEUS1HWkdxTVRQelctb2pTbXBZdU1WRTF2Sk9oVkNmMFpEVDRQYnpIM192RWJ5VHQ3bjdGWENVV2lGOHp6U3NBaA?oc=5",
-   "source": "Supply Chain Digital Magazine",
-   "published": "2026-10-16T11:23+00:00",
-   "added": "2026-10-16T11:26+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquisition",
-    "supply chain"
-   ],
-   "summary": "Hapag-Lloyd Revises ZIM Acquisition Bid Supply Chain Digital Magazine",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "54cecc47e023",
-   "title": "Waalhaven area of Rotterdam port gets six 740-metre tracks",
-   "original_title": "Waalhaven area of Rotterdam port gets six 740-metre tracks",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTFtUzVzZUpESXM5R0ZZeFFONXFWNTRid0dhRFFSa0xyR0FxYzlsOEdqNGVvS1NyMkdzSU95YzlQRGZPS0EwNzJYbmdwVnN6Nl9aTEFqX3ZmSVA2QU9kOE9BV0VvamFLcHVKbFhzZXZNdklpbUV3ZXg2dDFSdHBaWWJyS1Rrc0w0TVdqazM1dUJwTXZpblFkT2dmUVltUU1sUVRtU0dKT0N1bm1BU3g0?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-16T11:23+00:00",
-   "added": "2026-10-16T17:01+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Waalhaven area of Rotterdam port gets six 740-metre tracks RailFreight.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5965476a49a9",
-   "title": "Baltic Block of Russian Grain May Open Black Sea, Latvia Says",
-   "original_title": "Baltic Block of Russian Grain May Open Black Sea, Latvia Says",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVBvZ1UxRmhHcDl1akh4R2tNWXJGLXFnN2xjS0pVUFROaEloRE9oYmJSelU2cVREeEZja096Z3lUVjZzSzRvOFJ3b3RQN2loQ3BqWXYzZmNpX1NNNm5KOWZfX2pWbndoMWwyWjFuQldJZFU3TWlUcXVaU0FCUjhUZWRaVnBtRW5JbGpwZkkzbXpjdG5sSEdONWgzc1ZTTkVfeWtjZzFUOWtYYzBVZlEycw?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-10-16T11:22+00:00",
-   "added": "2026-10-16T12:42+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Baltic & Nordics",
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "baltic",
-    "black sea",
-    "grain",
-    "russia",
-    "russian"
-   ],
-   "summary": "Baltic Block of Russian Grain May Open Black Sea, Latvia Says Bloomberg.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3b3ac29f8cb7",
-   "title": "AI won’t plug forwarder margin leaks without better data and processes",
-   "original_title": "AI won’t plug forwarder margin leaks without better data and processes",
-   "url": "https://theloadstar.com/ai-wont-plug-forwarder-margin-leaks-without-better-data-and-processes/",
-   "source": "The Loadstar",
-   "published": "2026-10-16T11:19+00:00",
-   "added": "2026-10-16T11:26+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "forwarder",
-    "shipping"
-   ],
-   "summary": "Freight forwarders must tackle unbilled charges, manual rework, and unreliable data before expecting AI to protect their margins, according to Metro Shipping and Portcast. Speaking on The Loadstar Podcast , Ian Powell, tech and solutions director at Metro, said profitability could be eroded by incorrect buy and sell rates, costs not passed on to customers, and repeated administrative work. “If we’re constantly reworking activity, if we’re raising credits against jobs, re-invoicing jobs, that’s not optimal for us from an operating cost point of view,” he said. Emma Crumpton, enterprise solutions director at freight intelligence platform Portcast, highlighted detention and demurrage as a particularly complex source of margin erosion. But both guests stressed that automation depended on reliable data and understanding the task. Mr Crook said Neolink’s staff were handling 80% to 90% more shipment volume than three years earlier, without an increase in staff numbers. Mr Crook said receiving orders two or more weeks in advance helped the forwarder make earlier bookings and choose services suited to customers’ actual inventory requirements, avoiding unnecessary premiums for speed they did not need. Meanwhile, The Loadstar’s State of AI in Supply Chain 2026 report found 48.7% of respondents cited integration with existing systems as a major barrier to scaling AI; while 53.8% identified insufficient in-house AI expertise and change-management capability.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
