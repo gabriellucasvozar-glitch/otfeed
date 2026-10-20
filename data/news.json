@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T19:19+00:00",
+ "generated_at": "2026-10-20T19:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,62 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "3397a350407f",
+   "title": "Grain Market Report 20th October",
+   "original_title": "Grain Market Report 20th October",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81cTlTQ3V6M050VjZ4THYwTHFVekctV2Rwckgwa1huY3R0MTRzZE1VRjdmY1ZwaVB2VWJCaHFySFlTUnkyNnhTZHhNQkQxQnZGRHFLVVR6bGZLbHZ1bEhoc3FKUjFDYnFMMkVuZEpXUEJOR3huR1laLU5QWQ?oc=5",
+   "source": "Irish Farmers' Association",
+   "published": "2026-10-20T19:47+00:00",
+   "added": "2026-10-20T19:55+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Grain Market Report 20th October Irish Farmers' Association",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "aa17a3bf8e2c",
+   "title": "Russia ships the least crude oil in a month as major Baltic port halts",
+   "original_title": "Russia ships the least crude oil in a month as major Baltic port halts",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNczZrRFptYkp6S2p6UlkweGdyempTXzNZNEFmODlCdlprZ2Jsd1AzdFo5d0R2am5CcVVwQlJ5N0xQcFBXZDNGcWN5S2dWS3Y5c2tSdUt6dGoybnI1TFIwWTZoMWFSdE1Nc2w0UGRrSUI4ZDA4LWt0djNscnZNWlhGbzJva1NxZU1PaU1jblB3b1FTbDNGVTIzOElHS3c4anZiT2NFVUpYbVVubnJCQ2NDaG5uT3J1SEQ0Z0JDZEJZNERQSnFvd1BXVUdlWlNOdHpQd0kwV0p3c1A4ZUJweTRVekN3d2M5QWkwNFE?oc=5",
+   "source": "The Economic Times",
+   "published": "2026-10-20T18:49+00:00",
+   "added": "2026-10-20T19:55+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "baltic",
+    "crude",
+    "port",
+    "russia"
+   ],
+   "summary": "Russia ships the least crude oil in a month as major Baltic port halts The Economic Times",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "a9705ba8208a",
    "title": "FG, Bi-Courtney settle dispute over Lagos airport terminal",
@@ -827,6 +883,35 @@
    ],
    "summary": "Iran Pushes Central Asia Trade Routes in Kazakhstan Talks Financial Tribune",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "eb1cac4b803a",
+   "title": "Piling completed for Gdańsk’s floating LNG terminal",
+   "original_title": "Piling completed for Gdańsk’s floating LNG terminal",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XZExfdFdzSFhUZFdBbTMzVjEteE1VcjdSN2oyU1pzQjh5Zmc1YmJnVW1lWWVjM2hBOVRDNXFDdzNaaUVDNzExQ2d0Q0E0cFRRdjczQ1FPMkFmZ0p2TW1QZlBzQUY4RS1YV0RDME1kT2x4aks3T3NOSg?oc=5",
+   "source": "CEEnergynews",
+   "published": "2026-10-20T13:21+00:00",
+   "added": "2026-10-20T19:55+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gdansk",
+    "lng",
+    "terminal"
+   ],
+   "summary": "Piling completed for Gdańsk’s floating LNG terminal CEEnergynews",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16474,89 +16559,6 @@
     "vessel"
    ],
    "summary": "This was the first time three different marine fuels had been supplied on the same day to different vessels berthed at the same port in China, according to the Ningbo Maritime Safety Administration (MSA). The LNG bunker vessel Haiyang Shiyou 302 delivered around 7,400 cbm (3,300 mt) of LNG at the Chuanshan port area on 30 September. The methanol bunker vessel Zhongran Green Energy 85 supplied around 7,500 mt of methanol at Meishan terminal, while Sijie 21 delivered around 3,000 mt of B24 biofuel blend at Daxie terminal. The three bunkering operations marked the first time in China that three different marine fuels were supplied simultaneously to vessels berthed at the same port, according to the Ningbo MSA. “The ‘one port, three supplies’ model signifies a diversified and large-scale breakthrough” in the alternative fuel bunkering capacity of Ningbo-Zhoushan Port, Ningbo MSA added. On 28 September, Sinobunker’s bunker vessel Daqing 268 supplied 300 mt of bio-methanol to COSCO’s container ship Carnation at the Nansha terminal in the Port of Guangzhou. The operation followed an earlier delivery by Daqing 268 of around 1,000 mt of pure bio-methanol to NYK Group’s dual-fuel bulk carrier Green Future at Guangzhou’s Lantau Anchorage. These two deliveries demonstrate Guangzhou Port’s ability to handle methanol bunkering at both terminals and anchorages, according to the port authority.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "6a2835584899",
-   "title": "Dry bulk safety: scrap metal fires, fumigation and enclosed spaces",
-   "original_title": "Dry bulk safety: scrap metal fires, fumigation and enclosed spaces",
-   "url": "https://www.hellenicshippingnews.com/dry-bulk-safety-scrap-metal-fires-fumigation-and-enclosed-spaces/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16T10:00+00:00",
-   "added": "2026-10-16T10:15+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "charter",
-    "dry bulk",
-    "scrap"
-   ],
-   "summary": "BIMCO’s Dry Bulk Cargo Network discussed three persistent safety challenges at its latest meeting: fire risks from contaminated scrap metal cargoes, the shift of fumigation duties from specialists to ships’ crews, and continuing fatalities in enclosed spaces. Members highlighted the need for clearer cargo information, stronger charter party provisions, and practical measures to protect crews. The eighth meeting of the BIMCO Dry Bulk Cargo Network was held on Thursday 8 October 2026 and covered the following agenda items: Scrap metals had previously been discussed at the sixth meeting in early 2025, when views differed over whether the IMSBC Code schedule for scrap adequately covers the different types of scrap and the effects of contamination by materials such as plastics, tyres, and oils. These include questions about the meaning of “as dry as possible;” surveyors finding more plastics, tyres, oils and flammable material than the declared impurity percentage suggests; and the implications of lithium batteries being present, including whether this introduces dangerous goods considerations under Class 9 of the IMDG Code. These include confusion about the distinction between different scrap metal cargoes and how they should be described and classified, and a general lack of understanding of the hazards.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "9bded36f8073",
-   "title": "Asian refiners face margin squeeze from record tanker costs",
-   "original_title": "Asian refiners face margin squeeze from record tanker costs",
-   "url": "https://www.hellenicshippingnews.com/asian-refiners-face-margin-squeeze-from-record-tanker-costs/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16T10:00+00:00",
-   "added": "2026-10-16T10:54+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "hormuz",
-    "shipping"
-   ],
-   "summary": "The cost of shipping oil in supertankers has reached record highs, putting pressure on profit margins for Asian oil refiners who rely heavily on Middle Eastern crude, the International Energy Agency said in a monthly report. Asian refiners have encountered the highest transportation costs as cargoes move through the Strait of Hormuz to secondary tankers for onward delivery, the IEA said. The freight rate for a Very Large Crude Carrier on a route from the Middle East Gulf to Asia had climbed to around $36 per barrel by early October, more than five times the cost before the Iran war, the agency added. Refiners can partially offset this by purchasing US crude, but those freight rates have also increased, with costs for the US Gulf Coast to China route exceeding $37 per barrel, the IEA said. The rise in delivered crude costs pushed margins for Asian refiners processing medium sour crude into negative territory in September, the agency said. Source: Investing.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "732d7ca1068b",
-   "title": "Wheat Returns to 2-Month Low",
-   "original_title": "Wheat Returns to 2-Month Low",
-   "url": "https://www.hellenicshippingnews.com/wheat-returns-to-2-month-low/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16T10:00+00:00",
-   "added": "2026-10-16T10:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "grain",
-    "wheat"
-   ],
-   "summary": "Wheat fell to around $6.65 per bushel, its lowest level since August 18, as early assessments pointed to a significantly larger Australian harvest. During a two-day crop tour, scouts from the Grain Industry Association of Victoria reported strong yields across the region, with only limited signs of water damage and disease. The prospect of increased Australian supplies could ease pressure on buyers in Southeast Asia and the Middle East as the escalating Black Sea conflict threatens grain shipments from two of the world’s largest wheat producers. Geopolitical risks remain elevated after Ukrainian President Volodymyr Zelenskyy ended a three-day pause in attacks on Russian oil refineries, citing continued Russian strikes on Ukrainian energy infrastructure and uncertainty over US support. The tour covered key growing areas, including Horsham and Ouyen in Victoria and Wagga Wagga in neighboring New South Wales, with findings expected within the coming week. Source: Trading Economics",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
