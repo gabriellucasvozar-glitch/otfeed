@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T13:35+00:00",
+ "generated_at": "2026-10-20T14:16+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "3406bb028626",
+   "title": "Salalah port concession extension ruled out beyond 2028",
+   "original_title": "Salalah port concession extension ruled out beyond 2028",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFxZ24taFpKZFdBYXViM01nMlNlcENVNk5Yc3JxTDkyZGZQRUJtVWgzTjlvVE1wQnViQ2h1T3hlUTRCRzFIYlpuaE4zLU5zcjEyLUVCOXV6S2t3V29CZi1HeDEzcXhGRXFrR19WS0I1Y1J1anN0TlhEa2lBNXZoTkx3Y2VtdHZla2tJZGYyRGpWRWZ5QnQ0cURFSXhFMi1JWTNNSS14dlo0X184RnliMzZ3?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-20T13:30+00:00",
+   "added": "2026-10-20T14:16+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "ports",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "concession",
+    "port"
+   ],
+   "summary": "Salalah port concession extension ruled out beyond 2028 Port Technology",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
   {
    "id": "abe27cbb6fb5",
    "title": "Ukraine advised to make greater use of Galati and Braila ports for grain exports",
@@ -41,6 +68,35 @@
    ],
    "summary": "Ukraine advised to make greater use of Galati and Braila ports for grain exports UkrAgroConsult",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "18173c8482bc",
+   "title": "Dongwon plans Busan terminal automation expansion",
+   "original_title": "Dongwon plans Busan terminal automation expansion",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFVnTkxFMWpFLTJiMjJKQWhUaGJOdm9OUVB2Q1ZpWUVUelJiNmdfUDh6YkZsdFhmc0swQ3Y4RzU1LURxdkVFR29GX181TG42dE0zMlJBbjU4eGZ3SnNBbEdwR1FwU1IzY1RWME1iWWRlWGZSdk1wVXc5NHVqZnl4Nm5tNHZhb2hzWEhfUUttQjNMXzZLNkJFa21Hc2xDMlluVmNvQUNaaDY1Zl9kaERFQzdPYlA?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-20T13:16+00:00",
+   "added": "2026-10-20T14:16+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "ports",
+    "equipment"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "automation",
+    "port",
+    "terminal",
+    "terminal automation"
+   ],
+   "summary": "Dongwon plans Busan terminal automation expansion Port Technology",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -157,6 +213,91 @@
    "summary_method": "extract"
   },
   {
+   "id": "02bebccb6940",
+   "title": "Fruit and vegetable volumes rise 7.6% at Port of Antwerp-Bruges",
+   "original_title": "Fruit and vegetable volumes rise 7.6% at Port of Antwerp-Bruges",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVBZdmF0N2lsSUQwTTZFdnRpbWFKM2lJUVJ3Z1ZXWW1DaHE4RE5fc21nUy1nOFFOOHVtYUQwTEh4cTJHTnlFd3dNM0ZITi1WYXowT1NpS3c0SlZXT3dKSUVzZ2t2QW1IbENLcWhwNXhuU1NSNzVuZGF6dGJaTGQwcHI0RkdKZkRIeWw5SnhBSzhpcVFic3didDVDYl9RdS05eU5vY2UtUXdOSnVjQ0dfQXJDM3pfQlNsemhuUQ?oc=5",
+   "source": "FreshPlaza",
+   "published": "2026-10-20T12:17+00:00",
+   "added": "2026-10-20T14:16+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Fruit and vegetable volumes rise 7.6% at Port of Antwerp-Bruges FreshPlaza",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "76fcca6e4b0c",
+   "title": "China Sends Naval Forces to Monitor US Warship Near Disputed Shoal",
+   "original_title": "China Sends Naval Forces to Monitor US Warship Near Disputed Shoal",
+   "url": "https://gcaptain.com/china-sends-naval-forces-to-monitor-us-warship-near-disputed-shoal/",
+   "source": "gCaptain",
+   "published": "2026-10-20T12:16+00:00",
+   "added": "2026-10-20T14:16+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "chinese",
+    "military",
+    "vessel"
+   ],
+   "summary": "An aerial view of China occupied Subi Reef at Spratly Islands in disputed South China Sea April 21, 2017. REUTERS/Francis Malasig/Pool/File Photo BEIJING/TAIPEI, Oct 20 (Reuters) – China’s military said on Tuesday it had sent forces to watch a US warship that “illegally” entered waters around a disputed shoal in the South China Sea, while further north in the waterway, Taiwan reported a standoff with a Chinese vessel. China views almost all of the South China Sea as its own territory, despite overlapping claims by Brunei, Malaysia, the Philippines, Taiwan and Vietnam, with recent tension most pronounced between Beijing and Manila. A Philippines’ military spokesperson said the US ship “did not trespass into ‘Chinese territory’,” adding that no nation had the authority to require prior permission for “lawful transit through international waters.” Last month, a China Coast Guard vessel rammed a Philippine boat on a refueling mission near the same shoal, according to the Philippine Coast Guard. In a separate incident on Tuesday at the top end of the South China Sea, Taiwan’s Coast Guard said a Chinese Coast Guard ship had entered restricted waters near the Taiwan-controlled Pratas Islands.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "02ba03e0a029",
+   "title": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project",
+   "original_title": "Maersk and Hateco Plan $3.5 Billion Vietnam Rail Freight Project",
+   "url": "https://gcaptain.com/maersk-and-hateco-plan-3-5-billion-vietnam-rail-freight-project/",
+   "source": "gCaptain",
+   "published": "2026-10-20T12:12+00:00",
+   "added": "2026-10-20T14:16+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Baltic & Nordics",
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "rail freight",
+    "railway",
+    "terminal"
+   ],
+   "summary": "FILE PHOTO: A truck transports a Maersk container at APM Terminals at the Port of Los Angeles, California, U.S., March 4, 2026. REUTERS/Mike Blake/File Photo Oct 20, 2026 (Bloomberg) –A.P. Moller-Maersk A/S, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a railway freight terminal network in Vietnam during President To Lam’s official visit to Denmark. Moller-Maersk, inked a memorandum of understanding with Hateco in Copenhagen on Tuesday to develop a container terminal system with total investment estimated up to $3.5 billion, according to a statement from Hateco . The proposed network, which will include a rail freight terminal in Haiphong and three container facilities across northern provinces, “aims to connect industrial parks, logistics hubs and production zones with major transport hubs,” it said. The container project comes as Vietnam ramps up infrastructure investment to support its multiyear double-digit economic growth target, seeking to boost spending to attract private capital and spur development. Read More: Vietnam’s 10% Growth Dream at Risk as Iran War Chokes Fuel Flows Maersk has already partnered with Hateco on a $400 million container port project in Haiphong, according to the Vietnamese company.",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "extract"
+  },
+  {
    "id": "d571b5809be6",
    "title": "New mining operations unearth opportunities for logistics in Africa",
    "original_title": "New mining operations unearth opportunities for logistics in Africa",
@@ -186,6 +327,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "3b49aeb692dc",
+   "title": "Japanese Firms Test Middle Corridor Freight Route as Tokyo Funds Aktau Port Upgrade",
+   "original_title": "Japanese Firms Test Middle Corridor Freight Route as Tokyo Funds Aktau Port Upgrade",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SRGlJb3N5WFdZd1NHcENCMXBoMTVtTzYxSlFxYlFYZlBOUEhKVkJoODdoRHVfRVVMWG5kb2pucHRhR3V1dFZ1WElZeGRac0hFcDlsODZxVlJrV0gzcFJSUGY5VU53d1pjN2dVcnVn?oc=5",
+   "source": "The Times Of Central Asia",
+   "published": "2026-10-20T12:09+00:00",
+   "added": "2026-10-20T14:16+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "ports",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor",
+    "port"
+   ],
+   "summary": "Japanese Firms Test Middle Corridor Freight Route as Tokyo Funds Aktau Port Upgrade The Times Of Central Asia",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "62e128a0e1e0",
    "title": "Dray Dog-CargoWise link-up will automate port bookings for drayage",
    "original_title": "Dray Dog-CargoWise link-up will automate port bookings for drayage",
@@ -210,6 +378,31 @@
    "summary": "WiseTech Global has integrated its CargoWise Landside transport management systems (TMS) with marine terminal appointment software provider Dray Dog, enabling US drayage operators to automate port bookings and reduce manual data entry. The integration connects Dray Dog with CargoWise’s Trinium, Profit Tools, and Compcare management systems, allowing dispatchers and customer service representatives to receive confirmed appointment details, including reference numbers, directly within their own TMS. Dray Dog, a CargoSprint company, automates the process of securing marine terminal appointments by continuously retrieving available slots, and booking them according to predefined carrier parameters. The move targets a longstanding administrative burden for drayage operators at the ports of Los Angeles and Long Beach that must coordinate terminal availability, appointment bookings, dispatch systems, and driver schedules across multiple platforms. Former Harbour Trucking Association CEO Matt Schrap previously told The Loadstar : “You’re operating across several different platforms, not only in the port ecosystem, but within your own company. It’s about efficiency.” According to Mark Rabens, SVP transportation at Custom Goods & Quik Pick Express, the Trinium TMS-Dray Dog integration will ultimately save time and money, while improving customer service levels. And Jon Steitzer, head of Dray Dog, added: “Every minute counts in drayage.",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "8b16e12f245a",
+   "title": "Curaleaf Continues Florida Expansion with Port Orange Dispensary Opening",
+   "original_title": "Curaleaf Continues Florida Expansion with Port Orange Dispensary Opening",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFZ2djM5b2M2b0VZSHFwWUR4VllDSEdrQVRvUGZLRU5LcWlrMmNmcHZ0Y1BSR2hHc3oxbjRKZTYzckNPWkhuWEZnNFZEVzUwY1AzTm4zU0tNa19JVFRuTDc5a1lJYWQ3Z3hXR19lSTA0cE5DRUJzZzVoZGM2RnBlcnJnZGZtdTEzWVotRWhRczFMZGg3QTlFUGJYVGpGME82YXVsSA?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-20T11:45+00:00",
+   "added": "2026-10-20T14:16+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Curaleaf Continues Florida Expansion with Port Orange Dispensary Opening Yahoo Finance",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "b6ab6ab5e2a1",
@@ -557,6 +750,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "3fe6e3e1a1ee",
+   "title": "CMA Terminals completes stake purchase in Morocco container terminal",
+   "original_title": "CMA Terminals completes stake purchase in Morocco container terminal",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTTZBUUtSZnlZdFRNc2d1RkR2VWxYbC1tcnpyT01BN2xsbWQ4ei1GREFERjRSNUlhd1VJVDhMc3A0bUp4T2R5S1BmUExra3VOZEV2UFNDSktmLVF0XzlLSmk3TW5rYTdwY09KNFlmZFpoYkkySmJJTV9mb1hjVk5JdWg4eFUtd9IBkwFBVV95cUxObk1fZ0Ywb1poSnJBS3hscVUxeTBWX2paZk9wMktCck1GUzdMODFkRjdTY2hGbkhKTklJVlUyQlJHSXJkc3RCRUVaRHZnd293X1FiYVZSeWkxMjB1Q1FVemQtZlV3Ukh1YklYNmg2VGxBOU1vaUZMa0hyMzhMQ01UZVVYRW53YmYwM1lhUkdjX0tDWGc?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-20T10:25+00:00",
+   "added": "2026-10-20T14:16+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "mna"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "container terminal",
+    "stake",
+    "terminal"
+   ],
+   "summary": "CMA Terminals completes stake purchase in Morocco container terminal Baird Maritime",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "0a58d8b1149c",
    "title": "Euroseas seals bumper charter and $26m boxship sale",
    "original_title": "Euroseas seals bumper charter and $26m boxship sale",
@@ -609,6 +830,31 @@
    "summary": "Dutch inland shipping companies Amer Shipping and Van de Graaf & Meeusen have joined forces to establish a new chartering business in Antwerp, backed by a fresh dry cargo newbuilding order at Concordia Damen. The two family-owned operators have launched TriBarge to target Belgian and French shippers, combining their existing networks and vessel capacity with plans for joint fleet investment. The new company will handle dry cargo, general cargo and breakbulk movements across the Amsterdam-Rotterdam-Antwerp (ARA) region, German canals, the Moselle and inland waterways reaching Basel. Through its partnership with Stream Shipping, an existing venture between Amer Shipping and German cooperative MSG eG, TriBarge will also be able to serve destinations as far as the Black Sea. The newbuilding, to be named Porta Sud , is scheduled to enter service in the second half of 2027 and will be designed to access smaller inland ports, tributaries and canals as well as major rivers. The move comes just weeks after Amer Shipping returned to Concordia Damen for another two 110 m CDS Dry Cargo newbuildings, lifting its programme of shallow-draught vessels to six. Amer Shipping operates a network of close to 60 vessels, transporting around 9m tonnes of cargo annually across the Netherlands, Belgium, France, Germany and Switzerland.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "284cf6acdcee",
+   "title": "G7 backs more efficient fertiliser use to reduce farming’s vulnerability",
+   "original_title": "G7 backs more efficient fertiliser use to reduce farming’s vulnerability",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3YtQ1gtdklQTlpzMWdMT0N2eDBBODlRMFRwMkJULUx5dnRvTWFrS0t1djZDX2NMR21Ec2FUOERiRTRUa2Q4bWQzTFY4NHNLRVNLV1pqVU81QzhaVXRtcjhFNW5hYlZFaFlTZVpoZDdmb0NGbUd0OHJkQlBTd1FZSWZlNHN3LWcwaldYNExfS1A2VmVQTFpzNENMenZGdHB5T0stUmtyYw?oc=5",
+   "source": "eComercio Agrario",
+   "published": "2026-10-20T10:10+00:00",
+   "added": "2026-10-20T14:16+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fertiliser"
+   ],
+   "summary": "G7 backs more efficient fertiliser use to reduce farming’s vulnerability eComercio Agrario",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "79a848faa6c7",
@@ -16273,249 +16519,6 @@
    ],
    "summary": "Metrans gets building permit for new terminal near Berlin RailFreight.com",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5f627eb00f27",
-   "title": "Tanker rates retreat amid slower activity and shadow fleet uncertainty",
-   "original_title": "Tanker rates retreat amid slower activity and shadow fleet uncertainty",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLXdpQ1BuOUpEWjd1VFFaZFRkTXpNd29xRjJ0S3NEUnZvSmZ2QU1XNGlhVi13TG1qWWRHbE5UZFFFeHFrTkhYQ0hMd3JRREdubW4yUHFhRjdvWFJ5c0lLdnRNX1FqUFhMYmZQNHpORG5Ick00d01MNjk3Z2Q4QVRIckdrbzhUcXRxRlRhWkhmWjdIUmtIOU9xVU9RejFWc2FXVzdzUmpTRi1RaUU?oc=5",
-   "source": "Lloyd's List",
-   "published": "2026-10-16T06:43+00:00",
-   "added": "2026-10-16T09:43+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7.5,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "fleet",
-    "shadow fleet"
-   ],
-   "summary": "Tanker rates retreat amid slower activity and shadow fleet uncertainty Lloyd's List",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3cfff275dd3e",
-   "title": "Rapeseed Market Analysis – MATIF Flat, Canola Pressure, Ukraine Flows",
-   "original_title": "Rapeseed Market Analysis – MATIF Flat, Canola Pressure, Ukraine Flows",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMW9lQ0MydElHbm5mRlhsenJROWxMYTFWVDBPS2pfeXlFbFdaOW1JNlhrUzNRTlk0Z1JrdWFUcVBScnBRakM2c01CTmNVYkVMNHkzRVVidGNiMnVLYnh2VzAxc2RGV2RGYlEtOExKUUk1U3FxVFZyNmZnT0MxbGltSWhCSVo3dFNfMXU0bl95bXVtVTNZbGNWY3NWS2tRNzJqZ1NXeE5IWFJMN1g5aXc?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-16T06:39+00:00",
-   "added": "2026-10-17T01:57+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "rapeseed",
-    "ukraine"
-   ],
-   "summary": "Rapeseed Market Analysis – MATIF Flat, Canola Pressure, Ukraine Flows CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "728922cbf709",
-   "title": "Wheat Market Update: Black Sea Disruptions vs. Weak Demand",
-   "original_title": "Wheat Market Update: Black Sea Disruptions vs. Weak Demand",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFRQVzV1UGdzNS1jWWQxOVhRYl9DUjJETHFFM1NmbGg3S1FTLUIyTEI0LWkwYzBNTjBOXzVtb1NTSFRNTkZ2eWVDeTRUeGJwdElHSHNUcTF5bHo5S3dUaGhVV1FPNDhITm9vSWpidmVOZVhqMVgwWHJqc25GejFVRGp4TTE2bkNTYUxaRlhnNmhSUkRORFJn?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-16T06:37+00:00",
-   "added": "2026-10-17T01:57+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "disruption",
-    "wheat"
-   ],
-   "summary": "Wheat Market Update: Black Sea Disruptions vs. Weak Demand CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "eab648517d55",
-   "title": "Tydzień Wdzięczności na lotnisku Rzeszów-Jasionka. Terminal szykuje pięć dni atrakcji",
-   "original_title": "Tydzień Wdzięczności na lotnisku Rzeszów-Jasionka. Terminal szykuje pięć dni atrakcji",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHhiRmxsRmxmTUg5YjJQNWYxYWN0RlZ0alJ6akFjLVpYTG4ydGxDMHVWZUtTaFdYWXRTclpyd0tPbEFMaENHZXpLVGtaUmJsUzV6R3dGakxKR3R2X1FFNGZ3eFFZeHFBTDQ1LWRxbmpnazBkcVdjV1Q2RXRNVUkwZDE3NE9lMWlTc3NFUGVGWDBHTlc4Z2RJRTZOazlURjJrSV9pckdNMHU3ejNVSW51cEhTbVhJTGVCajhRSGlXaFp1RzZPWGd2THg2VVhOclhYRC1sWkhR?oc=5",
-   "source": "Rzeszów24.info",
-   "published": "2026-10-16T06:25+00:00",
-   "added": "2026-10-16T09:08+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Tydzień Wdzięczności na lotnisku Rzeszów-Jasionka. Terminal szykuje pięć dni atrakcji Rzeszów24.info",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cbac11c060cd",
-   "title": "VID: There will be no Russian diesel going through Latvia's ports / Article",
-   "original_title": "VID: There will be no Russian diesel going through Latvia's ports / Article",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSk9CM2NtNmNqTEhZbWRaSG9sSzNPcWhIX2M3eHpSbUk2YlZ6QWFBeFFPOWF5ZE90VFlFZFhmR0h2OTk1Vm9wY0ZwbjVPMi1FdDhUQ1NHeldXbFlES3lGdjFqYzlHWGY2aUNfN21FQl84Zm9JTUdJTDY1OTZTdG9hVUIyLW51ZUhEYXpjVWhOUUhfMXl6OEhPYVJFTUMwOHp0TmM3WEpVVTZrdkU1RlRIWnVnaEpIVldpTzJPN0ZRT3ZhWDlyek44?oc=5",
-   "source": "Latvian Public Media",
-   "published": "2026-10-16T06:21+00:00",
-   "added": "2026-10-17T06:48+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Baltic & Nordics",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "diesel",
-    "port",
-    "ports",
-    "russia",
-    "russian"
-   ],
-   "summary": "VID: There will be no Russian diesel going through Latvia's ports / Article Latvian Public Media",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0668d3502d55",
-   "title": "Brazil’s soybean acreage expansion to slow to a 20-year low — Conab",
-   "original_title": "Brazil’s soybean acreage expansion to slow to a 20-year low — Conab",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2k3cUtyNW5aSkU0OU5UeU9lc2xUOEJVYUVKRGVUanlBbnFWaGVmQXlzV2h5RFQ0UklrX3k0VXlKS2FfZjQ1MlRaQjNUUEhnSlJ5UVp6ckhTVVdoay15c25VdlhwX3B1ZEl5X1RYaDNrUHpTcm43elRTVUQwT1lsSDVHbGlZblptek0zWGV5MFAxQ2RvYVozbEFHV2R2NmxXMVE?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-16T06:15+00:00",
-   "added": "2026-10-16T09:08+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "soybean"
-   ],
-   "summary": "Brazil’s soybean acreage expansion to slow to a 20-year low — Conab UkrAgroConsult",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "32d59248b449",
-   "title": "Consumption of steel structures in Ukraine could rise by 10% in 2026 — UCSB",
-   "original_title": "Consumption of steel structures in Ukraine could rise by 10% in 2026 — UCSB",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzdJOUhMY3hFQ3J4VlRpYVFzMjNSdGoxSjJaQ2xxaDk2YkhidzNhSDN6YWtpalY2ekVzN1ptU1VyQk9IZXM2dEpySGloZWJybDVaVFIwR1l0QUFaTUJVRTF3S0hCUVJwZFdrN0RjNExFeEhrclVRTmZ1a1lvTHVKWEdwVjhJcTF3dU5wMU5kRHEyaVpmY21TR1dsSm45R3lBYmtjNXlaY9IBpwFBVV95cUxQXzdJOUhMY3hFQ3J4VlRpYVFzMjNSdGoxSjJaQ2xxaDk2YkhidzNhSDN6YWtpalY2ekVzN1ptU1VyQk9IZXM2dEpySGloZWJybDVaVFIwR1l0QUFaTUJVRTF3S0hCUVJwZFdrN0RjNExFeEhrclVRTmZ1a1lvTHVKWEdwVjhJcTF3dU5wMU5kRHEyaVpmY21TR1dsSm45R3lBYmtjNXlaYw?oc=5",
-   "source": "GMK Center",
-   "published": "2026-10-16T05:56+00:00",
-   "added": "2026-10-20T09:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "steel",
-    "ukraine"
-   ],
-   "summary": "Consumption of steel structures in Ukraine could rise by 10% in 2026 — UCSB GMK Center",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d0c638112782",
-   "title": "Op-Ed: Uzbekistan pushes Trans-Caspian corridor toward Europe",
-   "original_title": "Op-Ed: Uzbekistan pushes Trans-Caspian corridor toward Europe",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GUFpnZzlxcktZdVExSVR6RGtLVjJiN2dUdzY4NUl0SGNyREpkMXRkcVhUaVByQzRFa2FnNnZtRV9KWDZqTjlaZDhiUHhXX2dzd0dxWnNPV0dwUHPSAVdBVV95cUxQRWNNUkNHRzdIS19mcGJMSzBlWjlqUU4yN08zeGx3NmFLSE84NGVUVXQ2WHo1T1Z4NEtDRnZ2Q18zMnZiaDBnTkh6WE80d2toX0ZNMW85b2M?oc=5",
-   "source": "Aju Press",
-   "published": "2026-10-16T05:56+00:00",
-   "added": "2026-10-16T13:25+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "trans-caspian"
-   ],
-   "summary": "Op-Ed: Uzbekistan pushes Trans-Caspian corridor toward Europe Aju Press",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f4b5bb0b730a",
-   "title": "Official sulfur quotations in the Middle East were continuously lowered in October. Will domestic prices follow?",
-   "original_title": "Official sulfur quotations in the Middle East were continuously lowered in October. Will domestic prices follow?",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBud2N3TmJjYlVRb1dSNVZyR2RnWVI3VjZUTmNHN1FfVEV2NUtaOFNNNnd4NjJXRnpaWU0wS3VhUUlCRWt6VkRTNHJnVU1kNldMSlE?oc=5",
-   "source": "ChemNet News",
-   "published": "2026-10-16T05:54+00:00",
-   "added": "2026-10-16T16:25+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "prices",
-    "sulfur"
-   ],
-   "summary": "Official sulfur quotations in the Middle East were continuously lowered in October. Will domestic prices follow? ChemNet News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
