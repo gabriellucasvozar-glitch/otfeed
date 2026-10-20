@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T07:58+00:00",
+ "generated_at": "2026-10-20T08:36+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,92 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "05c32fd198e7",
+   "title": "MSC tipped for another 20 megamaxes in China",
+   "original_title": "MSC tipped for another 20 megamaxes in China",
+   "url": "https://splash247.com/msc-tipped-for-another-20-megamaxes-in-china/",
+   "source": "Splash247",
+   "published": "2026-10-20T08:31+00:00",
+   "added": "2026-10-20T08:36+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "china",
+    "shipping",
+    "teu",
+    "vessel"
+   ],
+   "summary": "Mediterranean Shipping Co (MSC) has reportedly added another 20 megamax containerships at China’s Hengli Heavy Industries, further expanding its already massive orderbook as global newbuilding commitments climb to their highest level in more than a decade. According to liner consultancy Linerlytica, Gianluigi Aponte’s carrier has booked 20 additional 24,000 teu vessels at the Dalian-based shipbuilder, representing another 480,000 teu of future capacity. The latest deal takes MSC’s programme of vessels exceeding 20,000 teu at Hengli to 62 ships, Linerlytica said in its latest weekly market report. MSC has built up a substantial pipeline at Hengli since the two companies signed a strategic cooperation agreement in 2024. The liner giant initially contracted ten 21,000 teu and ten 24,000 teu LNG dual-fuel newbuildings, before returning for six 22,000 teu ships last year. At the end of September, Alphaliner data cited by Splash put MSC’s operated fleet at around 7.4m teu, representing 21.5% of global liner capacity, with another 2.94m teu on order. South Korea’s HMM is also pressing ahead with its fleet expansion, confirming contracts worth about KRW1.92trn ($1.44bn) for eight 13,000 teu LNG dual-fuel containerships at HD Hyundai. Six vessels will be built at HD Hyundai Samho and two at HD Hyundai Heavy Industries, with deliveries starting in 2029.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "ebad0c8cecdf",
+   "title": "Navigator sets course for UK domicile",
+   "original_title": "Navigator sets course for UK domicile",
+   "url": "https://splash247.com/navigator-sets-course-for-uk-domicile/",
+   "source": "Splash247",
+   "published": "2026-10-20T08:16+00:00",
+   "added": "2026-10-20T08:36+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Western Europe",
+    "North America"
+   ],
+   "tags": [
+    "carrier",
+    "merger",
+    "restructuring"
+   ],
+   "summary": "New York-listed gas carrier owner Navigator Gas is moving to shift its corporate domicile from the Marshall Islands to Britain, putting the proposed restructuring to shareholders next month. The London-headquartered company said it had entered into a merger agreement with its wholly owned British subsidiary, Navigator Gas plc, which would become the group’s new listed parent company. Under the proposed transaction, Navigator Holdings shareholders would receive one share in Navigator Gas plc for every existing share held, with the new parent retaining the group’s New York Stock Exchange listing. Navigator pointed to Britain’s tax treaty network, corporate governance framework and established shipping tonnage tax regime among the reasons for the move. Navigator operates 48 semi- or fully refrigerated gas carriers, including 18 capable of transporting ethylene and ethane. It also holds a 50% stake in an ethylene export terminal at Morgan’s Point, Texas. Earlier this year, Navigator agreed to sell eight smaller gas carriers and its stake in the Unigas joint venture to an investor group involving Bernhard Schulte and Sloman Neptun. The transaction was valued at approximately $183m and formed part of the company’s move to concentrate on higher-specification gas tonnage. Navigator said the proposed change of domicile is not expected to materially affect employees, vessel operations or customer services.",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "eb45c476943d",
+   "title": "Głębokowodny port w Świnoujściu wybudują polskie podmioty",
+   "original_title": "Głębokowodny port w Świnoujściu wybudują polskie podmioty",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNC1RN3RHTHdnUmlLRUpnTjVSNUJ1U3U3SFpiRXJzQ2RqWnZRU2l3TXdDNUtWTEx0X3NGdDQ1aHhqeVRkd2ZxdWh3QWl4Zmd1SGZLMWJYNTZnOEFXS0x4REdpZl9fa2JPSFNPRXVWeDFaZUVpd3NfaGNzYUJNYzlTMjl1RWg3dEVDVjE0WW1ZRXhNdHZUVkZ4TFZBZDhkYkdJWk94OXgyUQ?oc=5",
+   "source": "PortalMorski",
+   "published": "2026-10-20T08:06+00:00",
+   "added": "2026-10-20T08:36+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polski",
+    "polskie",
+    "port"
+   ],
+   "summary": "Głębokowodny port w Świnoujściu wybudują polskie podmioty PortalMorski",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "664fc24acc95",
    "title": "Bulker officer missing after rescuing 28 from burning boxship",
@@ -232,6 +318,60 @@
    "summary": "Asset plays have been the name of the game in shipping circles in recent weeks, with a string of relatively new Middle Eastern players flipping tankers to Chinese buyers at eye-catching profits. But one familiar Greek name, long associated with remarkable timing in the sale-and-purchase market, has been conspicuously absent from the headlines. Now NGM Energy, controlled by the Moundreas family, is back in the S&P charts, with a reported deal that sees the Greek owner pocket a staggering $57.1m gross gain on a 16-year-old suezmax acquired less than a year ago. In November last year, NGM Energy returned to the buoyant secondhand crude tanker market, picking up the 156,527 dwt Advantage Summer (built 2010) for $40.4m. Now the Jiangsu Rongsheng-built tanker is reported sold for a remarkable $97.5m, with delivery to its new owners scheduled for January 2027, a $57.1m uplift in the vessel’s value, equivalent to a gain of more than 141% on NGM’s purchase price. Several other 2010-built ships in the same segments have changed hands over the past week, with price tags just under $100m. This week sales chatter suggest that the $100m barrier has just been broken, with unconfirmed reports noting a 2010-built suezmax tanker has just been sold for $103m.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "fba6163c9216",
+   "title": "Russian oil exports via Arctic rise amid global shipping crisis ᐉ News from Fakti.bg - World",
+   "original_title": "Russian oil exports via Arctic rise amid global shipping crisis ᐉ News from Fakti.bg - World",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemhwbkdYcktidEVIcklFTEZmNWxEM05zQnlBTWNiTVpmODNFM2xtTm5yVFFUd2g0SFQtM1pNaUVoaVBxRnk3ZjlrWXN4RXdfeUJEQWhkVWVVbzR6ejR3QVp2UXBpY2Z6VHB4V1VZbFZXYnlESnpvMzFoLWRCTUxYLUcxSGVXNFg4UUJ4WmRYY0ZFTGszdXpWX29wVV8xQQ?oc=5",
+   "source": "Fakti.bg",
+   "published": "2026-10-20T06:06+00:00",
+   "added": "2026-10-20T08:36+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "russia",
+    "russian",
+    "shipping"
+   ],
+   "summary": "Russian oil exports via Arctic rise amid global shipping crisis ᐉ News from Fakti.bg - World Fakti.bg",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "cf79a35adcf5",
+   "title": "Brazil strengthens its competitive position in soybean and corn production as US margins decline",
+   "original_title": "Brazil strengthens its competitive position in soybean and corn production as US margins decline",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaVBXd2tmZjZxSE41SFpXTU5tTExNNzdoYm1GbTAyaWkwVEJmS1VqWEsyWXhja25GMlhKLW9sYWphVGF0b3ZQeXIyc0doQVFfLXVBZk5IRTRjSTF3eFkwRHB2RkZvV2FKQTZWZFZHOGkwWDI3N3RVSl9oY1NzbmNWX3F5cXVBLVRWVFBxcjhKdVZIcWpQZEhlclZFOUZ3cDZzbmtMbmlGU2o2RWpBTFR1ZmhmT2RZT0JkX3Y2X3daYjdFZ1JKZXNDUVlzM1E?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-20T06:05+00:00",
+   "added": "2026-10-20T08:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "corn",
+    "soybean"
+   ],
+   "summary": "Brazil strengthens its competitive position in soybean and corn production as US margins decline UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "8b5093bd6301",
@@ -8435,6 +8575,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "f0ca9d9a7b48",
+   "title": "Iron ore price rebounds from two-year low",
+   "original_title": "Iron ore price rebounds from two-year low",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5idjBOUUlQam5Ma19LSkFYUlpyZjZtTUctX1A3dEFHOUFmM1Z4X2YybVBETDNpSjNYV1hxSDFpdmwxREYwMUVKOHlOc1Q0TnNVUkRrNFQycGExUFFfdjZPc2wxQmlaLVg0Nmc?oc=5",
+   "source": "Mining.com.au",
+   "published": "2026-10-17T08:56+00:00",
+   "added": "2026-10-20T08:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "Iron ore price rebounds from two-year low Mining.com.au",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b0fff5f0165f",
    "title": "P&H begins construction on grain storage expansion at Por ...",
    "original_title": "P&H begins construction on grain storage expansion at Por ...",
@@ -16352,172 +16517,6 @@
    ],
    "summary": "*Call for Resilient Regional Transport Systems: Iranian Minister Champions Digital Integration at the New Silk Road Forum* تین نیوز",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3bbbfbd5b270",
-   "title": "Is Eurogate Crane Order Altering The Investment Case For Konecranes Stock (HLSE:KCR)?",
-   "original_title": "Is Eurogate Crane Order Altering The Investment Case For Konecranes Stock (HLSE:KCR)?",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1ZRRnJzbGpZc0MybHFNS2pfSnN3MC1Wblk5cVgtVzhfeU5HeWEyckVPRmkxVk1aNWZuTlpnN0stVFhEaXk4TExvZkRXM2psbUZNUjY5elpWSXpXTmkxd1diOUpLMEJzbE4tTjdKeko4b0E4QnNfODV5bnZtNjh5Vlg3c2VLZUQ5UVhsZEQ4aEdPQklHUGRBQ1lsNGVoSlpKVlBVeVdqdjBVY3hacDc0TGFBVTQ0Rl9mcDQ2QktaMnVDNW5JWFotQjIyT3lQUHp1d0pv0gHYAUFVX3lxTE81MWt6SVRxLXdSbzBKZFZjeTVLNFFhdGJ0aF9ZSGRWZ193dG1uUThLbW12TFdyaXhBekFVN0JKRV9vOTBVUmxkTHFhVDd3bVN1SjJ3RjhLd01PM1VtN0ZnaXhPcm1VRlJwWnJrSjc0R0lrR0lubkptM2FudmVhcGJLNml4VFJKdk02MHNRbG9ramVILUJfZV85a0wwQzEwcWt3R2g1MloxdmQwaUkzeVJJaVBiLTFMckJic0VrZlpFNEFMdE9NOXVlWWFpWktzRjlsS3FseFhPUQ?oc=5",
-   "source": "Simply Wall Street",
-   "published": "2026-10-15T16:30+00:00",
-   "added": "2026-10-15T16:34+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "konecranes"
-   ],
-   "summary": "Is Eurogate Crane Order Altering The Investment Case For Konecranes Stock (HLSE:KCR)? Simply Wall Street",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "665cf98e2a0c",
-   "title": "Auto industry faces cost squeeze as steel, freight prices surge, more hikes likely",
-   "original_title": "Auto industry faces cost squeeze as steel, freight prices surge, more hikes likely",
-   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTXhUeXhTVno0RlJEUVdUODd0aDlJVm9xSEtRUmdPajhJUWNQTnFKWFpubHE4SlZiRzV0aVVrSXBHQ1ZqTHl5UW1HeUwtcGR5ZTNycHE0T3dvOGJpV1FXWEJhT09nZzdXZjR5cTNEQnkwcHlISUZlZ0w0U3dnSlYwdk4xVml2OUtEcElaczZjVTA4ZUZfRGY4Z0prWXRVTWEyZk1CMlNVdFdHVEpVV0FvUWJ2ZlB3SzNtdk5Gb1Fya3V1TTNTZG9VVE5iQThkdGl3VDdwV054ejgxdzlHeUU4TnBMN1BmNWRLeEtBMU1kUDZWdXJma1lLUEh6WXd5TG9va0NUQUF6SdIBgAJBVV95cUxNLUVQVGJFbmM5TU5uR28tT2NaNzU0ZWktRVlCOFR1cFc0cC0xVi1rZTlfblZXR0tCQVltZFBkcE1EZXBuWXM0V1lYRThEUG1RRG5EcW5WemQyeXJlNGp3Z1dBVXU2RlAtNTVLZGhWbk1rRnJyYUs1Si0yTW9yejQ3d1pUU0pfbGFhR09FdWxCUjYwR3lmbU5QVE91Zy1qUl85U0d1N0VJVmViZW53bk05SHpXbm5VYkRJaXBIV2gtSWtRN3FJcVlUUGRsRjRTVjdUVDVhMUdBS1pXOVpqVUdIR3ZqXzlqRVA4Q1FzbV9BbGEtSEVGMmJnS1lPTFpUZHNo?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-15T16:14+00:00",
-   "added": "2026-10-15T16:34+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "prices",
-    "steel"
-   ],
-   "summary": "Auto industry faces cost squeeze as steel, freight prices surge, more hikes likely The Economic Times",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "72505f3705ae",
-   "title": "UK Tightens Russian Oil Sanctions as U.S. Weighs Relief",
-   "original_title": "UK Tightens Russian Oil Sanctions as U.S. Weighs Relief",
-   "url": "https://gcaptain.com/uk-tightens-russian-oil-sanctions-as-u-s-weighs-relief/",
-   "source": "gCaptain",
-   "published": "2026-10-15T16:13+00:00",
-   "added": "2026-10-15T17:47+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "fleet",
-    "russia",
-    "russian",
-    "sanction"
-   ],
-   "summary": "The sanctioned tanker Smyrtos is escorted by Royal Navy vessels in the English Channel following a six-hour boarding operation by Royal Marine Commandos and National Crime Agency officers. The vessel is being held as part of a UK-led investigation into alleged sanctions violations and shadow fleet activity. Royal Navy Photo Britain has expanded its sanctions against Russia’s oil industry, targeting two more energy companies, a dozen shadow-fleet tankers and financial networks used to move money around Western restrictions. The measures, announced October 8 as part of a package of 38 sanctions targets, bring more than 90% of Russia’s oil production capacity under UK sanctions, according to the British government. The sanctions come as London and Washington appear to be moving in different directions on Russian oil. At the center of the latest UK package are Russian oil companies Zarubezhneft and INK Capital. The government’s claim that sanctions now cover more than 90% of Russian oil production capacity does not mean an equivalent share of production has stopped. Washington is now weighing whether to allow previously sanctioned tankers to carry oil and petroleum products that are not themselves subject to U.S. By Timothy Gardner and Jarrett Renshaw WASHINGTON, Oct 14 (Reuters) – The Trump administration is considering easing sanctions on so-called shadow fleet vessels that have transported oil and petroleum products...",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "7c0e6781297f",
-   "title": "Australia to introduce legislation requiring LNG producers to reserve up to 20% of output for domestic market",
-   "original_title": "Australia to introduce legislation requiring LNG producers to reserve up to 20% of output for domestic market",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tbnNTWl9FakpzVmt4dGVKQXEwRjVYdXdneUNJbXp3MTFpMmtyVDFsRWZFaHgwV29hWUZKUzctVnNzakdaYUJVX2hOQndkaFhPYnhzN24wOE1DYjJad3JGR21rX0M3SHZ1ZW1fYmZfUmNWQnFuM3BMUl90MHFzdw?oc=5",
-   "source": "Energies Media",
-   "published": "2026-10-15T16:10+00:00",
-   "added": "2026-10-16T16:25+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "legislation",
-    "lng"
-   ],
-   "summary": "Australia to introduce legislation requiring LNG producers to reserve up to 20% of output for domestic market Energies Media",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "92afab23cd7f",
-   "title": "Trump Weighs Lifting Shadow Fleet Sanctions as Tanker Rates Soar",
-   "original_title": "Trump Weighs Lifting Shadow Fleet Sanctions as Tanker Rates Soar",
-   "url": "https://gcaptain.com/trump-weighs-lifting-shadow-fleet-sanctions-as-tanker-rates-soar/",
-   "source": "gCaptain",
-   "published": "2026-10-15T16:06+00:00",
-   "added": "2026-10-15T17:47+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Russia & Belarus",
-    "North America"
-   ],
-   "tags": [
-    "fleet",
-    "sanction",
-    "shadow fleet",
-    "vessel"
-   ],
-   "summary": "military helicopter crew observes the sanctioned oil tanker Bertha during a right-of-visit boarding operation in the Indian Ocean. The interdiction marks the tenth vessel targeted in Washington’s expanding crackdown on shadow fleet oil shipments. Department of War photo WASHINGTON, Oct 14 (Reuters) – The Trump administration is considering easing sanctions on so-called shadow fleet vessels that have transported oil and petroleum products from countries including Russia, Iran and Venezuela, in an effort to reduce record-high global freight rates, a US official said on Wednesday. US Energy Secretary Chris Wright said in a video to the World Petroleum Congress in Riyadh this week that the administration was talking about easing the sanctions on shadow fleet vessels in an effort to cut record freight rates that have cut into demand for US crude, according to Energy Aspects, a research group. The Department of Energy said any move to relieve sanctions on the shadow fleet would not help Russia to move oil or oil products. Tanker freight rates have soared to record highs as the wars in Iran and Ukraine have stoked inflation and put US crude oil out of reach for Asian refiners, pushing them to ?seek alternatives from the Middle East and Latin America.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c2fb2cea9f59",
-   "title": "Nippon Steel Slovakia assesses impact of EU’s new steel measures",
-   "original_title": "Nippon Steel Slovakia assesses impact of EU’s new steel measures",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObUd3TXNwRTFYLVFzQ2NDVno1VDJtYS1qZDh1T1R2RWRQUnNzakR6WXpOdlpGX0QyZTM4d0NsN3JMOUtxOVNObnR2WGFqZHRabkFxRkVuSmo4bVdCRmpZdDVXZmd5U2RuRG03OElVYk1xUlE4Y3BsZGl0RFB6T0ZYc19NRTI5VzJKMWc0R1Fjaw?oc=5",
-   "source": "EUROMETAL",
-   "published": "2026-10-15T15:48+00:00",
-   "added": "2026-10-15T19:35+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Central & Eastern Europe",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "steel"
-   ],
-   "summary": "Nippon Steel Slovakia assesses impact of EU’s new steel measures EUROMETAL",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
