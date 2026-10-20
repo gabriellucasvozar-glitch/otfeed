@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T22:10+00:00",
+ "generated_at": "2026-10-20T22:46+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b37ddf162075",
+   "title": "Rail Port Arad for Chinese and Kazakh investors",
+   "original_title": "Rail Port Arad for Chinese and Kazakh investors",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVmpNQ2hPMTZoMkRmSm4tQmEwcWRjZng3NzRZbzlqOFdTU1BpMWQ2N1AyOXFidm92ZXFtRFpZYlJIalBSNjFVTDcyUGVRQi13TVhHMHhiNThaaHdJZHR0QjZ3cDV5eG00Z1k4dkE2Z2hrQlhjTENoQ05uTjBpY1dZMXVlNl9xcHpiNWkxdktMQ3dyQmJneUtxYmdfc2ZuS3daczhfR1lRc2pwUnBRR2ZrSmNqWTc4eVRMTVZoRlBXek1kZkRYdVVTazJNTkYzcGJhVzhiLTFNTQ?oc=5",
+   "source": "RAILMARKET.com",
+   "published": "2026-10-20T22:36+00:00",
+   "added": "2026-10-20T22:46+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "chinese",
+    "port"
+   ],
+   "summary": "Rail Port Arad for Chinese and Kazakh investors RAILMARKET.com",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "b241a9b249b6",
    "title": "Trump’s 50% Canada tariffs challenged in court",
@@ -393,6 +420,33 @@
    "summary": "Shipping has spent years tightening voyage costs, bunker procurement and commercial port expenses, but one sizeable part of the bill remains comparatively untouched: husbandry. For Antonis Malaxianakis, founder and CEO of Athens-based port cost management platform HarborLab, that blind spot is particularly evident around bunkering, crew changes and stores, where technical departments can still be managing substantial sums through spreadsheets and email. “Husbandry calls have never carried the same profit and loss visibility as commercial port calls,” Malaxianakis tells Maritime CEO. For Malaxianakis, who worked in disbursement departments at Thenamaris and Product Shipping & Trading before founding HarborLab in 2020, the problem is less about a lack of attention from technical managers than the tools available to them. “One data point from our analysis makes the structural difference concrete: 75% of technical managers in APAC still manage husbandry bills in Excel today, compared with 40% in EMEA,” he says. The HarborLab-managed vessels generated $220,000 in savings compared with $70,000 on the other half. The system also picks up incorrect and duplicated charges, with the company then taking discrepancies back to agents in an effort to turn the finding into a credit. Behind that sits a database built from more than 40,000 port calls across over 1,400 ports.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
+  },
+  {
+   "id": "5f5933f8675e",
+   "title": "The Middle East's Next Energy Boom Has Nothing to Do With Oil",
+   "original_title": "The Middle East's Next Energy Boom Has Nothing to Do With Oil",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORlJERll6dDNucHFMV1hsUDFaNnduTU1Rc2ota0hmX3JKeXJvSlppZWhaT3dvWDdpX0x4MDBnYlluQlMtVWxtMXZIWGlpd21tdjEwQlRCWXBuaGRXWnlaSktGcWJSSFZGNHFrRnVTdW1JemxIbmdnZW5TemZ4NW9FeGxaRjhOVC03VW1iOEpKbGlmMG1mcWd6WjRGeENUeDVuc202VFo1ZDVXa3BnVFRsSzJR0gGyAUFVX3lxTE5GUkRGWXp0M25wcUxXWGxQMVo2d25NTVFzai1rSGZfckp5cm9KWmllaFpPd29YN2lfTHgwMGdiWW5CUy1VbG0xdkhYaWl3bW12MTBCVEJZcG5oZFdaeVpKS0ZxYlJIVkY0cWtGdVN1bUl6bEhuZ2dlblN6Zng1b0V4bFpGOE5ULTdVbWI4SkpsaWYwbWZxZ3paNEZ4Q1R4NW5zbTZUWjVkNVdrcGdUVGxLMlE?oc=5",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-10-20T20:00+00:00",
+   "added": "2026-10-20T22:46+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "oil price",
+    "prices"
+   ],
+   "summary": "The Middle East's Next Energy Boom Has Nothing to Do With Oil Crude Oil Prices Today | OilPrice.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "3397a350407f",
@@ -16537,61 +16591,6 @@
     "tariff"
    ],
    "summary": "US-Mexico Tariff Talks Hit Snag as Lutnick Opposes Cutting Auto, Steel, Aluminum Duties BigGo Finance",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "08e69aa8c892",
-   "title": "Egypt opens US$13.1M El Amreya dry port in Alexandria",
-   "original_title": "Egypt opens US$13.1M El Amreya dry port in Alexandria",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMUZqZm8tajFtaFRIY0UyMGN1ZFh1b3cyVjFrVFV1QkpMNGI4VWVuS29hdXV0ek1KVDExOS1YTFhvc2tCNElzS2NxYnhBZGVTSnpueXh1TGxmNWhlV3d5OFpRNnc4VGd2TWFRbDcyVlFEd1UyS2tJODhRTjlLbmRqWU9RQjA2Q0VjVGJJWnhB?oc=5",
-   "source": "Food Business Middle East & Africa",
-   "published": "2026-10-16T11:47+00:00",
-   "added": "2026-10-16T12:00+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "rail"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East",
-    "Africa"
-   ],
-   "tags": [
-    "dry port",
-    "port"
-   ],
-   "summary": "Egypt opens US$13.1M El Amreya dry port in Alexandria Food Business Middle East & Africa",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e51d2567ade5",
-   "title": "Export bodies raise concern over tariffs and port efficiency",
-   "original_title": "Export bodies raise concern over tariffs and port efficiency",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblRzWHJtWnFCNTF2OWN2QmxaM3BudUk1a3FybnNLV0gtaEYxLXhUb2NaVUhNWFRnaU1HRl9mUEdjOU5sTEJSa1BEdUE1VkFRTW5kM0dVVnZaRGwxOGNEckt6M2duZzVHLXlZWWN5T0s1N0NfYUh4MkVLdTctNjh0WUg0NTR5VG5rQXcyaU1XSGNTUXg3SkN4U0FaZHRVT2c?oc=5",
-   "source": "Freight News",
-   "published": "2026-10-16T11:45+00:00",
-   "added": "2026-10-16T14:08+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "tariff"
-   ],
-   "summary": "Export bodies raise concern over tariffs and port efficiency Freight News",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   }
