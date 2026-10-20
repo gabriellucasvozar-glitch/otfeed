@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T12:07+00:00",
+ "generated_at": "2026-10-20T12:53+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,65 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "3ddabaad7503",
+   "title": "APM Terminals to lose control of Salalah transhipment hub in 2028",
+   "original_title": "APM Terminals to lose control of Salalah transhipment hub in 2028",
+   "url": "https://theloadstar.com/apm-terminals-to-lose-control-of-salalah-transhipment-hub-in-2028/",
+   "source": "The Loadstar",
+   "published": "2026-10-20T12:28+00:00",
+   "added": "2026-10-20T12:53+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "mna",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "concession",
+    "ministry",
+    "port",
+    "terminal"
+   ],
+   "summary": "APM Terminals is facing the prospect of losing control of the Omani deepsea transhipment hub of Salalah. Salalah Port Service Company announced it had “received formal notification from the Ministry of Transport, Communications and Information Technology, confirming that the existing concession agreements will not be extended beyond their contractual expiry date of 1 November 2028,” it said in a filing to the Muscat Stock Exchange. It added: “The notification further states that the decision not to extend the concession agreement is final and unconditional. The port is managed by Maersk’s port operating subsidiary, APM Terminals, which holds a 30% stake in Salalah Port Service Co and signed a 30-year operating concession in 1996 on a build-operate-transfer basis. However, profitability declined dramatically, due to the one-off cost of repairing a crane hit by an Iranian drone attack , as well as a 72% increase in fuel costs over the first half of 2025, and a requirement to increase terminal staff to handle the higher number of vessel calls, said CFO Farooq Zuberi. This followed a 31% increase in throughput last year, when Salalah was established as one of the key hubs for the new Gemini network.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "d571b5809be6",
+   "title": "New mining operations unearth opportunities for logistics in Africa",
+   "original_title": "New mining operations unearth opportunities for logistics in Africa",
+   "url": "https://theloadstar.com/new-mining-operations-unearth-opportunities-for-logistics-in-africa/",
+   "source": "The Loadstar",
+   "published": "2026-10-20T12:09+00:00",
+   "added": "2026-10-20T12:53+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "logistics",
+    "port",
+    "supply chain"
+   ],
+   "summary": "Mining developments in sub-Saharan Africa are boosting the continent’s infrastructure, which supply chain operators have been crying out for, but significant gaps remain. Data from the OECD shows more than $155bn will be required for upgrades in port, rail, and road infrastructure over the next decade if the sub-Sahara region “is to meet its potential”, but with multiple projects already under way, there are positive signs. DHL Express Sub-Saharan Africa CEO Hennie Heymans told The Loadstar : “We’ve seen enormous improvement. If you go to Kenya, there’s an incredibly smooth new highway, which is partly what’s driving the growth in that economy. “If you look at Ethiopia, it is building €15bn airport in Addis Ababa. Rwanda, one of the smallest countries, is building a €4bn airport. We see fantastic improvements in infrastructure.” And this investment is having real world logistics implications, with journeys between Nairobi and Addis Ababa, that previously took upwards of a week, down to 24 hours; while an eight-lane highway has dropped domestic journeys from four hours to mere minutes. Much of the spur behind this has been new mining operations, necessitating the development of roads, port improvements, and services to support them.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
   {
    "id": "62e128a0e1e0",
    "title": "Dray Dog-CargoWise link-up will automate port bookings for drayage",
@@ -1110,6 +1169,34 @@
    ],
    "summary": "Port of Antwerp-Bruges container traffic rebounds in Q3 Port Technology",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a24521b61716",
+   "title": "Chinese economic data provides support, pushing iron ore prices toward $93",
+   "original_title": "Chinese economic data provides support, pushing iron ore prices toward $93",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWkREdFRJQUtON3RUXzFiTnNFc3duV0hpRHA5UVJLYXpCZ3ptWFNMdXlrUGkyZU5mZThxTUE1QUJDZmFYZk80bER0ZXdFbVV3YlZQUGNxRV8wWXNmYUVXQ21zRGk1N1dfejZpVng2bnRTbDdrZEU3cm9HSi1DX3NZUmZielNVblcxQVJRNTVyRERIVzE3eF9zUnBFUTZwMmYzc0ZBTWNEaw?oc=5",
+   "source": "Yieh Corp.",
+   "published": "2026-10-20T09:15+00:00",
+   "added": "2026-10-20T12:53+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "chinese",
+    "iron ore",
+    "prices"
+   ],
+   "summary": "Chinese economic data provides support, pushing iron ore prices toward $93 Yieh Corp.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -9231,6 +9318,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "4e40cc54254d",
+   "title": "Port of Liepaja daily activity",
+   "original_title": "Port of Liepaja daily activity",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92S0RkR3M0QzNfdE5WU21xUzl0X3NwRDR4RFpMZkZlY1JsU2MwTmNidWszSGpZOEtCMnVaQTFETjdPWlRnc3lrQi1iQmlaS1p2YkFUaE9wTWtBanZpUmtFUUJ1cWtYNzYybDdWWk9HWlIyOE0?oc=5",
+   "source": "El Estrecho Digital",
+   "published": "2026-10-18T05:55+00:00",
+   "added": "2026-10-20T12:53+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port of Liepaja daily activity El Estrecho Digital",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "192b6158b4d1",
    "title": "UKMTO reports 12 maritime attacks as Strait of Hormuz shipping remains disrupted",
    "original_title": "UKMTO reports 12 maritime attacks as Strait of Hormuz shipping remains disrupted",
@@ -16406,127 +16518,6 @@
     "vessel"
    ],
    "summary": "South Korea’s HMM is pressing ahead with its fleet expansion programme, approving a $1.62bn investment in 12 containerships comprising eight 13,000 teu newbuildings and four smaller vessels. The Seoul-listed carrier’s board approved spending KRW2.168trn ($1.617bn) yesterday, according to a stock exchange filing. The investment includes fresh orders for eight 13,000 teu ships, alongside the acquisition of three 2,800 teu vessels and one 1,700 teu ship through resale transactions involving newbuildings already under construction. The 12 vessels will add a combined 114,100 teu of capacity, with deliveries scheduled to be completed by December 2029. HMM has yet to identify the shipyards responsible for the eight larger vessels or the sellers of the four smaller ships. Propulsion specifications have also not been disclosed. The latest investment follows last year’s KRW4trn ($2.8bn) commitment covering 12 LNG dual-fuel 13,000 teu containerships and two VLCCs, with HD Hyundai and Hanwha Ocean securing the boxship contracts. Under HMM’s business plan through to 2030, the carrier aims to expand its containership fleet to 166 vessels totalling 1.47m teu by the end of the decade, alongside 110 bulk carriers with a combined capacity of 13.52m dwt.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "1317bbd4803b",
-   "title": "NATO to discuss threats to Black Sea shipping following new attacks on commercial vessels",
-   "original_title": "NATO to discuss threats to Black Sea shipping following new attacks on commercial vessels",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMjF2Ri1IUDY2Q21HVEFoZFpLNUZZWUo3UkNETWllYjE5MVA4Y1ozcFVXNUNianpySGhXU1JrVGxWTHkxTXBGOU9ZVS1rVnlydTFJUVFET1lyRFZ6QVlUNW5KSTZxZ0ktQWd5WG1BV3JabFkwcUZneWtBTVYxTzZYNFhKWjAtX1lwZGxCYmUwS1BsaEU0VUpwWXZRNUNTNUE4ZG5WSUNqbUNlb1NkSmdLb2Y0SDRRODZORzZ2LXBqS0o2Ymc?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-16T05:24+00:00",
-   "added": "2026-10-16T05:52+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "nato",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "NATO to discuss threats to Black Sea shipping following new attacks on commercial vessels UkrAgroConsult",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f0248303965d",
-   "title": "West Africa’s ore boom meets China’s growing VLOC armada",
-   "original_title": "West Africa’s ore boom meets China’s growing VLOC armada",
-   "url": "https://splash247.com/west-africas-ore-boom-meets-chinas-growing-vloc-armada/",
-   "source": "Splash247",
-   "published": "2026-10-16T05:23+00:00",
-   "added": "2026-10-16T05:52+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Western Europe",
-    "Asia",
-    "Africa"
-   ],
-   "tags": [
-    "capesize",
-    "china",
-    "dry bulk",
-    "shipping"
-   ],
-   "summary": "West Africa is fast becoming dry bulk shipping’s biggest growth engine, with its mineral export boom poised to absorb the equivalent of another 120 capesizes by 2030. UK consultancy Tradeviews forecasts in a new report that shipments from the region will surge 50% from 2025 levels to 303m tonnes by the end of the decade, with Guinea’s giant Simandou iron ore project leading the charge. Crucially for shipowners, the long voyages to China will magnify the impact on vessel demand. Liberian iron ore exports nearly doubled to 10.1m tonnes. Tradeviews expects regional exports to reach 267m tonnes next year, with Guinean iron ore shipments climbing to 45m tonnes in 2027 and approximately 112m tonnes by 2030. Tradeviews calculates that moving a tonne from West Africa consequently absorbs around 2.6 times as much vessel time. On this basis, the consultancy estimates West African trades will require the equivalent of 330 capesizes by 2030, compared with 210 last year. The broker described the situation as a “test of elasticity” rather than the start of another cargo boom, pointing out that Shandong alumina refineries processing imported ore lost RMB261.8 per tonne in September.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "6ac24c5d858a",
-   "title": "Ukraine has repealed anti-dumping measures on steel fasteners from China",
-   "original_title": "Ukraine has repealed anti-dumping measures on steel fasteners from China",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDQ5Vl9CTFJ6TFlYNWs4WXFNSVZ4ZHozMHU3Z05VcmNlcDBVRlM0QXVaaXdrd1U0bnA3a3dfWlNBMkpqXy1sRlBjTnUyX0tFd0lIVXJnSDlqV0hzV01CLXFrWnk0eE1nMTMyeV9oSEZQN25JNTh0LVdGQ3VYZzdzU1Bwa1ZhMS1jSGFCdW1mY3NYR1RZVnBzZnRMTkNheVpIOVhxMHhwZ9IBpwFBVV95cUxOcDQ5Vl9CTFJ6TFlYNWs4WXFNSVZ4ZHozMHU3Z05VcmNlcDBVRlM0QXVaaXdrd1U0bnA3a3dfWlNBMkpqXy1sRlBjTnUyX0tFd0lIVXJnSDlqV0hzV01CLXFrWnk0eE1nMTMyeV9oSEZQN25JNTh0LVdGQ3VYZzdzU1Bwa1ZhMS1jSGFCdW1mY3NYR1RZVnBzZnRMTkNheVpIOVhxMHhwZw?oc=5",
-   "source": "GMK Center",
-   "published": "2026-10-16T05:15+00:00",
-   "added": "2026-10-16T09:43+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "steel",
-    "ukraine"
-   ],
-   "summary": "Ukraine has repealed anti-dumping measures on steel fasteners from China GMK Center",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "03f0cd30d404",
-   "title": "Chemnav steps up suezmax bet with Jinglu pair",
-   "original_title": "Chemnav steps up suezmax bet with Jinglu pair",
-   "url": "https://splash247.com/chemnav-steps-up-suezmax-bet-with-jinglu-pair/",
-   "source": "Splash247",
-   "published": "2026-10-16T05:07+00:00",
-   "added": "2026-10-16T08:32+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "carrier",
-    "china",
-    "crude",
-    "vessel"
-   ],
-   "summary": "Greek tanker owner Chemnav Shipmanagement has expanded its suezmax newbuilding programme with two more vessels in China, taking its orderbook in the segment to four ships. The Paul Coronis-backed company has been linked by shipbroking sources to a contract for two 158,000 dwt crude carriers at Penglai Zhongbai Jinglu Ship Industry, with deliveries expected in 2029. No price has been disclosed. The latest deal follows a low-profile order for two suezmaxes at New Times Shipbuilding in September last year, with delivery scheduled for the first quarter of 2029. Chemnav has since updated its website to confirm four suezmax newbuildings scheduled for early 2029 and early 2030, although it has not named the yards involved. The company has been rebuilding its newbuilding exposure since returning to South Korean yards in 2023 after a lengthy absence. The owner previously ordered three MR tankers at K Shipbuilding, a programme expanded in 2024, and had operated a secondhand suezmax several years ago after buying a 2003-built vessel from Teekay Tankers. The Chinese builder has also secured an order for four 157,000 dwt suezmaxes from Eastaway, the tanker arm of Singapore-based X-Press Feeders, with deliveries stretching into 2030. Those vessels were reported at around $80m apiece, although no price guidance has emerged for Chemnav’s latest pair.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   }
