@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T18:02+00:00",
+ "generated_at": "2026-10-20T18:40+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "517d1b5e5438",
+   "title": "Former Call of Duty Dev Says 'It's Hard to Watch' Xbox Make Money From Black Ops PlayStation Ports",
+   "original_title": "Former Call of Duty Dev Says 'It's Hard to Watch' Xbox Make Money From Black Ops PlayStation Ports",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaGd0eUdDbEV4UzRFbUpWcTdRTmpNQ1RWN011bUEzN1J6cWttV0ZmMmo3eHBGSzdDTHJRaW80SXlKdzFTeEZDRjJESEJQSXBFVHlwektqdmQzNWJIMWRKdzF1MC1udjNXN3NDc2JGZU9IaXdZcllXYVlJNVRpemRJM0tURzZJTXRGMlI4RnBUTTFHRjcyOHV4RFF5VnFOOUxZenJHaEUzaXprS2llM1N5N1VuTFpxU1BTM1FoWDRNY0NhVE5xT1l3NHVQOEhaSWNDSXJQZ292NzI0cHM5cVY3LQ?oc=5",
+   "source": "IGN",
+   "published": "2026-10-20T17:30+00:00",
+   "added": "2026-10-20T18:40+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "duty",
+    "port",
+    "ports"
+   ],
+   "summary": "Former Call of Duty Dev Says 'It's Hard to Watch' Xbox Make Money From Black Ops PlayStation Ports IGN",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "23639ed550e4",
    "title": "South Korean Oil Tanker Takes Red Sea Detour",
@@ -377,6 +405,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "3917b14ed112",
+   "title": "Middle East conflict could reshape LNG shipping through demand shifts, fleet segmentation and crew shortages",
+   "original_title": "Middle East conflict could reshape LNG shipping through demand shifts, fleet segmentation and crew shortages",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWjBpZ0M5SENmNFhPU25MNlJnMk5nTVBDYUtYc2poZHhKbHY4MGJHZjl5VFFpblJhX1lKcmxFUlhXSU5CdzB6ZU1rYlZGWnRnRU1FUVp4RUlsb1d4dnk4RUNmVHktNTQ3a0FNZEpXeWZscUZLeXdNOXFWX3FpWEEyQjlYU1U3MjNXVy1ITWRUSzlNdUVaVi1rUWJBY1g1Tm1ISTllNXVGRFliLXkwLXE3cVR0ZzRKU3BCa0NYeEtLTF80ZXU5STdWb2JmM2tJb2FRMUVhZWlPMEFCaXIxWUUyMXQ5Rm5kY0g1bXI5Tg?oc=5",
+   "source": "www.rivieramm.com",
+   "published": "2026-10-20T16:00+00:00",
+   "added": "2026-10-20T18:40+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "fleet",
+    "lng",
+    "shipping",
+    "shortage"
+   ],
+   "summary": "Middle East conflict could reshape LNG shipping through demand shifts, fleet segmentation and crew shortages www.rivieramm.com",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
    "id": "2c3a313b977a",
    "title": "Rekordowe przeładunki w portach morskich zmuszają do poprawy transportu - Gdańsk",
    "original_title": "Rekordowe przeładunki w portach morskich zmuszają do poprawy transportu - Gdańsk",
@@ -431,6 +489,39 @@
    "summary": "The European Union unveiled a new Arctic strategy Tuesday aimed at strengthening maritime security, expanding icebreaker capacity and protecting critical infrastructure as melting sea ice opens new shipping routes and geopolitical competition intensifies across the region. The strategy , the EU’s first major update since 2021, marks a shift toward security and economic interests in a region increasingly important to global shipping, trade and energy supplies. At the center of the plan is a proposed Maritime Security Hub designed to improve surveillance and information sharing across the Arctic, including the monitoring and protection of critical undersea infrastructure. Von der Leyen pointed to Russia’s growing military presence in the Arctic, increasing pressure on regional security and the emergence of new shipping routes as reasons for Europe to take a more active role. The EU also plans to expand its use of satellite monitoring and data sharing, including a dedicated Arctic surveillance pilot scheduled for 2027 to improve maritime domain awareness. New shipping routes could create opportunities for ports, logistics providers and shipbuilders, but Arctic operations remain constrained by ice conditions, limited infrastructure, environmental risks and the availability of emergency response capabilities.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "a689db3a286c",
+   "title": "Hamburg advances green methanol bunkering plans as Baltic ports test hydrogen fuels",
+   "original_title": "Hamburg advances green methanol bunkering plans as Baltic ports test hydrogen fuels",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGJ0UEp5YnRySC0wMGVaQmpQN09KSVVUWENmQUJ0WjZKRFZFZm51dkNjbVhCWllVbDVRMElUeTZUeG53S3NfZzBxdEdhS0E4WmJBVW44cUp4NjFpTFFHUGprb1dHWC1TcWNBQ2NiSWNYWWVoUXJobXcxdjJzWnZZaEdVdmIxRnNxaEZDV0xna0toVjVQdzdteWdrMjhjNXdYaW52UEQ4MlpUZHM?oc=5",
+   "source": "Breakbulk.News",
+   "published": "2026-10-20T15:40+00:00",
+   "added": "2026-10-20T18:40+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "equipment",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Baltic & Nordics",
+    "Western Europe"
+   ],
+   "tags": [
+    "baltic",
+    "bunker",
+    "hamburg",
+    "hydrogen",
+    "port",
+    "ports"
+   ],
+   "summary": "Hamburg advances green methanol bunkering plans as Baltic ports test hydrogen fuels Breakbulk.News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "8747b669b895",
@@ -1813,6 +1904,56 @@
    "summary_method": "feed"
   },
   {
+   "id": "a1af05380234",
+   "title": "PJM strengthened its management team",
+   "original_title": "PJM strengthened its management team",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhSlMxOVAtczh3bHJJSlN5aFB6cEYwcjU1Z1JZQTQtZWlaZDNZOXkzUEtIRU5JSkJIUmJSYnlNcFVhSkZaTFlTclc2eTRuUW42cHRZRm1kU3p1Z2g1Z1Jwbk9IZkJ6dUlOTXpuMkdjZjJEcnlBc1E?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-20T10:26+00:00",
+   "added": "2026-10-20T18:40+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "PJM strengthened its management team Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c4f9b0e8580c",
+   "title": "Excavation begins for a new metro station in Prague",
+   "original_title": "Excavation begins for a new metro station in Prague",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPclVOeDh5bFhWcXJQOTROYnNkbl96VXJDSUR0Z3BBM0JuMmlXT0ZXX0tOcy1LUDZZYWVackZBcXlRWl9UN1pXMDdvWE4xV2M2VFRzVzR3anhmeFRrX3VXbmdhYzc1ekIxbU40ZGgweTRuWFRHdExLOWl1MVBhR1NEVmlBQ0lqM01EdkE?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-20T10:26+00:00",
+   "added": "2026-10-20T18:40+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "Excavation begins for a new metro station in Prague Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3fe6e3e1a1ee",
    "title": "CMA Terminals completes stake purchase in Morocco container terminal",
    "original_title": "CMA Terminals completes stake purchase in Morocco container terminal",
@@ -2429,6 +2570,34 @@
    "summary": "Athens-based maritime technology outfit Blue Autonomy has launched an online academy aimed at the growing number of shipping professionals expected to understand, challenge and defend vessel performance data. The Blue Autonomy Academy opens with 39 self-paced courses covering vessel performance, maritime data and the regulations increasingly putting a price on those numbers. The courses are arranged across nine specialisations and aimed at technical superintendents, performance analysts, fleet and technical managers, naval architects and marine engineers, as well as chartering and operations teams dealing with performance figures in charterparties. Topics range from ship resistance and propulsion to hull and propeller performance under ISO 19030, speed trials under ISO 15016, bunker quantity and quality, speed and consumption claims, and shipping’s CII, EU ETS and FuelEU Maritime regimes. Blue Autonomy says seven courses are being offered free in full, including its maritime decarbonisation and compliance specialisation. The certificates are private professional training and are not presented as state-recognised qualifications. “Behind every number a ship reports there is a calculation someone made,” said Christos Papandreou, founder and chief executive of Blue Autonomy. “The Academy teaches the people who sign for these numbers to take them apart, check each input and stand behind the result.” Papandreou is a naval architect and marine engineer with around 15 years in fleet performance and operational data.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "6a6b3928597e",
+   "title": "Command post, repair unit, logistics depots and Russian troop concentrations struck",
+   "original_title": "Command post, repair unit, logistics depots and Russian troop concentrations struck",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeU9OTkNJeV92cHNMdWxVUUx0eW9TamRUbFprYmV4dzV0NlRLdWNIakRaa2FvWkRrT0lMZlJDdlB4X2lhYmZUdVNEekZQN2hfbzltdWhzTEk4NlBOQzlIYlU5RnFLR29vT3JFdVppNU1OSmNkWmpNUHJQbWlwdEJ2MGVoSlpTQQ?oc=5",
+   "source": "Mezha.net",
+   "published": "2026-10-20T09:53+00:00",
+   "added": "2026-10-20T18:40+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "logistics",
+    "russia",
+    "russian"
+   ],
+   "summary": "Command post, repair unit, logistics depots and Russian troop concentrations struck Mezha.net",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "e4bc2253ae05",
@@ -14629,6 +14798,40 @@
    "summary_method": "feed"
   },
   {
+   "id": "a0d50cb43cbe",
+   "title": "EU approves Bunge, CM joint acquisition of Baltic Grain Terminal",
+   "original_title": "EU approves Bunge, CM joint acquisition of Baltic Grain Terminal",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdnhZcUJmVWlneTZBaEIxYjB2UWEyN29leXZOUmVCR1RDWjFXLXRUVE5SQ1F0YkNYazgwZkhwQ0dmX0FmeWFaRXRJbTVxcHRfSVVMNmF0Z1ZfcllZcEk1Q0ZlY3Y2N1IwbVl1M0txRUd3dV9XQVBjWTcyeHY1N21XODFKMklDd2liR0dfVUpvTE8?oc=5",
+   "source": "Milling Middle East & Africa",
+   "published": "2026-10-16T14:08+00:00",
+   "added": "2026-10-20T18:40+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Baltic & Nordics",
+    "EU institutions",
+    "Middle East",
+    "Africa"
+   ],
+   "tags": [
+    "acquisition",
+    "baltic",
+    "eu ",
+    "grain",
+    "terminal"
+   ],
+   "summary": "EU approves Bunge, CM joint acquisition of Baltic Grain Terminal Milling Middle East & Africa",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "632673bc63ed",
    "title": "Can Indian Steelmakers Bite The Green Steel Bullet?",
    "original_title": "Can Indian Steelmakers Bite The Green Steel Bullet?",
@@ -16357,193 +16560,6 @@
    ],
    "summary": "The SMAP mechanism introduced under the ETS represents an opportunity to help the maritime sector to transition towards clean fuels and propulsion technologies, and strengthen Europe’s industrial leadership. With an estimated support of €15 billion between 2028 and 2040, such a mechanism could encourage shipping companies to use green e-fuels, which will need to be scaled up in this period to meet long-term decarbonisation targets. The European Commission’s Sustainable Transport Investment Plan (STIP) mentions that in less than a decade, 4.6 million tonnes of e-fuels could be needed to reach FuelEU targets. A high price difference coverage in favour of e-fuels compared to other alternative fuels under SMAP is a welcome step, but is unlikely to be sufficient in itself to ensure a genuine move towards e-fuels. Because of the capital-intensive nature of e-fuels production, these projects will require producers to enter long-term offtake agreements with companies in order to secure investment. The current SMAP proposal is unlikely to provide sufficient support to this process. While some alternative fuels and zero-emissions propulsion technologies have a role to play in reducing maritime GHG emissions, SMAP should be used primarily to reward long-term e-fuel use, rather than short-term fuel and propulsion technological options which may already be incentivised under existing legislation.",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "883e32d46d3b",
-   "title": "Indonesia thermal coal policy uncertainty reshapes 2027 term contract protections",
-   "original_title": "Indonesia thermal coal policy uncertainty reshapes 2027 term contract protections",
-   "url": "https://www.hellenicshippingnews.com/indonesia-thermal-coal-policy-uncertainty-reshapes-2027-term-contract-protections/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16T10:00+00:00",
-   "added": "2026-10-16T10:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "coal",
-    "quota"
-   ],
-   "summary": "Indonesian coal miners and Asian buyers are holding back on signing 2027 term supply contracts as uncertainty over government-approved production quotas and changes to export rules clouds the supply outlook, with some miners adding protective clauses to any deals, market sources told Platts. The delays come as Indonesia prepares to transition to a new export framework from Jan. 1, 2027, giving a bigger role to PT Danantara Sumberdaya Indonesia, or DSI, in supervising strategic commodity exports, including coal. “We might sign an umbrella contract for 2027 with a pre-condition of subject to RKAB approval. “Not hearing any 2027 contract till now, but if any, contracts now will be subject to various conditions,” another miner told Platts. The uncertainty comes as miners are also waiting to know how much coal they will be allowed to produce in 2027. If the production approved remains at 2026 levels, the market could remain tight in 2027 as well,” a large Asian buyer of Indonesian coal said. Price implications The tighter supply situation has already pushed Indonesian coal prices higher in 2026. Market participants said progress on 2027 contracts would depend in part on greater clarity over miners’ approved production volumes, DMO commitments and how the new export system will operate from January.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "3beccfbccc75",
-   "title": "Copper Advances as Dollar Weakens",
-   "original_title": "Copper Advances as Dollar Weakens",
-   "url": "https://www.hellenicshippingnews.com/copper-advances-as-dollar-weakens/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16T10:00+00:00",
-   "added": "2026-10-16T10:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "commodit",
-    "copper",
-    "futures"
-   ],
-   "summary": "Copper futures climbed toward $6.60 per pound on Friday, snapping a three-session losing streak as the US dollar weakened amid concerns over a potential slowdown in the AI capital expenditure boom that has supported the American economy and financial markets. A softer dollar makes greenback-denominated commodities such as copper more affordable for overseas buyers, helping support demand. Prices also gained support from tightening supply, as labor strikes and adverse weather conditions disrupted mining operations in Chile, the world’s largest copper producer. Strikes affected BHP Group’s major Escondida mine and Antofagasta Plc’s Centinela mine, while unfavorable weather hampered open-pit operations at Codelco’s El Teniente mine. On the demand side, copper continued to benefit from strong growth prospects in data center infrastructure, semiconductor manufacturing, and battery energy storage systems. Source: Trading Economics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "5009ec7a748d",
-   "title": "Hong Kong Cements Its Position as a Resilient Global Maritime Hub Ahead of 10th Maritime Week",
-   "original_title": "Hong Kong Cements Its Position as a Resilient Global Maritime Hub Ahead of 10th Maritime Week",
-   "url": "https://www.hellenicshippingnews.com/hong-kong-cements-its-position-as-a-resilient-global-maritime-hub-ahead-of-10th-maritime-week/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16T10:00+00:00",
-   "added": "2026-10-16T10:15+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "shipping",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "alternative fuel",
-    "shipping"
-   ],
-   "summary": "Hong Kong is preparing to host the 10th-anniversary edition of Hong Kong Maritime Week (HKMW 2026), taking place from November 15 to 21. A “Safe Harbour” and “Super Connector” in Volatile Markets Hong Kong continues to position itself as a key maritime and financial centre in Asia, supported by its role under the “One Country, Two Systems” framework and its common law system. As the only common law jurisdiction within China, Hong Kong provides a legal and financial environment that supports the free flow of capital, data and talent, offering shipowners and institutional investors a degree of protection against market disruptions. On the dispute resolution front, Hong Kong recorded a 56% surge in maritime arbitration cases in 2025. Programme Highlights The week officially kicks off on November 16 with a hybrid Opening Ceremony at the Hong Kong Convention and Exhibition Centre. On November 17, the conference will include a dedicated Belt and Road shipping seminar that spotlights Hong Kong’s status as a global shipping and investment hub, exploring new opportunities in infrastructure, technological innovation, and the green transition. On November 16, the International Chamber of Shipping will host the third Hong Kong Global Maritime Trade Summit.",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "fae5dc52b831",
-   "title": "GT Wings expands product range with launch of new lightweight AirWing™S to reduce emissions for smaller vessels",
-   "original_title": "GT Wings expands product range with launch of new lightweight AirWing™S to reduce emissions for smaller vessels",
-   "url": "https://www.hellenicshippingnews.com/gt-wings-expands-product-range-with-launch-of-new-lightweight-airwings-to-reduce-emissions-for-smaller-vessels/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16T10:00+00:00",
-   "added": "2026-10-16T10:15+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "shipping",
-    "vessel"
-   ],
-   "summary": "GT Wings has announced the latest addition to its windassisted propulsion product range, AirWing™S, a new compact and lightweight Jet Sail developed to address the operational requirements of smaller commercial vessels. The new design expands the AirWing™ product line to address a broader segment of the commercial shipping market. With a streamlined lightweight configuration, the AirWing™S has been developed specifically for smaller vessels where vessel size, available deck space and weight considerations can influence the suitability of wind-assisted propulsion technology. George Thompson, CEO of GT Wings, said: “The AirWing™S is an important addition to our product range. By developing a compact AirWing™, specifically for smaller vessels, we can address another part of the market and make the emission reduction benefits of wind propulsion accessible to a wider range of shipowners.” New product launch alongside first commercial production The announcement comes as GT Wings marks a major milestone in the commercialization of its technology, with an Open House event showcasing the first customer-ordered AirWing™ units nearing completion at its partner Zunsion Technology’s manufacturing facility in Nantong. The launch of the AirWing™S during the Open House event, alongside the first commercial AirWing™20 units, reflects GT Wings’ continued development of a scalable AirWing™ product family designed to meet the needs of a broader range of vessel types and operating requirements.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "169d67dee43a",
-   "title": "Korea’s Integrated Ship Survivability Design Framework",
-   "original_title": "Korea’s Integrated Ship Survivability Design Framework",
-   "url": "https://www.hellenicshippingnews.com/koreas-integrated-ship-survivability-design-framework/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16T10:00+00:00",
-   "added": "2026-10-16T10:15+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "attack",
-    "vessel"
-   ],
-   "summary": "A Korean-developed integrated design framework has been developed to comprehensively analyze “ship survivability”—a naval vessel’s ability to avoid enemy attack, withstand damage when hit, restore key functions after damage, and continue its mission. The key achievement is the integration of survivability analyses that had previously been performed using separate software tools into a single software environment. The AX Convergence Research Center of the Virtual Engineering Platform Research Division at the Korea Institute of Machinery and Materials (KIMM, President Seog-Hyeon Ryu) developed ‘isSAFE,’ an integrated ship survivability design framework. isSAFE provides an integrated design environment in which a ship model can be built, various weapon hit scenarios can be generated, and vulnerability, recoverability, and results analyses can be performed in a continuous workflow. Ship survivability consists of three elements: susceptibility, the ability to avoid enemy detection and attack; vulnerability, the ability to withstand damage when hit; and recoverability, the ability to restore key functions after damage. This enables users to compare survivability under different ship configurations and conditions and is expected to support the Republic of Korea Navy (ROK Navy), shipyards, and other end users in ship design and survivability assessments.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "b327a72a070b",
-   "title": "China: Coal use reaching peak plateau amid green goals",
-   "original_title": "China: Coal use reaching peak plateau amid green goals",
-   "url": "https://www.hellenicshippingnews.com/china-coal-use-reaching-peak-plateau-amid-green-goals/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16T10:00+00:00",
-   "added": "2026-10-16T10:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "coal"
-   ],
-   "summary": "China’s coal consumption is expected to enter a peak plateau transition during the 15th Five-Year Plan period (2026-30), following a steady deceleration in growth as the country’s green energy transformation reshapes its economic fundamentals, said a think tank. During the 14th Five-Year Plan period (2021-25), the country’s coal usage was characterized by rising total volume but a markedly slowing growth rate, according to the Report on China Energy Development 2026, released by the China Electric Power Planning and Engineering Institute in Beijing. In 2025, total coal consumption reached 4.76 billion metric tons, edging up a mere 0.1 percent year-on-year. During the 15th Five-Year Plan period, as China accelerates the construction of a new energy system, promotes the clean and efficient utilization of coal, upgrades traditional industries and replaces scattered coal — referring to coal of poor quality which is used throughout the civil sector for household cooking, heating and various commercial applications — national coal consumption will enter a peak plateau period, the report said. The steel and building materials sectors — which account for about 15 percent and 6 percent of coal consumption, respectively — also registered declines.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "b3074a826498",
-   "title": "Guyana’s Uaru Gold crude to debut as fourth medium-sweet grade",
-   "original_title": "Guyana’s Uaru Gold crude to debut as fourth medium-sweet grade",
-   "url": "https://www.hellenicshippingnews.com/guyanas-uaru-gold-crude-to-debut-as-fourth-medium-sweet-grade/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-16T10:00+00:00",
-   "added": "2026-10-16T10:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crude",
-    "sulfur"
-   ],
-   "summary": "Guyana’s Uaru Gold crude, expected to hit the market in December, will be another medium-sweet grade with a quality most similar to that of Guyana’s flagship Liza crude. Uaru Gold will have an API of 31.5 and a sulfur content of 0.54%, according to a preliminary assay seen by Platts, part of S&P Global Energy, on Oct. 14. The consortium consists of ExxonMobil, with a 45% stake, alongside Chevron and CNOOC as partners with stakes of 30% and 25%, respectively. Liza crude has an API of 32 and sulfur content of 0.58%; Unity Gold has an API of 34 and a sulfur content of 0.41%; Payara Gold has an API of 29 and a sulfur content of 0.60%; and Golden Arrowhead has an API of 36.5 and a sulfur content of 0.25%. Uaru Gold will be produced from the Errea Wittu, which is Guyana’s fifth floating production, storage and offloading vessel. The Errea Wittu FPSO was designed to add roughly 250,000 barrels/day and will push Guyana’s crude output above 1 million b/d for the first time.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
  ]
