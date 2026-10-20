@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T09:14+00:00",
+ "generated_at": "2026-10-20T09:53+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,58 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "4a8115a5a980",
+   "title": "Rosną przeładunki masowe w Rotterdamie. Węgiel znów do góry",
+   "original_title": "Rosną przeładunki masowe w Rotterdamie. Węgiel znów do góry",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMkp2YzFmcEZKS0prak1ncjNvcndMSkk0QTB5S040RkZiZ20weGQyOG9heVk0bDBQNGZTTmFyY1Rqa08td3U4clNEZkxQYmpfZDBPc1pjZ3VNb2hVV2lnS0lEeVBDdGNuZ0Nzb28wT00tajg4elpKbHZaaGFvR1lKdlBlQXRraGVWdl9rSnllQTA5LWk1cjJvV09YSkI?oc=5",
+   "source": "GospodarkaMorska.pl",
+   "published": "2026-10-20T09:07+00:00",
+   "added": "2026-10-20T09:53+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "przeladun",
+    "wegiel"
+   ],
+   "summary": "Rosną przeładunki masowe w Rotterdamie. Węgiel znów do góry GospodarkaMorska.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4c4e9d2cf609",
+   "title": "Steel Slump 2026? Associations Sell Destocking as a Crisis",
+   "original_title": "Steel Slump 2026? Associations Sell Destocking as a Crisis",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcV8yV082eEY2QkVINWppVl83TWZzSmh0aDlzdDR2NVMtTDlwekFXSGhqOVNnd0tkdDNLN2hoMTB6OWdhRmJNaUxhLUhpRUFuSXFIMkxNMmU3a3dTa211d3VqLTA0M0c1WFZLUXpJeEFscklROUZ2LUhhMjY3MHIzNQ?oc=5",
+   "source": "Steel and Stainless Steel News",
+   "published": "2026-10-20T08:40+00:00",
+   "added": "2026-10-20T09:53+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "Steel Slump 2026? Associations Sell Destocking as a Crisis Steel and Stainless Steel News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "4343e848212a",
    "title": "Marsa Maroc adds two Post-Panamax STS cranes at Casablanca",
@@ -129,29 +181,53 @@
    "summary_method": "feed"
   },
   {
-   "id": "eb45c476943d",
-   "title": "Głębokowodny port w Świnoujściu wybudują polskie podmioty",
-   "original_title": "Głębokowodny port w Świnoujściu wybudują polskie podmioty",
+   "id": "e210493fb9ea",
+   "title": "Can Soybeans Offset Ukrainian Farmers’ Losses?",
+   "original_title": "Can Soybeans Offset Ukrainian Farmers’ Losses?",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWURjeU16T25Kb1dXRWUtTGRNMndQUkFjZHpud3lSYk1rYm9Qd1Uxa0RPN0I2TDFIX1hCd2xFbm5kZlFqN3lOM3B1d3FNVVVOalBDd0sxSUh6ZWxXTHVLNzZvMGxNX1BzaktHbFl0VkJidGhZUTVZNXVNanFWUV9oamFKWktTYmludlZsc3hVbDNzRnhFYzVTN0dRWm5TUVpTSFNGVTlMMFpITnlpYXdvTUt3?oc=5",
+   "source": "AgroPortal.ua",
+   "published": "2026-10-20T08:09+00:00",
+   "added": "2026-10-20T09:53+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "soybean"
+   ],
+   "summary": "Can Soybeans Offset Ukrainian Farmers’ Losses? AgroPortal.ua",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a42b9946afd0",
+   "title": "Port w Rotterdamie traci 20 procent ruchu przeładunkowego",
+   "original_title": "Port w Rotterdamie traci 20 procent ruchu przeładunkowego",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNC1RN3RHTHdnUmlLRUpnTjVSNUJ1U3U3SFpiRXJzQ2RqWnZRU2l3TXdDNUtWTEx0X3NGdDQ1aHhqeVRkd2ZxdWh3QWl4Zmd1SGZLMWJYNTZnOEFXS0x4REdpZl9fa2JPSFNPRXVWeDFaZUVpd3NfaGNzYUJNYzlTMjl1RWg3dEVDVjE0WW1ZRXhNdHZUVkZ4TFZBZDhkYkdJWk94OXgyUQ?oc=5",
    "source": "PortalMorski",
    "published": "2026-10-20T08:06+00:00",
-   "added": "2026-10-20T08:36+00:00",
+   "added": "2026-10-20T09:53+00:00",
    "lang": "pl",
    "category": "ports",
    "categories": [
     "ports"
    ],
    "priority": "low",
-   "score": 5,
+   "score": 6,
    "regions": [
-    "Poland"
+    "Western Europe"
    ],
    "tags": [
-    "polski",
-    "polskie",
-    "port"
+    "port",
+    "przeladun"
    ],
-   "summary": "Głębokowodny port w Świnoujściu wybudują polskie podmioty PortalMorski",
+   "summary": "Port w Rotterdamie traci 20 procent ruchu przeładunkowego PortalMorski",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -259,6 +335,34 @@
    ],
    "summary": "Od Tesli po port. Już jutro w Enea Arenie największe Targi Pracy na Pomorzu Zachodnim Gryfino Głos Miasta",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2045ce5b0cd6",
+   "title": "PKP Cargo sells 106 old locomotives for just €6 million",
+   "original_title": "PKP Cargo sells 106 old locomotives for just €6 million",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT3o1UzRZbnJpTFZNOVl2ZGRKZ25fR3RPT2ZTR1dnY0U1ajdBNlJ6dGx0SUR3YnE3YnFzcVprT29SV21NNG9BbnhnVHRCSUpnQXl2SUo2WkozRTZFSjBfaldLLTVIem5kSklaLUpqT2swT2Y4SHVycXNzRTFhazgyWnhYbk9fV2NzbWQ3Qm1CZUl2TmI0ZkNNbGtyY0M2eE1mRVF1ODNOQlk4cFU?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-20T07:13+00:00",
+   "added": "2026-10-20T09:53+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "locomotive",
+    "pkp cargo",
+    "sells"
+   ],
+   "summary": "PKP Cargo sells 106 old locomotives for just €6 million RailFreight.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -831,6 +935,31 @@
    "summary": "Norwegian OSV owner Havila Shipping has secured an extension to the contract for its platform supply vessel, Havila Borg . The Fosnavåg-based company has fixed the 2009-built PSV to energy industry logistics provider Peterson Den Helder through September 1, 2027. The Oslo-listed company, which operates 11 vessels, said Peterson has further option periods totalling 15 months. The vessel has been working for Peterson Den Helder since 2022. Peterson awarded the previous extension of the PSV contract in October 2025.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "c7245ad5db3c",
+   "title": "Pacific Steel Group's Mojave Micro Mill, California's first new steel",
+   "original_title": "Pacific Steel Group's Mojave Micro Mill, California's first new steel",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQVBseTBzTlIxdERfZm5ZTDJaQWhQemYwMjY3VXFQbTZRd0k4WS1tUk80RURQZzh3MGs2MEQ5NHFnak55MmNtZUZoeFgwczZBRld5d05CdUlmRElwWGVoS0RpZXJReEREWnJXMHd3T3VHNEZjUEdPb2JNLWJ1X0ZVWWVwUDN1ejRXTmRXWkc4YUxUajBORTJ4QUZRSmRReC0zOEIwc3ZkTHZXUkRlcFpIb3JyTFNRdmpMU0Fz?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-20T02:09+00:00",
+   "added": "2026-10-20T09:53+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "Pacific Steel Group's Mojave Micro Mill, California's first new steel Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "553a014b9187",
@@ -2953,6 +3082,32 @@
    ],
    "summary": "China Cyclopentane Prices Climb as Middle East Shipping Risks Tighten Feedstock Availability ChemAnalyst",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "cd05d0470eaa",
+   "title": "India Manganese Ore Prices Strengthen as Steel Consumption Reaches 14.4 Million Tonnes",
+   "original_title": "India Manganese Ore Prices Strengthen as Steel Consumption Reaches 14.4 Million Tonnes",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdEh3RkdKRThqTXRWV2x5MHl3b2dqMG5VcGxjSjlLUVdBQk5kTU9mRXZEcVlUd1pZSnFUY01kR2czLTdnTXJqaUhfTXZMQnl4RnhHRmtQOWYtUlQ3a2UwZWNIaWJhcWcydkstOVM0d2VvelJ3bkZ4WXFrYnNSOGhFZjZlS0dPRWVQWVlkQkgxOVk2MnhzcERwWGRyTW8ybGVrQmZmcDFuSWNZMVBVTHR1Y09aOEU3UVh3?oc=5",
+   "source": "ChemAnalyst",
+   "published": "2026-10-19T12:20+00:00",
+   "added": "2026-10-20T09:53+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "prices",
+    "steel"
+   ],
+   "summary": "India Manganese Ore Prices Strengthen as Steel Consumption Reaches 14.4 Million Tonnes ChemAnalyst",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -14696,6 +14851,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "32d59248b449",
+   "title": "Consumption of steel structures in Ukraine could rise by 10% in 2026 — UCSB",
+   "original_title": "Consumption of steel structures in Ukraine could rise by 10% in 2026 — UCSB",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQXzdJOUhMY3hFQ3J4VlRpYVFzMjNSdGoxSjJaQ2xxaDk2YkhidzNhSDN6YWtpalY2ekVzN1ptU1VyQk9IZXM2dEpySGloZWJybDVaVFIwR1l0QUFaTUJVRTF3S0hCUVJwZFdrN0RjNExFeEhrclVRTmZ1a1lvTHVKWEdwVjhJcTF3dU5wMU5kRHEyaVpmY21TR1dsSm45R3lBYmtjNXlaY9IBpwFBVV95cUxQXzdJOUhMY3hFQ3J4VlRpYVFzMjNSdGoxSjJaQ2xxaDk2YkhidzNhSDN6YWtpalY2ekVzN1ptU1VyQk9IZXM2dEpySGloZWJybDVaVFIwR1l0QUFaTUJVRTF3S0hCUVJwZFdrN0RjNExFeEhrclVRTmZ1a1lvTHVKWEdwVjhJcTF3dU5wMU5kRHEyaVpmY21TR1dsSm45R3lBYmtjNXlaYw?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-16T05:56+00:00",
+   "added": "2026-10-20T09:53+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "steel",
+    "ukraine"
+   ],
+   "summary": "Consumption of steel structures in Ukraine could rise by 10% in 2026 — UCSB GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d0c638112782",
    "title": "Op-Ed: Uzbekistan pushes Trans-Caspian corridor toward Europe",
    "original_title": "Op-Ed: Uzbekistan pushes Trans-Caspian corridor toward Europe",
@@ -16332,196 +16514,6 @@
     "steel"
    ],
    "summary": "Stainless Steel Wire Rods Market Size & Forecast 2036 Fact.MR",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "394787d2763f",
-   "title": "Ready for any probe on coal imports, says Revanth; blames BRS for YTPS crisis",
-   "original_title": "Ready for any probe on coal imports, says Revanth; blames BRS for YTPS crisis",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb2d6TTk3anc5cG4zZkJNVHUxa2lGejNHbWUzekc5WE5fSm1Ed0xMTEJleE9VVnFmbHVBSlBINGVWeGlzR0ItYTlnR3B3NE9KeGI5RXVlTEVDTkQxbzJqY1NQNnB1RWh2R2JOdFEyQzJvX0NQa1FkeUk4X2d5WkRMdlVQV3lEX0d5TXBqZExINFdqUGJmWTNXTlFMTkVlcWE2bWZsZ09wR3pGRzNURlhSbUQwMS1acmd6YW1yMTJoajl1ZUxwLTlHUEJoQ0lvZjZIakVIeXhzdlNBaWdTTFg2RFNuWFpEeDTSAewBQVVfeXFMUDAyakRQNWVnTUdpVW0xOUVpeDFLcE9TSjRYVDBEUlJoaGhnVnluMk5NMnJNaUdaSVdJb3kxcHFKaFBYNkQzMFdOdkUyTDRsWVR0ZF9hT2RKOXlKck8wa01sUzhDT2dJYjQ3TDFWNS1EV0t2WkVndS1uZFYydXdiNXFPWks2RXNtTHM1VEdROTVHT3JSZHRjMUlWQzBBN0hrRHlvQ1ZEWEpNQ3I1MThySnVjNzg3VDNTa2tDYjlXWExyZHlscGxpczFWSGctVDFnYTd0V0s2bDlYejI5M2Q0VXc3d1FHd2lBeW9VQ1Q?oc=5",
-   "source": "The Times of India",
-   "published": "2026-10-15T18:29+00:00",
-   "added": "2026-10-15T19:35+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "Ready for any probe on coal imports, says Revanth; blames BRS for YTPS crisis The Times of India",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cefa1b6979d4",
-   "title": "Work on international terminal expansion begins at Thiruvananthapuram airport",
-   "original_title": "Work on international terminal expansion begins at Thiruvananthapuram airport",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLXZJQURDNUlOd3cyOVNRNHlPUmZZcnBJb2xCdWFOUy1xZno0ZTY5RzFWVHpOSEEzRklIU3luUTJFWi1NemREeDc5OHBScmNpVnJ5YzZ6MXVzZEs3bGtKaGdFQy1RWFY4MVRHLXNtX2xkNkwyWTIwSzlxYzNHM2FpTmVJa0VtbUdZdEZ5bldwMGVka0w5OHdKN0VKaDFEVE8wTnU3MlBLSkl1LVYyaWs4UHRPZ2RoU2dBZmlyNDU5MFRTNW1CZHJZQ05FRjZvdnFVNDRxU1h5WXNyaTjSAeIBQVVfeXFMTTgtZmZrRWtGdnFQX2lSVTlXbUVOeHlKdU9pVVpfeEhWeFdGd0J6WklpWWFET0tOU0RkV0FWN0xQYmlLdnVwMDEwTTJvTjBfNmlvMFJnQ2o1X05JT3VpZ212RGlIbHE5SXZ0VHQxQmR4czVyajluN0JFTk1iTVBSdGtmOVh5VTJwclNaSFo1X21xMnk1c1NnSDVPNTh2ODFCSXRzSkg0Y2ctTDhST1hXSVM5ZVlrNHp5ZWxjS1R1TDRBZGhINDlORThsemtMMHByWEp2T1gzdnNjMFROZmdGSGFEZw?oc=5",
-   "source": "The Hindu",
-   "published": "2026-10-15T18:26+00:00",
-   "added": "2026-10-15T19:02+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Work on international terminal expansion begins at Thiruvananthapuram airport The Hindu",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a7c250798a4e",
-   "title": "Cybercrime at the Ports; Manufacturing Momentum Broadens; The Forces Reshaping Logistics & More Supply Chain News",
-   "original_title": "Cybercrime at the Ports; Manufacturing Momentum Broadens; The Forces Reshaping Logistics & More Supply Chain News",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNERNcmpjVGt2V1dFOW1aajFKOU5uREtoaFA1UEFDSFd4N1dsa3NkbG5qcjVhdU1HNkZfZFhTUkhZcEhwUmJNMTRxN1hKc241M2QtdFZMLXRCcjh3cVlESFJZNmJYcjVWTTg4bW1Kb1Q1aEV0ck0yX19sZGRCWEJ6UmxsY2VzZXByc2NURHZ2ZERNbERYc3VnUm5Rc1pqc01aU1dvS0pB?oc=5",
-   "source": "Inbound Logistics",
-   "published": "2026-10-15T18:23+00:00",
-   "added": "2026-10-15T21:12+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "ports",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistics",
-    "manufacturing",
-    "port",
-    "ports",
-    "supply chain"
-   ],
-   "summary": "Cybercrime at the Ports; Manufacturing Momentum Broadens; The Forces Reshaping Logistics & More Supply Chain News Inbound Logistics",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0d445d4acd73",
-   "title": "Baltic dry bulk index sinks to lowest in over three months",
-   "original_title": "Baltic dry bulk index sinks to lowest in over three months",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYk9TYUtPdEFQQllLTkY5bTZwMFFDSzVUZGhkMXNDcE1zMEctakFWd1h2TVpoWjROclF6aVJwTW5SMExnXy0teG9RenJWSFhZeWVEQ1Z2MlJzck1qNmxJdFU2LTNYUHRQOGhNWnpGaWhqcHowY1k2Qm1hbGRrWmxoOWJrS1dUSXhwTW9MVFJ3amVHMVdTS3EwNnBCVTlEczZqUU9kWFZPcVcyQ3NYVThfNzg0VXFiUdIBwwFBVV95cUxORnJRWDRxclR1UWg1R2RYZE5MZ2htcXI1SDhlY3NoTE4zLWFjTlAtbGw1ZktwRU1BWHlxazJaNmVfXzJFQ1NGZG0tbngzZnp3Vk1UX3k0S2F5V0JXdkRscHYwSjNXWjdLcUpIRnNZbjZOTS1DeDFrTF9ZWVV6VWR1WVVmVklBM09wcVhBVUFWVjZOb1BSOWJHSWU3WkUzNmRoN2JXeDBhdlJiRHNoN2x4a1hqakpWWmFsRGIyZ3k0dVo3M2s?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-10-15T18:02+00:00",
-   "added": "2026-10-15T18:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry",
-    "dry bulk"
-   ],
-   "summary": "Baltic dry bulk index sinks to lowest in over three months Baird Maritime",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9097b7175d91",
-   "title": "UN agency warns Hormuz shipping disruption starting to hit harvests",
-   "original_title": "UN agency warns Hormuz shipping disruption starting to hit harvests",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzh3dVlIYzZjOEJwR1lHYlhVc0x1ZzJwZi1BQk9WTlFJaU4xX0Y4SHE2ZUwzVGxiRXZDbno2OEhLazQwRzlUWHFZOUk5UEdFSlFkcFlzdm0zSHVlcUxSYk1VWnFKY0ktY1hWNFdCeVRZd0hoTGtCNm12Q1FWdkFfamVnY1lBQlk1aUFmZm1rNVh2WUtFaVctZEktby1Jdlc2ckFhRWhsNjgxOWdFd05LeUZNb3ZUS0JFdDZhQnFn?oc=5",
-   "source": "Middle East Eye",
-   "published": "2026-10-15T17:53+00:00",
-   "added": "2026-10-15T21:12+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "disruption",
-    "hormuz",
-    "shipping"
-   ],
-   "summary": "UN agency warns Hormuz shipping disruption starting to hit harvests Middle East Eye",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "87402ad24742",
-   "title": "Five Arrested in NATO Warship Services Fraud Probe",
-   "original_title": "Five Arrested in NATO Warship Services Fraud Probe",
-   "url": "https://gcaptain.com/five-arrested-in-nato-warship-services-fraud-probe/",
-   "source": "gCaptain",
-   "published": "2026-10-15T17:52+00:00",
-   "added": "2026-10-15T20:05+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "nato",
-    "port"
-   ],
-   "summary": "NATO warships alongside a pier in Kiel, Germany, during the BALTOPS 2023 exercise. European authorities are investigating suspected fraud involving port services provided to NATO military vessels. The ships pictured are not known to be connected to the investigation. Navy photo) Five people have been arrested in Norway as part of an international investigation into suspected fraud and bribery involving a company providing port services to NATO warships. Investigators suspect the company and its subcontractors submitted fraudulent invoices to the NATO Support and Procurement Agency (NSPA) for husbandry services provided to military vessels during port calls in northwestern Europe. Authorities estimate the alleged scheme has cost NATO member countries more than €1 million, although the full extent of the suspected fraud remains under investigation. The cross-border investigation began receiving support from Eurojust in April 2025. Norway expanded on Thursday a recently created military brigade headquartered in the Arctic, the latest move by a NATO nation to boost its defense footprint in the wake of the Ukraine war. The UK and the Netherlands have agreed to jointly develop a new class of amphibious transport ships in a £2.4 billion program that will see the vessels built in British...",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "df8f4f62c66a",
-   "title": "Fertiliser package to deliver support for Louth farmers",
-   "original_title": "Fertiliser package to deliver support for Louth farmers",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM0FSQ0dMUFowbEt6SjJZQWNRaFZraWluNXdPVEFNVWZkYVhCZnZyLVE1dGUwZEJlUVN2M21LT1ZjRk9PUmtYd0J6UzlwZlNCbTlaNHo2ai1rSHg0N1Zqa2RHemlMUzNodDZLN3RJZk05MnlkaktsX1dhX2hUV1RvX3ZIQWhXQ0M5UjBiSFE3UWwzYmQ1SXhROEVhSjVEVWFNMDNfR3o5SlgwTHM?oc=5",
-   "source": "Ireland Live News",
-   "published": "2026-10-15T17:30+00:00",
-   "added": "2026-10-15T18:15+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "fertiliser"
-   ],
-   "summary": "Fertiliser package to deliver support for Louth farmers Ireland Live News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
