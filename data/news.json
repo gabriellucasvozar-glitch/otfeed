@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T15:33+00:00",
+ "generated_at": "2026-10-20T16:13+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "8747b669b895",
+   "title": "Latvia Emerges as Top-5 Importer of Russian Grain, Consultancy Says",
+   "original_title": "Latvia Emerges as Top-5 Importer of Russian Grain, Consultancy Says",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRE9sY0JXenRZWVdYOUs0THBwTUpCbXFOZkR0eHdXQzJCQU1hNHU4ZlAtb2V3cHFSU1dHWUk5dTR5RnNKd2ZkY09nbDZvSldvU3owa0Y1SUFocFE2ajhORkEzWERqMjB6TjhqUVFpMnNvOEh6YnlYckdfYk41cEZlRGh6RERhVTF0UVBXRXoyeklXTHVzemRvWG11eDhWM0NZWXZaQWl3SzE0U19pWllPS0VfU1JsQQ?oc=5",
+   "source": "The Moscow Times",
+   "published": "2026-10-20T15:18+00:00",
+   "added": "2026-10-20T16:13+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "grain",
+    "russia",
+    "russian"
+   ],
+   "summary": "Latvia Emerges as Top-5 Importer of Russian Grain, Consultancy Says The Moscow Times",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "049a0690575b",
    "title": "Hillwood Polska sells 57,800 sqm warehouse and office complex to TOYA",
@@ -39,6 +68,37 @@
    ],
    "summary": "Hillwood Polska sells 57,800 sqm warehouse and office complex to TOYA EurobuildCEE",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c38922eb835a",
+   "title": "Tankers trickle into Russian ports after US diesel deal",
+   "original_title": "Tankers trickle into Russian ports after US diesel deal",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdlNzOGtpWUVJak05V19abVN6VTNvaEZ1dXdnRThoTVZqUGl5SldYeXlKX00yUm54S2tneFE4NmFfV1o3eDQ5eERMZDRzcWZlTFc1eUY5US1WVFM5MS1BWFFFYnNKOGhWRzBYUURlRDdLTzVGcVBJakg2TEpYMFB6bHVWVUl4Q3V0N29vSEF3OUJaZnJnaWNwUVNrQ1UwRy12NnZnUzFSZm5zZw?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-10-20T13:35+00:00",
+   "added": "2026-10-20T16:13+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "port",
+    "ports",
+    "russia",
+    "russian"
+   ],
+   "summary": "Tankers trickle into Russian ports after US diesel deal TradeWinds News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -10475,6 +10535,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "b4e89b7e6086",
+   "title": "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says",
+   "original_title": "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUGRTd2Rrck5PcG9teGo3cmtDeF9wV1E5YTdsVWhTOFZqcUg1RmJYM0p1MTdha3NtQWg5NmZrZFl5VmptRHdzUVBfZmhWRlM2dWoybTk3UHk0U1hwMUxKV1RqMV9QUzdDQWZuYUxaRDhXZ2RiWkRVUFhHeDR4WHlVRTFMWGlubGZ1Ullpa0VmTzdoNGItYXFFbHhOUU1BeWc1cE1MR3QwTG5PQTgyT0RoNzhB?oc=5",
+   "source": "Middle East Eye",
+   "published": "2026-10-17T18:38+00:00",
+   "added": "2026-10-20T16:13+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says Middle East Eye",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "1ab663f27022",
    "title": "Mágyár has stated that he is ready to facilitate the transit of Ukrainian grain",
    "original_title": "Mágyár has stated that he is ready to facilitate the transit of Ukrainian grain",
@@ -16459,84 +16547,6 @@
    ],
    "summary": "East Front News #116: NATO will cut Russia off from the Baltic and Starlink terminals are back in operation Defence24.com",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cf91eb7bde95",
-   "title": "Rekord przeładunków kontenerowych w Long Beach. Najlepszy miesiąc w historii",
-   "original_title": "Rekord przeładunków kontenerowych w Long Beach. Najlepszy miesiąc w historii",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOElVbHpyeEdzUC1XQjU0NHRrVUNfZVNqNjBmRWh6bExwRWl2ZVdQQzZzSEx0Yk51ckFaZVVLOUpVUFZHdjZBQzRZRUhCRFZhaURQMUt2aUFRQjhYeWs5RlZmdDBmZE9fV0JiOTgwYlY0enE4UGliZXY3TVBuV0swZTc0YzRJU1dWUUJUWVdLa1FvSXMtUGVlajBZT2xVZEZNWmwtcEhYREs1dDMxWV9uSlNtOA?oc=5",
-   "source": "GospodarkaMorska.pl",
-   "published": "2026-10-16T08:01+00:00",
-   "added": "2026-10-16T09:08+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "przeladun"
-   ],
-   "summary": "Rekord przeładunków kontenerowych w Long Beach. Najlepszy miesiąc w historii GospodarkaMorska.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "85dfd53c5e28",
-   "title": "EU: Transport sector calls for rail funding to be safeguarded in the 2028–2034 budget",
-   "original_title": "EU: Transport sector calls for rail funding to be safeguarded in the 2028–2034 budget",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdFkwNHI2ZkJWZFlmanF3SEhPaVk3b2g5R2NieFEwZEM0VmpOTDFhLW5RQzdjdWZ2TV9CdGxEZXVjMlBJZEdBQXdIcFkzalRuWjFrVzJPMU1wVXlScWx0bVdNbER4Z1lwMjJmTTFmWFBaakVpQnZmam81N000TkJsaEdXT282WGdvUmx1M0hlVThidWFKbkE?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-16T07:51+00:00",
-   "added": "2026-10-16T07:56+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "rail",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 7,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "railway",
-    "safeguard"
-   ],
-   "summary": "EU: Transport sector calls for rail funding to be safeguarded in the 2028–2034 budget Railway PRO",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cc0deb1cd668",
-   "title": "Portuguese KLOG expands intermodal connections",
-   "original_title": "Portuguese KLOG expands intermodal connections",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSmxfd3lZSEl4R1ZMRzMtc0xVX3dabjQwQ0t4OXB6cV9UU2FlZ2ExUHJreGZMeWZOQk5MZGFGQmJ6SnRyT2pvOVFQc0tVUlVwMVVLdkxwcUhGeUFPNjR4UG51T3ZWZFo1ZE10VXlWaFNTUE0xN1dObkljZVlYX0FGYlE1WVZ6ODJDbnJNd0lJcWlnckpFbkVZUG15cTZDd1RxXy1IN1BOQVNLQnQxX1JKenR5N3lyZTNxQ1FoYlhhN1pESDJ1Zl82Q01n?oc=5",
-   "source": "RAILMARKET.com",
-   "published": "2026-10-16T07:50+00:00",
-   "added": "2026-10-16T09:43+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "intermodal"
-   ],
-   "summary": "Portuguese KLOG expands intermodal connections RAILMARKET.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   }
  ]
