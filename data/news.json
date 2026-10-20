@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T11:33+00:00",
+ "generated_at": "2026-10-20T12:07+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,88 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "62e128a0e1e0",
+   "title": "Dray Dog-CargoWise link-up will automate port bookings for drayage",
+   "original_title": "Dray Dog-CargoWise link-up will automate port bookings for drayage",
+   "url": "https://theloadstar.com/dray-dog-cargowise-link-up-will-automate-port-bookings-for-drayage/",
+   "source": "The Loadstar",
+   "published": "2026-10-20T11:47+00:00",
+   "added": "2026-10-20T12:07+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "terminal"
+   ],
+   "summary": "WiseTech Global has integrated its CargoWise Landside transport management systems (TMS) with marine terminal appointment software provider Dray Dog, enabling US drayage operators to automate port bookings and reduce manual data entry. The integration connects Dray Dog with CargoWise’s Trinium, Profit Tools, and Compcare management systems, allowing dispatchers and customer service representatives to receive confirmed appointment details, including reference numbers, directly within their own TMS. Dray Dog, a CargoSprint company, automates the process of securing marine terminal appointments by continuously retrieving available slots, and booking them according to predefined carrier parameters. The move targets a longstanding administrative burden for drayage operators at the ports of Los Angeles and Long Beach that must coordinate terminal availability, appointment bookings, dispatch systems, and driver schedules across multiple platforms. Former Harbour Trucking Association CEO Matt Schrap previously told The Loadstar : “You’re operating across several different platforms, not only in the port ecosystem, but within your own company. It’s about efficiency.” According to Mark Rabens, SVP transportation at Custom Goods & Quik Pick Express, the Trinium TMS-Dray Dog integration will ultimately save time and money, while improving customer service levels. And Jon Steitzer, head of Dray Dog, added: “Every minute counts in drayage.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "b6ab6ab5e2a1",
+   "title": "UK Chamber of Shipping: Avoid FuelEU Maritime Pitfalls in Domestic Fuel Standard - News and Statistics",
+   "original_title": "UK Chamber of Shipping: Avoid FuelEU Maritime Pitfalls in Domestic Fuel Standard - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObTFMaHRYdm9tT3o4ai0yaUgxY3RGOXdLTkhsY1hjc0s1X3hfblllbkVQQXl0ZFBJMG5UNGtHTWpyUVV6Q2xBNnpLM2ZYX2h2VkpNWlBqZGhkcUx1a2R3UXpEMmxSR3NLYVgyb1hkWWhsdnB0WDlieE5nOF9WV3hnMmx2dHlIb1gyWEdUMEJHSWtnZGZuNEVUS1dpVXRxWjVXZWFDWTg5ZG0zbG5fZDVKbUo0WUhSQkNqZVZUa3lBTC14RXc?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-20T11:40+00:00",
+   "added": "2026-10-20T12:07+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "fueleu",
+    "shipping"
+   ],
+   "summary": "UK Chamber of Shipping: Avoid FuelEU Maritime Pitfalls in Domestic Fuel Standard - News and Statistics IndexBox",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bf9e06fb1e08",
+   "title": "Airlines strengthen winter freighter links, as forwarders face capacity shuffle",
+   "original_title": "Airlines strengthen winter freighter links, as forwarders face capacity shuffle",
+   "url": "https://theloadstar.com/airlines-strengthen-winter-freighter-links-as-forwarders-face-capacity-shuffle/",
+   "source": "The Loadstar",
+   "published": "2026-10-20T11:34+00:00",
+   "added": "2026-10-20T12:07+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe",
+    "North America",
+    "Latin America"
+   ],
+   "tags": [
+    "forwarder",
+    "manufacturing"
+   ],
+   "summary": "Airlines are strengthening freighter links between Asia, Europe, and the Americas for winter, adding transatlantic flights, connections to Latin American manufacturing and distribution hubs, and capacity serving Asia’s technology exports. Air Canada Cargo’s new 767-30F services to Amsterdam, Monterrey, and Panama City join selected US frequency increases from Lufthansa Cargo, a new Cairo link from Air France, and additional transpacific options from JAL and Cathay Cargo. The additions come as forwarders renegotiate allocations ahead of the winter passenger timetable, when fewer flights on some routes reduce available belly capacity. Elsewhere, Lufthansa Cargo’s winter schedule, effective 25 October, offers 88 freighter routes serving 40 destinations, including up to 46 weekly rotations to 17 Asia-Pacific destinations. Its own 767 freighter timetable adds a weekly Narita-Dalian service. Cathay Cargo has also linked additional Americas freighter capacity for the peak to growth in semiconductor and data-centre equipment shipments from Asia. It expects a leased A330 converted freighter in the fourth quarter, operated on its behalf by Air Hong Kong, to support regional general cargo demand. IATA reported global cargo demand up 4.4% year on year in August, while capacity fell 0.1%. Asia-North America cargo capacity demand increased 13.2%.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "9071cd03cb56",
    "title": "Port of Singapore faces new challenges – but also new opportunities",
@@ -75,6 +157,31 @@
    "summary": "The UK Chamber of Shipping has urged the British government to avoid repeating the compliance problems encountered under FuelEU Maritime as it prepares to introduce its own maritime fuel standard. In a policy paper published this week, the industry body warned that the EU regime, which came into force in January 2025, had imposed a substantially greater administrative workload on shipowners and regulators than initially anticipated. The 22-page report identifies difficulties with reporting deadlines, fuel certification, emissions calculations and compliance pooling arrangements. The Chamber wants the UK government to establish a fully tested ship-level monitoring and reporting system before introducing compliance obligations. Peter Aylott, the Chamber’s director of policy, said the government had an opportunity to learn from the EU’s experience rather than create another regulatory system that increased costs and complexity. The paper also calls for close alignment with emerging International Maritime Organization requirements to avoid duplicate certification, reporting and verification obligations. The intervention comes as the Department for Transport prepares to consult on a domestic maritime fuel standard, with the consultation expected later this year. Britain’s maritime decarbonisation strategy, unveiled in March 2025, targets a 30% reduction in domestic shipping’s lifecycle greenhouse gas emissions by 2030, rising to 80% by 2040 and zero by 2050, against a 2008 baseline.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "c13e92616e93",
+   "title": "One in five dry bulk cargo tonnes routed via Cape of Good Hope in H1 2026",
+   "original_title": "One in five dry bulk cargo tonnes routed via Cape of Good Hope in H1 2026",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDltNV9vSjJpdFpTYUZWTDJHRmNQYTVBSmxBSUxiQUFCT3hWSElmVzVDV3FsRXJxLVNRYWFfUzhFUjVEY0s5VnFWOFVMaDhVQjF4U0h0cEJsZXYtOGZoc2NTR3RXcEhZNWR1RmpUNE81a2FwNDlRTmVtMUJvVmpCWTNFT29yOHNidmM1OVBrU3JCZEJKOHRVYTFEd2U5QQ?oc=5",
+   "source": "safety4sea",
+   "published": "2026-10-20T10:49+00:00",
+   "added": "2026-10-20T12:07+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "dry bulk"
+   ],
+   "summary": "One in five dry bulk cargo tonnes routed via Cape of Good Hope in H1 2026 safety4sea",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
   },
   {
    "id": "e896fa731147",
@@ -16422,115 +16529,6 @@
    "summary": "Greek tanker owner Chemnav Shipmanagement has expanded its suezmax newbuilding programme with two more vessels in China, taking its orderbook in the segment to four ships. The Paul Coronis-backed company has been linked by shipbroking sources to a contract for two 158,000 dwt crude carriers at Penglai Zhongbai Jinglu Ship Industry, with deliveries expected in 2029. No price has been disclosed. The latest deal follows a low-profile order for two suezmaxes at New Times Shipbuilding in September last year, with delivery scheduled for the first quarter of 2029. Chemnav has since updated its website to confirm four suezmax newbuildings scheduled for early 2029 and early 2030, although it has not named the yards involved. The company has been rebuilding its newbuilding exposure since returning to South Korean yards in 2023 after a lengthy absence. The owner previously ordered three MR tankers at K Shipbuilding, a programme expanded in 2024, and had operated a secondhand suezmax several years ago after buying a 2003-built vessel from Teekay Tankers. The Chinese builder has also secured an order for four 157,000 dwt suezmaxes from Eastaway, the tanker arm of Singapore-based X-Press Feeders, with deliveries stretching into 2030. Those vessels were reported at around $80m apiece, although no price guidance has emerged for Chemnav’s latest pair.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "80b7994113a5",
-   "title": "US pledges $17 million for Colombo port digital overhaul amid renewed maritime cooperation",
-   "original_title": "US pledges $17 million for Colombo port digital overhaul amid renewed maritime cooperation",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNlFxdFNoYnB4alhPVkotaC1uTlRtWEVtSkYwQWZ5dXJHTmc3S1JDci1mUXZKU3RUU3dFNHJwMFhVUkUxVGgtSUN2aGlvMkRBZXVVMllvdWF6QXVMckxnYWEybXZVZ1BLaFhjeGZod2FneUszY2htTVlTb2hOX2JlaGtfNUh3Y2VTT0VzcUFhVC15TEFvUENTRzgwdXlESjJfcFhHT1RSOVEzN00?oc=5",
-   "source": "Sri Lanka Guardian",
-   "published": "2026-10-16T04:58+00:00",
-   "added": "2026-10-16T12:00+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "US pledges $17 million for Colombo port digital overhaul amid renewed maritime cooperation Sri Lanka Guardian",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3b0c37c762f6",
-   "title": "EU Steel Capacity Recovery Depends on 5.8 Billion Euro Investment Barrier",
-   "original_title": "EU Steel Capacity Recovery Depends on 5.8 Billion Euro Investment Barrier",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOWhtNDhLRjRDeGRsLTlld2NobXc0ZmRYTEtMRXRhdWRBd3FtUlFkd0pwZW9wZ1hvZVNpYWJBUXltQno2a0c2R1VBbXVZUVlSZzJ6VG9zLXFqbzlFT1hVNUlzM1lPLUxxQ2JlYkRBQzZpNjZvLW9qU1VkWmF1cUszaGx4a3Y3R0JrSHhaNTRsT2NLTy12V2h3eGtIeVNwU2VQbmc?oc=5",
-   "source": "PravdaReport",
-   "published": "2026-10-16T04:54+00:00",
-   "added": "2026-10-16T05:52+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "steel"
-   ],
-   "summary": "EU Steel Capacity Recovery Depends on 5.8 Billion Euro Investment Barrier PravdaReport",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8eac683c0954",
-   "title": "GSI taps bridge builder to ease ship block bottleneck",
-   "original_title": "GSI taps bridge builder to ease ship block bottleneck",
-   "url": "https://splash247.com/gsi-taps-bridge-builder-to-ease-ship-block-bottleneck/",
-   "source": "Splash247",
-   "published": "2026-10-16T04:49+00:00",
-   "added": "2026-10-16T09:08+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "commodities",
-    "rail",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "bottleneck",
-    "china",
-    "railway",
-    "steel",
-    "supply chain"
-   ],
-   "summary": "Guangzhou Shipyard International (GSI) has turned to one of China’s oldest bridge builders for outsourced hull block construction, joining a growing number of shipyards tapping manufacturers outside the traditional maritime supply chain to keep pace with swelling orderbooks. The CSSC-controlled yard has signed a framework agreement with China Railway Shanhaiguan Bridge Group, bringing the heavy-steel fabricator into its shipbuilding operations. GSI said its expanding orderbook and increasingly complex vessel mix would drive up demand for hull blocks over the coming years, prompting the move to bring in additional manufacturing capacity. A separate project launched in September will see a new facility built at Longxue North, with GSI lined up to operate the yard once completed in 2029. The China Railway Construction Corporation subsidiary is fabricating 10 cargo-hold bottom sections weighing up to 96 tonnes each, which are to be transported to Shanghai for final assembly. The company has established three outdoor block assembly lines and is targeting annual ship block production of up to 100,000 tonnes, with longer-term ambitions to move into complete vessel construction. Shanghai Waigaoqiao Shipbuilding also proposed a new block fabrication and assembly facility last year to address capacity constraints and reduce its reliance on external subcontractors.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "cb9f2c587dd2",
-   "title": "Port of Imatra daily activity",
-   "original_title": "Port of Imatra daily activity",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wQmdnMUstU0VaUEhzX25zMzZ5eENITkNiS0FCeFYzLV9teVp0SHBDaXVMWFU2c2d4X3ZBUUNNNTVCMF9UcEMtbTBzLV90UHVPYWlPelgtWGh6cmZwQnE3c3BBNjgzNG1LMkJXQXFESUhSN0E?oc=5",
-   "source": "El Estrecho Digital",
-   "published": "2026-10-16T04:23+00:00",
-   "added": "2026-10-16T08:32+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port of Imatra daily activity El Estrecho Digital",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
   }
  ]
 }
