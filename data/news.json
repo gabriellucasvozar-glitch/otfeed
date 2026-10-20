@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T21:37+00:00",
+ "generated_at": "2026-10-20T22:10+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -3678,6 +3678,40 @@
    "summary_method": "feed"
   },
   {
+   "id": "55413c3de088",
+   "title": "US moves to legitimise shadow tanker fleet",
+   "original_title": "US moves to legitimise shadow tanker fleet",
+   "url": "https://splash247.com/us-moves-to-legitimise-shadow-tanker-fleet/",
+   "source": "Splash247",
+   "published": "2026-10-20T08:50+00:00",
+   "added": "2026-10-20T22:10+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "mna",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Middle East",
+    "North America"
+   ],
+   "tags": [
+    "crude",
+    "fleet",
+    "hormuz",
+    "sale of",
+    "sanction",
+    "vessel"
+   ],
+   "summary": "The Trump administration is authorising the sale of sanctioned oil tankers to approved investors who would refurbish the vessels and return them to legitimate crude trades, US energy secretary Chris Wright revealed yesterday, as Washington scrambles to contain soaring freight costs amid the Hormuz crisis. Speaking at a Citadel Securities event in New York, Wright said the government was developing an approval process for formerly blacklisted vessels to trade under recognised owners, carrying only non-sanctioned oil. “We’re going to move some of the ships from what I call the ‘bad-guy fleet’ to the ‘good-guy fleet,’” he said. Kpler estimates only 24 of roughly 160 OFAC-sanctioned VLCCs could realistically return to mainstream trading after ownership and age restrictions are considered. It argued yesterday that war risk around the Middle East Gulf, rather than vessel numbers alone, is driving freight costs, and that loosening sanctions could weaken geopolitical leverage without delivering meaningful relief.\\ Braemar put the potential increase even lower at just 19 VLCCs once vessels tied to Iran and European sanctions are excluded. BRS, meanwhile, has identified 148 deepsea tankers sanctioned by the US alone, representing just 2.5% of the global deepsea fleet. Only 14 appear to have been idle for more than three months.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
    "id": "ca0e7410050f",
    "title": "European steel and downstream industries call for comprehensive EU CBAM expansion",
    "original_title": "European steel and downstream industries call for comprehensive EU CBAM expansion",
@@ -6764,6 +6798,37 @@
    ],
    "summary": "Global Freight Costs Surge as India’s Ports Face Pressure Urban Acres",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "88634202f326",
+   "title": "The Baltic Sea and the Black Sea: Grain, Geopolitics and the Economics of Strangling Russia",
+   "original_title": "The Baltic Sea and the Black Sea: Grain, Geopolitics and the Economics of Strangling Russia",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0VyRUhIZ2tod25kQUtEV1Vra1QwUDhwNElFeWNFNE9RNzJpQ0FMN21LUEVqSnVvLUFYNHpwSmtHMVM3UkNVc2ZKVFZkMEFXV0oyRVBVQzNTSnUyMEZtVjhkTmdqcFFFaGs0aDZOSlFUdzd2SGZ6RWNLNlUwQWU5Ylo4Zkt5NTJOY0xBZXo5eWF5czZqUTBhcE5mNTk5RmNFdk9VLVZPQVF6UnJiVHZJcm45THE2U1ZROElsWm13?oc=5",
+   "source": "www.lvivherald.com",
+   "published": "2026-10-19T12:56+00:00",
+   "added": "2026-10-20T22:10+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Baltic & Nordics",
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "baltic",
+    "black sea",
+    "grain",
+    "russia"
+   ],
+   "summary": "The Baltic Sea and the Black Sea: Grain, Geopolitics and the Economics of Strangling Russia www.lvivherald.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16528,58 +16593,6 @@
    ],
    "summary": "Export bodies raise concern over tariffs and port efficiency Freight News",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b94328d97731",
-   "title": "Coal Making a Comeback: How Fast and How Long?",
-   "original_title": "Coal Making a Comeback: How Fast and How Long?",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa1RQLU5Fd1dWZlBKVFZfUVJwcmRHRlpuaE5SMGhEM2NpbVhDSHlHa2ttdlFPMlpDQmx0bGEzZVhxd3ZsZkFhR3E1UGVHaU9wUTBkdGw4MXVrQmw2NFZOYXdxZEs1Skh4RHZ6emFfYnhEa2dBTUctQmh5eVRjckh1WUlR?oc=5",
-   "source": "Energy News Beat",
-   "published": "2026-10-16T11:40+00:00",
-   "added": "2026-10-16T14:08+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "Coal Making a Comeback: How Fast and How Long? Energy News Beat",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a70fad6cf112",
-   "title": "Jindal Steel commissions 12.5 MTPA cargo terminal in Odisha",
-   "original_title": "Jindal Steel commissions 12.5 MTPA cargo terminal in Odisha",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeTgzWnYzRDdKRl80VXNXd3lUWjB3RFFFQ3QtZG9sY25oUkRSZml0Tl9sVF8zZEFfZXgwdHhBa0NEYjJDNDRxSHZJcDhVM1pHODMzV0Vlc3lwUjUtOEJWUFlPUEVlSzhMVGRXVnA2SE9vLU0zMGpEUDNFOW1lT0kwWHFiN3dLWjlaSlhLN0JYeDVZQklyT1JnWDMwVExOQ3RlOWc5WmdCdWtwYWJHWmthanBYV1VrdkpTSEZXd1FnTXBDVHlKcGw5cDI1TGZIUzF3TUHSAdIBQVVfeXFMT3k4M1p2M0Q3SkZfNFVzV3d5VFowd0RRRUN0LWRvbGNuaFJEUmZpdE5fbFRfM2RBX2V4MHR4QWtDRGIyQzQ0cUh2SXA4VTNaRzgzM1dFZXN5cFI1LThCVlBZT1BFZUs4TFRkV1ZwNkhPby1NMzBqRFAzRTltZU9JMFhxYjd3S1o5WkpYSzdCWHg1WUJJck9SZ1gzMFRMTkN0ZTlnOVpnQnVrcGFiR1prYWpwWFdVa3ZKU0hGV3dRZ01wQ1R5SnBsOXAyNUxmSFMxd01B?oc=5",
-   "source": "ET Infra",
-   "published": "2026-10-16T11:37+00:00",
-   "added": "2026-10-18T11:09+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "steel",
-    "terminal"
-   ],
-   "summary": "Jindal Steel commissions 12.5 MTPA cargo terminal in Odisha ET Infra",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
