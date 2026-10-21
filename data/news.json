@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T12:17+00:00",
+ "generated_at": "2026-10-21T13:11+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,62 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "2682caed0a22",
+   "title": "W szczecińskim porcie zbudowano multimodalny kolejowy węzeł przeładunkowy",
+   "original_title": "W szczecińskim porcie zbudowano multimodalny kolejowy węzeł przeładunkowy",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0NLQnJWNC1Oem5yYnJOZHBmMnlpU2JGeV9lVGdzMEVhVEFVbXpLd2pBbWkxX3VOUkVnb0tYZi1sRElhMlJPc1Z0UFlVWVROTkRQQnhDTUJzc0NqZ0ZfWDd6cGhUMk9XMGROOGV0Z3ZtSmpMRDZweElNRGFUWERuaDVncnBVazM5b2NDNVJXVW5kUFF2ZG5oaEtrT1UxUy1Sb05mOHIxWXR1NUZPeW42cVE3djdmTFlZUlJqc3Q4WDE?oc=5",
+   "source": "PortalMorski.pl",
+   "published": "2026-10-21T13:03+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "high",
+   "score": 9,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "przeladun",
+    "szczecin"
+   ],
+   "summary": "W szczecińskim porcie zbudowano multimodalny kolejowy węzeł przeładunkowy PortalMorski.pl",
+   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ca04032f1df4",
+   "title": "DSV set to root out low-margin business as volumes decline in Q3",
+   "original_title": "DSV set to root out low-margin business as volumes decline in Q3",
+   "url": "https://theloadstar.com/dsv-set-to-root-out-low-margin-business-as-volumes-decline-in-q3/",
+   "source": "The Loadstar",
+   "published": "2026-10-21T12:26+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "mna"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "forwarder",
+    "forwarding",
+    "freight rate",
+    "results"
+   ],
+   "summary": "Air and sea freight volumes at the world’s largest freight forwarder, DSV, saw a decline in the third quarter, but revenues grew more than 15% year on year, due to elevated ocean freight rates. According to third-quarter results released today, DSV posted group revenue of DKr71.9bn ($10.8bn), up 10.5% year on year, and an EBIT before special items of DKr5.4bn, up 19.5% year on year. Its Air & Sea forwarding division reported a 3% decline in air freight tonnage and ocean freight teu, but a 15.9% increase in combined revenue, to DKr45.6bn, while EBIT before special items was up 19.8% year on year, to just under DKr4.3bn. DSV also noted that over the first nine months of the year, its sea freight volumes had grown 13%, but attributed the Q3 decline to a mixture of “weaker commercial performance on the APAC-Europe tradelane and the effect of yield management initiatives. Third-quarter air freight volumes also fell 3%, year on year, to 560,890 tonnes, although over the nine-month period they were up 15% year on year. “Volumes were impacted by yield-management initiatives, conversion from air freight to sea freight, lower-than expected activity in Europe and reduced e-commerce volumes on the APAC-Europe tradelane.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "6e885d3b97a2",
    "title": "Vopak secures New South Wales government backing for Port Botany expansion plans",
@@ -68,6 +124,62 @@
    "summary": "Some 63% of the ocean capacity deployed between the Far East and Europe has returned to the Red Sea, following three years of detours, but some operators are hedging against renewed disruption by maintaining several Cape of Good Hope routes. Having surveyed the 10 largest carrier networks over the past month, Alphaliner found vessels on 24 of the 46 direct Far East–Europe services were transiting the Red Sea, accounting for 70% of deployed capacity on Far East-Mediterranean routes. On the Far East-North Europe trades, the number was a little lower, 58%, with containers moving between the Far East and Europe via Suez now topping 5.5m teu, of the possible 8.7m teu available to the trades – CMA CGM alone accounting for 1.3m of this. However, the Suez return remains something of a mixed bag, with multiple services opting to transit the Bab-el-Mandeb Strait on outbound routes to Europe, but electing to sail around the Cape on return journeys. Of the 10 carriers surveyed, five confirmed they had resumed Red Sea transits over the past month, that number set to climb to eight after Premier Alliance partners HMM, ONE, and Yang Ming all announced a return to the waterway.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "2ad7ecfbbdd0",
+   "title": "Airfreight in Africa booming, thanks to disrupted ocean shipping services",
+   "original_title": "Airfreight in Africa booming, thanks to disrupted ocean shipping services",
+   "url": "https://theloadstar.com/airfreight-in-africa-booming-thanks-to-disrupted-ocean-shipping-services/",
+   "source": "The Loadstar",
+   "published": "2026-10-21T12:00+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East",
+    "Africa"
+   ],
+   "tags": [
+    "disruption",
+    "forwarder",
+    "shipping"
+   ],
+   "summary": "African airfreight is seeing something of a boom from the disruption in ocean freight across the Middle East, but forwarders remain sceptical as to whether it will provoke long-term structural benefits. Hennie Heymans, CEO of DHL Express’s Sub-Saharan Africa operations, told The Loadstar the shift from ocean services had left airfreight the only viable alternative to keep goods moving. “When people run into trouble from a seafreight point of view, the alternative becomes airfreight, becomes express, and that is a notable trend across African airfreight’s growth momentum at the moment,” Mr Heymans told The Loadstar . For DHL Express, the timing has proved particularly useful, coinciding with the launch of its Heavy Weight Express service, allowing its customers to ship consignments of up to 3,000kg, with individual pieces of up to 1,000kg. Expanding beyond smaller parcels, the new service is designed for automotive, energy, engineering, machinery, and pharmaceuticals, Mr Heymans noting the significant cost implications delays place on these sectors. “The timing of the launch worked out quite well, which makes the conversation a lot easier, and a lot more comfortable for those customers seeking these sorts of services,” explained Mr Heymans.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "f872d2244a58",
+   "title": "IEA: Record tanker rates push up oil costs as Middle East disruptions bite",
+   "original_title": "IEA: Record tanker rates push up oil costs as Middle East disruptions bite",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMklnYk0yM05zVnpmNFBZOXRSeG9rYTRkS19EeHZLYjhYUU5hQVhERXhOcnBXc2tXbE8wUlBHc2xfbmNsNDRLVG5pc3RTd2JtRFdSOUVYWEFhUzY5Z3ZsakxkRFc2Vk56V0hQeXNuVHpBZkQ0SUszSW4zUUVha3F1MTNmWGhTbThaaFRtVU9OS2tTT20zblU1M2N0RHVhQkFvMEtmM21SVmFLdERWbE5SQjBBaE9LZFQ5NmxwNFdQWXpwNWdBX09oR3lyZTNISFlnempGNnBXNA?oc=5",
+   "source": "INSIGHT EU MONITORING",
+   "published": "2026-10-21T11:42+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "EU institutions",
+    "Middle East"
+   ],
+   "tags": [
+    "disruption",
+    "eu "
+   ],
+   "summary": "IEA: Record tanker rates push up oil costs as Middle East disruptions bite INSIGHT EU MONITORING",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
   },
   {
    "id": "3a0e1bf37af4",
@@ -181,6 +293,32 @@
    "summary_method": "extract"
   },
   {
+   "id": "37cfb640b075",
+   "title": "Oil prices jump $2 as Iran knocks hopes of diplomatic progress",
+   "original_title": "Oil prices jump $2 as Iran knocks hopes of diplomatic progress",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQnJpenFuZUhfbHFpWk9ZXzBXWDhFSVRSR0lOc3loMG5ZVXZOWTNrR1M5dEE4VU8xcGI2ZWlaUGJlUW80YTdIOUZ2OE04bHJJNy0zZGppcTBVM21LTm1haFUtNHRKZWhaVm5IT0VTdmh2T3hwc0VBVzM0QkZ0UkVZR3BJZmdnNjNjYmJTRjF3?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-21T11:10+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "oil price",
+    "prices"
+   ],
+   "summary": "Oil prices jump $2 as Iran knocks hopes of diplomatic progress Yahoo Finance",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "46b60b2f2caa",
    "title": "Maersk implements fuel surcharge on Poland intermodal services",
    "original_title": "Maersk implements fuel surcharge on Poland intermodal services",
@@ -229,6 +367,33 @@
    ],
    "summary": "BOMESC advances $23m Tianjin port expansion Splash247",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "963efad0f773",
+   "title": "Interest in Middle Corridor’s future use remains significant – EU",
+   "original_title": "Interest in Middle Corridor’s future use remains significant – EU",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RM1ZqQU9ING44WE5VYnR0VjRQdzBDWVcwSUtuMEdoY3hYdkctSV9rZ2RGWmw2XzNQRHQyT2lTelhITV9sWENFU3JpNjZuRFpoaFhPSjRSbw?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-21T10:37+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "EU institutions",
+    "Asia"
+   ],
+   "tags": [
+    "eu ",
+    "middle corridor"
+   ],
+   "summary": "Interest in Middle Corridor’s future use remains significant – EU Trend News Agency",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -371,6 +536,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "2ce4c688f74f",
+   "title": "Middle Corridor boosts Azerbaijan’s role as transit hub",
+   "original_title": "Middle Corridor boosts Azerbaijan’s role as transit hub",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5RcUpvN0ZUY0t0UVBDbkM3WThuR1FoRmhSMUtXbVo3bU9BcVJnd2o3MGJON0dQdkMtNmxjUk4zQ2ZMWjBkdkc2UUxVSnVZQWY1XzdZbEFfOA?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-21T10:15+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "Middle Corridor boosts Azerbaijan’s role as transit hub Trend News Agency",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "8f3abdad8f2b",
    "title": "TOUAX to acquire initial fleet of AELER Unit One composite containers under long-term lease deal",
    "original_title": "TOUAX to acquire initial fleet of AELER Unit One composite containers under long-term lease deal",
@@ -395,6 +585,88 @@
    ],
    "summary": "TOUAX to acquire initial fleet of AELER Unit One composite containers under long-term lease deal Container Management",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "acf67525ff9c",
+   "title": "Australian Infrastructure Fund IFM Acquires UK Port Operator ABP in £10 Billion Transaction",
+   "original_title": "Australian Infrastructure Fund IFM Acquires UK Port Operator ABP in £10 Billion Transaction",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT0xpd3Jfa1lPQURXeFlibXgyUGVJZFJ1V3JjbFBrdmJwQUtMZ3Y5bjNrVWVMSE52aEczVzFaYTliNjhJYkg0TWJCR2ZMQVh0aDFqeXNIOXMtQTFzUVRJZ2J3QzZLc3lPaUhZc3YxM1hMNEQ3djBXUGE1MFVxV1o0RGhNY21NbW1NamI1MktFcTJob2NMbTFvVllDWkRFMnRkbTVvaERvTVdGZUh5dHd5dWtoTmtqbE1OR0VReUdKWEpfdw?oc=5",
+   "source": "https://streamlinefeed.co.ke/",
+   "published": "2026-10-21T10:10+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Western Europe",
+    "Oceania"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "port"
+   ],
+   "summary": "Australian Infrastructure Fund IFM Acquires UK Port Operator ABP in £10 Billion Transaction https://streamlinefeed.co.ke/",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8a3e586336f0",
+   "title": "Middle Corridor’s importance as transit route rising fast - EU",
+   "original_title": "Middle Corridor’s importance as transit route rising fast - EU",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlV1hBZVNXQUxzUW81TEtNQ05tS2l2OGJjcXdVRXlJdGFrMlBCdDZEODQ5a19IMEVzQ0ZETjBHTW1HUUY2clRoWjdsY1pHZHlfbFFlVnVEYw?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-21T10:08+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "EU institutions",
+    "Asia"
+   ],
+   "tags": [
+    "eu ",
+    "middle corridor"
+   ],
+   "summary": "Middle Corridor’s importance as transit route rising fast - EU Trend News Agency",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "80a957c33ef0",
+   "title": "Feeder service may be launched between ports of Turkmenbashi, Alat",
+   "original_title": "Feeder service may be launched between ports of Turkmenbashi, Alat",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHdXYk10a3ZRUDZyUXFUNkxmSHJ3V1U0S3BLN3pPTVYzXzgzLVJGUjc0UEg0OWNPdFM2OGNCcjR4cWxBSndZU2ZZTUgtN0dZN3NUbHVnbUduLS1wUUxuQWg1QjlqWmtnMTNleWFlQ0M4RExZWmVuaE1VUmtFRGFYMlcyOEpCSTdfeU1vdTlGd3piX0RTbmFFQTZWYlVpX0VFc3Rn?oc=5",
+   "source": "Report.az",
+   "published": "2026-10-21T10:07+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Feeder service may be launched between ports of Turkmenbashi, Alat Report.az",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -700,6 +972,36 @@
    ],
    "summary": "Elmir Poladov: Transportation via Middle Corridor depends on capacity of Caspian Sea Report.az",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a278ac8fffbd",
+   "title": "Turkmenbashi needs container terminal for China transit - U.F.E. Shipping",
+   "original_title": "Turkmenbashi needs container terminal for China transit - U.F.E. Shipping",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoTVk3d3ZYSVBUY0oxdmo4RTJIUVdjX1ZzaDliUWpkcGstdlB6WVNTUnFzOVF6OWRKVW1qTnp2dmNRS2VpaERMM3l1MUJ4Qk55d1NqQTl1NA?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-21T09:51+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "container terminal",
+    "shipping",
+    "terminal"
+   ],
+   "summary": "Turkmenbashi needs container terminal for China transit - U.F.E. Shipping Trend News Agency",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -1456,6 +1758,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "a2909fdfe95d",
+   "title": "European companies consider Middle Corridor a safer alternative",
+   "original_title": "European companies consider Middle Corridor a safer alternative",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeTdVbThWaTlZS1IxZTNsMWhKM0RFZ3ZFVWNWRHpRQjg5bXpfMlhOTk5kbVlzclFmWVQ1cUtHTlJZRF93VzZBOS1SbFZwU3RwYUhSMEhtZW8xMFZCS2tlVWsxajZicTVibnBGY0lkeWlPT1REdkZyZ0FJdktFaGl1X3hzTkJEWVFfSTJYOWs4ZlVWRHVpcEtENW5nOFZHc2c?oc=5",
+   "source": "Apa.az",
+   "published": "2026-10-21T07:03+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "European companies consider Middle Corridor a safer alternative Apa.az",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d2fb3855cde1",
    "title": "Rapeseed Market Steadies While ICE Canola Softens — CMB News",
    "original_title": "Rapeseed Market Steadies While ICE Canola Softens — CMB News",
@@ -2197,6 +2524,37 @@
    ],
    "summary": "Iran asks Russia to strengthen Caspian ports for grain and food supplies Baird Maritime",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "163ef11e4072",
+   "title": "Oil Prices Rise On Middle East Supply Concerns, Red Sea Shipping Risks",
+   "original_title": "Oil Prices Rise On Middle East Supply Concerns, Red Sea Shipping Risks",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUlnUzRfLW4xUURROGVVeUFYMV9uekpFMDlKX2xyYUVWZ2s1T0I2UDJqODJBaVl2MzNxMUxMZmp4VnlodGhwb1VqSWlia19hQVlEMVJha3NHdms4QzMxT0RrWnRrbTdEclZrM3FNbHVzc1hLR2hEbDZlRVlFRldVVmZCLU8xeHZEenFVT1lVc3NoQWJuaXBJbml6UVlSdURRSEJtQzZESFJoUjE5c2xoNFVpZUw?oc=5",
+   "source": "BusinessToday Malaysia",
+   "published": "2026-10-21T01:18+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "oil price",
+    "prices",
+    "red sea",
+    "shipping"
+   ],
+   "summary": "Oil Prices Rise On Middle East Supply Concerns, Red Sea Shipping Risks BusinessToday Malaysia",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -6756,6 +7114,33 @@
    ],
    "summary": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate Crude Oil Prices Today | OilPrice.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "de7b1173b755",
+   "title": "Railway Chaos in russia Has Disrupted Export Shipments",
+   "original_title": "Railway Chaos in russia Has Disrupted Export Shipments",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE54bVdNN3BpVGJMRi1iSm96SVFLWDNfZzllejFPNC1UNmo2NGEwWU9QUWJXeTVhUnNnNVZv?oc=5",
+   "source": "Howl.link",
+   "published": "2026-10-20T07:00+00:00",
+   "added": "2026-10-21T13:11+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "rail",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "railway",
+    "russia"
+   ],
+   "summary": "Railway Chaos in russia Has Disrupted Export Shipments Howl.link",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16179,382 +16564,6 @@
    ],
    "summary": "Ukraina przeprowadza zakrojony na szeroką skalę atak na port naftowy i centrum danych w Sankt Petersburgu. Vietnam.vn",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a0d6f8bfc3d2",
-   "title": "PKP Cargo SA w restrukturyzacji (PKPCARGO) - Notowania GPW - Giełda",
-   "original_title": "PKP Cargo SA w restrukturyzacji (PKPCARGO) - Notowania GPW - Giełda",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5paU05UXNXUl9hcEVIbDd4WmNqV1dFbVk3R0RYV1h1S1B6a0FPS1pGdlpjY2FKN0dKLWN6RnNDeEViaDRTRkZEVFEyZ1pOTjJaVXRMc1QyUFItSGxtajZLcnRQVm9IRkxoMTlCZzZPVG1HTWgtYWx1Qm1n?oc=5",
-   "source": "Bankier.pl",
-   "published": "2026-10-17T06:59+00:00",
-   "added": "2026-10-19T04:04+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "pkp cargo",
-    "restrukturyzacj"
-   ],
-   "summary": "PKP Cargo SA w restrukturyzacji (PKPCARGO) - Notowania GPW - Giełda Bankier.pl",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8678e66c1934",
-   "title": "Iran-Kazakhstan rail freight grows significantly – Zakeri",
-   "original_title": "Iran-Kazakhstan rail freight grows significantly – Zakeri",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkcnp2ay1DQ2ZHclZwaWczcDlpZ3ZJT0Jxa1N6SGNBWXBFb2FHYW1LdXkwYUJLblJTa3k1cXlKWEQ4SFlQa1JkZ1NiX29JMEk?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-17T06:10+00:00",
-   "added": "2026-10-17T12:10+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "rail freight"
-   ],
-   "summary": "Iran-Kazakhstan rail freight grows significantly – Zakeri Trend News Agency",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "52dbe5454a86",
-   "title": "Russia and Iran Revive the Rasht–Astara Railway Plan",
-   "original_title": "Russia and Iran Revive the Rasht–Astara Railway Plan",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcjBvMS1vR1p1YmhRSE5CUFlldVhzTEM1cXJkVTIyRGR2LTRRU0Y0cVBwWGJReE9EQzZ0NFBvM2R4Rlo5WXM4MzZLNDdqbXpkUXB6MGo0c3kxVHJ4M2RkLWtSZ2ZWeC1VZEwyRm1vSGVYM0YxS0pZYzJzbVhyOHV1Q0FHc3R3NzlNZWpSLQ?oc=5",
-   "source": "Caspian Post",
-   "published": "2026-10-17T06:02+00:00",
-   "added": "2026-10-17T07:55+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "rail",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East"
-   ],
-   "tags": [
-    "railway",
-    "russia"
-   ],
-   "summary": "Russia and Iran Revive the Rasht–Astara Railway Plan Caspian Post",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "90bb3404a581",
-   "title": "Why India's steel demand is defying global weakness",
-   "original_title": "Why India's steel demand is defying global weakness",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVc2T3k0ckx2UnQ0NDFnUFQ1Y1pWQVhJMmpnZTFfRTNfYS1hQ2d4UGpLN2NmckdsNDRVUlVHcWw5V0s4ZDhjS1NvSmZYMjNEYWNraEg5YVlLb0lxLXFnZEFhdXFlNzF4RHF2NzdlYjB6aFF0MVd1MTZPUUNlY0d6YkhUeWNDakVlemhaaFNHNEt1U1hTcGFiMGZXcEFxb2NJX1VLNlZXRklqbVo4RjVBYmtSZ0tGczJFMFgzZDZBQzRZUdIBxwFBVV95cUxQWC1JdlVLd2JsQ0p1OGt6d2Fhd3BqY0JjbXp1c0RscEp6RkR1OE84RlZvNTdYOENWMGlQUWVrd3FBaTdra2FXdkoxLXpVM2ZYeDI2ZHA1dElNNFJVbEMzLVRPdU1zMFltYUJKSzV5R2hnYUdRcENhN3hNbW85ZG9PeUgteVNqVlpuTmlfVWZNMEJJb0FPNGFjbUN4RGdRWFgyZDRtSTF5N3NVQ0ZGV1BRQXVjVTRpcF91VklsdWhGNGR1Qm5xdm44?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-17T05:38+00:00",
-   "added": "2026-10-17T07:22+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "Why India's steel demand is defying global weakness The Economic Times",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c2bb2cfcbd29",
-   "title": "3 Shipping Stocks Investors Are Watching After Russian Tariffs Were Put On Hold",
-   "original_title": "3 Shipping Stocks Investors Are Watching After Russian Tariffs Were Put On Hold",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV0IzNDJ5TFBBU3c3ay16bnlGekRaenU1OGJmN3htZGNpZ25mUllIVVZDcDlYZDU1ejhvTENhRWdaZWFtVUhjeWxCT0NXcWJvWHRfY3lfbERTQ2ZtRGJhNlU0STNoU0hFX2hmUUNob2J5SW1la1JOVTBPOWNzc0s4VHJfc0VHX1pPU2lKVkFtS0hpd3FlU1c3eEVnMnJMWTAyZDdnWTJxUWxPZXF5RjNNekZsYXo5aVg4RUJlSnVDdkFTWDZwSkQ2VlpSVGZHUEYyWDlVZnhLTHR0d2RNTWFjTlN0ald6V0c5UFM3QnpJSdIB9AFBVV95cUxQeG5mOGlDRmFMMzBHblU4Nm9wVmRCOFJZaEhCZEhVVElPYTZmSTNlc1hlU0JzZDF2X1UxaEZOZXFURlZHWDZtS2NvUjJrVzJCaE5ZUXJuMFozWlVjUkJLM3BHMEx3UVRhREVWTDVUT1dLUzZKdkZtSHFSdTdyd1RQLXhITGlYS3ZuOUxKSThKRWJYbmNBLVpJQkYzSzlrNTVwcVRUTDNVVnRVaVBuQkhyNHpYS2duN3hDUFZCbmQxYUY0NHQtSTJUQ09wTDBaNnVoazZFZUdoYzRrVDY2OXFvMEt6ME00a3BGaUdTbjRBQU5JZnAt?oc=5",
-   "source": "Simply Wall Street",
-   "published": "2026-10-17T04:33+00:00",
-   "added": "2026-10-17T05:07+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "regulation",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "russia",
-    "russian",
-    "shipping",
-    "tariff"
-   ],
-   "summary": "3 Shipping Stocks Investors Are Watching After Russian Tariffs Were Put On Hold Simply Wall Street",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9eb465430a3d",
-   "title": "Port of Rotterdam Reports 0.9% Throughput Growth in First Nine Months of 2026 - News and Statistics",
-   "original_title": "Port of Rotterdam Reports 0.9% Throughput Growth in First Nine Months of 2026 - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMDJ6aTdndnh2dk5lRTMyMHRCeVFseGhJcm5zS1BkVUhhdXl1RWt6dlo2MWlUZkE4dEJVVXljNGVnWTRqRjVhSEEwY1Vzd0FobG1jVHk3RU02d0szTUNURXpqLUFNZ0J6YjlJaFVVMFR2eTJGZEZPYlY5bWNTd3VEVk5KSG55czUzUXFEdC03ajN5QU50aTlBeGdlamM?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-17T04:32+00:00",
-   "added": "2026-10-20T21:37+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port",
-    "throughput"
-   ],
-   "summary": "Port of Rotterdam Reports 0.9% Throughput Growth in First Nine Months of 2026 - News and Statistics IndexBox",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7bd6ddaf7b8c",
-   "title": "BHP to cut 300 Pilbara iron ore jobs as unions impose sellout deals",
-   "original_title": "BHP to cut 300 Pilbara iron ore jobs as unions impose sellout deals",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RdUpZNGJGVDVmRC1pYktXVGlYVVN0WmRGaHZwdzFaZTVyQ0FZZ29rMW0tYXJDaGtmU21PbkxOTFktc3NVZWdqQk9fOFZicWJmR2ZPS00yWDNvWlotTjVsVmNMMFVTeHVq?oc=5",
-   "source": "World Socialist Web Site",
-   "published": "2026-10-17T04:24+00:00",
-   "added": "2026-10-17T05:40+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "iron ore"
-   ],
-   "summary": "BHP to cut 300 Pilbara iron ore jobs as unions impose sellout deals World Socialist Web Site",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c836616c7d66",
-   "title": "US Announces $17 Million Grant to upgrade Colombo Port’s Digital Infrastructure",
-   "original_title": "US Announces $17 Million Grant to upgrade Colombo Port’s Digital Infrastructure",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWUFKUkppS1JSejlOZDg1SXJJdWowUjV5SDlWNF96bGdfQ2NwdndlU3ZMWVFXR0xWTXE2RU1feWRSRnFQSGRuY1k1OGhSQmp3T0QxYVhOU28xbVBrWFY5YmllSlJmVkZwUDFCWDV5RUJwZ0I1QW1leDFvenBhaWtjcXdPVnNyWmx2VEVKZTZZaHpjbXJ6b1NLYWctYUVDOTdYbHU3bmw0X2VOYi1qTlhSMDQ1YXM?oc=5",
-   "source": "India Shipping News",
-   "published": "2026-10-17T03:58+00:00",
-   "added": "2026-10-17T05:07+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "shipping"
-   ],
-   "summary": "US Announces $17 Million Grant to upgrade Colombo Port’s Digital Infrastructure India Shipping News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "af9d82b25d4c",
-   "title": "India selling more to US despite tariffs, but China trade gap keeps rising",
-   "original_title": "India selling more to US despite tariffs, but China trade gap keeps rising",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmJaLV9pUjJQaF9Ob0pjVWg0VmhBeFFvNGhsSkhkV2swRWNPa0FIaGcxYWdCUEpuQmtwd19YT2xnTm95aTNIVC1IVmhHVF9qZThINDlKRW5pbFVzSWt3dGE3b0dHZU1MamxiTUNtLTVoQzQ1RXpzamxFSWFmdmxqbHF0ckF6d2lMcXU5MTBRRDlUR004M0dfUlE2dlVPSVVhTTE2eGFHNk45YXBaRzI0bA?oc=5",
-   "source": "India Shipping News",
-   "published": "2026-10-17T03:51+00:00",
-   "added": "2026-10-17T05:07+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "shipping",
-    "tariff"
-   ],
-   "summary": "India selling more to US despite tariffs, but China trade gap keeps rising India Shipping News",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e8975dbdb10a",
-   "title": "Port Lotniczy Rzeszów-Jasionka im. Rodziny Ulmów, Woj Podkarpackie",
-   "original_title": "Port Lotniczy Rzeszów-Jasionka im. Rodziny Ulmów, Woj Podkarpackie",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZlhuajVqd0ptVkFhYldGenlJMXVlZkZ6LXE2SmJVYXY1VmdpUDgzU0VodDRCbThGRzI5Z1YwYTQ5OUYzaXZCbm50cmRqbVV4blM0ajJ0MlJ2cE9hUkpfcGJhdGV0c0dRazN3ZVJIa3RydGl6MmRsNXRvN3ZzamdWTFBVOXFuVWhyWTk3YnNzZzlGbkNOUkY0ZVlwZWU5WG1MWVdVOUxXVllPY2Z3N25jeHdWeWVmVzhBTGFCdA?oc=5",
-   "source": "MSN",
-   "published": "2026-10-17T03:47+00:00",
-   "added": "2026-10-18T05:06+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port Lotniczy Rzeszów-Jasionka im. Rodziny Ulmów, Woj Podkarpackie MSN",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5fdafaf3a0c3",
-   "title": "Red Sea Return: Should Exporters Rely on One Route?",
-   "original_title": "Red Sea Return: Should Exporters Rely on One Route?",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZGNLZUxpUDNFTjVhd0JzX19xd1pWMmxtUTJEejNCQkR0Mk9PSFoySk9KWnVqeFd2ZFptdkpNRXdsdHBCeHIzSVhnbExaRWR5UlJYRmhpSi1tMTNTWjk1a3l4WVd5aG1UdmtaUWxSeUV1Sm8xcmh4dkk1TmFHTGt2NkFhQmc1QQ?oc=5",
-   "source": "Logistics Insider",
-   "published": "2026-10-17T03:30+00:00",
-   "added": "2026-10-17T10:24+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "logistics",
-    "red sea"
-   ],
-   "summary": "Red Sea Return: Should Exporters Rely on One Route? Logistics Insider",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e530f5deaa6b",
-   "title": "DP World CEO: \"Anyhow, Anytime\" Shipping and India",
-   "original_title": "DP World CEO: \"Anyhow, Anytime\" Shipping and India",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUzRUVEpwU01fYmpVMzl3aU80YS0xallQblJnV2tzX0cySkF4aUNKemV0OHA4aF9Zd1JieTBqcEZoeVFZYkI4U25xUUJ2YVVESTB0MUJvRUd6Zm9NQ1VZS1RWVm5kTk8tX3dFM0hsWmRMOEVuVUU2WjBLOWtuZkFNdFFoNHJNbnRJaXFHTkJ3?oc=5",
-   "source": "Logistics Insider",
-   "published": "2026-10-17T03:00+00:00",
-   "added": "2026-10-20T11:33+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "shipping"
-   ],
-   "summary": "DP World CEO: \"Anyhow, Anytime\" Shipping and India Logistics Insider",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f3a494d36f74",
-   "title": "Lázaro Cárdenas Port Community Participates in XXX Annual Congress of Shipping Agents",
-   "original_title": "Lázaro Cárdenas Port Community Participates in XXX Annual Congress of Shipping Agents",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaVBNZnBUcjhnc0dCZW92ODV4VThna0dsYW9SalM0dUkwZUp6Rjd6VEo1S3pmVnhFNW5Ta2xON0NhYzk1R2M1dHYzdXNKTXBxU3FRencyWjBqX0VEU0p1aFVxOFdCUkpJUHc0Z1JQTjNWNXZpalVDWFZYc2JyMGRkUTRTei1Zd0pnaE5jX1VhMDRmWUZuYzllMzczekFmcF9fSFpfRm42LW03bUhnaUU4cmFobnhweHNUY2ZQNFJxM3c2THoyNzZHMUU1dTRiNlU?oc=5",
-   "source": "Data Portuaria",
-   "published": "2026-10-17T02:45+00:00",
-   "added": "2026-10-17T06:48+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "shipping"
-   ],
-   "summary": "Lázaro Cárdenas Port Community Participates in XXX Annual Congress of Shipping Agents Data Portuaria",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6a83ad200452",
-   "title": "Ukrainian Wheat Prices Ease on Logistics Risks and Weak Demand",
-   "original_title": "Ukrainian Wheat Prices Ease on Logistics Risks and Weak Demand",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMzVabF9TMFlldmVLZmdCSGhER2xRVUp2UU5lM242SjF5U2JIQkRTRXBxel9VNExaWjZnWFd4RkhUeFdWMEc0M3RNaWVfSHJZYi1zeENNQ3A1QzV5ZEg4ZDMwWkRpdmhEd1p2eTJDT05XWmJJMEVIU3kxWEY2d2VzXzhsaG1KWFVRaUVsVVZ1WWhLUQ?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-17T02:00+00:00",
-   "added": "2026-10-17T07:55+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "logistics",
-    "prices",
-    "wheat"
-   ],
-   "summary": "Ukrainian Wheat Prices Ease on Logistics Risks and Weak Demand CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
