@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T22:59+00:00",
+ "generated_at": "2026-10-21T23:31+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -43,6 +43,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "3c17ba48cb1c",
+   "title": "Przykłady dostosowania bocznic kolejowych obsługujących przewozy węgla do przeładunków jednostek intermodalnych",
+   "original_title": "Przykłady dostosowania bocznic kolejowych obsługujących przewozy węgla do przeładunków jednostek intermodalnych",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOTBDaGVmNjk0akk0VTB4azBnanZTazV4UngwUTJENXZJM1VEWnlna2xwNWIyX3VBdC1USk9vU0p0QjRFd04xMHR6T0RPWDlXeTlxSENoeHRxeWItYmtMcEtXazdHanBNTkVhX1pXbExuNFVWd1hRcjRPTzlkWEJKX0s4MHowdWNXN2Nvd1p3NEc2cURDYmJNZVZ6UmNoNnZRdWI1NWhXN1N4Ylg3a21WUV83QWpEZU5SQUdNR0ppWE9YeVlzaEUwbjF0ZGxRR3F4VnBJdy14NU43NGFZZW9KVFl4NHJIOXll?oc=5",
+   "source": "Strefa Biznesu",
+   "published": "2026-10-21T22:00+00:00",
+   "added": "2026-10-21T23:31+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "intermodal",
+    "przeladun"
+   ],
+   "summary": "Przykłady dostosowania bocznic kolejowych obsługujących przewozy węgla do przeładunków jednostek intermodalnych Strefa Biznesu",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "9acdcafd5dbd",
    "title": "Global Grain Trade Shifts Toward New Shipping Routes as Freight Costs and Risks Rise",
    "original_title": "Global Grain Trade Shifts Toward New Shipping Routes as Freight Costs and Risks Rise",
@@ -67,6 +94,59 @@
    ],
    "summary": "Global Grain Trade Shifts Toward New Shipping Routes as Freight Costs and Risks Rise AgroLatam",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "61b578c4e67c",
+   "title": "Latakia Port receives six modern gantry cranes",
+   "original_title": "Latakia Port receives six modern gantry cranes",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBISEg3Slp0d3VxUDg3RWdCN1VrOFhxVkYydlJhREdBSzJMVHdiZ0REa1VGZUxIZ29tV3BTeWlSVlZQRi1FYzhfeWl3enY?oc=5",
+   "source": "سانا",
+   "published": "2026-10-21T21:23+00:00",
+   "added": "2026-10-21T23:31+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "port"
+   ],
+   "summary": "Latakia Port receives six modern gantry cranes سانا",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "434a461a13af",
+   "title": "Reshoring Should Be Judged by Risk Removed, Not Factories Moved, Says RELEX’s Rohit Tripathi",
+   "original_title": "Reshoring Should Be Judged by Risk Removed, Not Factories Moved, Says RELEX’s Rohit Tripathi",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdzdaNEFKVzFrNGlidjlfTUtQYnNlbWNLVGxwZDBTRjVZck1QQmdlTEdCZm9fZGs3QzNaU0NJUkN6aElNUWE0WjY0di1lSzYzM3dORlF5R2RpMWQwVHo1U0Q1bUFsdDc1dzkxRG1DRE14M01ONmZ0OV9pazg2M1diVGRLZm16dkM5NmhMQUt0ZmxEbmwyZmVzM0V3UlRVOUlmeDVJdlZzVzdjdVNTTUNLU3FBTDdnNi11Q01TY3VJcDlLQURMYmxHVXhpdmJYZw?oc=5",
+   "source": "BioPharm International",
+   "published": "2026-10-21T21:11+00:00",
+   "added": "2026-10-21T23:31+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "reshoring"
+   ],
+   "summary": "Reshoring Should Be Judged by Risk Removed, Not Factories Moved, Says RELEX’s Rohit Tripathi BioPharm International",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -357,6 +437,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "e0ee3d61c52b",
+   "title": "Elbows up in Washington state over proposed oil tanker terminal",
+   "original_title": "Elbows up in Washington state over proposed oil tanker terminal",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQckN5MjNwemJicWQyVU5aVUFZMWs2alU0a3JTT19MVGp6SFFQWHE5RUZ5dmFtNFNJRldHcndmNlc3WFk4WTRzcUFtNDh2amg2RzRTUTl3R1dEMG5wbWplT0JCbWk5am8yN09kQzhEQldqdWVhYk94bmV0SWpVUkJHTTZFY2tnMk9rMlZxRnNzRkxvTHk3WHhhWUd1U0J1cGNWLWJaVkhhQ3E?oc=5",
+   "source": "The Daily World",
+   "published": "2026-10-21T20:41+00:00",
+   "added": "2026-10-21T23:31+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Elbows up in Washington state over proposed oil tanker terminal The Daily World",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "36f9edf3ba5f",
    "title": "Panama Canal Traffic and Tonnage Rise Despite El Niño Challenges",
    "original_title": "Panama Canal Traffic and Tonnage Rise Despite El Niño Challenges",
@@ -407,6 +512,57 @@
    "summary": "An Arabian Fox MAST-13 unmanned surface vessel, attached to U.S. Naval Forces Central Command’s Task Force 59, conducts surveillance in the Arabian Gulf, Nov. 21, 2023. Army Photo By Chris Servello (OpEd) After years of testing and debating how unmanned surface vessels fit into the fleet, the Navy is starting to show what these systems can do. And senior leaders in the Department of War and Department of the Navy are talking less about the promise of unmanned warfare and more about making it part of everyday operations. The Navy needs to decide how it intends to fight with unmanned vessels, what missions they’ll perform and how it will organize, train and sustain the forces operating them. It’s time to move from proving these systems work to making them a routine part of fleet operations. For years, Task Force 59 worked with industry and regional partners to introduce unmanned systems into one of the world’s toughest maritime environments. The deployment of the Leidos-built Seahawk medium unmanned surface vessel with the Theodore Roosevelt strike group is another important step.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "c8d4edde5fb7",
+   "title": "What record diesel prices mean for Canada’s agrifood system, from farm profitability to food inflation",
+   "original_title": "What record diesel prices mean for Canada’s agrifood system, from farm profitability to food inflation",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZjRrRGhCRWtxVmdXS3htZVlHX2UwLWNpMzJ0d3BKVnJDRlVxUl9fRmVhVHpvclcxTGJoVVdPM2Y1bjVkTW1xWjZBRC1OeUR3NDFJbGpHQ3BKRHFzMW91dVpCLTF0WmZKNTlPZmp5cG5acHVOUV9FekdoLTBnZnM0cUVQNzJCNVFWaWc?oc=5",
+   "source": "Farm Credit Canada | FCC",
+   "published": "2026-10-21T19:45+00:00",
+   "added": "2026-10-21T23:31+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "diesel",
+    "prices"
+   ],
+   "summary": "What record diesel prices mean for Canada’s agrifood system, from farm profitability to food inflation Farm Credit Canada | FCC",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9708172c954b",
+   "title": "Chevron Dropped Funding for Proposed Guyana Port Studies Inherited From Hess",
+   "original_title": "Chevron Dropped Funding for Proposed Guyana Port Studies Inherited From Hess",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbDZYUER2UjhWUDFLWFpTRWI0ZTRENGh3RnR0TlVPTFphU3NiengwdS02eGxhb3REb1ZtUVdzbXM2aGtvVkNlY0Z5UHVCS3RYd2plUzVGT1otVGJfaFVPU1V6Z3ZuYjhNajVTSWRuZ2xwcXdYU2E2S09xcS1UclhRdVdmMDVBam9HRDRkTFQwZ1VndlpERDhBSGlBWUpHRGdiQ1YyU1hLcnU4RHp0TlA0YWlUU040V1V5eHNYZE8xUjVEZlpTaWc?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-10-21T19:30+00:00",
+   "added": "2026-10-21T23:31+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Chevron Dropped Funding for Proposed Guyana Port Studies Inherited From Hess Bloomberg.com",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "39a6899bc5f3",
@@ -497,6 +653,35 @@
    "summary": "US Treasury Secretary Scott Bessent looks on as he speaks to the media at the World Bank on the day of a meeting with Chinese Vice Premier He Lifeng, in Washington, D.C., US, September 23, 2026. REUTERS/Nathan Howard The United States has imposed a new round of sanctions targeting a law firm, shipping agents and nine vessels accused of helping Iran move oil and other commodities through international markets, expanding Washington’s crackdown on the networks supporting Tehran’s shadow fleet. The U.S. At the center of the latest action is Karnakis and Karnakis, a law firm operating in Panama and Greece that Treasury says has spent years establishing shell companies used to conceal the ownership of vessels transporting Iranian petroleum, petrochemicals and steel. The law firm also played a key role in establishing the corporate network behind Iranian liquefied petroleum gas magnate Seyed Asadoollah Emamjomeh, whose shipping operations have transported hundreds of millions of dollars’ worth of Iranian LPG and crude oil. The action represents a broader effort to target not just the vessels carrying sanctioned cargo, but also the legal, corporate and logistical services that allow shadow fleet operators to function. Amigoz was also linked to vessels associated with the shipping network of Mohammad Hossein Shamkhani and provided bunkering services to the previously sanctioned shadow fleet vessel ZIXUAN.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "59af6cdbe089",
+   "title": "Capesize strength drives Baltic dry bulk index rebound to weekly high",
+   "original_title": "Capesize strength drives Baltic dry bulk index rebound to weekly high",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcE10Tm9FZ0tWLWJEalphdVNXYzM1cHo4bW43dlZMbElSRjBCUGd0dGY4VHJmVHRkRUJFcW5Ec1hVYS04R1RZcDA4bEQ5R1RZclZVaW5JMG5JU2RSOFF4Y2ZHM2FHSHJZYTFRWjRmU0g4TGNOa3o3cTlERWR2VXk4V1hib2R5UmJkT1M0VE94U1lHVFNlVTMtUnpBaG5rc2dtNk9HYi1QSXE3RFYydUxjUDducmVsTElYRER5WGU3b2s0cS1F0gHSAUFVX3lxTE1wSnBTaE8teUN5Q2FOVktKcWViOE1MYW9VMTdfX2pXRVJSd0kyRkFZWlpHU1plRVdVM0F0VFN0ZmtyclJBLW1YWTJmYXFVRkN4UkUtVTBqOXBxLUtsZEhnMzE0ZUFZd0sxWXZSLS1wNmdBZUZUb2ZKNngzRGlGTVFZT2NNOEh6Z25MSXNVUnJXWm9HY2JMQ2p0VmkxQXpfQkVOMmVaYVhvM01mOV9mNmFWWE93MXlRNHZWdWw0WGtzVGZacWg3SlZCbFZKcHZVNGlsQQ?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-21T17:32+00:00",
+   "added": "2026-10-21T23:31+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "capesize",
+    "dry bulk"
+   ],
+   "summary": "Capesize strength drives Baltic dry bulk index rebound to weekly high Baird Maritime",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "8c8985bf31cc",
@@ -776,6 +961,34 @@
    ],
    "summary": "Drewry on Lessons Learned from Declining Carrier Schedule Adherence and Rising Port Congestion Supply Chain Digest",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "77d816a7b123",
+   "title": "Maaden moves another ammonia cargo through Hormuz",
+   "original_title": "Maaden moves another ammonia cargo through Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWklBN1ZPRVd6bVJWejlUUmFCSG1JaXVDUjMzNzNnSXNCc1FHWEhWaGJva2FlYm9QV1Q2S3FsYVo3X2o1OFFGSXc0NDB0djFibGZ5WVRjRVRHZi1xc1daX2JJaFE3eWJSYTdRYWRNY3NnYzRkU2NxdmUxbVoyVzJjbDNiY3NjaVJNYXVEMVhSTzctV1NCMnJRQXN6U0lpdWJJemc?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-21T16:04+00:00",
+   "added": "2026-10-21T23:31+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "ammonia",
+    "commodit",
+    "hormuz"
+   ],
+   "summary": "Maaden moves another ammonia cargo through Hormuz Quantum Commodity Intelligence",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -1185,6 +1398,33 @@
    ],
    "summary": "Durban Port, South Africa, congestion forces carriers to adjust vessel operations Kuehne+Nagel",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "22f7e7d474ae",
+   "title": "Van Kessel reduces hydrogen refuelling price to €10.95/kg at Greenpoint stations",
+   "original_title": "Van Kessel reduces hydrogen refuelling price to €10.95/kg at Greenpoint stations",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWMyVy1pVGVNZGI4SS1vM2FqMUpQV3psYUVzZmJhTW1ycVlLckhjVUxPV0Yzd0psbDZtblFweXVzcXBVMHdJdlJEVkM1TW1OX2I2dnFvVnI4dEo3S0lYbWpfQmlFeTFueDlrS0JPX1ZsS1ZUNXRfZnhBaWZ6eUg5MHJ1M0FSVXF4S1lOSV9sd2VHSk5GcVUwWUNXWW5uVGZlVTVoSXRUVlRnNXRrSmtUbjdoLURjOW9kWE44RXZRVHg4ZFZTcURzRUpjNA?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-21T12:55+00:00",
+   "added": "2026-10-21T23:31+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "commodit",
+    "hydrogen"
+   ],
+   "summary": "Van Kessel reduces hydrogen refuelling price to €10.95/kg at Greenpoint stations Quantum Commodity Intelligence",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -4844,6 +5084,31 @@
    ],
    "summary": "Study says shipping pays twice its share to EU ETS, and negotiations signal ongoing imbalance Riviera Maritime Media",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "854486acbdd4",
+   "title": "Nearshoring’s Promise Meets Latin America’s Infrastructure Reckoning",
+   "original_title": "Nearshoring’s Promise Meets Latin America’s Infrastructure Reckoning",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1NUNmd3NVVMcnZsS1l1N1NkWVJheUFleVBKalVyX2JGUzlmb3dKbEZuMkF6LXp6RjNheU8zS1JBTDIxb2l2RmlWbVBfNzlpSGpHTnNEZkdya1o1UEV4T21na1JSaEMyUFJYWHctUDMzX2NrX1JPeGpnaGNoOWttZXFNQWRaeGxqNUw0T2NiampOWmpEWWx0ejBPTlBKRlZ4YWlmc3YwSm5NVEk?oc=5",
+   "source": "LatinAmerican Post",
+   "published": "2026-10-20T22:51+00:00",
+   "added": "2026-10-21T23:31+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "nearshoring"
+   ],
+   "summary": "Nearshoring’s Promise Meets Latin America’s Infrastructure Reckoning LatinAmerican Post",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16242,293 +16507,6 @@
    ],
    "summary": "US pauses sanctions targeting top importers of Russian crude oil and gas Shipping Telegraph",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0c7f7645593b",
-   "title": "Seaport congestion: A challenge for global trade",
-   "original_title": "Seaport congestion: A challenge for global trade",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGRCbXRXTnBlX1NHbXpIaFdyUkFZc09NUlhqVUVLYXZnZk9OR2VRQS11amlObzcxRC1kd1NyWGQ2LTRPemMxUkRFRmczdzlMdjd1Q1djbE5mNmRJRml6NV8wZnhLRzdDdjJEWEhiZHFrYUJXYnZOdE1KUTNvbWl5NWFrNEtzSHEwRDhDNDZHNTNxbUt4WTYw?oc=5",
-   "source": "Daily FT",
-   "published": "2026-10-19T00:45+00:00",
-   "added": "2026-10-19T04:04+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "ports",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "congestion",
-    "seaport"
-   ],
-   "summary": "Seaport congestion: A challenge for global trade Daily FT",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "84db387f78f1",
-   "title": "Ukraine seeks safe Black Sea grain routes",
-   "original_title": "Ukraine seeks safe Black Sea grain routes",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWllZOElIazFvTW9vVjB0RmFISGZOMHBWeTAwTm53UWM0eTk5bjBORDNYclliR21xY3FGekNqWi10R21zQXMtMmZsZUlrRksyVVZycDlPUjd6SEYtVlJ5Z09VSzh3bG5hSUpLUGlQU2ZocXNJQVVZM3A5VmhkdWdRN01SWjdUbER1aHpGbVNDZGVxdw?oc=5",
-   "source": "Briefs Finance",
-   "published": "2026-10-19T00:33+00:00",
-   "added": "2026-10-19T02:51+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "grain",
-    "ukraine"
-   ],
-   "summary": "Ukraine seeks safe Black Sea grain routes Briefs Finance",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "191141c760e3",
-   "title": "Metinvest CEO calls on EU to lift restrictions on steel imports from Ukraine — BBC News",
-   "original_title": "Metinvest CEO calls on EU to lift restrictions on steel imports from Ukraine — BBC News",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ1dYd3lxQmxVWjkybW5WV1BMYnNBODJKbVVJOGM1bEJ6eU1rcGwtM2I3YVh6Z2RieUQ5Vi1XQmZDSU8tX1NzQ1Y2Q2YyMTdrakJlVEZHbzcxTjBlcTN1d3FzTF9HZFJRM05uWi1IMzJvcDJqOG9ocHRnSVNjZFh2Q2dRaTFudl9UNnpHUUtDWXJaaEZFR2dXQjlnaXhKUGVnNmVoOUdFLXVkQ3pHLW1XZzJjZERMaVR2RVRuQWZGTQ?oc=5",
-   "source": "UA.NEWS",
-   "published": "2026-10-19T00:18+00:00",
-   "added": "2026-10-19T01:05+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "steel",
-    "ukraine"
-   ],
-   "summary": "Metinvest CEO calls on EU to lift restrictions on steel imports from Ukraine — BBC News UA.NEWS",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "66e23f6200dd",
-   "title": "Protein index highlights Australia’s fertiliser, fuel exposure",
-   "original_title": "Protein index highlights Australia’s fertiliser, fuel exposure",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbm9xd0MybWdVdjRsUkN6SnpPY2JaVjVRLXN2SXBoTlRxTnp0c0I5SFFhYW1sQjl3TVJYN0RxaVB6WkVSbXlSYUdMUm54Qm03Y1pYR29KNWxLaGY5cTVFOUVqOGh4bVExRUViM3BzZmdxMzM3QzhiQ2h5TWNlMjR3cXZnMnNnZmRZTVFwbVVSWmxBRzhWLVZ1Q1l2bw?oc=5",
-   "source": "Grain Central",
-   "published": "2026-10-19T00:11+00:00",
-   "added": "2026-10-19T00:16+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "fertiliser",
-    "grain"
-   ],
-   "summary": "Protein index highlights Australia’s fertiliser, fuel exposure Grain Central",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "80e6d98b5508",
-   "title": "Hyundai Glovis Joins Philadelphia Port Expansion to Strengthen East Coast Logistics Hub",
-   "original_title": "Hyundai Glovis Joins Philadelphia Port Expansion to Strengthen East Coast Logistics Hub",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwSUtSN1VXaHYyWjZJWFlTLVdaTVhLclp0UWgyRGdNSDlPbHlZUXlleEpsR29HOFh2TU1pLUM2Q0xMdk1kZ1ZoVUdSN0tQMDJrTmNObnoxU0NGQlJqdFFQaFFjVGV0Z0VJTnNmdkxySGJSLW5tc2c?oc=5",
-   "source": "아시아경제",
-   "published": "2026-10-18T23:36+00:00",
-   "added": "2026-10-19T00:16+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "ports",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistics",
-    "logistics hub",
-    "port"
-   ],
-   "summary": "Hyundai Glovis Joins Philadelphia Port Expansion to Strengthen East Coast Logistics Hub 아시아경제",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "27faae3f27ac",
-   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-   "original_title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaDU5UzlmRDBuR3RaaDdsMDVRQlYtNWhVTV9ZcVlMbUlaT0JHZ210a25EMkFMbUJqd3Z3OG1CZDRQMnNobWVGVE1IcUphdzlMeXZDQVR4T3lYTDctSEI1RWstVE9rcmczRk1ZVFE2UGVtUVA2UHAyVVNLelJfM1FYemE3Tzd1UQ?oc=5",
-   "source": "Yahoo Finance Australia",
-   "published": "2026-10-18T23:28+00:00",
-   "added": "2026-10-18T23:50+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "high",
-   "score": 10,
-   "regions": [
-    "Ukraine & Black Sea",
-    "EU institutions",
-    "Asia",
-    "Oceania"
-   ],
-   "tags": [
-    "china",
-    "eu ",
-    "steel",
-    "tariff",
-    "ukraine"
-   ],
-   "summary": "EU tariffs aimed at China hitting Ukraine, steel boss says Yahoo Finance Australia",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d617e6a63b20",
-   "title": "Record Shipping Costs Force Oil Producers to Slash Prices",
-   "original_title": "Record Shipping Costs Force Oil Producers to Slash Prices",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlZCUERSZmdMU00ycWE4U1FKbDNRT1I5WWc2X0FudWFCVXcwNUZ6MUxMMHVpcW1SMjk0eDk3ckgtMEZiaTRMOGpwMjJ5cTNrOHE4Y2RzUUN6aTh4Y2NabDM0enZ6ZkJ1SW1ScVVfekdxdUxNVmtUX2xQaG1NRTVqY2Ewb2tvU21XcHMxdHdkZ2hDa2MzREUtcGRhVDk5M2oxZWNydjJUZ9IBpwFBVV95cUxQVlZCUERSZmdMU00ycWE4U1FKbDNRT1I5WWc2X0FudWFCVXcwNUZ6MUxMMHVpcW1SMjk0eDk3ckgtMEZiaTRMOGpwMjJ5cTNrOHE4Y2RzUUN6aTh4Y2NabDM0enZ6ZkJ1SW1ScVVfekdxdUxNVmtUX2xQaG1NRTVqY2Ewb2tvU21XcHMxdHdkZ2hDa2MzREUtcGRhVDk5M2oxZWNydjJUZw?oc=5",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "2026-10-18T23:00+00:00",
-   "added": "2026-10-19T01:40+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crude",
-    "oil price",
-    "prices",
-    "shipping"
-   ],
-   "summary": "Record Shipping Costs Force Oil Producers to Slash Prices Crude Oil Prices Today | OilPrice.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3b3c8485343b",
-   "title": "Turkey Will Get Some Diesel From US-Russia Supply Deal",
-   "original_title": "Turkey Will Get Some Diesel From US-Russia Supply Deal",
-   "url": "https://gcaptain.com/turkey-will-get-some-diesel-from-us-russia-supply-deal/",
-   "source": "gCaptain",
-   "published": "2026-10-18T22:02+00:00",
-   "added": "2026-10-18T23:50+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "diesel",
-    "russia"
-   ],
-   "summary": "Russia's shadow fleet vessels wait in the unofficial anchorage area in the Gulf of Finland near Vaindloo, Estonia April 10, 2026. REUTERS/Ints Kalnins ANKARA, Oct 18 (Reuters) – Turkey will take some of the diesel Russia is supplying to global markets under its agreement with US President Donald Trump, Energy Minister Alparslan Bayraktar said on Sunday. Bayraktar said the US-Russia diesel supply deal was important in terms of energy security for Turkey. Now they reached a diesel deal with Trump… Through the talks we held, we will take some of that diesel to Turkey,” Bayraktar told broadcaster Kanal 7. On Saturday, Turkey sent its first floating gas production platform, the Osman Gazi, to the Black Sea, a move Bayraktar has said is expected to roughly double daily output from its largest domestic gas field, the Sakarya field, to 20 million cubic meters from the current 9.5 million, equivalent to 7.3 billion cubic meters (bcm) annually. “In the first quarter of 2028, the second floating production platform is coming to Turkey and we will carry out 25 million cubic meters of production with it. The country relies on imports for almost all its gas needs, with domestic production totalling 3.1 bcm last year, most of it from the Sakarya field.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "0fdfb0adfda4",
-   "title": "EU Russian LNG Imports Rise as US Floats Gas Purchases in Peace Talks.",
-   "original_title": "EU Russian LNG Imports Rise as US Floats Gas Purchases in Peace Talks.",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbG9qZlk2M0NIU3FfdDlaY3lqckpHNUtKNmdkUFFMbzRsalR6OFpJYThvS2VNdWp5bFpUQS1EVHAtWEJEajRtRVJGTF9PN2VWeXhNMVNqbll1WkV3MU5SNll4YTJfREY2SFFQNjhxWXV0d2J1alM3djJNb010VGNycUxGMUhNZUtNMkx6NkJrVGjSAZgBQVVfeXFMTldoNzdtU1QwemFsNDVhSi0yUEduMmphQUQ0NHkwNU8wQko5Wmlma0h0dmxtX2J4OFpzTldfV1lNa1ZTS3loc0dfOFFGUGp4OTYwX3lYZEVUZzlxVTJQWS1JRGJPX2VCSVNua19nNm0zRldMQU1lbVRhaWpZYUlZZXpnOXE2Ynl6OW1wNzdzNW4yZF9iOExNeXc?oc=5",
-   "source": "Ukraine Business News",
-   "published": "2026-10-18T21:53+00:00",
-   "added": "2026-10-18T23:25+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "lng",
-    "russia",
-    "russian",
-    "ukraine"
-   ],
-   "summary": "EU Russian LNG Imports Rise as US Floats Gas Purchases in Peace Talks. Ukraine Business News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "20496a55be6c",
-   "title": "Sabah approves 24-hour operations for port",
-   "original_title": "Sabah approves 24-hour operations for port",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1SWVldEZoUXBGM3BEZlhjSV9jQ2ZyUjMzNWF1ZnNWT3BXYi1GdDllZWNmelJxWnNKVWdMWlZkbW1oT1l3cHBLT3NyYUcwakJIck1GeUc4QThhendNVldaS0VHNF9QdE5pdEtJNFlYbWNlT2Z1ZjhtaElmN01vZw?oc=5",
-   "source": "Borneo Bulletin",
-   "published": "2026-10-18T21:10+00:00",
-   "added": "2026-10-18T22:04+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Sabah approves 24-hour operations for port Borneo Bulletin",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
