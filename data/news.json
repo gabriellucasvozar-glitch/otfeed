@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T15:10+00:00",
+ "generated_at": "2026-10-21T15:51+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,36 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "037e190ba896",
+   "title": "State of Freight: Strait of Hormuz ‘redundant’ in five years, Red Sea latest and EU sets out stall on Arctic",
+   "original_title": "State of Freight: Strait of Hormuz ‘redundant’ in five years, Red Sea latest and EU sets out stall on Arctic",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbTBTYVBxQVpJdzVkbElUMEFueU9PN3pNWlJsQmV2bFhYQlFBR280eXVnQTBKekRxRXpxU0tJYlZDd3oyTEhLeFRNMURESmJvVFYyODE2NTZ6Nk9TWTB3TmlaN3FSTVNVRFhmdlVwbV9SS2Y1VWltWHJlb0RTZENTclU3ZW9wLUkzQUd1d0JYcU12LU1MaEdtUzktNzA5b1VpUlFyaW5WcDZrZW9yeHk4eERhNmRhSVRNbXBzbFNnRGczTEJhUThhMHAtRVloc2xuN0xsUnNPYkJxRmhlNkM4NVlTRQ?oc=5",
+   "source": "The Chartered Institute of Export & International Trade",
+   "published": "2026-10-21T15:49+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "EU institutions",
+    "Middle East"
+   ],
+   "tags": [
+    "charter",
+    "eu ",
+    "hormuz",
+    "red sea"
+   ],
+   "summary": "State of Freight: Strait of Hormuz ‘redundant’ in five years, Red Sea latest and EU sets out stall on Arctic The Chartered Institute of Export & International Trade",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "61b15029da81",
    "title": "Oman ends Salalah port concession, leaves US$200M in equipment unresolved",
@@ -228,6 +258,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "9e030d34197f",
+   "title": "Danish Shipping calls for stronger safety standards for livestock carriers",
+   "original_title": "Danish Shipping calls for stronger safety standards for livestock carriers",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWlNaS2h3bEtZU2FKRHFTb0lBcjF2Q0xpM2tMRnBTSDJDS1ZMZHV6TngzcUthZFBIUzNlbWw3WmJkM1RGTTZ2ZElad2lRc3dvcDBJNm9GcEd6Smg2ajZCc0tZUlpUTVFLNTV0cmh1cTI0R0lPQ1EwcVMxUHVRakxfcGNZQVRFenlFSXAyTTVzck9yZmZPV2ZOdFNOQlVFbUk?oc=5",
+   "source": "safety4sea",
+   "published": "2026-10-21T12:55+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "shipping"
+   ],
+   "summary": "Danish Shipping calls for stronger safety standards for livestock carriers safety4sea",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
    "id": "484cf21e29ee",
    "title": "Yancoal’s met coal sales fall despite supply disruption",
    "original_title": "Yancoal’s met coal sales fall despite supply disruption",
@@ -252,6 +308,33 @@
     "disruption"
    ],
    "summary": "Yancoal’s met coal sales fall despite supply disruption Kallanish Commodities",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4d9541e0d427",
+   "title": "China’s US Soybean Buying Streak Pushes Toward 15 Million Tonnes",
+   "original_title": "China’s US Soybean Buying Streak Pushes Toward 15 Million Tonnes",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSXl3RnhGMGFaZTJtWmxON3ZZM1YzY3ZCNlpGQkYyS1pkbFU4bHp0aWJUajlsX200cWprYWRnMUNpeF81d2VZeEdfTWhkYUxmWEh4QW1vdElhdUxiSmNrVXhlbkV4QUdUX2RzRTB1Y3FIWVRfeEhsUVptNGdRS2ZFaU9pRmM4dTZ6azF3VHpwZ3pta2p5amd2dkZZMm5VZHNOcUJ1UldmUHlzYWtWUGFDakxhcktScnZWcUE?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-10-21T12:34+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "soybean"
+   ],
+   "summary": "China’s US Soybean Buying Streak Pushes Toward 15 Million Tonnes Global Agriculture",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -471,6 +554,32 @@
    "summary_method": "extract"
   },
   {
+   "id": "669a8352eb71",
+   "title": "Global prices for coking coal have been volatile in October",
+   "original_title": "Global prices for coking coal have been volatile in October",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDJ0UkoybkhRV1RCR0dfRE13UThEQjM0aGREYzlmUjBvck0xbXV2WlZyd3NpdVBNQ2czN3J1MXNxTEdEcE1JX2c2bmNndHlUOUhYNjRUQWRUUUNTVVA3dmo0WUpKbWdSdWpnRWdVQUsyVzAxR0dIMEhtRkQ4SExCdnNsYkxzdzZ2SnlQWklXVUnSAZYBQVVfeXFMTUh3MV8zX2t4dUVNSU1MWXJnTjBRWlpDMVhGYkVqWkNlQ2w4LWVDUDVkUWswcDJwTGdsbkpyU2Vfa0ljcVhYNy1PS3RvdVFIMGtpS0hWbENkdGk1MTNtVnVRWDI5VXk2MkQzNE1zb1owZUlGOGNycUxEeE5KOVBuWkt5b05MUGFpWjI2QUZEYWxkMkF3bURn?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-21T12:01+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "coal",
+    "prices"
+   ],
+   "summary": "Global prices for coking coal have been volatile in October GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "2ad7ecfbbdd0",
    "title": "Airfreight in Africa booming, thanks to disrupted ocean shipping services",
    "original_title": "Airfreight in Africa booming, thanks to disrupted ocean shipping services",
@@ -528,6 +637,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "6a527bd90a51",
+   "title": "Russia Locks In Zero Grain Export Duties Through Year-End, Caps Sunflower Oil Levy",
+   "original_title": "Russia Locks In Zero Grain Export Duties Through Year-End, Caps Sunflower Oil Levy",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOXhxeGhBRlJMTFRzT3FaMWFVSHU3bGhtYU5MalVLZFRoeXVxMEFJNGI4R0diT3FLVWpsOXFsTjRVN3kwTEN6WXdHNW0yMHl1SVRzN2R3Z2NpcXFkWEJqUlEtMnFKcnJqbG1nVVBDYmlFUU1NWEtxNDU0NzZ2a3VYMHRka19NR2xYSWFxazdvZml3QndDWGljalBEV3R6WnRvQWRDY2U1ZDZJTHpib1REemRzN1pZU19BdmNhUTJ3QzFqeTlzMlNUVFp4Q0dQT0xxZ2c?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-10-21T11:58+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "grain",
+    "russia"
+   ],
+   "summary": "Russia Locks In Zero Grain Export Duties Through Year-End, Caps Sunflower Oil Levy Global Agriculture",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a11f69c6834f",
    "title": "ACCI, ASBON urge FG to attract UAE investments into ports, manufacturing",
    "original_title": "ACCI, ASBON urge FG to attract UAE investments into ports, manufacturing",
@@ -553,6 +689,34 @@
    ],
    "summary": "ACCI, ASBON urge FG to attract UAE investments into ports, manufacturing The Nation Newspaper",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "51ca7c64c4ac",
+   "title": "EU Steel: €3.4bn Investment, 10Mt Restart as Quotas and Energy Costs Bite - News and Statistics",
+   "original_title": "EU Steel: €3.4bn Investment, 10Mt Restart as Quotas and Energy Costs Bite - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnZRUHhiMURzNmkyYVJKVXVNSlhzU1psUm1nNmFjWjE1MmFPQkRnR0RxdzFPNng5RmxPWlh5ZVJydVFSN3Jya1EyTUhCUGo1b0h4R21DaWtsd3IwMXBEZkozQk44MGFPZHQ3MEc5dUhVU1Z4UnFTQm9ITHhfSmZ4WnRCd1UyVEQ0UjE0ZVdTUHducnFMTU9YbV95WDRwSjRfcWZFQzNSTkZOQVFoZXNDN0RwNTR4d2UyWEJsVVhUMnc?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-21T11:51+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 7,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "quota",
+    "steel"
+   ],
+   "summary": "EU Steel: €3.4bn Investment, 10Mt Restart as Quotas and Energy Costs Bite - News and Statistics IndexBox",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   },
   {
@@ -658,6 +822,33 @@
    ],
    "summary": "Melbourne Airport progresses $4.5bn international terminal expansion DFNI",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e2a62983a21c",
+   "title": "Brazil Rail Expansion Targets Lower Grain Shipping Costs - RFD-TV",
+   "original_title": "Brazil Rail Expansion Targets Lower Grain Shipping Costs - RFD-TV",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLXU3dnJPSTNFWXZkWWlSLVVCNVAwUHZMcGJXRzZDQlR1WjdHY3I5eWRBMmhQdEpjSHk4azczWk85TEN4QTBYc0s3bDRrX0dqeDFHNndtSDI1UXZ6ZVVTNjB3Tk5vXzZ2MEdpc0tVVTRLcXhpenNvVDk0Zklna0E0d1hnS0k?oc=5",
+   "source": "RFD-TV",
+   "published": "2026-10-21T11:20+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "grain",
+    "shipping"
+   ],
+   "summary": "Brazil Rail Expansion Targets Lower Grain Shipping Costs RFD-TV",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -958,6 +1149,33 @@
    ],
    "summary": "Associated British Ports sold in deal valuing UK group at more than $13bn TradeWinds News",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "46dad4d8cfb8",
+   "title": "European steel market under pressure from import quotas and rising costs",
+   "original_title": "European steel market under pressure from import quotas and rising costs",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHdiY1g2TnBnNTRwUm8yRGQ1NUF4bTNEaXFTSkxSY1NBaVdOc0hMcmFSajI3eDc0QWQ0eUpwOThnNHVUSllONjdQbC1aTU5iNGcwQUQ1M180ai0xdUJwX3dCbWwweXVOQmEzZU5EM3FQVVZCWUtYVnV1MkFJMG5XcnpHOW9WUVpyaVo1WVFCOFg4UVI2MDNQRWROcWJlV2M3cFZIQTRzdW9BYndmbnc?oc=5",
+   "source": "SteelRadar",
+   "published": "2026-10-21T10:24+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "quota",
+    "steel"
+   ],
+   "summary": "European steel market under pressure from import quotas and rising costs SteelRadar",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   },
   {
@@ -1541,6 +1759,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "4bc8a5b93ab1",
+   "title": "Essar Ports secures LoA for ₹2,276 crore Tuna Tekra terminal project at Kandla",
+   "original_title": "Essar Ports secures LoA for ₹2,276 crore Tuna Tekra terminal project at Kandla",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmdFX1liWHVSYVRvSjhqMWplWWotUkRHNXB3bTlQR2hzUHFLQnN6TG5uaVFVTVBjUUZFbGt3LUkyamVodW9GVFdaYnZvaWtRT2VEUldfQTctcUdkRlpXT2xvR2ZZLVV6a1pxR0phUkVaSEV1eDRiTWxGMXctV1QtSWtQcTBNWkJLdXllUkhKelZPanZxRUtwc2FWTEFRYlFQeTJyRXRoT0VnT1hUT0NZaFlFSndzdjc1cV9XWGtadmRTWjhwMlFOWGJpdTc1MF94MHNMZU1XNEFGOWt6TzkxM3RyX0RJaVFR0gHoAUFVX3lxTE52Z0VfWWJYdVJhVG9KOGoxamVZai1SREc1cHdtOVBHaHNQcUtCc3pMbm5pUVVNUGNRRkVsa3ctSTJqZWh1b0ZUV1pidm9pa1FPZURSV19BNy1xR2RGWldPbG9HZlktVXprWnFHSmFSRVpIRXV4NGJNbEYxdy1XVC1Ja1BxME1aQkt1eWVSSEp6Vk9qdnFFS3BzYVZMQVFiUVB5MnJFdGhPRWdPWFRPQ1loWUVKd3N2NzVxX1dYa1p2ZFNaOHAyUU5YYml1NzUwX3gwc0xlTVc0QUY5a3pPOTEzdHJfRElpUVE?oc=5",
+   "source": "ET Infra",
+   "published": "2026-10-21T09:31+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "terminal"
+   ],
+   "summary": "Essar Ports secures LoA for ₹2,276 crore Tuna Tekra terminal project at Kandla ET Infra",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "59e65842d8d4",
    "title": "Green steel production in Europe requires a unified energy strategy – Saarstahl",
    "original_title": "Green steel production in Europe requires a unified energy strategy – Saarstahl",
@@ -1771,6 +2016,33 @@
    ],
    "summary": "DP World deploys 17 electric cranes at Jeddah Port Port Technology",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d288cbb62f36",
+   "title": "Shipping disruptions open window for Lebanon’s regional trade role",
+   "original_title": "Shipping disruptions open window for Lebanon’s regional trade role",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2RrNDNscUVwYWU2RmZhVXEwaXhOcG1pOEdMVUhRdkd3aWFGY2s3ZTQ3dXQ2UExyQU9BN1RhOHRhTV8wQlBTZk9wTUw3azNvQ3lmNjI0V2gxbWpGSjlnSGJTLUVHcjJHOXlOemlZcTdVUVBqQXZTQ195bEFaU01xeDZkbS05b0RLQ1NvNUhBUmktUmwyMURnUXotQllCcVVyZm1jaHBGaThUREsweW5zMFBZbURtQzlSajJrRXFmWQ?oc=5",
+   "source": "NewsBreak: Local News & Alerts",
+   "published": "2026-10-21T09:00+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "disruption",
+    "shipping"
+   ],
+   "summary": "Shipping disruptions open window for Lebanon’s regional trade role NewsBreak: Local News & Alerts",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -2316,6 +2588,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "7db8ec3a093a",
+   "title": "Import dependency: how the shutdown of steelworks is changing Ukraine’s steel market",
+   "original_title": "Import dependency: how the shutdown of steelworks is changing Ukraine’s steel market",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV1gyM2I0TWNGM2JKYkNKSlpERkZBZi1JOFVjQXZ0ejNGWGdxR2ZOc1RmT1hoaF94cUdzbnZZbGVtOHdhRFlEb29zMzNBZW41SzlkeUZHcmhtS3hZSDZBU0xINDc5cHlSZ0V1OE1qeEpkWF9weUpPQ29MT25NbUwxeHhlY0VKTGtuWGFPSXNLX3p0Mi12Y1paejRwRFlFNF9zQ2ZSNl9XV3Y3MVA5aFdLTTVn0gG3AUFVX3lxTE55Uk43cGlfdWQzYXItaXB5RGhJZVpfREdDUmVERXM5T1FJVnJNWmN6TTJtMXRRMjZ1TW41Z3RtckJPaERqSmxDRmVCdkxFQjE4Ym5EdHRPRHdJVXJNME9Cd3A2cC1pRTBDUS1VSll1Q1dOQ2ROQ0JUZjFlZkRGRVYyQVhleDc2ZUlKaHpNY2tsRjNhQkdpb21CeDk4RTRZdVRtWFJqek8yMTVUWUppcW1lcUt5cEtVVQ?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-21T07:26+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "steel",
+    "ukraine"
+   ],
+   "summary": "Import dependency: how the shutdown of steelworks is changing Ukraine’s steel market GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a2909fdfe95d",
    "title": "European companies consider Middle Corridor a safer alternative",
    "original_title": "European companies consider Middle Corridor a safer alternative",
@@ -2501,6 +2800,34 @@
    ],
    "summary": "Trump Urges Ukraine War Settlement As Rubio Warns On Iran Commercial Shipping Attacks Sahi",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b6a4d7c17a54",
+   "title": "European Aluminium Scrap Exports to US Jump 243% on Tariff Gap",
+   "original_title": "European Aluminium Scrap Exports to US Jump 243% on Tariff Gap",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNE8wSkRjN2ZBYm83OXA3Vm42dFJyNUkyZE5mQmZIZzh3V0diTy1jZWRIOGQ5Xy1kSFdkazlmallhQmRzRE1sQWNYd2VnbDU1ekRFWHJNSlVyZUJNWjV1UEFFTE9yRTRXZW0yakp0dGRkWGU5a2VxSm1ZV1pWenNYTTNsQk9ERlVYTndfUE5CMEJtQQ?oc=5",
+   "source": "Discovery Alert",
+   "published": "2026-10-21T06:26+00:00",
+   "added": "2026-10-21T15:51+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "aluminium",
+    "scrap",
+    "tariff"
+   ],
+   "summary": "European Aluminium Scrap Exports to US Jump 243% on Tariff Gap Discovery Alert",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16245,327 +16572,6 @@
    ],
    "summary": "East Container Terminal: 4 failed tenders stall operations The Morning",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b4e89b7e6086",
-   "title": "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says",
-   "original_title": "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUGRTd2Rrck5PcG9teGo3cmtDeF9wV1E5YTdsVWhTOFZqcUg1RmJYM0p1MTdha3NtQWg5NmZrZFl5VmptRHdzUVBfZmhWRlM2dWoybTk3UHk0U1hwMUxKV1RqMV9QUzdDQWZuYUxaRDhXZ2RiWkRVUFhHeDR4WHlVRTFMWGlubGZ1Ullpa0VmTzdoNGItYXFFbHhOUU1BeWc1cE1MR3QwTG5PQTgyT0RoNzhB?oc=5",
-   "source": "Middle East Eye",
-   "published": "2026-10-17T18:38+00:00",
-   "added": "2026-10-20T16:13+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "hormuz",
-    "shipping"
-   ],
-   "summary": "Iran’s attacks on Hormuz shipping 'unsuccessful', Centcom says Middle East Eye",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1ab663f27022",
-   "title": "Mágyár has stated that he is ready to facilitate the transit of Ukrainian grain",
-   "original_title": "Mágyár has stated that he is ready to facilitate the transit of Ukrainian grain",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ca1FKcDNpOGdYV09lQm9Hdm5tYXc1b1p0aG1wenhvUUJ2QngyWmg3RGx2NmVGYmF6cnViamNwdVZydFhhVi1USXlHQ1JDWFhyem9HTy11YW1HRWV4SFVpcGFBRElBZG9kam80MlhtWTNqaENydTY4cHhCb0Q?oc=5",
-   "source": "UkrMedia News",
-   "published": "2026-10-17T17:26+00:00",
-   "added": "2026-10-17T22:28+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "Mágyár has stated that he is ready to facilitate the transit of Ukrainian grain UkrMedia News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8d4178051990",
-   "title": "Extortion group names 12 terminals, ten ship operators and port IT suppliers in unverified leak threat",
-   "original_title": "Extortion group names 12 terminals, ten ship operators and port IT suppliers in unverified leak threat",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeVZCZlZLLTNmWFpzYUNFd2RJajI5RGtiNkpnbzAyWEZndTBfVG41dEJ0NmVkbnEybGNzODhaUE1pbUc5TmgwLVJlMzBYamd5Mkt4ejhTWGE4a2Q3TXNoM3pjYlczN0V1QU5VMnU5M0hocXRzdVZpWjdWQ0IwWnRfSmhXYUxlYmVUY01LcEpXbEU2cFBjTkFIVk42dHlrcW0zRXlpakpR?oc=5",
-   "source": "Container Management",
-   "published": "2026-10-17T15:59+00:00",
-   "added": "2026-10-17T17:30+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "terminal"
-   ],
-   "summary": "Extortion group names 12 terminals, ten ship operators and port IT suppliers in unverified leak threat Container Management",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b214203182fb",
-   "title": "Redefining The Asia-Pacific Hub: Taoyuan Airport Terminal 3",
-   "original_title": "Redefining The Asia-Pacific Hub: Taoyuan Airport Terminal 3",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZk9WQWVrd2pTOVI2S0c0RzZ2ZmJxaXhOVmpUenU3QlJyaGdSMkFvQVUyR0Z4RXpIQkZfalB5aWxZWjh0TmVtTXl2S1oyanZlcUNfYTdhbDl2WjFReTJhcnhlekw4a1lOLUVhQ1RCcVpaZy0zc1B5ODVTekZJbDhXWmh0SkpvbDFrM1VhY3ZaMVRYcUx6LUZQT0pCWUthajJmMXBzUTJtb2VHdUd5MUJUSQ?oc=5",
-   "source": "Aviation Week",
-   "published": "2026-10-17T15:56+00:00",
-   "added": "2026-10-17T16:04+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Redefining The Asia-Pacific Hub: Taoyuan Airport Terminal 3 Aviation Week",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bfdf2834b2dc",
-   "title": "Hungary will not oppose transit of Ukrainian grain to Europe — Magyar",
-   "original_title": "Hungary will not oppose transit of Ukrainian grain to Europe — Magyar",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWltcE1wV25LXzNlQ1Y5ZEE5elJwalVlT1JPc2ZDQVV1T2ZlTS1oWmpaOHhmSkpuSEJwdUFQck13elRkVFpYQW5PLVd3UGllaXdzV0xCc1pJWmpWSVRjU1didUlIcUxmcmsyaGlFbXRocHZCVlBwV0F1UHdncmdJWkdmNFV0b2Q5bDBtd0dnX1Vjb2xJRWVYQTFyaFBlTk4wU0JOYVZn?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-17T15:50+00:00",
-   "added": "2026-10-17T17:55+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "Hungary will not oppose transit of Ukrainian grain to Europe — Magyar UkrAgroConsult",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e6083d5dc2e7",
-   "title": "Volodymyr Zelenskyy calls on Romania and neighboring countries to allow Ukrainian grain to transit to Western markets",
-   "original_title": "Volodymyr Zelenskyy calls on Romania and neighboring countries to allow Ukrainian grain to transit to Western markets",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX0JrM2hMTmxlNzUzanFuVlhtZXVlNDEwcFBuWF9mQXZGWkdjVXU5Q1F4ejFIU1hDR0tESEUtWEJaaUpCOFE4UUcxUDBvZ1lFRUgyYmNjZnp5Nm9JX1A3RnRnZ184UmdpVXQzbGRYWXJzU1pIOVozd3g1UGxid1BfcjUxNXNKUWUwN0lzRXZxdFNFR0s0VEdsQndWbzNkVlhUS3NVQm5LRmkxRWxQN0RaMjVROFVSN0Zrdy1Nc0NSaWxvMEdNUXp5cS1MSEs?oc=5",
-   "source": "Informat.ro",
-   "published": "2026-10-17T15:35+00:00",
-   "added": "2026-10-17T17:55+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "Volodymyr Zelenskyy calls on Romania and neighboring countries to allow Ukrainian grain to transit to Western markets Informat.ro",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6a394c7cfa01",
-   "title": "Trump waives sweeping Russia sanctions, mulls easing pressure on Iran's 'shadow fleet' amid global energy crisis",
-   "original_title": "Trump waives sweeping Russia sanctions, mulls easing pressure on Iran's 'shadow fleet' amid global energy crisis",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRXVhc19uZHIxWTJ4SkhmU3psaU8tc3FaY3lramdvbjB2cG9BMks4YXhmd0JqeXdfQTV1RmZrb2M4RlowV3VHNGVaeFFLWExHTmdQeHNYY0l4VmJIcVRwQkFHVG1VNkZBLW1CeU5Cc0ZWNlhteDRvVmh4OENGSE1BX1J5QW05czhRVHhCTVRMUDhrRUhyVC1uMENQT0x5OUxjLVpybXhGaWFPTTRvVFc2eHhHSGJHc0ZBcUFLaWFqV2xEREdnbTIyMTUtckV1blFpLWhBTg?oc=5",
-   "source": "thecradle.co",
-   "published": "2026-10-17T15:33+00:00",
-   "added": "2026-10-17T16:04+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East"
-   ],
-   "tags": [
-    "fleet",
-    "russia",
-    "sanction",
-    "shadow fleet"
-   ],
-   "summary": "Trump waives sweeping Russia sanctions, mulls easing pressure on Iran's 'shadow fleet' amid global energy crisis thecradle.co",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0f6887dd3245",
-   "title": "Konecranes (HLSE:KCR) Could Be 18% Undervalued As Eurogate Order Tests Automation Story",
-   "original_title": "Konecranes (HLSE:KCR) Could Be 18% Undervalued As Eurogate Order Tests Automation Story",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdF9TS1BFdkFHb0p4b0lqaFV3U21ZMjczOTdob0VoZDZXSjlGcTZCZVkyazdaVVk4Yi1Xel9GaG5sbVB1WktLcFRiV0dWa2ZwcTNpVnRxUnhDdk1mcmU0ZUxLaWhSQjNHZjBGYW4tZ3drS3NWbUdmbDU3TmdDcWh5WkpRZUwwNXhFUEpMNWJyZVdRVzdmTU1iRVlQQ2R0RHF4bldUanNLRC1fTUlJT0UxTFhiQzRidVRwdE5aVkdDSWxjU3lFMUpUSXpjYkZBZlBKbnRJ0gHYAUFVX3lxTE1QbU9OeEQwVUNDdjR3QWtELU1UclpMdEV4MDFObnZsYjNxN09aZHY5QVFTTUpHVzJZQTJIRTJRUmxzcV9sUmxkVlJZQlRmekNsNmtZTHYxb0lOWkluVTJydlNhTWVWYmUwSm0wa040Y0ZId19hZlk2V2QzRm1NenFJYmRwWldjSVh6NXdxaEFUN28wcWxKcUo0WTVIdDVHZVJxNlhkM3ZVYmtJOGo3SXJQWmM2aHh5VmVFOTB6YlBRQXdySUw4MVZYdjQ2YjRQemU1QTNIVkU4VQ?oc=5",
-   "source": "Simply Wall Street",
-   "published": "2026-10-17T15:12+00:00",
-   "added": "2026-10-17T16:04+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "automation",
-    "konecranes"
-   ],
-   "summary": "Konecranes (HLSE:KCR) Could Be 18% Undervalued As Eurogate Order Tests Automation Story Simply Wall Street",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "71ea808e78db",
-   "title": "Madyar: Zelenskyy asked Hungary to allow the transit of Ukrainian corn to Europe",
-   "original_title": "Madyar: Zelenskyy asked Hungary to allow the transit of Ukrainian corn to Europe",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM0laQVNEbW94c3ZJdU5Zb2Y5azdYblhINWQzZnFhN29XMTlmRlVvSWQ5Z3VBQVlOUUZpQjhQdEhMSWVRdEFoanZBY2IycWJPLTFxZ1d2cGF1SEhlWGZNNTVJcW5BV2huRjRsODNSR1l5c0dhSG1nN1hnclQ0WmxJZlVZcUlZQ25reGlKSmtIQ3BKVXBJbUlvS1ZKOUN6UTFQNlNWUFBPckVxS3lKclozYXVMSUdUOG9nYVHSAb8BQVVfeXFMTnhpS1lMU1FZTlRUai1XdV9HMEVITk1NdmR6TVVKV1N0U3lhRndzb2RhYnFINTlnSmY2YklfLWgtX1NZRjhpdHRCSmUtWHhYbk5QRFVnc2xlSGQwUjRXS2dIQk0yT1lEcGZMMC1Jd3lrTzZKRktEU1dtcC14SmFUemo0M1Q1ZU9MdmplLW5zUUJnZFAzbjlEaEszaUVlRkJneGxLS1ZxWnhuQjVoN0JvcURjVWwtbk5CcWl3WUxJLWs?oc=5",
-   "source": "LIGA.net",
-   "published": "2026-10-17T15:05+00:00",
-   "added": "2026-10-17T17:55+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "corn"
-   ],
-   "summary": "Madyar: Zelenskyy asked Hungary to allow the transit of Ukrainian corn to Europe LIGA.net",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fd0d19d750e8",
-   "title": "Zelenskyy asked Poland, neighbors to facilitate Ukrainian grain exports, says Hungary’s PM",
-   "original_title": "Zelenskyy asked Poland, neighbors to facilitate Ukrainian grain exports, says Hungary’s PM",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMXFZSElCUEIwSnNJZ2dHVkpZRllLcmZIME4yRDViaTVyeWZ3eU5Cak9UNDNJSmx4bUl0MVNkem9memxDQ1lIVnFVdnRqUjg2bU1Wb1NiQWNEMzdpNjVxVEtuS2YzTTh5TmtvdEwzUGVJS3N5NTJ1VEUtQy1qTUZEWXgxanM1MGdpdHhUVmxpamt3NkZDekZrQ1VGRGg1S09MTDRyNE83Q3JVSk5sUE14aWp0YVk?oc=5",
-   "source": "TVP World",
-   "published": "2026-10-17T14:58+00:00",
-   "added": "2026-10-17T17:55+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Poland",
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain",
-    "poland"
-   ],
-   "summary": "Zelenskyy asked Poland, neighbors to facilitate Ukrainian grain exports, says Hungary’s PM TVP World",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3489c3777e19",
-   "title": "Iran, Kazakhstan Push to Turn Transport Corridors Into Operational Trade Routes",
-   "original_title": "Iran, Kazakhstan Push to Turn Transport Corridors Into Operational Trade Routes",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54N2VlUjNlOERWQ3l6TFpvVks5bTlXZXZQTGpYZ0FSTDZUTEwyZEFqR051bjlzTWVaNDVjd1lPNW1xUm5VN0RvcTFmem9UUWpHMnc?oc=5",
-   "source": "Financial Tribune",
-   "published": "2026-10-17T14:30+00:00",
-   "added": "2026-10-17T17:55+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "trade route",
-    "trade routes"
-   ],
-   "summary": "Iran, Kazakhstan Push to Turn Transport Corridors Into Operational Trade Routes Financial Tribune",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4d96ce3eec13",
-   "title": "Blocked in Black Sea, Ukraine asks neighbors to let grain transit overland",
-   "original_title": "Blocked in Black Sea, Ukraine asks neighbors to let grain transit overland",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWRyb1A3MFU3dmtIT2RldTRvNUgtWDFRekJTN2NBQkFGUmE4SkdGWnpyWDN5MmZqcW12bU5iVkFiUVNzMnBlSVBPNWZ6dnNuYl9VOVZWdDNtRnd1SlFHNVZEQW0zX1BOMVROSTlHX2N4Y1pVN25hcnY0M25oMW95WkFXM2UtZ19VMVF0dDM3NVcwWjVuZ250WjJNSGQ3Z3Z3THJOZVh3QTVFelZvVzdTcTdqTWFMOFk?oc=5",
-   "source": "Türkiye Today",
-   "published": "2026-10-17T14:29+00:00",
-   "added": "2026-10-17T17:55+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "grain",
-    "ukraine"
-   ],
-   "summary": "Blocked in Black Sea, Ukraine asks neighbors to let grain transit overland Türkiye Today",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
