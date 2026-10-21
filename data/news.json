@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T11:47+00:00",
+ "generated_at": "2026-10-21T12:17+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,62 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6e885d3b97a2",
+   "title": "Vopak secures New South Wales government backing for Port Botany expansion plans",
+   "original_title": "Vopak secures New South Wales government backing for Port Botany expansion plans",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVU5RUhocTJpR3FJRmNVVC1MNTVaVXkxOVB2RjQ3VkVKRHpOMzRwQnROQ0cyRU9YcEFSY1VKVGhFTnNiSUZTZDdFS3lvQ21GeTQ3OGE4OHVQdmlGWUx2UDM0Qlg0QUxBV0htSGM4SDJmWmVSRjBnbXR6QU1vd1JickxxejNKdlI1dFprSWhGem5zckdqQW16Xzk0UV94Sjh0RFhPdXYwSDJUUzVUczYwaUZ4cw?oc=5",
+   "source": "Oils & Fats International",
+   "published": "2026-10-21T12:12+00:00",
+   "added": "2026-10-21T12:17+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Vopak secures New South Wales government backing for Port Botany expansion plans Oils & Fats International",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5fecaa837f4d",
+   "title": "Nearly two-thirds of Far East-Europe capacity now back to Suez Canal",
+   "original_title": "Nearly two-thirds of Far East-Europe capacity now back to Suez Canal",
+   "url": "https://theloadstar.com/nearly-two-thirds-of-far-east-europe-capacity-now-back-to-suez-canal/",
+   "source": "The Loadstar",
+   "published": "2026-10-21T12:03+00:00",
+   "added": "2026-10-21T12:17+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "carrier",
+    "disruption",
+    "red sea",
+    "suez",
+    "vessel"
+   ],
+   "summary": "Some 63% of the ocean capacity deployed between the Far East and Europe has returned to the Red Sea, following three years of detours, but some operators are hedging against renewed disruption by maintaining several Cape of Good Hope routes. Having surveyed the 10 largest carrier networks over the past month, Alphaliner found vessels on 24 of the 46 direct Far East–Europe services were transiting the Red Sea, accounting for 70% of deployed capacity on Far East-Mediterranean routes. On the Far East-North Europe trades, the number was a little lower, 58%, with containers moving between the Far East and Europe via Suez now topping 5.5m teu, of the possible 8.7m teu available to the trades – CMA CGM alone accounting for 1.3m of this. However, the Suez return remains something of a mixed bag, with multiple services opting to transit the Bab-el-Mandeb Strait on outbound routes to Europe, but electing to sail around the Cape on return journeys. Of the 10 carriers surveyed, five confirmed they had resumed Red Sea transits over the past month, that number set to climb to eight after Premier Alliance partners HMM, ONE, and Yang Ming all announced a return to the waterway.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "3a0e1bf37af4",
    "title": "Transport businesses call for help as diesel price hits record high",
@@ -339,6 +395,31 @@
    ],
    "summary": "TOUAX to acquire initial fleet of AELER Unit One composite containers under long-term lease deal Container Management",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "642979f7c256",
+   "title": "Zysk PKP Cargo uratowała jedna decyzja. Kolejowy gigant musi jednak \"zoptymalizować\" zatrudnienie",
+   "original_title": "Zysk PKP Cargo uratowała jedna decyzja. Kolejowy gigant musi jednak \"zoptymalizować\" zatrudnienie",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUTNYTjhBbFBlNDM2UWFGOHBWTDNMaVFfb0pWZXhvM2VuQWxncGtmdHVEQlpWWmkxY0QtSzlBeGM3aFNkTXJSdEJRenFLbzdzdlV0MWN1N0FrU3ZuWFFlSmN0anVabER5MWVCN2VNSi1KeTdrQWFaMVRpLUxnQmNuS05zWTZPdERBalptSTNqQzBOZHlic0wyT2ZfS1BlVFFCaTIzTEVCMkNXUGJobEVzaDdFMTh2UTZ3?oc=5",
+   "source": "wnp.pl",
+   "published": "2026-10-21T10:04+00:00",
+   "added": "2026-10-21T12:17+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "pkp cargo"
+   ],
+   "summary": "Zysk PKP Cargo uratowała jedna decyzja. Kolejowy gigant musi jednak \"zoptymalizować\" zatrudnienie wnp.pl",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -16473,87 +16554,6 @@
     "wheat"
    ],
    "summary": "Ukrainian Wheat Prices Ease on Logistics Risks and Weak Demand CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8704c01836a1",
-   "title": "US: Steel prices rise to highest level in over 4 years due to tariff impact.",
-   "original_title": "US: Steel prices rise to highest level in over 4 years due to tariff impact.",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObWJUVmdyMkp5UFFRWVBnYlZ1amFDWHVQa3JranEyakttYUN2RFRvYW9DbGprQ09tQzFWbi1hS0M5VTMzdGM1Uk11a0JMYjVYMGRFVDJxWllHUDB3RmpHSm5NMW9McFp3a1g5ZzVPYkVuZnk1MjI0T3hkWl9hTzlyT3A4Ykh1MW9EYTFXSHNCZW1mSlR4d3A4UE5fTTYxcFBmSGpR?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-17T00:44+00:00",
-   "added": "2026-10-17T06:06+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "prices",
-    "steel",
-    "tariff"
-   ],
-   "summary": "US: Steel prices rise to highest level in over 4 years due to tariff impact. Vietnam.vn",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "23834acbe447",
-   "title": "Avaada plans ₹40,000 crore capex for green ammonia, methanol plants",
-   "original_title": "Avaada plans ₹40,000 crore capex for green ammonia, methanol plants",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYUszQjlhX0tWRGpIenM5bHNlOG1BQU5tMDltNHQ4Z1JhZGxUTXJmajdqNUZuci1Jd2xIMXA4Y0w5dHBjNlZXUTBTVHFaVHVZeFlzOUQ4VGxlb3lsZGE3a3NGT2ItVWxJc1lwSUlJM0tHYVVNSzN0eU1hYkwxdklnRzB2c2NxdFFjTU1JZEczdFJGZ01wYWxmTzViOVZKQldDTkgxM2hWRVNuQkpDTkNlN3BtSDhNcmpDOFdjck1tMWl5UGRDX0t5S3Jvcl9JSW4wQWtmQVh4d2ZXSHc?oc=5",
-   "source": "Livemint",
-   "published": "2026-10-17T00:31+00:00",
-   "added": "2026-10-17T00:48+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "ammonia"
-   ],
-   "summary": "Avaada plans ₹40,000 crore capex for green ammonia, methanol plants Livemint",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e72230cca9e6",
-   "title": "U.S. Steel Prices Hit Four-Year High—Up 52% in a Year on Trump Tariffs",
-   "original_title": "U.S. Steel Prices Hit Four-Year High—Up 52% in a Year on Trump Tariffs",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rTWhPREtOYWROM1haSVZ0enlVVDBUcXZ2Vk9VdGJXWWMtTmxkemxzd0kyZWdOZzZ1d1I2SWd6a0VDYUpyVGx1VjNTZkVudVdrUmQ3bkFwcWFZU2xzenR4TjdlRzB0bEJBWFBGbGJfN3ZfbmdwVWc?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-10-16T23:25+00:00",
-   "added": "2026-10-17T06:06+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "prices",
-    "steel",
-    "tariff"
-   ],
-   "summary": "U.S. Steel Prices Hit Four-Year High—Up 52% in a Year on Trump Tariffs BigGo Finance",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
