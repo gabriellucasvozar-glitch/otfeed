@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T15:51+00:00",
+ "generated_at": "2026-10-21T16:23+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "5858b64a538e",
+   "title": "A Look Inside One of America’s Busiest Ports",
+   "original_title": "A Look Inside One of America’s Busiest Ports",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTHgtTTlDa0dQWS1RS0ZSVjNVbHVRNVFqd0R3NE9ROGYwWHRHcE01bm14M01UcDZmY1dJeW9qMFRFN1phdVVwUFppWGo0RnJseUhONEtkaFI4Z2ViUGdleUxMZTlkTjhSa3hkaHNwQW9Ma0lqdTFfTzRuSVhnbl9GNkg3SzZvN2tsQVVnRml1UVI?oc=5",
+   "source": "Alliance for American Manufacturing",
+   "published": "2026-10-21T15:52+00:00",
+   "added": "2026-10-21T16:23+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "manufacturing",
+    "port",
+    "ports"
+   ],
+   "summary": "A Look Inside One of America’s Busiest Ports Alliance for American Manufacturing",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "037e190ba896",
    "title": "State of Freight: Strait of Hormuz ‘redundant’ in five years, Red Sea latest and EU sets out stall on Arctic",
@@ -41,6 +69,34 @@
    ],
    "summary": "State of Freight: Strait of Hormuz ‘redundant’ in five years, Red Sea latest and EU sets out stall on Arctic The Chartered Institute of Export & International Trade",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e6e3f34c890e",
+   "title": "China still shipping fentanyl precursors to Mexican cartels",
+   "original_title": "China still shipping fentanyl precursors to Mexican cartels",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTzNzUGtwNDJKenBvNzQ5TmRXejJTb0RVdDEzeEp6R0pXck5QWi0tUHVidEluS0hIQWZnVWVxbFV0M0NUc2NYNTNkSHNoQkZETDdfYWtMLTU4a0ZoeXZlcExCWHlxY3V6aUdNLS16ZkhSSlhSM1BHOF8zZjJsUUNIZkR2OUFKZWJmME1rWFJZSmo0Z291VW40eGd6ZkRYYzVObnM2NmlySVJCdw?oc=5",
+   "source": "Washington Times",
+   "published": "2026-10-21T15:31+00:00",
+   "added": "2026-10-21T16:23+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia",
+    "North America"
+   ],
+   "tags": [
+    "china",
+    "shipping"
+   ],
+   "summary": "China still shipping fentanyl precursors to Mexican cartels Washington Times",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -1176,6 +1232,33 @@
    ],
    "summary": "European steel market under pressure from import quotas and rising costs SteelRadar",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a23f0a2c351d",
+   "title": "SCA, Hapag-Lloyd discuss boosting cooperation, vessel traffic through Suez Canal - Urban & Transport - Egypt",
+   "original_title": "SCA, Hapag-Lloyd discuss boosting cooperation, vessel traffic through Suez Canal - Urban & Transport - Egypt",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa21lOTZiWjQ0M0tNdmdTQjhfZEhmbGF0elh3NFhkaGdOSlBoeGkzUGQtdFduVFAwNDhkSWl0VUY3VEV2c2x6cFk1X253LWFYQ05MU0w4eHhIWDQ0Yl9CdERudjBEUG43NUw4dFlYaFZoc185cnNmM0VuSlB2VFZnTG9XcHpJSmpkT1VoWVpoNGVBd2l0VGVEblg5UVZNSEsyQUVOWUljakxpbUY1MVhTYV9R?oc=5",
+   "source": "Ahram Online",
+   "published": "2026-10-21T10:24+00:00",
+   "added": "2026-10-21T16:23+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "suez",
+    "vessel"
+   ],
+   "summary": "SCA, Hapag-Lloyd discuss boosting cooperation, vessel traffic through Suez Canal - Urban & Transport - Egypt Ahram Online",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -3898,6 +3981,33 @@
    "summary": "All eyes on third-quarter updates in freight forwarding from DSV and Kuehne + Nagel (K+N) over the next 48 hours, it’s also the right time to disclose leadership changes, based on the Premium feedback we received. Under the spotlight is the Swiss forwarder, which has massively outperformed its Danish rival on the stock market year to date. (And that’s exactly why the laggard may offer a lot more upside to shareholders going forward, but I digress.)",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "63040823c582",
+   "title": "Italy’s Top Court Weighs Closing Ilva Taranto Steel Plant Furnaces",
+   "original_title": "Italy’s Top Court Weighs Closing Ilva Taranto Steel Plant Furnaces",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZnVqbFBsdWYybllTSlFUTXNGQjlCMnlHVnRhRDQxYkJIYlZBWTBKTHF2LWlGZmhMRDkxTS1xV2VWNDFGQnhzMjN5dnJOT1l4MkNxTF9KRENsM2Z2dV9weVUtMm9TY2lGa25uYnpsUng3TVF0d0NqMVE4d3p3UC1WY0lJNi1DV0NPOGNz?oc=5",
+   "source": "Discovery Alert",
+   "published": "2026-10-20T20:25+00:00",
+   "added": "2026-10-21T16:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "court",
+    "steel"
+   ],
+   "summary": "Italy’s Top Court Weighs Closing Ilva Taranto Steel Plant Furnaces Discovery Alert",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "4f2679352168",
@@ -13116,6 +13226,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "3c083d1aca13",
+   "title": "Budapest is ready to allow Ukrainian grain transit to Western Europe",
+   "original_title": "Budapest is ready to allow Ukrainian grain transit to Western Europe",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZTFTdWNfakt5TWZZRmwxSklaQllRUVduemJTdUI2bGFrUV9jTldhZkVHa0ZPWXpWWFpaR09Ya0dKOXpTdWJuXzZjR0RDekMzdkZmZVMwQURvRm1mNV85VzNBYjVmTEZqTTM1MkVMb0daU01QZ2RFMXludUdBM1NPNWJ4RHh2MnBSY1lBeUQ1bngzUldXcEx0NndRSHU1QQ?oc=5",
+   "source": "Новини аграрного бізнесу",
+   "published": "2026-10-19T08:03+00:00",
+   "added": "2026-10-21T16:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Budapest is ready to allow Ukrainian grain transit to Western Europe Новини аграрного бізнесу",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d38a35240f60",
    "title": "COSCO books 16 grain carrier newbuilds",
    "original_title": "COSCO books 16 grain carrier newbuilds",
@@ -16437,141 +16572,6 @@
    ],
    "summary": "Iran Blows Up 'U.S.-Navy Guided Ships' In Hormuz; 4 Million Barrel Crude Vessels Hit Naval Mines The Times of India",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "47b271d9671b",
-   "title": "Miri deep-sea port could attract cruise ships, boost visits to Mulu and Niah",
-   "original_title": "Miri deep-sea port could attract cruise ships, boost visits to Mulu and Niah",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNldwdXZ5OEF5d1NVeV9XMnEyNS1rd0FKRnNWaFNUNk93X3pKZmZmSmZzN25qUXpXTTNBTE1lQjRXRzZFTGxpMlctQWEzTmJERDBhYjcwbnEtYnJJOTBXU1l6al96M0o1SFphMFdXbl9OVmM1dUt0YVFsSU5DTnNiWEViTXI0d0FGQUZSOFVfVWU2T2NodjFqbEFDelMtRTJG?oc=5",
-   "source": "DayakDaily",
-   "published": "2026-10-18T02:57+00:00",
-   "added": "2026-10-18T04:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Miri deep-sea port could attract cruise ships, boost visits to Mulu and Niah DayakDaily",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0ff430f54760",
-   "title": "Russia attacks the Ukrainian ’grain corridor’, provoking food risks and a migration crisis, — Ukrainian Navy",
-   "original_title": "Russia attacks the Ukrainian ’grain corridor’, provoking food risks and a migration crisis, — Ukrainian Navy",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd084SXBIYnVERVRiU2p1eHZPOTlBckhtOXhUbWJxdlBmNW5NOXhMOGlwcGdYMnBmaXVKSFkyOEdNdVRjaEdsMTFsOU4zMzJrS01MT3Q4ODFlUl9mMWhZTXhZbmhCUjl4SDlkX00xSjBKRl94RjRCZ0RNeC1SbHZsMWdSVVA4eWFUTDM4TFVBdnUySVdXcUVjZkNvRWRYTzNvLV9Zd216bkdTLVFZdWxRTFJ3QzFacVVNM2l5XzBfVzQwTnRXNDc0VDdDNW5RMmQ1VmNhZmxWc0RUNGhEV0tDckJnMk85bnM?oc=5",
-   "source": "АНТИКОР",
-   "published": "2026-10-17T21:24+00:00",
-   "added": "2026-10-19T06:39+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "attack",
-    "grain",
-    "russia"
-   ],
-   "summary": "Russia attacks the Ukrainian ’grain corridor’, provoking food risks and a migration crisis, — Ukrainian Navy АНТИКОР",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2c0cac2aea02",
-   "title": "Iran risks losing ground as East-West trade routes expand",
-   "original_title": "Iran risks losing ground as East-West trade routes expand",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0THBCSGNoTHlSVXhPckpjQTlUYnJQeFg5TU16ei13UmJfRjJxaUdwVVlVWnFsZ19BU1YzekxwRWdnR0R5SmU0dkFOR25YcHJBR1E?oc=5",
-   "source": "Iran International",
-   "published": "2026-10-17T21:00+00:00",
-   "added": "2026-10-17T22:28+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "trade route",
-    "trade routes"
-   ],
-   "summary": "Iran risks losing ground as East-West trade routes expand Iran International",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "23ded0a48e47",
-   "title": "Nylon-Reinforced Bucket Belts Market To 2035: Grain Automation and Replacement Cycles Support Growth - News and Statistics",
-   "original_title": "Nylon-Reinforced Bucket Belts Market To 2035: Grain Automation and Replacement Cycles Support Growth - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeGkzTklISFF2OUcxQUFUUmdGeV9CWnUwR211SDhIQTZkeW54YklyQzlFU0pncVpVUjEySG5oUmw5bVEwUDNGcDZuLTZxbE9NbEdYaE1iVFRBTmVyQXc4UndBd1JYb2hDTm1jVS0ycEpWaUpaYlJpaW9IUVdydjFiX09YT08wcF90cXFQSFp2cXE2ZUVDUDJNNmxEWXZScVRwblZwUjY5b3kyejJNa2x1ZF9qbmVEZFU0X0RYV21hTVZKcnR5QmFwWjlyRzlHV0Eyd3g2RHMzdkJCUQ?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-17T20:41+00:00",
-   "added": "2026-10-17T22:28+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "commodities",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "automation",
-    "grain"
-   ],
-   "summary": "Nylon-Reinforced Bucket Belts Market To 2035: Grain Automation and Replacement Cycles Support Growth - News and Statistics IndexBox",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8b9148a5a2c6",
-   "title": "East Container Terminal: 4 failed tenders stall operations",
-   "original_title": "East Container Terminal: 4 failed tenders stall operations",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SdWk4X2JXX01sbmNZUW1zTzBTZnQ2bnZ2b1Bxa2lVWjRiNmkxTmpXNkZoUkx6Y1RpVWR5NHZ0eW1aQzNPaFJzdWtlUlVIVzRxeTRHQlpQZ3JHcVdMUHdUYmFMT0hwdw?oc=5",
-   "source": "The Morning",
-   "published": "2026-10-17T19:24+00:00",
-   "added": "2026-10-18T22:04+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "container terminal",
-    "tender",
-    "terminal"
-   ],
-   "summary": "East Container Terminal: 4 failed tenders stall operations The Morning",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
