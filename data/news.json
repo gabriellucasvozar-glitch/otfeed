@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T07:58+00:00",
+ "generated_at": "2026-10-21T08:36+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,88 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "a5472d5926fa",
+   "title": "General cargo throughput slumps at Antwerp-Bruges",
+   "original_title": "General cargo throughput slumps at Antwerp-Bruges",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVFpOY3RGQ3NXcEpGb0d5VUo0SUE2VXFBcnpBOFgxQ081UGlDWkVMaHRyUUhVQ1dsTDh3YzViV0lKZlRiY1kwbHcxdGpLbl9zTnV3bkV0eTBSUHUzSFFod1d6ZDlYRS1zZDA3aWhWbGxsS1dhMUpxR3lZaFRKa1NCb3cyTkhDUEt2cVFydkhtU09XUDhoWER4NFE0QQ?oc=5",
+   "source": "Heavy Lift & Project Forwarding International",
+   "published": "2026-10-21T08:32+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "forwarding",
+    "throughput"
+   ],
+   "summary": "General cargo throughput slumps at Antwerp-Bruges Heavy Lift & Project Forwarding International",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c54837a2d870",
+   "title": "Black Sea merchant shipping under attack: the western corridor and NATO's security threshold",
+   "original_title": "Black Sea merchant shipping under attack: the western corridor and NATO's security threshold",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWTdDNDg0RWlpQkltVUYzOXdMQlBOeGtHQjRrUElTb05MNzMtd0ItVmV1b202Z0hTdUFRZmlOZWppYXM4SWo2RmJNZXRXZUx1MGduR2d6eWc4MVhTbDRjY05pYlBQWVBZUGVBSnZsTWNLbEIwOGp1dE1zS3lLU0M3djAwMzAzVFJ6V2d1U2RtWGZ5dFlDcVFaYzVCMGoyWTQ1aVNLZ1JLc29oZ2RVbFVwcGt1anJ3T1RHbmtVdQ?oc=5",
+   "source": "iari.site",
+   "published": "2026-10-21T08:16+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "nato",
+    "security",
+    "shipping"
+   ],
+   "summary": "Black Sea merchant shipping under attack: the western corridor and NATO's security threshold iari.site",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c0c958d5f162",
+   "title": "United States: Is Steel Now Only Available on Allocation?",
+   "original_title": "United States: Is Steel Now Only Available on Allocation?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWpaTmhSY2tUOFpDWjZSVU1SMWdXdms4cVJOTzF4RDI4Z0tyVXJFVUE0a2N0YlpMSUc2Q2c1Wm9iWnNncXdPRDdGMVRLa2RtbkNOQ054eHFoSzBET3RHdnQwalNpaHFlQ0thbUR5ckY3dGFXR3E5anFVY3dtRmdlNQ?oc=5",
+   "source": "Steel and Stainless Steel News",
+   "published": "2026-10-21T08:08+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "United States: Is Steel Now Only Available on Allocation? Steel and Stainless Steel News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "b8200f2c9b60",
    "title": "Gestion Maritime makes ultramax debut with China order",
@@ -127,6 +209,32 @@
    ],
    "summary": "Barcode scanner flaw exposes warehouse cyber risks Port Strategy",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "dc411a10fe86",
+   "title": "BIR calls on the EU to continue consultations on scrap metal exports",
+   "original_title": "BIR calls on the EU to continue consultations on scrap metal exports",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRVc0R3lJUVZHX3VrR3ZlcmdmMGNIUkxydktFZEVkYVlEZHdJNm8tQUEtbFQ5NkhrRE9JQzhxQWQxOGdGeGpTLUxPa2UxeDkzZ3FlMEFrMFhQWTFZYVFSOU9DR2pyQmw5dlBiWEY0TEpqUE5nbWxFNUJvOVEwTzdoN3VoTWZlM3lyNnZwN0lreHE4Z1dBX1N1Z3N2czjSAaIBQVVfeXFMTllOZ3pKeUxma1kwNnVDRDZOZ193Y2dwUGZCVkFKbkNMYlBDUWxCa29GYkJwbGtUSnh3M0taUWhJOE4xZkRaYmY4NTNEb3RuSHB5QnZpelZCcTcwRFNLRDZHQnVSb0J5clBkOFJJM2FKTmk1aUJLUHg4VFhkQUctVlluSS1zUlNUWUFlLUIxUzh3bW1uUDZDWXUzNjhudjVJR2RB?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-21T07:31+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "scrap"
+   ],
+   "summary": "BIR calls on the EU to continue consultations on scrap metal exports GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -270,6 +378,94 @@
    "summary_method": "feed"
   },
   {
+   "id": "568f29cf00c1",
+   "title": "Alpha Gas turns to China for VLGC pair",
+   "original_title": "Alpha Gas turns to China for VLGC pair",
+   "url": "https://splash247.com/alpha-gas-turns-to-china-for-vlgc-pair/",
+   "source": "Splash247",
+   "published": "2026-10-21T05:57+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "ammonia",
+    "carrier",
+    "china",
+    "chinese",
+    "fleet",
+    "shipowner",
+    "vessel"
+   ],
+   "summary": "Greek shipowner Alpha Gas has moved into Chinese gas carrier construction, contracting two very large gas carriers at Hengli Heavy Industries as Anna Angelicoussis continues expanding her group’s fleet. Shipbroking and market sources have linked the Athens-based company to a pair of 88,000 cu m VLGCs capable of carrying ammonia, with the vessels scheduled for completion by 2029. The deal is understood to have been concluded in September, although details only emerged this week. The order marks Alpha Gas’s first move into Chinese shipbuilding, having previously relied on South Korean yards for its gas carrier investments. The company entered the VLGC segment in 2024 with orders at Hanwha Ocean and HD Hyundai Heavy Industries. Alpha Gas has also been adding to its LNG carrier orderbook.In January, the company booked two LNG carriers at Hanwha Ocean in a KRW738.3bn ($503m) deal. The vessels are scheduled for completion in 2029. Sister company Pantheon Tankers has been building up its crude tanker orderbook at the Chinese yard, while Alpha Bulkers has also turned to Hengli for capesize newbuildings. Earlier this year, Pantheon was linked to four 306,000 dwt VLCCs at the Dalian-based builder, adding to a series of contracts secured from Greek owners.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "441124cae084",
+   "title": "Corn market outlook: higher US and Brazilian supply pressures prices — CMB News",
+   "original_title": "Corn market outlook: higher US and Brazilian supply pressures prices — CMB News",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjFEcTV4cFowZ3d0Mm5pbEpOeUV1N1JJMzZnRmV5M1JuTXNwUm04Tzd2YVltalI1UHJON2JWcHJVdnNjN1JqNEpObHhmRTZiN3dmQmk3NkZUOGo4UThhRGdxSFJtMUdPMWVLU2l5RkF3UDhsWTlLQTJfZ3RoM0JVMWhJbUFjWnV0YnhmSFU4ZG43OUZsQm5uYWcxVVNncV96SFE?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-21T05:25+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "corn",
+    "prices"
+   ],
+   "summary": "Corn market outlook: higher US and Brazilian supply pressures prices — CMB News CMB News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a7b1893d032d",
+   "title": "Bunge Stock And 2 Grain Shipping Plays Facing Black Sea Insurance Shifts",
+   "original_title": "Bunge Stock And 2 Grain Shipping Plays Facing Black Sea Insurance Shifts",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNXzhUT05JNEZkVmNmZnQ5WUNlQlFhQkRWUkZBa2hrLVZYTjA4a3Q1UE1XOTdxZTV6Xzh1a01MT1NHZUxrY0VqalNJNjFJbFZJNXVraDVTcVFTVXdDY2xyazVKQV84OWFZbmRlUVZ0bGV3d09QV25XTWsxelpDcU01enNYcGROVWRTQXAtN1FQU2k1YzNxbXlLQTBwQlB0MlJSVm1pbG5CUFYxTE9QOGt4Wk4wQVlNOF9Zcm1XRWdMeWhvYXlyVVFxN3hUMjZyWW5aaC1yOGRITFJ4cUtYNUhkbjRRTS04bFQ2NXdoTtIB8gFBVV95cUxOWFRPQUhvb0hrM3Vvc2ZMdTNPR2FBR21yMXdwajEtTmFrbzkxMnowc3lBWDF3VXJBR2NPWkJtNXAtbFpzaXEyd0xmLXpWbG5aM1QzT013c0lDUEIyQ0hnTE85ZzY3azBRZTEwQk1hcXZOdEtydmVHT2ZQNjEyTFIwZFpTX0VOZFJubDBIWkVNTVJ6N3RGaVhYYUZIMkREUDR5QUQyRXRvc3RDZEdVb2FoN3lSbGJNSUVtcVhES096ZzFNeXpmRkhUdVgtMGpyWTJEdng5MTRWZHFBcWZBRi03OVF0TGtqaUFMeXpFdzJFMHNYUQ?oc=5",
+   "source": "Simply Wall Street",
+   "published": "2026-10-21T05:14+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "grain",
+    "shipping"
+   ],
+   "summary": "Bunge Stock And 2 Grain Shipping Plays Facing Black Sea Insurance Shifts Simply Wall Street",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "8b6fee6025fc",
    "title": "Oil shipping costs surge sevenfold to over $20 a barrel amid Middle East war",
    "original_title": "Oil shipping costs surge sevenfold to over $20 a barrel amid Middle East war",
@@ -320,6 +516,33 @@
    ],
    "summary": "Ports Scale AI but Only 4% Show Measurable Earnings Gains | BCG-TIC4.0 Survey 2026 - News and Statistics IndexBox",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5117c09c1b81",
+   "title": "Phil Hogan pitches FAO role with plan to revive Black Sea grain corridor",
+   "original_title": "Phil Hogan pitches FAO role with plan to revive Black Sea grain corridor",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTFYNm0ta0pUVmFjcUVKaHQyMDdwUDF0WGlTOGdaSFVVOFlJdUZNUS14X29EOVdnSFlrR05fc2ZMb1lkYU9NdEFsZDVqV3VuTjJ0X0V5ZTFLVGt6aHZWcVRlNnkzTFpyVEExRDZYekdDSWlOek5VRGtOb2tXaUJSVEkyWmRtZmwyN1hxMU5LVDdzTWUzejBFc3NkeXp0WVNhd2Rv?oc=5",
+   "source": "Traders Union",
+   "published": "2026-10-21T04:39+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "grain"
+   ],
+   "summary": "Phil Hogan pitches FAO role with plan to revive Black Sea grain corridor Traders Union",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -431,6 +654,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "9d631fc9ec2f",
+   "title": "Earnings call transcript: Yancoal Australia Q3 2026 cash jumps on stronger coal prices",
+   "original_title": "Earnings call transcript: Yancoal Australia Q3 2026 cash jumps on stronger coal prices",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYS1xemk0UlhMekNKUFFFLUtndDNmVnJpekRIWjBXMHRPWlpoQjdqY3B1OUw2aFdWbzM1THVVSWYyTGE0eHc4cWVMQTV2YXM1VjZPMzFLdXU4UkdObEJNOTlMZ0NZNkc1ZXFibS1ZS1RuS1hHS0tNVGdtcTV0QVZybXRJTE9xa3BGcFB5VFZOSF9sSWZKSk1KQzA5di1ITDRpQWZvLU9XaXNGbnRQNE01VjZ1bGQ0dHd5ZVVuWWdvNEhnN09RbEdSZkl1WGtQUVdHd2hfbzFBMUZYcndwNVFj?oc=5",
+   "source": "Investing.com Nigeria",
+   "published": "2026-10-21T02:01+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Africa",
+    "Oceania"
+   ],
+   "tags": [
+    "coal",
+    "prices"
+   ],
+   "summary": "Earnings call transcript: Yancoal Australia Q3 2026 cash jumps on stronger coal prices Investing.com Nigeria",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "da5fb0fbe735",
    "title": "Port: All gantry cranes restored following high-wind incident",
    "original_title": "Port: All gantry cranes restored following high-wind incident",
@@ -488,6 +738,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "6bfad58cc9e4",
+   "title": "BIR challenges EU scrap export rules over market access",
+   "original_title": "BIR challenges EU scrap export rules over market access",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYno0TFZKaEJnbXhRNWkzektvSzNzdE9GVW5DalItaFFGb0JvalAwek13a0ZNOW55TEprbjBvYXZMTnFiMG51UnlqbGFHX0U2MS13WlFMelJJbVBZemRPN0toa2NBRlR2Mkc4dzhkN0l5Uy1ncHdyMEM0N3BJV01kTmJUY3BnUHpNM0lYb0I5bmI?oc=5",
+   "source": "Yieh Corp.",
+   "published": "2026-10-21T01:57+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "scrap"
+   ],
+   "summary": "BIR challenges EU scrap export rules over market access Yieh Corp.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d8560289cc74",
    "title": "Oil prices today: Brent crude tops $110 as Middle East tensions threaten shipments",
    "original_title": "Oil prices today: Brent crude tops $110 as Middle East tensions threaten shipments",
@@ -513,6 +789,37 @@
    ],
    "summary": "Oil prices today: Brent crude tops $110 as Middle East tensions threaten shipments The Times of India",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "26d012661a0d",
+   "title": "Iran asks Russia to strengthen Caspian ports for grain and food supplies",
+   "original_title": "Iran asks Russia to strengthen Caspian ports for grain and food supplies",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMkt4TDFvdWpoakdUQWV3RUJsQzY4ZFEydDZYRGxQOWNHV2FqT25hd0lJMXRpdWtDZTlZOEo2cUVLYjdzTEVybk4za01JYU5DOFlWNWY1Q0Zna1QtZ3JnN2RENG9WVkZxR3RtSmRmMDZ6VzctZUxId2RSUXdKVEVTYTR6dUNIWEHSAZQBQVVfeXFMUG4tV1ZrNjhVbmdNb1RXNjFRSGdjaURmWU04WVBrSWt4UV9ibHotYjZpblN3cnNxMGxoYWl5SXZiMEhVTXlsQ2pWSEhHcWJCbldmbG9mZi01Z25ZYUhyY3RuNnlmM1VuMkViNVFDN0JmWDF0ZU5YSEE5VHBEMk93ZWI5TUpHUXhwS3BnVmZ0bVpnSzM5cw?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-21T01:32+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Russia & Belarus",
+    "Middle East"
+   ],
+   "tags": [
+    "grain",
+    "port",
+    "ports",
+    "russia"
+   ],
+   "summary": "Iran asks Russia to strengthen Caspian ports for grain and food supplies Baird Maritime",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -1225,6 +1532,31 @@
     "wheat"
    ],
    "summary": "Freight Costs Under Pressure: Diesel Shortages Threaten to Raise Imported Wheat Prices AgroLatam",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "cd66e6c6667d",
+   "title": "Bloomberg: Europe forced to return to coal-fired power generation",
+   "original_title": "Bloomberg: Europe forced to return to coal-fired power generation",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWtiZEttM1N6aUlkdkxheFZ1cXMwUHhwTWcyQldlTWJDM3o1NFFFUVVLWEpQeEk1RF9kd2xMRExxNEJ1cERmOGE3eDhTaGd6dUhoNEJmS1NGZkp1ZWZ1T0lrOXNLRHY3TjZFYTZwb3JUNXZrMHJWd0pBRGllM1hPNnBiMWM4RHlqM1hiUUhlTFRMUlBUVXM5cmFreUg?oc=5",
+   "source": "News.by",
+   "published": "2026-10-20T18:30+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "coal"
+   ],
+   "summary": "Bloomberg: Europe forced to return to coal-fired power generation News.by",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -14827,6 +15159,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "d6ea5a53a2fc",
+   "title": "Soybean prices today, corn futures, wheat futures, CBOT grain prices, USDA grain markets, U.S. harvest",
+   "original_title": "Soybean prices today, corn futures, wheat futures, CBOT grain prices, USDA grain markets, U.S. harvest",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMU5UdVZpbjVabHJvRmdUYXdBTXlVVF9uaC0zMVF4T18zbmZoUndOeWZqTG94WkhRSGQ0Vlp6Rkt4dl81Vmd1aG1hdzE1NUtUTXAzdDA3RXZuMmxCU3dobE5MaTZsVi1ENWYzZFZTVi16SXI0ajFnZVVmd2xkSXBlc0NicEtXRzJmcnFZeUlvZjBCQ1pOOHQ0a3UxT0NvQk5wQk5neUk0YUFnU0RBdFE?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-10-16T21:33+00:00",
+   "added": "2026-10-21T08:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "corn",
+    "futures",
+    "grain",
+    "prices",
+    "soybean",
+    "wheat"
+   ],
+   "summary": "Soybean prices today, corn futures, wheat futures, CBOT grain prices, USDA grain markets, U.S. harvest AgroLatam",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "99458bc55508",
    "title": "The Romanian port of Constanța has been added to the list of European cocaine entry points",
    "original_title": "The Romanian port of Constanța has been added to the list of European cocaine entry points",
@@ -16236,364 +16598,6 @@
    ],
    "summary": "Congestion eases at key Asian ports on holiday-related cargo reduction Journal of Commerce",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e70d300b4cee",
-   "title": "Lawmakers Seek to Strip COSCO Ships of U.S. Port Inspection Privileges Over Espionage Claims",
-   "original_title": "Lawmakers Seek to Strip COSCO Ships of U.S. Port Inspection Privileges Over Espionage Claims",
-   "url": "https://gcaptain.com/lawmakers-seek-to-strip-cosco-ships-of-u-s-port-inspection-privileges-over-espionage-claims/",
-   "source": "gCaptain",
-   "published": "2026-10-16T15:58+00:00",
-   "added": "2026-10-16T18:04+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "port",
-    "security",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "A COSCO ship at the Port of Long Beach. File Photo: Port of Long Beach Three senior House Republicans are calling on the Department of Homeland Security to revoke special inspection privileges granted to vessels operated by Chinese state-owned shipping giant COSCO, citing allegations that the company’s ships have been used to collect intelligence near U.S. Carlos Gimenez, chairman of the Homeland Security Subcommittee on Transportation and Maritime Security, called for COSCO vessels to be removed from the U.S. According to the lawmakers, at least 10 COSCO vessels were enrolled in the program as of July 15, despite the company’s designation by the Pentagon as a Chinese military company. The letter, which has now prompted a Coast Guard review, follows a September 1 Reuters investigation in which two senior Trump administration officials alleged that COSCO uses concealed equipment aboard its commercial ships to intercept military communications near the coastlines of the United States and other countries. The officials said the alleged intelligence-gathering operations were part of a decades-long relationship between COSCO and Beijing, allowing China to collect communications signals from ships and aircraft operating across Europe, North America and Asia.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "4bfb815c7e98",
-   "title": "IEA Moves to Accelerate Oil Reserve Releases as Hormuz Crisis Drags On",
-   "original_title": "IEA Moves to Accelerate Oil Reserve Releases as Hormuz Crisis Drags On",
-   "url": "https://gcaptain.com/iea-moves-to-accelerate-oil-reserve-releases-as-hormuz-crisis-drags-on/",
-   "source": "gCaptain",
-   "published": "2026-10-16T15:50+00:00",
-   "added": "2026-10-16T18:04+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "diesel",
-    "hormuz"
-   ],
-   "summary": "The International Energy Agency (IEA) has agreed to accelerate the release of approximately 100 million barrels of emergency oil stocks, including more than 20 million barrels of diesel, as the prolonged Strait of Hormuz crisis continues to strain global energy supplies. The decision, announced Thursday following a meeting of the agency’s Governing Board, comes amid mounting concerns over diesel shortages, high fuel prices and renewed attacks on commercial shipping in the Middle East. According to the IEA’s statement , member countries have already released approximately 330 million barrels under the emergency stock release agreed in March in response to the Iran war. The agency said it would take steps to accelerate the remaining releases, with more than 20 million barrels of diesel to be made available as soon as possible. In its October Oil Market Report , published Wednesday, the IEA said disruptions to production and exports from the Middle East and Russia removed approximately 1.3 million barrels per day of diesel and gasoil exports from the market in September compared with a year earlier. It forecasts global oil demand will decline by 2.6 million barrels per day in 2026 as higher prices and weaker economic activity take their toll.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "bf0159501210",
-   "title": "Frank Talk: Why freight rates are soaring, and what the shipyard boom means for investors",
-   "original_title": "Frank Talk: Why freight rates are soaring, and what the shipyard boom means for investors",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORGJoWm9WUDVkU3E5akEtclQyaWdnejFWQkdGa3cyNW1YcHZZQ1JPdGRfTnZpbE5QeWJFNjA0VERUcldhT2dEZ2lmcmg0OEZrYS1LSWhfTDlVNjBKWTRjZE9DQ2hGWkk3WEdsYW5BaHpHYm5laWZ3SF85Z1pEd3pQYWVHOWxNSjh6Mk1RNFhDb1Vxa3JNRnhYcjNDR0xidXV2cC0tMHFpTUs2d05yc2pGZTJPdFFJNWlUR0lKaWVHNVdtbGgyRFMydXFrTXlHUTBvbHprVWtOaW94V3BJSHZVOExTdFROTVF2NFFoQ0RPbw?oc=5",
-   "source": "Proactive financial news",
-   "published": "2026-10-16T15:46+00:00",
-   "added": "2026-10-16T15:53+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "freight rate"
-   ],
-   "summary": "Frank Talk: Why freight rates are soaring, and what the shipyard boom means for investors Proactive financial news",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ad98e59c1ca8",
-   "title": "Seanergy Maritime (SHIP) Slips 1.21% to $15.50 as Dry Bulk Sentiment Cools - Wyckoff Distribution",
-   "original_title": "Seanergy Maritime (SHIP) Slips 1.21% to $15.50 as Dry Bulk Sentiment Cools - Wyckoff Distribution",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTl0TXFOVUx5Yzc2Y2Njd3ZWdlVNcEJCZmdXd1ZpOFZWMHFqdVRFZmV5dHZhelVRLW1wTU9HY2pxbFA3UXM0N0c1Y0YwZE9uSDhCMkVvT0c5SklGXzF5dUtvajRMZnBTQ3NwcVN5YUFGdF9nM0hHTUFEZ2tBR1pEck5pb2xibmJmN3I2YXRHaEU4RlBSZmRLNkVTMjA0VVVJRFN4WlZtZUtobmJzTE9J?oc=5",
-   "source": "www.dars.gov.et",
-   "published": "2026-10-16T15:38+00:00",
-   "added": "2026-10-17T11:48+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "dry bulk"
-   ],
-   "summary": "Seanergy Maritime (SHIP) Slips 1.21% to $15.50 as Dry Bulk Sentiment Cools - Wyckoff Distribution www.dars.gov.et",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "589f0ae1082d",
-   "title": "Denmark Calls for Stronger African Ownership of Maritime Security as Middle East Tensions Reroute Shipping ‎",
-   "original_title": "Denmark Calls for Stronger African Ownership of Maritime Security as Middle East Tensions Reroute Shipping ‎",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGlkOS1hazRtTVNTU1RaTExNOUphaUJmQXhqZzhIWlpxUlhjNTFPekNuUzU5UUxhMVp4cEE0UUcwNDRyWlYzcHdxRUlrU2ZPS0Q3TVRLQXc1VEt4dUFhMEJMbWpZMXpKeFJrNDg5NzVKQ0Z3b3VPZzdsSXp5MHcyQnhENVFPQ3VlVkJwMGhUWVVwWlpaLXZBag?oc=5",
-   "source": "Modern Ghana",
-   "published": "2026-10-16T15:29+00:00",
-   "added": "2026-10-16T16:25+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Baltic & Nordics",
-    "Middle East",
-    "Africa"
-   ],
-   "tags": [
-    "rerout",
-    "security",
-    "shipping"
-   ],
-   "summary": "Denmark Calls for Stronger African Ownership of Maritime Security as Middle East Tensions Reroute Shipping ‎ Modern Ghana",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2fc4faf8a443",
-   "title": "Bulgaria's Wheat Exports Hit by Black Sea Shipping Costs",
-   "original_title": "Bulgaria's Wheat Exports Hit by Black Sea Shipping Costs",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTFHUTM1Rlo3QnhmcjZNOTc4NTRHbXBzLVM2RUVkcjYyRGlNWDhUYmN6a3UwejVWeWd2QzUyanEzc3FydTNTLUxlRi10SGhTelhaUThvQkl2UG9Qc2RJSEk1M1BIc25zVUJQMEh5RHhTQmtwT3FiS3lLX3FEVGxhSU9CX0IzRnZBMnc?oc=5",
-   "source": "PravdaReport",
-   "published": "2026-10-16T15:21+00:00",
-   "added": "2026-10-16T22:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "shipping",
-    "wheat"
-   ],
-   "summary": "Bulgaria's Wheat Exports Hit by Black Sea Shipping Costs PravdaReport",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cc855ad34b32",
-   "title": "Homegrown solutions can reduce EU’s dependence on imported fertilisers - joint-research-centre.ec.europa.eu",
-   "original_title": "Homegrown solutions can reduce EU’s dependence on imported fertilisers - joint-research-centre.ec.europa.eu",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMnAwRk5nd0FtY2IxdXlyQXVJV2RveV9EZ0c5OWdUQWEwQ3ZnaWtHeU5ENnRvVVd1T05UZlhlU2JnOEs3YWhfTTdCSFktM0tzVjh5SktKelZnSXZrVGpjM09oa2VQUmpYaDhUd0RIdks0UC1YdXM5WTJwT1lwZ3NiUHBzdjFSeUhpa0ducnVvS1Q5LXhoREdJOXJHcVlSQ0xiblBDdFM3TXgzbGw4ZUVuUTVONXBDemxmYVVqSERWVnJ3SkZLQ0FqMmtleHZDSTV1QkhGLTIxYnZqRUlX?oc=5",
-   "source": "joint-research-centre.ec.europa.eu",
-   "published": "2026-10-16T15:15+00:00",
-   "added": "2026-10-16T17:01+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "fertiliser"
-   ],
-   "summary": "Homegrown solutions can reduce EU’s dependence on imported fertilisers joint-research-centre.ec.europa.eu",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e3f4cf850905",
-   "title": "Putin says 'no problem' to export grain from Ukraine - ABS-CBN",
-   "original_title": "Putin says 'no problem' to export grain from Ukraine - ABS-CBN",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlN1dHNzejNaUFRSaDBYc1cxbkJ0VGg3TkJzZG9xbVRFU2lVcDhvWTlzSWc0WjF2X2ZOQkpGa1JGMWpnVGRyVVJKc1F2TV9xT09JcG9KLUY0Y2Y4U3lGejVzdmhBaUgyRFk5dnpiVE91dHhvSDNvRXhmT0Q2YzhQTTNTVTRDX3JnNk5xcEw2QnN3RFRZYll3?oc=5",
-   "source": "ABS-CBN",
-   "published": "2026-10-16T15:06+00:00",
-   "added": "2026-10-16T23:43+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain",
-    "ukraine"
-   ],
-   "summary": "Putin says 'no problem' to export grain from Ukraine ABS-CBN",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6ef027196a53",
-   "title": "Caspian Grain Hub Surges as Black Sea Infrastructure Fractures",
-   "original_title": "Caspian Grain Hub Surges as Black Sea Infrastructure Fractures",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHpwTEsyN2xRSk5FZWVUVUIwMW9zUDRKZWJvbE04Y1Nvd3NCRTBjQlU1X09lczZuZVFqaDVaT1pEWkQ5dEFwbDBhMUdyeWIxbjVSZVUxMXpRTW9ZeVVXWERDOFVFd0NnUTREbjc1V19Hel95UlJpZG0tRk9BZ1Q4cF9NUlpLQQ?oc=5",
-   "source": "PravdaReport",
-   "published": "2026-10-16T15:00+00:00",
-   "added": "2026-10-16T15:53+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "grain"
-   ],
-   "summary": "Caspian Grain Hub Surges as Black Sea Infrastructure Fractures PravdaReport",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "00ed58469868",
-   "title": "Guthrie-Edmond Regional Airport opens $7M terminal expansion",
-   "original_title": "Guthrie-Edmond Regional Airport opens $7M terminal expansion",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWDlreXhDR2pXaDlNV19LeUFnTTlEYW5hMG5nOUdBTXhDWW5zeXV0SndFNXpvaTV5NmpKMFQ3MG9pODg5T29RLXJpZnA0aEFGWWRJN2pQaDdIWFd6NFlpWnJjV0FPeDJYM252TVR2eGpaa0ZqN0lxenlieGdMNlE3djhBMDEyNGdvWm14V2M1dENmZw?oc=5",
-   "source": "The Journal Record",
-   "published": "2026-10-16T14:58+00:00",
-   "added": "2026-10-16T21:49+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Guthrie-Edmond Regional Airport opens $7M terminal expansion The Journal Record",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "53bf7081e6a3",
-   "title": "Recycled Mixed Metal Scrap Market Forecast to 2035: Growth Momentum Builds on Circular Economy Mandates - News and Statistics",
-   "original_title": "Recycled Mixed Metal Scrap Market Forecast to 2035: Growth Momentum Builds on Circular Economy Mandates - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMENGWTBsdThRcXBJQURYQWMtNDQzc0NuNEZWMmJNYjJlM3ZhOS1kVmZjQWVlS0hTWU1xNGQ4TE9XSWVydG1lRHVHWkJyc2NaVUNmZ0NVM0FBVlh6VklSdEgtTFRPbTJ4aTZaSmlVM3d2clhISnFvU0lncDg3ZnhVTnpyM1pDeHFmNkw4bUhGY1c4UW9KaWE3emlzdFZFVkcyZk0ydkZQam54WVprWV9WbVFBTzFueUt3TXp5UVpiRTZ5eHM2dFhNNlowd29fdEszbU44Vk9US1RnSGk0?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-16T14:46+00:00",
-   "added": "2026-10-16T15:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "scrap"
-   ],
-   "summary": "Recycled Mixed Metal Scrap Market Forecast to 2035: Growth Momentum Builds on Circular Economy Mandates - News and Statistics IndexBox",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3f48aef5206e",
-   "title": "IAS Vineeth S and IRS Ankit Appointed Deputy Secretaries in Ministry of Ports, Shipping and Waterways",
-   "original_title": "IAS Vineeth S and IRS Ankit Appointed Deputy Secretaries in Ministry of Ports, Shipping and Waterways",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVm81WGJzbjNCN0VvSHFwdnF0OTNjS0gxV0ZNZWFOTk5wNG4zTlFHX0dCSldDdEhWVGNYQWJRZFFFOS1kVnNndzZBMllCbUE5aU9GM3BMVzNPRXU0UTBJWWRXcU1BVDBJLXZZWTZOUFZBMTgyOG1nVmZqcnRiOUVzanlEWHd6ZjZoWjBVN2hkTXpPVXBJdUxEMHdsM2NlUUVaMFBxdTZFVWFhR29vcXVV?oc=5",
-   "source": "Indian Masterminds",
-   "published": "2026-10-16T14:45+00:00",
-   "added": "2026-10-18T11:09+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "ministry",
-    "port",
-    "ports",
-    "shipping"
-   ],
-   "summary": "IAS Vineeth S and IRS Ankit Appointed Deputy Secretaries in Ministry of Ports, Shipping and Waterways Indian Masterminds",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "05edf5c21727",
-   "title": "KPA gets nod for Mombasa, Lamu port asset concession tenders",
-   "original_title": "KPA gets nod for Mombasa, Lamu port asset concession tenders",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNmhKUFZFd0c1clZKX2ZOTEtnU1pDcFBJTnZCb1o0eE1HcjhiX2ZrczhKelRnaFhaUGtzWk11dU5PSm4tQktxOW1laWtEUl9fZHJNbzZGcEFyTGI2clRqQ2oxS2NYb21jeGVpWHFxbkVhczdCdUNUSlNMMWlOb1dHY0JGWFlFRjQwVXBScHJwYkowNlJDSFQ1MEluRlVQM2NvYmxiTERlOF9XUzFWVVkxckl3RXJOQnNvM2VubTRGYUstbUlW?oc=5",
-   "source": "Business Daily",
-   "published": "2026-10-16T14:42+00:00",
-   "added": "2026-10-16T15:15+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "ports",
-    "mna",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "concession",
-    "port",
-    "tender"
-   ],
-   "summary": "KPA gets nod for Mombasa, Lamu port asset concession tenders Business Daily",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   }
  ]
