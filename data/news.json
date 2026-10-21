@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T21:13+00:00",
+ "generated_at": "2026-10-21T21:54+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "9acdcafd5dbd",
+   "title": "Global Grain Trade Shifts Toward New Shipping Routes as Freight Costs and Risks Rise",
+   "original_title": "Global Grain Trade Shifts Toward New Shipping Routes as Freight Costs and Risks Rise",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTBIcFZBX1RYZGZJS0J1c0o1MDBSZDljRk5KbEVhY0NUNGNFR2pOOFJ2TlhuVlpPMFBNN1YzNUtwWC1BdmozZVVVY21ELUg4VHpWRy1HY1FQQ3pic1Bqazh4dndGbU9ZS2NET0pKdkt3NGJxLVlCNFNnNkhPZjBkX3pvQ3pTbEh0OUdmd0VNeGFMMjdTX0xLZA?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-10-21T21:27+00:00",
+   "added": "2026-10-21T21:54+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "grain",
+    "shipping"
+   ],
+   "summary": "Global Grain Trade Shifts Toward New Shipping Routes as Freight Costs and Risks Rise AgroLatam",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "d9e5baa72d49",
    "title": "Chinese FM highlights Azerbaijan's energy project and importance of Middle Corridor",
@@ -298,6 +325,87 @@
    ],
    "summary": "Legacy Port Cranes Remain Operational Despite Discontinued OEM Parts openPR.com",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "36f9edf3ba5f",
+   "title": "Panama Canal Traffic and Tonnage Rise Despite El Niño Challenges",
+   "original_title": "Panama Canal Traffic and Tonnage Rise Despite El Niño Challenges",
+   "url": "https://gcaptain.com/panama-canal-traffic-and-tonnage-rise-despite-el-nino-challenges/",
+   "source": "gCaptain",
+   "published": "2026-10-21T20:35+00:00",
+   "added": "2026-10-21T21:54+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "carrier",
+    "vessel"
+   ],
+   "summary": "The Panama Canal reported growth in vessel traffic, tonnage and revenue in fiscal year 2026, as stronger demand from energy carriers and containerships helped lift volumes despite ongoing concerns over water availability. The waterway handled 13,951 vessel transits during the fiscal year ended September 30, up 4.1% from 13,404 the previous year, according to results released Wednesday by the Panama Canal Authority. Total tonnage climbed 6.5% to 521 million Panama Canal Universal Measurement System (PC/UMS) tons, compared with 489.2 million tons in fiscal 2025. The results come as the canal continues to balance growing shipping demand with water conservation measures designed to protect operations during the developing El Niño weather pattern. Despite the challenges, the canal maintained a maximum authorized draft of 50 feet throughout the fiscal year’s dry season, providing relatively stable operating conditions for shipping customers. “Far from restricting trade flows, the Panama Canal facilitates international maritime trade by providing its customers with a reliable and safe route,” Panama Canal Administrator Ilya Espino de Marotta said during a conference call hosted by Bank of America Merrill Lynch. The canal has warned that a continuing water deficit could require further operational adjustments, particularly if El Niño conditions intensify.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "71f7f63a4313",
+   "title": "The Navy Is Making Progress on Unmanned Vessels. Now It’s Time to Put Them to Work.",
+   "original_title": "The Navy Is Making Progress on Unmanned Vessels. Now It’s Time to Put Them to Work.",
+   "url": "https://gcaptain.com/the-navy-is-making-progress-on-unmanned-vessels-now-its-time-to-put-them-to-work/",
+   "source": "gCaptain",
+   "published": "2026-10-21T19:46+00:00",
+   "added": "2026-10-21T21:54+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fleet",
+    "vessel"
+   ],
+   "summary": "An Arabian Fox MAST-13 unmanned surface vessel, attached to U.S. Naval Forces Central Command’s Task Force 59, conducts surveillance in the Arabian Gulf, Nov. 21, 2023. Army Photo By Chris Servello (OpEd) After years of testing and debating how unmanned surface vessels fit into the fleet, the Navy is starting to show what these systems can do. And senior leaders in the Department of War and Department of the Navy are talking less about the promise of unmanned warfare and more about making it part of everyday operations. The Navy needs to decide how it intends to fight with unmanned vessels, what missions they’ll perform and how it will organize, train and sustain the forces operating them. It’s time to move from proving these systems work to making them a routine part of fleet operations. For years, Task Force 59 worked with industry and regional partners to introduce unmanned systems into one of the world’s toughest maritime environments. The deployment of the Leidos-built Seahawk medium unmanned surface vessel with the Theodore Roosevelt strike group is another important step.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "39a6899bc5f3",
+   "title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping",
+   "original_title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSHY1STNFRUF1aC1oWnEzQVFkcXRDaFY4eGluclhNblpnei1ISTl5a0JuSzhSN2RqbWs5bmU0QjdkUE5VSmRrbmFnVU8zVzQyTFQ1NVVtVUtrT29Vby1iWkdZOFQ2M1pURVRUaGpYaWNxSlM5TXhiUkNFeFM2LWU5QW02R05lQm1xUHFXY0xRTEJiU1NfZDUzSDZMMl93WXUtbGFFdHFuYXFhVV9EZnVSS0FyS1lIWEd0OTlxdkRPcVdYQlgwS0NYODItQWdPR3fSAc8BQVVfeXFMTUh2NUkzRUVBdWgtaFpxM0FRZHF0Q2hWOHhpbnJYTW5aZ3otSEk5eWtCbks4Ujdkam1rOW5lNEI3ZFBOVUpka25hZ1VPM1c0MkxUNTVVbVVLa09vVW8tYlpHWThUNjNaVEVUVGhqWGljcUpTOU14YlJDRXhTNi1lOUFtNkdOZUJtcVBxV2NMUUxCYlNTX2Q1M0g2TDJfd1l1LWxhRXRxbmFxYVVfRGZ1UktBcktZSFhHdDk5cXZET3FXWEJYMEtDWDgyLUFnT0d3?oc=5",
+   "source": "Devdiscourse",
+   "published": "2026-10-21T18:39+00:00",
+   "added": "2026-10-21T21:54+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "law",
+    "sanction",
+    "shipping"
+   ],
+   "summary": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping Devdiscourse",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -9183,6 +9291,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "979e6a32e51b",
+   "title": "Corn under Harvest Pressure as US Exports Disappoint and Brazil Planting Advances",
+   "original_title": "Corn under Harvest Pressure as US Exports Disappoint and Brazil Planting Advances",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2NHSlJCa2VQRjF0Q2IwSjlSekk4bnV3SXdNektJZXhORFJjb3pYZC1aUkdfdHZxRW5FOVRKNFZlZXhxblZwWFhCX1B0YkRwZXBLNjlUeU5iNFRPV2VkZFVsdnRZcXhJUmRkenRHWHhKcHJPRFlsN3hjdWQ0Qk5iX1BDazZ0VzIwLVk0TzVYczY4aUtHUUhxbHhIeUtJYllnVjVMYXdqUmwxRUJ4VkE?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-20T07:37+00:00",
+   "added": "2026-10-21T21:54+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "North America",
+    "Latin America"
+   ],
+   "tags": [
+    "corn"
+   ],
+   "summary": "Corn under Harvest Pressure as US Exports Disappoint and Brazil Planting Advances CMB News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a847bb79a5db",
    "title": "Wheat, corn and soybeans decline in Chicago on Monday",
    "original_title": "Wheat, corn and soybeans decline in Chicago on Monday",
@@ -11945,6 +12079,36 @@
    ],
    "summary": "AAL completes nine-voyage steel bridge transport solution American Journal of Transportation",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c95b92f7997d",
+   "title": "Ukraine in Talks with Turkey, Egypt and India to Protect Black Sea Shipping",
+   "original_title": "Ukraine in Talks with Turkey, Egypt and India to Protect Black Sea Shipping",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3h0WUVoSWxtNTlLTkdjUDFsZm5laHMzNHhBRHhDRUtJQkVyU2dFYWRjVHFRdGRiYlNSLW9SSVQ1bWMyT1hicmRLUjFianozN0l4Vkh5Q2NpNjd4MHByR0xxSXB5bmJpWExXWW81amVYY0kwZWRIYWFhUzU2QXVmQm9LNzRxVXUzcGY5QU5MdkhkZDdLaEhwbjlJZGU2LUlmcUVIc0tJcWpaZw?oc=5",
+   "source": "BGNES",
+   "published": "2026-10-19T13:23+00:00",
+   "added": "2026-10-21T21:54+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "black sea",
+    "shipping",
+    "ukraine"
+   ],
+   "summary": "Ukraine in Talks with Turkey, Egypt and India to Protect Black Sea Shipping BGNES",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -15614,6 +15778,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "8ab7340b94d0",
+   "title": "Ukraine is discussing the reopening of the grain corridor with Turkey, India, and Egypt — Bloomberg",
+   "original_title": "Ukraine is discussing the reopening of the grain corridor with Turkey, India, and Egypt — Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ292T25BYnNzNmtHdVV3Q1BSM3RTdVU3N3JuMEZBOEdZSFh2R3FrdlVLU2ZMTl9uVjJpRmZIdk94U285MUJ6Z1ZqcUxoSnJtWHZSZDVxc2ZhTXdDaDNYWHgxd20yMklMWXk2SjNuRUF0NzRxSVBWblFrTUQ5SGQtOXBQN2ZLNW5JbWdXaTlTTHpOcDk0Y1loS1lrXzNDdW5Zdy01c19jZFdFY1NDbm9fSl9jOUdpMkJDcnpMN1NIcnA?oc=5",
+   "source": "UA.NEWS",
+   "published": "2026-10-19T04:38+00:00",
+   "added": "2026-10-21T21:54+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "grain",
+    "ukraine"
+   ],
+   "summary": "Ukraine is discussing the reopening of the grain corridor with Turkey, India, and Egypt — Bloomberg UA.NEWS",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d9c7f8ffc5bf",
    "title": "How a Wider Middle East War Could Push Up Fuel and Food Prices Across Africa",
    "original_title": "How a Wider Middle East War Could Push Up Fuel and Food Prices Across Africa",
@@ -16343,217 +16536,6 @@
    ],
    "summary": "Trade Data Was Built for Commercial Visibility Cargo manifests, customs declarations, shipping records, and import and export filings exist to describe commerce. They do that well. How much crude moved through Yanbu last month? Trade data does not answer any of these, and the reason is structural rather than a matter of coverage or refresh rate. Trade data is a record of what parties declared. Intelligence Starts Where Declarations Stop All-source maritime intelligence fuses the layers that exist independently of what a vessel or operator chooses to declare. Trade data can tell you that a container is declared as machine parts from a legitimate exporter with a clean filing history. Trade data can tell you that a container is declared as machine parts from a legitimate exporter with a clean filing history. Customs officers allocating finite inspection capacity need the second one, because the first was written by the party they are assessing.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "e2581baa80e3",
-   "title": "Drewry: Intra Asia Container Index Down 3% Last Week",
-   "original_title": "Drewry: Intra Asia Container Index Down 3% Last Week",
-   "url": "https://www.hellenicshippingnews.com/drewry-intra-asia-container-index-down-3-last-week-2/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-18T21:00+00:00",
-   "added": "2026-10-18T21:08+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "congestion",
-    "freight rate",
-    "port",
-    "port congestion",
-    "ports"
-   ],
-   "summary": "Freight rates declined, particularly from Shanghai to Busan, Ho Chi Minh City and Jawaharlal Nehru Port, as congestion eased at these ports. See detailed commentary below. IACI eases as port congestion improves • The Drewry Intra-Asia Container Index (IACI), the benchmark widely referenced by procurement teams, eased 3% to $1,453 per 40ft container. Average vessel waiting times declined in Week 41 at Busan, Jawaharlal Nehru Port and Singapore, falling from 26 to 23 hours, 42 to 24 hours and 50 to 34 hours, respectively. • The intra-Asia container freight market has remained resilient this year, with the index surging 198% YoY. High bunker costs and ongoing US–Iran tensions continued to push up rates, with Brent crude prices remaining above $100 per barrel since early September, adding to carriers’ operating costs. Drewry’s Intra-Asia Container Index (IACI) reports actual spot container freight rates for major intra-Asia trade routes. The Index, which will be updated weekly (from 02 Jan 26), consists of 18 route-specific indices representing individual shipping routes and a composite index. All indices are reported in USD per 40ft container.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "9d2f9cbec618",
-   "title": "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
-   "original_title": "Iran war: Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
-   "url": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-18T21:00+00:00",
-   "added": "2026-10-18T21:08+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "hormuz",
-    "military",
-    "shipping",
-    "war"
-   ],
-   "summary": "Two Saudi military personnel were killed in a helicopter crash near Yemen on Sunday, as regional fighting intensified and tanker attacks threatened shipping through the Strait of Hormuz. The Saudi-led coalition said an AH-6i reconnaissance helicopter crashed in Najran due to a technical malfunction, killing both crew members. Coalition spokesman Major General Turki al-Maliki said the aircraft crashed in an area under the Saudi National Guard Ministry’s jurisdiction. The incident followed a claim by Houthi military spokesman Yahya Saree that the group had shot down a Saudi Apache helicopter near Najran on Saturday. Najran has faced repeated Houthi attacks as Yemen’s conflict increasingly becomes another front in the U.S.-led war against Iran. The United Kingdom Maritime Trade Operations agency also reported two tanker attacks near Saudi Arabia on Friday, including one involving a rocket-propelled grenade fired from a small boat. Egyptian President Abdel Fattah el-Sisi pledged to defend Saudi Arabia if necessary, seeking parliamentary authorisation for potential military assistance. President Donald Trump said the Iran war would end “very quickly” and predicted lower fuel prices once hostilities ceased. However, Defence Secretary Pete Hegseth warned Iran of further military devastation unless it abandoned its nuclear ambitions.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "92829b61ab43",
-   "title": "Singapore bio-bunker sales surged in September, while LNG sales declined",
-   "original_title": "Singapore bio-bunker sales surged in September, while LNG sales declined",
-   "url": "https://www.hellenicshippingnews.com/singapore-bio-bunker-sales-surged-in-september-while-lng-sales-declined/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-18T21:00+00:00",
-   "added": "2026-10-18T21:08+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "commodities",
-    "equipment"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "alternative fuel",
-    "bunker",
-    "lng",
-    "port",
-    "port authority"
-   ],
-   "summary": "Singapore sold approximately 2,700 mt/day of bio-bunkers in September, up from around 1,800 mt/day in August, according to preliminary data from the Maritime and Port Authority of Singapore. Bio-VLSFO sales up from 48,000 mt to 76,000 mt Bio-HSFO sales down from 9,000 mt to nil B100 sales up from 800 mt to 2,600 mt LNG sales down from 59,000 mt to 52,000 mt Singapore’s bio-blended bunker sales rose sharply in September, increasing by 43% to 81,000 mt, which was the highest monthly volume since March. Despite the rise, September sales were still 30% below the 115,000 mt recorded in the same month last year. Of the total, approximately 76,000 mt was VLSFO blended with a bio component, typically around 24% in Singapore. From January to September, Singapore’s total biofuel bunker sales stood at 571,000 mt, down substantially from 1.14 million mt during the same period last year. LNG bunker sales declined 12% to 52,000 mt in September. However, cumulative LNG sales for the first nine months of the year reached nearly 487,000 mt, up from 401,000 mt a year earlier. Meanwhile, B100, or 100% biofuel, bunker sales were recorded for the sixth consecutive month, with around 2,600 mt sold in September, up from approximately 800 mt in August.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "49915de48190",
-   "title": "One Singapore ship was sunk, but here’s why others are still transiting the Strait of Hormuz",
-   "original_title": "One Singapore ship was sunk, but here’s why others are still transiting the Strait of Hormuz",
-   "url": "https://www.hellenicshippingnews.com/one-singapore-ship-was-sunk-but-heres-why-others-are-still-transiting-the-strait-of-hormuz/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-18T21:00+00:00",
-   "added": "2026-10-18T21:08+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "hormuz",
-    "port",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Vessels transit the Hormuz Strait off the coast of Iran’s southern port city of Bandar Abbas on September 7, 2026. Commercial vessels are likely to continue navigating the perilous Strait of Hormuz despite the sinking of a Singapore-flagged container ship this week, as strong demand for Middle Eastern energy and lucrative shipping opportunities keep some operators willing to brave escalating attacks, maritime experts said. The latest attacks on two Singapore-flagged container ships have heightened concerns over the safety of commercial shipping through one of the world’s most important maritime chokepoints. But analysts say the incidents are unlikely to bring remaining shipping activity through the Strait to a halt, even as major container lines largely stay away. Crossings through the Strait of Hormuz fell to 131 in the week ended Oct. Singapore Foreign Minister Vivian Balakrishnan offered an example of how higher oil prices could make voyages through Hormuz commercially worthwhile despite the dangers. The Singapore Shipping Association also played down the prospect of a broad withdrawal of commercial shipping from the region, suggesting operators would instead adapt to changing trade conditions.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "5f27b7e80c75",
-   "title": "nOn Cyber Extortion Incident Involving 38 Maritime Companies Likely traces Back to a Single Vendor",
-   "original_title": "nOn Cyber Extortion Incident Involving 38 Maritime Companies Likely traces Back to a Single Vendor",
-   "url": "https://www.hellenicshippingnews.com/non-cyber-extortion-incident-involving-38-maritime-companies-likely-traces-back-to-a-single-vendor/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-18T21:00+00:00",
-   "added": "2026-10-18T21:08+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistics",
-    "port",
-    "shipping",
-    "terminal"
-   ],
-   "summary": "On 12 October 2026, the cyber extortion group n0n listed a batch of 38 maritime organizations on its dark web leak site. The targets include shipping companies, port terminal operators, container operation companies, logistics companies, ship managers and agents, and other maritime-related companies in 18 countries. The listings carry ransom demands ranging from USD 400 thousand to 400 million per company, almost all with the same deadline: 19 October 2026, 13:27 UTC. Cydome’s research team analyzed the available information on this incident and assessed that it is likely linked to data from CyberLogitec, a Korean company that provides software and IT services to maritime companies. At least 21 of the 38 companies are publicly documented CyberLogitec customers, and other details in the 85 sample files published by n0n also point to CyberLogitec as the source. Key Findings • On 12 October 2026, n0n listed 38 maritime organizations in 18 countries, with demands totaling about USD 1.22 billion and a common deadline of 19 October 2026, 13:27 UTC. • Our interim assessment is that the data likely comes from a single support and project archive linked to CyberLogitec, split into separate listings per customer. The October 12 Maritime Listings The maritime listings appeared in a single batch on 12 October, according to ransomware.live.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "2464667c4bd5",
-   "title": "AI, Robotics and Nuclear Energy Lead Discussion at ABS North America Regional Committee Meeting",
-   "original_title": "AI, Robotics and Nuclear Energy Lead Discussion at ABS North America Regional Committee Meeting",
-   "url": "https://www.hellenicshippingnews.com/ai-robotics-and-nuclear-energy-lead-discussion-at-abs-north-america-regional-committee-meeting/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-18T21:00+00:00",
-   "added": "2026-10-18T21:08+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "artificial intelligence",
-    "autonomous",
-    "robotic",
-    "shipping"
-   ],
-   "summary": "“Rapid technology innovation and autonomous systems are transforming shipping into a highly connected, data-driven industry.” That was a key message from John McDonald, ABS Chairman and CEO, to maritime industry leaders at the ABS North America Regional Committee Meeting in New York City. He said that shift is being driven by advances in artificial intelligence (AI), autonomous and smart shipping, alternative fuels, cybersecurity and the rapid scaling of cloud platforms and connected systems across fleets and ports. “As new technologies move from development into daily operations, owners, shipyards and regulators need support they can rely on. McDonald highlighted robotics, nuclear energy, digital twins and AI as key technologies ABS is helping develop for maritime applications. The committee also heard from Daryl Willis, Microsoft Corporate Vice President, Energy & Resources Industry, on how AI, cloud and data-driven technologies are transforming shipping, particularly in digitalization, optimization, cybersecurity and emissions reduction. Committee Chairman James Sagar, Hanwha Shipping CEO and President of Hanwha Maritime Solutions said, “At both ABS and Hanwha, we believe the future of our industry will be shaped by market-driven solutions that create lasting value. That is why the ABS North America Regional Committee plays such an important role.",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a2677d7b2401",
-   "title": "China state buyers purchase up to 13 US soybean cargoes",
-   "original_title": "China state buyers purchase up to 13 US soybean cargoes",
-   "url": "https://www.hellenicshippingnews.com/china-state-buyers-purchase-up-to-13-us-soybean-cargoes/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-18T21:00+00:00",
-   "added": "2026-10-18T21:08+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia",
-    "Latin America"
-   ],
-   "tags": [
-    "china",
-    "chinese",
-    "panamax",
-    "soybean"
-   ],
-   "summary": "Chinese state-owned trading firms purchased 10 to 13 Panamax cargoes of US soybeans on Wednesday, marking the second substantial round of purchases since US President Donald Trump and Chinese President Xi Jinping met in September, Reuters reported on Thursday. The cargoes are scheduled for shipment between December and March, the report said. On Tuesday, Chinese state buyers had booked 8 to 10 cargoes of US soybeans. The US Department of Agriculture later confirmed most of those sales in its daily export sales announcement. The purchases follow a period of several weeks during which China had largely remained absent from the market, partly due to the extended National Day holiday. The return of state buyers indicates continued demand. This week’s combined purchases total 18 to 23 cargoes, equivalent to approximately 1.2 to 1.5 million metric tons of US soybeans. China has now purchased around 15 million tons of the 25 million-ton target announced by the White House for the 2026/27 marketing year. Source: Investing.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
  ]
