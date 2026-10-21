@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T08:36+00:00",
+ "generated_at": "2026-10-21T09:15+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,94 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6bbaa03bc060",
+   "title": "Australian fund takes control of UK ports giant in £10bn deal",
+   "original_title": "Australian fund takes control of UK ports giant in £10bn deal",
+   "url": "https://splash247.com/australian-fund-takes-control-of-uk-ports-giant-in-10bn-deal/",
+   "source": "Splash247",
+   "published": "2026-10-21T08:57+00:00",
+   "added": "2026-10-21T09:15+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Western Europe",
+    "North America",
+    "Oceania"
+   ],
+   "tags": [
+    "acquire",
+    "port",
+    "ports",
+    "stake"
+   ],
+   "summary": "Australian infrastructure investor IFM Investors has agreed to acquire a controlling stake in Associated British Ports (ABP), Britain’s largest port operator, in a deal valuing the business at more than £10bn ($13.4bn). The transaction will see Canadian pension giants CPP Investments and OMERS sell their combined 63.88% stake in ABP to Global Infraco Haven Bidco, an indirect subsidiary of the IFM Global Infrastructure Fund. ABP confirmed the binding agreement in a London Stock Exchange announcement today. ABP operates 21 ports across Britain, including Southampton, Immingham and the Humber complex, handling around a quarter of the country’s seaborne trade. The deal brings an end to two decades of Canadian involvement in the port operator. OMERS was part of the consortium that took ABP private in 2006 for £2.8bn, while CPP Investments acquired its interest in 2015. IFM is owned by Australian and British pension funds and manages around $96bn in infrastructure assets globally. As Splash reported in August, the company is advancing a £500m development at Port Talbot in Wales to establish a major floating offshore wind manufacturing and assembly hub. Completion of the transaction remains subject to regulatory approvals and mandatory national security filings in the UK.",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "bf4a2f94e106",
+   "title": "Davies Turner strengthens Heathrow presence with major logistics hub acquisition",
+   "original_title": "Davies Turner strengthens Heathrow presence with major logistics hub acquisition",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQXZnQWlKQzliaHhod3FNSWsyYlRaMlVDblJySHp3bDJBcFBNM2lFeWlQaVFtNXU2WUxsQ1pSUzhubWxwcmRBQU9pY2J1bDdxYldMSjJORDRKRDBMUHpqT2RoLWRuTDhrRDNCYWo3Q3VQLXFFX2FtTWJWSVNtYl9IcUVmRE4xTG43WEhId3duSjJ4NFcxTHh0aDRoQ3A1a2tnRXQ5ZHo3VDlGQzQ1aFA4b0w1WnJkZllnbUZCVS1QN0phdE9QdHgzdXU2MWtGZUx4YzVV?oc=5",
+   "source": "https://www.groundhandlinginternational.com/",
+   "published": "2026-10-21T08:53+00:00",
+   "added": "2026-10-21T09:15+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquisition",
+    "logistics",
+    "logistics hub"
+   ],
+   "summary": "Davies Turner strengthens Heathrow presence with major logistics hub acquisition https://www.groundhandlinginternational.com/",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4a1c11db1b64",
+   "title": "Gulf Port Giants Invest Billions in Africa as Red Sea Shifts",
+   "original_title": "Gulf Port Giants Invest Billions in Africa as Red Sea Shifts",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYV9QQ3FFd0Vla0J6RWE4a2E3NUhMeEduWXFvTGp5UGRxbmhIVEN2a3VNX3c4dkdDWEJmWENaTl9PRHowMUxnaXJjVDQ5dEkwMXl0Um1qVHhCNjA2aVB2cHF5NlhGR2FaTWZiWC0wZGVkNEhGVUVlcEo4cjdjalVtdG5CV3FFOXdNQThMbkN1V3AwWFFBQ3l5UTR3NlJLZ3F0c2JPY3NqRThFZnNYem9ROFpR?oc=5",
+   "source": "Africa M.E.",
+   "published": "2026-10-21T08:39+00:00",
+   "added": "2026-10-21T09:15+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East",
+    "Africa"
+   ],
+   "tags": [
+    "port",
+    "red sea"
+   ],
+   "summary": "Gulf Port Giants Invest Billions in Africa as Red Sea Shifts Africa M.E.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "a5472d5926fa",
    "title": "General cargo throughput slumps at Antwerp-Bruges",
@@ -68,6 +156,31 @@
    ],
    "summary": "Black Sea merchant shipping under attack: the western corridor and NATO's security threshold iari.site",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "221db9c5b030",
+   "title": "Tideworks strengthens technology and commercial leadership",
+   "original_title": "Tideworks strengthens technology and commercial leadership",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWxMQkJQUXpDbEZSd0EzSzFUdV9UUUEtUlBfUWVwTVVVTEFXWmxTN1I0WFFMUzlrNjc5Q2VuVzdIY0tWWGFQSzlpM1FwX1R2Nmp4cVV2b3N0TlpVYlhlb3FmUnF2Y1NRc0ZWVHZrYjh0S19lVkVzTEN3MkRrUXE3R2VR?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-21T08:14+00:00",
+   "added": "2026-10-21T09:15+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Tideworks strengthens technology and commercial leadership Port Technology",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -212,6 +325,56 @@
    "summary_method": "feed"
   },
   {
+   "id": "44fd6faf85ec",
+   "title": "Guam restores full crane capacity after freak collision",
+   "original_title": "Guam restores full crane capacity after freak collision",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORktISDhDLXRDWXZRZC1xSDBCbkpnT0lTQ05iQUF0cnFYUzBRenRLY2FkSGRUNHZPdFNud21tU3VyUEpkVmZrd2ZOX2JpT1FxUjJhNC1yXzNab1JxNi1USzQzRmR6aDlLcExmclBmTkFXMDRETXU4bW5lMElIODVfYXhYdzg?oc=5",
+   "source": "Splash247",
+   "published": "2026-10-21T07:40+00:00",
+   "added": "2026-10-21T09:15+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane"
+   ],
+   "summary": "Guam restores full crane capacity after freak collision Splash247",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "93bcb7659faa",
+   "title": "McLaughlin & Harvey secures Dover port framework",
+   "original_title": "McLaughlin & Harvey secures Dover port framework",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWRjT200OXpyWTJOeUNnRF9jU3VJVU5mMHVpdFA3WnJSV3lvYmNvZzNrVXVzYlplczFRZjZsbk9Pb3dNanAwNDlXRFlMLXAyMEtGdmcxeWFvWEY0eUFVY2JJdG9kNGNzZ25MZzdMc1dqZzZuZ0NiUTZHNHUzLXJVbTVLeWJBclpYMzIyd0owcmJGX1gyaGl1S3hyeUpuMW5uRWRBUmxR?oc=5",
+   "source": "Port Strategy",
+   "published": "2026-10-21T07:39+00:00",
+   "added": "2026-10-21T09:15+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "McLaughlin & Harvey secures Dover port framework Port Strategy",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "dc411a10fe86",
    "title": "BIR calls on the EU to continue consultations on scrap metal exports",
    "original_title": "BIR calls on the EU to continue consultations on scrap metal exports",
@@ -292,6 +455,31 @@
    "summary": "Iraq’s national shipping line is returning to scheduled container services in the Gulf after more than half a century, as the country seeks to rebuild maritime connections disrupted by the Strait of Hormuz crisis. According to Alphaliner, Iraqi Maritime Line is deploying the 902 teu Basrah on an eight-day shuttle linking Jebel Ali in Dubai with Umm Qasr, Iraq’s principal container gateway. The first sailing was scheduled to depart Jebel Ali yesterday, arriving in Umm Qasr two days later. Iraq’s transport ministry has described the initiative as the national carrier’s first regular Gulf operation since the mid-1960s. The relaunch comes as Iraqi container supply chains have been radically reshaped since the Hormuz shipping crisis erupted at the end of February. According to the Jordan Shipping Association, Aqaba handled 37,182 Iraq-bound transit containers during the first seven months of 2026, compared with just 3,599 during the corresponding period last year, a 933% increase. Hapag-Lloyd outlined a routing in July whereby containers are discharged at Khorfakkan, outside the Strait of Hormuz, before being trucked across the UAE to Sharjah or Jebel Ali and transferred onto third-party feeder vessels serving Iraq and other upper Gulf destinations.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "fa024e892a5d",
+   "title": "Worker dies in workplace accident at Port of Bilbao",
+   "original_title": "Worker dies in workplace accident at Port of Bilbao",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzlteVpkWDI4eTlSS19ZZTBGNUFBa1hqendPWkdlNXhpQnd1UzBBSG05SnhFZlZVTFNJd1psT1d4TVAwUUZndl9Cc2tPdC1LWTFzVFRJTTN6UDhXemlGcDktSzhZdjJOYzhnWklic2Vjc0ZuUHowTnZ4LUxCaFhOTUI0b2NfbWJRM1IwTmZqRkMxaWRpOHE2OHpiUzA?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-21T06:38+00:00",
+   "added": "2026-10-21T09:15+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Worker dies in workplace accident at Port of Bilbao WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "89e22cc67c89",
@@ -6844,6 +7032,31 @@
    ],
    "summary": "Metlen chairman warns EU losing strategic aluminium to U.S. tariff gap Yahoo Finance Australia",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d83223778de9",
+   "title": "Port of Cotabato maritime connectivity",
+   "original_title": "Port of Cotabato maritime connectivity",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xVVVOekJRSEVjR3RkZ2k3MFlvTEZMT1FxRWxwX19jeVpBWHZRWnVLSDJUbC1ZVmJRaXVUc21TbzNwLVF0ZFp5bUU0aTBTTkxvXy10cWNlMEI5b0p4WlhuYWZTZ2U1NFVVTnF4TTROVS1EUQ?oc=5",
+   "source": "El Estrecho Digital",
+   "published": "2026-10-19T18:01+00:00",
+   "added": "2026-10-21T09:15+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port of Cotabato maritime connectivity El Estrecho Digital",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16374,229 +16587,6 @@
     "transshipment"
    ],
    "summary": "The Port of Rotterdam loses 20% of its transshipment traffic while keeping container volumes stable El Estrecho Digital",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bf40f4a7dc0a",
-   "title": "Supertanker Rates Fall from Record Highs",
-   "original_title": "Supertanker Rates Fall from Record Highs",
-   "url": "https://gcaptain.com/supertanker-rates-fall-from-record-highs/",
-   "source": "gCaptain",
-   "published": "2026-10-16T16:36+00:00",
-   "added": "2026-10-16T18:04+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "fleet",
-    "sanction",
-    "shadow fleet",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "LONDON, Oct 16 (Reuters) – The cost ?of shipping oil on the largest tankers fell this week from record highs as demand eased following a wave of attacks on vessels in the Middle East and as the US considered easing sanctions on the so-called shadow fleet. Freight rates ?for supertankers, also known as very large crude carriers (VLCCs), carrying oil ?from the Gulf of Oman to China fell to about 776 ?on the Worldscale basis, according to Baltic Exchange ?data. That was down from 841 last week, the highest since the rate was launched earlier this year, following gains since the outbreak of the Iran war. Despite the drop, rates remain close to record highs. Rates have also eased from record highs on other routes this week, such as from West Africa to Asia. The International Energy Agency (IEA) has agreed to accelerate the release of approximately 100 million barrels of emergency oil stocks, including more than 20 million barrels of diesel, as the... Central Command says the United States and its regional partners control the Strait of Hormuz, citing more than 40 commercial ships moving through the waterway in the past 24...",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "d3e0e2b325ad",
-   "title": "US weighs lifting sanctions on Iran's 'shadow fleet' to address surging costs",
-   "original_title": "US weighs lifting sanctions on Iran's 'shadow fleet' to address surging costs",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRnAxODVxOUV3cmk5cGFZeUpvUXJsVkxjUFRTVzc2ei1qQ1JjcU5hdVc1U0dNLUhxRHFKYUh5UDZaeTZMMGlPSy1JQTVZdEVrUTlnejdvODBabU1BdF85VDItNjFPZGZmMFR0RWh6QUNDQUgzV0NOUFZJWUp3YUp6cGotSEpZX3RSUW5TNGRCVFRETjB2bUdWTzJLSzR3ZGdENGNrVWV3?oc=5",
-   "source": "Middle East Eye",
-   "published": "2026-10-16T16:23+00:00",
-   "added": "2026-10-19T15:12+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East"
-   ],
-   "tags": [
-    "fleet",
-    "sanction",
-    "shadow fleet"
-   ],
-   "summary": "US weighs lifting sanctions on Iran's 'shadow fleet' to address surging costs Middle East Eye",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cfe3023a1ade",
-   "title": "Poland plans to expand railway security powers to counter drone threats",
-   "original_title": "Poland plans to expand railway security powers to counter drone threats",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdU1GYTE1UUI1eGp6Y1U0bW52VmhfRVZUMWxIcjNITi1yNlFlUzZkdzRGT0FUckEwYW5IcEo0al9UNUU4LWw5Y2taOUxObXYxSG1Fckdqa05UVXBHVDdZUUlPQm5zYktNTlpoZzBGTkdfUlMtTEVLOFR4X2pYMTNtMkxwckhhemQ1R1QwaGJzamFVVXN6d1RmVA?oc=5",
-   "source": "TVP World",
-   "published": "2026-10-16T16:20+00:00",
-   "added": "2026-10-16T20:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "rail",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "drone",
-    "poland",
-    "railway",
-    "security"
-   ],
-   "summary": "Poland plans to expand railway security powers to counter drone threats TVP World",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "baf7867d51b4",
-   "title": "Farmers to receive aid for fertilisers and fuel",
-   "original_title": "Farmers to receive aid for fertilisers and fuel",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXZyT292SEdkc21kb0hQVVVTaDU1UjRsTHRqNVVBd1lXajhha1o1blhkblRJWDNVcTBGb3NraWNBZzFDLWVOTzNPVFlfb0FvbWtZcGFCMmRvQW43ZVlCMEtCLS02NTFyb1BOcUNIbWJ2X2pFRVc4aGJaVk8wSmg3SUNrNFI0Y1lXdmc?oc=5",
-   "source": "Cyprus Mail",
-   "published": "2026-10-16T16:14+00:00",
-   "added": "2026-10-16T17:01+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fertiliser"
-   ],
-   "summary": "Farmers to receive aid for fertilisers and fuel Cyprus Mail",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c7be3b49f80e",
-   "title": "Xeneta says Red Sea container capacity doubled in six weeks as carriers blank transpacific sailings",
-   "original_title": "Xeneta says Red Sea container capacity doubled in six weeks as carriers blank transpacific sailings",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWt3QU5BVG5ZVGljd0FGdnFzcUo5eTVxNUtHMXVrTVYzN1QtUk9TdTRtcndQS3lDYzQ3NEZBYTVRaVBsYVhTSEw2VHRoVmd6X29jNlc4RzNuWXZOVWhfV1FZdGE5QXdhSkNYZ3NsUVhHUlpDZVdCcE5EcVNVSHRQX0tMVFdZLW9Fa1A0QnZIV2xSdC1ETHVoOExtRjVJcDhheHZkMQ?oc=5",
-   "source": "Container Management",
-   "published": "2026-10-16T16:12+00:00",
-   "added": "2026-10-16T17:01+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "carrier",
-    "red sea"
-   ],
-   "summary": "Xeneta says Red Sea container capacity doubled in six weeks as carriers blank transpacific sailings Container Management",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fc8f3e480a96",
-   "title": "Gantrex wins crane rail fastening deal for Sparrows Point",
-   "original_title": "Gantrex wins crane rail fastening deal for Sparrows Point",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN04xcEZHRlhpSTZSOU1GSnhhUnhyZHNnTDQtcWE4YUdCX012Q1ZUM1JVSWNPNDlhSDFUSUp4SlhONUtTY2xyZlB1c1lkODFsb05ldkNGSzJfcUZjckp4MGF3cTM5cmJ2enJ6ZVhON3M4Q1ZMdmxfQmZRdVdWTjhralBmd204aEYzemdqUDlWVVlnYngtVFRDWUw5XzdIZ2czNERYdg?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-16T16:10+00:00",
-   "added": "2026-10-16T17:33+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane"
-   ],
-   "summary": "Gantrex wins crane rail fastening deal for Sparrows Point WorldCargo News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8bc294837e72",
-   "title": "Louisiana and Texas Export Bids Report: Corn, Soybean, Wheat Prices for October 16, 2026 - News and Statistics",
-   "original_title": "Louisiana and Texas Export Bids Report: Corn, Soybean, Wheat Prices for October 16, 2026 - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZTVmTzhicS1UWG5FNUkzZ0ZiWEhLLWhTVUZ6aEVqLW5aUmhlY0lzSnlzRGlYNVRCYTJwNlFVdTlFSXFBTjE4SjdwZ2hNaEVXNUx6SE11TDlMakNIeVhEa21pbjd5eDQ1TXJvUXpVYS1jQ01GdHYzcW85QWk5SHZ6VFFLMGI1VURqQlozVEVQNXdFd3NXc1RINlJR?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-16T16:00+00:00",
-   "added": "2026-10-16T22:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "corn",
-    "prices",
-    "soybean",
-    "wheat"
-   ],
-   "summary": "Louisiana and Texas Export Bids Report: Corn, Soybean, Wheat Prices for October 16, 2026 - News and Statistics IndexBox",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "577d45223b58",
-   "title": "Congestion eases at key Asian ports on holiday-related cargo reduction",
-   "original_title": "Congestion eases at key Asian ports on holiday-related cargo reduction",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFpQZDNGdEVBYXcxWVk3S3hlcHltQVYxYVpnS0NrZ0duNUZFY094SWkyNVdBZktxVnQwODRTc2ZscGJPTGQ0bHlfSnA0NGlXZTJUTVpOdWREbXpVRmU3QVQ2N01PcWFjSEktQ1Iyb25FaGZnWC1mOGhFUkVuNmJuWUdHSlBFdnhWOWhzZ3JWa2p1Zm10QzJMbXFNYnU0b3FiRDFOZEdqaU5Ldw?oc=5",
-   "source": "Journal of Commerce",
-   "published": "2026-10-16T15:59+00:00",
-   "added": "2026-10-18T08:18+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "congestion",
-    "port",
-    "ports"
-   ],
-   "summary": "Congestion eases at key Asian ports on holiday-related cargo reduction Journal of Commerce",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
