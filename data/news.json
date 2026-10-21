@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T13:55+00:00",
+ "generated_at": "2026-10-21T14:32+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,90 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "61b15029da81",
+   "title": "Oman ends Salalah port concession, leaves US$200M in equipment unresolved",
+   "original_title": "Oman ends Salalah port concession, leaves US$200M in equipment unresolved",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXVmUmxmOW9mdWFxalJTckhfc0RKYmVZUWpZYmZMbkhJbktoSDc3RWNaTUlsT0VYeUJpWXQtRXlRbFdFazhiZmNSVE1WbkZXakhpZUJTbFpwV0xhR0lELUFxMDZtXzdKMGt6TW40VnZqbTBncVBuYW5xTlpDVUxNd3lRQmRwWHdSVlZuZzJpdEJVenpqaDFpR0tFZjQyU016YWtrbVZ0WQ?oc=5",
+   "source": "Food Business Middle East & Africa",
+   "published": "2026-10-21T14:25+00:00",
+   "added": "2026-10-21T14:32+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "ports",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East",
+    "Africa"
+   ],
+   "tags": [
+    "concession",
+    "port"
+   ],
+   "summary": "Oman ends Salalah port concession, leaves US$200M in equipment unresolved Food Business Middle East & Africa",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0ce39500b750",
+   "title": "Od Tesli i Boscha po port i logistykę. Ponad 70 wystawców na targach pracy w Szczecinie [ZDJĘCIA, WIDEO]",
+   "original_title": "Od Tesli i Boscha po port i logistykę. Ponad 70 wystawców na targach pracy w Szczecinie [ZDJĘCIA, WIDEO]",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbDE4SmVXeHdjS1lYci1Tb3owNDlrczJxUmFwWFVYY1lUdkViODB3WEZMSEZQVjdua0NhM3BXRUpRMTg1UXdBdk1TYVJyelhNWVJhMEJ3VVhSSmphRDE1a05MSHlhczRuRlN6ZDVlUVl3Tzl1eElCSmx6ZGtXblZteGlNaHBzekJrTzNCMVA2MWt5cy1CX25UZUZCSWxtMGhwdHpDZ3RyYzdqY0VkeE5rUU1RZEhxVUFLU3RyMmROV1MxMkFOZ3ZSRmNQalU5QQ?oc=5",
+   "source": "GS24",
+   "published": "2026-10-21T14:17+00:00",
+   "added": "2026-10-21T14:32+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "high",
+   "score": 9,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "logistyk",
+    "port",
+    "szczecin"
+   ],
+   "summary": "Od Tesli i Boscha po port i logistykę. Ponad 70 wystawców na targach pracy w Szczecinie [ZDJĘCIA, WIDEO] GS24",
+   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7c1400a9f6a3",
+   "title": "Pociągi z ciężkim sprzętem wojskowym i kontenerami. Szczeciński port kończy strategiczną inwestycję",
+   "original_title": "Pociągi z ciężkim sprzętem wojskowym i kontenerami. Szczeciński port kończy strategiczną inwestycję",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcXlfbmlDVnFDcEtGNDZ1TjJac3VtNzFaZjJTa1IyNFk5VGtoM1JnZ3JkR3RKT2pwTldLOHpyRzNoQ0FfWnNlRTdpdzhuOWJNa1RHR1V1Zk5BTS1tVnhZc0JmNUhpRjFhZ3RBZ0t4MENrMGstMFhKbVFIc0VNVTBmZm1waVR5VDExbEl4aXFLd3B0M1hfRVdoNzNrUXRNcU5ZQVdWcXVRbUR0RmVuS0QyNjZHZzNfa1hmVmJ1UkJ1Zw?oc=5",
+   "source": "Szczecin Wyborcza.pl",
+   "published": "2026-10-21T13:55+00:00",
+   "added": "2026-10-21T14:32+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "high",
+   "score": 8,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "port",
+    "szczecin"
+   ],
+   "summary": "Pociągi z ciężkim sprzętem wojskowym i kontenerami. Szczeciński port kończy strategiczną inwestycję Szczecin Wyborcza.pl",
+   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
   {
    "id": "ce848860deb5",
    "title": "KONGSBERG Wins 10-Year Vessel Traffic Service Contract At Port Hedland",
@@ -63,6 +147,31 @@
    ],
    "summary": "Kazakhstan’s Warehouse Market Faces Mismatch Between Supply and Demand The Times Of Central Asia",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6e756aceec8b",
+   "title": "Tylko 20 metrów, a wielka przebudowa. Niemcy dostosowują kolej do dłuższych pociągów towarowych",
+   "original_title": "Tylko 20 metrów, a wielka przebudowa. Niemcy dostosowują kolej do dłuższych pociągów towarowych",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMWU2SEZaU21PRWNSU09LSE9XOE9Mbzh6NEVJRUIyZjFJWjVaWDZxaFlxTXI3bmhJTnlqQWxhcUZYcGtpLTNSZ3RybThxRGItbXhGcFVWMExoODlOSk41WTJFN252OHFqQUVaWTdLekdKbVB4dDItVVZCa0o5Vjg1NFNXb0ZNZTZqaXk1SEcxdHMzSldGQ0o0THdzYnRFVmFxNUI0ak1XLXA3RjVhYXdxeWFJV0xudVpWN3BzZURZbjU5d2J4Z2lhUTBaUHVWem1sWUZSc1B0c0NyMzNDVUE?oc=5",
+   "source": "Kurier Kolejowy",
+   "published": "2026-10-21T13:33+00:00",
+   "added": "2026-10-21T14:32+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "kolej"
+   ],
+   "summary": "Tylko 20 metrów, a wielka przebudowa. Niemcy dostosowują kolej do dłuższych pociągów towarowych Kurier Kolejowy",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -143,6 +252,57 @@
     "disruption"
    ],
    "summary": "Yancoal’s met coal sales fall despite supply disruption Kallanish Commodities",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "98c86f3db69c",
+   "title": "Jordan’s Aqaba ports handle 20.5m tonnes of cargo as imports surge 35%",
+   "original_title": "Jordan’s Aqaba ports handle 20.5m tonnes of cargo as imports surge 35%",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPREN4LWItZGYta3ZWVThzd2t3REhjY3JHMXZuc3VIbng1eGNHOHRwMWp5bkNRcUtERmJTNDU4RU5pLUFwSzNTZFRXenRMVUxGcHBEcE1Wa0NaT296ZVk0MkpHZUwzWnlyLXFVVG96dVRUb1NJVDBocGlrY2JsV0ZzUmZXbUZkSnFta2E3QW1sTmhON0FJYWt3RUdlQzAxNW9waDRueXZHVzhuQ3hBZXc?oc=5",
+   "source": "Arab News",
+   "published": "2026-10-21T12:30+00:00",
+   "added": "2026-10-21T14:32+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Jordan’s Aqaba ports handle 20.5m tonnes of cargo as imports surge 35% Arab News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "04f5c81bd25f",
+   "title": "Have you ensured your fertiliser database details are correct?",
+   "original_title": "Have you ensured your fertiliser database details are correct?",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVpDQ2JNeXdxTndRMEhPS04wWW9hMEE4Z3JZYTVvVDFBWVFPVXBSZDM1bnRPZC1fWDByZnlLTlBTdjBHWVlrU0pDWTEyRzNNVl9rQ2s0dVdfVDdwTDBaWnktRW80Y0FHX0ZGNEE5R2dycTNPZkV6Sl9qVldOaWNwVGYxVjRrOUtPNmJ6S19zY3dZYzFGUjBVWXR4MElIdmRS?oc=5",
+   "source": "Agriland",
+   "published": "2026-10-21T12:30+00:00",
+   "added": "2026-10-21T14:32+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fertiliser"
+   ],
+   "summary": "Have you ensured your fertiliser database details are correct? Agriland",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -312,6 +472,34 @@
    "summary": "African airfreight is seeing something of a boom from the disruption in ocean freight across the Middle East, but forwarders remain sceptical as to whether it will provoke long-term structural benefits. Hennie Heymans, CEO of DHL Express’s Sub-Saharan Africa operations, told The Loadstar the shift from ocean services had left airfreight the only viable alternative to keep goods moving. “When people run into trouble from a seafreight point of view, the alternative becomes airfreight, becomes express, and that is a notable trend across African airfreight’s growth momentum at the moment,” Mr Heymans told The Loadstar . For DHL Express, the timing has proved particularly useful, coinciding with the launch of its Heavy Weight Express service, allowing its customers to ship consignments of up to 3,000kg, with individual pieces of up to 1,000kg. Expanding beyond smaller parcels, the new service is designed for automotive, energy, engineering, machinery, and pharmaceuticals, Mr Heymans noting the significant cost implications delays place on these sectors. “The timing of the launch worked out quite well, which makes the conversation a lot easier, and a lot more comfortable for those customers seeking these sorts of services,” explained Mr Heymans.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "a11f69c6834f",
+   "title": "ACCI, ASBON urge FG to attract UAE investments into ports, manufacturing",
+   "original_title": "ACCI, ASBON urge FG to attract UAE investments into ports, manufacturing",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU0xxaTkzaUpXVllnT1hMQnhuSlNocUNkcjNLNHRyOE1DNmt3bWo2b1paSmNCRG5oempKMjFhbVYyOXEtQmtHc3RyMUl5YUlWYm90ZncwS0ZFaUhTcXNkbksweUF0X3o0N0xjQWFVOE56X1d2NWM3d1E1MGJTWV8ySkNwR2V5aVRrZEZNckVaaUhQWlJwdGJkYkxQamFLS0J6V0M2QkJ3RnbSAagBQVVfeXFMTlNMcWk5M2lKV1ZZZ09YTEJ4bkpTaHFDZHIzSzR0cjhNQzZrd21qNm9aWkpjQkRuaHpqSjIxYW1WMjlxLUJrR3N0cjFJeWFJVmJvdGZ3MEtGRWlIU3FzZG5LMHlBdF96NDdMY0FhVThOel9XdjVjN3dRNTBiU1lfMkpDcEdleWlUa2RGTXJFWmlIUFpScHRiZGJMUGphS0tCeldDNkJCd0Z2?oc=5",
+   "source": "The Nation Newspaper",
+   "published": "2026-10-21T11:57+00:00",
+   "added": "2026-10-21T14:32+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "manufacturing",
+    "port",
+    "ports"
+   ],
+   "summary": "ACCI, ASBON urge FG to attract UAE investments into ports, manufacturing The Nation Newspaper",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "f872d2244a58",
@@ -501,6 +689,34 @@
    ],
    "summary": "Maersk implements fuel surcharge on Poland intermodal services Data Portuaria",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8cf7b0399a54",
+   "title": "SICORE Real Assets acquires its next logistics property – an asset of approximately 24,000 m² near Lyon",
+   "original_title": "SICORE Real Assets acquires its next logistics property – an asset of approximately 24,000 m² near Lyon",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUlJZaHBUVmRqdVFGWndsOVY2QVJiLWY0RXN1Z1U3T1ZVd2Fnc014N3FVSnJOLVFsdVFCQUpjdUdQajgzdG5MRzFfaU1YUTBNYTVaTmV2TDh6R0lfaS1JZHdtSE5TQVNhcFBaT0VNdVp1X01ueVowcnlJQ0o5MGlUZ0trZHZkN3M4bTU4UWNIT1RDR1k4VmswN09nNlhRS2xnbW4xZVRCd3pxR1QwM19TMG5KSzBob1FFUEhTR081WnBLSkwzbmJaZElR?oc=5",
+   "source": "ASSETPHYSICS",
+   "published": "2026-10-21T11:02+00:00",
+   "added": "2026-10-21T14:32+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "logistics"
+   ],
+   "summary": "SICORE Real Assets acquires its next logistics property – an asset of approximately 24,000 m² near Lyon ASSETPHYSICS",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   },
   {
@@ -2513,6 +2729,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "e411410478ab",
+   "title": "Gateway Dredging Delivers With Liebherr LH 60 C",
+   "original_title": "Gateway Dredging Delivers With Liebherr LH 60 C",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbll6QVJPeEpZQ0lpZk8tR1ZXcmhMN1pfLVhDSUJqNGNLZkZ4ZW1xTlBzZFpUeksyUnh2dTZub2JseUJPYVNVS1ZlU0ZkSVRJUmdvVGo4eTA2cU5vNE5Mcmt1VWN1QjN4MHBrX3dPeVI4dDM1UTJxeU1RYmNyeWNMLUpEcExoRFpmX0ZPc3cyN0tvUlc4QWJoWUI2Sk4?oc=5",
+   "source": "Construction Equipment Guide",
+   "published": "2026-10-21T04:00+00:00",
+   "added": "2026-10-21T14:32+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "dredging",
+    "liebherr"
+   ],
+   "summary": "Gateway Dredging Delivers With Liebherr LH 60 C Construction Equipment Guide",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b95543f34b95",
    "title": "Nearshore vs Offshore Sourcing",
    "original_title": "Nearshore vs Offshore Sourcing",
@@ -3676,6 +3919,31 @@
    ],
    "summary": "Russian Diesel Cargoes Continue to Intended Destinations After Export Ban Lifts Maritime Logistics News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "40c4919ef839",
+   "title": "Avaada will invest in green ammonia and methanol in India",
+   "original_title": "Avaada will invest in green ammonia and methanol in India",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IWk01eWxjZUxONDEyZFJGcjNwbTYzVUNpMmU5cDk5eVhhYVdadE5haWRyTlNYdG9YOFZjYmFJSzFzYmxUUEtTWnJkc0kxRzlLaUdwdVU0WTVsRE9CbVYyVWdwaFpiT1pWcEg3WjNzR3o5Z0RkQm0yN0Rn?oc=5",
+   "source": "Inspenet",
+   "published": "2026-10-20T17:10+00:00",
+   "added": "2026-10-21T14:32+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "ammonia"
+   ],
+   "summary": "Avaada will invest in green ammonia and methanol in India Inspenet",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -12166,6 +12434,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "77991d45da82",
+   "title": "Port of Rotterdam’s breakbulk throughput slips",
+   "original_title": "Port of Rotterdam’s breakbulk throughput slips",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUVETXY3WWhVZmZmdHlZMFVqRHhUbURILU5xZ1dDNXZsT1FUc0I4MktSNlBIYllJcDFVOWNfV0JtTG44TDhOcVlCRzlSWWhma3hlVGN1Q1NHbzNZUmQ0N055azJTdkFMU29mWEZyNXNfbUR4SE5XaGw3WFlDbGVib3NyS1BoN2lyNUFRb2RiVnZkUk0zTnBFZ0RUN0VHLU96UlotNWlKc2Vzdw?oc=5",
+   "source": "Heavy Lift & Project Forwarding International",
+   "published": "2026-10-19T08:57+00:00",
+   "added": "2026-10-21T14:32+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "forwarding",
+    "port",
+    "throughput"
+   ],
+   "summary": "Port of Rotterdam’s breakbulk throughput slips Heavy Lift & Project Forwarding International",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "88e3ae63d75e",
    "title": "Wheat Prices Rise on Russia-Ukraine Conflict",
    "original_title": "Wheat Prices Rise on Russia-Ukraine Conflict",
@@ -16276,303 +16572,6 @@
    ],
    "summary": "Zelenskyy warns of continued Russian attacks on Black Sea ports UkrAgroConsult",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "04ca9e462ebd",
-   "title": "Trump's Russia Sanctions Waiver: India Trade & Shipping",
-   "original_title": "Trump's Russia Sanctions Waiver: India Trade & Shipping",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ0s3dlZCMFYzUmhTOUlnNUNQYW9RWFhEc2JrVF8ycFU2dlBlSmJJb0Qwd21KOC1WU3BsNnFtZDZQM2ZyUlU4ZXI2dnJyMk5CeVAtS2doMEY3dUNlRWUtVFU2ekRqMG41X043NXZDbjB5VU5SRnJGR3M4Y2xmR21oYXhRM2w2eElwaFQ4?oc=5",
-   "source": "Logistics Insider",
-   "published": "2026-10-17T12:51+00:00",
-   "added": "2026-10-17T14:15+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "russia",
-    "sanction",
-    "shipping"
-   ],
-   "summary": "Trump's Russia Sanctions Waiver: India Trade & Shipping Logistics Insider",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f864888b187b",
-   "title": "The Autonomous Ocean: Preparing NATO for the Future of Maritime Security – NAOC",
-   "original_title": "The Autonomous Ocean: Preparing NATO for the Future of Maritime Security – NAOC",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUxKamotTUYtWGNKbFlvNS1tME9idXVIc2RZb0Q5Y2t0bTM3dTlFVS1wZVRiR3hTa0FtN3JIY21EUU1GTkNBa3JOZ29LV0dKQ0R0blJXcEtQZ3RTLUQxTXA3NEpXQWJaaXJaZE50aTNaVWRKdXBaV0drSDVIeVJJV29OZEMzbXZYd21UTldjaHZLNkNlNTVzcDJYTXlZWE9W?oc=5",
-   "source": "NATO Association",
-   "published": "2026-10-17T12:00+00:00",
-   "added": "2026-10-17T12:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "autonomous",
-    "nato",
-    "security"
-   ],
-   "summary": "The Autonomous Ocean: Preparing NATO for the Future of Maritime Security – NAOC NATO Association",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "08b309aa0d27",
-   "title": "International report - Shipping attacks threaten Turkey's resolve to keep warships out of Black Sea",
-   "original_title": "International report - Shipping attacks threaten Turkey's resolve to keep warships out of Black Sea",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOanozenJveE1WNDBUM1ZRamtQRUpESTJWSExUVVdUVzJfeDctY2M5VU9LN3YwbXRxWnpBYnNlZ1N0OEpHZnhURmYwOXpRT3Q0dml0emlGUUd2U09VMDEwQ193bmlnYkp4V25USDcyT0NveGtxZGljdEFMZnZDazRJWXU2ZGEyQ0FPRGJ0bnk5QTV5THBQdXl1N0VObjBkU1NvVkZOYzZWR0ZoUkRVamNpVF9HaWZndGUzUlBaQmN4ZFZ6NGs0VzVvWEV4SE16YTRabXhr?oc=5",
-   "source": "RFI",
-   "published": "2026-10-17T11:43+00:00",
-   "added": "2026-10-19T06:39+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "shipping"
-   ],
-   "summary": "International report - Shipping attacks threaten Turkey's resolve to keep warships out of Black Sea RFI",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2ba854e38683",
-   "title": "Oil Over $100 as Markets Struggle to Balance Amid Tanker Attacks and Shipping Disruptions",
-   "original_title": "Oil Over $100 as Markets Struggle to Balance Amid Tanker Attacks and Shipping Disruptions",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORUpWdndacWNoS3lBUW8yaElkN29EZ3Foei1RSTdheUxMNVE4WHZjbUhVSVdYcVBvUy1CUnBmWXdfWVhMMnZiMEdxb1hqeDBQdmx4WDc4a0N5d2ljUm5tVW54QzdwS2NRdElZNTllMjhIUmlLY3R5TGphNWttSTZjQXVBS2NtNGxsN01meFBPVjAydzhNdmpXVlI3d1N2RzVkX0JZcVMtSUxKWWNQNVBBTTdxOW9QTmhzSEk1TF81VWU0alk?oc=5",
-   "source": "Energy News Beat",
-   "published": "2026-10-17T11:33+00:00",
-   "added": "2026-10-19T01:40+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "attack",
-    "disruption",
-    "shipping"
-   ],
-   "summary": "Oil Over $100 as Markets Struggle to Balance Amid Tanker Attacks and Shipping Disruptions Energy News Beat",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "578286520ab2",
-   "title": "Kazakhstan to export grain, meat and vegetable oil to Cambodia",
-   "original_title": "Kazakhstan to export grain, meat and vegetable oil to Cambodia",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcnEtdi03ZzlYSXg0eVU3OVVyR0V3dkFqSWl1UW50VklGSnZZNmU5WVV5N0FlUmpuQ01vUGtxTW9pQTVnNTJPNkoyNlh4M2RtMVNybDVhTkxrLUUwQlBFUmh4Mks2N09nTVV5Y24wSDgwMEc1OGlzX2RfZkhucWRCRVFqNGZFSlBiZm9BbjI3aVJWZUdEeFU5NVJPQdIBmwFBVV95cUxOcnEtdi03ZzlYSXg0eVU3OVVyR0V3dkFqSWl1UW50VklGSnZZNmU5WVV5N0FlUmpuQ01vUGtxTW9pQTVnNTJPNkoyNlh4M2RtMVNybDVhTkxrLUUwQlBFUmh4Mks2N09nTVV5Y24wSDgwMEc1OGlzX2RfZkhucWRCRVFqNGZFSlBiZm9BbjI3aVJWZUdEeFU5NVJPQQ?oc=5",
-   "source": "Qazinform",
-   "published": "2026-10-17T11:25+00:00",
-   "added": "2026-10-17T22:28+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "Kazakhstan to export grain, meat and vegetable oil to Cambodia Qazinform",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6ea6f3e1bf1d",
-   "title": "In some U.S. states, Trump’s trade war has made Canada an election issue",
-   "original_title": "In some U.S. states, Trump’s trade war has made Canada an election issue",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaW5LREdtcjgzUXU0SkhxSFZqRlFqZDdGY1F3OGF3SFA5eElqYjRfMG5XWkhrVHByV1VHVUhSNlFtdWlsMjhDWDlhWDZCVVVsTjUtVEJqNTlNanFlMU5jSm4xa1ptUmM5NGFiYlhDWTNRbHhsdzNZYXRpN0Z2VVdXQlFxZnNaSGZNbGV3dXh0MS13SHlIdEhxSUNIaUpQbE11cWlYcFNmcjdqZVQ3aTV0Vnl6Q041Smc?oc=5",
-   "source": "The Globe and Mail",
-   "published": "2026-10-17T11:00+00:00",
-   "added": "2026-10-17T16:35+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "trade war",
-    "war"
-   ],
-   "summary": "In some U.S. states, Trump’s trade war has made Canada an election issue The Globe and Mail",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b440dc251a5b",
-   "title": "NEW SILK WAY Forum Discusses Middle Corridor Development",
-   "original_title": "NEW SILK WAY Forum Discusses Middle Corridor Development",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVEctNWJRWWNxdHBXbjhyQzdJLUtobGtVYzZCRGFSQ1pyOEd1MTZudUNUd1FfYlMtNUhBMjktdU1pMndIVDk0Rk16VTFKMnlJNXNxcnQxcnZ4d1Z2Nm9NOUJhRW9uMjNPclpacTRraUFWaFVsR01rd2dFRmhIdTI1RWd3RF9aZ3RiZG9Z?oc=5",
-   "source": "UzDaily.uz",
-   "published": "2026-10-17T11:00+00:00",
-   "added": "2026-10-20T01:13+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "NEW SILK WAY Forum Discusses Middle Corridor Development UzDaily.uz",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "50b3909d1998",
-   "title": "Ukraine’s grain trap: where to put the 2026 harvest and what prolonged export restrictions could lead to",
-   "original_title": "Ukraine’s grain trap: where to put the 2026 harvest and what prolonged export restrictions could lead to",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1RLNTZueTNTUUxwdXRycWo2R2kwdEtBUnNkeEtDU3lHdTEwOGlYYjRLQUU2YXRIUjYtRXlzTVV6Qi1hZTllM1NWUlp4NG80aWlyUkhWRld2OTJZVGhJemk2ei1ZSGZZR2tPejJaSEZzLVBJc2llTXNLdlRVNWtBb3dTMEdPMzU0RHdBWldLLTNFcm1fSjdMbmdXb3p2SzR2RGxnZ3dXS3VCR0pBMURFN0RLVHJzN2VOWU5GOHpId29QeEXSAcIBQVVfeXFMTUE4cEJLeENGZXM2bVlPaHpxV1BzeXpSaHVZQXlYN1BQWTJGWWNybEd6YXNGSHRvZVdKaDMyLWkyc2VLNy1DSlpxem9kakppR085NGs0djh2UjJWemhMaG1icFlpZkZCVzlPd3g4MnMxci1lQ0w4SFlreHp5V19MamNjSUJ0UTlDdFJ5VlhSenNfTlRtWWhaNGxPb1diS24tNkVtankzMUR3V2NoLU5TVjJJVk11aDQ0VE43QnZCZDJ6LVE?oc=5",
-   "source": "Українські Національні Новини (УНН)",
-   "published": "2026-10-17T10:59+00:00",
-   "added": "2026-10-19T20:06+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain",
-    "ukraine"
-   ],
-   "summary": "Ukraine’s grain trap: where to put the 2026 harvest and what prolonged export restrictions could lead to Українські Національні Новини (УНН)",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4d4238e22af7",
-   "title": "News Sentiment Offers Only Modest Extra Power in Forecasting Polish Electricity Prices",
-   "original_title": "News Sentiment Offers Only Modest Extra Power in Forecasting Polish Electricity Prices",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlNVWnd2OV9ITmc1cjB3RXFRbnRpWmZOYnFMaWIxYXBFRmZ6TlhBaHlXaGNTR3dNdmJ1bW5GczVtRVVjRFdFVDRZaFQwemlJWEh4NXBjLXBmOHdSN3lDLWduRldXN2RKVmlXdi1kYWUtSHhONm1XbjRrbE1EV0NXdVRTbzhNTEdoczVkaWs2dlZWcmMzdE9Hd2w2Q3JGdkM1dWtmaHRFamcySzk4OGhWZA?oc=5",
-   "source": "Bioengineer.org",
-   "published": "2026-10-17T10:56+00:00",
-   "added": "2026-10-18T12:39+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polish",
-    "prices"
-   ],
-   "summary": "News Sentiment Offers Only Modest Extra Power in Forecasting Polish Electricity Prices Bioengineer.org",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9aa3e7ab2c8a",
-   "title": "Kazakhstan, Cambodia discuss Trans-Caspian link to Asian corridor",
-   "original_title": "Kazakhstan, Cambodia discuss Trans-Caspian link to Asian corridor",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3LUJ6NFJJUWtBeVRyaHBvWC10UkNRSk5tdklMTThoQnIta0dIZjh6VmNTbGIzM09Oanh6YkFQdHl5bDdqQldtYnpDOVpaTk5PZTBxRjVmamZMT2dLNkdn?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-17T10:55+00:00",
-   "added": "2026-10-17T12:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "trans-caspian"
-   ],
-   "summary": "Kazakhstan, Cambodia discuss Trans-Caspian link to Asian corridor Trend News Agency",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "916c0fccd881",
-   "title": "China provides USD 336m loan for Mongla Port modernization",
-   "original_title": "China provides USD 336m loan for Mongla Port modernization",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2JCX2FwVnJnSEk4RUdkUG8wYXZORzIxZUlFcVEtejVhc2FqQUQ5cWxYMFkwRHF6TDRqc3R6dG1RVDNnNnhkMm1pY1YzY2VuN19WQUlRMmMxbndmY1ZoQkpuVDBFazB2X293OVhxbl9YWENiMENaQjdUWWNzQWpxVTRucEk3RTFWbWpESzNidmZ0TUVLcHA5NFlwZ255bUE?oc=5",
-   "source": "The Bangladesh Monitor",
-   "published": "2026-10-17T10:23+00:00",
-   "added": "2026-10-17T11:48+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "port"
-   ],
-   "summary": "China provides USD 336m loan for Mongla Port modernization The Bangladesh Monitor",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
