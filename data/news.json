@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T18:56+00:00",
+ "generated_at": "2026-10-21T19:32+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,67 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "ab8f3a210cd4",
+   "title": "Europe is de-risking without deglobalising",
+   "original_title": "Europe is de-risking without deglobalising",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hUXJHMFdsc0RBX19xMDI4N2VmT3psNVh6RlkxQXhNTDF5MHdPWjM1UXFjOU1BdjE1bDU2bGE4SlEya3JiNlJmVjVEV0dsdTVqX1ZsVTJGOVN2WFhrUnlWUFVfUnpBbHAxRzI5eExUUlltVWZNSW43ODV2YlNBYUE?oc=5",
+   "source": "ing think",
+   "published": "2026-10-21T18:01+00:00",
+   "added": "2026-10-21T19:32+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "de-risking"
+   ],
+   "summary": "Europe is de-risking without deglobalising ing think",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "66e6d344f08e",
+   "title": "U.S. Sanctions Law Firm, Shipping Agents and Nine Vessels in Iran Shadow Fleet Crackdown",
+   "original_title": "U.S. Sanctions Law Firm, Shipping Agents and Nine Vessels in Iran Shadow Fleet Crackdown",
+   "url": "https://gcaptain.com/u-s-sanctions-law-firm-shipping-agents-and-nine-vessels-in-iran-shadow-fleet-crackdown/",
+   "source": "gCaptain",
+   "published": "2026-10-21T17:54+00:00",
+   "added": "2026-10-21T19:32+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "commodities",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Russia & Belarus",
+    "Middle East",
+    "North America"
+   ],
+   "tags": [
+    "commodit",
+    "fleet",
+    "law",
+    "sanction",
+    "shadow fleet",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "US Treasury Secretary Scott Bessent looks on as he speaks to the media at the World Bank on the day of a meeting with Chinese Vice Premier He Lifeng, in Washington, D.C., US, September 23, 2026. REUTERS/Nathan Howard The United States has imposed a new round of sanctions targeting a law firm, shipping agents and nine vessels accused of helping Iran move oil and other commodities through international markets, expanding Washington’s crackdown on the networks supporting Tehran’s shadow fleet. The U.S. At the center of the latest action is Karnakis and Karnakis, a law firm operating in Panama and Greece that Treasury says has spent years establishing shell companies used to conceal the ownership of vessels transporting Iranian petroleum, petrochemicals and steel. The law firm also played a key role in establishing the corporate network behind Iranian liquefied petroleum gas magnate Seyed Asadoollah Emamjomeh, whose shipping operations have transported hundreds of millions of dollars’ worth of Iranian LPG and crude oil. The action represents a broader effort to target not just the vessels carrying sanctioned cargo, but also the legal, corporate and logistical services that allow shadow fleet operators to function. Amigoz was also linked to vessels associated with the shipping network of Mohammad Hossein Shamkhani and provided bunkering services to the previously sanctioned shadow fleet vessel ZIXUAN.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "8c8985bf31cc",
    "title": "Szczeciński port z nowym węzłem. Kolej usprawni transport [WIDEO]",
@@ -644,6 +705,36 @@
    ],
    "summary": "W szczecińskim porcie zbudowano multimodalny kolejowy węzeł przeładunkowy PortalMorski.pl",
    "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0b18aadbaf58",
+   "title": "Durban Port, South Africa, congestion forces carriers to adjust vessel operations",
+   "original_title": "Durban Port, South Africa, congestion forces carriers to adjust vessel operations",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRUdaWFlCeEgxb0QzVS1qSm45YU9LMS1UYjJINWFzWXYwWnczN0lTTGxqMkkyZ0lhMGM2NE5OMDJPaVRnMHdMLWtDMTVvcFdobTBnR21GTDR6Ry1lWV9mZURLX0JlVVgyVU8xRDJGdkI1SlVGU0ZLdHRrOU5ub3drZEVvNGlDMHJHaGgyc1MwRQ?oc=5",
+   "source": "Kuehne+Nagel",
+   "published": "2026-10-21T13:03+00:00",
+   "added": "2026-10-21T19:32+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "ports",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "carrier",
+    "congestion",
+    "port",
+    "vessel"
+   ],
+   "summary": "Durban Port, South Africa, congestion forces carriers to adjust vessel operations Kuehne+Nagel",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -16469,87 +16560,6 @@
    ],
    "summary": "Ukraine Talks with Turkey, India, Egypt Over Grain Corridor Bloomberg.com",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7e24fac965af",
-   "title": "Green steel can help Defence – which can help green steel",
-   "original_title": "Green steel can help Defence – which can help green steel",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaW0tM1dyZkJhOXFGZHViMVNNZ1pkNERKMUF0SXYzdmlUbWFNNHo5TnBiVVJJcXE3d2ZqbTBqMFJ5dkJJNllENi1PREZOLVpDQnJmVHZxRzI1VEV2Z3ExNF9najY5bmRsanRoaXBWeGtocnhhVDRnMkNDd1VrdzVZZGJDdWp4MEZyWnZyTDFqeUNwLWVm?oc=5",
-   "source": "The Strategist | ASPI's analysis and commentary site",
-   "published": "2026-10-18T19:04+00:00",
-   "added": "2026-10-18T22:58+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "defence",
-    "steel"
-   ],
-   "summary": "Green steel can help Defence – which can help green steel The Strategist | ASPI's analysis and commentary site",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d29e51ea0798",
-   "title": "As CM Ports Exits Colombo Project, US Invests $17M in Port's Digitalization",
-   "original_title": "As CM Ports Exits Colombo Project, US Invests $17M in Port's Digitalization",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbnBQUkd4emNTcGRvVk9JMEV6X1owZjVYNEpsRndDSXN6Y3FES1BXa3llZ000V0toM3dZTHRuZEZQWDB5YnBfNDJJQkJHMGIwWGthMTJPZ2l2LXBaYmxlbU9lLURLcTZuZkZVSFFXeXpTS2gxb09GT3RwZ2pWMWIwemwxR0lkdElKdmdRbFhVa0V0Z1VNYjVOV2tmX3Y?oc=5",
-   "source": "The Maritime Executive",
-   "published": "2026-10-18T18:59+00:00",
-   "added": "2026-10-19T10:19+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "digitalization",
-    "port",
-    "ports"
-   ],
-   "summary": "As CM Ports Exits Colombo Project, US Invests $17M in Port's Digitalization The Maritime Executive",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8e612a0a3b67",
-   "title": "Port in peril — former Transnet workers recalled to cover for Durban Gateway Terminal",
-   "original_title": "Port in peril — former Transnet workers recalled to cover for Durban Gateway Terminal",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZmwzdDFBN1JydElmSmVMRnMzWE56UWJlVV93VkNZWUhQZVlkbkhLanNfTDlxNlp2X2FxTVZKNGlndTd2bHhLTXNEaTl2RF90aFJGNDU1SldjNDc4U2xPRklWbzBUeUFwUUYyWTJ1LU1pRFl2YXgyTEphSDhMN0hKelhGaHk4U29VZ0tWTy11bzVESEJuSlRaaXM2eGFmM05Qbmo1cXBXWld5RTloWDJHVE85OEZZRldoeU9Jd3hPM1lHVGIwUzdwZVlJVEVtR3Ey?oc=5",
-   "source": "Daily Maverick",
-   "published": "2026-10-18T18:44+00:00",
-   "added": "2026-10-20T07:17+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port",
-    "terminal"
-   ],
-   "summary": "Port in peril — former Transnet workers recalled to cover for Durban Gateway Terminal Daily Maverick",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
