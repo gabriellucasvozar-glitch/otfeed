@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T17:36+00:00",
+ "generated_at": "2026-10-21T18:10+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -150,6 +150,63 @@
    "summary": "European wholesale natural gas prices surged on Wednesday, with both major regional benchmarks gaining over 3% as hotter-than-expected British inflation data and ongoing Persian Gulf energy disruptions heightened anxieties over winter fuel adequacy. The benchmark Dutch TTF front-month contract rose 3.1% to trade at 87.95 euros per megawatt-hour (MWh). In Great Britain, the equivalent NBP natural gas futures contract similarly advanced 3.2% to 216.57 pence per therm, with both contracts holding near their highest levels since late 2022. Wednesday’s gas rally coincided with fresh macroeconomic data highlighting the acute economic toll of elevated energy import costs on the British economy. Official figures showed Britain’s annual consumer price inflation accelerated to 3.5% in September, up from 3.1% in August and exceeding market consensus. Lacking large-scale long-term gas storage infrastructure, the UK relies heavily on real-time imports of pipeline gas and Liquefied Natural Gas (LNG) cargoes to meet domestic power generation and home heating needs. The European benchmark remains up approximately 210% year-to-date. With maritime strikes and transit friction restricting LNG flows through the Strait of Hormuz – keeping Middle Eastern deliveries to Europe nearly 80% below year-ago levels—European utilities face intense competition from Asian buyers for uncommitted Atlantic basin cargoes.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "extract"
+  },
+  {
+   "id": "8544cc8c2944",
+   "title": "US imposes sanctions on Greek, Panama law firm for helping Iran shipping",
+   "original_title": "US imposes sanctions on Greek, Panama law firm for helping Iran shipping",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOWczNnpGTC1tSWRIcnE5S1hmVGUzMjdaYk1HdXZyYTBUdjR6ekE2NlN5QURjQmFUU3czRk5GNm05V05vYk1odndEdkxZeFkxMDVrbGl5NkdHaG5meWlxZ2ViaEpjRHZnTjFtbmU0R3FycjlnR3lVV2M4ZTJaWUp0R0dzWkN5TjJudjlfWjRTY1cydU1nOHNrNm9ibjdzaW10NWlUZG0xSC03MUtGV1FZb0FuQ2VlaV9uRXh1bklLdHdOY0psbFctSNIBzgFBVV95cUxPa3NMTXBWNnc2TUc1N3N1dXVxWUdOb185YlpsdVVBal8zaHh6OGJVVkpTZXBUVEpkY0tucTRYTWNuZkdlQlRWVmZTNjVySC1KU09iZUJXdF80TlJyNkZUSThuWXBvNy14RWJ5N0lhT2JaRUJrWmMtbjVqTmdrN3dRa3A2QThFRk5EV3Z4VnBfdXo4dzdwMW9hcGpUYll1UVRIWmhkMGtVeERkcEI5d3N5eWtjU3VhZkxOUmpvWHpLOHN3aFlacHRLZlhxZ2kxUQ?oc=5",
+   "source": "Al Arabiya English",
+   "published": "2026-10-21T16:55+00:00",
+   "added": "2026-10-21T18:10+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East",
+    "Latin America"
+   ],
+   "tags": [
+    "law",
+    "sanction",
+    "shipping"
+   ],
+   "summary": "US imposes sanctions on Greek, Panama law firm for helping Iran shipping Al Arabiya English",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1085c33d87d9",
+   "title": "Middle East oil exports recover, but shipping risks keep crude markets volatile",
+   "original_title": "Middle East oil exports recover, but shipping risks keep crude markets volatile",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3B5ZkExZjBFOHFUbVFvMXlSOHdEbGhfRUNWN1JKc2MyemlkOFVOby02Z1lBR19pTUlUZTN5Qmc3U1g2WUhqLUZCdzB3WFUyWWo1Ui1iQlBuMGZ6VWcycXR6RjA3TFRfcnl2Ny1GeWVUTndjV3U2dHJaZTFCWHFpWm9MSTkteXo5d3dmVlVNcjU4aEozRDZ1QmJDcVFaRTA2NHo1WGktZnNjT3Js?oc=5",
+   "source": "Oil & Gas 360",
+   "published": "2026-10-21T16:38+00:00",
+   "added": "2026-10-21T18:10+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "shipping"
+   ],
+   "summary": "Middle East oil exports recover, but shipping risks keep crude markets volatile Oil & Gas 360",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "7d6163130362",
@@ -319,6 +376,34 @@
     "terminal"
    ],
    "summary": "Beyond the Terminal: Inside Alton Aviation’s Vision for the Next Era of Airports Aviation World Magazine",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "303a6390bda5",
+   "title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
+   "original_title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQVlLNlM0SDkyeXZRaHlSeC1iMm1jZ0NTNHQyM2RRb0ZaUGdXYnFXc2VsdVBBSTFfWnhPaXIwUXlNVzA1U19wcEJSaWJCS0tLLUlMWUZLd3ZCVER4RU9feG4yMy1wbUpOVG5QeWFybjVIUE9sc0t5bnBxc0ZSNTdMLXdtYUZZMEg3UGVDb0Vkb21reGhmWmdBNDNSTF9OdFFET3YzelJWUmt4Y0trNmpoVjRXelhkemRtUFE?oc=5",
+   "source": "Offshore Energy",
+   "published": "2026-10-21T14:34+00:00",
+   "added": "2026-10-21T18:10+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "lng",
+    "poland",
+    "terminal"
+   ],
+   "summary": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery) Offshore Energy",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -563,6 +648,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "571516f4aa5e",
+   "title": "Dark fleet becoming a permanent fixture in world shipping, officials say",
+   "original_title": "Dark fleet becoming a permanent fixture in world shipping, officials say",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeFdmSXBFaDNfdm5qb0tmbmNOSmVPbW5VU3hMNjVwT0h6cjVKWVVDUGd3R0FJMW9kTk92S0lTSW5YdFVHZ1VjYklTRHFRbDEwOUx4VUh3S3dMSnpPUzNmWjNPVGhCUnVtRHZvMzdSbEw2QlVUd0tjTS1jS3JZMGE0QllwM3ZNTms0U0pBZ2FCZnFrZnh1MHlhSTBBXzJpOHJFS09ZTWtLaTZpUTYzUW5uTWpvUVlKa0FCcE1nUTFIcw?oc=5",
+   "source": "TradeWinds News",
+   "published": "2026-10-21T12:50+00:00",
+   "added": "2026-10-21T18:10+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fleet",
+    "shipping"
+   ],
+   "summary": "Dark fleet becoming a permanent fixture in world shipping, officials say TradeWinds News",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
    "id": "484cf21e29ee",
    "title": "Yancoal’s met coal sales fall despite supply disruption",
    "original_title": "Yancoal’s met coal sales fall despite supply disruption",
@@ -745,6 +856,33 @@
    ],
    "summary": "Farmers face Friday deadline for fertiliser aid worth up to €4,000 Irish Farmers Journal",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "14343f1e7575",
+   "title": "Największy port Ro-Ro w Skandynawii notuje wzrosty",
+   "original_title": "Największy port Ro-Ro w Skandynawii notuje wzrosty",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2RZUU90aEl2cEJtWmdMMUpsaVdCc0FmU1N5dE0ydXBlMkI3VHozeWtDMUlLa25nRGN6eUc1UkY2LWw4SjN3NDcxZHdJbk1IZlYwSTVKZUFCZVh1Rl80ZlFqc1RReVY2UUIxTkdtNFdPNUE4UWViRUlfYjVlbWkwUkRhSTVSWFF0UmpNMjlFa3JLUQ?oc=5",
+   "source": "GospodarkaMorska.pl",
+   "published": "2026-10-21T12:18+00:00",
+   "added": "2026-10-21T18:10+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ro-ro"
+   ],
+   "summary": "Największy port Ro-Ro w Skandynawii notuje wzrosty GospodarkaMorska.pl",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -1402,6 +1540,34 @@
    "summary": "AG Seville Shipyard has won the competition to continue operating the ship repair facilities at Spain’s Port of Seville, clearing an important hurdle for a proposed €10m ($11.2m) investment programme. Seville Port Authority’s board approved the selection of AG Seville Shipyard on October 20, allowing the company to retain its position at the former Astilleros del Guadalquivir facilities. The operator’s existing concession expires in December.The new concession will cover approximately 22,000 sq m of port land and infrastructure, including the dry dock, the southern section of the Muelle de Armamento and a disused slipway. The concession can run for up to 25 years, although final administrative approval is still required before the new agreement becomes effective. AG Seville Shipyard faced competition for the facilities from Spanish maritime group Boluda, which had also expressed interest in taking over the site. The successful operator has controlled part of the former Seville shipyard since 2017, developing ship repair and maintenance operations at facilities that had suffered years of decline following the collapse of the former public shipyard. The larger €10m programme is AG Seville’s proposed investment plan, rather than an amount separately confirmed as contractually committed in the latest announcement. The port authority also approved an additional €4.2m ($4.7m) for improvements to Seville’s port free zone.",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "f321ed2a9a9b",
+   "title": "East of Suez: Dubai at monthly high, Singapore mogas crack slips",
+   "original_title": "East of Suez: Dubai at monthly high, Singapore mogas crack slips",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVFua2I5TWwwbTliQU5yeXNBUlZ4MnhMdnZSTUV4aGZGcldJS21WUTZlLW9RYndQWGVQbkRHdTB4LXhBdVVhaEhpak1qMHVqZVlyUm9TRDRtaklsNzUySEVnRUdTc3pxUHJKTTBzRGwwQ01nVzBxR2RMMGFsbTFNak13bExMdHVJOFZFaE1QTXJ5WmxQM0cxbE1mNVlXN2dNWTFLNUw3NU4?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-21T10:28+00:00",
+   "added": "2026-10-21T18:10+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "commodit",
+    "suez"
+   ],
+   "summary": "East of Suez: Dubai at monthly high, Singapore mogas crack slips Quantum Commodity Intelligence",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "d84fef56c5ff",
@@ -3395,6 +3561,32 @@
     "iron ore"
    ],
    "summary": "Fortescue (ASX:FMG) Reports Record Iron Ore Shipments and Advances Energy Projects Kalkine",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "715ba9856ef1",
+   "title": "Oil prices little changed as traders assess Middle East developments",
+   "original_title": "Oil prices little changed as traders assess Middle East developments",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGJ5Y1pPUDFBa2J6dUEwc0RnYmVRWnNFQmhTNjhsa1ItUVBFZG14cGVzTU1kZ205RDN4Mmcyd1pzQjRJNGl6N2F1Nng2WlBGSWVZd2JBSXVYWmFNTnpZRWxBZTVqUmdaVFNRRUEwczJtcC1PcnhDSkN3RXU2eWllNlZGcFQyQzVzaXA3V09PTXYwVVAx0gGaAUFVX3lxTE95am5EZGd5cEZod2RCX0FMZTdIOE1paDJvTUQ2OERsckxsYVZON19rZ0JWbTZYWDhVZXlqU0dNRm0ydlp6dUVxQkcwU1VtbWFRWE9kRk5PLUNubG9MSWF5anBIQThhQ0FKS0UzaHVRdXRRN0V2Nkl2SFVHV05JaThJZFlMT2tsY1ZxdUxDUUJZRFBpN1hHSjJ2TkE?oc=5",
+   "source": "CNBC",
+   "published": "2026-10-21T05:27+00:00",
+   "added": "2026-10-21T18:10+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "oil price",
+    "prices"
+   ],
+   "summary": "Oil prices little changed as traders assess Middle East developments CNBC",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -13678,6 +13870,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "4a8bfe0293dc",
+   "title": "Zelensky asks Romania and neighbors to allow transit of Ukrainian grain shipments",
+   "original_title": "Zelensky asks Romania and neighbors to allow transit of Ukrainian grain shipments",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHNOV1ZaVFlaRC1FcURqeFJMVW04VkF4TG5TSWVFOERhUlJ1NjR1U1hZYlZJZXNWdXJTbGM2aVp6VWFjMldhZFc5MFVhTzdFX0ZmbFpZYzc1cklCVHJYX21qc3o0T3l1a0dEdFFmVm5ZX291dWF5QnlkeUx1MmRuYTBfcjVhS2dQTmNXaUtVTnNNZU9vaVljbFdnZUY2aUZ1Sjgw?oc=5",
+   "source": "Romania Insider",
+   "published": "2026-10-19T08:05+00:00",
+   "added": "2026-10-21T18:10+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Zelensky asks Romania and neighbors to allow transit of Ukrainian grain shipments Romania Insider",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3c083d1aca13",
    "title": "Budapest is ready to allow Ukrainian grain transit to Western Europe",
    "original_title": "Budapest is ready to allow Ukrainian grain transit to Western Europe",
@@ -16343,219 +16561,6 @@
    ],
    "summary": "Timaru port container operator decommissions original crane The Press",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "693380b92c65",
-   "title": "Kolej towarowa w UE traci rynek. Czwarty rok spadku pracy przewozowej",
-   "original_title": "Kolej towarowa w UE traci rynek. Czwarty rok spadku pracy przewozowej",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOXpVQ09mMThMc3Mya2g4YXllRU5xbmdiTzI1WmhXYUFnNXpiVXRHSnlHNllvM2phMnNiVEVRdzVnSkVaeDFqa0ROZFJiSHlQYnV3QzRsTjFNbW5PNlQtYWItOHNxd3NVUGx0bjBZU05pZTBWM2RpQWF3dV93Tk1QTWp6OTkwRXhpRExKckNtbmdlamszNFNHLTM5X01mR3FqQjF3LWJCRVNYa2JLN1NWM2p6czdlYWc4T0J3?oc=5",
-   "source": "Kurier Kolejowy",
-   "published": "2026-10-18T13:46+00:00",
-   "added": "2026-10-18T16:02+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "kolej"
-   ],
-   "summary": "Kolej towarowa w UE traci rynek. Czwarty rok spadku pracy przewozowej Kurier Kolejowy",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "147893a5bfcc",
-   "title": "How Long Will $100 Oil Last? Hormuz, LNG and Coal Are Writing Your Winter Fuel Bill",
-   "original_title": "How Long Will $100 Oil Last? Hormuz, LNG and Coal Are Writing Your Winter Fuel Bill",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYzBXZy1ya1c5dl9DZ0EzcE41MXZNRnM2Ul96N0diaC1XNlpCekFQYjNhQjVRdmFTT0RSR3dEY0VRR2xnQlUwSklWcUljclNxMHNLZzVMZVdjRzlOZ2UzU2RiV0EyTHdmOFpGOXZxbm1jbWx3MzA0MlJLSlBrZnFfNE1ZcFdnWllXRkk2S05sREloMmszM2E4clo0N3JXbXBDQTlOMzZmdXlZWjdZT21xUVc4N1N0Q3pL?oc=5",
-   "source": "Energy News Beat",
-   "published": "2026-10-18T13:41+00:00",
-   "added": "2026-10-18T14:09+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "bill",
-    "coal",
-    "hormuz",
-    "lng"
-   ],
-   "summary": "How Long Will $100 Oil Last? Hormuz, LNG and Coal Are Writing Your Winter Fuel Bill Energy News Beat",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "38172939e2f4",
-   "title": "Port of Salalah transition puts $200 million equipment in focus",
-   "original_title": "Port of Salalah transition puts $200 million equipment in focus",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmgwc20tZU90ZzczU096Z3Uwc2ZTTmpOcUdNWFB2dFhlRy1nYzBKMWtac0NvRDA1Y21Fb2o1RnlsTS1TZzI0dllFbDZhSFVjaC1hWnNmOGtlX2xoTkRnanRVTkctcFQtbUhZU2FOR3ZXTWlnazJQM21URGhLcHpIaGV0WXdkbEhYZklsdlhuOTV5eXR4c294RHdBWlpmNzBjbUhuRlF4SGw3VUFNZXpqRnRTMDlYblNMVWRQS0tzMGHSAVpBVV95cUxNcHZRbVhpd1dxQl9VYm5NekMwalpCN05uU01oUHRNUVhsMmkwc2RFQmpaRTZaVmpNMlhMNHdkbUstekdFcHFKODF0dm1XcnJHem5DUFlSOWVKY0E?oc=5",
-   "source": "Oman Observer",
-   "published": "2026-10-18T13:32+00:00",
-   "added": "2026-10-18T13:47+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port of Salalah transition puts $200 million equipment in focus Oman Observer",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a7a1b910a119",
-   "title": "“Exact Press International”: Uzbekistan Doubles Freight Traffic Along the Trans-Caspian Route in Five Years",
-   "original_title": "“Exact Press International”: Uzbekistan Doubles Freight Traffic Along the Trans-Caspian Route in Five Years",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk9Sdm9JZWpfSW81cXZvRHl2bXZmM0hEanhaby1KUE00MURoZGE2TzhNa0xpdGxSLWZabDR1THNSekFHQzRpRUxRalRYX3gtZktCeDdyR1JSNHI2RjkycjkxN2swb2xfNHg2bm00bmR3eS1aRmI1YlkzaU4zZmZJYTNjX0FzME4tNFB2UktPNThBUDNYVFhiNkJrVmZsZ1lreWgzM2kwUWhQRkdBcGh5N1AybzZXUQ?oc=5",
-   "source": "Dunyo",
-   "published": "2026-10-18T12:50+00:00",
-   "added": "2026-10-20T01:13+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "trans-caspian"
-   ],
-   "summary": "“Exact Press International”: Uzbekistan Doubles Freight Traffic Along the Trans-Caspian Route in Five Years Dunyo",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "eb14a47f8dd0",
-   "title": "PM Inspects Aqaba Ports, Calls For Faster Expansion Projects",
-   "original_title": "PM Inspects Aqaba Ports, Calls For Faster Expansion Projects",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd2RscC1LUEtZU2pmSUJKaGJiVkkyWERKclhxQnd2T3hpczNUYTBPTTdHUXVtbjdYUHY0MzhlUjRLbG1HcjZTWFdjTWhCT19GeTY4V1FFbjV3WDZMSnpMR096VElPbVUwOGZGcDY1dndfSWEyQlhLdnJGQ3c0WjZYbnlXaDJ3VXhMdHhYVlJNcVVGeDg?oc=5",
-   "source": "Menafn",
-   "published": "2026-10-18T11:39+00:00",
-   "added": "2026-10-18T12:04+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "PM Inspects Aqaba Ports, Calls For Faster Expansion Projects Menafn",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "62530afddcd4",
-   "title": "Argentina’s river grain transport reaches five-year high",
-   "original_title": "Argentina’s river grain transport reaches five-year high",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWZFby12TUlyOC1BdnNuYkN4U2NKM2J0alVGZDB0d3NDcGxiX09jdTB5Z1BIRmh6RFoydl9UTmpGSV80Xzl3THJFcWxzbkt2UFdpeE9teVNDTEo1TXFadllLeDA1ZHVfTXdrU0ZHWDFBQXB1bzhvYXI3a1pjQ0NTaDNBTDFvbFVxLW43N3BOT1N4UjNLaUlfQVI0TXpMbGFHbnc?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-18T11:16+00:00",
-   "added": "2026-10-18T14:09+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "Argentina’s river grain transport reaches five-year high WorldCargo News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a5131ec068e4",
-   "title": "Trump's War With Iran Pushed Him To Waive a Century-Old Shipping Law. Commerce Boomed.",
-   "original_title": "Trump's War With Iran Pushed Him To Waive a Century-Old Shipping Law. Commerce Boomed.",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53T0ZrSzVsc0NYUjNKa2Ztc0lBN1RySTJkYjlXY1kzSUxVWVZRdnNHNFU0eE15MGhNTFAwM3ZwRi01WFFrRndNbTNVNURxSXAxbXBwWERqclU4RF9rdHdIS0xfYVlqTzg0WHZZbA?oc=5",
-   "source": "Reason Magazine",
-   "published": "2026-10-18T10:08+00:00",
-   "added": "2026-10-18T14:09+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "shipping",
-    "regulation",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "law",
-    "shipping",
-    "war"
-   ],
-   "summary": "Trump's War With Iran Pushed Him To Waive a Century-Old Shipping Law. Commerce Boomed. Reason Magazine",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bad70cb1cf04",
-   "title": "Drone-hit tanker carrying 9 Indian seafarers reaches Romanian port, all safe",
-   "original_title": "Drone-hit tanker carrying 9 Indian seafarers reaches Romanian port, all safe",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcFRPSGRYRnh4UHNQLURxTl9KWXd6azI4dkVBRzBSWU9UbXo0T0dhOWM1Z0t3SjkxV1N5cFpiS3ktR1ZsdTRiQVk2T1c5MEJLZmdBT251THBlS3BuLVhMUGdsN2RpdmZTb2FGMXpSeUxKX1cyRElhVFpJWHZXWVRaa0NkYzVBQW9WQUprdXkzU0wySml4MUxKdFktZmRXZ2JCclBXU1dXYWNsY1QySFhhLUtTWHRWb3FBRGxVbllmdjkwNjZYZVVTV0F0Z0dvQVpXVUxpR0xlaHVnNF94dXJhNm9rVGJ5cmfSAecBQVVfeXFMTnBUT0hkWEZ4eFBzUC1EcU5fSll3emsyOHZFQUcwUllPVG16NE9HYTljNWdLd0o5MVdTeXBaYkt5LUdWbHU0YkFZNk9XOTBCS2ZnQU9udUxwZUtwbi1YTFBnbDdkaXZmU29hRjF6UnlMSl9XMkRJYVRaSVh2V1lUWmtDZGM1QUFvVkFKa3V5M1NMMkppeDFMSnRZLWZkV2diQnJQV1NXV2FjbGNUMkhYYS1LU1h0Vm9xQURsVW5ZZnY5MDY2WGVVU1dBdGdHb0FaV1VMaUdMZWh1ZzRfeHVyYTZva1RieXJn?oc=5",
-   "source": "ET Infra",
-   "published": "2026-10-18T09:12+00:00",
-   "added": "2026-10-18T12:39+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Central & Eastern Europe",
-    "Asia"
-   ],
-   "tags": [
-    "drone",
-    "port"
-   ],
-   "summary": "Drone-hit tanker carrying 9 Indian seafarers reaches Romanian port, all safe ET Infra",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
