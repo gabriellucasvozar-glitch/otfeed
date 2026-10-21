@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T17:03+00:00",
+ "generated_at": "2026-10-21T17:36+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,62 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "8c8985bf31cc",
+   "title": "Szczeciński port z nowym węzłem. Kolej usprawni transport [WIDEO]",
+   "original_title": "Szczeciński port z nowym węzłem. Kolej usprawni transport [WIDEO]",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ0hkR3hLclNWVW93Z0pXTnBubXBfLVJ2emk4VUh2OU5yellBYWpuR1RyTkpoVFFzbzM5WURQb3Z2ZW02Rl94WHRnNl8wMkpPNHdhUHEtSWg0bXpyanBmaVVJdFpHZnMybEluZy1pOVZrQld1M0ZjOFg2SmdvMThyN1RDcG5sTkE3YW1OZ3o2aS1VMzh0Tnd6Qlc0T1FYM2Fy?oc=5",
+   "source": "TVP Szczecin",
+   "published": "2026-10-21T17:25+00:00",
+   "added": "2026-10-21T17:36+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "high",
+   "score": 10,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "kolej",
+    "port",
+    "szczecin"
+   ],
+   "summary": "Szczeciński port z nowym węzłem. Kolej usprawni transport [WIDEO] TVP Szczecin",
+   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6b29706fffcc",
+   "title": "Follow the money or follow the flag? Politics clouds port investment",
+   "original_title": "Follow the money or follow the flag? Politics clouds port investment",
+   "url": "https://theloadstar.com/follow-the-money-or-follow-the-flag-politics-clouds-port-investment/",
+   "source": "The Loadstar",
+   "published": "2026-10-21T17:15+00:00",
+   "added": "2026-10-21T17:36+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "ports",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "disruption",
+    "port"
+   ],
+   "summary": "In the seven years since TOC Americas last took place in Cartagena, global laden container volumes have slipped about 10% below where they would have been without the multiple disruptions that have hit the industry since 2018, according to Dinesh Sharma, director at Drewry Maritime Advisors. Sharma’s research measured growth from 2018 against forecasts of where the industry had imagined it would be today last time they met in Cartagena. Predicting the future, he said, was and is not easy. Transshipment hubs grew by about 6% a year on average over that period, against roughly 3% for gateway ports and 1.5% for the underlying economies they serve. The inefficiency, he said, is no longer contained at the big transshipment hubs: it is flowing through to gateways too, leaving Latin America’s overall throughput an estimated 2–3% below his 2018 projection. Washington’s growing interest in the region’s infrastructure raises the odds that port decisions get caught up in politics rather than commercial logic.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
   {
    "id": "df98d5351584",
    "title": "UK Chamber of Shipping | Jackdaw approval underlines importance of UK offshore competitiveness",
@@ -93,6 +149,35 @@
    ],
    "summary": "European wholesale natural gas prices surged on Wednesday, with both major regional benchmarks gaining over 3% as hotter-than-expected British inflation data and ongoing Persian Gulf energy disruptions heightened anxieties over winter fuel adequacy. The benchmark Dutch TTF front-month contract rose 3.1% to trade at 87.95 euros per megawatt-hour (MWh). In Great Britain, the equivalent NBP natural gas futures contract similarly advanced 3.2% to 216.57 pence per therm, with both contracts holding near their highest levels since late 2022. Wednesday’s gas rally coincided with fresh macroeconomic data highlighting the acute economic toll of elevated energy import costs on the British economy. Official figures showed Britain’s annual consumer price inflation accelerated to 3.5% in September, up from 3.1% in August and exceeding market consensus. Lacking large-scale long-term gas storage infrastructure, the UK relies heavily on real-time imports of pipeline gas and Liquefied Natural Gas (LNG) cargoes to meet domestic power generation and home heating needs. The European benchmark remains up approximately 210% year-to-date. With maritime strikes and transit friction restricting LNG flows through the Strait of Hormuz – keeping Middle Eastern deliveries to Europe nearly 80% below year-ago levels—European utilities face intense competition from Asian buyers for uncommitted Atlantic basin cargoes.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "7d6163130362",
+   "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
+   "original_title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
+   "url": "https://gcaptain.com/iea-gulf-oil-shipping-costs-top-37-per-barrel-five-times-pre-war-levels/",
+   "source": "gCaptain",
+   "published": "2026-10-21T16:29+00:00",
+   "added": "2026-10-21T17:36+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "shipping",
+    "war"
+   ],
+   "summary": "FILE PHOTO: Crude oil tanker Odessa, carrying UAE crude after passing through the Strait of Hormuz with its Automatic Identification System transponder turned off, navigates the waters at Daesan port, where it is expected to discharge crude oil, in Seosan, South Korea, May 8, 2026. REUTERS/Kim Soo-hyeon/File Photo The cost of shipping crude oil from the Middle East Gulf to Asia has surged to more than $37 per barrel, over five times prewar levels, as an increasingly complex shipping network keeps oil flowing despite escalating Iranian attacks in the Strait of Hormuz, according to the International Energy Agency. The extraordinary increase comes as Persian Gulf oil exports have actually surpassed prewar levels, highlighting the steep price of maintaining energy flows through one of the world’s most dangerous shipping corridors. According to The Wall Street Journal , citing vessel-tracking data from Kpler, Middle East oil shipments averaged more than 24 million barrels per day in the week ending October 18, exceeding the prewar average of 23.3 million barrels per day. In a separate analysis published Wednesday , the IEA said tanker rates reached historic highs in September and continued climbing into October, with the cost of transporting crude from the Middle East Gulf to Asia exceeding $37 per barrel by mid-month.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
   },
   {
@@ -1452,6 +1537,31 @@
    ],
    "summary": "Russian Ports Lose Up to 100% of Cargo, Seek Government Bailout After Drone Strikes Kyiv Post",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a6c5a267def7",
+   "title": "Moldova’s Coal Imports Plunge: Which Countries Could Supply More - logos-pres.md",
+   "original_title": "Moldova’s Coal Imports Plunge: Which Countries Could Supply More - logos-pres.md",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeGpqNGl3WmlkSDgtUU5kbkNweEpBRlJLUzBxLXFnYXV4eVZhc2ZUZ0MwcVFDcUhnR3pPSTk3djMwOFpYLW03X2pCbjZDNXJ6eGY2NTRwUDI2czVwQVpkYkRxRzRYU3FXRTFkTTQ3dEdLNzZFbU53dkoteDhyZk9ZN1hjcE45V2RqUGNqRE9jNEJjd1g0cWpldENhVDVmSDkwUXpaV3FNWUs0WjczcUQ5QUplbGc0ZjZ2VUVZSnNKMm5wRGxkSnRURlRn?oc=5",
+   "source": "logos-pres.md",
+   "published": "2026-10-21T10:16+00:00",
+   "added": "2026-10-21T17:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Central & Eastern Europe"
+   ],
+   "tags": [
+    "coal"
+   ],
+   "summary": "Moldova’s Coal Imports Plunge: Which Countries Could Supply More logos-pres.md",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -2830,6 +2940,31 @@
    ],
    "summary": "Guam restores full crane capacity after freak collision Splash247",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8e036731e993",
+   "title": "Contraction in Global Grain Exports Still Expected",
+   "original_title": "Contraction in Global Grain Exports Still Expected",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY0hpUmtzd3FEVlQ4a1lNektSN296ckRtVmVDb0tHU2plTkx6Qk00aXo2bVFINEZwV3VNQ29WUi1VWlN5QmtFaFNLMmRtQ3FvNDY0b0FOU25DRFVxSV8wV1pMNDNoaWhoSDlxcUM4OVNmMnFwV0VOWHBFR1pMelE5QTJZanpBck91ZFJZT1FyU2ZGR0ZDQUpUMzNLeDRZT01KOGthQnNYRQ?oc=5",
+   "source": "Breakwave Advisors",
+   "published": "2026-10-21T07:39+00:00",
+   "added": "2026-10-21T17:36+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Contraction in Global Grain Exports Still Expected Breakwave Advisors",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -9173,6 +9308,31 @@
     "port"
    ],
    "summary": "Transports Expo Asia (TXA) Awards 2026: Westports Malaysia Named Finalist for Best Port Operator Voice of ASIA",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1bd7c1fab052",
+   "title": "Port of Stigsnaes daily activity",
+   "original_title": "Port of Stigsnaes daily activity",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKbF9ZWU9rdlNWRUt2UlU4eFNhRWpva1NKT21VRXRtVlVlX1ZZTzYtSjJ3bVZkTndEeExsV1FnUHZnRk12VWtndy1MNW0teW9vZ0JLaF9kTk1tTF94MjN4dDJ5akpmWndWSWkzVG1Yd3JMVjRr?oc=5",
+   "source": "El Estrecho Digital",
+   "published": "2026-10-20T00:42+00:00",
+   "added": "2026-10-21T17:36+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port of Stigsnaes daily activity El Estrecho Digital",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -16396,170 +16556,6 @@
    ],
    "summary": "Drone-hit tanker carrying 9 Indian seafarers reaches Romanian port, all safe ET Infra",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bf026801213b",
-   "title": "US announces $17 Mn investment to modernize Port of Colombo to reduce shipping costs",
-   "original_title": "US announces $17 Mn investment to modernize Port of Colombo to reduce shipping costs",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNTREcGZYaHBUV0Y4SEJ5aFF6S2R1VEdfb2RmcjJUcjgyMjEzOHIxdHM1Ukx5NFA1MFdlTTJobmdwbUVheHBRNi1UV2phNFFTMUp2ZFlZUHJVY0o1WFROTEQyeDczMkxxMWJQWVBuSGJmOUxrZFdkclc1ZnhlMDBuSFlCTEVVRG4wbEdoZEl4ZHJLUjJYSGI1WVBob25ZNVN4RG5r?oc=5",
-   "source": "Island.lk",
-   "published": "2026-10-18T08:44+00:00",
-   "added": "2026-10-18T11:09+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "shipping"
-   ],
-   "summary": "US announces $17 Mn investment to modernize Port of Colombo to reduce shipping costs Island.lk",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d1590b0a8fb9",
-   "title": "DP World CEO calls for port JVs, questions 30-year concession model in India",
-   "original_title": "DP World CEO calls for port JVs, questions 30-year concession model in India",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNS2dTSUZGUzBndEdGQWdHbmJXWER2ZGFJWXM1eGdCZmRWZ1JYVi1EM0lsSVFxdE9EUkNPdjRZbEpQZWk2TVVSQzlsRWJHa1d1cEJMdDlMSVc1X255X2NpOThJdTFYSzhvMjM0V1hzakRYaVJhSkIxa2dIS1N5ZmRQZFFxc3N4eVF3VzhjZlZPaFRlSFRhLUQtZ2VBd28xejQ0QnhyQ3NJU09vRXdvdFBQTVhMMlVUYjQ0TlNjLTVWcC13OUZMZHNhQnBEd0Vxa3BMR3U4SktPSHl5SHZjWkN4dHB2YUloUWvSAecBQVVfeXFMTUtnU0lGRlMwZ3RHRkFnR25iV1hEdmRhSVlzNXhnQmZkVmdSWFYtRDNJbElRcXRPRFJDT3Y0WWxKUGVpNk1VUkM5bEViR2tXdXBCTHQ5TElXNV9ueV9jaTk4SXUxWEs4bzIzNFdYc2pEWGlSYUpCMWtnSEtTeWZkUGRRcXNzeHlRd1c4Y2ZWT2hUZUhUYS1ELWdlQXdvMXo0NEJ4ckNzSVNPb0V3b3RQUE1YTDJVVGI0NE5TYy01VnAtdzlGTGRzYUJwRHdFcWtwTEd1OEpLT0h5eUh2Y1pDeHRwdmFJaFFr?oc=5",
-   "source": "ET Infra",
-   "published": "2026-10-18T08:43+00:00",
-   "added": "2026-10-18T11:09+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "concession",
-    "port"
-   ],
-   "summary": "DP World CEO calls for port JVs, questions 30-year concession model in India ET Infra",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6aa33dfe1f94",
-   "title": "Znaczący turecki armator przenosi serwis Russia Express do Petersburga",
-   "original_title": "Znaczący turecki armator przenosi serwis Russia Express do Petersburga",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX19hNDNtV0RVYzVFRzVWX2FWNkxJSDZDSTRfbjBkeHhwbjEyWUdNMm1xVndWR2kzOUpWeVItaHhETE81UkJGXzdmdnNBSHFMRWRCd09FSDAxS181VTFjbkJHSmdNVW5ZamMxS210YUVXV3V2eXdHVU53cjFZeEd3TVpSTlpMUjNwaFBUaEJUZWN0LTQ?oc=5",
-   "source": "GospodarkaMorska.pl",
-   "published": "2026-10-18T08:18+00:00",
-   "added": "2026-10-18T08:51+00:00",
-   "lang": "pl",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "armator",
-    "russia"
-   ],
-   "summary": "Znaczący turecki armator przenosi serwis Russia Express do Petersburga GospodarkaMorska.pl",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9a23a5ef568e",
-   "title": "Drone Attacks Escalate Against Black Sea Shipping Near NATO",
-   "original_title": "Drone Attacks Escalate Against Black Sea Shipping Near NATO",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtcjhUY0dKOWdUZEFrTVJQaGh5OWl1YzBmQldPZEZkX005LVNUSzd1bGY2RURJNmJVNDdna1ZzT0ZDNzB0TXVsWUtQbVRRQmtuQlMxX2RiVFE4aEdnemRqZHhSbw?oc=5",
-   "source": "SuaraGarut.ID",
-   "published": "2026-10-18T07:44+00:00",
-   "added": "2026-10-18T07:52+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "drone",
-    "nato",
-    "shipping"
-   ],
-   "summary": "Drone Attacks Escalate Against Black Sea Shipping Near NATO SuaraGarut.ID",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "972fd8edba3b",
-   "title": "Black Sea Grain Risks Are Repricing Agricultural Stocks",
-   "original_title": "Black Sea Grain Risks Are Repricing Agricultural Stocks",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYjJRLUEzTXZnbTE5QWVTa2FXQ3lTc3llQW5DbV85QTBodDlIUlpMeW9rMWF1eFF2dW9Eak54OGxCelV1ZHJTYjhDRlVoQWxCT0pwSFY4UENPcXNSS29yZUNVOUdHdzNOVnY5SzdzZTBTeEZPa09mZVhqSU5hV2VpZE90YTZEeGJnMkQtOTFTX081cWR4TW9OSG5Dem1DcXZ0eEMyRkx6ZkpxenkwaFBydld4LWt4N2xGUmNIeUYzeUozOWU5dHhqeXhkNzlRZFVadHZKcFVIaW15bTFKcG85aHBzXy1QNnJmc1Mw0gHwAUFVX3lxTE1ncW5ab2RMc1hQMVMyNV9sZkdnOVRDTzBCQW1jWGl0bFNiRllfYjNrZUlMUThKUk91SmY3eXhKY1EwRVk2VDhEODdoZk5XN3NQcmhCUjNocVVHdmtfUmNnMnItc0RuZ2doZDBfNi0yQmNaOEZwNmxYRXRSeDhGT2hxSUtfbndzdnNwMGpsSXlWc0dxMU8wdjA5c2ptdXA4UmJSUG5mQzN5TmpZaFR5MHctOXpfWmpIYWhuZlgxajNaU1hyV2RRTTJjVEhidDR3TmhaQVJ6clNKT1pTeVFBbVpmRXpIajJCU2VhWFg5Yll6dg?oc=5",
-   "source": "Simply Wall Street",
-   "published": "2026-10-18T07:36+00:00",
-   "added": "2026-10-19T06:39+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "grain"
-   ],
-   "summary": "Black Sea Grain Risks Are Repricing Agricultural Stocks Simply Wall Street",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a4ea45e8ec51",
-   "title": "How the Middle East Is Becoming an Integrated Global Supply Chain Hub",
-   "original_title": "How the Middle East Is Becoming an Integrated Global Supply Chain Hub",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVNPNF9FczZKamFidE1lQXhBVE95MXZYVkwzM01oYWFTMVhkdUNWVjNYYkNPcDVrOXBkU3IxU2JGbVNDUVBYb1dDWm9SR2F5SW9JZjhpVDdEVE5FOXo2Njk4c2R5WHd3dURvUzhZUmZ4dDFYR3YtcDhCbkx3VWNrYzVCRlI5ODAxcHcxd3N0bUJrdUhaazQyMV9tZm9QOWp2M09Lek5vRjczdw?oc=5",
-   "source": "trendsgroup.org",
-   "published": "2026-10-18T07:22+00:00",
-   "added": "2026-10-18T10:13+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "supply chain"
-   ],
-   "summary": "How the Middle East Is Becoming an Integrated Global Supply Chain Hub trendsgroup.org",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
