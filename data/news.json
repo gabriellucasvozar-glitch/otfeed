@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T02:49+00:00",
+ "generated_at": "2026-10-21T03:19+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -2561,6 +2561,31 @@
    "summary": "Airlines are strengthening freighter links between Asia, Europe, and the Americas for winter, adding transatlantic flights, connections to Latin American manufacturing and distribution hubs, and capacity serving Asia’s technology exports. Air Canada Cargo’s new 767-30F services to Amsterdam, Monterrey, and Panama City join selected US frequency increases from Lufthansa Cargo, a new Cairo link from Air France, and additional transpacific options from JAL and Cathay Cargo. The additions come as forwarders renegotiate allocations ahead of the winter passenger timetable, when fewer flights on some routes reduce available belly capacity. Elsewhere, Lufthansa Cargo’s winter schedule, effective 25 October, offers 88 freighter routes serving 40 destinations, including up to 46 weekly rotations to 17 Asia-Pacific destinations. Its own 767 freighter timetable adds a weekly Narita-Dalian service. Cathay Cargo has also linked additional Americas freighter capacity for the peak to growth in semiconductor and data-centre equipment shipments from Asia. It expects a leased A330 converted freighter in the fourth quarter, operated on its behalf by Air Hong Kong, to support regional general cargo demand. IATA reported global cargo demand up 4.4% year on year in August, while capacity fell 0.1%. Asia-North America cargo capacity demand increased 13.2%.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "7844158c3f74",
+   "title": "Liebherr invests €40 million in Campsas Aerospace site",
+   "original_title": "Liebherr invests €40 million in Campsas Aerospace site",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUhVbVZoS2RxdUpuSkduZU9VWDE5bFRUYTJzbmpSMEVYcnlpT09IS1Z1ZEx5STJ0V2dPLVRtUDZZNkZPZzZYb1ZDbTFwQWkydXR2WU00RWVlOFQ4dGtxXzZzZDdaQk9hNVgwMExzTzFqNWtGdjN5Y1NDeGdvT0hRbWhXUmc5TDB4elpuczVuVERGUQ?oc=5",
+   "source": "AviTrader Aviation News",
+   "published": "2026-10-20T11:32+00:00",
+   "added": "2026-10-21T03:19+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "liebherr"
+   ],
+   "summary": "Liebherr invests €40 million in Campsas Aerospace site AviTrader Aviation News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
   },
   {
    "id": "d680f8f54632",
@@ -16562,34 +16587,6 @@
    ],
    "summary": "EU urea imports hit year-to-date record in August Quantum Commodity Intelligence",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "29c6b6a1d10f",
-   "title": "Two Ships Sink Near Strait of Hormuz as Attacks on Container Vessels Escalate",
-   "original_title": "Two Ships Sink Near Strait of Hormuz as Attacks on Container Vessels Escalate",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTJWSnlpdWhLa1UzN0FZU1p1TUlpSEZuMkpEQjhEOUJpVzhWcXkzWDZWbllLcUtSaktCd0MxQ2FlNS1JSjM1M0lpaGVRR3JHUktBbm93aUxSVVRzelpFQ3FBSzZHTDdjbVZfV2FaZVZHQnFoNFVMaTUwZEN1VUFZajRITEl3N0hncEo4?oc=5",
-   "source": "Yahoo",
-   "published": "2026-10-16T13:00+00:00",
-   "added": "2026-10-16T14:08+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "hormuz",
-    "vessel"
-   ],
-   "summary": "Two Ships Sink Near Strait of Hormuz as Attacks on Container Vessels Escalate Yahoo",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
