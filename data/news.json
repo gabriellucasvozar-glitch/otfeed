@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T22:25+00:00",
+ "generated_at": "2026-10-21T22:59+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "a6514dddf394",
+   "title": "Fortescue quarterly iron ore shipments fall on maintenance disruptions in Australia",
+   "original_title": "Fortescue quarterly iron ore shipments fall on maintenance disruptions in Australia",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWpkejB5bk5IVmMyUHl1bnVQSTllcjNwY0IwR3RfRnk3OTR2cFJjZlhYTFpsLVhOQ0hPTnZpNE5CSHh2aWxST1JzMi14dXpFZjZVSjBnUUhvOHlOT0tjWElPWklRd0YxX05BdXBEZHVYeXZCUm5wcUJtR1NnOGJtZWZLZV9qbFI5MTZQWlUwcVZsMWs4ZnotTEVvTHpJZw?oc=5",
+   "source": "Traders Union",
+   "published": "2026-10-21T22:25+00:00",
+   "added": "2026-10-21T22:59+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "supplychain",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "disruption",
+    "iron ore",
+    "quarterly"
+   ],
+   "summary": "Fortescue quarterly iron ore shipments fall on maintenance disruptions in Australia Traders Union",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "9acdcafd5dbd",
    "title": "Global Grain Trade Shifts Toward New Shipping Routes as Freight Costs and Risks Rise",
@@ -16501,42 +16530,6 @@
    "summary": "Sabah approves 24-hour operations for port Borneo Bulletin",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
-  },
-  {
-   "id": "cbb0a7b827c6",
-   "title": "Trade Data vs. Maritime Intelligence: What Customs Agencies Actually Need",
-   "original_title": "Trade Data vs. Maritime Intelligence: What Customs Agencies Actually Need",
-   "url": "https://www.hellenicshippingnews.com/trade-data-vs-maritime-intelligence-what-customs-agencies-actually-need/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-18T21:00+00:00",
-   "added": "2026-10-18T21:08+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping",
-    "geopolitics",
-    "regulation",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Western Europe",
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "customs",
-    "dry bulk",
-    "red sea",
-    "shipping",
-    "trade flow",
-    "trade flows"
-   ],
-   "summary": "Trade Data Was Built for Commercial Visibility Cargo manifests, customs declarations, shipping records, and import and export filings exist to describe commerce. They do that well. How much crude moved through Yanbu last month? Trade data does not answer any of these, and the reason is structural rather than a matter of coverage or refresh rate. Trade data is a record of what parties declared. Intelligence Starts Where Declarations Stop All-source maritime intelligence fuses the layers that exist independently of what a vessel or operator chooses to declare. Trade data can tell you that a container is declared as machine parts from a legitimate exporter with a clean filing history. Trade data can tell you that a container is declared as machine parts from a legitimate exporter with a clean filing history. Customs officers allocating finite inspection capacity need the second one, because the first was written by the party they are assessing.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
   }
  ]
 }
