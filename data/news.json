@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T00:43+00:00",
+ "generated_at": "2026-10-22T01:21+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -67,6 +67,34 @@
    ],
    "summary": "Przykłady dostosowania bocznic kolejowych obsługujących przewozy węgla do przeładunków jednostek intermodalnych Strefa Biznesu",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0aa5bec7648c",
+   "title": "Chicago Grain Futures Close Mixed as Wheat Plunges 15 Cents and Corn Rebounds",
+   "original_title": "Chicago Grain Futures Close Mixed as Wheat Plunges 15 Cents and Corn Rebounds",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTXkwRTNLQVJ4T05mbmJrdWhIY2xtMURVcDZjSnlucms0OXpiLXNreHpSRmFZS1cxbGQ1TWJjWE9jQURDdEFwTW5OdngyTW5BYW1PVTIwcGdyWGp6UHlmQjFDWk4tdG1iZVdoeGlvRUwyeHBfVG43RHF5cGllWE5ONHBjVWxFWHhKOHRYck1QR0ZyWnRBZWR6bW5SNXotRXdYM1dNSlh1VGVuamQzNTA2VTVvUQ?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-10-21T21:52+00:00",
+   "added": "2026-10-22T01:21+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "corn",
+    "futures",
+    "grain",
+    "wheat"
+   ],
+   "summary": "Chicago Grain Futures Close Mixed as Wheat Plunges 15 Cents and Corn Rebounds AgroLatam",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -488,6 +516,31 @@
    "summary_method": "extract"
   },
   {
+   "id": "470c9b4ef187",
+   "title": "Brazil increases corn exports to Europe ᐉ News from Fakti.bg - Business",
+   "original_title": "Brazil increases corn exports to Europe ᐉ News from Fakti.bg - Business",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BVF9vNTYyUExHR0pBZkRIS29tY0JLZEg3bjRvaEFGZ2xxQUlONU10WlpMQjVBQ1YyNmI5WHJSM2pNcmR1WnZsV2s0WkJHOVRFOEYyTVFpYUdjNUJMOEZkeF9RWVFVRUR1QVg3Ti1zM3Y3OEpVUG5nQkIwd1d3bEE?oc=5",
+   "source": "Fakti.bg",
+   "published": "2026-10-21T20:22+00:00",
+   "added": "2026-10-22T01:21+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "corn"
+   ],
+   "summary": "Brazil increases corn exports to Europe ᐉ News from Fakti.bg - Business Fakti.bg",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "71f7f63a4313",
    "title": "The Navy Is Making Progress on Unmanned Vessels. Now It’s Time to Put Them to Work.",
    "original_title": "The Navy Is Making Progress on Unmanned Vessels. Now It’s Time to Put Them to Work.",
@@ -710,6 +763,33 @@
    ],
    "summary": "Szczeciński port z nowym węzłem. Kolej usprawni transport [WIDEO] TVP Szczecin",
    "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8e04765e9e02",
+   "title": "Maersk Tankers plans to adapt four large gas carriers to use ammonia as fuel",
+   "original_title": "Maersk Tankers plans to adapt four large gas carriers to use ammonia as fuel",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNTJaMDR0VXYzSTEwVS1Za3Nva2RmMDFFeUU4LVVPbEFyeklKTUFacjJnZmY1SEtlMmtOU3pIcjkzS1NXdmttTUxZSHIyS2VaTjJyRTNVVU1MX091LXA4M3F0dEh3VnNkYk5zTGxTU0cyWXU2bkhycTN3NEpNcWFscjBBWW1KQ2w1WW9QcTkxaEdHajdmcGloZDVMN1Fwc0VBd09sR2M2YlZ2TGhBR0NuSnFqVndhOUVma2M3dUNvR0NZZw?oc=5",
+   "source": "El Estrecho Digital",
+   "published": "2026-10-21T17:25+00:00",
+   "added": "2026-10-22T01:21+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia",
+    "carrier"
+   ],
+   "summary": "Maersk Tankers plans to adapt four large gas carriers to use ammonia as fuel El Estrecho Digital",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -1103,6 +1183,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "f3fa54a8ca85",
+   "title": "Shipping lines restore the Suez Canal for 5.5 million TEUs of capacity between Asia and Europe",
+   "original_title": "Shipping lines restore the Suez Canal for 5.5 million TEUs of capacity between Asia and Europe",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX3NkOGtsRmhPV3JzVXRPNUdnS3VmMkZ1WXh6TDBHa3FtUnNpcXhUOWhIX19aVVhXT1dueHBtZTFQTktUYXVkQ25abGlZSUliQVo2b19OZnQ0Uzd4aE5Mb19fUW44ZXZmanU5Q3VpcDFmeXhNLXViX21kRFpnVWtHbm9DSXlkbmhSZ0Z0b1VWVHU3TWUtVVRiYkFOdUlTSXNnRFA4TGxHWnhILXRnTUgwOWVIRmwxUnhfM0toaVRZUk5YZHRGUms0UElaZkdmWHJqV3NSQ0VTTDA?oc=5",
+   "source": "El Estrecho Digital",
+   "published": "2026-10-21T14:50+00:00",
+   "added": "2026-10-22T01:21+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "shipping",
+    "suez",
+    "teu"
+   ],
+   "summary": "Shipping lines restore the Suez Canal for 5.5 million TEUs of capacity between Asia and Europe El Estrecho Digital",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "303a6390bda5",
    "title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
    "original_title": "Over 500 piles lay the foundation for Poland’s floating LNG terminal (Gallery)",
@@ -1315,6 +1423,33 @@
    ],
    "summary": "Tylko 20 metrów, a wielka przebudowa. Niemcy dostosowują kolej do dłuższych pociągów towarowych Kurier Kolejowy",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7e08f1176489",
+   "title": "Brazil's Capricorn Corridor and Rail Projects Target Grain Export Logistics - News and Statistics",
+   "original_title": "Brazil's Capricorn Corridor and Rail Projects Target Grain Export Logistics - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcmluUFlwc2RlQnIzbXlaSjMzZ2xPV1ZDVURWc2EwVk40TnJ6N1JVZUFuTVJDTHlDZ1lvZGt5a243NWdCWU9Ka1pPNV9nb2dfUXdtSjRGYm1LdEpOYVRTLVlTVFVremw4aEtlWWZqandnUVYtTmUwSHFLYnA5R3hwRTJRcXZCTDM0VmpHd1RlZTRqUkFZSm9FZmZIbW5mSzdDRWEzcGdfdXZ4Q1BLY2RMQw?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-21T13:22+00:00",
+   "added": "2026-10-22T01:21+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "grain",
+    "logistics"
+   ],
+   "summary": "Brazil's Capricorn Corridor and Rail Projects Target Grain Export Logistics - News and Statistics IndexBox",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -3940,6 +4075,32 @@
    ],
    "summary": "US and Central Asian Nations Outline Shared Vision for Middle Corridor and Security at Samarkand Summit streamlinefeed.co.ke",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0bf04c329cfa",
+   "title": "EU backs mandatory Arctic shipping fuel rules",
+   "original_title": "EU backs mandatory Arctic shipping fuel rules",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWhHX1ZJVGRCMFNFMHR0bk1ZcVJPTVNqVmlCaFRhWVFJNENSLVFuMHo3dkNkaUFWc2FremgyRTZ6UjBSaGQzMF9Ob2Z6VG1mSkpEb1U2U0ZYaDc5enJLVzBva040bnRjSVd6UzRGbmtjckQyYlFyR241bzA3WUU2TjNtZTRqNU1DRFI1bnV4SmNPTjVOQXN3XzV2bFRadUxERl9WWGx6UWVzdw?oc=5",
+   "source": "www.motorship.com",
+   "published": "2026-10-21T07:53+00:00",
+   "added": "2026-10-22T01:21+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "shipping"
+   ],
+   "summary": "EU backs mandatory Arctic shipping fuel rules www.motorship.com",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -9878,6 +10039,33 @@
    ],
    "summary": "Kang Kymgu: Middle Corridor opens new opportunities for cooperation with S. Korea Report.az",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9d94e3d6da45",
+   "title": "Kyiv talks with India, Egypt, Turkey over grain corridor | Hindustan Times Delhi - newspaper",
+   "original_title": "Kyiv talks with India, Egypt, Turkey over grain corridor | Hindustan Times Delhi - newspaper",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGx4TlM3YmNoLXhUUllYZUE4Sm5pZ2M4Y05EaFNFS3JvaDBobExSeWg2VTJCWGp4cHZKQXoyWHVrU2thMDd4MFFQOU9Obk1GUXVEVVNTZFpsclpha1lZdERRRE95TUN5WFVMNmppQW9jdkpYaGotWFJQS2JZaDA3SGVWNU1ucGFaMHFZdGxJSHdVUnRtZnJMNGpISmNHWUhrZWN1N2x3WFFBVkZXTFVvdldBdnRadVYxbnc?oc=5",
+   "source": "Magzter",
+   "published": "2026-10-20T06:34+00:00",
+   "added": "2026-10-22T01:21+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Kyiv talks with India, Egypt, Turkey over grain corridor | Hindustan Times Delhi - newspaper Magzter",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16181,6 +16369,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "779b9e944e6c",
+   "title": "Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
+   "original_title": "Saudi helicopter crash kills two as tanker attacks threaten Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWpTeDBVU3JVb2VwdkVadVZoem5URHdIQ0FyTTFGWFRVU1JCVnNVNWRueXZIQ1hPSnJtN2pDN2pENm5Lc0VpWUtvOVlIZTFHbnVoYzdhVDVveEZTWjc1Q240NW1mcS1lbWJwNkJUcGtYT2lBaDE1T1JXQnFMWWo3UlFqaERhM3hOYkdJMFZjUzEyY3FRZU5EQlhuRWJZZ1hyaEF2c0YtM1RsYXdsdHU4dUx1cTR6YkF0NkNydg?oc=5",
+   "source": "India Shipping News",
+   "published": "2026-10-19T03:40+00:00",
+   "added": "2026-10-22T01:21+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Saudi helicopter crash kills two as tanker attacks threaten Hormuz India Shipping News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "268c19a91edb",
    "title": "PPA Reviews Western Dock Terminal Progress at JPPL Berth, Focuses on Mechanisation and Cargo Efficiency",
    "original_title": "PPA Reviews Western Dock Terminal Progress at JPPL Berth, Focuses on Mechanisation and Cargo Efficiency",
@@ -16287,221 +16504,6 @@
    "summary": "UK shipowner Union Maritime has ordered two platform supply vessels (PSVs) from China’s Fujian Shipbuilding, with options for two more, as it expands its offshore support fleet. The 84-metre newbuilds were contracted at a ceremony marking the 160th anniversary of Fujian Shipbuilding’s founding. The deal’s financial details were not disclosed. Union Maritime’s fleet register identifies the vessels as MW656-1 and MW656-2, each with a deadweight capacity of 4,334 tonnes. The vessels, set to be built by Fujian Mawei Shipbuilding, are set to be delivered in 2028 and 2029. The deal adds another vessel type to an established relationship between the London-based owner and the Chinese shipbuilding group, which previously placed a series of tanker orders with Union Maritime. The company’s latest fleet listing shows eight 113,600 dwt LR2 tankers on order at Fujian, with deliveries scheduled between 2027 and 2029. For Fujian, the PSV deal was part of a wider order batch announced at the anniversary event. The shipbuilder also secured contracts for sixteen 87,000 dwt multipurpose grain carriers for COSCO Shipping Bulk.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "b7cdb77db361",
-   "title": "Crude Oil Price Today, October 19: Brent Crude near $109 as Trump waives Russia sanctions; Middle East risks persist",
-   "original_title": "Crude Oil Price Today, October 19: Brent Crude near $109 as Trump waives Russia sanctions; Middle East risks persist",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOS3c2MHduV2JRMVp3RWZmWkxoazUyczJrN0VBVWE0UjlFX2dBeVdaUEtnNzRSS1dmUEpjRVpIeVIwNFQyU2lqcDc0aEc3dzhrVVBQUFphQzVKTjRUVUxfdkpxTFplZHVwVllPaDduYS1oZnR4Qjk0WG9KVjJfbDhWampRQ0xONDVWMUVHaVBnc3Q1T0lBWmduQ3FIeEY0blBLOTRDNmlkdzRJcklUVFJ5Tlc4R3Y0RGl6ZlI2TGdKbHdSS0d6ejNWWWo1RVlleE51UWM2ZXEwMk5LUnZIY0w3YXRVNkQxLWN3Rnpsak1ZUzJmaFMwcE9j0gH8AUFVX3lxTFB4VVN3bV9RR05VbktPOHREOUF1bUViY0xFajFaeGRib1psNE9yOUFJWWd0cVFYUHJYcWY2LXQzUmFqajRrWDJGRDFiX29pTFEyNjV1eG9Pbkd2Wm90aGswZTJlbjdYVlcxWU1JaHhaS3lmOUY5S2xDS19hblJfdGNkU21ZZHQxWlVBX3p2SFJfaEVQYzY5SExFT3lHZUR5empzQzRrS2tFTDJBeHJKY1lWM1FqWDA0MlFvRHpMQXN2OEdURUQ0TlE4bXpJUGRJMzdoM3pYbFNJQVlQdlMxcHpMbUZZbzlFUkdXcWg1bTlyMjBJajZyODN5N055RA?oc=5",
-   "source": "ET Now",
-   "published": "2026-10-19T02:22+00:00",
-   "added": "2026-10-19T05:17+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "oil price",
-    "russia",
-    "sanction"
-   ],
-   "summary": "Crude Oil Price Today, October 19: Brent Crude near $109 as Trump waives Russia sanctions; Middle East risks persist ET Now",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "88623d4ee8f4",
-   "title": "Havila adds six vessel-years of firm North Sea work",
-   "original_title": "Havila adds six vessel-years of firm North Sea work",
-   "url": "https://splash247.com/havila-adds-six-vessel-years-of-firm-north-sea-work/",
-   "source": "Splash247",
-   "published": "2026-10-19T02:20+00:00",
-   "added": "2026-10-19T07:31+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Norwegian offshore vessel operator Havila Shipping has signed contracts with Neo Next + Energy’s UK arm for two of its platform supply vessels (PSVs). The contracts were awarded to the 2010-built Havila Fanø and the 2009-built Havila Herøy . Each contract is firm for three years until September 2029, with three optional one-year periods thereafter. The contracts are on market terms, will continue existing spot contracts directly, and cover operations in the UK sector of the North Sea. Neo Next + Energy is the largest independent oil and gas producer in the North Sea. The company was formed from the merger of NEO NEXT and TotalEnergies’ UK upstream oil and gas operations in December last year.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "f2e7e0aa8646",
-   "title": "Container Freight Rates Rebound After Three Weeks",
-   "original_title": "Container Freight Rates Rebound After Three Weeks",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNE1wY0RvVDBGWHVxdGdEUjZHMlBYeHM3UFQ3UENnamZMbk9sMUNwdmEydHVMR0g4MTBvX1VudkN2RTlJM1BmWklMb09DamQtQVFNMXpRM1JJR0hiS1JWUlN6ck9JdktqZFRyX2Z1Q2J4YW9xaWxmcXJZcC1Jc2h6RmhjemN0ZWZS?oc=5",
-   "source": "조선일보",
-   "published": "2026-10-19T02:02+00:00",
-   "added": "2026-10-19T04:04+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "freight rate"
-   ],
-   "summary": "Container Freight Rates Rebound After Three Weeks 조선일보",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2162e94fdce1",
-   "title": "Rotterdam container throughput holds steady as transshipment drops 20%",
-   "original_title": "Rotterdam container throughput holds steady as transshipment drops 20%",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQkRWNk9mTkcwU1FOeFdoczVVNE1ZRC1UWV9NSUVkXzBkbjJnZ1ZncmoyMDZ2U252cDAxTHBkSXMtMXJQSHg2SnNjRGtub2xYM3VYd1RNa3RiRnhzZEc5UVVVWDhZMUQ4MjlvTDJwNVU3ektVUmJUMUZ0Wnp4S0ZlbTZDWk55VDFSNk1uXzBsUl9sQ0UwQ2o2YjF3U1NUZw?oc=5",
-   "source": "Container News",
-   "published": "2026-10-19T01:30+00:00",
-   "added": "2026-10-19T04:04+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "throughput",
-    "transshipment"
-   ],
-   "summary": "Rotterdam container throughput holds steady as transshipment drops 20% Container News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f2c459de80f0",
-   "title": "Copper Bulls on the Ropes: Trump's Tariffs Still Missing in Action as Macquarie Warns of a Slide Back to $10,000 a Ton",
-   "original_title": "Copper Bulls on the Ropes: Trump's Tariffs Still Missing in Action as Macquarie Warns of a Slide Back to $10,000 a Ton",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0YVVBUzUyb0RrdEl6b2ppMy11U01TM1lPdXVoYmhUMnNqMEdjZ1EwMGpNaWxZeF8tZUE4Yk9paHNPNGVsVXdkei1GWFJRLWlTWjEyWmZudTUtcURmM3dhbDBzQ0FYaC1XZ3hDamR0UTN1al9tNHc?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-10-19T01:25+00:00",
-   "added": "2026-10-19T02:51+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "copper",
-    "tariff"
-   ],
-   "summary": "Copper Bulls on the Ropes: Trump's Tariffs Still Missing in Action as Macquarie Warns of a Slide Back to $10,000 a Ton BigGo Finance",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c2aa6286ee06",
-   "title": "Blow from the EU to war-hit Ukrainian steel: Exports may fall by up to 60%",
-   "original_title": "Blow from the EU to war-hit Ukrainian steel: Exports may fall by up to 60%",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNlJoNHhKaWJCSlRYRzBXZGJHTThJTEd0ZGhDdlhKMEdtZnBuZDdmZHJ1VlNPZE1HSVdNaC1DMjRSRkVyZVc5SWtaN3ViRVN5VFB1aWxnQmVadjVrOG15SExydU5XaEF5bThSWGk2MHR1TVhBd3QtR0F5bFBOb1hwSi1R?oc=5",
-   "source": "Haberler.com",
-   "published": "2026-10-19T01:23+00:00",
-   "added": "2026-10-19T15:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "steel",
-    "war"
-   ],
-   "summary": "Blow from the EU to war-hit Ukrainian steel: Exports may fall by up to 60% Haberler.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c2ed3bd787c0",
-   "title": "VINCI Airports launches modernisation and expansion of Terminal 2 at Lyon-Saint Exupéry Airport",
-   "original_title": "VINCI Airports launches modernisation and expansion of Terminal 2 at Lyon-Saint Exupéry Airport",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeUJ1RUoycWVBOE5tM0hocEg2OThkTjlXYVA2Nmp6VHFoY2YtVEo0TDc4djNHLWE1Z1h5RnV3VWhCN25PMFp3WDVCS3JyQTZWTS1PZ2RNdVhZTlkxRVdlNEFiSzVZaC1PRXdiSk9IWkRLVm5nOVZmbzJUczhiWGpnWlM3Y2x5WlVnaHBWcmIyTFRvVlprcHRQc2ZxdmZBRUNaVzNOelduVTdTSGtrc0JRWHh1UFk3WU9ONkw4dUZlNXZyQlp1TkhGcUFSUl84RFVJTWMwQUVqTVh1N1k?oc=5",
-   "source": "Future Travel Experience",
-   "published": "2026-10-19T01:17+00:00",
-   "added": "2026-10-19T21:47+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "VINCI Airports launches modernisation and expansion of Terminal 2 at Lyon-Saint Exupéry Airport Future Travel Experience",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d99668b5ca01",
-   "title": "[SMM Iron Ore] Port stocks build 2.85 million mt; iron ore expected to trade soft",
-   "original_title": "[SMM Iron Ore] Port stocks build 2.85 million mt; iron ore expected to trade soft",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQalRacC1BcWF0S2d0ZmhPQWdlcWUtM3dLVnp6TEMxZTl6MzFqUnk2QmN2bXNLc1UzTDE1R3lSazlFRFlxUGI4bXZ3MFBxWkFuMThKTjhiVUV1dWQ0RXJWZE9GOHZuTmZDbmp0cUlUalREOVNFc1Nfelp1VURqblgyenE5SFh4ejhMMEZza2tpTDlvRlQzZFZBaFZibTM2TnNMT3BydW9qbkpSdnZYT180U2VlVmpMTkNaeU1tSXVjYw?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-19T01:07+00:00",
-   "added": "2026-10-19T06:39+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "iron ore",
-    "port"
-   ],
-   "summary": "[SMM Iron Ore] Port stocks build 2.85 million mt; iron ore expected to trade soft Shanghai Metals Market",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
