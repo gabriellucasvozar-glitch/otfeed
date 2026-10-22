@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T17:10+00:00",
+ "generated_at": "2026-10-22T17:44+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,32 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "42d0d33caf28",
+   "title": "Pellets lead 7.1% rise in German wood-product producer prices",
+   "original_title": "Pellets lead 7.1% rise in German wood-product producer prices",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPenpaRlpsSXIwbVNRLXRVbUpjc0NHeURIaFAtLU1XXzNxYm9xYTdWcFFCNWhyMVhOZldGdlU3QnhTbmpIaWY1ZkJzS2RYNnVyUzRZRjNmMXhDc1BLNjdLYWMwUXJRUUNpMEc1U3BMYVdKN2c1MjljZ1A2SEllNVBsX0NaMkpPQnd5amtIN0JOUWhEVlM3RXJycGJxZ001dkZWZlE?oc=5",
+   "source": "Lesprom Network",
+   "published": "2026-10-22T17:34+00:00",
+   "added": "2026-10-22T17:44+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "pellets",
+    "prices"
+   ],
+   "summary": "Pellets lead 7.1% rise in German wood-product producer prices Lesprom Network",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "6b9c1da04c6b",
    "title": "Super Typhoon Champi raises China port congestion concerns",
@@ -95,6 +121,33 @@
    ],
    "summary": "Consumer confidence in the Euro Area fell further to -17.9 in October 2026 from -16.5 in September, reaching its lowest level since May, according to flash estimates. Figures came in weaker than expected, as analysts had forecast a more modest decline to -17. Concerns over elevated global oil prices, inflationary pressures and the interest rate outlook likely contributed to the deterioration in consumer sentiment. Sentiment also weakened across the broader European Union, with the index falling to -17.3 from -15.8. Source: Trading Economics",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "4338f217bf0d",
+   "title": "Iran Claims More Ships Struck Near Hormuz as Trump Accuses Tehran of ‘Faking Hits’",
+   "original_title": "Iran Claims More Ships Struck Near Hormuz as Trump Accuses Tehran of ‘Faking Hits’",
+   "url": "https://gcaptain.com/iran-claims-more-ships-struck-near-hormuz-as-trump-accuses-tehran-of-faking-hits/",
+   "source": "gCaptain",
+   "published": "2026-10-22T16:46+00:00",
+   "added": "2026-10-22T17:44+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "hormuz",
+    "vessel"
+   ],
+   "summary": "The Soho Square, a crude oil tanker sailing under the flag of Liberia, is at anchor in the Galveston Bay as it makes it’s way to the Port of Houston shortly after U.S. President Donald Trump announced a 60-day waiver of the Jones Act shipping law, in Texas City, Texas, U.S. March 18, 2026. REUTERS/Antranik Tavitian Iran’s Revolutionary Guards claimed Thursday that seven commercial vessels were struck overnight in the Persian Gulf and Strait of Hormuz, including four ships conducting oil transfers, prompting President Donald Trump to accuse Tehran of fabricating attacks to drive up oil prices ahead of the U.S. President Trump responded Thursday by accusing Iran of inventing attacks as part of an effort to influence oil prices ahead of the November 3 elections. “They are even making up fake hits, mines, and everything else, because more Oil is coming through the Hormuz Strait now than it did even prior to the beginning of the Conflict.” The president’s accusation follows weeks of increasingly aggressive Iranian statements claiming that merchant vessels using routes outside Tehran’s control have been struck by mines or other weapons. Iran’s latest claims also follow a series of announcements alleging that tankers have struck naval mines while attempting to transit the Strait of Hormuz without Iranian authorization.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
   },
   {
@@ -16485,61 +16538,6 @@
     "stockpil"
    ],
    "summary": "India Shelves Import Plan to Tackle Diminished Coal Stockpiles NDTV Profit",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "eaf6d87ccc02",
-   "title": "COSCO SHIPPING Ports proposes Qingdao ore terminal exit",
-   "original_title": "COSCO SHIPPING Ports proposes Qingdao ore terminal exit",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzhhdHlKU1hDUzQxSldVYklJYnVWTUx5dGxCQmJheHJGTTJFX01SZmFCUk14UjVpd3I5T1RZZm1jRnlBQjFGZmc0UUpacUJEc3NCOXAzekhsZUxMdzRZSDZWS2lONGlWaFprNG9SWWNhRGhOYWVydHMxSHJ2Ny1mVWUtbzhCZ3R5SHZqdjhwTC1DZkFxRlNtMA?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-19T14:03+00:00",
-   "added": "2026-10-22T11:09+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "shipping",
-    "terminal"
-   ],
-   "summary": "COSCO SHIPPING Ports proposes Qingdao ore terminal exit Port Technology",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ccf08b8de36b",
-   "title": "Oil prices ease after hitting five-month high amid Middle East tensions",
-   "original_title": "Oil prices ease after hitting five-month high amid Middle East tensions",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaUpTZ1dYLXBCemt2bV9rSkhEQkVLQ1RGZUstX2c1cExNUlhyLVB0bGdTVHlkckxJVU9KNVlYYXRzOUlra3VjYnlIeVgybUVVVDhNdUNYNE5YX2ZMRUVBVHdpU0RfV2FmaThxS1VZeU5DbHhRaTJqUDRBTTRaM3gwNHdzemlwTnplNm81RmNudk1nelFGaXhJSnJqcWVMNmw5MmfSAfYCQVVfeXFMTmd3Q2VhTk1DMHRISGFuRDd3cDJIdWxBWE52X1VhZkg1YTF4VGJHXzF0QjZpaWNNUGpqNFhFMjlGZGYtOHVYSEhNRERrTHpVQmhRb0ZSNS10T29SU2U4Zlg1VEZnUFl2QThURFBOYWZwRjQxMFpoVjdfQ0hkaE5Ka3hPT0EzVDRxTXRIVkNmQ3lMeGw4eGxVNGdFWG9abFpVVWpSNVFzMnhfWGVaTmVEb21fWGFhSW4yZWl5MVNvcnZlbEk4Q2F0TGhFRm5pRXpEQWdVV1pnNEtud2I3d3NfMW9sZUtMUk44SVAtZTRWWDNBQ1cySjJJSUUyWENCb3V6ZzZQM0NsQjhjR1F2bW1mVjVsa1dha0FISWhaeUlIaDF3OFpZTV9MMVlzdHU2MlZFTTRMU1Q5dzNfY043TlpPN2VCdW9hMmxKU2RJWW9zZmpKdGd5WTU3dVd1MlFVOGZ4N1p2bG5uR3A0OEYtc2ZXY0tRYjB0MGc?oc=5",
-   "source": "Tribune Online",
-   "published": "2026-10-19T13:58+00:00",
-   "added": "2026-10-19T14:27+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "oil price",
-    "prices"
-   ],
-   "summary": "Oil prices ease after hitting five-month high amid Middle East tensions Tribune Online",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
