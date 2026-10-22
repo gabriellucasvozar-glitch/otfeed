@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T13:13+00:00",
+ "generated_at": "2026-10-22T13:59+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "88f78b095119",
+   "title": "Marco Polo Marine expands Korean offshore push with new JV",
+   "original_title": "Marco Polo Marine expands Korean offshore push with new JV",
+   "url": "https://splash247.com/marco-polo-marine-expands-korean-offshore-push-with-new-jv/",
+   "source": "Splash247",
+   "published": "2026-10-22T13:36+00:00",
+   "added": "2026-10-22T13:59+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "charter",
+    "joint venture",
+    "stake",
+    "vessel"
+   ],
+   "summary": "Singapore-listed offshore vessel owner and shipyard group Marco Polo Marine has established a joint venture in South Korea with local partner NSEL, strengthening its presence in the country’s offshore vessel market. The new company, Baramgil Offshore, will focus on vessel operations, management and chartering, with NSEL holding a 51% stake and Baramgil Corporation taking the remaining 49%. Baramgil Corporation is 90% owned by Marco Polo Marine’s Taiwan-based affiliate PKR Offshore, in which the Singapore group holds an indirect 49% interest. The venture has been established with an initial paid-up capital of about $107,000, with Marco Polo Marine funding its investment through internal resources. The latest move builds on an existing partnership between PKR Offshore and NSEL, established in 2023 to pursue opportunities in South Korea’s offshore wind sector. The partners made their first move into the Korean market in 2024, deploying a Korean-flagged crew transfer vessel (CTV) for offshore wind work. Marco Polo Marine has also been expanding its offshore wind support fleet across Asia. In July, the company secured a multi-year framework agreement with Siemens Gamesa covering two commissioning service operation vessels (CSOVs), primarily for projects in Taiwan, with potential deployments in South Korea and Japan. The agreement is scheduled to begin in 2029, with provisions for an earlier start in 2028.",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "extract"
+  },
   {
    "id": "83b02c7686d2",
    "title": "Another typhoon threatens recovery of East Asian ports from congestion",
@@ -477,6 +506,40 @@
    ],
    "summary": "Charleston Port moves Isuzu equipment to Inland Port Greer Port Technology",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "17b7d1b9584c",
+   "title": "Russian grain exports collapse fourfold as Black Sea ports stall",
+   "original_title": "Russian grain exports collapse fourfold as Black Sea ports stall",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNjJPaVVRZE1zNGNrWFZuZWwxQlpwcm9pZkxXdldvV2ZnM2swbE1nR0xBNGpnOW1ETlBmTVdnZUNrMzU2VHJoUW93UUFGWVF0NDhiMnlLRTViMmI4eDFDOEotaGNNbjBmR3MyaHVoMlFTT0lmZ2I5bWpyQzA1WGxqN2Z2dm4wTURyQ1pYNlQyazbSAZABQVVfeXFMTzYyT2lVUWRNczRja1hWbmVsMUJacHJvaWZMV3ZXb1dmZzNrMGxNZ0dMQTRqZzltRE5QZk1XZ2VDazM1NlRyaFFvd1FBRllRdDQ4YjJ5S0U1YjJiOHgxQzhKLWhjTW4wZkdzMmh1aDJRU09JZmdiOW1qckMwNVhsajdmdnZuME1EckNaWDZUMms2?oc=5",
+   "source": "The New Voice of Ukraine",
+   "published": "2026-10-22T10:13+00:00",
+   "added": "2026-10-22T13:59+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports",
+    "commodities"
+   ],
+   "priority": "high",
+   "score": 17,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "black sea",
+    "grain",
+    "port",
+    "ports",
+    "russia",
+    "russian",
+    "ukraine"
+   ],
+   "summary": "Russian grain exports collapse fourfold as Black Sea ports stall The New Voice of Ukraine",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -1641,6 +1704,35 @@
    ],
    "summary": "Hillwood secures €20m loan for Polish logistics park Green Street News",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "64cedbd4386b",
+   "title": "Ukraine will not be able to export grain harvest without seaports",
+   "original_title": "Ukraine will not be able to export grain harvest without seaports",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOclc4RkpBa3FaZ2owanBvR2h0NXRtMFF0dWVIQ0ozbzk3VHRUT0JmbmdDemVzZV90cktlQWNfdkEzVVFqY044dUlhOWxXajZsWnp0d1BsczhPbDZOdHAtNVpKOHVzeTRudDlhelRwckt1eFRrclNYd3M0VXVlR3EzdncxX1B1SlQ1Q1dwTWY4bTU4YzhMUTUzenlR?oc=5",
+   "source": "Новини аграрного бізнесу",
+   "published": "2026-10-22T07:04+00:00",
+   "added": "2026-10-22T13:59+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "seaport",
+    "ukraine"
+   ],
+   "summary": "Ukraine will not be able to export grain harvest without seaports Новини аграрного бізнесу",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16444,90 +16536,6 @@
    ],
    "summary": "Solar energy is becoming increasingly important for bolstering sub-Saharan Africa’s trading potential, with supply chain executives telling The Loadstar that Kenya and Nigeria are two of the fastest-growing markets for the technology. By the end of the first quarter, Nigeria had climbed into the top 10 of solar panel suppliers to the US, with some 40% of the country’s total exports of the technology, totalling $64bn, ending up in the US. That growth has been felt by forwarders and logistics partners. DHL Express’s chief executive for Sub-Saharan Africa, Hennie Heymans, told The Loadstar the company was seeing “incredible growth” in solar-panel exports out of Nigeria – and nor is that country alone. “We actually see an incredible growth in solar panel exports towards the United States from Nigeria and Kenya,” he said, pointing out that for Africa in general the “new energy” vertical was proving something of a winner, experiencing 20% growth year on year. Interestingly, local forwarders told The Loadstar solar panels were also proffering volumes in the reverse direction for Kenya, although there was debate around whether the volumes were part of a local redevelopment of energy infrastructure or the result of chaos in the supply chains.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "8222a415ec05",
-   "title": "Baltic Dry Index Finally Broke Its 10-Day Slide",
-   "original_title": "Baltic Dry Index Finally Broke Its 10-Day Slide",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ0NocWtlWWJTVkVfaWdWMi1KTUdSaDU5Z1ZIM2xTd3l1WjFXcnBYb05sYVFfMTMzWjN6SVVaUHg1Qk5OTU5SdVZDMmJfalBTaVdWYTRCdjdLeDdORUVuTU9xME4ycjM3V3ZsNmtGVnJpMjBQWmhqM0hPVktmMkNZOGRB?oc=5",
-   "source": "Finimize",
-   "published": "2026-10-19T12:02+00:00",
-   "added": "2026-10-19T13:00+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry"
-   ],
-   "summary": "Baltic Dry Index Finally Broke Its 10-Day Slide Finimize",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5697bdd3afa9",
-   "title": "Middle East shipping faces rising threats as vessels continue Hormuz transits",
-   "original_title": "Middle East shipping faces rising threats as vessels continue Hormuz transits",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlZNWm5ZX2IxSUZLeUZpN1Nqcnd4VmxTWTVKa2RzcGNkWnNoeGRvbl85OXAwNUtOeHRUeU11dWFjOTRhcU5JblBCVkw5aEdlVkNDZHNpNms3WFBxYjJpWER1VGlLYzBmQmhWbmg4dEV2SmhSektKd3FuUVVlQWY3UFBXOXFUbEJIWEVoS1BpeW5LTW5td0taMzludmpFY3R1dlVr?oc=5",
-   "source": "safety4sea",
-   "published": "2026-10-19T12:01+00:00",
-   "added": "2026-10-19T19:27+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Middle East shipping faces rising threats as vessels continue Hormuz transits safety4sea",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ebc2560f5a47",
-   "title": "Baltic Dry Index climbs to 2546 up 35 points",
-   "original_title": "Baltic Dry Index climbs to 2546 up 35 points",
-   "url": "https://www.hellenicshippingnews.com/baltic-dry-index-climbs-to-2546-up-35-points/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-19T12:00+00:00",
-   "added": "2026-10-19T13:00+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry",
-    "coal",
-    "grain",
-    "iron ore",
-    "prices"
-   ],
-   "summary": "Today, Monday, October 19 2026, the Baltic Dry Index climbed 35 points, 2546 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore. The index is based on a daily survey of agents all over the world. Baltic Dry hit a temporary peak on May 20, 2008, when the index hit 11,793. The lowest level ever reached was on Wednesday the 10th of February 2016, when the index dropped to 290 points.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
  ]
