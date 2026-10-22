@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T22:25+00:00",
+ "generated_at": "2026-10-22T23:00+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -394,6 +394,32 @@
     "steel"
    ],
    "summary": "EU 'inviting disaster' with carbon tax on steel, says Piyush Goyal Fortune India",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a6beba0b80c6",
+   "title": "Strong Capesize rates fuel fourth day of gains for Baltic index",
+   "original_title": "Strong Capesize rates fuel fourth day of gains for Baltic index",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPemNYVGF5VkxQY1FQZXhGLVZGcGNHdjhmckR0NF9FMGtIbElGemtfOHZLbWZHUTVpYlYzRGJjVU5qUTBlaEJ4WTMyQkFFTzh5NU9CcXJZdnhDcXl0SUMtbFQ0M3BuZTVnSUJVRWV5MkZGeW45WWRKMk5NU1hfTHJIRG1pM1E2cjFoc0FBT2hfY2x1UElsNnVzM2g3eDhTelVMd0ZSVjNQeDlFTElGaHZNcDJmaXloekF6NEQ3UtIBygFBVV95cUxPMzMtSHdPZVE5SURNeTBtRU9xT0x1ajUyMW11djlPQTVYei1BOVI4dXF4TVVZT2Jjc2MtMjhkTHdiREp2S2FVbkVtb3ItRnVqbFBGVzU2SWx2SXQyNU5JaEpsUk4wcFBZV09td05UUlVZQXNJcU9McGR5ZFV0OWZfWXBpcDMyQ1ZBT2doYmFFU3NqOThHRjRPYTkzUDQ4ZHhSVlZCcG5LRV9ROC1kSmdZRHNQcjBxZEdUVjdRZ21YU2l6YXJCTUxaU0Z3?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-22T18:05+00:00",
+   "added": "2026-10-22T23:00+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "capesize"
+   ],
+   "summary": "Strong Capesize rates fuel fourth day of gains for Baltic index Baird Maritime",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -2213,6 +2239,34 @@
    ],
    "summary": "Russian grain exports collapse fourfold as Black Sea ports stall The New Voice of Ukraine",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "77f075b5fac7",
+   "title": "AI-Driven Digitalization Raises Cybersecurity Concerns for African Ports",
+   "original_title": "AI-Driven Digitalization Raises Cybersecurity Concerns for African Ports",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OSEtCN2QxbUNUZzFaWlJBLVEzdFdDUDB0NlNYZXplNlJfem1XWUFhWGktTUxIdWFvRUhuMEsyYkNpbTZRclZvZzBmUGtyeFhnWkNzNi1zRQ?oc=5",
+   "source": "OECD AI Policy Observatory",
+   "published": "2026-10-22T10:08+00:00",
+   "added": "2026-10-22T23:00+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "digitalization",
+    "port",
+    "ports"
+   ],
+   "summary": "AI-Driven Digitalization Raises Cybersecurity Concerns for African Ports OECD AI Policy Observatory",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -8135,6 +8189,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "120c19019e91",
+   "title": "Combiconnect inaugurates Barcelona terminal",
+   "original_title": "Combiconnect inaugurates Barcelona terminal",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJMkxlSkJUTWREYS1RWnVWVGZDbHU2LWZSaV9MYktXRHBMM2ZPOFFvTnpOY0h6bjUtT25FOUxuNVZ0dGhIemstbDlfaHNLZVd5U2NwakFDSUhMOGxLWE0yVUhtV3ZLVDJpVzN0akxRb2U5QnBtcmttZW50SVo?oc=5",
+   "source": "Ship2Shore",
+   "published": "2026-10-21T09:30+00:00",
+   "added": "2026-10-22T23:00+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Combiconnect inaugurates Barcelona terminal Ship2Shore",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "59e65842d8d4",
    "title": "Green steel production in Europe requires a unified energy strategy – Saarstahl",
    "original_title": "Green steel production in Europe requires a unified energy strategy – Saarstahl",
@@ -13223,6 +13302,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "ae1be3c6a531",
+   "title": "Hupac otworzył nowy terminal intermodalny w Barcelonie.",
+   "original_title": "Hupac otworzył nowy terminal intermodalny w Barcelonie.",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdFZyWXVSazhXQ1BUVjljYmpvanVHZG1vckZhQ2x0YTQwbEppVlp1OE5JeExtVndIa29ldDBjV21nLTlnNk9tU0N1OVRFUUowZkx1MGkzSHJhSDZNU1ROVXV2ZkRUeFNjQ3BDRlpPeHlaMkJ1Mmc4Z05yOGlZcXRwbmI2TGdUV1JRRG9vOEdabGhVV1lBRUoyU19Gdzd6ZkJQNXRKY3lMQV9GZm1zcmhORjhFakpVU0VSLXVvazR0elVWaXY4Wm44WWIyY0xaRERfQldGd0JKeXVVSnpmT2M3U1JtTDk?oc=5",
+   "source": "Kurier Kolejowy",
+   "published": "2026-10-20T11:11+00:00",
+   "added": "2026-10-22T23:00+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "intermodal",
+    "terminal"
+   ],
+   "summary": "Hupac otworzył nowy terminal intermodalny w Barcelonie. Kurier Kolejowy",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b8eef230b9db",
    "title": "ERFA: Rail freight transport under pressure due to lack of funding and cross-border bottlenecks",
    "original_title": "ERFA: Rail freight transport under pressure due to lack of funding and cross-border bottlenecks",
@@ -15345,6 +15451,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "030ea01fb7bc",
+   "title": "West African ports need connected digital systems to facilitate trade – World Bank specialist",
+   "original_title": "West African ports need connected digital systems to facilitate trade – World Bank specialist",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT3YtMFVZM3FmZDFUVEFFY2hNQjZvVDQzZTlRZGhfb3hCZ3hOZndJQTNNY1UzcmhSYTZLa0tPTzVCMnhMbDhYNDNsWll3cmNxcXBYWndrRmlSSmVqd2tyXzBkTzVNUG5BdlNjUzBUY0lMTjgzMWhMajNMd1JGeFFtT3ZNNGZoZlJzQzJrZVVCTlFNb0lSbGRMaGpjWndxMmtDeUVrSXoyNFdQdEZKOWw0Q0hLM1BvaDVsekRPU0RJTnYwWU5yZDktRnBQbzhieUV5OEl3?oc=5",
+   "source": "Ghana Business News",
+   "published": "2026-10-20T06:45+00:00",
+   "added": "2026-10-22T23:00+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "West African ports need connected digital systems to facilitate trade – World Bank specialist Ghana Business News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "43c68c2df9c6",
    "title": "New agreement standardises Middle Corridor operations, more countries can join",
    "original_title": "New agreement standardises Middle Corridor operations, more countries can join",
@@ -16386,148 +16518,6 @@
    "summary": "EU proposes easing nitrate fertiliser rules, raising stakes in water pollution debate The Brussels Times",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "132d14e70c8b",
-   "title": "EU transport budget faces €5.2 billion cut as German rail freight charges rise",
-   "original_title": "EU transport budget faces €5.2 billion cut as German rail freight charges rise",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOREQxWlpUOWlLcTRna0hqOUV5UFhyMi1iQnRRb0M4bmtfTEZHU1ZURC1xLXR5RmdLS1JjSmJrVjF2UVJ1Tnk4alZRN25kOFhheXdudXJkYzVmbS1BS1JKdnlTQjF0Y1Y1RHUwUHdHa0VXMFBvam5ZVENTNFlzR1Q1YVFyTFM5WmVrNlB2eDN3V1VPZE9QNUlPTm90SmRJV0wwQmlxY2IzZ08yekQtYi1nMGFQNGZ5QlhmU1JKLVhXeEg?oc=5",
-   "source": "RAILMARKET.com",
-   "published": "2026-10-19T22:31+00:00",
-   "added": "2026-10-20T01:13+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "rail freight"
-   ],
-   "summary": "EU transport budget faces €5.2 billion cut as German rail freight charges rise RAILMARKET.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1a1c9eb7db61",
-   "title": "Throughput in the port of Rotterdam rose by 0.9% in the first nine months of the year",
-   "original_title": "Throughput in the port of Rotterdam rose by 0.9% in the first nine months of the year",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWFUzQVNFeHJrbXRsbjJhZTJUSVRYSy1sa3ZMNjlDZXlIMk1vLVNIaHlVQk9HVDZQVWFRalk1Ylp0RURNcFZoVHcxcG5seDlrQy04cXBDclhSczhmMXVaRG91eklKN2loQWIxLXVHT2Yxc0Z2MDZtMUwtSHFwZjVvWmRVNDRGYmFhQU16ci1OU0ZmajFzTmExbk5NcEZMRklnUzFZNzJmdmswSFZC?oc=5",
-   "source": "DredgeWire",
-   "published": "2026-10-19T22:25+00:00",
-   "added": "2026-10-22T10:31+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port",
-    "throughput"
-   ],
-   "summary": "Throughput in the port of Rotterdam rose by 0.9% in the first nine months of the year DredgeWire",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "997b1866821b",
-   "title": "Euroseas Ltd. Announces a New Time Charter Contract for its 2001-built 2,556 teu Feeder Containership, M/V EM Corfu, and the Sale of its Sister Vessel, M/V Evridiki G",
-   "original_title": "Euroseas Ltd. Announces a New Time Charter Contract for its 2001-built 2,556 teu Feeder Containership, M/V EM Corfu, and the Sale of its Sister Vessel, M/V Evridiki G",
-   "url": "https://www.hellenicshippingnews.com/euroseas-ltd-announces-a-new-time-charter-contract-for-its-2001-built-2556-teu-feeder-containership-m-v-em-corfu-and-the-sale-of-its-sister-vessel-m-v-evridiki-g/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-19T21:00+00:00",
-   "added": "2026-10-19T21:11+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "mna"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "carrier",
-    "charter",
-    "sale of",
-    "teu",
-    "vessel"
-   ],
-   "summary": "Euroseas Ltd., an owner and operator of container carrier vessels and provider of seaborne transportation for containerized cargoes, announced today a new time charter contract for its 2,556 teu feeder containership, M/V EM Corfu, built in 2001, for a minimum period of 12 to a maximum period of 14 months, at the charterer’s option, at a gross daily rate of $62,500. The new charter is expected to commence in mid-December 2026, following the completion of the vessel’s scheduled dry-dock. The Company also announced that it has agreed to sell M/V EM Corfu’s sister vessel, M/V Evridiki G, a 2,556 teu vessel also built in 2001, for approximately $26 million. Aristides Pittas, Chairman and CEO of Euroseas, commented: “We are pleased to announce a new time charter contract for our feeder containership, M/V EM Corfu, for 12-14 months at a profitable rate of $62,500/day. The charter is expected to generate approximately $17.8 million of EBITDA over the minimum contracted period and increases our charter coverage for 2026, 2027, and 2028 to about 100%, 91% and 49%, respectively. “We are also pleased to announce the sale of M/V Evridiki G, for $26 million, a price we consider very attractive for a vessel of this vintage.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "2c1aa5b9888c",
-   "title": "Ethanol debut for WinGD as Maersk vessel makes landmark US bunkering and voyage",
-   "original_title": "Ethanol debut for WinGD as Maersk vessel makes landmark US bunkering and voyage",
-   "url": "https://www.hellenicshippingnews.com/ethanol-debut-for-wingd-as-maersk-vessel-makes-landmark-us-bunkering-and-voyage/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-19T21:00+00:00",
-   "added": "2026-10-19T21:11+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "North America",
-    "Africa"
-   ],
-   "tags": [
-    "bunker",
-    "shipping",
-    "teu",
-    "vessel"
-   ],
-   "summary": "WinGD has recorded the first in-service operation of its X-DF-M/E alcohol fuel engine platform on ethanol fuel, following a successful bunkering and voyage in the US. The 9,000 TEU container ship Tangier Maersk, owned by the Maersk shipping line, successfully sailed from Houston to New York on ethanol fuel. The vessel took on the bunker at the Port of Houston in late September, with the world’s largest bioethanol producer POET supplying fuel for the WinGD X82DF-Mengine powering the vessel. The occasion marked the first marine bunkering of a 100% bioethanol blend in the US, and the first ever in-service bunkering of ethanol to a WinGD engine. The first X-DF-M/E engine capable of using methanol entered service in 2025, with multi-alcohol fuel capability added this year – enabling both methanol and ethanol fuel to be used on six mid-sized sister vessels ordered by Maersk. (Image credit: Alabama Port Authority) WinGD Vice President Research & Development Sebastian Hensel said: “The use of bioethanol as a marine fuel is a natural progression for WinGD after successful operating experience with methanol using the same engine platform. This debut, a result of the strong momentum of Maersk in validating the use of this cost-effective low-carbon fuel, enabled us to confirm important operational and safety functions.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "39f78b995081",
-   "title": "Shipping: The El Niño Effect",
-   "original_title": "Shipping: The El Niño Effect",
-   "url": "https://www.hellenicshippingnews.com/shipping-the-el-nino-effect/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-19T21:00+00:00",
-   "added": "2026-10-19T21:11+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "shipping",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "disruption",
-    "intermodal",
-    "shipping"
-   ],
-   "summary": "According to Mr. Vasilis Fousekis, Research Analyst with Intermodal, “for dry bulk, the canal is the most direct link. The Panama Canal Authority, after cutting daily transits to 32 in September – only the second such reduction in history, eased restrictions following late-September rain. “In coal, El Niño brings drought to Southeast Asia, reducing hydropower output, and increasing coal burn, notably in India and Vietnam, contributing to the shift to coal as a source of energy, in a period of high natural gas prices. Similarly, “in grains, El Niño is expected to affect Brazil’s 2026/27 crop mainly through irregular rainfall in central and northern Brazil, while the south faces excess rain. Any delay to the soybean cycle would also push second-crop corn planting beyond its ideal window, threatening yields and Brazil’s corn exports in the second half of 2027. The United States stands to benefit, as a record soybean crop and the second-largest corn crop on record leave it well placed to fill the gap, with a longer export window into Asia in early 2027 and stronger demand for its corn later in the year. Overall, El Niño effects on shipping spread through reshuffling of logistics and trade flows rather than through large swings in volumes, as also past events showed.",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "extract"
   }
  ]
 }
