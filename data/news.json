@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T02:00+00:00",
+ "generated_at": "2026-10-22T02:34+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -118,6 +118,31 @@
     "port"
    ],
    "summary": "Port of Galveston completes $106m West Port Cargo Complex expansion Baird Maritime",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1b62b1ad1a8c",
+   "title": "Port Said calls double as Gemini reworks seven Asia–Europe services",
+   "original_title": "Port Said calls double as Gemini reworks seven Asia–Europe services",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVkhtbkVqVVZVaXJPRDRORjVXODVla09KNVEzX1FCalU4Ykc4Y1EwZGx5LXF6ODNXYlZtYkdza0pROGpMaW1EcmNvVjFMSFc2UG9RSDZOVktEZVAxT0pNcm96LVVEczlscGMyV0ZiVGt5M2FDTVExOEJKa0xBV2pTZV9wSG4wNU13bTBSc1I4X0NNeUFwMmZnUnRtTEhldXdKSGhOWXhB?oc=5",
+   "source": "Container Management",
+   "published": "2026-10-21T22:05+00:00",
+   "added": "2026-10-22T02:34+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port Said calls double as Gemini reworks seven Asia–Europe services Container Management",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -6754,6 +6779,31 @@
    ],
    "summary": "Middle East conflict could reshape LNG shipping through demand shifts, fleet segmentation and crew shortages www.rivieramm.com",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8519fbcc95ee",
+   "title": "Antwerp-Bruges’ container throughput bounces back amid trading volatility",
+   "original_title": "Antwerp-Bruges’ container throughput bounces back amid trading volatility",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fbTM4dzNMZE9Zem9pZUFESk1ZZEk4Z2lQS1ZnMF91WFA0cnRhLXJKVmRsYVktOHl0ZkxYLTNzdHlyNFVEYnFRUHZYNXplbUV3cVlkbkFfSENFa1pZTjRQbXFoNmREQlRwMFhkLWp6Zi1LdDRQMlE?oc=5",
+   "source": "FreshFruitPortal.com",
+   "published": "2026-10-20T16:00+00:00",
+   "added": "2026-10-22T02:34+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "throughput"
+   ],
+   "summary": "Antwerp-Bruges’ container throughput bounces back amid trading volatility FreshFruitPortal.com",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16448,61 +16498,6 @@
    ],
    "summary": "See the state of the art technologies at the Container Terminal Altenwerder in Hamburg, Germany Britannica",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1679f906f60d",
-   "title": "Brazil increases corn exports, adding pressure on global prices",
-   "original_title": "Brazil increases corn exports, adding pressure on global prices",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaVZ2dDlqWWRIVnZJQW1jeFVzTnF6U2h2UlI5VWNZMEJrMjB6RFo4VzZZMHRUWFlVQ3pQWG03c201bFlSYnpXYkVPcFNaWGJNeXVjNndNbDJkeV8tOElMT3hoaDNNdnFrQ095OFI3QmtVWDBra1RVUWdRalNwZjlzazlBRTE3RndnZ0toX3EwLUwwVzRmNkUwbF8wX1hEeTg?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-19T04:39+00:00",
-   "added": "2026-10-19T06:39+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "corn",
-    "prices"
-   ],
-   "summary": "Brazil increases corn exports, adding pressure on global prices UkrAgroConsult",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8ab7340b94d0",
-   "title": "Ukraine is discussing the reopening of the grain corridor with Turkey, India, and Egypt — Bloomberg",
-   "original_title": "Ukraine is discussing the reopening of the grain corridor with Turkey, India, and Egypt — Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ292T25BYnNzNmtHdVV3Q1BSM3RTdVU3N3JuMEZBOEdZSFh2R3FrdlVLU2ZMTl9uVjJpRmZIdk94U285MUJ6Z1ZqcUxoSnJtWHZSZDVxc2ZhTXdDaDNYWHgxd20yMklMWXk2SjNuRUF0NzRxSVBWblFrTUQ5SGQtOXBQN2ZLNW5JbWdXaTlTTHpOcDk0Y1loS1lrXzNDdW5Zdy01c19jZFdFY1NDbm9fSl9jOUdpMkJDcnpMN1NIcnA?oc=5",
-   "source": "UA.NEWS",
-   "published": "2026-10-19T04:38+00:00",
-   "added": "2026-10-21T21:54+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "grain",
-    "ukraine"
-   ],
-   "summary": "Ukraine is discussing the reopening of the grain corridor with Turkey, India, and Egypt — Bloomberg UA.NEWS",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
