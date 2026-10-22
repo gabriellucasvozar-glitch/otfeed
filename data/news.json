@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T02:34+00:00",
+ "generated_at": "2026-10-22T03:10+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "8b8bbaeb305b",
+   "title": "Australian iron ore miner warns of production slowdown without China deal",
+   "original_title": "Australian iron ore miner warns of production slowdown without China deal",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGhhU0tQa01TbjRvYk44RDVSSGlVV09JbjBELVBkY0tuSzMydDFfQkFhcGh4cG9EaDZFd3lLa1FUWHh6ZlZfNjFSVVA0ODNaVkdjTEN0Zm1LMGIzaFY5SDBNSmxHODRZSFQtOXVSckRpQkRjc1RJd1BNMWM2aFFtNzBoYnY?oc=5",
+   "source": "Financial Times",
+   "published": "2026-10-22T02:18+00:00",
+   "added": "2026-10-22T03:10+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7.5,
+   "regions": [
+    "Asia",
+    "Oceania"
+   ],
+   "tags": [
+    "china",
+    "iron ore"
+   ],
+   "summary": "Australian iron ore miner warns of production slowdown without China deal Financial Times",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "b339b6306d0c",
    "title": "Maersk Tankers RIPPLE Ammonia Retrofit Project Wins EU Innovation Fund Support - News and Statistics",
@@ -16471,33 +16499,6 @@
    ],
    "summary": "Russia has yet to agree to any of the proposed options for a new grain deal — Zelenskyy UkrAgroConsult",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "923186ab8353",
-   "title": "See the state of the art technologies at the Container Terminal Altenwerder in Hamburg, Germany",
-   "original_title": "See the state of the art technologies at the Container Terminal Altenwerder in Hamburg, Germany",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1kaXhkX1luRHd5QmR2djdVLThPTEpFd2M2LTFwVTdheGxjakFnZHlYZjdXalBhX1oxNHlOa0lXT05rQmw2WWp3c3FOR0paNGxJXzVqenVvY2ljNGlHWXYxYjBWbkdlNVpjcEpWZE52Yw?oc=5",
-   "source": "Britannica",
-   "published": "2026-10-19T05:00+00:00",
-   "added": "2026-10-21T11:47+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "container terminal",
-    "hamburg",
-    "terminal"
-   ],
-   "summary": "See the state of the art technologies at the Container Terminal Altenwerder in Hamburg, Germany Britannica",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
