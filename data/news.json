@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T16:33+00:00",
+ "generated_at": "2026-10-22T17:10+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,119 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6b9c1da04c6b",
+   "title": "Super Typhoon Champi raises China port congestion concerns",
+   "original_title": "Super Typhoon Champi raises China port congestion concerns",
+   "url": "https://www.hellenicshippingnews.com/super-typhoon-champi-raises-china-port-congestion-concerns/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-22T17:00+00:00",
+   "added": "2026-10-22T17:10+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "congestion",
+    "port",
+    "port congestion"
+   ],
+   "summary": "Super Typhoon Champi strengthened into a Category 5-equivalent system over the western Pacific, with maximum sustained winds near its center reaching 240 kilometers/hour on Oct. 21, as it moved toward waters east of Taiwan and eastern China, raising concerns over port congestion. “Champi will move across the western North Pacific toward the seas east of Taiwan in the next couple of days,” the Hong Kong Observatory said Oct. Market participants said congestion was already causing delays of around four days at Shanghai and Ningbo and expected port disruptions to worsen following the typhoon. 24-25], and by Monday [Oct. 26], we should have a clearer picture of the disruption,” a Southeast Asian shipper said. Carriers have been omitting port calls to avoid congestion, further tightening available space for the North Asia and Southeast Asia to Australia trade lane. “September saw delays across Southeast Asia services, with around five vessel calls missed across four services, exacerbating the space shortage,” an Australian port authority said. Platts, part of S&P Global Energy, assessed PCR 45 — North Asia to East Coast Australia — at $5,300/forty-foot equivalent unit, and PCR 47 — North Asia to West Coast Australia — at $5,200/FEU, both stable day over day.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "68d319bb263b",
+   "title": "Nor-Shipping brings new Focus to AI, Ports and Marketing in 2027",
+   "original_title": "Nor-Shipping brings new Focus to AI, Ports and Marketing in 2027",
+   "url": "https://www.hellenicshippingnews.com/nor-shipping-brings-new-focus-to-ai-ports-and-marketing-in-2027/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-22T17:00+00:00",
+   "added": "2026-10-22T17:10+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "shipping"
+   ],
+   "summary": "Nor-Shipping is revamping its knowledge-sharing offer with a brand new stage created for day-long ‘deep dives’ into fast-moving and strategically important subjects. Christened Focus Stage, the fresh platform will be situated in Hall G, a striking new glass area forming the main entrance to the exhibition halls. All Focus Stage sessions will be open, free and accessible for all with a visitor or exhibitor pass. Its 2027 debut will be marked by dedicated day-long programmes on Maritime AI, Ports, and maritime marketing and communication. Nor-Shipping 2027: building on its existing knowledge sharing offer with the all new Focus Stage Time to Focus “Nor-Shipping, like the industry we serve, constantly evolves,” comments Sidsel Norvik, Nor-Shipping Director. Wednesday 9 June shifts the focus to Ports, exploring the latest steps in smart port development, digitalisation, sustainability, infrastructure, and collaborative approaches. The final day of the 2027 Focus Stage turns the spotlight on Marketing and Communications, a professional community that rarely has its own dedicated arena at major maritime events. Broadening horizons Speaking of the 10 June topic, Norvik explains: “Effective marketing and communications help maritime companies build visibility, strengthen relationships and communicate value in an increasingly competitive and complex industry, which is what exhibiting at Nor-Shipping is all about!",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "c5c99da9236a",
+   "title": "Eurozone Consumer Confidence Falls More than Expected",
+   "original_title": "Eurozone Consumer Confidence Falls More than Expected",
+   "url": "https://www.hellenicshippingnews.com/eurozone-consumer-confidence-falls-more-than-expected/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-22T17:00+00:00",
+   "added": "2026-10-22T17:10+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "oil price",
+    "prices"
+   ],
+   "summary": "Consumer confidence in the Euro Area fell further to -17.9 in October 2026 from -16.5 in September, reaching its lowest level since May, according to flash estimates. Figures came in weaker than expected, as analysts had forecast a more modest decline to -17. Concerns over elevated global oil prices, inflationary pressures and the interest rate outlook likely contributed to the deterioration in consumer sentiment. Sentiment also weakened across the broader European Union, with the index falling to -17.3 from -15.8. Source: Trading Economics",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "d2eb7b164be6",
+   "title": "RICO case against CH Robinson & TQL: motions find the fault lines – and Ohio is the surprise",
+   "original_title": "RICO case against CH Robinson & TQL: motions find the fault lines – and Ohio is the surprise",
+   "url": "https://theloadstar.com/rico-case-against-ch-robinson-tql-motions-find-the-fault-lines-and-ohio-is-the-surprise/",
+   "source": "The Loadstar",
+   "published": "2026-10-22T16:36+00:00",
+   "added": "2026-10-22T17:10+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "court",
+    "defense",
+    "logistics"
+   ],
+   "summary": "Right, so: only a few weeks after I mapped where the racketeering case against CH Robinson and Total Quality Logistics was most exposed, TQL has asked a Texas court to end it. The arguments are familiar. The Ohio forum-selection clause is not. I would love to claim a gift for prophecy. The truth is duller. When a civil RICO complaint lands, defense lawyers reach for the same handful of tools, and anyone who has watched federal courts take these ...",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "extract"
+  },
   {
    "id": "8eadc4121d62",
    "title": "Pierwsza linia KDP bez klasycznych semaforów. Port Polska zakończył planowanie sieci GSM-R między Warszawą a Łodzią",
@@ -15524,6 +15637,38 @@
    "summary_method": "feed"
   },
   {
+   "id": "7921a61efc3e",
+   "title": "Ukraine Presses Turkey, Egypt and India for Flag-Based Black Sea Shipping Corridor as Grain Exports Run at 38% of Normal",
+   "original_title": "Ukraine Presses Turkey, Egypt and India for Flag-Based Black Sea Shipping Corridor as Grain Exports Run at 38% of Normal",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbUJoeU0xV2VPNHN3Vm9PNTBIaGEyb2c0ekJadGx4UkdRaGZ0VWNfby1XSDJoMlpQRjBodmpvLThsbWJMNTNnT2FGSkh1SzU0akJ0RWI0X2d5NVlOVmZJUXhCRnZGT0NtTjZHVU9ZRHdKS0p1b0d0LVBHeTRLRFRoM092SzZWWFRrNEs3Y1lwOWlBWm5oSVpLb1c2STdVZVdGNElLVk9hRzBSMVNBdDNWN0t3eTR5UlFwTmZMUHA0X2I3RHZsaWJxaXJUcUVvWlM3Rjhyd25PVk1Vd3lSem04SGI0STBHY2ljT1FuQkVWVmtSbjVHMDYwNGxMRk1ic1hs?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-10-19T17:44+00:00",
+   "added": "2026-10-22T17:10+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "black sea",
+    "grain",
+    "shipping",
+    "ukraine"
+   ],
+   "summary": "Ukraine Presses Turkey, Egypt and India for Flag-Based Black Sea Shipping Corridor as Grain Exports Run at 38% of Normal Business Upturn",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b7f800e3ecb4",
    "title": "India scraps coal import mandate amid high prices and weaker rupee",
    "original_title": "India scraps coal import mandate amid high prices and weaker rupee",
@@ -16395,139 +16540,6 @@
     "prices"
    ],
    "summary": "Oil prices ease after hitting five-month high amid Middle East tensions Tribune Online",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a009fa9b48de",
-   "title": "Ship loaders/unloaders strive for efficiency, tackle challenges",
-   "original_title": "Ship loaders/unloaders strive for efficiency, tackle challenges",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbExLbWNwdTJoREdvbW1YQmZUYU5ITDBjOWlrbFRnZDl5UEtVMXlLdE53eWNPMEJFU1hXZGVsVUNQb1JNZ29CeVotU2J0TENvQkc5eDJUZDI5d0sxS1pUTUxJanN1bnprYmVOU0xwQzJqQWdUOGhuSHgwOElESHhocG4wMS13SGFSVy1FUDVPMmF5V1BwbGxXb0Rxa1RITjZZazJLbGVB?oc=5",
-   "source": "World Grain",
-   "published": "2026-10-19T13:51+00:00",
-   "added": "2026-10-21T07:11+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "grain",
-    "ship loader",
-    "unloader"
-   ],
-   "summary": "Ship loaders/unloaders strive for efficiency, tackle challenges World Grain",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0b2005ac0e96",
-   "title": "EU Butter Market Analysis October 2026: Milk Supply, Costs and Prices — CMB News",
-   "original_title": "EU Butter Market Analysis October 2026: Milk Supply, Costs and Prices — CMB News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNampyNl9hSGZHOWFBVkZZeWZ1ZGxBNnEySUU4V3dGdmIzM05DNHU0aDFZblNtaGdpa2VMVzQxX2RPY1UxeWpXdU9zcXRER09PYWVnMER0UDExYWJxdURyWFZlMVNSYWFTWnJ2RnBRV1JmeTdrMWFKbGg4bWhhWEp3clp5eFRQNWdtUjJVeWhSS1dRbThVY1lMZFA3dzAwdw?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-19T13:51+00:00",
-   "added": "2026-10-19T17:02+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "prices"
-   ],
-   "summary": "EU Butter Market Analysis October 2026: Milk Supply, Costs and Prices — CMB News CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c0aa7039018c",
-   "title": "U.S. Dry Weather Boosts Corn and Soybean Harvest After Widespread Frost",
-   "original_title": "U.S. Dry Weather Boosts Corn and Soybean Harvest After Widespread Frost",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnZ1OUNSLXhOanlqSjVlSE01a1c0WHEycG1MYl9lVERyVXpSOFdOWWRiMC1YRzN0VXd4SzVwMi1VVGdEZGo0NzJvdUF1R0dQRXU1b1JaWXRKY3ZIM3piZW5kOC01MGp5VlBCa2NSTGxmMjNweE1mZVVNMG9nVFh1NngyVmgwSXhRb0RFN193SEJRSTg4TnlUMWQ5aHJSVVRjWDV2WlJFNDR0Y2h3b1E?oc=5",
-   "source": "AgroLatam",
-   "published": "2026-10-19T13:49+00:00",
-   "added": "2026-10-21T01:35+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "corn",
-    "soybean"
-   ],
-   "summary": "U.S. Dry Weather Boosts Corn and Soybean Harvest After Widespread Frost AgroLatam",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5243a414e2d3",
-   "title": "Japan notes Middle Corridor’s key role in transport diversification",
-   "original_title": "Japan notes Middle Corridor’s key role in transport diversification",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWaEJyN3oxN0czSkgyaWlvTVVNNFN3ZXNqbGlLdDQ1ZUFSLW9XOHZMMElfTmg4SlJYUFpXSXlvbDJwR3ZWR1E2a01HbGtJVE9jZHlMVEJSS241TlZTSldN?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-19T13:49+00:00",
-   "added": "2026-10-19T14:27+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Japan notes Middle Corridor’s key role in transport diversification Trend News Agency",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b6817bfcf087",
-   "title": "Uncertainty Surrounding Indonesian Supplies and Declining Chinese Production Drive Up Thermal Coal Prices in Asia",
-   "original_title": "Uncertainty Surrounding Indonesian Supplies and Declining Chinese Production Drive Up Thermal Coal Prices in Asia",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WQkoyTUdRVy1SdWZNbVJHYi1PVUIwYVhGWFRUdTBYSjZIWnZ3VUUzVjdRM1Z0bkhSQy0zMUpEUUpXand5OG1DWjZB?oc=5",
-   "source": "صحيفة مال",
-   "published": "2026-10-19T13:47+00:00",
-   "added": "2026-10-19T15:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "coal",
-    "prices"
-   ],
-   "summary": "Uncertainty Surrounding Indonesian Supplies and Declining Chinese Production Drive Up Thermal Coal Prices in Asia صحيفة مال",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
