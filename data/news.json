@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T06:12+00:00",
+ "generated_at": "2026-10-22T07:07+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,45 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "4c73c0364e4f",
+   "title": "US sanctions net widens to shipping agents and lawyers",
+   "original_title": "US sanctions net widens to shipping agents and lawyers",
+   "url": "https://splash247.com/us-sanctions-net-widens-to-shipping-agents-and-lawyers/",
+   "source": "Splash247",
+   "published": "2026-10-22T07:06+00:00",
+   "added": "2026-10-22T07:07+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics",
+    "commodities",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 15,
+   "regions": [
+    "Russia & Belarus",
+    "Middle East",
+    "Asia",
+    "North America",
+    "Latin America"
+   ],
+   "tags": [
+    "commodit",
+    "fleet",
+    "law",
+    "sanction",
+    "shadow fleet",
+    "shipowner",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Washington has widened its crackdown on Iran’s shadow fleet, sanctioning a Greek-Panamanian law firm, shipping agents in Singapore and Dubai, and nine vessels in a move targeting the service providers behind Tehran’s commodity exports. Announcing the measures yesterday, the US Treasury said Karnakis and Karnakis had established corporate structures for shipowners moving hundreds of millions of dollars worth of Iranian oil, LPG, petrochemicals and steel. Five individuals linked to the practice have also been designated. The group’s other designated ships are Destiny, Flamingo 1, Harmony and Prince. Singapore-based Amigoz Singapore was sanctioned for acting as port agent for a shipment of Iranian light crude and providing bunkering services to the shadow fleet tanker Zixuan. Treasury also linked the company to networks associated with Iranian shipping figure Mohammad Hossein Shamkhani. Dubai-based Whales Shipping Line was designated for supporting Amigoz and acting as shipping agent for a company accused of arranging Iranian petrochemical purchases. The action forms part of Operation Economic Outcast, launched in August, which is intended to cut Iran off from international financial and shipping services. US authorities are simultaneously investigating a Greek bank’s possible links with Iran, underlining the campaign’s extension from ships and owners to lawyers, agents and financiers.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "a8f6ba02caa7",
    "title": "Correcting Technocentric Myopia: Rebalancing Maritime Intelligence to Counter Shadow Fleet Networks",
@@ -229,6 +268,31 @@
     "iron ore"
    ],
    "summary": "Australian iron ore miner warns of production slowdown without China deal Financial Times",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "567e6e2eadf7",
+   "title": "Coal minnow soars as Tinkler pounces",
+   "original_title": "Coal minnow soars as Tinkler pounces",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLWdOZHI5TGRyQldYaHZoWjN6THVsV1ZtQzJmQmxHN0IzU3Q0OEtzMWg5UEx3dWk4bmRZZXhpZWlGOVpHSUYwaGhqNzlIbHN4MXo4YXZodFo5UF9scm9KN3hxdXgzUnpBdHZNRmFqdlpPRWJBbzYwTEJ4MmtscTFZWmVYZENGNHdWOTBvbk1pQmpHbHc?oc=5",
+   "source": "Australian Resources & Investment",
+   "published": "2026-10-22T01:41+00:00",
+   "added": "2026-10-22T07:07+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "coal"
+   ],
+   "summary": "Coal minnow soars as Tinkler pounces Australian Resources & Investment",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -810,6 +874,32 @@
    "summary": "Oil product stockpiles at the UAE’s Fujairah rebounded 6.2% in the week ended Oct. 19, led by a record 72% jump in light distillates such as gasoline and naphtha, according to Fujairah Oil Industry Zone data published Oct. 21. 23 level before the onset of the Iran war, as disruptions to ship traffic through the Strait of Hormuz continue. Light distillate stocks recovered to 1.304 million barrels from a record low of 760,000 barrels a week earlier, according to FOIZ data. Stocks of heavy distillates, used as ship fuel and for power generation, rose 12% to 3.682 million barrels, representing a two-week high, while middle distillate inventories declined 18% to 2.261 million barrels after hitting their highest level since the start of the war a week earlier. Since the war began, heavy distillate stocks have dropped 53%, while middle distillate inventories have fallen 23% and light distillate stocks have declined 87%. 13, while Fujairah-delivered high-sulfur fuel 380 CST was assessed at $739/mt, the lowest since Oct. 13.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "extract"
+  },
+  {
+   "id": "1cb1fac8d846",
+   "title": "Stranded fertilizer and costly diesel could cut global harvests in 2027",
+   "original_title": "Stranded fertilizer and costly diesel could cut global harvests in 2027",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQXEzeVdNMEltRjloX3N5cWFEdl9mTEJpbzJUNEl0SDY3c0ktS0RpNXNxX1pHTkl6aGdYS2NzYlFlUENWWktJRFB0Y0I0VDltZU5fZWxjV0pCNnI2dy1HZERScFlvUjRwbS00QjRvUzJRYmc2NFBfUDNRWl9TbjJxUzd6VGxEY090d3ZocmE3R25FTGY4d19oR1JSUXpqRFNVSHdaYTRTc1hsRkhNVzlub0p4OTNsN3hOZnc?oc=5",
+   "source": "EnterpriseAM",
+   "published": "2026-10-21T21:00+00:00",
+   "added": "2026-10-22T07:07+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "diesel",
+    "fertilizer"
+   ],
+   "summary": "Stranded fertilizer and costly diesel could cut global harvests in 2027 EnterpriseAM",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "794d0eb0fa59",
@@ -15070,6 +15160,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "12ad6952935e",
+   "title": "The Biggest Sea Ports in the USA",
+   "original_title": "The Biggest Sea Ports in the USA",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tTk5RVkxDTDM0QXRRcmk0bFVpZE9qNnVDMlVtamJDZzEyZUJmc1Q0WDhWSTd3MmZvZl9FVC1OVlZJWVlKZDlldDA0NkpUb05TLTVIMDZkTUZmOFhCQWpDQ3ZUZmowd1k4dFJvN2dzRjgwczA?oc=5",
+   "source": "Freightos",
+   "published": "2026-10-19T09:58+00:00",
+   "added": "2026-10-22T07:07+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "The Biggest Sea Ports in the USA Freightos",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "827c9a12ffcb",
    "title": "Hai An lines up $70m feeder newbuild investment",
    "original_title": "Hai An lines up $70m feeder newbuild investment",
@@ -16406,112 +16522,6 @@
    ],
    "summary": "Rapeseed Market Update – MATIF, Canola and Ukrainian Cash Prices — CMB News CMB News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6fc3f427c057",
-   "title": "Wheat Market Update: MATIF Softens, CBOT Firms, Black Sea Pressure — CMB News",
-   "original_title": "Wheat Market Update: MATIF Softens, CBOT Firms, Black Sea Pressure — CMB News",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONGtEdzJaX2hTVjBEVVp6czhyeVkwZF9Sd3llLUZNd1RXN0QxWjh3dElEZ0pKNzItWTJJeTB0X0w1bXRVNmhKUGE3VEt5YUc4YUcybmdyRU9pTXR2Z0NlNy1RYnVmcHQ2NnprOUVYM2xvbnVTMnVSMWhvazZnTk9zVmxRZ2xVdGl2Rkdvc3RDSndUVUc2U3hSVi1kV1A?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-19T06:40+00:00",
-   "added": "2026-10-20T14:57+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "wheat"
-   ],
-   "summary": "Wheat Market Update: MATIF Softens, CBOT Firms, Black Sea Pressure — CMB News CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f1dea1521dae",
-   "title": "Kazakhstan, Lithuanian businesses discuss Middle Corridor development",
-   "original_title": "Kazakhstan, Lithuanian businesses discuss Middle Corridor development",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02SldHeEdpSWdvY3hpc0xBRmVNZTFJeUI2SFRvaGZoY0xPbVlJUmVmeG11ZzhmcVlaVy1jNkRnWVQ0RFNvbTZ1aXMtc0FFdlQ3d0hkSDI2V1ZweFdFenB3?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-19T06:40+00:00",
-   "added": "2026-10-21T15:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Baltic & Nordics",
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Kazakhstan, Lithuanian businesses discuss Middle Corridor development Trend News Agency",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "999ccb8e8d73",
-   "title": "CJ Logistics acquires Dong Nai logistics facility from Daiwa House - Vietnam Investment Review",
-   "original_title": "CJ Logistics acquires Dong Nai logistics facility from Daiwa House - Vietnam Investment Review",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNlFHTWVjSlpfYXRiWS1FMmtrUVdUQUJqblB4MWxUUWtaTnhVVG9JZU02OHhQbzBPM3VaNTZQdjZxTzVWbjNQUVRYNURaa2s4eUlFTHpFa3pITElDdXJEdnhJSXBvUlhVNlRGTHotSXhSalNKSTFmZ2h1cU44WkVCYnJtbkhnb2lOQkMyQU1vVHJfSnpKU2pIUmtPRnVvQQ?oc=5",
-   "source": "Vietnam Investment Review - VIR",
-   "published": "2026-10-19T06:18+00:00",
-   "added": "2026-10-19T08:18+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "acquire",
-    "acquires",
-    "logistics"
-   ],
-   "summary": "CJ Logistics acquires Dong Nai logistics facility from Daiwa House Vietnam Investment Review - VIR",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ce2ba20cedd4",
-   "title": "boAt Strengthens Its International Growth Push, Expanding into Sri Lanka and Bhutan",
-   "original_title": "boAt Strengthens Its International Growth Push, Expanding into Sri Lanka and Bhutan",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSWJSaTBBUHZsMzhjWnZ6LUdabS1jZDVta2dSeWtVTHlYNTNNbWt0eTNiZkJiR1h1M3lUZUdGWi03ajZqajRwM3QxQnJHUnB4dkVOR1Z4VHZIZWRNbllYZnpDUi1ERF9PSkk0WnkyRllTNWpRZHI0c0ZDUVdHUmM2QWhLV1JHRXAwZ2pjXy1TRzh4aWpUU3Z2ZWZ1Mmd5UVI0S2pERWlwNUFDYTByZy03N3F3MFNDdW05LVl3Yk85X0hWd9IBzwFBVV95cUxOdzdEcTV3Vjg3YXJyZmptOU15amZqT25Tb1hILW1WaDhtUUFEX1M4Z29xdkVaTURncUZycFFOZEprMTZrb3d3WDNUejNsaTlrQmdoNFNHQm1GT0hYazI1VWg0U3pYWlRqanhkMGdqU1BFUmhfMUlYbFh0NUJBUEpIa1RyMXYyVnJ0UVZMWFhnVG9pdHlIR0hNeWlNVWZSTmU4dXROUXdURlJUdTFPRkFNZ3ExV2ZTMlQ1dFRteXBzb0RNTG5lWnk0SW9CNzJ4cUk?oc=5",
-   "source": "digital terminal",
-   "published": "2026-10-19T06:09+00:00",
-   "added": "2026-10-19T17:02+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "boAt Strengthens Its International Growth Push, Expanding into Sri Lanka and Bhutan digital terminal",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
