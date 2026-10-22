@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T11:09+00:00",
+ "generated_at": "2026-10-22T11:46+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,65 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "a444d4d67402",
+   "title": "Intra-Asia rates soften as congestion at major ports begins to ease",
+   "original_title": "Intra-Asia rates soften as congestion at major ports begins to ease",
+   "url": "https://theloadstar.com/intra-asia-rates-soften-as-congestion-at-major-ports-begins-to-ease/",
+   "source": "The Loadstar",
+   "published": "2026-10-22T11:45+00:00",
+   "added": "2026-10-22T11:46+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "ports",
+    "supplychain",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bottleneck",
+    "china",
+    "chinese",
+    "congestion",
+    "port",
+    "ports",
+    "vessel"
+   ],
+   "summary": "Intra-Asia rates are receding from their recent highs as bottlenecks in major Chinese and other Asian ports subside. On 15 October, Drewry’s Intra-Asia Container Index dipped 3%, to an average of $1,453 per 40ft. Rates from Shanghai to key destinations, including Busan in South Korea, Ho Chi Minh City in Vietnam, and Jawaharlal Nehru Port in India, softened as vessel waiting times declined. Rates from Shanghai to Nhava Sheva fell 11%, to $3,370 per 40ft, while those to Busan declined 8% to $1,000 per 40ft. Shanghai–Singapore rates dropped 7% to $1,973 per 40ft. Port congestion eased during Week 41, with average vessel waiting times at Busan at 23 hours, from 26 hours a week earlier. At Jawaharlal Nehru Port, waiting times declined to 24 hours, from 42, and Singapore recorded a decrease to 34 hours, from 50. However, the deteriorating situation in the Middle East continued to support freight rates on the Shanghai–Jebel Ali route, which remained elevated, at $8,416 per 40ft. Freight rates from Busan to Shanghai rose 4%, to $159 per 40ft, with Yokohama to Shanghai up 4%, to $120 per 40ft.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "3653b38bd525",
+   "title": "Yara Cuts Fertilizer Output Again As Gas Costs Bite",
+   "original_title": "Yara Cuts Fertilizer Output Again As Gas Costs Bite",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdmxxdEhmLWdCdDM0RGVGc3VneDA3QUs3V1FFcV9ldElkVmUxdGwwM1RpcUk0ODVTQU9TN1M5Zi00bFpPd1dSZHZVMFlBMXZCUW9FTXlna0Y0R1FVSmRXU2otMkdvanlnRlNkZFNFMk5hdzFlWkI2Rjk0cElHbXQ5dHlTZEg3X0k?oc=5",
+   "source": "Finimize",
+   "published": "2026-10-22T11:02+00:00",
+   "added": "2026-10-22T11:46+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fertilizer"
+   ],
+   "summary": "Yara Cuts Fertilizer Output Again As Gas Costs Bite Finimize",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "bad73697dba8",
    "title": "Titan analysis shows FuelEU pooling propelled bio-LNG demand",
@@ -68,6 +127,60 @@
    "summary": "Idan Ofer’s Eastern Pacific Shipping (EPS) has named its first ammonia dual-fuel very large ammonia carrier (VLAC) at HD Hyundai Heavy Industries in South Korea, bringing the 93,000 cu m vessel closer to its commercial debut. The Singapore-based owner christened the vessel Terra Clove at the Ulsan yard, with delivery scheduled for November following sea trials. The newbuilding is the first ammonia dual-fuel commercial vessel to be registered under the Singapore flag and the first of two such ships being built by HD Hyundai for EPS. Designed to transport ammonia as cargo and burn it as propulsion fuel, the 230 m long vessel is fitted with Everllence’s 6G60ME-LGIA two-stroke engine, which completed factory acceptance testing in April and passed type approval testing in June. The two will collaborate on alternative fuels, dual-fuel propulsion, energy efficiency and ammonia safety, including research into methane and ammonia emissions. The development adds to EPS’s expanding position in the ammonia carrier market. Earlier this year, the company returned to China’s Jiangnan Shipyard for two additional 90,000 cu m VLACs, scheduled for delivery in the first half of 2028. Those vessels will feature LPG dual-fuel propulsion, rather than engines designed to burn ammonia.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "b8e524ddf7f5",
+   "title": "Koliway Acquires Millhouse Logistics, Appoints Bryan Foe as CEO to Accelerate Growth",
+   "original_title": "Koliway Acquires Millhouse Logistics, Appoints Bryan Foe as CEO to Accelerate Growth",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaHVNc1YwXzN1TEl5RHhOZC1DMGVtbGhSbGdaRUY1Mi1Nd0puRUtaSWR6c0s0YU1UQmxtQlZrNkFfTHRQUzRvMWJqRUJtOUtDRXIzMVVTTVBYV2dpVFJTYnI4enpKTlllOU9IQnRZUWR3Q2RYVjRTVXhNQTIzczM3RXNzV1dVOEx6bTV0aDllbUJ4ZUJXay12WW8zbnQyTExLMktsVGZ6bW5BVkhzT3hQMXlvQi15REpDdFVQNU9PcURoN1N1Q1ZBeW43SFpLTDN5a2NEV2ZpY05ZWTJ1LS1CVHRlWGE5ZVJ6UDRr?oc=5",
+   "source": "GlobeNewswire",
+   "published": "2026-10-22T10:30+00:00",
+   "added": "2026-10-22T11:46+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "logistics"
+   ],
+   "summary": "Koliway Acquires Millhouse Logistics, Appoints Bryan Foe as CEO to Accelerate Growth GlobeNewswire",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3c4827b26420",
+   "title": "How ammonia and fertilizer producers are turning carbon pressure into commercial opportunity",
+   "original_title": "How ammonia and fertilizer producers are turning carbon pressure into commercial opportunity",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb2cxMF9BUWJSRjRjUEI4aHVtUnZzSlE2T2FHNnY1LUFMR2FnaUdCMFBmYkdsNS1iMjlOWEw1am16bVpqRVJvYlR1NDdkaG0wSi02YkVsU3kxb1RIN2p1bFZxNTdPTVRERHVxeWpoVkVtRUJOVWIxeXZ5MnJnWEZONkhITDVUdHhOZWF2NXRGenVTYzVEVU8zcXktQm82V0dQZkpaSGc2RGRtWUNaS3F2Z1pFODdRTHcxOExwOHJvZzdDVDdBUy1KdGZwVE02SDdGcHJ0UFFoLTgyOU9tTjFWVE1nMVo2UQ?oc=5",
+   "source": "World Fertilizer",
+   "published": "2026-10-22T10:24+00:00",
+   "added": "2026-10-22T11:46+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia",
+    "fertilizer"
+   ],
+   "summary": "How ammonia and fertilizer producers are turning carbon pressure into commercial opportunity World Fertilizer",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "8f6ee3a9315f",
@@ -641,6 +754,33 @@
    "summary": "Asian stocks fell on Thursday as mixed earnings from major U.S. technology companies failed to reassure investors about the returns on massive artificial intelligence investments, renewing pressure on semiconductor shares and Chinese equities. Wall Street closed higher overnight. Korean chipmakers lead Asia selloff as Chinese stocks near bear market The MSCI Asia Pacific index fell around 1%, with South Korea’s KOSPI declining 3.5% and Japan’s Nikkei 225 losing 2.4%. South Korean chipmakers bore the brunt of the technology selloff, with SK Hynix plunging 4% and Samsung Electronics falling 3.6%. The renewed weakness comes as investors question whether heavy spending on data centres and computing capacity can deliver sufficient returns, with financing costs and stretched valuations adding to concerns about a potential AI bubble. China shares approach bear market as Alibaba leads e-commerce losses Mainland Chinese equities continued to weaken amid fading hopes for substantial stimulus, lacklustre corporate earnings and lingering anxiety over the global AI trade. The CSI 300 fell as much as 1.6%, taking its losses from a June peak to around 20% and putting the index on the brink of a technical bear market.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "f63cececef32",
+   "title": "Urea fertilizer more affordable; phosphate is not",
+   "original_title": "Urea fertilizer more affordable; phosphate is not",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQy1NdW4tVTU0ZWJLRDVFOWxhYXYwcVRJTUtpOE11ODFiaV9rZG5LTkh1SEpWMmFwMUFqWEJDMjdzakk4SWtuR3NVQkR5dFVMSnVOUlRqNkwzOFRrWlBCNVNYSGlLemdkc3pzeGxQSnEwcGdDZmR5c1hiZGxZTVI4aUVfaTA4WTExUEdpb1BrMlJ6VTVkSE1HcHlUMk4?oc=5",
+   "source": "Farmtario",
+   "published": "2026-10-22T09:53+00:00",
+   "added": "2026-10-22T11:46+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fertilizer",
+    "phosphate",
+    "urea"
+   ],
+   "summary": "Urea fertilizer more affordable; phosphate is not Farmtario",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "729b797c2ef0",
@@ -1608,6 +1748,34 @@
     "wheat"
    ],
    "summary": "Imported wheat prices in Brazil could rise due to higher logistics costs UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "97d41b52ae20",
+   "title": "China completes world’s first commercial ship-to-ship green ammonia bunkering operation",
+   "original_title": "China completes world’s first commercial ship-to-ship green ammonia bunkering operation",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUkI5VUxyb3NOUWYyV3ZtQmNtR3RIOW5CMmlOUk85YkdXSWFCbVdudTR5QTkydEVhY2xxVGZjNy1DY3FMeHRFanJjVVVuTkE4M1I4aDBNajJkRC10cGpPZDhiS2xnVlNjYVFQY01EdC1NUmxaZDh4UE1YMWJpeVIxTXlhTFFNcldvWEdqWFJycDNmcEZaSXFZQnhERzBuQkdiUGZyWnAzODBGT2RKZzNjX2R6VlJsREtXUHJ0UVRvNA?oc=5",
+   "source": "Manifold Times",
+   "published": "2026-10-22T05:49+00:00",
+   "added": "2026-10-22T11:46+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "ammonia",
+    "bunker",
+    "china"
+   ],
+   "summary": "China completes world’s first commercial ship-to-ship green ammonia bunkering operation Manifold Times",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16362,173 +16530,6 @@
    ],
    "summary": "The terminal did not manage to unload wagons after the Russian attack: does the power outage exempt from a bill of 157 thousand hryvnias Судово-юридична газета",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0a470c0e0aed",
-   "title": "CMB.TECH Walvis Bay Ammonia Bunkering Terminal Needs Third-Party Demand - News and Statistics",
-   "original_title": "CMB.TECH Walvis Bay Ammonia Bunkering Terminal Needs Third-Party Demand - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjZYY3FfNmxQckNiRjdWeHFIQjhNendYV2dad252U29jcTRxa29FU0NsaE9SOUdCQlBnbjVaOC0yeDQtRXp2NkZHQ25aV3psdE1ySzZQUU1uUUJ6dFVEN2QyX0paa0lUZHl2VXc2aHFGRUNJT0JFbzUwX3JkN0pyUjlUN2VQMDhhMVFPMlFwdDhYMllzOTFUWWNsQ2lVTDVCQXZJbw?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-19T11:21+00:00",
-   "added": "2026-10-19T11:32+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "ammonia",
-    "bunker",
-    "terminal"
-   ],
-   "summary": "CMB.TECH Walvis Bay Ammonia Bunkering Terminal Needs Third-Party Demand - News and Statistics IndexBox",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b46a9a9451c6",
-   "title": "Global Container Freight Rates Surge 130% Since February Amid Middle East Tensions: Jefferies",
-   "original_title": "Global Container Freight Rates Surge 130% Since February Amid Middle East Tensions: Jefferies",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVlhuRGI3M1RUM1dNVWdIMFIzb3ltakUzZ1NLWk54REhSdUUyNXFTSWZvQ1Z3UWtYREdkZnZVTDVXXzlqOGxBdnJpejJhUjY5bG1aVUdVekZBZXM2ekg1VGltX3FSdkFrZDNlMkpQTE1uYk83MFE5UnltRDVYVkpHejVLSVQtWmlkNWdYMjhkQl9OLURjNVRKOHZ6Z0hlT0ltWXFQMmpTeWpmc1oyRXcydG1PaEoybFVXMk9HcFhtemNxNmdxeUpDWXZqQ19KcGFsUlpNSDNoUHJaVmNQZk9GR3MzdEoyMUdWSkJIcndHelF1amNGOXfSAfsBQVVfeXFMTXJrd3BTc3c0aW5uZWlhTlhvdlJmajZ0N0IwVjdrUGM5eFdTWlUxRlBDVEpCaVoxc3k0VjZsdGNnS3NEdlhlelZhX0l2bTZxdnNoRFdOUUZoSWFEellrdzV6ZjNuT092WWVTYWs1WTZBOTVYMXlvbUVpN2N5em1GdFFJWDdXVlRLNlNnSHpFRmtUWmxwbHBnekpxbjI3b2NCYkdXSmdSMDUzaS1EWldGVHQzVG5zdUNfRGticlkwT0FZLVpBcWNsbFJkNldFVG5ybmFfYzRjb0djbWs0Wm40T2RiYkhuaEVLbVBIb0U3MmdDTXo0RmM2Wng1Zkk?oc=5",
-   "source": "Times Now",
-   "published": "2026-10-19T11:06+00:00",
-   "added": "2026-10-19T12:10+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "freight rate"
-   ],
-   "summary": "Global Container Freight Rates Surge 130% Since February Amid Middle East Tensions: Jefferies Times Now",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ef2fd696e162",
-   "title": "Brent Crude Oil Price Today (October 19): Brent Falls Below $108, WTI Slips Under $100 as Trump’s Russia Sanctions Waiver Eases Supply Concerns Amid Hormuz Tensions; Check Latest Brent Crude & WTI Oil",
-   "original_title": "Brent Crude Oil Price Today (October 19): Brent Falls Below $108, WTI Slips Under $100 as Trump’s Russia Sanctions Waiver Eases Supply Concerns Amid Hormuz Tensions; Check Latest Brent Crude & WTI Oil",
-   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPaWEtb0pFR3RoMmxMMUVDSDFKRUtCcnhWcTZMQ1lHY0ZMTDBjNHk4aXpxSHlRRml0Z1ZwVHRsWFhEeUJjNVZNUzBJOHEtS1podG5yU0RCUFRGTGEycHVBVXZVYUlGQ3Rsb0hhVWpvWm1RdENLWXlkR0Y1Znl1NFV0MlJMand1OXpFa3czb3Fna3dPRmZ4TFQ2VWNqVTJ2Y29tLVpHZlFab09YZHBCMnB6bjZHalJwcXhmRE1hQk9xTmFmSGlNOHJVeVdrSEFBdXY1QkIwNHVuRE9rZ01BMHFSSk1MdEpVVWJBb2pKdnRFWDNZREttMmYwUEk1Tkswc0IwTWFwaHVyOFpPM25Xb2h4dTkzc3VvS2xHVE9seUtUVGNBZ08wQmlyUWcwV2U2RENTaDhOanlQdHJhZ0hDc09ILXc4RHduelVRRnVYMXlFZFAwaVprUHhIWUtn0gHfAkFVX3lxTE81RUxqLXZ1OUF4ZVl2ZWpSTDdTWEl2dWRVRXlaa1BQX0p2eW1RNWV5c3lVNFNITl84bVotRXBaVThsQnExUzJtaER6Zy00aEpkaDBOa19SSE1YeFZ0UGk4RERIQ3Q2bXFIOGRUM0Npcmd5d2tQQ25GMld6dVpjTU44S2ZlSnVsOVJrYldUNkZDZ2NTSTFxRThtZGZBS2wzdElOWFhYaGk3c21ZVGd0aVZmNmZ5cmlIeHVUTkNSSE96Q01iSW9BcUJBMlI2aENIUmFtdnFSTUpxQ3Z0Q1Zpdi04S2RYWG9yOWIwUGItdndiRnZDZk1ZbkZoZEZUeEU1ckZUd1ZYTUZyY21hSGZHY0dOZUJ0Y2RaU2dLV05OeE5ZLVdMeGE2VmtveHRlNG1DNnh0aTlhUEFpaGtRNXRaaHptYVR3V1VtN3ViWGl4d1NxNGFZclNIc1VpaEcxUG9PNA?oc=5",
-   "source": "The Sunday Guardian",
-   "published": "2026-10-19T11:00+00:00",
-   "added": "2026-10-22T02:00+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "hormuz",
-    "oil price",
-    "russia",
-    "sanction"
-   ],
-   "summary": "Brent Crude Oil Price Today (October 19): Brent Falls Below $108, WTI Slips Under $100 as Trump’s Russia Sanctions Waiver Eases Supply Concerns Amid Hormuz Tensions; Check Latest Brent Crude & WTI Oil The Sunday Guardian",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1f0738b27e00",
-   "title": "COSCO Shipping Ports throughput jumps in September",
-   "original_title": "COSCO Shipping Ports throughput jumps in September",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcENNSm53elJtTkN4WXBneGNlOUZlTjJhTS1ZNkNIX29Hd3RyMGdjZUNNZjFpNHhwQ2FMekExWkVoWGNJV0UxZnRPMENSQW42dTlkWXMzd1ZDZUI0dmdnNG9PTGprU1FZTE02dGxxY1BnRDZ3TDRaNU5MTXVhRE5kX05nRHY?oc=5",
-   "source": "Container News",
-   "published": "2026-10-19T11:00+00:00",
-   "added": "2026-10-19T15:51+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "shipping",
-    "throughput"
-   ],
-   "summary": "COSCO Shipping Ports throughput jumps in September Container News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6c623b19d601",
-   "title": "Coking Coal Price 2026: Up 22% This Year at US$266 a Tonne as China's Shortage Lifts Queensland Exports",
-   "original_title": "Coking Coal Price 2026: Up 22% This Year at US$266 a Tonne as China's Shortage Lifts Queensland Exports",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNakNXWnNXa2MzbjVrbWZJbGd6bThIRFk4ZlNTXzRkSzIzdVk5SXhfc2JrYkVGX2JHaVM5b3g3TUNOM1NZWlBiV2REb2RZZ1NMOTliQkdvb1lTZjNyU1pNaGo4V09iV3l2VnJSa2Naa1hzS1dJQ0M0U3E1UHVvVnNBSXJfTDZhRmZlMXE5M2EwemlDODZ4VE5VeHNTclI3SHkzTGY1V01TWGhZdlRtNGdzZjN1c0JpRnNjczlFbEtSMWtGNHNjby1VUE5vSVE2dE5pQVh1d0xuRDQ?oc=5",
-   "source": "Kalkine",
-   "published": "2026-10-19T10:57+00:00",
-   "added": "2026-10-19T12:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "supplychain",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "coal",
-    "shortage"
-   ],
-   "summary": "Coking Coal Price 2026: Up 22% This Year at US$266 a Tonne as China's Shortage Lifts Queensland Exports Kalkine",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "28353bdd1d5c",
-   "title": "Tightening fertiliser supplies spark fears at home and abroad",
-   "original_title": "Tightening fertiliser supplies spark fears at home and abroad",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc1pKeDhlbURkaWN4cGJIT2pQY09qLWw3NUZYOTMzX0ZZa2I4emdxcld2Tl9uVExoVkhZU1FzakJ5WDhpTnp2UmpIMDM5X2pJalVuY0pGVWJUc093a25lZXNGZ2Z2YXd0N0hlRmlWS0ZoM3N4dElxaTBPOVVGOFotWVZaM1ZxX2tYWHppSDl6Zzlsd3lKV1dzWi1kYWdrODVzNklKUDhURVBMSFlkU09YVGJMNDJYX3pnNy1SMGRCcGY0QWRib1kweldMak1BSTdN?oc=5",
-   "source": "Irish Farmers Journal",
-   "published": "2026-10-19T10:57+00:00",
-   "added": "2026-10-20T15:33+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fertiliser"
-   ],
-   "summary": "Tightening fertiliser supplies spark fears at home and abroad Irish Farmers Journal",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
