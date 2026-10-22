@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T23:00+00:00",
+ "generated_at": "2026-10-22T23:32+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -61,6 +61,33 @@
    ],
    "summary": "Middle Corridor Grows in Volume but Not in Cohesion Substack",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9c23077f3715",
+   "title": "Freight rates rise as Suez returns gather pace and Gulf risks persist",
+   "original_title": "Freight rates rise as Suez returns gather pace and Gulf risks persist",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeGN0MWo4dnhUeXVtVnA3MkFOcEYtOUI2aUowdXBxRmhxZjNfbjhaUEs5bDM0c2R1akdCcmxIN0MwT3ViSjZDal9GYVpnRDF1LTd2ei00d1E2VFZ3RVRIX0tvd2E3dmlZR3Nna2ZpUER3NUprWnFVXzJYVVJHYVZZSGhJeGlidkZlYjhUUzd3WUN5MWh2U2ZIYWVyZ2lYWk9MWU1UQ3l6d0p3dXJNMDgyNWd30gGyAUFVX3lxTE94Y3Qxajh2eFR5dW1WcDcyQU5wRi05QjZpSjB1cHFGaHFmM19uOFpQSzlsMzRzZHVqR0JybEg3QzBPdWJKNkNqX0ZhWmdEMXUtN3Z6LTR3UTZUVndFVEhfS293YTd2aVlHc2drZmlQRHc1SmtacVVfMlhVUkdhVllIaEl4aWJ2RmViOFRTN3dZQ3kxaHZTZkhhZXJnaVhaT0xZTVRDeXp3Snd1ck0wODI1Z3c?oc=5",
+   "source": "Daily Cargo News",
+   "published": "2026-10-22T21:19+00:00",
+   "added": "2026-10-22T23:32+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "freight rate",
+    "suez"
+   ],
+   "summary": "Freight rates rise as Suez returns gather pace and Gulf risks persist Daily Cargo News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -313,6 +340,33 @@
    "summary": "This is slightly below the all-time high of 210.4m CGT reached in May but remains above the previous record of 195.4m CGT from 2008. Much of the growth has been captured by Chinese shipyards, who secured 74% of the CGT contracted during the past year. This has further strengthened China’s position as the world’s largest shipbuilding nation. Chinese shipyards now hold 64% of the global order book while South Korean shipyards hold 19% and Japanese 6%. Its shipyards hold more than 72% of the order book in each of the six main sectors: container, tanker, gas tanker, dry bulk, other dry cargo and RoRo. Combined, these sectors account for 88% of the global order book. Their yards’ largest share is in the container ship segment, with 81% of the order book. “Container ships dominate both the order book and its growth over the past 12 months. They account for 30% of CGT on order and 68% of the increase during the past year,” says Rasmussen.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "b5ec2afefbca",
+   "title": "Turn Supply Chain Data Into Decisions Before Shortages Reach Patients, Says RELEX’s Rohit Tripathi",
+   "original_title": "Turn Supply Chain Data Into Decisions Before Shortages Reach Patients, Says RELEX’s Rohit Tripathi",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHVYeHJsUFVvQncyaVlVdUhBcDlDSW9ZaDZmVjFrYUdwcTUzZHZZX1FKcGRLQUY1RTduX0RkdlVRSG5vOWFJdGZGcGFmNUc5QnRUU2FmeEtoOEZTMXd0bGlDenFRVF9JVGxWMDZwUnlqdTZnM1kyZ2l6cmhVa3U1Z2thMDRHaDFQMWFqSkNnYUF5MlRLM0pGOGR5dVNKVDI5czBNcWcwQnpZVU9wMUczOTVXaXFkNXJ4a3B5UHlKX0p3MU5BMHYwTmpweWJvZVV2X0FISHZXbw?oc=5",
+   "source": "BioPharm International",
+   "published": "2026-10-22T20:24+00:00",
+   "added": "2026-10-22T23:32+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "shortage",
+    "supply chain"
+   ],
+   "summary": "Turn Supply Chain Data Into Decisions Before Shortages Reach Patients, Says RELEX’s Rohit Tripathi BioPharm International",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
   },
   {
    "id": "f07e27c27b3c",
@@ -861,6 +915,35 @@
     "warszawa"
    ],
    "summary": "Pierwsza linia KDP bez klasycznych semaforów. Port Polska zakończył planowanie sieci GSM-R między Warszawą a Łodzią transinfo.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0239bb3df60a",
+   "title": "MSC and Hutchison Ports resume negotiations to build a terminal with capacity for up to 7 million TEUs in Rotterdam",
+   "original_title": "MSC and Hutchison Ports resume negotiations to build a terminal with capacity for up to 7 million TEUs in Rotterdam",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTjNnb3RLRXF1ZFkzRWVsSnlpOWJkVzBob0JFVGF0dVc2dmgtcTYwTmVWWlFTck52SDVFLWFuVzR6djdnbHJtWTdvN2E1M2xRUjlKYjhhUTRZd0paWk54cnZRV1Zrb1pzVU1yWEpwZUZaNXhZTm5XNmlWS1ZONGRzejRLVDF2Z3R5UVc4V2N1MDdwejZFd1RFOVpUbFpydGFYdG9rbDNNc0FXUUFmNHQ2QkVfb1ZuTUlRSEJ4YzJQbXpaemhtOTk5MHdlUFZUcjJfTkxIMEVJTkliODhTMGVDdExPdlNtdnQzekI5STZMb1FIRThnNUE?oc=5",
+   "source": "El Estrecho Digital",
+   "published": "2026-10-22T16:17+00:00",
+   "added": "2026-10-22T23:32+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "terminal",
+    "teu"
+   ],
+   "summary": "MSC and Hutchison Ports resume negotiations to build a terminal with capacity for up to 7 million TEUs in Rotterdam El Estrecho Digital",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -16436,88 +16519,6 @@
    "summary": "“Innovation and productivity are at the core of what we do.” That was the slogan by a global TMS provider in 2016. In the rear-view mirror, most of the innovation has barely moved the needle from a top-down perspective. Productivity of 40 to 60 files remains a common market result. Based on our own experience from building Forto and working with many of the leading global forwarders, we reviewed end-to-end processes of up to 100 steps each: the time each requires, its automation potential, and the time that remains manual: the automation estimates came out up to 82%. We see an evolution of the sources of AI automation over time currently (see graphic). Coordinating activities that carry their own process knowledge and, hence, deliver customer value beyond (month 18 and beyond): These build on the first two, but they also need an understanding of the process itself, plus the judgment to run it. In a tender where $10 on a submitted rate card decides on the actual nomination, a cost advantage of $50, $70 or $100 per file changes the ability to price Profitability . We found in a recent analysis that up to 30% of relevant customer information comes from the customer’s context, such as SOPs, the actual eMail or documents.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "9a7a04da2f0f",
-   "title": "Crude tanker rates retreat from epic peak as chartering pace slows",
-   "original_title": "Crude tanker rates retreat from epic peak as chartering pace slows",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSGZqX2dpbGs2ODNQWXI2akdRSVdIN1JMbUpxWG5Mc2RHdjF5LTFCVFh6aTEzWTNqX3dZVmpkTktGYlBkZlRNU3N5SF91bkdjV1VfbmpoSWZJSFRtaUpPa182X2E4czZGcC1KeG1pemdPQnR3OE9GY1JRcm9KTHJYWWk4WFdwVkVrc3hmN2FZSGV0c2R1NnJ3UERsZGVMdktmeVd1X1Fn?oc=5",
-   "source": "Lloyd's List",
-   "published": "2026-10-19T22:53+00:00",
-   "added": "2026-10-21T02:11+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6.0,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "charter",
-    "crude"
-   ],
-   "summary": "Crude tanker rates retreat from epic peak as chartering pace slows Lloyd's List",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6c27cdda0b39",
-   "title": "European coil and green steel round-up: EU coil largely stable on slow apparent demand",
-   "original_title": "European coil and green steel round-up: EU coil largely stable on slow apparent demand",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREJhVlh3ZE12UVljM0pQMGRaaFdtUC1iUHBrWHlRc00xZWRWWnNSa2prRzdORmpMRnpaSnMya0xPMlhEVFN3THpvc2RuaVZJcVBENG5sWDFhZ3RIVW1tRjlxdGt0WDFoWmtQVm5RdE5wRjJlUUhkdUJHWld4VXQ2UHM4ZUdTUDJxa3VQbVREVzgzSHJ3c1RDVXg5TzlYQktXTTdEbVNJRG5tc2V5?oc=5",
-   "source": "EUROMETAL",
-   "published": "2026-10-19T22:34+00:00",
-   "added": "2026-10-19T23:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "steel"
-   ],
-   "summary": "European coil and green steel round-up: EU coil largely stable on slow apparent demand EUROMETAL",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0c5a03ee1369",
-   "title": "EU proposes easing nitrate fertiliser rules, raising stakes in water pollution debate",
-   "original_title": "EU proposes easing nitrate fertiliser rules, raising stakes in water pollution debate",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPUUtmMzJwOG1iX0gxM2hlMVJTeG9SWHdsZ24zR2V2aTdrOXVvTkFkRE5aZHpnQXFid1d4d1RMQUxfTDc1elJkc3Vya2NyUlZkNFlpcjgzQlhsNVBQOW0zeUNQOW5MUGE5dWtjaVJEMlBDZ0pvZjd0azB0cERrT1UySnVBd0hDTnJ3akktakpHaWthTXA5YklSc0RGTEZvdFgyTkZpX0dVcEtTVG9CUWktVEQ0VGhIT3JMQ09GaGFSU2Fwc1ZGV3N3ek9DTk9aMUxOUWdqMXRCS3dndTdGOXVmeG96ZGY3endnX3lfNGRvUFdkZGd5R2ZwVXZXdm1LTnJFRXJuY0xkMnBwQjRrcFEtd0xTa2Z0d1Zk?oc=5",
-   "source": "The Brussels Times",
-   "published": "2026-10-19T22:31+00:00",
-   "added": "2026-10-20T03:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "mna"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "brussels",
-    "eu ",
-    "fertiliser",
-    "stake"
-   ],
-   "summary": "EU proposes easing nitrate fertiliser rules, raising stakes in water pollution debate The Brussels Times",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
