@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T07:07+00:00",
+ "generated_at": "2026-10-22T07:52+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "d708f62dcfd7",
+   "title": "A new world order emerges in LNG shipping",
+   "original_title": "A new world order emerges in LNG shipping",
+   "url": "https://splash247.com/a-new-world-order-emerges-in-lng-shipping/",
+   "source": "Splash247",
+   "published": "2026-10-22T07:13+00:00",
+   "added": "2026-10-22T07:52+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "carrier",
+    "lng",
+    "prices",
+    "shipping"
+   ],
+   "summary": "The world’s LNG trading map is undergoing its biggest upheaval in years, with the near-paralysis of Gulf exports redirecting cargoes across oceans, forcing Asian buyers towards alternative suppliers and pushing European gas prices to their highest levels since 2022. While gas prices approach $30 per million British thermal units, LNG carrier spot earnings remain remarkably weak, with the Baltic Exchange assessing the US Gulf-Europe route at just $21,200 a day last week. Vortexa recorded just five confirmed LNG carrier transits of Hormuz last week, against a four-week average of 12. The Al Kharsaah, carrying Qatari LNG towards Poland via the Red Sea, came under fire from a small boat in the Gulf of Aden on October 17. S&P Global data shows Europe and Turkey received 76 of the 143 US LNG cargoes delivered in September. Indian LNG imports were 7% higher year-on-year in September despite elevated prices. Japan’s major utilities held 2.64m tonnes of LNG in inventory earlier this month, their highest stockpile since December 2023. A cold winter would intensify competition for Atlantic cargoes, particularly as the EU prepares to end remaining Russian LNG imports from January 1. LNG Canada’s September investment decision to double capacity to 28m tonnes annually reinforces the emergence of a Pacific export corridor offering Asian customers shorter voyages than traditional Atlantic suppliers.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
   {
    "id": "4c73c0364e4f",
    "title": "US sanctions net widens to shipping agents and lawyers",
@@ -78,6 +107,35 @@
    ],
    "summary": "Correcting Technocentric Myopia: Rebalancing Maritime Intelligence to Counter Shadow Fleet Networks Small Wars Journal",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "efec7214c179",
+   "title": "COSCO Shipping Ports: What is driving its overseas terminal growth?",
+   "original_title": "COSCO Shipping Ports: What is driving its overseas terminal growth?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQV91NHJ5aUx2TFR2aGZaYmZwZy1hb0R3NG8tMXdjUFBvcXJ2Z205dk44WjFVVFllSGlWQ0wtSXZaWGI5azZGV2d6MUp2OVZjdlZsQTExakhjUTRTcWljQVlpd0VFZU9OXzlvUUVKOFhGQmJEU2NyN256Y0ZmR2gyQ0ZuU0xpR00zOEJaVHpueEx5TG9IVGdkZw?oc=5",
+   "source": "Container News",
+   "published": "2026-10-22T06:00+00:00",
+   "added": "2026-10-22T07:52+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "shipping",
+    "terminal"
+   ],
+   "summary": "COSCO Shipping Ports: What is driving its overseas terminal growth? Container News",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -161,6 +219,32 @@
    "summary": "China iron ore stoush puts Australian mines in the firing line SMH.com.au",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
+  },
+  {
+   "id": "5bee4e7ec30e",
+   "title": "DS Tankers cuts VLCC fleet to one",
+   "original_title": "DS Tankers cuts VLCC fleet to one",
+   "url": "https://splash247.com/ds-tankers-cuts-vlcc-fleet-to-one/",
+   "source": "Splash247",
+   "published": "2026-10-22T04:11+00:00",
+   "added": "2026-10-22T07:52+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "fleet",
+    "vessel"
+   ],
+   "summary": "German outfit DS Tankers has sold the 15-year-old, Dalian-built VLCC DS Vision to undisclosed interests for $96m, well below VesselsValue’s $161m valuation. In a comparable deal, the older, 2004-built Southern Emperor , also built at Dalian is reported selling for $110m. The low price tag for DS Vision is explained by the fact that the buyer will not take delivery of the ship before May 2027. The sale will leave the outfit with just one vessel, the 2011-built VLCC DS Venture . Dr Peters-associated DS Tankers has steadily been cutting its exposure to shipping.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "502db1b456b3",
@@ -4107,6 +4191,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "2473f9c617cd",
+   "title": "Commodity market: Soybean and iron ore prices fall sharply.",
+   "original_title": "Commodity market: Soybean and iron ore prices fall sharply.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY21PMlFLdHBXT1h4ZDRFei0wU1oxRWJiSThOM2pYbU93RkZfVk9rYlFzLVVmcWtQbG5fd19zNE90U3dHOS1Db1dPMEtaR3dxbmFjdThaaUFKMWE4ekFlX1RwZ0pZUGlGbHU1UzJlUjBsanhlQnhRTElOUmc2amVXNWVsY0RkaS1jSEZEb09WTUtJczA?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-21T09:01+00:00",
+   "added": "2026-10-22T07:52+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "commodit",
+    "iron ore",
+    "prices",
+    "soybean"
+   ],
+   "summary": "Commodity market: Soybean and iron ore prices fall sharply. Vietnam.vn",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d288cbb62f36",
    "title": "Shipping disruptions open window for Lebanon’s regional trade role",
    "original_title": "Shipping disruptions open window for Lebanon’s regional trade role",
@@ -5012,6 +5124,33 @@
    ],
    "summary": "Iron ore prices ease from two-week high while holding near $93 level Yieh Corp.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1a1a66d46910",
+   "title": "Port Polska: Jest inżynier kontraktu dla inwestycji drogowych",
+   "original_title": "Port Polska: Jest inżynier kontraktu dla inwestycji drogowych",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQzNOTHFYU3pla3VlT2tkaFNHRS1OaHQ3NWN2Xy1pTnhOcXlwR083cjhGc1NFWGNCdkVBbnliVXZEUjBrOENwVHppSmJOVEFfemYtWTVSMmItd25fank2OTJKUk4tRTJNeTZoU09pSHBMOEYyU0s2MmZ3RWlfbGZjNDBDY0VMMmU1WDh4eHprMnpkTER6b1hCOTRtTVVvZWFpVkZxM2V5eS1DS3lLOHh0ckZB?oc=5",
+   "source": "Rynek Lotniczy",
+   "published": "2026-10-21T06:35+00:00",
+   "added": "2026-10-22T07:52+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Port Polska: Jest inżynier kontraktu dla inwestycji drogowych Rynek Lotniczy",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16383,144 +16522,6 @@
     "coal"
    ],
    "summary": "Will ASX 200 Miner Whitehaven Coal (ASX:WHC) Output Track Its Guidance? Kalkine Media",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7b55fab4307c",
-   "title": "How Investors Are Reacting To Kalmar Oyj (HLSE:KALMAR) Port Service Deal",
-   "original_title": "How Investors Are Reacting To Kalmar Oyj (HLSE:KALMAR) Port Service Deal",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZzBaLXh0Vmo3Wl8zWGd4Vmt2TW4yTUxqTEttVlUyLVF1WTNJcnlsQU93SWh2UXBpZlZTQWtEWEJMUUVEdl9adTlLYVNtcUJvczVsU1Z2cjAyRU5tbUdTc09nZUdza19DQmVLMno2bXlVOG1QbEptVlNxOU9YYXVHQWxXMzZJbFI0ZE4wRUVIa2NrMGJEcXVTaVBOb2kwckFUZHI5WHpNVjZMZW1hbkxvRTViNVpiZDRLVlVGNnNnTXNNZWZsck41S3N2cDhYMmgzZmo0SUpyQkdQVFVW0gHcAUFVX3lxTE5nMFoteHRWajdaXzNYZ3hWa3ZNbjJNTGpMS21WVTItUXVZM0lyeWxBT3dJaHZRcGlmVlNBa0RYQkxRRUR2X1p1OUthU21xQm9zNWxTVnZyMDJFTm1tR1NzT2dlR3NrX0NCZUsyejZteVU4bVBsSm1WU3E5T1hhdUdBbFczNklsUjRkTjBFRUhrY2swYkRxdVNpUE5vaTByQVRkcjlYek1WNkxlbWFuTG9FNWI1WmJkNEtWVUY2c2dNc01lZmxyTjVLc3ZwOFgyaDNmajRJSnJCR1BUVVY?oc=5",
-   "source": "Simply Wall Street",
-   "published": "2026-10-19T07:00+00:00",
-   "added": "2026-10-21T20:41+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "kalmar",
-    "port"
-   ],
-   "summary": "How Investors Are Reacting To Kalmar Oyj (HLSE:KALMAR) Port Service Deal Simply Wall Street",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f7a8322174a0",
-   "title": "Gulf crisis could be a blessing in disguise for EA ports",
-   "original_title": "Gulf crisis could be a blessing in disguise for EA ports",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFhCQURjQkRSRDM4eXJaTjBNOUhVOV9lcmhDM3UxUnIxUWtXMGxkMlVhZFU4N0JkWUl6d3dIZEVmVVJDMTRCQnVJWllhTHR6eWJMemdsa1ZqLWFQLUhIWnBJYlJvT0NBVFIweldOMk9JM1N3UjBGNzFUc2pSdFVWN3ZyODRCM20xd2t4SFNtSnU2Vi1SMENlOENiVkdoQVhqUjB4RkZRMzR2Z0c0aVBieEZJRzdTZw?oc=5",
-   "source": "The EastAfrican",
-   "published": "2026-10-19T07:00+00:00",
-   "added": "2026-10-19T08:18+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Gulf crisis could be a blessing in disguise for EA ports The EastAfrican",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "630f2bc6a80f",
-   "title": "Maersk opens automated logistics hub in Singapore",
-   "original_title": "Maersk opens automated logistics hub in Singapore",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQei1FTmkxMmVqMFRXSEZaMzhjaS1KVkRyT3o0RWlTcDE1Tm9CS19qMzZzeWpMNzZ2dnJmYnY3Y2dBWkhoLXY4RG51NG1FNnpWLUxKVGt6STdRa3U2Y0xpejJzRzdsOUl0Q2lMNGZ2RDJHTGtYbVMtWUJ3SkdHU3VUQXdIZEhfal9feDY1VW50cmNaOTNaeThyYw?oc=5",
-   "source": "Singapore Economic Development Board (EDB)",
-   "published": "2026-10-19T07:00+00:00",
-   "added": "2026-10-21T10:32+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "logistics hub"
-   ],
-   "summary": "Maersk opens automated logistics hub in Singapore Singapore Economic Development Board (EDB)",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8731e04aa5e3",
-   "title": "Russian Defence Ministry says that the Kyiv Locomotive depot was attacked",
-   "original_title": "Russian Defence Ministry says that the Kyiv Locomotive depot was attacked",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNy1vS3dwcnFvNVZrdWFFQUdVT2dMenlyZERFNktUdW9yLVdYemVIOGEwd3Ewa3I3M2E3SjE5dmU2TkRhZmFwck80WWNveDloRWlTdENMYTYwUEx6SkJ4ZTNxRk9aYXZLTFo0R21aOGU1eTg1dEp6NW9RcWRkeEgxZGo5OEJsTzhKX0xmRUJ6cXViNUl1QnNGNWt4YmlpVEpFbFJUR05LWHVLWS1RTmc?oc=5",
-   "source": "Newsquawk",
-   "published": "2026-10-19T06:47+00:00",
-   "added": "2026-10-19T16:23+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "rail",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "attack",
-    "defence",
-    "locomotive",
-    "ministry",
-    "russia",
-    "russian"
-   ],
-   "summary": "Russian Defence Ministry says that the Kyiv Locomotive depot was attacked Newsquawk",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e7a9282e6692",
-   "title": "Rapeseed Market Update – MATIF, Canola and Ukrainian Cash Prices — CMB News",
-   "original_title": "Rapeseed Market Update – MATIF, Canola and Ukrainian Cash Prices — CMB News",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcWNwRUV0VDBZOFptc2x1MXJrenZ6dVZOQ19ST3dJZlVtQk1qeUdmN255b01oa1MtYWdHZzFaUVVMWHR6anJwbGdaNFRtYk53YXlxZ1dlc2xoSnY1MGVXcGRRQlZUX1VYRGFrS0VBbEZQcVNFRmlkcUhxSmhjeFJoSkV3d1dZZDZVanpqNk8wd1VzZTQ0QjZ3eWhKZFUxQQ?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-19T06:42+00:00",
-   "added": "2026-10-19T09:41+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "prices",
-    "rapeseed"
-   ],
-   "summary": "Rapeseed Market Update – MATIF, Canola and Ukrainian Cash Prices — CMB News CMB News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
