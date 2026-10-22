@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T12:18+00:00",
+ "generated_at": "2026-10-22T13:13+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,95 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "83b02c7686d2",
+   "title": "Another typhoon threatens recovery of East Asian ports from congestion",
+   "original_title": "Another typhoon threatens recovery of East Asian ports from congestion",
+   "url": "https://theloadstar.com/another-typhoon-threatens-recovery-of-east-asian-ports-from-congestion/",
+   "source": "The Loadstar",
+   "published": "2026-10-22T12:31+00:00",
+   "added": "2026-10-22T13:13+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "ports",
+    "supplychain",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "china",
+    "congestion",
+    "disruption",
+    "port",
+    "ports",
+    "vessel"
+   ],
+   "summary": "Congestion may be easing in eastern China, but with Typhoon Champi set to sweep across the north-east coast of Taiwan tomorrow there are concerns that disruption to vessel movements could undo benefits carriers are seeing in China. Maersk told customers waiting times at ports along the east China coast were showing a continued week-on-week decline, with its wider east Asian network stabilising following disruption from earlier typhoons., The carrier said: “Recovery efforts across East Asia continue to progress, although strong export demand is putting pressure on congested ports. Operational conditions at East China ports have improved. “While the direct impact of recent typhoon activity has largely subsided, recovery across the wider regional network remains ongoing. Furthermore, there have been restrictions on vessel movements at some ports, with anticipated closures affecting Zhejiang, Fujian, and surrounding areas if the typhoon matches forecast severity, raising the prospect of renewed delays. The extent of any typhoon-induced disruption will depend on how long restrictions remain in place, the number of vessels affected and how quickly terminals can clear backlogs once operations resume. And, if the threat of a typhoon was not enough, Maersk noted it was likely intermittent delays would continue along its East Asia network, adding that it was “monitoring conditions and contacting customers whose shipments might be affected” to discuss available options.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "ef5cf2069fe7",
+   "title": "Kazakhstan Expands Middle Corridor Fleet as Caspian Sea Levels Fall",
+   "original_title": "Kazakhstan Expands Middle Corridor Fleet as Caspian Sea Levels Fall",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNlVXdzQ2LW8tOHhTS2g4cEd2TEpqSUNsYXNsYVptT1lQV0FjNDNPc3NrZ3J6Qnh3Z1NrQmRrNVR4VV96NnNEYVl3cFpqQVlXVHlweEtIcTJ0V3h4bnNXUlpjZ2owWGt5N05DRzFZcERZTUktZHFhOFRjQXdLQ3UzR0dLX3VWVGxEOWlLdnpMc0paQQ?oc=5",
+   "source": "The Times Of Central Asia",
+   "published": "2026-10-22T12:20+00:00",
+   "added": "2026-10-22T13:13+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "fleet",
+    "middle corridor"
+   ],
+   "summary": "Kazakhstan Expands Middle Corridor Fleet as Caspian Sea Levels Fall The Times Of Central Asia",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8a4d5bd0be95",
+   "title": "Oil Prices Surge as Deadly Attacks on Saudi Energy Infrastructure and Tankers Raise Middle East Supply Fears",
+   "original_title": "Oil Prices Surge as Deadly Attacks on Saudi Energy Infrastructure and Tankers Raise Middle East Supply Fears",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM2poNnM4WlNtU3l2X3hTbmpQWWxsdU14TVFOQTlUVW9TaDVFYWVlWDYzSTVHNlE1ajN2WVg2MDhRUU1jekxycWJPSHJ1c1Z6akxrVEppWUlabTdJTTAxcjVCNnNlVjltRkRRYmZVVDFrMVdpeExqS3hOU1VpY1J0czhiQnB4TEJWS0JsVGVkQ2FQMC1iQWtmcVc3SzhVeHJGN25Nek84MWRzb05Mamx6MUo4cUdVTEZ3MEFRdlYxbEFTLTF1WHc3QUhCU21kc1BITEo5NXUyNTZnS0E2LUxwSWpCOGJOeUYxVXc?oc=5",
+   "source": "EnergyNow.com",
+   "published": "2026-10-22T11:53+00:00",
+   "added": "2026-10-22T13:13+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Oil Prices Surge as Deadly Attacks on Saudi Energy Infrastructure and Tankers Raise Middle East Supply Fears EnergyNow.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "a444d4d67402",
    "title": "Intra-Asia rates soften as congestion at major ports begins to ease",
@@ -46,6 +135,60 @@
    "summary": "Intra-Asia rates are receding from their recent highs as bottlenecks in major Chinese and other Asian ports subside. On 15 October, Drewry’s Intra-Asia Container Index dipped 3%, to an average of $1,453 per 40ft. Rates from Shanghai to key destinations, including Busan in South Korea, Ho Chi Minh City in Vietnam, and Jawaharlal Nehru Port in India, softened as vessel waiting times declined. Rates from Shanghai to Nhava Sheva fell 11%, to $3,370 per 40ft, while those to Busan declined 8% to $1,000 per 40ft. Shanghai–Singapore rates dropped 7% to $1,973 per 40ft. Port congestion eased during Week 41, with average vessel waiting times at Busan at 23 hours, from 26 hours a week earlier. At Jawaharlal Nehru Port, waiting times declined to 24 hours, from 42, and Singapore recorded a decrease to 34 hours, from 50. However, the deteriorating situation in the Middle East continued to support freight rates on the Shanghai–Jebel Ali route, which remained elevated, at $8,416 per 40ft. Freight rates from Busan to Shanghai rose 4%, to $159 per 40ft, with Yokohama to Shanghai up 4%, to $120 per 40ft.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "extract"
+  },
+  {
+   "id": "b0c17cde748f",
+   "title": "Brent Crude Rises Above $110: Middle East Tensions Raise Concerns Over India's Import Bill",
+   "original_title": "Brent Crude Rises Above $110: Middle East Tensions Raise Concerns Over India's Import Bill",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObVNINmw2YWJHSlppUGxzRGRwa2xGOEkxT3c1RmJCckNjeTgwQzJGeExKWDYwQ3dsUTFyaXNNci01eFh5UG1HMld6NzRLZWFjaUg0TjJmUk05aFdZTk0xWHpuS0lyYzNuemR0VldUU2VXOVZWMXd4UkVqOTAzYzVDdVZuSDZ4N2RMOGs0MFk5bWdrc05WemREVjlFVTRCV3J6R1d1aHJuWlZxamJ3bnFaa1BwanNPYVZEcTNUdkRhNGUydFVUbDI3MGJMY0JrVEU?oc=5",
+   "source": "Trade Brains",
+   "published": "2026-10-22T11:43+00:00",
+   "added": "2026-10-22T13:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "bill",
+    "crude"
+   ],
+   "summary": "Brent Crude Rises Above $110: Middle East Tensions Raise Concerns Over India's Import Bill Trade Brains",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e7c0c4a39ac4",
+   "title": "LR, BPA Urge Ports To Prep For Maritime Nuclear Tech",
+   "original_title": "LR, BPA Urge Ports To Prep For Maritime Nuclear Tech",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3FsU0dIYmlYOUVmdjM5cWtSZlBMSkVNZzl1ejNSNU5mc25zaS1fZ2ZRUVgtSlNvMGJfTl94LVl3eHhZX2JIMVAtNUljV3dQZHE2aW5rNkV1dnFyejdSc1lnZUVKOHNaRXB6UExWZHdYcTZ4djlsRWNXUGVIUDhrWG1QYjA?oc=5",
+   "source": "Marine Link",
+   "published": "2026-10-22T11:27+00:00",
+   "added": "2026-10-22T13:13+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "LR, BPA Urge Ports To Prep For Maritime Nuclear Tech Marine Link",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "769de119fd72",
@@ -7475,6 +7618,34 @@
     "shipping"
    ],
    "summary": "Thoresen Shipping backs handysizes again with Japanese bulker buy TradeWinds News",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "17305dc7bec0",
+   "title": "Global container freight prices surge 130% since February amid Middle East tensions: Jefferies",
+   "original_title": "Global container freight prices surge 130% since February amid Middle East tensions: Jefferies",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeHJEQVZ3aWpObGZMR05TRTFwelUyRmxEU0xVdXoydkJlajlXOWgzU0l2bUwybjdHVlc5ZkV3bXZobUJtZXhZeVpqUnFua3BHVnFzOFFyTVhrR3A2OEVGWVVvODZESll2c2xPQUZLcWM4eG1lY053dUFYOV9LaWVWeWJwRmc1Qk9kcEozemtrRmJWQ2lTQ3haM2w5T3ZnUmJfelllVFRRLVNPbGxLa2VmQUV4X3lzVU11TlF2cHhXeGZQcEoyb2xKWmZoajZQc3Z4T3Bz?oc=5",
+   "source": "India Shipping News",
+   "published": "2026-10-21T04:02+00:00",
+   "added": "2026-10-22T13:13+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "prices",
+    "shipping"
+   ],
+   "summary": "Global container freight prices surge 130% since February amid Middle East tensions: Jefferies India Shipping News",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
@@ -15548,6 +15719,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "fb3bc7d3ddfd",
+   "title": "BMI has raised its forecast for coking coal prices amid supply risks",
+   "original_title": "BMI has raised its forecast for coking coal prices amid supply risks",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFFDalBFVFV5bW81UWZGbjFJMHNPa2NIUU9pQlBuOFd0SDVJWlhqZkJqMmd2X2FSSzZJckN6X3Z2TWhobTF5NzlBZVdwTFhBdEtFTGgtbEloNUwzMHNYekxtZE8xQ2RzLUJsbzFvRTFUWm9waFFYeTVnMXZfQ1FWa0MtTDRiTzB6ZkF2bk5NVnJqYlJESmpsVVVHczDSAaIBQVVfeXFMUEV0b3NGUjR0SHBOdm1WMjExcFEwOVZVRTBxazlFd1pxS19uakpSQi1wZGgwYWZibFQyYkZCNjQ4MlpheUtsMm92SVRkUXVHa0hvTEZ6SzBIbnZoZzhaM2Z5NVYwZF9ZUXcybUQwSy1CMjNFWHRzelFIb3F1aG01VzJoSWJNaG80TXNtSU9kVjZsUmc3SzY2Mmp4Z0RTcVdRODF3?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-19T13:36+00:00",
+   "added": "2026-10-22T13:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "coal",
+    "prices"
+   ],
+   "summary": "BMI has raised its forecast for coking coal prices amid supply risks GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "91bc5f23ccef",
    "title": "AAL completes nine-voyage steel bridge transport solution",
    "original_title": "AAL completes nine-voyage steel bridge transport solution",
@@ -16331,201 +16528,6 @@
    ],
    "summary": "Today, Monday, October 19 2026, the Baltic Dry Index climbed 35 points, 2546 points. Baltic Dry Index is compiled by the London-based Baltic Exchange and covers prices for transported cargo such as coal, grain and iron ore. The index is based on a daily survey of agents all over the world. Baltic Dry hit a temporary peak on May 20, 2008, when the index hit 11,793. The lowest level ever reached was on Wednesday the 10th of February 2016, when the index dropped to 290 points.",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c2cc17729f16",
-   "title": "‘Redeployment and agility’ key to continued success of LNG transition, says CMA",
-   "original_title": "‘Redeployment and agility’ key to continued success of LNG transition, says CMA",
-   "url": "https://theloadstar.com/redeployment-and-agility-key-to-continued-success-of-lng-transition-says-cma/",
-   "source": "The Loadstar",
-   "published": "2026-10-19T11:59+00:00",
-   "added": "2026-10-19T12:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe",
-    "Asia"
-   ],
-   "tags": [
-    "bunker",
-    "carrier",
-    "lng"
-   ],
-   "summary": "CMA CGM’s decision to be an early mover in LNG bunkering, amid the decarbonisation push, has paid dividends, according to the French carrier’s VP for bunkering and energy transition, Farid Trad. At last week’s Singapore International Bunkering Conference and Exhibition (SIBCON), he recalled that In 2017, CMA CGM signed the first of a few 10-year agreements under which compatriot energy major TotalEnergies supplied 300,000 tons of LNG annually to the carrier in Rotterdam. Deliveries commenced in 2020, using an LNG bunkering vessel commissioned by Mitsui OSK Lines for long-term charter to TotalEnergies. Finding the holy grail will be around those three dimensions.” In July 2025, CMA CGM and TotalEnergies announced a new 50:50 joint-venture for LNG bunkering logistics in the Amsterdam-Rotterdam-Antwerp region, expanding their long-term cooperation and scaling supply up to 360,000 tons annually through 2040. In conjunction with SIBCON, CMA CGM announced it would work with Singapore LNG Corp, which operates the LNG terminals, and the Maritime and Port Authority of Singapore, to develop liquefied bio-methane as a marine fuel at the world’s largest bunkering port by sales volumes. CMA CGM, the third-largest shipping line with a fleet of nearly 4.5m teu, has 157 containerships of 1.6m teu on order, all to run on LNG dual-fuel.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "5a9d942fb5e1",
-   "title": "India shelves coal import mandate amid power supply crunch",
-   "original_title": "India shelves coal import mandate amid power supply crunch",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWTRkdk1kbFlCUlNuTGhlNmVFSEFibjcydEI0Vnk3azNJcm1nTFNIdXY2ZHVXbzY4cGlqTG1taXZ2SFlMRnVOcHV6Si1fVm5WYTNyVkxBc21ORjhhS2Fib081Wk9OSVliNmpwVzNMeUlyaGFwUldISEdWenlfRXFUSUxKWkNzRThENWZJdnF2T0VYVVE?oc=5",
-   "source": "Traders Union",
-   "published": "2026-10-19T11:57+00:00",
-   "added": "2026-10-19T15:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "India shelves coal import mandate amid power supply crunch Traders Union",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b1531f1ca21c",
-   "title": "Brazil Soybean Oil Exports Top 2025 Total; Record 2026-27 Soybean Crop Projected - News and Statistics",
-   "original_title": "Brazil Soybean Oil Exports Top 2025 Total; Record 2026-27 Soybean Crop Projected - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkNwTDJsV3oyTWtaZERkUUNUTHNlbEhOMHNFTWowR3FGNmpHckJuampRUEZYdkk5dzlLdDF5eFhuVnFwQWYzU0E5TE1ONGN5SUdNRlYtWC1idG51R0VZWmVVUml3R21wMFRqSDhmSGFqWFlVRkU5QlE1OUpkTzRfVU10ZDZjbl9vWkFmNjB3czRfeW9PN2dkc09zWVRzQVc1S3Bn?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-19T11:51+00:00",
-   "added": "2026-10-19T16:23+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "soybean"
-   ],
-   "summary": "Brazil Soybean Oil Exports Top 2025 Total; Record 2026-27 Soybean Crop Projected - News and Statistics IndexBox",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bf6d7e902652",
-   "title": "New EU parcel charges add pressure for rethink on cross-border fulfilment",
-   "original_title": "New EU parcel charges add pressure for rethink on cross-border fulfilment",
-   "url": "https://theloadstar.com/new-eu-parcel-charges-add-pressure-for-rethink-on-cross-border-fulfilment/",
-   "source": "The Loadstar",
-   "published": "2026-10-19T11:45+00:00",
-   "added": "2026-10-19T12:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "regulation",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "EU institutions",
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "customs",
-    "duty",
-    "eu ",
-    "supply chain",
-    "supply chains"
-   ],
-   "summary": "Higher EU parcel charges could further strengthen the case for retailers to hold stock in Europe, as reduced China–Europe freighter capacity and elevated airfreight rates add to the cost pressures facing cross-border supply chains. An additional €2 EU handling fee per product category is expected from 1 November, on top of the €3 customs duty introduced in July on qualifying consignments worth €150 or less. For a parcel containing three product categories, the combined charges would reach €15 before transport, clearance, and VAT costs. The €3 duty started on 1 July, and the €2 fee is expected from 1 November. Rotate data shows capacity on the trade down 20% year on year between 18 September and 18 October. Holdwise provided an illustrative comparison, involving a €90 consumer order containing a Chinese-made T-shirt and watch, bought by the brand for €30. Shipping the order directly from outside the EU would incur €6 in customs duty and an expected €4 handling fee. Adding assumed postage and clearance costs of €7, plus €2.50 for storage, picking and packing, produces a total of €19.50. Holdwise calculated €2 in normal customs duty, 50 cents per order for allocated freight and clearance, €2.50 for warehouse fulfilment and €5 for delivery within the EU: a total of €10.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "5992358497e4",
-   "title": "FMC Targets Spanish Ships With $200,000 Port Fees After Finding U.S. Vessels Barred From Spanish Ports",
-   "original_title": "FMC Targets Spanish Ships With $200,000 Port Fees After Finding U.S. Vessels Barred From Spanish Ports",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa3dJU1laSHV6ZWFDaG85SnhEcTk2cmJPWmlUeFdMRnRZRFJ3Mm9rVHV0YzF1V0swS1R4N3gzV2Mwd3Z3cHhFNEVkMUVzMThCdlV3RGF6b1RBa0QxTTdTMUNxSXhQMGhMOG1HeUxPZVNnOHZNdDJLTV9Yb0l6WlJ4SGhvZlNrRDdlc0VvNE55NXB3eC04Q1A3N3RVcjNNT0xuSXVGVVVmLXhZc1Zmd2NYMnN6ZlNyaWduX21FaGt6Ui0?oc=5",
-   "source": "Breakbulk.News",
-   "published": "2026-10-19T11:44+00:00",
-   "added": "2026-10-19T15:51+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "vessel"
-   ],
-   "summary": "FMC Targets Spanish Ships With $200,000 Port Fees After Finding U.S. Vessels Barred From Spanish Ports Breakbulk.News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "03540ef118e7",
-   "title": "New report reveals hidden extra costs of cargo crime",
-   "original_title": "New report reveals hidden extra costs of cargo crime",
-   "url": "https://theloadstar.com/new-report-reveals-hidden-extra-costs-of-cargo-crime/",
-   "source": "The Loadstar",
-   "published": "2026-10-19T11:40+00:00",
-   "added": "2026-10-19T12:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "supply chain",
-    "supply chains"
-   ],
-   "summary": "Cargo theft is costing businesses far more than the value of the stolen freight; loss of a single €5,000 parcel can potentially generate €35,000 in additional costs, as organised gangs and cybercriminals exploit vulnerabilities in Europe’s supply chains. LivingPackets’ Hidden Cost of High-Value Delivery report, published today, estimates that every euro of direct loss carries four to seven euros in additional costs, including replacement, reshipping, dispute handling, and customer dissatisfaction. Across 10,000 shipments of goods worth €5,000 each, a 0.1% incident rate would mean 10 losses, representing €50,000 in stolen goods, and up to €350,000 in hidden costs, the analysis, drawing on Logistics Bureau research, found. Only 7.8% of the 58,661 reported incidents included a recorded loss value, suggesting the documented total significantly understates the problem. They know the transport companies that are moving them, the lanes they go on.” Cargo theft methods include curtain slashing, entire loaded trailers taken from depots, and cyber-enabled fraud involving phishing emails, falsified collection documents, and manipulated delivery instructions.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "80b0cfbd3da9",
-   "title": "Analysis: The ETS question – did carriers redesign Asia-Europe services to avoid carbon tax?",
-   "original_title": "Analysis: The ETS question – did carriers redesign Asia-Europe services to avoid carbon tax?",
-   "url": "https://theloadstar.com/the-ets-question-did-carriers-redesign-asia-europe-services-to-avoid-carbon-tax/",
-   "source": "The Loadstar",
-   "published": "2026-10-19T11:29+00:00",
-   "added": "2026-10-19T11:32+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "carrier",
-    "ets"
-   ],
-   "summary": "Would a carrier really design its Asia-Europe network around shaving marginal ETS dollars, which it can recoup through surcharges anyway? In short, carriers did redesign for the ETS – though not around the ETS alone. Carriers have redesigned Asia–Europe loops to cut their exposure, and they were right to. A few months ago, the EU ETS Observatory published a report stating that UK volume growth was a direct result of shippers seeking to minimise the EU-ETS charges – bullocks, if you ask me. The first is above – carriers optimised their networks within the rules, as they were entitled to, and importers were spared hundreds of millions of euros a year: the Observatory puts the allowances not collected at the three UK ports alone at about €316m. It removes the carbon price from the Asia leg, the longest of the voyage, and with it any ETS reason to slow down or burn a bio-blend there. The commission’s carbon market report found about 5% of national ETS revenue went to industrial decarbonisation, and only France and Estonia ringfence a share for shipping. Its July proposal would create a reserve of up to 110m allowances from 2028 to 2040, covering 55%–90% of the price gap for sustainable fuels and zero-emission propulsion.",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "extract"
   }
  ]
