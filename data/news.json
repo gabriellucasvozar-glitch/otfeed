@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T11:36+00:00",
+ "generated_at": "2026-10-23T12:08+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,58 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "1fb16c598ea9",
+   "title": "Mieszkańcy Białunia boją się nowej linii kolejowej, PKP PLK chce zaprosić na konsultacje... za rok",
+   "original_title": "Mieszkańcy Białunia boją się nowej linii kolejowej, PKP PLK chce zaprosić na konsultacje... za rok",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmNjRy1TNndtSlFRaUFPWWNqYUlhbV82RnBCSlUzU3Y3cGV4ME5TSXpJbl82cmcxcDBrVW1OcVFpRGZ2OVNkX0g4czB6d25hVzhzMVhobVRVMGxJQi1vRHNNeGtsQkFNb3g2VE9lNGY4MVRlTHZKeS1aU0YwbW1JV2dOMU5GSWhXdUN6cjFFU3R6bUhYSzNsYXF0QXpJWGMzSS13NTg4YlIxeFFMZ05XRm5EWVRFRnJMWE1qaDZrcWljb2RU?oc=5",
+   "source": "wGoleniowie.pl",
+   "published": "2026-10-23T11:56+00:00",
+   "added": "2026-10-23T12:08+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "pkp plk"
+   ],
+   "summary": "Mieszkańcy Białunia boją się nowej linii kolejowej, PKP PLK chce zaprosić na konsultacje... za rok wGoleniowie.pl",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ade31721cf03",
+   "title": "Singapore must look beyond the box to secure its logistics future",
+   "original_title": "Singapore must look beyond the box to secure its logistics future",
+   "url": "https://theloadstar.com/singapore-must-look-beyond-the-box-to-secure-its-logistics-future/",
+   "source": "The Loadstar",
+   "published": "2026-10-23T11:49+00:00",
+   "added": "2026-10-23T12:08+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "logistics",
+    "port"
+   ],
+   "summary": "Dropping behind Shanghai and Ningbo-Zhoushan in the global container port rankings, and seeing Malaysia’s Port Klang and Port of Tanjung Pelepas nip at its heels should serve as a wake-up call for Singapore, in a changing competitive landscape for box trades For Singapore, this is about more than losing a place in a league table. It is an existential question asking whether a nation built on maritime trade can adapt to a world where supply chain control matters as much as moving containers. As Singapore spent years living off its geographical advantages, deepwater harbour and reputation for efficiency to guarantee continued dominance, its competitors have expanded their infrastructure, attracted manufacturing investment, and developed integrated logistics ecosystems. Part of the problem for Singapore with its nearest rival is that it simply cannot compete with Malaysia when it comes to land availability, meaning it should not focus on warehouses and distribution centres. And the pending Tuas Port, with its planned capacity of 65m teu on full completion in the 2040s, will have a part to play, even if success cannot be judged by volume alone. Yes, the Ministry of Transport’s new Connectivity & Logistics division recognises the need to integrate maritime, aviation, and land transport, but creating a coordinating body will not automatically deliver the commercial agility needed to compete.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
   {
    "id": "2b0759801f6d",
    "title": "Boxship orderbook bulges as race for giant vessels heats up",
@@ -693,6 +745,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "7fe2e6699a0c",
+   "title": "Grain imports ban from Russia, Belarus to Latvia extended / Article",
+   "original_title": "Grain imports ban from Russia, Belarus to Latvia extended / Article",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWs2MDNpcVh0VzR4NUZZUWV3V3RYTzZDbXFYeVVEa1BHN1FTZlViQ0xfZkZyNk5iUzdHNVU5T3FnVkE2T2JMQ0JoSHI2M0ZDa1FzenFEWUZIRFQtZFNMRTJtOTltcjBNVDJuUlNqMmY1dHZsSUZuLVNHUmhKNXZNUGUzVlZoTFhheE1CVmNidm1wOTJYNzlHTWZ3VXRTelVxY0x3N3EwczJIV2ZxUUNyRVptM0dnbDJnV1pv?oc=5",
+   "source": "Latvian Public Media",
+   "published": "2026-10-23T09:43+00:00",
+   "added": "2026-10-23T12:08+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "belarus",
+    "grain",
+    "russia"
+   ],
+   "summary": "Grain imports ban from Russia, Belarus to Latvia extended / Article Latvian Public Media",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "c33a60b2c44d",
    "title": "EU Customs Quotas: One Code, 27 Regimes, Uneven Rules",
    "original_title": "EU Customs Quotas: One Code, 27 Regimes, Uneven Rules",
@@ -801,6 +882,32 @@
    ],
    "summary": "Malacca Maze: Why a Hormuz-style blockade needs to be averted to keep global trade flowing ET Infra",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e2e41d0ab20b",
+   "title": "Ports Urged to Plan Early for Advanced Nuclear Infrastructure",
+   "original_title": "Ports Urged to Plan Early for Advanced Nuclear Infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmloQloyZXRZVDY4UHNxMjVMOHlibjBtcERnenRqcnU2QloydW1Wc1MwXzNVcWFlbmdHYllCVU9raWJyQ1hKRlNkR0NWTHlVa1V2ckxlVWI4SFBERXpSWHd5bTRoRWV6MWlmZkhia255ZWdVREJqTnAtTXZoTTNHSEVQQTRTZGQxT0hSZ0FPQjAtYlMtdEZpOQ?oc=5",
+   "source": "Global Trade Magazine",
+   "published": "2026-10-23T09:28+00:00",
+   "added": "2026-10-23T12:08+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Ports Urged to Plan Early for Advanced Nuclear Infrastructure Global Trade Magazine",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -1643,6 +1750,34 @@
    ],
    "summary": "INTERVIEW: “Freight Forwarding is Evolving into End-to-End Supply Chain Orchestration”- Manisha Malhotra, DP World India Shipping News",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b89bbb0e757d",
+   "title": "Iran’s IRGC says 4 ships hit, set ablaze in Gulf; 3 others strike mines near Hormuz",
+   "original_title": "Iran’s IRGC says 4 ships hit, set ablaze in Gulf; 3 others strike mines near Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZmNKalo1SDRRUWVlSmpUa1ZPMEZmLS04UDJGNU1ZSkVLYnM1M2ZuOXVvMGhWUXNxb1k5LUlzQkk3VG5Ka3ZHenVGT0drejVFaXlKYUhCS3F1LXdNeFgxelc1dkpLVEV0ZlhOSmJTNlJhS2wxMWJ1dG84VjdPY0Q3T1hkNTBWMkpQTUVIZFIxc2tuclFQN1d5cGU1bDZVOHdLVFYtaVEtUUJBSzBvQnRxMHpQdjdNU3FLazAzd0tRNFVUMHc?oc=5",
+   "source": "India Shipping News",
+   "published": "2026-10-23T03:26+00:00",
+   "added": "2026-10-23T12:08+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Iran’s IRGC says 4 ships hit, set ablaze in Gulf; 3 others strike mines near Hormuz India Shipping News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16425,150 +16560,6 @@
    "summary": "AD Ports cuts emissions intensity by 6 per cent in 2025 Port Technology",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
-  },
-  {
-   "id": "d406f675275e",
-   "title": "Steel scrap between trade barriers and demand growth",
-   "original_title": "Steel scrap between trade barriers and demand growth",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONzBsNUtTWmZ3RDl0VVZnQ2w0N2tuTGYyNG9jTmNxUmowWHVWNW5adkI0MGZ2cnpOM19KdzBBbUVoVXlITGJiYjV5SDBHWkk4a1BEdHN1LTZfOURaa3E4aVlSNWhVQloxR2U5akVHbVlfMUt4THRYMkFNR2xGamh1enROMWlZSkp1dDZuWg?oc=5",
-   "source": "RECYCLING magazin",
-   "published": "2026-10-20T10:03+00:00",
-   "added": "2026-10-20T16:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "scrap",
-    "steel"
-   ],
-   "summary": "Steel scrap between trade barriers and demand growth RECYCLING magazin",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d90ddd95104a",
-   "title": "Kapitan: Odra była wielką szansą, którą zmarnowali pseudo-ekolodzy i politycy",
-   "original_title": "Kapitan: Odra była wielką szansą, którą zmarnowali pseudo-ekolodzy i politycy",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRFpQSHJxUU9lMG9CckwxWVVxMTJMNzY1dE1RWWxPa0N1bTZmeHpxc1IxQmU5OUNoQjlxTnBxXzZGaTkzQ2tJb2Y3VmlaSlo4MlE4VDRUc0dTc24yYUMzM04wdjVHWDRxVTY5VkVTbzc5ZFlFWkNIX0RFVy1kRVljRXdDa3VNQTVlVlVaOGZCMlhuYjJWOWhwMXYzR09aSi12MVkyeF9FbEtmTTg?oc=5",
-   "source": "NTO",
-   "published": "2026-10-20T10:03+00:00",
-   "added": "2026-10-20T10:23+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "odra"
-   ],
-   "summary": "Kapitan: Odra była wielką szansą, którą zmarnowali pseudo-ekolodzy i politycy NTO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cde3e76f0788",
-   "title": "Norway plans two parallel competitions for up to 20 standardised vessels",
-   "original_title": "Norway plans two parallel competitions for up to 20 standardised vessels",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjctMDNDSkt0MUE0RUZlVzZIWTFLeXlBdWh3X3ZPN19lN21WUklLYkxoV2VFNUJYRWlMYmFHa0E3TUFJc0NNbWJxcVppWUdUeE1Wc1dSd2RnT2s2dFIxelJzZUcxbFZNN25JWFRPRHJKb09pN3Y4TEIxNWYtdGZTSTFPTHA1eXl2UWxlZkhBR2dXYkJzRWZxWGtLLWxLQk9rNHdpbTBSLXFxb1cxdUlBMl9pYzdMdw?oc=5",
-   "source": "Nordic Defence Sector",
-   "published": "2026-10-20T10:01+00:00",
-   "added": "2026-10-20T10:58+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "defence",
-    "vessel"
-   ],
-   "summary": "Norway plans two parallel competitions for up to 20 standardised vessels Nordic Defence Sector",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "af0469f35936",
-   "title": "Oil hovers near five-month high as Hormuz, Houthi attacks threaten supply recovery",
-   "original_title": "Oil hovers near five-month high as Hormuz, Houthi attacks threaten supply recovery",
-   "url": "https://www.hellenicshippingnews.com/oil-hovers-near-five-month-high-as-hormuz-houthi-attacks-threaten-supply-recovery/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-20T10:00+00:00",
-   "added": "2026-10-20T10:58+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities",
-    "shipping"
-   ],
-   "priority": "high",
-   "score": 16,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "crude",
-    "futures",
-    "hormuz",
-    "houthi",
-    "oil price",
-    "prices",
-    "vessel"
-   ],
-   "summary": "Oil prices held near a five-month high on Tuesday, as traders assessed reports of fresh attacks on vessels and Houthi strikes on Saudi energy infrastructure. As of 04:15 ET (08:15 GMT), benchmark Brent crude futures had risen 0.8% to $110.48 a barrel, whileU.S. West Texas Intermediate crude futures gained 1.3% to $105.02 a barrel. Brent settled within touching distance of a five-month high on Monday, even though it had fallen earlier in the session on reports that the U.S. Oil prices surged once again after Iran’s First Vice President said the country had “no choice but to exercise sovereignty” over the Strait of Hormuz, exacerbating worries over crude supply disruptions in the critical chokepoint. Recent strikes on vessels near Hormuz have slowed the flow of oil through the waterway. In a note, ANZ analysts warned that the rebound in oil flows was now under threat, with preliminary data pointing to another slowdown due to intensifying attacks on ships in the Gulf. Iran’s paramilitary Islamic Revolutionary Guard Corps also claimed that an oil tanker had struck a naval mine and caught fire in the strait, although the incident could not be independently verified.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "96192cdd5877",
-   "title": "Iron Ore Slips on Signs of Robust Supply",
-   "original_title": "Iron Ore Slips on Signs of Robust Supply",
-   "url": "https://www.hellenicshippingnews.com/iron-ore-slips-on-signs-of-robust-supply/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-20T10:00+00:00",
-   "added": "2026-10-20T10:58+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "ports",
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia",
-    "Oceania"
-   ],
-   "tags": [
-    "chinese",
-    "futures",
-    "iron ore",
-    "port",
-    "ports"
-   ],
-   "summary": "Iron ore futures fell below CNY 680 per ton, sliding back toward four-year lows as rising global shipments and higher arrivals at Chinese ports pointed to ample supply. Industry data showed that global iron ore shipments increased by 3.89 million tons week-on-week to 34.77 million tons in the week ending October 18. Shipments from Australia and Brazil also rose by a combined 4.79 million tons to 29.82 million tons. Meanwhile, iron ore arrivals at 47 Chinese ports climbed by 2.73 million tons to 28.35 million tons over the same period. Adding to the bearish outlook, the World Steel Association revised its 2026 forecast, projecting a 0.1% decline in global steel demand, reversing its earlier estimate of 0.3% growth made in April. Steel consumption continued to face pressure from China’s prolonged property downturn and sluggish construction activity, although exports offered some support. Source: Trading Economics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
   }
  ]
 }
