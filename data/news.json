@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T22:07+00:00",
+ "generated_at": "2026-10-23T22:40+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -467,6 +467,31 @@
    ],
    "summary": "The New ConTex showed the largest week on week increase in almost 18 months. The jump was driven by a particularly strong 12 months fixture Source: Verband Hamburger und Bremer Schiffsmakler e.V",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "3e7012d53f2f",
+   "title": "Best Oasis Weekly Recycling Market Report, 23 October 2026",
+   "original_title": "Best Oasis Weekly Recycling Market Report, 23 October 2026",
+   "url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-23-october-2026/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-23T21:00+00:00",
+   "added": "2026-10-23T22:40+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "The Indian ship recycling market continues to remain stable, supported by healthy local steel consumption and steady demand for recycled Source: Best Oasis Limited",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   },
   {
@@ -16492,32 +16517,6 @@
     "vessel"
    ],
    "summary": "HD Korea Shipbuilding & Offshore Engineering, HD Hyundai’s intermediate holding company for shipbuilding, said on Oct. 20 it signed a shipbuilding contract with HMM for eight 13,000-TEU LNG dual-fuel container ships. The total contract value amounts to 1.9196 trillion won ($1.42 billion). The vessels ordered are designed to measure 337 meters in length, 51 meters in width and 27.9 meters in height, and will be equipped with dual-fuel propulsion engines capable of using both LNG and conventional marine fuel. The ships will be built separately at HD Hyundai Heavy Industries’ Ulsan shipyard and HD Hyundai Samho’s Yeongam shipyard. Two vessels are scheduled to be built in Ulsan and six in Yeongam, with sequential delivery to the shipping company planned by 2029. In particular, the ships will be fitted with independent LNG fuel tanks produced by HD Hyundai EcoVina, HD Hyundai’s eco-friendly independent tank production base. Beyond ship construction, HD Hyundai is strengthening its value chain in the eco-friendly vessel segment by establishing a system to directly supply key equipment within the group. An HD Hyundai official said, “Inquiries for orders for LNG and LPG carriers and container ships have continued, centered on global shipping companies,” and stressed that the company will expand orders for high-value-added eco-friendly ships based on its accumulated design and construction capabilities and customer trust.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "053694bd05b1",
-   "title": "MARPOWER Advances Key Technologies For Maritime Decarbonization",
-   "original_title": "MARPOWER Advances Key Technologies For Maritime Decarbonization",
-   "url": "https://www.hellenicshippingnews.com/marpower-advances-key-technologies-for-maritime-decarbonization/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-20T21:00+00:00",
-   "added": "2026-10-20T21:03+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "vessel"
-   ],
-   "summary": "Maritime transport remains one of the most challenging sectors to decarbonize due to its high energy requirements, reliance on fossil fuels and the long operational lifetime of vessels. Against this backdrop, the EU-funded MARPOWER project (Efficient zero-emissions gas turbine POWER system for MARitime transport) is developing an advanced gas turbine-based energy conversion system for power generation and cogeneration on board ships, designed to operate with different sustainable fuels while improving overall efficiency. Two years into the project, the overall cycle and system design has been completed and detailed designs have been developed for its main components. Next steps: from individual technologies to maritime integration During the second half of the MARPOWER project, work will increasingly move towards further experimental testing, integration and validation under more representative conditions. The vessel studies will also be relevant to the potential integration of MARPOWER technologies into existing ships. Together with the vessel studies and technical validation, these activities will provide a broader basis for assessing the integration, safety, environmental performance and economic implications of the complete MARPOWER system. Technical advances from the project have already been presented at relevant international events, including ASME Turbo Expo and IFToMM Rotordynamics 2026.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   }
