@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T04:31+00:00",
+ "generated_at": "2026-10-23T05:08+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,67 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "8a28e40b915c",
+   "title": "Opsealog: Bunker fuel efficiency, not regulation, should drive offshore vessel performance",
+   "original_title": "Opsealog: Bunker fuel efficiency, not regulation, should drive offshore vessel performance",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbWhTMVF5eWFNLS1taXBjUWRldjdvMGtUeEFweG5mQmwxSDY1bGJ1NjljZnRqM1l0V01ySzRnTTlaaDZqbHZNWjA0ck1HNThjay1kdWVMS1VqLW4tc3o1OGV3LW1IUmU3WDFGV0Q5TG9UN2ZmVWtIYkc2azBiVThiYVk4RzFvS0EwZmZWLVloVi1TZ1FiQ25HenpySVd0WVZMMU9jaXY3aVgyQm9XNERnTFhSRXRpUnRIMDdxTXNoT2s?oc=5",
+   "source": "Manifold Times",
+   "published": "2026-10-23T05:02+00:00",
+   "added": "2026-10-23T05:08+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "bunker",
+    "regulation",
+    "vessel"
+   ],
+   "summary": "Opsealog: Bunker fuel efficiency, not regulation, should drive offshore vessel performance Manifold Times",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ea1fef020dcf",
+   "title": "Ukraine seeks to move customs checks to EU territory as drone strikes disrupt grain exports",
+   "original_title": "Ukraine seeks to move customs checks to EU territory as drone strikes disrupt grain exports",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeE1memc1Y2VhQnNJOVNfWjdtY0F3ckV5MTNDemdfMTZUbDlHbjRmSFVMQUY1LWh2b3FaM2d4X0xXMXpFYUd1MEVYczFRWk1DYS1LcjI5M2xhdGh1WFRfOW0xT2hOY1E0XzNkM3c3UlRxaDZYRTZ4LXFERXFYN3ZadjBkOWtpak5ma1BOV29iRkhObzd1MUFmbFZaS2gzSDl2S1E?oc=5",
+   "source": "Traders Union",
+   "published": "2026-10-23T04:24+00:00",
+   "added": "2026-10-23T05:08+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "regulation",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Ukraine & Black Sea",
+    "EU institutions"
+   ],
+   "tags": [
+    "customs",
+    "drone",
+    "eu ",
+    "grain",
+    "ukraine"
+   ],
+   "summary": "Ukraine seeks to move customs checks to EU territory as drone strikes disrupt grain exports Traders Union",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "4263f1db6b00",
    "title": "INTERVIEW: “Freight Forwarding is Evolving into End-to-End Supply Chain Orchestration”- Manisha Malhotra, DP World",
@@ -39,6 +100,35 @@
    ],
    "summary": "INTERVIEW: “Freight Forwarding is Evolving into End-to-End Supply Chain Orchestration”- Manisha Malhotra, DP World India Shipping News",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9b747850e042",
+   "title": "Hambantota Port Growth Strategy Looks Beyond Red Sea Disruption",
+   "original_title": "Hambantota Port Growth Strategy Looks Beyond Red Sea Disruption",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTdxQXFZbEtGU21DRlp2d0dYSnlZZkgwX1JHYTVSd3JtbVFYa1MyZ1BNRlVXMVJrOEhLbzZNQTNBX2lOSEtnbUlHQlMyVktxUUEySmpOcG9vQWFwYXRobnJFMkxDOWpiUHpEdk1NX0ZsUXZseXhTQWVVYVVUYWZPc1BvR0wwM2p6YlJ4bFFWN1ZvSFExZkRveTkwa3E?oc=5",
+   "source": "Maritime Gateway",
+   "published": "2026-10-23T03:11+00:00",
+   "added": "2026-10-23T05:08+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "disruption",
+    "port",
+    "red sea"
+   ],
+   "summary": "Hambantota Port Growth Strategy Looks Beyond Red Sea Disruption Maritime Gateway",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16444,86 +16534,6 @@
     "wood pellet"
    ],
    "summary": "Imports of wood pellets to Poland expand 22.4% in July Lesprom Network",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2735d0284dbc",
-   "title": "PD Ports strengthens its commitment to the River Tees with multi-million pound Marine investment",
-   "original_title": "PD Ports strengthens its commitment to the River Tees with multi-million pound Marine investment",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ0lqaTh1bkQwNXJHaktSZzRGblBodE9SMlRvbWhrdE5VZHNQZ2NnUFk2MnpQZ1hNcjFBMFZfbXFfbEd1V3YyOEdUUmtLdGtIVml0SVE5YzMtdkwtNFVjZmtGU0J0S3M1UHpDTXNmcXdlenp1al9kUkJKVjJOY3VjaG94MXV0MzBERnhPOFdaUlJmUkFsTzV2QkNMTEx2WjQydVVnWFMzRTdrTEdhdkFUbHNqUjA2WmtqYi1UczFhUzkwNEdkaHFBRFRmbzFuRWxVZEJVeF9n?oc=5",
-   "source": "Cyprus Shipping News",
-   "published": "2026-10-20T02:49+00:00",
-   "added": "2026-10-20T16:53+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "shipping"
-   ],
-   "summary": "PD Ports strengthens its commitment to the River Tees with multi-million pound Marine investment Cyprus Shipping News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4ad8c1d1b3e3",
-   "title": "Havila Shipping secures fresh PSV extension with Peterson",
-   "original_title": "Havila Shipping secures fresh PSV extension with Peterson",
-   "url": "https://splash247.com/havila-shipping-secures-fresh-psv-extension-with-peterson/",
-   "source": "Splash247",
-   "published": "2026-10-20T02:20+00:00",
-   "added": "2026-10-20T07:58+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "logistics",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Norwegian OSV owner Havila Shipping has secured an extension to the contract for its platform supply vessel, Havila Borg . The Fosnavåg-based company has fixed the 2009-built PSV to energy industry logistics provider Peterson Den Helder through September 1, 2027. The Oslo-listed company, which operates 11 vessels, said Peterson has further option periods totalling 15 months. The vessel has been working for Peterson Den Helder since 2022. Peterson awarded the previous extension of the PSV contract in October 2025.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c7245ad5db3c",
-   "title": "Pacific Steel Group's Mojave Micro Mill, California's first new steel",
-   "original_title": "Pacific Steel Group's Mojave Micro Mill, California's first new steel",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQVBseTBzTlIxdERfZm5ZTDJaQWhQemYwMjY3VXFQbTZRd0k4WS1tUk80RURQZzh3MGs2MEQ5NHFnak55MmNtZUZoeFgwczZBRld5d05CdUlmRElwWGVoS0RpZXJReEREWnJXMHd3T3VHNEZjUEdPb2JNLWJ1X0ZVWWVwUDN1ejRXTmRXWkc4YUxUajBORTJ4QUZRSmRReC0zOEIwc3ZkTHZXUkRlcFpIb3JyTFNRdmpMU0Fz?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-20T02:09+00:00",
-   "added": "2026-10-20T09:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "Pacific Steel Group's Mojave Micro Mill, California's first new steel Shanghai Metals Market",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
