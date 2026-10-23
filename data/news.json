@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T07:10+00:00",
+ "generated_at": "2026-10-23T07:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,36 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "023de4783017",
+   "title": "Fraser Shipyards changes hands in $350m expansion drive",
+   "original_title": "Fraser Shipyards changes hands in $350m expansion drive",
+   "url": "https://splash247.com/fraser-shipyards-changes-hands-in-350m-expansion-drive/",
+   "source": "Splash247",
+   "published": "2026-10-23T07:54+00:00",
+   "added": "2026-10-23T07:55+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "geopolitics",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "defence",
+    "defense",
+    "terminal"
+   ],
+   "summary": "US investment firm Wildcat Equity Partners has struck an agreement to acquire Fraser Industries, the Wisconsin-based shipbuilding and repair group, with plans to invest $350m in expanding its facilities and workforce. Wildcat Defense, the investment firm’s maritime and defence arm said the transaction covers Fraser Shipyards, Lake Assault Boats, Northern Engineering and Fraser Terminal. Financial terms of the acquisition were not disclosed. The $350m represents Wildcat’s planned investment in the business rather than the purchase price. The companies expect to complete the transaction in approximately three months, with Fraser co-owner and chief executive Patrick Kelly remaining in his position. The company is targeting a threefold increase in production, with the expansion expected to take place over five years. Established in 1888, Fraser Shipyards provides maintenance, repair and overhaul services to the Great Lakes merchant fleet, alongside commercial newbuilding work. Announced in July, that partnership involves yard design, production systems, automation, artificial intelligence and workforce development. The companies identified Fraser as a potential demonstration site for modernising shipbuilding operations across the US.",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "extract"
+  },
   {
    "id": "a784c26c2451",
    "title": "Lila Global doubles up on vintage LNG carriers",
@@ -6773,6 +6803,33 @@
     "prices"
    ],
    "summary": "Oil prices slip despite growing threats to Middle East energy exports Traders Union",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9ef6e32cf1f5",
+   "title": "Higher Oil Availability Pressures Middle East Crude Benchmarks",
+   "original_title": "Higher Oil Availability Pressures Middle East Crude Benchmarks",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOXzJXY2dCcWxZYlY2aXQ3N2tzUGhuS2d1TU5JNzZLRXFtb21lTHlJczRZNFUwVWRzS19hSWpsOWpSOXhiRlVyTl9QX1hFTnZHSG96ZDhDQ1JmTEtXaWVWcVZKSkJrRFMwQ2kxSG1wNG8yZlhYcXVfVUlGYUR0TE9tcGZ1VmFQV1BUbGs3YUhRY1FMc2oxRUt2Mncxc0VodFFlU18zZEVHd0R6UmVadHRaN0g1VU9CQ29uZGfSAb8BQVVfeXFMUGxQNGRIZW5yaDE4N3MxeUNCemZMTWRFOGthQTdnSUZOalRoQm9QYWktWkV0QUZsNGo3NmU2cmxzamhJcjV4cHB5LWJqSkpwS1QzNThMcXpOcm03cWpoM3BjZm1adkZ1QlhlT1hxX3E5R01hdVpvbXZpTlozc04tWDNwODhzTnhjUmZvQVB1d3ExaTdyTFhRSWI3RDYxbnc0Sy1raFpEVWZIS2hrNVpIRTM2MWJ5aGJ6RjFUVG9wR2c?oc=5",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-10-21T14:30+00:00",
+   "added": "2026-10-23T07:55+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Higher Oil Availability Pressures Middle East Crude Benchmarks Crude Oil Prices Today | OilPrice.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16498,63 +16555,6 @@
    ],
    "summary": "Russian oil exports via Arctic rise amid global shipping crisis ᐉ News from Fakti.bg - World Fakti.bg",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cf79a35adcf5",
-   "title": "Brazil strengthens its competitive position in soybean and corn production as US margins decline",
-   "original_title": "Brazil strengthens its competitive position in soybean and corn production as US margins decline",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaVBXd2tmZjZxSE41SFpXTU5tTExNNzdoYm1GbTAyaWkwVEJmS1VqWEsyWXhja25GMlhKLW9sYWphVGF0b3ZQeXIyc0doQVFfLXVBZk5IRTRjSTF3eFkwRHB2RkZvV2FKQTZWZFZHOGkwWDI3N3RVSl9oY1NzbmNWX3F5cXVBLVRWVFBxcjhKdVZIcWpQZEhlclZFOUZ3cDZzbmtMbmlGU2o2RWpBTFR1ZmhmT2RZT0JkX3Y2X3daYjdFZ1JKZXNDUVlzM1E?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-20T06:05+00:00",
-   "added": "2026-10-20T08:36+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "corn",
-    "soybean"
-   ],
-   "summary": "Brazil strengthens its competitive position in soybean and corn production as US margins decline UkrAgroConsult",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8b5093bd6301",
-   "title": "PetroChina International acquires methanol dual-fuel bunker vessel for Singapore fleet",
-   "original_title": "PetroChina International acquires methanol dual-fuel bunker vessel for Singapore fleet",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORzBDbHpzV3lxNUlSenZCOTBSRV9pWjFmUXBaU1l0WkMtc0lPdHN5ZEg4SUhEVEZHMXlkRnZPQld1WS1kRi1aYkZzYnY4Y00tNlZCeWl5clBya1NLU0xDQmdXQWFnUlh0dVhtSUY5TUQ4RllqR1pxeE1tS2Izc1BsQzZ3bkxEWHp1NVRSOC0tR2l0T2ZWLVMxTEZxeFpOS0lxeTBuLVo5RmlOLUl5S3RmS3ZyWmcyVnI1TXFJeVZ6SQ?oc=5",
-   "source": "Manifold Times",
-   "published": "2026-10-20T05:55+00:00",
-   "added": "2026-10-20T07:17+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "acquire",
-    "acquires",
-    "bunker",
-    "fleet",
-    "vessel"
-   ],
-   "summary": "PetroChina International acquires methanol dual-fuel bunker vessel for Singapore fleet Manifold Times",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   }
  ]
