@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T07:55+00:00",
+ "generated_at": "2026-10-23T08:32+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "7f9d0ac9910d",
+   "title": "Taylor Maritime agrees final owned bulker sale ahead of London exit",
+   "original_title": "Taylor Maritime agrees final owned bulker sale ahead of London exit",
+   "url": "https://splash247.com/taylor-maritime-agrees-final-owned-bulker-sale-ahead-of-london-exit/",
+   "source": "Splash247",
+   "published": "2026-10-23T08:24+00:00",
+   "added": "2026-10-23T08:32+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "bulk carrier",
+    "bulker",
+    "carrier",
+    "fleet",
+    "vessel"
+   ],
+   "summary": "London-listed Taylor Maritime has agreed to sell its last owned bulk carrier for $15.1m, taking its fleet disposal programme to 56 vessels and putting total proceeds on course to reach almost $933m. The Ed Buttery-led company said the final sale is expected to complete in December, bringing to an end a three-year selling campaign that has steadily dismantled one of the largest geared dry bulk fleets in the market. Since the beginning of 2023, Taylor Maritime has executed 55 vessel disposals with expected gross proceeds of $917.7m, at an average discount of 3.5% to fair market value. The move follows the completion of three handysize disposals announced earlier this month, which generated $48.6m. While the latest agreement covers Taylor Maritime’s last owned ship, one vessel remains on charter under a sale-and-leaseback arrangement with a purchase option. That contract expires in April 2027, and the company is assessing the most efficient way to exit the arrangement. Taylor Maritime expects to cease all commercial shipping operations by the end of 2026, with the wind-down now moving towards its final shareholder distributions. The company has confirmed a fourth compulsory capital return of $45m in November, taking the amount returned to investors since January to $263.4m.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "023de4783017",
    "title": "Fraser Shipyards changes hands in $350m expansion drive",
@@ -44,6 +73,65 @@
    "summary_method": "extract"
   },
   {
+   "id": "730826dc1ff4",
+   "title": "Splash Wrap: Sanctions, spreadsheets and shipyards",
+   "original_title": "Splash Wrap: Sanctions, spreadsheets and shipyards",
+   "url": "https://splash247.com/splash-wrap-sanctions-spreadsheets-and-shipyards/",
+   "source": "Splash247",
+   "published": "2026-10-23T07:45+00:00",
+   "added": "2026-10-23T08:32+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "mna",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Middle East",
+    "North America"
+   ],
+   "tags": [
+    "attack",
+    "crude",
+    "hormuz",
+    "sale of",
+    "sanction",
+    "vessel"
+   ],
+   "summary": "T he Trump administration has begun authorising the sale of sanctioned oil tankers to approved investors who must then refurbish the vessels before returning them to legitimate crude trades, US energy secretary Chris Wright revealed on Monday, as Washington scrambles to contain soaring freight costs amid the Hormuz crisis. Attacks continued in the region, with traffic slumping. The eight-month war has now forced Iraq’s national shipping line to return to scheduled container services in the Gulf after more than half a century . In another theatre of war, NATO said this week it is deploying additional maritime patrol aircraft, drones and radar systems to the Black Sea following a series of deadly attacks on merchant shipping off Romania and Bulgaria. Ashore, one of the week’s biggest deals saw Australian infrastructure investor IFM Investors agree to take control of Associated British Ports in a transaction valuing Britain’s largest ports group at more than £10bn. A survey of maritime technology leaders suggests paperwork, particularly noon reports, may disappear long before humans relinquish control of navigation . This week’s Maritime CEO interview was with HarborLab founder Antonis Malaxianakis , who revealed that 75% of technical managers in Asia-Pacific still manage husbandry bills using Excel.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "452f4f6c8685",
+   "title": "Icon Energy faces shareholder revolt over dilution",
+   "original_title": "Icon Energy faces shareholder revolt over dilution",
+   "url": "https://splash247.com/icon-energy-faces-shareholder-revolt-over-dilution/",
+   "source": "Splash247",
+   "published": "2026-10-23T07:30+00:00",
+   "added": "2026-10-23T08:32+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "dry bulk"
+   ],
+   "summary": "Nasdaq-listed Greek dry bulk owner Icon Energy is facing pressure from a significant shareholder to overhaul its capital structure and board, following accusations that repeated equity issuances have heavily diluted ordinary investors. Canada’s Hampton Financial, which holds 325,000 Icon shares representing approximately 9% of the company, has disclosed a letter sent to Icon’s management demanding changes to its preferred shares, dividend arrangements and corporate governance. Hampton, led by chairman and chief executive Peter Deeb, claims Icon has raised approximately $25m through common share issuances since its 2024 flotation, while ordinary shareholders have suffered substantial losses. The Canadian investment firm has also questioned the treatment of preferred shares held by Icon’s controlling shareholder and chief executive, Ismini Panagiotidi. Hampton is proposing that Icon exchange its outstanding Series A preferred shares for a new instrument with a $20m face value, a fixed 6% cash dividend and conversion rights priced at $5 per ordinary share. The investor argues that these measures would address dilution concerns while preserving Panagiotidi’s control of the business. Icon, established in 2023, operates three bulk carriers. The company entered the Nasdaq market in July 2024 and subsequently expanded its fleet through secondhand acquisitions.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
    "id": "a784c26c2451",
    "title": "Lila Global doubles up on vintage LNG carriers",
    "original_title": "Lila Global doubles up on vintage LNG carriers",
@@ -71,6 +159,35 @@
     "vessel"
    ],
    "summary": "Lila Global is expanding its presence in the ageing LNG carrier market, adding a second steam-powered vessel to its fleet as the global LNG trade undergoes major disruption. Earlier this month, Splash reported that the 18-year-old, steam-powered LNG carrier Tangguh Batur (145,700 cu m) had been sold for $30m and renamed Eagle M, with market chatter linking the purchase to Lila Global’s parent company, GMS, controlled by Anil Sharma (pictured). That deal has now been confirmed, with the vessel listed on Lila Global’s website, marking the company’s entry into the LNG segment. The vessel’s value has already increased since the acquisition, with VesselsValue now assessing Eagle M at $32.75m. Meanwhile, Lila Global has emerged as the buyer of another vintage LNG carrier, the 2003-built Castillo de Villalba renamed Carla, a vessel that is five years older than the Eagle M. The former Elcano-owned vessel has been sold for $24.5m, well above its VesselsValue market valuation of just under $18m. The acquisitions come at a time when the world’s LNG trading map is undergoing its biggest upheaval in years, with the near-paralysis of Gulf exports redirecting cargoes across oceans, forcing Asian buyers towards alternative suppliers and pushing European gas prices to their highest levels since 2022.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "0d40d5eb36f2",
+   "title": "Laskaridis linked to $312m newcastlemax order in China",
+   "original_title": "Laskaridis linked to $312m newcastlemax order in China",
+   "url": "https://splash247.com/laskaridis-linked-to-312m-newcastlemax-order-in-china/",
+   "source": "Splash247",
+   "published": "2026-10-23T07:00+00:00",
+   "added": "2026-10-23T08:32+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bulker",
+    "china",
+    "shipowner",
+    "vessel"
+   ],
+   "summary": "Greek shipowner Panos Laskaridis is making a return to the newcastlemax newbuilding market, with his Lavinia Bulkers linked to an order for four vessels worth around $312m in China. Shipbroking sources have identified Zhoushan Changhong International Shipyard as the builder of the 212,000 dwt bulkers, with delivery scheduled for 2030. The reported contract is valued at approximately $78m per vessel and is understood to have been agreed last week. The order would mark Lavinia’s first move into newcastlemax newbuildings since 2013, when the company contracted six ships of this size. The company booked eight kamsarmax newbuildings during 2023 and 2024 at Chinese yards, including CMI, COSCO Heavy Industry and Jiangsu New Hantong. Five have since joined the fleet, with another three scheduled for 2027. The Laskaridis group has also been expanding in crude tankers.In April, its Lavinia Tankers arm was linked to a fourth 157,000 dwt suezmax at South Korea’s DH Shipbuilding, following orders for three sisterships earlier this year. The $89m vessel extended a programme that began with two units in January before the owner exercised additional options. The tanker expansion followed earlier investments in MR product carriers at Changhong, where Lavinia is now reported to be returning for its latest bulk carrier programme.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   },
@@ -583,6 +700,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "5746e6ae0588",
+   "title": "SMRs could be part of Port of Rotterdam's future, says study",
+   "original_title": "SMRs could be part of Port of Rotterdam's future, says study",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOEVaSFN5MExqc2FYaG1fOER4N0V2LWRQWjRTclFOa1Y1Q2pHbko0VlFtLVdIc21tSzZIU0V3V3FsZVpLaTlZMjBpMi1rbkd5Rnd0ZG1COHN4dkNmMHVjOHY3VWtHSkZxUzZxRWE3MU1hWWlxaWlMMkJxX254OHFkcV9OYVU3SldCTlZPM3A5RjdVMkp1cGMxUUJNQkJsblNCSlZGVQ?oc=5",
+   "source": "World Nuclear News",
+   "published": "2026-10-22T23:47+00:00",
+   "added": "2026-10-23T08:32+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "SMRs could be part of Port of Rotterdam's future, says study World Nuclear News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3437700458fb",
    "title": "Tymczasowy Port Święta? Trzeba będzie przeładować miliony gigantyczne ilości materiałów",
    "original_title": "Tymczasowy Port Święta? Trzeba będzie przeładować miliony gigantyczne ilości materiałów",
@@ -961,6 +1103,31 @@
     "port"
    ],
    "summary": "Port of Los Angeles Reports Record Low Emissions Maritime Logistics News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "731ce2a44251",
+   "title": "Green rail connectivity holds promise for Chattogram Port",
+   "original_title": "Green rail connectivity holds promise for Chattogram Port",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQlNUVk15ZnUyN1JfU3NORmpnZ2UyWmZjYUttMGpmaGMtMjhrb3NIV25rLVJGTnZxUlFCU2FIb0FKYjZFNU5FWDBHWlhBZFBIQlBqNThGRWVUM1huZ3o2ZUZyMjdvSzNhN1lxM25jQm4wZEV0Sm9UWXJETFRhQTdLYWFlQ0Zlb3AzNWphZlhrd29QU0J3ZkdmX04wTkdzaU5lMGpjYQ?oc=5",
+   "source": "The Financial Express",
+   "published": "2026-10-22T18:44+00:00",
+   "added": "2026-10-23T08:32+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Green rail connectivity holds promise for Chattogram Port The Financial Express",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -1726,6 +1893,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "3234caa285a3",
+   "title": "African Ports Must Treat Cybersecurity As Core Maritime Security -NPA Boss",
+   "original_title": "African Ports Must Treat Cybersecurity As Core Maritime Security -NPA Boss",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEU3UzB5OHduNHA4T1p6ZDdlcXpoaGRDUGYwUXJzUjlSMWtlb0ZlN0p1VUhZY1BqMWVqb2M0U0NXR0IxRHJYdW1zN1R5aDhYbkZqckdPbGt5SDlRY2loRGtuZk5ILTlUc2ticTlJTTRCUm9tMG5KTTF6ZlpyMDg1ZWxFRXc5X0lmaFc5Tjdpcy1vRzVUTHJwTA?oc=5",
+   "source": "https://thefact.ng/",
+   "published": "2026-10-22T15:18+00:00",
+   "added": "2026-10-23T08:32+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "security"
+   ],
+   "summary": "African Ports Must Treat Cybersecurity As Core Maritime Security -NPA Boss https://thefact.ng/",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "331bd7262041",
    "title": "‘Europe shooting itself in the foot' with steel curbs, CBAM: Piyush Goyal",
    "original_title": "‘Europe shooting itself in the foot' with steel curbs, CBAM: Piyush Goyal",
@@ -1854,6 +2049,32 @@
    ],
    "summary": "KBR secures contract to revamp two AGF Nitrogen ammonia plants, trim gas usage Quantum Commodity Intelligence",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2b2b491433a9",
+   "title": "Dantsoho calls for stronger cybersecurity measures, regional intelligence sharing across African ports",
+   "original_title": "Dantsoho calls for stronger cybersecurity measures, regional intelligence sharing across African ports",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMjA5VEFsdGRJek5DSWxkUzBYc1hObFlQSXBWT1FVS2RIR0tVbTd6MkdSQ2tmYlo2dWZVSmY4N0NfenBWazFrbWt0Y2FCNXAzM0V5THZxRW1Sem1TcXBpdDUtTVhfQUk2bVFQd1o0ZEt5NVFaTDNLSWFsd2I2WVZVcUVMXzdHOHNIR21GRkt0NTRfM2pqcFVMVGdiT1JLNk1veEd3TldabzRnNndOdUk5LVVncks5R1RTb0JlRC1Za1k?oc=5",
+   "source": "Blueprint Newspapers",
+   "published": "2026-10-22T14:15+00:00",
+   "added": "2026-10-23T08:32+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Dantsoho calls for stronger cybersecurity measures, regional intelligence sharing across African ports Blueprint Newspapers",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -6155,6 +6376,31 @@
    ],
    "summary": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping Devdiscourse",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e688cbcb1f27",
+   "title": "South America builds a pipeline of port projects",
+   "original_title": "South America builds a pipeline of port projects",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkdBMnFURVNCTzNEcWh5WC1qSW1rSHNCa3BleGQwUXF4QmQ1U1ZieFNtX1JFZThZdWRMTXZBb05zbDRSVEcxOXRSa3Nmc0dIMnRMZnNJRmpINVhzZnFzZy1oaHE3THFKekYwT3I1OEtsRk5VUWZJNlVRLUFSNXFCU2d6NXdHQXhYMFJfN0lRSm14cHRadF9VN3Z5QW9VYzlncWM2dGc5TQ?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-21T18:33+00:00",
+   "added": "2026-10-23T08:32+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "South America builds a pipeline of port projects WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -15502,6 +15748,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "571b1bbbf80f",
+   "title": "Port operational updates from around the world (14 Oct - 20 Oct 2026)",
+   "original_title": "Port operational updates from around the world (14 Oct - 20 Oct 2026)",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZk10eVBQSnM5ZDVmTlpaYmdYTTlDMmdfQ0w4RXFjNWVaNktFRDJvMnVuZlg3QklSZWJLajNkTlRvWV91YU95VnIzbFlTTFU3QkkwRmtDNXpCVXRfTjBNdFZYWHlUU0d6N2pKb21CTWRHZUtzcG9XQ25GSUE1TkRmUkk3SVpmdWktUWhj?oc=5",
+   "source": "Kuehne+Nagel",
+   "published": "2026-10-20T09:08+00:00",
+   "added": "2026-10-23T08:32+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port operational updates from around the world (14 Oct - 20 Oct 2026) Kuehne+Nagel",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4a8115a5a980",
    "title": "Rosną przeładunki masowe w Rotterdamie. Węgiel znów do góry",
    "original_title": "Rosną przeładunki masowe w Rotterdamie. Węgiel znów do góry",
@@ -16287,274 +16558,6 @@
    ],
    "summary": "NIPPON EXPRESS (SINGAPORE) opens expanded logistics hub in Tuas, poised to support businesses in the JS-SEZ Singapore Economic Development Board (EDB)",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "85eddcbe0897",
-   "title": "Low demand lowers US wheat quotes, increasing price pressure in Ukraine and the EU",
-   "original_title": "Low demand lowers US wheat quotes, increasing price pressure in Ukraine and the EU",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZEdnY2o0RFZUWkh1bzI4eV9jd2QzMVFPZU9mTDJTVWkydWE0VVJxU2NwSUFQQ0RnaTViUURET3BaWWc5T2tRVTVWTUx2M292cE9RZFFHSWdZcDNlaHVhYkJHNTZ5dXZudF84SC0yaGpxZktTeWllYV8xNUJ5N3pVS0lWYVJnQWtkcjJram84TDVSb3BhX2FGdjFvZktBNmdkRTNxcV9CLWloTzNsX3Y1VncxRU51aV9oUlJydnh1eXZOOTZQX2l2Zi1WVHA?oc=5",
-   "source": "електронна зернова біржа України",
-   "published": "2026-10-20T06:53+00:00",
-   "added": "2026-10-20T09:14+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "ukraine",
-    "wheat"
-   ],
-   "summary": "Low demand lowers US wheat quotes, increasing price pressure in Ukraine and the EU електронна зернова біржа України",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "030ea01fb7bc",
-   "title": "West African ports need connected digital systems to facilitate trade – World Bank specialist",
-   "original_title": "West African ports need connected digital systems to facilitate trade – World Bank specialist",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT3YtMFVZM3FmZDFUVEFFY2hNQjZvVDQzZTlRZGhfb3hCZ3hOZndJQTNNY1UzcmhSYTZLa0tPTzVCMnhMbDhYNDNsWll3cmNxcXBYWndrRmlSSmVqd2tyXzBkTzVNUG5BdlNjUzBUY0lMTjgzMWhMajNMd1JGeFFtT3ZNNGZoZlJzQzJrZVVCTlFNb0lSbGRMaGpjWndxMmtDeUVrSXoyNFdQdEZKOWw0Q0hLM1BvaDVsekRPU0RJTnYwWU5yZDktRnBQbzhieUV5OEl3?oc=5",
-   "source": "Ghana Business News",
-   "published": "2026-10-20T06:45+00:00",
-   "added": "2026-10-22T23:00+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "West African ports need connected digital systems to facilitate trade – World Bank specialist Ghana Business News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "43c68c2df9c6",
-   "title": "New agreement standardises Middle Corridor operations, more countries can join",
-   "original_title": "New agreement standardises Middle Corridor operations, more countries can join",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVldGTTUxQ0hwZVdnd3IxTW0zVV84NzZENDdzZHFISVptSHU4bXltTXFCYVBLcTUyWUhBTU9FWDJrcW1GWTlvdXE4ejJsenJzSzhVWU4yMVJldXZFOFFnaTRIbktyLTl4bmJmSzlzSXp5bUIzMnJsNWpucmh0VHBVMXBpRV9pY1hzWnlDUFhTVUJQS210clVUT0NsTUtiNE9PU25LSm1pRHZzdTFVNFlub3lFVUVfQmpxRGxYUllGTzVrYmxKUFMzNQ?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-20T06:40+00:00",
-   "added": "2026-10-20T09:14+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "New agreement standardises Middle Corridor operations, more countries can join RailFreight.com",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "625fc6971269",
-   "title": "Rapeseed Market Update: Stable MATIF vs. Weaker Canola Futures — CMB News",
-   "original_title": "Rapeseed Market Update: Stable MATIF vs. Weaker Canola Futures — CMB News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVFod1FZQzc5cjhDd3RGbXU0WDhPaVAzWmd6ZWgzdEc0OWZTYXc3OTFNci1pUXZ0Z0ZGb1QxVFQySVp0bXp2d25Cb09tVVdPTkJoQm1Ndzc3VFBHMTNEVmJGcjA3U194ek51SWw1dDZNNmpXZ2pvd1pzWTE3V3RVSDgwSmRWcjYweUJJdm52dlRPM1RWRV9qag?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-20T06:39+00:00",
-   "added": "2026-10-22T09:13+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "futures",
-    "rapeseed"
-   ],
-   "summary": "Rapeseed Market Update: Stable MATIF vs. Weaker Canola Futures — CMB News CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9f3e75f83085",
-   "title": "Kang Kymgu: Middle Corridor opens new opportunities for cooperation with S. Korea",
-   "original_title": "Kang Kymgu: Middle Corridor opens new opportunities for cooperation with S. Korea",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMkhFaGd5eVhpV2dzeFlWUHJPTXUyRVVpcTVHYjd0cjQ3Mnd4RTJuVDNzUGZkNjFHN1FqR0xlRWpOMjdtOWQ4TGxPckVTd09ZSWdKdnV3ajBQM09nN2tUZ05VVjN2VHVvMTN2VDZPUFNjUnlGdjB6ejU4emtKcnF6UGthSzhrZU9sQW1PbGZUdUROV3VJLW5tdWgxYWhOLVpheVlfQWdzSUJvd3dabVRHc0RwcG1aVC1N?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-20T06:38+00:00",
-   "added": "2026-10-20T10:58+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Kang Kymgu: Middle Corridor opens new opportunities for cooperation with S. Korea Report.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9d94e3d6da45",
-   "title": "Kyiv talks with India, Egypt, Turkey over grain corridor | Hindustan Times Delhi - newspaper",
-   "original_title": "Kyiv talks with India, Egypt, Turkey over grain corridor | Hindustan Times Delhi - newspaper",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdGx4TlM3YmNoLXhUUllYZUE4Sm5pZ2M4Y05EaFNFS3JvaDBobExSeWg2VTJCWGp4cHZKQXoyWHVrU2thMDd4MFFQOU9Obk1GUXVEVVNTZFpsclpha1lZdERRRE95TUN5WFVMNmppQW9jdkpYaGotWFJQS2JZaDA3SGVWNU1ucGFaMHFZdGxJSHdVUnRtZnJMNGpISmNHWUhrZWN1N2x3WFFBVkZXTFVvdldBdnRadVYxbnc?oc=5",
-   "source": "Magzter",
-   "published": "2026-10-20T06:34+00:00",
-   "added": "2026-10-22T01:21+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "Kyiv talks with India, Egypt, Turkey over grain corridor | Hindustan Times Delhi - newspaper Magzter",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "720d15125bd4",
-   "title": "Northern Sea Route smashes shipping records again",
-   "original_title": "Northern Sea Route smashes shipping records again",
-   "url": "https://splash247.com/northern-sea-route-smashes-shipping-records-again/",
-   "source": "Splash247",
-   "published": "2026-10-20T06:32+00:00",
-   "added": "2026-10-20T07:58+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Baltic & Nordics",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "logistics",
-    "russia",
-    "shipping"
-   ],
-   "summary": "Shipping along Russia’s Northern Sea Route (NSR) has already broken last year’s transit record. New figures from Norway’s Centre for High North Logistics (CHNL) show 104 confirmed transits by September 30, surpassing the 103 recorded during the whole of 2025 and 97 in 2024. Estimated transit cargo reached 3.7m tonnes, up 15% on the whole of last year, while the combined deadweight of vessels using the route increased 26% to 7.8m dwt. CHNL identified another 45 potential transits already underway or within the route at the end of September, suggesting the season could approach 150 voyages and more than 4.5m tonnes of cargo. Four direct Asia-Europe voyages had been completed by September 30, compared with just one during the whole of last year. Russian oil exports through the NSR have climbed nearly 50% this year, with approximately 20m barrels shipped to Asia between July and mid-October. Disruption around the Strait of Hormuz, Suez Canal and Black Sea has made the expensive and potentially hazardous Arctic passage increasingly attractive. Russian LNG shipments are also contributing to traffic growth, with CHNL recording four eastbound LNG cargoes totalling approximately 300,000 tonnes.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "8d714d215ed3",
-   "title": "NGM Energy back in the asset game with suezmax flip",
-   "original_title": "NGM Energy back in the asset game with suezmax flip",
-   "url": "https://splash247.com/ngm-energy-back-in-the-asset-game-with-suezmax-flip/",
-   "source": "Splash247",
-   "published": "2026-10-20T06:17+00:00",
-   "added": "2026-10-20T06:26+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "shipping"
-   ],
-   "summary": "Asset plays have been the name of the game in shipping circles in recent weeks, with a string of relatively new Middle Eastern players flipping tankers to Chinese buyers at eye-catching profits. But one familiar Greek name, long associated with remarkable timing in the sale-and-purchase market, has been conspicuously absent from the headlines. Now NGM Energy, controlled by the Moundreas family, is back in the S&P charts, with a reported deal that sees the Greek owner pocket a staggering $57.1m gross gain on a 16-year-old suezmax acquired less than a year ago. In November last year, NGM Energy returned to the buoyant secondhand crude tanker market, picking up the 156,527 dwt Advantage Summer (built 2010) for $40.4m. Now the Jiangsu Rongsheng-built tanker is reported sold for a remarkable $97.5m, with delivery to its new owners scheduled for January 2027, a $57.1m uplift in the vessel’s value, equivalent to a gain of more than 141% on NGM’s purchase price. Several other 2010-built ships in the same segments have changed hands over the past week, with price tags just under $100m. This week sales chatter suggest that the $100m barrier has just been broken, with unconfirmed reports noting a 2010-built suezmax tanker has just been sold for $103m.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "11997f2babdf",
-   "title": "HMM inks $1.5bn order for eight neo-panamax container ships",
-   "original_title": "HMM inks $1.5bn order for eight neo-panamax container ships",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWRncGNQSGRKTjRUMXhUaWxXUUs1aFc5bVZoSzh6VzY1YVlKT1piUHEtdEpJaktMZUZIeURjdXlBZy1KYU5ET3lqV2RBMVRRZm9ZUEZpLS1Pdzh4eXowQ0VPanRqdUpQVndydC1sc0pxV09iWXFYcTA0VmhuZ1NVam12eS03RUVtV1BoUGRfRi1sZ2dRbi1uUkxZSkt1NGJmRVFRZThEamZBWmlldkZ0QTZR?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-10-20T06:14+00:00",
-   "added": "2026-10-20T13:35+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "panamax"
-   ],
-   "summary": "HMM inks $1.5bn order for eight neo-panamax container ships TradeWinds News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fba6163c9216",
-   "title": "Russian oil exports via Arctic rise amid global shipping crisis ᐉ News from Fakti.bg - World",
-   "original_title": "Russian oil exports via Arctic rise amid global shipping crisis ᐉ News from Fakti.bg - World",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemhwbkdYcktidEVIcklFTEZmNWxEM05zQnlBTWNiTVpmODNFM2xtTm5yVFFUd2g0SFQtM1pNaUVoaVBxRnk3ZjlrWXN4RXdfeUJEQWhkVWVVbzR6ejR3QVp2UXBpY2Z6VHB4V1VZbFZXYnlESnpvMzFoLWRCTUxYLUcxSGVXNFg4UUJ4WmRYY0ZFTGszdXpWX29wVV8xQQ?oc=5",
-   "source": "Fakti.bg",
-   "published": "2026-10-20T06:06+00:00",
-   "added": "2026-10-20T08:36+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "russia",
-    "russian",
-    "shipping"
-   ],
-   "summary": "Russian oil exports via Arctic rise amid global shipping crisis ᐉ News from Fakti.bg - World Fakti.bg",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
