@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T16:58+00:00",
+ "generated_at": "2026-10-23T17:31+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,85 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "208dbe38cacb",
+   "title": "European gas caps strong weekly gain on Middle East supply escalation",
+   "original_title": "European gas caps strong weekly gain on Middle East supply escalation",
+   "url": "https://www.hellenicshippingnews.com/european-gas-caps-strong-weekly-gain-on-middle-east-supply-escalation/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-23T17:00+00:00",
+   "added": "2026-10-23T17:31+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "lng",
+    "military",
+    "prices"
+   ],
+   "summary": "European wholesale natural gas prices surged on Friday, on course to cap the week at their highest levels since late 2022, as an escalation in Middle East military conflict and diplomatic evacuations intensified anxieties over global LNG supply continuity ahead of winter. The benchmark rose 3.8% on Friday to trade at 93.40 euros per megawatt-hour (MWh), locking in a weekly gain of nearly 7%. In Great Britain, the equivalent similarly advanced 3.5% to 229.00 pence per therm, on course to finish the week 6.2% higher. Yemen’s Iran-aligned Houthis launched coordinated drone and missile strikes targeting civilian transport and energy infrastructure in Saudi Arabia, including a fatal strike on a civilian airport in Dammam and an attack on ’s Shaybah oilfield. The escalating conflict has severely restricted Liquefied Natural Gas (LNG) carrier navigation through the Strait of Hormuz, forcing extended reroutings around Africa and drastically curtailing spot arrivals at European regasification terminals. Benchmark jumped to $114 per barrel on Friday – their highest level in over five months – reinforcing broad-based inflation and input cost pressures across energy-intensive European industries. The weekly surge across European gas curves leaves the continent acutely vulnerable as winter heating demand accelerates.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "33910a683475",
+   "title": "Wärtsilä and WinGD sign new Service Framework Agreement to ensure long-term continuity and support for the global fleet",
+   "original_title": "Wärtsilä and WinGD sign new Service Framework Agreement to ensure long-term continuity and support for the global fleet",
+   "url": "https://www.hellenicshippingnews.com/wartsila-and-wingd-sign-new-service-framework-agreement-to-ensure-long-term-continuity-and-support-for-the-global-fleet/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-23T17:00+00:00",
+   "added": "2026-10-23T17:31+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fleet",
+    "shipowner"
+   ],
+   "summary": "Technology groups Wärtsilä and WinGD have entered into a new long-term Service Framework Agreement, reaffirming their shared commitment to supporting shipowners and operators worldwide. Building on a collaboration that has been in place since 2015, the agreement confirms Wärtsilä’s continued role as an authorised global service provider for WinGD, Wärtsilä and Sulzer-branded two-stroke engines. Customers worldwide now benefit from flexibility and choice in their service provider with WinGD and Wärtsilä both offering global expertise and support capabilities to help shipowners and operators maximise uptime, optimise maintenance planning, and prepare their fleets for future fuels, evolving technologies and decarbonisation requirements. “This new Service Framework Agreement with Wärtsilä complements our own service offer, Global Service by WinGD, ensuring uninterrupted global support while giving customers access to the best available expertise for each engine generation. By combining the right capabilities where they add most value, the agreement provides a strong and flexible service solution for WinGD’s diverse global customer and product base.” “This agreement confirms the continuity of a long-standing service relationship that has supported WinGD’s installed base for over a decade,” adds Roger Holm, President of Wärtsilä Marine & Executive Vice President at Wärtsilä Corporation.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "207035b6dc1f",
+   "title": "Tho Xuan airport plans second runway, terminal expansion",
+   "original_title": "Tho Xuan airport plans second runway, terminal expansion",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM25hQlRGdEJGZU1nd1hXcjBzS011Mm9aYmdzQktmVFhrYWRCRFhWQ2FWS0pGMU9aSG1hQjlXVXdlVDJKZndMTzM5a285RGttTEZHUzRmVEdwX3N1Q0J2U1RacmpzekxtOHBUTVVSVmRjN282LWdXTHdXdHpFaWJrR21qNjlTczVuWFZHRHR0TW5NWUZ0TkloUlJweEJoaEwyTXdJemxvS3AwQkNlcUJDWGt2SUFrSFVLQy03NnZn?oc=5",
+   "source": "DTiNews",
+   "published": "2026-10-23T16:06+00:00",
+   "added": "2026-10-23T17:31+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Tho Xuan airport plans second runway, terminal expansion DTiNews",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "91df5eb76ca7",
    "title": "PKP CARGO odkłada emisję akcji. Trwa przegląd sytuacji finansowej spółki",
@@ -3888,6 +3967,32 @@
     "port"
    ],
    "summary": "Port of Los Angeles Reports Record Low Emissions Maritime Logistics News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bda94e88b892",
+   "title": "Dongwon pledges KRW200bn for AGVs and systems at Busan New Port's automated west terminal by 2028",
+   "original_title": "Dongwon pledges KRW200bn for AGVs and systems at Busan New Port's automated west terminal by 2028",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2hsWE5MQ2FGd2xhN1hlUUc2cEpIYmYxWWpweTJRZUp4XzJpZEgwNVVwVEJhUi1wcEZscVRnR1hGMjZaTmNFNkdSZ1JBZ1ZKSHh2ckF1ZkVQVVdQaEgxT3hDRzV3SHU2RzI0c2JiM2hBcDVmS2l2RWdWV2d5YkZzWW9ZbExSMk1ZNGc0TGVOX1QzeHN5YTZfRGg1aTlDd214UXRjaGpR?oc=5",
+   "source": "Container Management",
+   "published": "2026-10-22T19:33+00:00",
+   "added": "2026-10-23T17:31+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "port",
+    "terminal"
+   ],
+   "summary": "Dongwon pledges KRW200bn for AGVs and systems at Busan New Port's automated west terminal by 2028 Container Management",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -14489,6 +14594,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "3e0ef0028549",
+   "title": "Dongwon lines up $151m Busan terminal automation expansion",
+   "original_title": "Dongwon lines up $151m Busan terminal automation expansion",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMkE4X0lHX1FORGd0ckFycElIVEJDY2JqSndxOFVlaFR2QTlxeWhHRGQxUk9KbkhtLTJLWjc0VUgtUHlna1BaYTdCZUI1M0Y0RFlIaHpGN09QWGplUkcxVGZmMDV4UU94dnA5YXR2MU9aeURPVUlMVjJrbE9vNzAxaUlrUlgybTg?oc=5",
+   "source": "Splash247",
+   "published": "2026-10-20T23:45+00:00",
+   "added": "2026-10-23T17:31+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "automation",
+    "terminal",
+    "terminal automation"
+   ],
+   "summary": "Dongwon lines up $151m Busan terminal automation expansion Splash247",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "af5bd0e68c2f",
    "title": "Study says shipping pays twice its share to EU ETS, and negotiations signal ongoing imbalance",
    "original_title": "Study says shipping pays twice its share to EU ETS, and negotiations signal ongoing imbalance",
@@ -16130,6 +16263,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "157c33c1ba90",
+   "title": "Oil Prices Rise as Houthi Attacks Threaten Gulf Oil Supplies",
+   "original_title": "Oil Prices Rise as Houthi Attacks Threaten Gulf Oil Supplies",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEtEZEdnT1lWMS1fYi1zYmZBYlJFYXZ2bFlzTDNTOEhFenUwWkdhUG90WUVHajNhMG1kZlVTTFhMMmdhWFJ6cTBwS29id2hMZ1BoR1Z3cTdDRHB2c2EwT0YxRUoyWHZqdG1aXy1GZkhRTmc5cWhJZmdGZnpzM1RMOS1hTU1OSmR4QU5uZW5ETDZVTVZrcjMta08tS2RFMW_SAawBQVVfeXFMUGE0U0RsSHl2Ry1UOVd4TnhzM3dtSzlraS1rNUIzdi0wc2RwVXgxZnZFUHp3SzN2V0pjZERJQU1mTnRqdkpDc3hyd3JkQUJ5T3RXMHlza3dmclNBR3RqdW9ua3VMX2tUaE9QVUI4cHVWUzFneVlwSTd4WGwtc1hYQ0ZScElUWHFUckVHbDJ2eGNIdlJjc3JOTERUS3dxaE94U3cwZGhzTHZnV3Nvag?oc=5",
+   "source": "Analytics Insight",
+   "published": "2026-10-20T15:00+00:00",
+   "added": "2026-10-23T17:31+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "houthi",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Oil Prices Rise as Houthi Attacks Threaten Gulf Oil Supplies Analytics Insight",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "6ceea653cea4",
    "title": "OTS (-3.76%) - OT Logistics SA",
    "original_title": "OTS (-3.76%) - OT Logistics SA",
@@ -16349,176 +16511,6 @@
    ],
    "summary": "Port Polska: Ogromne odszkodowania dla właściciela nieruchomości Rynek Lotniczy",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c6a890c572e8",
-   "title": "Trump’s Russian oil waiver may boost India’s winter supplies, but crude prices unlikely to fall",
-   "original_title": "Trump’s Russian oil waiver may boost India’s winter supplies, but crude prices unlikely to fall",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaHFKU2RqOVNWLWpsNWl3dTl1TG5jSi1rT0thU0dpNHhKWXo1WFBsVl82TnRTZkhEU1EyczY4ekdpbmxBUE0tZnFCZzVVQVhVdmE0WDRsSEVYQUROQ0hDbmFFTjhtcVRLRkxyMVBHeFdBS1g0Z1dVbkt5M0ZNSkI2RnlLd2tlQ0Rka05UY3FqX05wSjNOVkdFcHZaeW50TURFbmVDNHBhbVRBdzNPaEN6YUtDSkZhN3Jpb3paQU41b2dkSDFlU0HSAcsBQVVfeXFMTWNpY1hvbklWMnBUNHgydnlWOTBfWk5KT0VGSW5LWmpGRmRQeDZvTW9VNVFoakFXU09YRGUwb0VMamxqVF96T2thWi16anU1SklmbjVCSXVyekctZ1pLT3MzV2N0VzQyREFsTlhvSFJ4Q0w0a29aQ3VUOTNKZWN1RG1CLVZDLWRxeXh6TkQ2dWFvaGNjT3JOTm9vX2Q0cXpmX3IzdElyTzQ2UzZYNnRldHFBaFFHNWF0UTd3WXl0QXRQemthbm1VOF9DcVU?oc=5",
-   "source": "ThePrint",
-   "published": "2026-10-20T14:07+00:00",
-   "added": "2026-10-20T16:53+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "crude",
-    "prices",
-    "russia",
-    "russian"
-   ],
-   "summary": "Trump’s Russian oil waiver may boost India’s winter supplies, but crude prices unlikely to fall ThePrint",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "111cef86cabb",
-   "title": "Odrzańska Droga Wodna przed wielką szansą i wyzwaniem. Nowy raport GUS o żegludze śródlądowej w Polsce",
-   "original_title": "Odrzańska Droga Wodna przed wielką szansą i wyzwaniem. Nowy raport GUS o żegludze śródlądowej w Polsce",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYnduMjZzbWRxNTY1a05XcGZXTGpXVVEyb1JiYnUzNnRDb1lOVWRqUFp4SFZTLTJhem5CSXZrd3ZEUzNTZXhOMnpCajQ2T3BrRjNFazliVzlUdXU1ZzZ2d1Y0ZXA3ZEY5ei1LRmFWaHlSUEtTbDY1azZxR1NZTVVUQm9QcmFhcE9OUTdhU1UyY0F4eU5Rd2lpZFZUaUVjLUlGejJnR1otMDRVWV9ta3FsczU3NWFrd21zaVhVeEFwbmdWbW94bmlNcW0yZW9uZXFhcFVhMy1n?oc=5",
-   "source": "igryfino.pl",
-   "published": "2026-10-20T13:40+00:00",
-   "added": "2026-10-20T16:53+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "droga wodna"
-   ],
-   "summary": "Odrzańska Droga Wodna przed wielką szansą i wyzwaniem. Nowy raport GUS o żegludze śródlądowej w Polsce igryfino.pl",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c38922eb835a",
-   "title": "Tankers trickle into Russian ports after US diesel deal",
-   "original_title": "Tankers trickle into Russian ports after US diesel deal",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdlNzOGtpWUVJak05V19abVN6VTNvaEZ1dXdnRThoTVZqUGl5SldYeXlKX00yUm54S2tneFE4NmFfV1o3eDQ5eERMZDRzcWZlTFc1eUY5US1WVFM5MS1BWFFFYnNKOGhWRzBYUURlRDdLTzVGcVBJakg2TEpYMFB6bHVWVUl4Q3V0N29vSEF3OUJaZnJnaWNwUVNrQ1UwRy12NnZnUzFSZm5zZw?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-10-20T13:35+00:00",
-   "added": "2026-10-20T16:13+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "diesel",
-    "port",
-    "ports",
-    "russia",
-    "russian"
-   ],
-   "summary": "Tankers trickle into Russian ports after US diesel deal TradeWinds News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "20448ca8c490",
-   "title": "Yara shuts down, restarts Le Havre ammonia-urea plant",
-   "original_title": "Yara shuts down, restarts Le Havre ammonia-urea plant",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXhzV2szNXNHaF9jWk5CeHRENTRaT25ORVc0bkgzWmI3MlpVVTdsNVNtOHB5emRMMUZWMkJ0OFpSc3g1Q04xVkpmZk9LRm5YRFZUR1NDcE9PMUlIWEpRekk3bEdjTEdTQWptZWtEMzVWWnFrR1dmNjdMTW5GWVJPLXczdjBOcHNDdURrdHlUaGxPX0RsdU9IdURMOFRQSHFyaHVlenRB?oc=5",
-   "source": "Quantum Commodity Intelligence",
-   "published": "2026-10-20T13:34+00:00",
-   "added": "2026-10-20T21:03+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "ammonia",
-    "commodit",
-    "urea"
-   ],
-   "summary": "Yara shuts down, restarts Le Havre ammonia-urea plant Quantum Commodity Intelligence",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3406bb028626",
-   "title": "Salalah port concession extension ruled out beyond 2028",
-   "original_title": "Salalah port concession extension ruled out beyond 2028",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFxZ24taFpKZFdBYXViM01nMlNlcENVNk5Yc3JxTDkyZGZQRUJtVWgzTjlvVE1wQnViQ2h1T3hlUTRCRzFIYlpuaE4zLU5zcjEyLUVCOXV6S2t3V29CZi1HeDEzcXhGRXFrR19WS0I1Y1J1anN0TlhEa2lBNXZoTkx3Y2VtdHZla2tJZGYyRGpWRWZ5QnQ0cURFSXhFMi1JWTNNSS14dlo0X184RnliMzZ3?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-20T13:30+00:00",
-   "added": "2026-10-20T14:16+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "ports",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "concession",
-    "port"
-   ],
-   "summary": "Salalah port concession extension ruled out beyond 2028 Port Technology",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "abe27cbb6fb5",
-   "title": "Ukraine advised to make greater use of Galati and Braila ports for grain exports",
-   "original_title": "Ukraine advised to make greater use of Galati and Braila ports for grain exports",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWkRRT2J1ZlQwRkh4djN1eFFPY2NqZS1fSUE3NjZaMDFLQTlsMmZBTU41ckt3Q0NicnBDdnFBY2YwNTVoWU82NEJuYi1vUnFYV1lyM0ZjY0dsX1Y5LXRVRnVhT29ZNmxkX0xVZXBlSTdMY2E1TjlIcHVpWkg1YjRHVFVMX3ZwcFJJNGg4VUNsS085dl93X3lMU3g2MlFGYmotQkNldUU0TU8wYTBsNzVlU0syX0xmN28?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-20T13:28+00:00",
-   "added": "2026-10-20T13:35+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "ports",
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain",
-    "port",
-    "ports",
-    "ukraine"
-   ],
-   "summary": "Ukraine advised to make greater use of Galati and Braila ports for grain exports UkrAgroConsult",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
