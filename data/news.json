@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T18:42+00:00",
+ "generated_at": "2026-10-23T19:20+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,37 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "c7911494e26f",
+   "title": "Russia’s attacks on Black Sea shipping raise risk of global famine, German FM warns",
+   "original_title": "Russia’s attacks on Black Sea shipping raise risk of global famine, German FM warns",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZGVEo2QnhYU3VGZHRaZEZ1WEczM3JpODBhNDhIcjRKbG5RRjFyWGRmZEVyQlF4TG5qMF96ejFTc1l4dzlSVl9pQzZHNlBkWUVwa0IxZjE4OUFkTksxZ3NzMVZLOENUMHVLS2tQV3NMOGpabWZMZllURmd2VkllY2JGTDVpV0NXdFU4THd6TV9OTkcxLXlQOFc5OFVjMWxtWnVNZTdGV0tYSnhMRHFyREpTYU9yNFhlVDFhalhR?oc=5",
+   "source": "Euromaidan Press",
+   "published": "2026-10-23T19:13+00:00",
+   "added": "2026-10-23T19:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Western Europe",
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "russia",
+    "shipping"
+   ],
+   "summary": "Russia’s attacks on Black Sea shipping raise risk of global famine, German FM warns Euromaidan Press",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "ebdb0156c150",
    "title": "First Russian diesel from Putin-Trump deal heading for US, data shows",
@@ -564,6 +595,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "5c5b2e5ea495",
+   "title": "The War on Grain",
+   "original_title": "The War on Grain",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBISjFIbWlWalZkZDNBLXhTVm9jUUpTN0VKR3Z5aDFvSjIxZFIwUDF0RU5Tdm9IR3pCYkY2cjFMSXl0elNfSjRkQ281SmpWMk0?oc=5",
+   "source": "GoldSeek",
+   "published": "2026-10-23T13:27+00:00",
+   "added": "2026-10-23T19:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "grain",
+    "war"
+   ],
+   "summary": "The War on Grain GoldSeek",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "34189afb91aa",
    "title": "Thermal coal prices approach one-year high, boosting South African mining stocks",
    "original_title": "Thermal coal prices approach one-year high, boosting South African mining stocks",
@@ -906,6 +964,36 @@
    "summary": "Dropping behind Shanghai and Ningbo-Zhoushan in the global container port rankings, and seeing Malaysia’s Port Klang and Port of Tanjung Pelepas nip at its heels should serve as a wake-up call for Singapore, in a changing competitive landscape for box trades For Singapore, this is about more than losing a place in a league table. It is an existential question asking whether a nation built on maritime trade can adapt to a world where supply chain control matters as much as moving containers. As Singapore spent years living off its geographical advantages, deepwater harbour and reputation for efficiency to guarantee continued dominance, its competitors have expanded their infrastructure, attracted manufacturing investment, and developed integrated logistics ecosystems. Part of the problem for Singapore with its nearest rival is that it simply cannot compete with Malaysia when it comes to land availability, meaning it should not focus on warehouses and distribution centres. And the pending Tuas Port, with its planned capacity of 65m teu on full completion in the 2040s, will have a part to play, even if success cannot be judged by volume alone. Yes, the Ministry of Transport’s new Connectivity & Logistics division recognises the need to integrate maritime, aviation, and land transport, but creating a coordinating body will not automatically deliver the commercial agility needed to compete.",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "5a62257d92ad",
+   "title": "Ukraine Proposes Turkey-India-Egypt Grain Corridor as Black Sea Exports Collapse",
+   "original_title": "Ukraine Proposes Turkey-India-Egypt Grain Corridor as Black Sea Exports Collapse",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcld5NGJZODBKX2d6enJJOVNTM3g1ckFuZzJhNFdUa2c5UjhSc0UwQ0NPN2tReTVHN2N3OHhkZ2pMRXVneExRSWxsOFBoUnN5ZlQ0czF2YXJ0cTRUUW1TcEFWZk9UV0FpTHVidTlPODRSZjBHNEU0WUxzMG9hSzE5dXZjRE9OOUpTTDY3b0hHQ0JhcVAxX1NaamxIdk1VVlZaNlJzYnlDRWpPbllNVFRpb3VSUzhmbTVPMUVsaWJwZ2tJTzZ2Y2pPNnFlcXZBSzhm?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-10-23T11:45+00:00",
+   "added": "2026-10-23T19:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "black sea",
+    "grain",
+    "ukraine"
+   ],
+   "summary": "Ukraine Proposes Turkey-India-Egypt Grain Corridor as Black Sea Exports Collapse Global Agriculture",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "280f7763e82e",
@@ -2788,6 +2876,34 @@
     "rail freight"
    ],
    "summary": "3 European Rail Freight Stocks Investors Are Watching As Grain Routes Shift Simply Wall Street",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "dc7a15096df7",
+   "title": "Ukraine's Grain Transit Surges 46.5% via Moldova, Slovakia and Hungary - Oj",
+   "original_title": "Ukraine's Grain Transit Surges 46.5% via Moldova, Slovakia and Hungary - Oj",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjhVbjY2Z0I0cmhpTUVPcE42UmczV01YVlkxa2c0RGVLS0dyOGUwX0h4bjBjSmoyTHc3a0h0UGNJdmtzajd0NWFZdnNfVy1lY050Z2dhUVJtaFFnNm8wSzE0b0FGX0NvMHFiX1ZDOWF1QnY1cnlyVXE5a0Vsemh2T2l0QU13LVBrTXhKelBHVmRCdnQ3UjhCZ1hJZmlMZk1S?oc=5",
+   "source": "Odessa Journal",
+   "published": "2026-10-23T07:08+00:00",
+   "added": "2026-10-23T19:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "ukraine"
+   ],
+   "summary": "Ukraine's Grain Transit Surges 46.5% via Moldova, Slovakia and Hungary - Oj Odessa Journal",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -14536,6 +14652,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "57cfbebd0614",
+   "title": "Possible further delay to road transport’s inclusion in EU ETS causes serious concern",
+   "original_title": "Possible further delay to road transport’s inclusion in EU ETS causes serious concern",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdnJKNzJfREVXc2M5T2JyQ0VHMlB1NVZUc2hBd2RtRGREQWNRSXpMYklsMmg1Y3UtUXlWdWdkVDlQOEtwUHZ1Mi1zVW16MDdtRXp2Nl8tVlhxTUt5SERNajJHblo0UENxSDhxUERJYzRKUmRGaWxUNk01Z0Z3QVpnUmlBbWVBRDBKampBOXJta0w3UTQwYzI0MXU1VmxGd2ZBOU9JOU5sVGNhMkV2aUpXUTRqSGJCeEV4anRNMjY3UnpBMG5leXc?oc=5",
+   "source": "Cyprus Shipping News",
+   "published": "2026-10-21T02:47+00:00",
+   "added": "2026-10-23T19:20+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 7,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "ets",
+    "eu ",
+    "shipping"
+   ],
+   "summary": "Possible further delay to road transport’s inclusion in EU ETS causes serious concern Cyprus Shipping News",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
    "id": "dc183c644474",
    "title": "Visakhapatnam Port Authority eyes 50% stake in Mulapeta port being developed by Andhra Pradesh govt",
    "original_title": "Visakhapatnam Port Authority eyes 50% stake in Mulapeta port being developed by Andhra Pradesh govt",
@@ -16363,156 +16507,6 @@
    ],
    "summary": "Rekordowe przeładunki w portach morskich zmuszają do poprawy transportu Gdańsk - oficjalny portal miasta",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "81ca2b206244",
-   "title": "EU Puts Icebreakers, Shipping Security at Center of New Arctic Strategy",
-   "original_title": "EU Puts Icebreakers, Shipping Security at Center of New Arctic Strategy",
-   "url": "https://gcaptain.com/eu-puts-icebreakers-shipping-security-at-center-of-new-arctic-strategy/",
-   "source": "gCaptain",
-   "published": "2026-10-20T15:43+00:00",
-   "added": "2026-10-20T18:02+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "european union",
-    "security",
-    "shipping"
-   ],
-   "summary": "The European Union unveiled a new Arctic strategy Tuesday aimed at strengthening maritime security, expanding icebreaker capacity and protecting critical infrastructure as melting sea ice opens new shipping routes and geopolitical competition intensifies across the region. The strategy , the EU’s first major update since 2021, marks a shift toward security and economic interests in a region increasingly important to global shipping, trade and energy supplies. At the center of the plan is a proposed Maritime Security Hub designed to improve surveillance and information sharing across the Arctic, including the monitoring and protection of critical undersea infrastructure. Von der Leyen pointed to Russia’s growing military presence in the Arctic, increasing pressure on regional security and the emergence of new shipping routes as reasons for Europe to take a more active role. The EU also plans to expand its use of satellite monitoring and data sharing, including a dedicated Arctic surveillance pilot scheduled for 2027 to improve maritime domain awareness. New shipping routes could create opportunities for ports, logistics providers and shipbuilders, but Arctic operations remain constrained by ice conditions, limited infrastructure, environmental risks and the availability of emergency response capabilities.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a689db3a286c",
-   "title": "Hamburg advances green methanol bunkering plans as Baltic ports test hydrogen fuels",
-   "original_title": "Hamburg advances green methanol bunkering plans as Baltic ports test hydrogen fuels",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGJ0UEp5YnRySC0wMGVaQmpQN09KSVVUWENmQUJ0WjZKRFZFZm51dkNjbVhCWllVbDVRMElUeTZUeG53S3NfZzBxdEdhS0E4WmJBVW44cUp4NjFpTFFHUGprb1dHWC1TcWNBQ2NiSWNYWWVoUXJobXcxdjJzWnZZaEdVdmIxRnNxaEZDV0xna0toVjVQdzdteWdrMjhjNXdYaW52UEQ4MlpUZHM?oc=5",
-   "source": "Breakbulk.News",
-   "published": "2026-10-20T15:40+00:00",
-   "added": "2026-10-20T18:40+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "equipment",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Baltic & Nordics",
-    "Western Europe"
-   ],
-   "tags": [
-    "baltic",
-    "bunker",
-    "hamburg",
-    "hydrogen",
-    "port",
-    "ports"
-   ],
-   "summary": "Hamburg advances green methanol bunkering plans as Baltic ports test hydrogen fuels Breakbulk.News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8747b669b895",
-   "title": "Latvia Emerges as Top-5 Importer of Russian Grain, Consultancy Says",
-   "original_title": "Latvia Emerges as Top-5 Importer of Russian Grain, Consultancy Says",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRE9sY0JXenRZWVdYOUs0THBwTUpCbXFOZkR0eHdXQzJCQU1hNHU4ZlAtb2V3cHFSU1dHWUk5dTR5RnNKd2ZkY09nbDZvSldvU3owa0Y1SUFocFE2ajhORkEzWERqMjB6TjhqUVFpMnNvOEh6YnlYckdfYk41cEZlRGh6RERhVTF0UVBXRXoyeklXTHVzemRvWG11eDhWM0NZWXZaQWl3SzE0U19pWllPS0VfU1JsQQ?oc=5",
-   "source": "The Moscow Times",
-   "published": "2026-10-20T15:18+00:00",
-   "added": "2026-10-20T16:13+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Baltic & Nordics",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "grain",
-    "russia",
-    "russian"
-   ],
-   "summary": "Latvia Emerges as Top-5 Importer of Russian Grain, Consultancy Says The Moscow Times",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "de5ec8d81438",
-   "title": "Suez return gathers pace as North European ports warn of vessel bunching",
-   "original_title": "Suez return gathers pace as North European ports warn of vessel bunching",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZVE5c3UtazZnMzFVUFlOYXJweWFSUEZIeWxLVTYybmF4M3VsVXNESTgwbTFxclJrMm00TGtQUXhUaHg4em41a1lDLVdUTDRrc2I3OWZfa1NXWFN5cXppc3BWcEhHaTFVMk94TEkwb3M3M254YndFZGo0VmZZdUJrem9QRnZuU3NvZ1Fodnln?oc=5",
-   "source": "Kuehne+Nagel",
-   "published": "2026-10-20T15:00+00:00",
-   "added": "2026-10-20T21:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "suez",
-    "vessel"
-   ],
-   "summary": "Suez return gathers pace as North European ports warn of vessel bunching Kuehne+Nagel",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "157c33c1ba90",
-   "title": "Oil Prices Rise as Houthi Attacks Threaten Gulf Oil Supplies",
-   "original_title": "Oil Prices Rise as Houthi Attacks Threaten Gulf Oil Supplies",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEtEZEdnT1lWMS1fYi1zYmZBYlJFYXZ2bFlzTDNTOEhFenUwWkdhUG90WUVHajNhMG1kZlVTTFhMMmdhWFJ6cTBwS29id2hMZ1BoR1Z3cTdDRHB2c2EwT0YxRUoyWHZqdG1aXy1GZkhRTmc5cWhJZmdGZnpzM1RMOS1hTU1OSmR4QU5uZW5ETDZVTVZrcjMta08tS2RFMW_SAawBQVVfeXFMUGE0U0RsSHl2Ry1UOVd4TnhzM3dtSzlraS1rNUIzdi0wc2RwVXgxZnZFUHp3SzN2V0pjZERJQU1mTnRqdkpDc3hyd3JkQUJ5T3RXMHlza3dmclNBR3RqdW9ua3VMX2tUaE9QVUI4cHVWUzFneVlwSTd4WGwtc1hYQ0ZScElUWHFUckVHbDJ2eGNIdlJjc3JOTERUS3dxaE94U3cwZGhzTHZnV3Nvag?oc=5",
-   "source": "Analytics Insight",
-   "published": "2026-10-20T15:00+00:00",
-   "added": "2026-10-23T17:31+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "houthi",
-    "oil price",
-    "prices"
-   ],
-   "summary": "Oil Prices Rise as Houthi Attacks Threaten Gulf Oil Supplies Analytics Insight",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
