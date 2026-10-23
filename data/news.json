@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T00:00+00:00",
+ "generated_at": "2026-10-23T00:46+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,36 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "0c799e8fa846",
+   "title": "Bridge Logistics Acquires Truck Terminal in Off-Market Deal",
+   "original_title": "Bridge Logistics Acquires Truck Terminal in Off-Market Deal",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQek44dEMxWHptSGVpVWhwSW9kcmVjXzFSWG1GcGRYVjVDR1lKN1RyR3htdzJNeklMZ0VodDFfZnluaHIzSk5yT3dObjZ3VjAtWExIMTQ1ckVuaUtHRzFvVERTYXNRMjVmbmNESXBMZlcta2NIS1dzTDNEOTR4NFBxU0FhY0J4RkpObkJkQ3pZOHY2UEpIR3JESG9idw?oc=5",
+   "source": "Connect CRE",
+   "published": "2026-10-23T00:19+00:00",
+   "added": "2026-10-23T00:46+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "acquires",
+    "logistics",
+    "terminal"
+   ],
+   "summary": "Bridge Logistics Acquires Truck Terminal in Off-Market Deal Connect CRE",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
   {
    "id": "3437700458fb",
    "title": "Tymczasowy Port Święta? Trzeba będzie przeładować miliony gigantyczne ilości materiałów",
@@ -16494,31 +16524,6 @@
    "summary": "News Content Hub - Middle East: VLCCs hit in Gulf, tug struck off UAE, LNG carrier takes fire in Gulf of Aden Riviera Maritime Media",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "8925db91a018",
-   "title": "The AI forwarder of the future",
-   "original_title": "The AI forwarder of the future",
-   "url": "https://theloadstar.com/ai-forwarder-future-agentic-ai-freight-forwarding/",
-   "source": "The Loadstar",
-   "published": "2026-10-19T23:01+00:00",
-   "added": "2026-10-19T23:18+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "forwarder"
-   ],
-   "summary": "“Innovation and productivity are at the core of what we do.” That was the slogan by a global TMS provider in 2016. In the rear-view mirror, most of the innovation has barely moved the needle from a top-down perspective. Productivity of 40 to 60 files remains a common market result. Based on our own experience from building Forto and working with many of the leading global forwarders, we reviewed end-to-end processes of up to 100 steps each: the time each requires, its automation potential, and the time that remains manual: the automation estimates came out up to 82%. We see an evolution of the sources of AI automation over time currently (see graphic). Coordinating activities that carry their own process knowledge and, hence, deliver customer value beyond (month 18 and beyond): These build on the first two, but they also need an understanding of the process itself, plus the judgment to run it. In a tender where $10 on a submitted rate card decides on the actual nomination, a cost advantage of $50, $70 or $100 per file changes the ability to price Profitability . We found in a recent analysis that up to 30% of relevant customer information comes from the customer’s context, such as SOPs, the actual eMail or documents.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
