@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T17:31+00:00",
+ "generated_at": "2026-10-23T18:03+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "ebdb0156c150",
+   "title": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+   "original_title": "First Russian diesel from Putin-Trump deal heading for US, data shows",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12a3dpR0JHVHpnYXE2bXhTdlI5YUNlYWtMd0c5SmNILThZRW5zbVBET2tPV0ZrYUd1WmdVM0w0TjVZRmlPekVMQUt0R0k5MlVZLXpuUkZCcUw5WFJmdGp3?oc=5",
+   "source": "The Jerusalem Post",
+   "published": "2026-10-23T17:42+00:00",
+   "added": "2026-10-23T18:03+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "russia",
+    "russian"
+   ],
+   "summary": "First Russian diesel from Putin-Trump deal heading for US, data shows The Jerusalem Post",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2364e3ff26ee",
+   "title": "Rare Russian Diesel Shipment Expected in Norfolk November 2, Ahead of Tanker Bound for New York",
+   "original_title": "Rare Russian Diesel Shipment Expected in Norfolk November 2, Ahead of Tanker Bound for New York",
+   "url": "https://gcaptain.com/rare-russian-diesel-shipment-expected-to-arrive-in-norfolk-on-november-2/",
+   "source": "gCaptain",
+   "published": "2026-10-23T17:08+00:00",
+   "added": "2026-10-23T18:03+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Russia & Belarus",
+    "North America"
+   ],
+   "tags": [
+    "diesel",
+    "russia",
+    "russian"
+   ],
+   "summary": "A tanker carrying Russian diesel is expected to arrive in Norfolk, Virginia, on November 2, potentially becoming the first such shipment to reach the United States in more than three years. The Vietnamese-flagged PVT Azura (IMO 9423683), reportedly carrying 109,000 barrels of Russian diesel, departed St. Petersburg on October 15 and is currently signaling Norfolk as its destination, according to VesselFinder . The arrival would come five days ahead of another Russian diesel shipment identified by Reuters on Friday as the first cargo heading to the United States under a recent agreement between President Donald Trump and Russian President Vladimir Putin. The tanker has signaled New York as its destination, with an expected arrival date of November 7, although its final discharge port has not been confirmed. The two shipments come as the Trump administration moves to ease restrictions on Russian diesel in an effort to bring down soaring fuel prices ahead of the November 3 midterm elections. On October 9, Trump announced an agreement under which Russia would immediately supply 300,000 metric tons of diesel to the United States and global markets, followed by another 500,000 tons in November and 1 million tons thereafter.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "208dbe38cacb",
    "title": "European gas caps strong weekly gain on Middle East supply escalation",
@@ -140,6 +197,34 @@
    ],
    "summary": "European Trials Report 4.3% Increase in Winter Wheat Yield with Arginex Seed Treatment Global Agriculture",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5a28f73759f9",
+   "title": "Intermodal derailment affects London ports",
+   "original_title": "Intermodal derailment affects London ports",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0xucWw5WlhQMzhjQmFkaV82N0JCdFhlTHJ5Z3FwTF84M2FZOVp5SG41Zy1pZ2pIYl9tRHFlXzdySGlKMHBBQWd3LWVwd2lvdUJPbTRZMXNBZlowVkdBcWZxNHZrenVrMlV4TFBUSWZSUFE3eS1Ia3ptb2ZselVhQTRpNHFySFBWaS12OE44cHEtZHpnT3p2eWJ3?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-23T15:03+00:00",
+   "added": "2026-10-23T18:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "intermodal",
+    "port",
+    "ports"
+   ],
+   "summary": "Intermodal derailment affects London ports RailFreight.com",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16430,87 +16515,6 @@
    ],
    "summary": "Interferey Expresses Concerns Over Further Delay With EU ETS Maritime Logistics News",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "977d09850a4e",
-   "title": "UPDATE: APM Terminals to remain central to Salalah’s future concession",
-   "original_title": "UPDATE: APM Terminals to remain central to Salalah’s future concession",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS1FVQlczMW4yUjZhazRucXBJMnhtb1VBYVNMdkVKeTJMLVI1eHZnWDYxbVBxRzdWRlcwOTd0UFhOei1KZU9mclRQejhxMEM1LTVHd0wzWHhkQmhOd2EtYk56UGp6Q21BYjRHSmtoMkpUVS1CTlFFNFdKNG0xb2lPUTZMLU1DdkxkbW1xZTdkZ0p6VWE0cmFFYXZMdzJudWFVMmxjMXk5NjN2My1lWnE5c09UWQ?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-20T14:34+00:00",
-   "added": "2026-10-22T15:16+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "ports",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "concession",
-    "terminal"
-   ],
-   "summary": "UPDATE: APM Terminals to remain central to Salalah’s future concession WorldCargo News",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "48bc78171878",
-   "title": "Oman not renewing concession with APMT-linked Salalah Port Services",
-   "original_title": "Oman not renewing concession with APMT-linked Salalah Port Services",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbnJVVmlDZmhFUmU4SUVSRFpuRkY5Y0Y2OGNHUDZVTWVqQzN6SkZMeHVVYV9YQjZEMzJkLUZBSXc0WXlQYm1rSURpZmFDUTBaMEl4MzlROU1CWEdUQm9zNkVWMlRTS1lPa2FOT2dKMFpoNDZRcDYtWkc4N0lsX3ctMmlQX0p5bmhhN0g1YXl0ZVp0b0ZBdTQxaFFWME1HSXRLNlQxYjFqM2VXYnJsM3ZmV3hB?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-20T14:34+00:00",
-   "added": "2026-10-23T13:34+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "ports",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "concession",
-    "port"
-   ],
-   "summary": "Oman not renewing concession with APMT-linked Salalah Port Services WorldCargo News",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "71a29e062aff",
-   "title": "Port Polska: Ogromne odszkodowania dla właściciela nieruchomości",
-   "original_title": "Port Polska: Ogromne odszkodowania dla właściciela nieruchomości",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1dUbldmSE13c3FrQ3pzVXduRkFHX3dUQjRJUGVvNWJHamtwdDhRb3NySDJoYV9nMmZ5Vk9UWXBhVWoxQ1NiVWE1SUExVWxGbTJGWkFHNEZ4eWVBd2duRTdOeEtVZWUtYVVyRjgtQ3FvbkFQdW9fb25LM1pfNnpERXBTTHg2U1VZQ0dvNVlUM3ZzbkI4VU5RdTZOaU1pel9jWWFuNXQzX0VZTHZwX1pfRUdiRjhuRXc?oc=5",
-   "source": "Rynek Lotniczy",
-   "published": "2026-10-20T14:16+00:00",
-   "added": "2026-10-21T17:03+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polska",
-    "port",
-    "port polska"
-   ],
-   "summary": "Port Polska: Ogromne odszkodowania dla właściciela nieruchomości Rynek Lotniczy",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
