@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T02:43+00:00",
+ "generated_at": "2026-10-23T03:16+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -4688,6 +4688,32 @@
    ],
    "summary": "Iron ore futures end little changed Business Recorder",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0d3d0b5d6b71",
+   "title": "Important imports at Rīga port / Article",
+   "original_title": "Important imports at Rīga port / Article",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaDItX3lZQ0c5SXdpVTZtaEZlRzdsVXJVcVdwLTBQOEk2NGlnWWczY0lnX2hwQ1NScnhtdF9DYnhhLXlsNV9NYS1sRGpHQjVUbDFZVmtXOXJFU01pTXVYcDFyTVN3X1c0ai16NUgzeHg4QThodE1RWUhZQWRaMWxnNlRodFFtUzdDTGEtVktwZVJyMHlrdUo3Rg?oc=5",
+   "source": "Latvian Public Media",
+   "published": "2026-10-22T00:43+00:00",
+   "added": "2026-10-23T03:16+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "port",
+    "riga"
+   ],
+   "summary": "Important imports at Rīga port / Article Latvian Public Media",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16491,32 +16517,6 @@
    ],
    "summary": "Ukraine is asking EU to reopen \"solidarity corridors\" for grain transit - Zelenskyy Ukrainian news",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b831d6adb890",
-   "title": "Coos Bay wins US$204.8m federal grant to build rail link for planned container terminal",
-   "original_title": "Coos Bay wins US$204.8m federal grant to build rail link for planned container terminal",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWExTd2ptRE5TYmNMTXVIVDlXdXItLWkyYjNtYjd3bWpPSE5YTHNKQS1wZDVPeXNHQUdJeUdvOUpXTHdsYkI3TmJGN3JVNHdxWWNqTUZmUFJSSGQ1elJ5dEVmSWN4eXA5YWU3YkEtd1VSX3k4cE5YNzVzeFVILUxrX1doaUgxU213cmZsMjVUQVBBWGRKaUdKM3N0M3ZTdWlxeS1xcQ?oc=5",
-   "source": "Container Management",
-   "published": "2026-10-20T00:11+00:00",
-   "added": "2026-10-20T00:24+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "container terminal",
-    "terminal"
-   ],
-   "summary": "Coos Bay wins US$204.8m federal grant to build rail link for planned container terminal Container Management",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
