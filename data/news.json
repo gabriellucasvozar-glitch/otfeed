@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T15:38+00:00",
+ "generated_at": "2026-10-23T16:18+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,56 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "91df5eb76ca7",
+   "title": "PKP CARGO odkłada emisję akcji. Trwa przegląd sytuacji finansowej spółki",
+   "original_title": "PKP CARGO odkłada emisję akcji. Trwa przegląd sytuacji finansowej spółki",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRVRpYnpVcF9QbkFBSXhVUVhpdXVKVVdHcTFNNklmT0MxVnI4d1JLeF9meFV6TXpmS0g0OWFSLXRXNm9GeTY0elFNWER2X3ozX1ZoV1NoQzJ2UC1JLWUtYjNhRVRBTElndlV6c2ZzZlpxVUZDSE4xWlBjQUx4c2pjbjNYYUREZ0dNcm9zN0VNUTBEdU5JU2tnQUVEVlhhcWM?oc=5",
+   "source": "Kolejowy Portal",
+   "published": "2026-10-23T15:35+00:00",
+   "added": "2026-10-23T16:18+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "pkp cargo"
+   ],
+   "summary": "PKP CARGO odkłada emisję akcji. Trwa przegląd sytuacji finansowej spółki Kolejowy Portal",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bc30a7f1cd49",
+   "title": "European Trials Report 4.3% Increase in Winter Wheat Yield with Arginex Seed Treatment",
+   "original_title": "European Trials Report 4.3% Increase in Winter Wheat Yield with Arginex Seed Treatment",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbE1aYjdOTU9hWDNYa3d1b05uZDNtbGdsTDkzcmVpdjIteGF0WWo1XzZHMTFKZmV2dGFtSVNBOEpyM25Eb1VUejAxeHBFN1d6c1FDVnJNSUxIN281MmpSVnUwc08tbklNV25UY2I5NUNTRVI1WFhKYjBxbkcxSDBHVHVhZ1BtdkdudWE0Q19idTRENjU2WmdOY2pJTUxHdlZ0cmJRRHktZkJrOXlMTldXZnpEck1iZzVzanF3ck5DaFVieG14Y0wxYWlZUUNPQTBr?oc=5",
+   "source": "Global Agriculture",
+   "published": "2026-10-23T15:30+00:00",
+   "added": "2026-10-23T16:18+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "wheat"
+   ],
+   "summary": "European Trials Report 4.3% Increase in Winter Wheat Yield with Arginex Seed Treatment Global Agriculture",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "9ac7377c9796",
    "title": "Nowy terminal w Goleniowie coraz bliżej. Wybrano firmę, która ma go zbudować",
@@ -94,6 +144,33 @@
    ],
    "summary": "Egypt increases its share of EU urea imports to nearly 60% UkrAgroConsult",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9a336d1e82fa",
+   "title": "Konecranes increases sales as Port Solutions order intake falls",
+   "original_title": "Konecranes increases sales as Port Solutions order intake falls",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOckNScXNTNkJiWkxreE5UV3l6UnloMHI2Q0lIVldfbWg4YTVjVkRMYVBFQUNyQjBtZVJYUmZrTXZiNWRqRHd5Tng1dFRGS21QazZIYUZGM0pjUGFzdkpOdlhscjMySDNjbXEzRV9BeEo1dld3cGp0ak1CSGxuOGZkYnBPOWtCQVFoMl9EU3UxSzhpdjQzcm1mdm11aGQtUTd0R3ZfbXJxcXFqTTFpcUJTRklCUjM5Y1NCNEJkVnZUZVI1S1VOU2xv?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-23T13:37+00:00",
+   "added": "2026-10-23T16:18+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "konecranes",
+    "port"
+   ],
+   "summary": "Konecranes increases sales as Port Solutions order intake falls WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -388,6 +465,34 @@
    "summary": "Dropping behind Shanghai and Ningbo-Zhoushan in the global container port rankings, and seeing Malaysia’s Port Klang and Port of Tanjung Pelepas nip at its heels should serve as a wake-up call for Singapore, in a changing competitive landscape for box trades For Singapore, this is about more than losing a place in a league table. It is an existential question asking whether a nation built on maritime trade can adapt to a world where supply chain control matters as much as moving containers. As Singapore spent years living off its geographical advantages, deepwater harbour and reputation for efficiency to guarantee continued dominance, its competitors have expanded their infrastructure, attracted manufacturing investment, and developed integrated logistics ecosystems. Part of the problem for Singapore with its nearest rival is that it simply cannot compete with Malaysia when it comes to land availability, meaning it should not focus on warehouses and distribution centres. And the pending Tuas Port, with its planned capacity of 65m teu on full completion in the 2040s, will have a part to play, even if success cannot be judged by volume alone. Yes, the Ministry of Transport’s new Connectivity & Logistics division recognises the need to integrate maritime, aviation, and land transport, but creating a coordinating body will not automatically deliver the commercial agility needed to compete.",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "fc00a736ee8e",
+   "title": "DP World electrifies Busan terminal fleet",
+   "original_title": "DP World electrifies Busan terminal fleet",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcXltb2J1SG5TcTBfSE1ndDkxeXRnY0ZZaUp1aTNzWXRhMDhMdXFRUHE5TU85RkQxbVo1dzdsTUNySkNuMThMSmxVa0dvRDluUkpRMTd0T19NeEwyWTcwN3ViZkYxWGs0bnhzMHRMZ3FZb1lkT1RTOURlTjJiTWpkWTZZM2hSSzFTMk00bUhZeFdRNmJzR2xaQTV2b0xQcVUyOVVKNzk5Z3RxRW1ON3FNWTJ4ZmE?oc=5",
+   "source": "Port Strategy",
+   "published": "2026-10-23T11:43+00:00",
+   "added": "2026-10-23T16:18+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "fleet",
+    "port",
+    "terminal"
+   ],
+   "summary": "DP World electrifies Busan terminal fleet Port Strategy",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "73cdf86d7558",
@@ -1206,6 +1311,31 @@
    ],
    "summary": "MBTA board approves $310.4 million Siemens order for 20 locomotives Railway Supply",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1852a75e5ebc",
+   "title": "Port of Kobe container volumes fall 2 per cent in August",
+   "original_title": "Port of Kobe container volumes fall 2 per cent in August",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenhON2NzNnlxd0xRUmRpSWpIcG1kM3VNamk1aldmMTBIZ2VVMDNfWWRlUzBmQzNKODlQWlVnd240LVV5VlBNZlNpTXN1Y2sxUTN5OWt6UUxJM0pxampkUEVXd1FKYlZ0b19DZXp0OGlEZ3VIWldyd05DVmpoYnBhd09DLUwyNGRRN1ZaSTI3U1R4Z3JzZ2F1eHFZWlRJNmY0MGFZdXNRaEg4c1RX?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-23T09:53+00:00",
+   "added": "2026-10-23T16:18+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port of Kobe container volumes fall 2 per cent in August Port Technology",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -2341,6 +2471,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "7673f3390f8b",
+   "title": "Busan Port Authority shares digital innovation achievements at World Port Authorities Meeting",
+   "original_title": "Busan Port Authority shares digital innovation achievements at World Port Authorities Meeting",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nTGtRdTZ2MW5IbUhKVzhCakpORlk4SFhOU2FXUC1CYW9Pa185WWlOZ2RZQTNzNjhnUm1LTlRnZTI1R2RIWnpBQkNjUUtMM0EyVlMzN3I2bzE?oc=5",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-23T04:42+00:00",
+   "added": "2026-10-23T16:18+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "port",
+    "port authority"
+   ],
+   "summary": "Busan Port Authority shares digital innovation achievements at World Port Authorities Meeting 파이낸셜뉴스",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "18c1d6239ddf",
    "title": "Analysis of the Competitive Landscape in the Satellite Ground Terminal Market Among Top Global Companies",
    "original_title": "Analysis of the Competitive Landscape in the Satellite Ground Terminal Market Among Top Global Companies",
@@ -3292,6 +3448,32 @@
    ],
    "summary": "Stainless Steel Costs May Rise After EU Scrap Quota Cut urbanacres.in",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5d48ca85a613",
+   "title": "Nearshoring Summit explores future of manufacturing tech with Humanoid robot",
+   "original_title": "Nearshoring Summit explores future of manufacturing tech with Humanoid robot",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXlteGp1bWZIVnFLeTMybEZ0WGhKWnNYbEo4TWJjNEtkQUFZWXVyTHRUdjg5OGFvTng0LXdOdGN2TkdvcWlQcEo0Z2gyQzZMN0tIYmM2UkpDTnJLdWdleTUtZ3Q5b1FQN3VzTGs3UzhBRUotUXVxU3R3NHNfQUVteENCalY0TDB6RGJvNnlhTEVMMlhiM2tMOVBrOU9USmNGMmFRbg?oc=5",
+   "source": "Yahoo",
+   "published": "2026-10-22T18:19+00:00",
+   "added": "2026-10-23T16:18+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "manufacturing",
+    "nearshoring"
+   ],
+   "summary": "Nearshoring Summit explores future of manufacturing tech with Humanoid robot Yahoo",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16014,6 +16196,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "ac23412c5b90",
+   "title": "US to Convert Sanctioned Oil Tankers Into Legal Shipping Fleet, Energy Secretary Says",
+   "original_title": "US to Convert Sanctioned Oil Tankers Into Legal Shipping Fleet, Energy Secretary Says",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iRnE1cVFtdWxSR0VUbGNYcDE4TGRlNjFmTXMwbDZjeEN6cmRrYWFwcHRmcTM0WWVHb1dxTGRoT2QxQmFFQkV5bk9QTQ?oc=5",
+   "source": "Kyiv Post",
+   "published": "2026-10-20T12:58+00:00",
+   "added": "2026-10-23T16:18+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fleet",
+    "sanction",
+    "shipping"
+   ],
+   "summary": "US to Convert Sanctioned Oil Tankers Into Legal Shipping Fleet, Energy Secretary Says Kyiv Post",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "f40b1e66df89",
    "title": "The LNG Bidding War is Driving Consumer Energy Costs Up",
    "original_title": "The LNG Bidding War is Driving Consumer Energy Costs Up",
@@ -16320,230 +16530,6 @@
    "summary": "FILE PHOTO: A truck transports a Maersk container at APM Terminals at the Port of Los Angeles, California, U.S., March 4, 2026. REUTERS/Mike Blake/File Photo Oct 20, 2026 (Bloomberg) –A.P. Moller-Maersk A/S, the world’s No. 2 container carrier, signed an agreement with Vietnamese conglomerate Hateco to develop a railway freight terminal network in Vietnam during President To Lam’s official visit to Denmark. Moller-Maersk, inked a memorandum of understanding with Hateco in Copenhagen on Tuesday to develop a container terminal system with total investment estimated up to $3.5 billion, according to a statement from Hateco . The proposed network, which will include a rail freight terminal in Haiphong and three container facilities across northern provinces, “aims to connect industrial parks, logistics hubs and production zones with major transport hubs,” it said. The container project comes as Vietnam ramps up infrastructure investment to support its multiyear double-digit economic growth target, seeking to boost spending to attract private capital and spur development. Read More: Vietnam’s 10% Growth Dream at Risk as Iran War Chokes Fuel Flows Maersk has already partnered with Hateco on a $400 million container port project in Haiphong, according to the Vietnamese company.",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "extract"
-  },
-  {
-   "id": "b0fa07112f18",
-   "title": "Ukraine in Talks with Turkey, Egypt and India on Black Sea Grain Corridor",
-   "original_title": "Ukraine in Talks with Turkey, Egypt and India on Black Sea Grain Corridor",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVjdNRzdLcnRLdDF3TU1oZ2lCMzJrNTZfT053cEJrWHdFUEk3OW8xZGxwNF9DbWVVcVRUaVROOW14MDA1Z0o0TWIwQU1CTW5ocFFUSlNPeDJnWXQ2amY4YVRwaV8yY0JXYk9WbGVhaGRiVklIVkpadjZxUFBqcW1ZZkI0Q0pqZzNqZGM3OUh1TkdxNHE5?oc=5",
-   "source": "Greek City Times",
-   "published": "2026-10-20T12:12+00:00",
-   "added": "2026-10-23T11:36+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "black sea",
-    "grain",
-    "ukraine"
-   ],
-   "summary": "Ukraine in Talks with Turkey, Egypt and India on Black Sea Grain Corridor Greek City Times",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d571b5809be6",
-   "title": "New mining operations unearth opportunities for logistics in Africa",
-   "original_title": "New mining operations unearth opportunities for logistics in Africa",
-   "url": "https://theloadstar.com/new-mining-operations-unearth-opportunities-for-logistics-in-africa/",
-   "source": "The Loadstar",
-   "published": "2026-10-20T12:09+00:00",
-   "added": "2026-10-20T12:53+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "logistics",
-    "port",
-    "supply chain"
-   ],
-   "summary": "Mining developments in sub-Saharan Africa are boosting the continent’s infrastructure, which supply chain operators have been crying out for, but significant gaps remain. Data from the OECD shows more than $155bn will be required for upgrades in port, rail, and road infrastructure over the next decade if the sub-Sahara region “is to meet its potential”, but with multiple projects already under way, there are positive signs. DHL Express Sub-Saharan Africa CEO Hennie Heymans told The Loadstar : “We’ve seen enormous improvement. If you go to Kenya, there’s an incredibly smooth new highway, which is partly what’s driving the growth in that economy. “If you look at Ethiopia, it is building €15bn airport in Addis Ababa. Rwanda, one of the smallest countries, is building a €4bn airport. We see fantastic improvements in infrastructure.” And this investment is having real world logistics implications, with journeys between Nairobi and Addis Ababa, that previously took upwards of a week, down to 24 hours; while an eight-lane highway has dropped domestic journeys from four hours to mere minutes. Much of the spur behind this has been new mining operations, necessitating the development of roads, port improvements, and services to support them.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "3b49aeb692dc",
-   "title": "Japanese Firms Test Middle Corridor Freight Route as Tokyo Funds Aktau Port Upgrade",
-   "original_title": "Japanese Firms Test Middle Corridor Freight Route as Tokyo Funds Aktau Port Upgrade",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SRGlJb3N5WFdZd1NHcENCMXBoMTVtTzYxSlFxYlFYZlBOUEhKVkJoODdoRHVfRVVMWG5kb2pucHRhR3V1dFZ1WElZeGRac0hFcDlsODZxVlJrV0gzcFJSUGY5VU53d1pjN2dVcnVn?oc=5",
-   "source": "The Times Of Central Asia",
-   "published": "2026-10-20T12:09+00:00",
-   "added": "2026-10-20T14:16+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "ports",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor",
-    "port"
-   ],
-   "summary": "Japanese Firms Test Middle Corridor Freight Route as Tokyo Funds Aktau Port Upgrade The Times Of Central Asia",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9126fbab2d58",
-   "title": "How plans for new coal projects are outpacing 'shelved' schemes at a rate of three-to-one",
-   "original_title": "How plans for new coal projects are outpacing 'shelved' schemes at a rate of three-to-one",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdTAweXQ4VDVaV0I5OXFqMDgxRGcwSzNFdEM5SWpJeEdlazNyaEo4amVOMDVCc1h0T0Q0ak1kS0hNd25iWFNrUmlUYzhCQmtVUnVQRjMzOFk4cndSamdZMHUxSndxdkhIRUo2eS14R05UMjZJNURfbTEyS3BZTGt0enpDVVBjSzlMYzgyVnJBa203b1JaVXNVbUZFR2NSamY3Q1EzZw?oc=5",
-   "source": "BusinessGreen",
-   "published": "2026-10-20T12:08+00:00",
-   "added": "2026-10-21T00:08+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "How plans for new coal projects are outpacing 'shelved' schemes at a rate of three-to-one BusinessGreen",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5a883de9846d",
-   "title": "Statement by the HR/VP on the escalation of Russian strikes in the EU, particularly on Black Sea shipping, threatening human life, regional stability and food security",
-   "original_title": "Statement by the HR/VP on the escalation of Russian strikes in the EU, particularly on Black Sea shipping, threatening human life, regional stability and food security",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONWF2Y3V2eEFBYmFwMHlvc054RUpZb09FQV9ySjV3by1FZGYyWmR4Ukd2Y29MS0VBVkdCZXktS3MtTFdleUVmR2prUzdMNFZFdmREX2ZzVUZ1bWh6bS1sbFVmd1NpNDJCemc1aUFoTk10bHdONU5rNTE3VG9VQlFYbmJCc3RUMmJPeXNjU2NqZy1QTTUtQVlnMk1pazdCMU40NFZQSUk4N0hpZlpLQ1JMTHVjRUkyZC1ZNkxZQmd5T09HSzkxeGxHVWhwZm4zV2M?oc=5",
-   "source": "EEAS",
-   "published": "2026-10-20T12:03+00:00",
-   "added": "2026-10-20T14:57+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus",
-    "EU institutions"
-   ],
-   "tags": [
-    "black sea",
-    "eu ",
-    "russia",
-    "russian",
-    "security",
-    "shipping"
-   ],
-   "summary": "Statement by the HR/VP on the escalation of Russian strikes in the EU, particularly on Black Sea shipping, threatening human life, regional stability and food security EEAS",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "47ca4b6e9602",
-   "title": "Grain Exports Under Pressure: Freight, War Insurance and the Danube Bottleneck",
-   "original_title": "Grain Exports Under Pressure: Freight, War Insurance and the Danube Bottleneck",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZDR2S0NMNHU2QV9Mc3Iyek9rdTlYZGMxS0lKNGFvVGxncEQyWGRLcVhJS2VVX0ozT25ZMzBNZkxlVV9CS243bjd4akVpenpnNDlId1o5RV9FbUNFZ0l5UTZIcHJ3TjA3VzFCWVdBY1hLcXdHR2hkUTBHTUFHQ1hDaFZTaGNzcG5zZWI3Yk1RMEZoamdDeUd2cHM1UGJfLU9SZ04xakVlUkZBMXFtVUtNNURB?oc=5",
-   "source": "UkrAgroConsult",
-   "published": "2026-10-20T12:02+00:00",
-   "added": "2026-10-22T21:54+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "bottleneck",
-    "grain",
-    "war"
-   ],
-   "summary": "Grain Exports Under Pressure: Freight, War Insurance and the Danube Bottleneck UkrAgroConsult",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "62e128a0e1e0",
-   "title": "Dray Dog-CargoWise link-up will automate port bookings for drayage",
-   "original_title": "Dray Dog-CargoWise link-up will automate port bookings for drayage",
-   "url": "https://theloadstar.com/dray-dog-cargowise-link-up-will-automate-port-bookings-for-drayage/",
-   "source": "The Loadstar",
-   "published": "2026-10-20T11:47+00:00",
-   "added": "2026-10-20T12:07+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "terminal"
-   ],
-   "summary": "WiseTech Global has integrated its CargoWise Landside transport management systems (TMS) with marine terminal appointment software provider Dray Dog, enabling US drayage operators to automate port bookings and reduce manual data entry. The integration connects Dray Dog with CargoWise’s Trinium, Profit Tools, and Compcare management systems, allowing dispatchers and customer service representatives to receive confirmed appointment details, including reference numbers, directly within their own TMS. Dray Dog, a CargoSprint company, automates the process of securing marine terminal appointments by continuously retrieving available slots, and booking them according to predefined carrier parameters. The move targets a longstanding administrative burden for drayage operators at the ports of Los Angeles and Long Beach that must coordinate terminal availability, appointment bookings, dispatch systems, and driver schedules across multiple platforms. Former Harbour Trucking Association CEO Matt Schrap previously told The Loadstar : “You’re operating across several different platforms, not only in the port ecosystem, but within your own company. It’s about efficiency.” According to Mark Rabens, SVP transportation at Custom Goods & Quik Pick Express, the Trinium TMS-Dray Dog integration will ultimately save time and money, while improving customer service levels. And Jon Steitzer, head of Dray Dog, added: “Every minute counts in drayage.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "8b16e12f245a",
-   "title": "Curaleaf Continues Florida Expansion with Port Orange Dispensary Opening",
-   "original_title": "Curaleaf Continues Florida Expansion with Port Orange Dispensary Opening",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMFZ2djM5b2M2b0VZSHFwWUR4VllDSEdrQVRvUGZLRU5LcWlrMmNmcHZ0Y1BSR2hHc3oxbjRKZTYzckNPWkhuWEZnNFZEVzUwY1AzTm4zU0tNa19JVFRuTDc5a1lJYWQ3Z3hXR19lSTA0cE5DRUJzZzVoZGM2RnBlcnJnZGZtdTEzWVotRWhRczFMZGg3QTlFUGJYVGpGME82YXVsSA?oc=5",
-   "source": "Yahoo Finance",
-   "published": "2026-10-20T11:45+00:00",
-   "added": "2026-10-20T14:16+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Curaleaf Continues Florida Expansion with Port Orange Dispensary Opening Yahoo Finance",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
   }
  ]
 }
