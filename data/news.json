@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T02:08+00:00",
+ "generated_at": "2026-10-23T02:43+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "40f6daf36f86",
+   "title": "Wheat Needs More Than Headlines",
+   "original_title": "Wheat Needs More Than Headlines",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aVTM2QnFnUFZpX2NTMnRjYTkwa3dubXpqNHVOc1JFcjZYZk12ZU9YZDFXcEJFZTBucjkxLUZrTEhOdTFhb01QUDQ1TWE5NVIyN042YURRejZxX3U5NGYtRUFVLUpSdw?oc=5",
+   "source": "Mecardo",
+   "published": "2026-10-23T01:27+00:00",
+   "added": "2026-10-23T02:43+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "wheat"
+   ],
+   "summary": "Wheat Needs More Than Headlines Mecardo",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "704130edf186",
    "title": "PKS Gdańsk Oliwa: logistyka kontraktowa dla firm rodzinnych i sektora MŚP",
@@ -16493,39 +16518,6 @@
    "summary": "Coos Bay wins US$204.8m federal grant to build rail link for planned container terminal Container Management",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
-  },
-  {
-   "id": "e16d119a7a81",
-   "title": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
-   "original_title": "U.S. to Allow Dark-Fleet Tankers to Shed Sanctions, Wright Says",
-   "url": "https://gcaptain.com/u-s-to-allow-dark-fleet-tankers-to-shed-sanctions-wright-says/",
-   "source": "gCaptain",
-   "published": "2026-10-19T23:33+00:00",
-   "added": "2026-10-19T23:51+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics",
-    "mna",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crude",
-    "fleet",
-    "sale of",
-    "sanction",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "A drone view shows the Russian-flagged tanker Bratsk, which is under U.S. sanctions for links to the Russian state-owned shipping company Sovcomflot, near the Baniyas oil terminal, in Baniyas, Syria, April 8, 2026. REUTERS/Khalil Ashawi The Trump administration is authorizing the sale of sanctioned oil tankers in an effort to allow the vessels to start legitimately shipping crude, US Energy Secretary Chris Wright said. “We are converting dark tankers to legitimate tankers,” Wright said. Wright estimated that there are about 1,600 vessels in the global “dark fleet” of sanctioned tankers. The Trump administration’s effort to convert those into lawful ships could ultimately add “dozens” or even “hundreds” of tankers to the legitimate fleet, he said. More than 40% of the world’s fleet of about 850 very large crude carriers are now either in the Persian Gulf or within a couple of days sailing time from it, according to Signal Ocean, a shipping data provider. In addition, Wright said during the wide-ranging interview that part of the reason the Trump administration agreed to work with Russian President Vladimir Putin to release the country’s diesel supplies into global markets in a widely criticized move was to provide an incentive for the Kremlin to end the war with Ukraine.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
