@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T06:53+00:00",
+ "generated_at": "2026-10-24T07:31+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,61 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "7a70cf319364",
+   "title": "Trump says higher oil prices are ‘small price to pay’ to stop Iran’s nuclear ambitions",
+   "original_title": "Trump says higher oil prices are ‘small price to pay’ to stop Iran’s nuclear ambitions",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWRDeE9GXzVjUUxrbXRFZ29JZlJ1cEpqdTVUc3h1cldNSGw0Y1pmWE1jdjcyRXZhaUJlYXpJdmtjckhpSkdOUVExQlhleUtLR05BX21XRFU4QVV1S1h2UFJhTUpwY2JEMHZXUE52NVFpdkVlZDdpWDMzc2FVV2FSYlpQa3F1OUdmdnE3ZEN2RE5PQ253MFRJWFdWUk1sZ2xRWVJISWZydnVENTkzMzdyOXpqNVUyNU95X3hTag?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-10-24T07:23+00:00",
+   "added": "2026-10-24T07:31+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "oil price",
+    "prices"
+   ],
+   "summary": "Trump says higher oil prices are ‘small price to pay’ to stop Iran’s nuclear ambitions Business Upturn",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bd700adab8a6",
+   "title": "Latakia container terminal receives six new cranes under CMA CGM partnership",
+   "original_title": "Latakia container terminal receives six new cranes under CMA CGM partnership",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHdqSjEwMGFIWm1SdUpoVmhvdEZ6N2VqaktvdUNpNFoxVlI2Z2RkN3dQZ3pvYVRaZ2Z4eHZ5bFA0bTh1RGtqNjdSa2VkMF9MNHVJNDlVM0xuZVN3SmFPaWw2RXE1ZWh2czM3QU5uWFRUSE5zYWFIUjh4Vnc5cDBqbkFtRGsyU2F5NXN3RzN5eXZ4TEl2QUJfRkFYMGpDa1YwTE03eHk0WQ?oc=5",
+   "source": "Container News",
+   "published": "2026-10-24T07:00+00:00",
+   "added": "2026-10-24T07:31+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "container terminal",
+    "crane",
+    "cranes",
+    "terminal"
+   ],
+   "summary": "Latakia container terminal receives six new cranes under CMA CGM partnership Container News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "c8cdb57aa810",
    "title": "Russia seeks new wheat export route via Abkhazia",
@@ -71,6 +126,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "4b4feaaa507c",
+   "title": "Kenya opens $1.17 billion Mombasa and Lamu port concession programme to private investors as state operator commits $60 million",
+   "original_title": "Kenya opens $1.17 billion Mombasa and Lamu port concession programme to private investors as state operator commits $60 million",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRmRCcjhsemJKNm9zYmktUVVUQVBmSEF0NVhHajRXSVFYNmdacW5IaXpvMkhJLTBGLXV3Vk96LVdLZnFTNmQ4dW5hVGVDQVZSOTRld1pJUkhjMzhsLVRPRnhGMkpRTDAwUmZYSFE2ZnZ3dTVGelhHUjlZbzZUMlBGUlJtZEk1MDNDX2g3Y3dNcmk0ZklIMDVTYTB3R3hOZVhvOE5PVFo5dmtVajVqZGJJdlFaWHcxRVk2ZFdTS1lkQ0ZXSEFDYXpUXzJQdG9HZ0dnLXppcVVMdw?oc=5",
+   "source": "Business Insider Africa",
+   "published": "2026-10-24T05:00+00:00",
+   "added": "2026-10-24T07:31+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "ports",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "concession",
+    "port"
+   ],
+   "summary": "Kenya opens $1.17 billion Mombasa and Lamu port concession programme to private investors as state operator commits $60 million Business Insider Africa",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "635a10293097",
    "title": "Middle Corridor offers new route for global trade, but can it deliver?",
    "original_title": "Middle Corridor offers new route for global trade, but can it deliver?",
@@ -93,6 +175,33 @@
    ],
    "summary": "Middle Corridor offers new route for global trade, but can it deliver? AzerNews",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7173c9ca0ca0",
+   "title": "Konecranes Q3 2026 Interim Results: Order Intake Down 12%, Net Sales Up 11.4%",
+   "original_title": "Konecranes Q3 2026 Interim Results: Order Intake Down 12%, Net Sales Up 11.4%",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVnptcG8yamFEMFlkUGlRdDBialJrVUVXUXhTSzhoejdOdzNxb0hXUzVhbzRmd0wzTURvLTRlMVlaQkdBTXhHODRveHVDblhRTGdaYk5VUTB6djRDT3dLWWV4bzh4dEtreEVDbW5JMDJBNnBpSng3OV9hbEVXQ2M0QWRGWC02ckk5M1VSamN3QUhOTG5EbEtHMlI3bVpPWkFTNlZjZA?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-24T04:00+00:00",
+   "added": "2026-10-24T07:31+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "konecranes",
+    "results"
+   ],
+   "summary": "Konecranes Q3 2026 Interim Results: Order Intake Down 12%, Net Sales Up 11.4% IndexBox",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -10511,6 +10620,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "55c5da8f607a",
+   "title": "US exports 1.5m bpd of distillates; why does it need Russian diesel?",
+   "original_title": "US exports 1.5m bpd of distillates; why does it need Russian diesel?",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOUZLS01vWml1WFFINUZnWklLc1ZIaW5xeFJZMnJWNktPSXlVQWY4eE13WVQ0QVFkZFhxbmhpendHOUFIdjdSSHV1MGZ6NzBtTFRBY0llWVB3UjVFcm5DV3NMRExaQm91aV9lZ1A0OXk0eHp6QmVXQ2xNamUweDVjdUFhQlBEVU9IRmYtcjE3SUFySUhQUS1aclhVREZYSWhhcHlVaklJOVRrUlhaS1BmWjZzRdIBtwFBVV95cUxQdVBmWG9HS0pOVUM2RU9vYmxEeWl4Q3ZMX3ZGbnZSc1NnRWJZSzVETmJ4Skd1UEJ4U05iTmFOZXZURDlfaHZlNm9ZbEppMm94REdEYVJDem1JR2drbEEzVVpGTGRqN21NRG9hdFhxamJPZVptODhyVVd0Tno4dWNTUVZESmxBN1dtRU5jTXQyUXp1NkR5TDlWN3BBS1Z2SURPMU43Z05iVlhKVVNiUVloaVBUWXQ3R0E?oc=5",
+   "source": "Kuwait Times",
+   "published": "2026-10-21T22:18+00:00",
+   "added": "2026-10-24T07:31+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Russia & Belarus",
+    "North America"
+   ],
+   "tags": [
+    "diesel",
+    "russia",
+    "russian"
+   ],
+   "summary": "US exports 1.5m bpd of distillates; why does it need Russian diesel? Kuwait Times",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "1b428a50212a",
    "title": "Port of Galveston completes $106m West Port Cargo Complex expansion",
    "original_title": "Port of Galveston completes $106m West Port Cargo Complex expansion",
@@ -14532,6 +14670,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "c44ba76733fa",
+   "title": "Ports Move AI From Pilot to Operations as Proof of Value Lags",
+   "original_title": "Ports Move AI From Pilot to Operations as Proof of Value Lags",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmwtZ0U3ZkgtNWRVT2x5RG9MMTA3cWx0SWxnZThCdTYtQTE0MXgwLUlKaEJpV0pKSk84aVpFckVWVzZ1LXctNFlrdDA5NDV1ZE90OHh1bkJ4a0RHWDRsSmdNRF9FdnRaMUpsNmd2X1ZDNmRmalJSNXBVajhkTjhQOFJRemQ4V2s3RWpPUVhOYXRyQ3JOOFd1Yg?oc=5",
+   "source": "Global Trade Magazine",
+   "published": "2026-10-21T09:13+00:00",
+   "added": "2026-10-24T07:31+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Ports Move AI From Pilot to Operations as Proof of Value Lags Global Trade Magazine",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "159739d19ca9",
    "title": "Simandou iron ore volumes to boost bulker markets, Fearnleys says",
    "original_title": "Simandou iron ore volumes to boost bulker markets, Fearnleys says",
@@ -14884,6 +15048,35 @@
    ],
    "summary": "Gulf Port Giants Invest Billions in Africa as Red Sea Shifts Africa M.E.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "dc33af2351f4",
+   "title": "Port of Guam restores all STS cranes following high-wind incident",
+   "original_title": "Port of Guam restores all STS cranes following high-wind incident",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjUxcHJ2Q0VBVjZQbm5fSUJYLUMwYUEyZUFwYVF4WWI1bjZyTk5pRTlIQXhPWEQxTll2djNnVHN2UFlnODlaWTBfWkFiQjlxaTBFMHRoRHFCTldUQzU0TXJrbWluSG1kckR6SmRCdERNd0ktal85a3FpU19xQUlXajI1b0FLLUF1T0dReXVGZ0RyS1puRlBXZF9IaXEwSFJDSVV3bmJFUmxPeG9jemxj?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-21T08:38+00:00",
+   "added": "2026-10-24T07:31+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "port",
+    "sts crane"
+   ],
+   "summary": "Port of Guam restores all STS cranes following high-wind incident WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -16276,196 +16469,6 @@
    ],
    "summary": "Thoresen Shipping backs handysizes again with Japanese bulker buy TradeWinds News",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "17305dc7bec0",
-   "title": "Global container freight prices surge 130% since February amid Middle East tensions: Jefferies",
-   "original_title": "Global container freight prices surge 130% since February amid Middle East tensions: Jefferies",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeHJEQVZ3aWpObGZMR05TRTFwelUyRmxEU0xVdXoydkJlajlXOWgzU0l2bUwybjdHVlc5ZkV3bXZobUJtZXhZeVpqUnFua3BHVnFzOFFyTVhrR3A2OEVGWVVvODZESll2c2xPQUZLcWM4eG1lY053dUFYOV9LaWVWeWJwRmc1Qk9kcEozemtrRmJWQ2lTQ3haM2w5T3ZnUmJfelllVFRRLVNPbGxLa2VmQUV4X3lzVU11TlF2cHhXeGZQcEoyb2xKWmZoajZQc3Z4T3Bz?oc=5",
-   "source": "India Shipping News",
-   "published": "2026-10-21T04:02+00:00",
-   "added": "2026-10-22T13:13+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "prices",
-    "shipping"
-   ],
-   "summary": "Global container freight prices surge 130% since February amid Middle East tensions: Jefferies India Shipping News",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1f012b1797d4",
-   "title": "Oil pipelines, ports, new corridors. Alternative routes in the Middle East to render the Strait of Hormuz redundant",
-   "original_title": "Oil pipelines, ports, new corridors. Alternative routes in the Middle East to render the Strait of Hormuz redundant",
-   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQa0NTUkJNTUlCY180OHpzTTZoN0xaaVdOSlFEb1d3RDdOc0dnalhucmdBMlpXV29pN0JkdW5DT2dHYWZGR1hwVE1BWDhyNFhtYk9fUmFjMXcyMnVOc09TQlU0bnVUaUdOUkVfZDM0TFRVd211aHJnWktnQml3SmNTOXBtOW1adUdvanppb0hic2tYbDJpWm05YlNBcmxMZzRUbWFLb19icm94cDRuZW50TFJLSGhsakJVVDBVa0p6aEx4MnFtcFdXMWVCMEpZZVI1WXRlMWk5UndTY2tyNW1ycmNRNkxsaUR4MXQzdmF5M0xUempXaWhwR0VnTWNMQQ?oc=5",
-   "source": "Il Foglio",
-   "published": "2026-10-21T04:00+00:00",
-   "added": "2026-10-21T05:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "port",
-    "ports"
-   ],
-   "summary": "Oil pipelines, ports, new corridors. Alternative routes in the Middle East to render the Strait of Hormuz redundant Il Foglio",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "95e134b780cc",
-   "title": "Irish ex-EU commissioner seeks Trump’s help to restore grain corridor",
-   "original_title": "Irish ex-EU commissioner seeks Trump’s help to restore grain corridor",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZTZkcXZBZUJFWDNDQk9Pdlp3ejh6bkM4WnZfMmFtT0RmT1B2Zk1ObkhDaU9JdGFOa0VxNzJSWXFmYnVLbmJ0Zi1OU1pIN0RzSEZ0OUc4NHdFMmdOaUhaSHlxX0R5U1Z5T3ktZGdPQ0x3dXFZNEp1akpCY0MwODNUMlhUUks?oc=5",
-   "source": "Financial Times",
-   "published": "2026-10-21T04:00+00:00",
-   "added": "2026-10-21T05:46+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7.5,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "grain"
-   ],
-   "summary": "Irish ex-EU commissioner seeks Trump’s help to restore grain corridor Financial Times",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e411410478ab",
-   "title": "Gateway Dredging Delivers With Liebherr LH 60 C",
-   "original_title": "Gateway Dredging Delivers With Liebherr LH 60 C",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbll6QVJPeEpZQ0lpZk8tR1ZXcmhMN1pfLVhDSUJqNGNLZkZ4ZW1xTlBzZFpUeksyUnh2dTZub2JseUJPYVNVS1ZlU0ZkSVRJUmdvVGo4eTA2cU5vNE5Mcmt1VWN1QjN4MHBrX3dPeVI4dDM1UTJxeU1RYmNyeWNMLUpEcExoRFpmX0ZPc3cyN0tvUlc4QWJoWUI2Sk4?oc=5",
-   "source": "Construction Equipment Guide",
-   "published": "2026-10-21T04:00+00:00",
-   "added": "2026-10-21T14:32+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "dredging",
-    "liebherr"
-   ],
-   "summary": "Gateway Dredging Delivers With Liebherr LH 60 C Construction Equipment Guide",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c882c17f7a7a",
-   "title": "India’s Coal Supply Challenge: Production, Transport and Demand",
-   "original_title": "India’s Coal Supply Challenge: Production, Transport and Demand",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnJYRzhaZDdka1I1ODhoZkNRNGhKR3lmNXF5S2pIUXJKRGk5dVloZm15T2hOTjRQcHRyU19Ca0dBMFU4bFRVXzFSRUVxa1oxMFpLZXVQZzlBYzlFMTlGTlF1ektCc1E3aUlxOWk3TU9YMFp6RUZOOW5LNElYNGUxTTNmQTdmbkFOQjVaN2N1bHh6c2FBdWpTbU9XZXpqaG5GNnVZ0gGoAUFVX3lxTE1kTURyeXV3cTN3TTZNY2pqSDdtWGVDU2hDbmkzZm9CeUQ1bURGXzE4UWx6VWhGblVuZ3pYcHdsSFJxOWlzOWpTeThBTTZ0WkFTZ29SVU9iWklSQzlqenY0N1pQVDBKc3N3YTZyalhzQjBzOUNLSWNHS214MTJ0LXZkekZiRlhJd3BtNk41OGdvX253QVRlYkVLXzdBZjhpa29YRTlWenNlMA?oc=5",
-   "source": "MarketExpress",
-   "published": "2026-10-21T03:51+00:00",
-   "added": "2026-10-22T05:35+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "India’s Coal Supply Challenge: Production, Transport and Demand MarketExpress",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6edb1b6fa2fc",
-   "title": "Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters",
-   "original_title": "Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcjVFMzNvSVFKTmJxRlFTVzVfdFRFaVh4a3ZBMXFXSnJZQUpzVjc0WFB5b01iTWQxWTJ3dXdZWFp3WHFuN1VzZmVSR00tLUZrbmhmbkI5b1RfWktPX1gyUkFYSE1ISTN6RUE4bi1qdzE5ellOTmh1cVZnMkxwT3BMaXZJbmNISk5CbXo2MDBCaw?oc=5",
-   "source": "Euromaidan Press",
-   "published": "2026-10-21T03:07+00:00",
-   "added": "2026-10-22T05:02+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus",
-    "Latin America"
-   ],
-   "tags": [
-    "diesel",
-    "russia",
-    "sanction",
-    "war"
-   ],
-   "summary": "Russia resumes diesel exports to Türkiye, Brazil, after Trump lifts sanctions on fuel supplies, boosting Moscow’s war revenue – Reuters Euromaidan Press",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b95543f34b95",
-   "title": "Nearshore vs Offshore Sourcing",
-   "original_title": "Nearshore vs Offshore Sourcing",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RTTBIWnRpS3FoNUlWVW95cGtfUkpiQU9rMW93UEpEa0pSY3JtNWtWUFJpeFJKUzBwNWJ4QkNPazR3NnQ0Zm5zdzZNMXNJbHNxNGZUS1VVYTN0cXRjSjFmUHZ5dGNiSHh5eGtWVnBYbzU3YXdtOVF0VVgwVQ?oc=5",
-   "source": "Global Sources",
-   "published": "2026-10-21T03:05+00:00",
-   "added": "2026-10-21T05:46+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "sourcing"
-   ],
-   "summary": "Nearshore vs Offshore Sourcing Global Sources",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
