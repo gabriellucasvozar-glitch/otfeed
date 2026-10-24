@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T09:08+00:00",
+ "generated_at": "2026-10-24T09:42+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -37,6 +37,44 @@
    ],
    "summary": "Trump says higher oil prices are ‘small price to pay’ to stop Iran’s nuclear ambitions Business Upturn",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0d0d16309e3d",
+   "title": "Ukraine is discussing with Poland and Slovakia the relocation of customs checks to protect grain trucks from Russian attacks",
+   "original_title": "Ukraine is discussing with Poland and Slovakia the relocation of customs checks to protect grain trucks from Russian attacks",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdUlUSG5fZVRKbklzSng1TVN2TF9ROHFvSlhrcTU3UEx4Y3Y0elJVODZiekdpRjhORGVQWFlOd29HWVFickhZdDZJbE1XYnRSaUZWZ2puS1pwNWUySlVpZzVzRk1vUUkwUjladjZ4WmN1SmttTTdROUtjX3VkVjBWb1NkTjFOUGtGSmU5RUpWd1Q3dFJQS1dfdEZhY3Z4ZnhQR2VpRFFkSEM?oc=5",
+   "source": "Informat.ro",
+   "published": "2026-10-24T07:12+00:00",
+   "added": "2026-10-24T09:42+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities",
+    "regulation",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 15,
+   "regions": [
+    "Poland",
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "attack",
+    "customs",
+    "grain",
+    "poland",
+    "relocat",
+    "russia",
+    "russian",
+    "ukraine"
+   ],
+   "summary": "Ukraine is discussing with Poland and Slovakia the relocation of customs checks to protect grain trucks from Russian attacks Informat.ro",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -202,6 +240,32 @@
    ],
    "summary": "Konecranes Q3 2026 Interim Results: Order Intake Down 12%, Net Sales Up 11.4% IndexBox",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b03051649de9",
+   "title": "Soaring tanker costs threaten to push up global oil prices: IEA",
+   "original_title": "Soaring tanker costs threaten to push up global oil prices: IEA",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd3IwOHBoREd3NGpRcUdwczhlQ05DQTlzY3lRX2t1dnpYRHF4YkFvQUNOU0JTZWdlR0FJNHVkc0hOQ3NnQkRhRUo1YnRVcEdNTG5fYzZTR2YtVG5VdzdZYzFrWFlLUExJa21JYm1BNWdYMC10eTI0Y0ZaMXhpdjF0VXllQzBOY0ZFRWZEbVB1a19CeThEZHBVQ1F4WkZQSjE3RnRZSHJyWXdkVktDRUlPZnRNZ1pKT2RPdXdwbE45OUpQZ0RQUW1ibHdRQ3I5UQ?oc=5",
+   "source": "Fibre2Fashion",
+   "published": "2026-10-24T03:57+00:00",
+   "added": "2026-10-24T09:42+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "oil price",
+    "prices"
+   ],
+   "summary": "Soaring tanker costs threaten to push up global oil prices: IEA Fibre2Fashion",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -1049,6 +1113,32 @@
    "summary": "By Yongchang Chin and Nathan Risser (Bloomberg) –US crude oil exports to Asia are set to hit multi-year lows after the Iran war disrupted global shipping and pushed the cost to lease a tanker for the Pacific journey to a record of almost $80 million. Asian refinery orders for US crude for delivery in November tumbled roughly 50% to 24 million to 26 million barrels this month sequentially, according to traders who asked for anonymity because they weren’t authorized to publicly comment. If that pace of orders holds through the end of this month, it would mark a seven-year low, based on ship-tracking data from Kpler and Vortexa. The tanker rate along the US Gulf Coast-to-China route has more than tripled since the US-Iran conflict erupted in late February to almost $60 million as of Thursday, according to Baltic Exchange figures. Those eye-watering rates doesn’t include the cost of the oil itself, which is trading around $100 a barrel. Tanker rates are so inflated that refiners are effectively spending $30 to $35 to haul each barrel of crude from the Gulf Coast to Asia, or as much as seven times what they shelled out last year, Hawkins said.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "1ead3bb45ae4",
+   "title": "Oil prices rise to highest since late April on Middle East fears",
+   "original_title": "Oil prices rise to highest since late April on Middle East fears",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjFBODQzZ01YdU1XcGEzMXJaSVFkbnFEWUVJbEUxdk5hcXhReWxRM0RrS1QyaGF2SHYzaWt0cEE2U3ZvNkh3aXVXVng5aXRlSXRPai00Umo5TG4tTUNPa3NnVGV1ZlJIODVYXzN6MWV6Skw5cWRIeTR1Zm1vTW1GbVYtY3p2RmwwMGFyc09EWXk3UldGV0JHM2w4MzF5aUV2MnN2TDVWdjhtdDY5TVJHbNIBvgFBVV95cUxQTFFRUWZHa250VGdpdzJUYTF3V3VhdEN0N2cyNXp4OG9iYnFoa0hRZEF5bFZEc2tIUHpPVTBmeWNGNjFhMFRiUVJMYjRUOWhQOEtZb3lRcUxkTkNfLTBqMVdvOExUSUZqZ2FRNmZzc1V2YlVlbzhRYUZ2OEdkTnhLbGVKMnZOZXVvTzFWbDI5eTFINEk1VmZzMnl1RkdoWVg1UWlWX2VvQTBpZWFLbDM0THBqcUFjaVEtUFNuYVNR?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-23T18:14+00:00",
+   "added": "2026-10-24T09:42+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "oil price",
+    "prices"
+   ],
+   "summary": "Oil prices rise to highest since late April on Middle East fears Baird Maritime",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "51d6fea362c3",
@@ -12429,6 +12519,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "7c01ee32b98a",
+   "title": "Oil prices climb on Middle East shipping risks and US stock draws",
+   "original_title": "Oil prices climb on Middle East shipping risks and US stock draws",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1FwZllXZG1MM2ZnNG9lYUQ3bU9PSW1SbmRoQUZudEs0eVhoVVBzYmNKUXFXVkF2OXRsaVh4Sk5mMmlla1Y4OWdWb2EyTEc2UzJHbjZnRlZGOUlwMHJ5RzNvUXpabW4yQnFqZjJXbDlrSnpoU0o3bktoQzJvbVhEXzR6cXotd2ZXV3UtS3Bn?oc=5",
+   "source": "Offshore Technology",
+   "published": "2026-10-21T13:28+00:00",
+   "added": "2026-10-24T09:42+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "oil price",
+    "prices",
+    "shipping"
+   ],
+   "summary": "Oil prices climb on Middle East shipping risks and US stock draws Offshore Technology",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "7e08f1176489",
    "title": "Brazil's Capricorn Corridor and Rail Projects Target Grain Export Logistics - News and Statistics",
    "original_title": "Brazil's Capricorn Corridor and Rail Projects Target Grain Export Logistics - News and Statistics",
@@ -16358,114 +16476,6 @@
    ],
    "summary": "Argentina plans to increase soybean crush and exports in 2026/27 UkrAgroConsult",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8b6fee6025fc",
-   "title": "Oil shipping costs surge sevenfold to over $20 a barrel amid Middle East war",
-   "original_title": "Oil shipping costs surge sevenfold to over $20 a barrel amid Middle East war",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeGRqVmRINHRBWXppdmdwSlA5TjVMVHc4dTFEcFA0QjRBYVoyUndySTF0SmtJb29uQXRXZU1LMlpiV1NEa3JLZGdiOXJweDFyY2NkT3dEa3VVNl93UU1STVV2bDNicFEzVUpWNzZQclU5Mk9JVnJsc3BuNUhQRUY5QVpvS29qSnhESnJzRFNmX1hjVXJKbWNGRUE0clZrMTF6ZmI0QUR1dEg1WTZpbXhCZzZZQW1aRlRndHNsaTl5U01TU0RranFPMjc1aDhHWC1sT3VkNnVSOWViOTA0cnp5dE9jNkFMQ3hIY3fSAfABQVVfeXFMTnJWSzFnQkQ2dzBTMXQ1ck94ZW5oU3ZvZjQwVE1EdnAzNVVNX1NhT19oNUZTMkFMRFBINkdtNURwVXd2bkNETFBqWWdUM3dUdkZqQnRQV2ZRM0J4YzEtZlBLNmhoSDUxTU5SYkJXNE9qT1IxRDdUU1owQ3djYzhuLWNPekJCVkVtTHpjYmMtaDBIVEUtODZDSmxtRjJKOWo2N3J6VEgyQ3duS0JtT3ZRVEhrU3RHMENSOTN1QjZabXlYM3E2b3UtZ1JSaWk5R3ZNclhGdS1mWXJhbExYUWF5bW5TRGtTY0dwdTZYQ3dFYjho?oc=5",
-   "source": "BusinessLine",
-   "published": "2026-10-21T04:48+00:00",
-   "added": "2026-10-21T05:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "shipping",
-    "war"
-   ],
-   "summary": "Oil shipping costs surge sevenfold to over $20 a barrel amid Middle East war BusinessLine",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "32eac143a2f0",
-   "title": "Ports Scale AI but Only 4% Show Measurable Earnings Gains | BCG-TIC4.0 Survey 2026 - News and Statistics",
-   "original_title": "Ports Scale AI but Only 4% Show Measurable Earnings Gains | BCG-TIC4.0 Survey 2026 - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa012ZUpNZEhldTI2Q0wwUVJ3TXZneHRhcjVJdUxRTTdhVDdoeGo3Wl90bE9VY3h3MVlGQUxlVm5FcHI4TEQ0a3FfWkxHMFMyTFRTU1FSQTBJRlIwMXpxR3NRN3pYZDVRYjNvS0g3bFU0M3RUTlNsRzR4YkYzZDJmMDZ4clVpOVhTYkhldjJEdHRiaHY0a2c?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-21T04:41+00:00",
-   "added": "2026-10-21T05:46+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Ports Scale AI but Only 4% Show Measurable Earnings Gains | BCG-TIC4.0 Survey 2026 - News and Statistics IndexBox",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5117c09c1b81",
-   "title": "Phil Hogan pitches FAO role with plan to revive Black Sea grain corridor",
-   "original_title": "Phil Hogan pitches FAO role with plan to revive Black Sea grain corridor",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTFYNm0ta0pUVmFjcUVKaHQyMDdwUDF0WGlTOGdaSFVVOFlJdUZNUS14X29EOVdnSFlrR05fc2ZMb1lkYU9NdEFsZDVqV3VuTjJ0X0V5ZTFLVGt6aHZWcVRlNnkzTFpyVEExRDZYekdDSWlOek5VRGtOb2tXaUJSVEkyWmRtZmwyN1hxMU5LVDdzTWUzejBFc3NkeXp0WVNhd2Rv?oc=5",
-   "source": "Traders Union",
-   "published": "2026-10-21T04:39+00:00",
-   "added": "2026-10-21T08:36+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "grain"
-   ],
-   "summary": "Phil Hogan pitches FAO role with plan to revive Black Sea grain corridor Traders Union",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d590b3f7c01a",
-   "title": "China can meet its own green hydrogen demand at much lower cost than Germany, Japan or the US: study",
-   "original_title": "China can meet its own green hydrogen demand at much lower cost than Germany, Japan or the US: study",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWjB0elI3V0tmWWdkbkk0MGlaSjFFUWYyOEdhc2JINXJRcHlUMzFsNVJWVGx0dEdTLTAtR3Z4QXd0bGNPRXJSemVLbXFCWUtvdGtKNUlyaV96QVVDM3M4TGpOVDZsLXE3bzFmUGhhM20zSVdsbUJaamJJMW92OHRXNW83b2lEWUREdzA0YWQ2NHJaMjZ5dTRaRWhBRzFXcmtndHBxT3hITkhmc2V5UmJydk9Sczg0aUR0UVNmYWFwWWl6c3RPdVdhZGE4ZnN0VUFtWUtqNVZ5U2JJQWctUFkwQS1NOA?oc=5",
-   "source": "Hydrogen Insight",
-   "published": "2026-10-21T04:22+00:00",
-   "added": "2026-10-21T10:32+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe",
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "hydrogen"
-   ],
-   "summary": "China can meet its own green hydrogen demand at much lower cost than Germany, Japan or the US: study Hydrogen Insight",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   }
  ]
