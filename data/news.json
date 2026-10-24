@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T19:40+00:00",
+ "generated_at": "2026-10-24T20:03+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "20c5f0c2b008",
+   "title": "BREAKING NEWS: China's mega TSHD Xin Hai Jing 1 delivered",
+   "original_title": "BREAKING NEWS: China's mega TSHD Xin Hai Jing 1 delivered",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWk4xT0RYbVlxbGZFVHJLLTd2cW5sRlNRRnZpSVFVbHB1RVdqOFhVSGtuOF9kM1pkS1BXSV9LYUd6M01fN3VhTkVlTi1lenJCMlRMemtRaU9CcFhBSVl2SEFoNWUwVlpieWdValF5elVmUFZCWkRzNVVMT3Vad2NudUJvZUttZDFuaDZ2LWZZU1M3MXVBNkFBWVViMEw?oc=5",
+   "source": "DredgingToday",
+   "published": "2026-10-24T18:09+00:00",
+   "added": "2026-10-24T20:03+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "dredging"
+   ],
+   "summary": "BREAKING NEWS: China's mega TSHD Xin Hai Jing 1 delivered DredgingToday",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "68a337b5389d",
    "title": "Latvia emerges as top-five country used to ship Russian grain, consultancy says",
@@ -2545,6 +2572,36 @@
    ],
    "summary": "Kazakh Foreign Minister Highlights Middle Corridor Potential at Central Asia-Georgia Meeting in Batumi The Astana Times",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "af3cf3a1173a",
+   "title": "Tanker Carrying Russian Diesel Signals U.S. Port After Trump-Putin Deal",
+   "original_title": "Tanker Carrying Russian Diesel Signals U.S. Port After Trump-Putin Deal",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkRQT3NXRk1GdlBLTnc0VnZMQXYtQkptNU4tbnUxWDBhN3BmazdyMUJ0V0VRWm5aNmJaM1VrWWp5WjIxTjlIZGJ4bnpZdl94U2xhV0lqUXQ5THoya3pleXZILW90SVRpblRiR1VvcnlKVHRjZ2ZtTklMaVhwci1ZMmlzdHlYZFc4a2FxaXUtamZqdUlhX1lyalVndTlFWFUyODR4QUFIUy1qWkJUSFRSVjRjTEZHNFhBbTlWeGhhTXY0Wk9lX1E?oc=5",
+   "source": "WSJ",
+   "published": "2026-10-23T12:20+00:00",
+   "added": "2026-10-24T20:03+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "port",
+    "russia",
+    "russian"
+   ],
+   "summary": "Tanker Carrying Russian Diesel Signals U.S. Port After Trump-Putin Deal WSJ",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16442,58 +16499,6 @@
    ],
    "summary": "McLaughlin & Harvey secures Dover port framework Port Strategy",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "274a87658387",
-   "title": "Switzerland inaugurates cross-border tram extension to France in €63 million investment",
-   "original_title": "Switzerland inaugurates cross-border tram extension to France in €63 million investment",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOVYxMXh1djhESHJ1WEpTeHp5N1ZmMVNaUzQxQ3AydGI3U1FHZGxvZDAzbk1QMG9taHY4SWUxUlVkb21vYjk3TFdQNHpWT0tBWmFndTliTG1LT1I4bExFVFh3MDdaYlBWaF9JRkZDNnNQWXdWRGJldnlpUjZqUEFpNnEwVnNfLVZ3ekFyOURfQ2lwM0cxOEZmNjdGdlk4c0VuN1FvVmg5amxGSkU2QlZiSFZNNEZjUXlrc3c?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-21T07:32+00:00",
-   "added": "2026-10-22T15:55+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "railway"
-   ],
-   "summary": "Switzerland inaugurates cross-border tram extension to France in €63 million investment Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "88d262fe12ce",
-   "title": "Exclusive: New UK ammonia venture nears subsidised hydrogen offtake deal",
-   "original_title": "Exclusive: New UK ammonia venture nears subsidised hydrogen offtake deal",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWxKWW1lM1VFVlV0YUpncmRRU3p1TVN6RFdPZm5BMjVvQ2RHNlY3SFl0RzM0MHZLTzc5SXhvbU5Va2tPbnJiMUYzdmhJTVpNcmdzTnFfdHFOMUhtblBPTDNaay1zY0NqRFVNdmphc2dDdkpfbzlWMEo0RXVid1RsMHZIT1gyX0VpcFJyaEt4VW5fdWhKLVpWSklkb0t4eHZxNFVmeVp4RVJXUEJ0dm5Samt4UFF2TDVmeHhv?oc=5",
-   "source": "gasworld",
-   "published": "2026-10-21T07:31+00:00",
-   "added": "2026-10-21T17:03+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "ammonia",
-    "hydrogen"
-   ],
-   "summary": "Exclusive: New UK ammonia venture nears subsidised hydrogen offtake deal gasworld",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
