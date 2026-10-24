@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T04:31+00:00",
+ "generated_at": "2026-10-24T05:05+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,31 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "635a10293097",
+   "title": "Middle Corridor offers new route for global trade, but can it deliver?",
+   "original_title": "Middle Corridor offers new route for global trade, but can it deliver?",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9aMjNhVnpYTmludXNQbEtLbGRtalZmcjRXZDVicGNwQktIRGFVMkxvU3BKMm5JYzh3OWpXMjM3TmtWOTZtd1Q4OHhGbTlmWmVnU3FNcnVpNA?oc=5",
+   "source": "AzerNews",
+   "published": "2026-10-24T04:30+00:00",
+   "added": "2026-10-24T05:05+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "Middle Corridor offers new route for global trade, but can it deliver? AzerNews",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "6ab717668652",
    "title": "Containerized Grain Route via Abkhazia to Turkey",
@@ -16445,32 +16470,6 @@
    ],
    "summary": "Shipping giant Cosco launches new routes to ride out Iran war, climate risks South China Morning Post",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6bfad58cc9e4",
-   "title": "BIR challenges EU scrap export rules over market access",
-   "original_title": "BIR challenges EU scrap export rules over market access",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYno0TFZKaEJnbXhRNWkzektvSzNzdE9GVW5DalItaFFGb0JvalAwek13a0ZNOW55TEprbjBvYXZMTnFiMG51UnlqbGFHX0U2MS13WlFMelJJbVBZemRPN0toa2NBRlR2Mkc4dzhkN0l5Uy1ncHdyMEM0N3BJV01kTmJUY3BnUHpNM0lYb0I5bmI?oc=5",
-   "source": "Yieh Corp.",
-   "published": "2026-10-21T01:57+00:00",
-   "added": "2026-10-21T08:36+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "scrap"
-   ],
-   "summary": "BIR challenges EU scrap export rules over market access Yieh Corp.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
