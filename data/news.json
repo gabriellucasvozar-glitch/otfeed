@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T10:46+00:00",
+ "generated_at": "2026-10-24T11:11+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,38 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "50e2c6629852",
+   "title": "Russia-Ukraine War Latest News: Moscow Overhauls Grain Export Strategy With 10,000-Ruble Price Floor and New Baltic, Caspian and Far Eastern Trade Corridors",
+   "original_title": "Russia-Ukraine War Latest News: Moscow Overhauls Grain Export Strategy With 10,000-Ruble Price Floor and New Baltic, Caspian and Far Eastern Trade Corridors",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQS0IxSmh1X0dqd3QxUUFHQkkyeWhyYVoyX3lzSTZJVzhhV2NILWgzNVBHbnFwY3VNa3RpZUtKNlFPdUJXalJJcU8zeUlVbEd2cjQzOVpPVjJUSEVkWjFmYkxXS0gzOXMyZ25VbE82SVh5bWlweXZnQ2lUYzRpRlB2QzVMQ1A3b0NrTXhheTRvV1Y2V1ZYbDdzMi1qbVlKdnJqc2UxX0l5TTAyekZUSEtObWxaQ01yRkota3kteEJSR19OazFIT3JLckZGSXpnODVjVzVSUDNSdzZCR2NzOTBWbWtMM2hBV1FjUUdLNGQwWFZEMGZKbjQtMHhNdDBHRG1yc2RpZE55dElUSVllZU9uNkV5UnVyR2RjRnQtUUIzQm1oQV9X?oc=5",
+   "source": "The Sunday Guardian",
+   "published": "2026-10-24T09:17+00:00",
+   "added": "2026-10-24T11:11+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Baltic & Nordics",
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "baltic",
+    "grain",
+    "russia",
+    "ukraine",
+    "war"
+   ],
+   "summary": "Russia-Ukraine War Latest News: Moscow Overhauls Grain Export Strategy With 10,000-Ruble Price Floor and New Baltic, Caspian and Far Eastern Trade Corridors The Sunday Guardian",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "7a70cf319364",
    "title": "Trump says higher oil prices are ‘small price to pay’ to stop Iran’s nuclear ambitions",
@@ -16455,32 +16487,6 @@
     "prices"
    ],
    "summary": "Oil prices little changed as traders assess Middle East developments CNBC",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "441124cae084",
-   "title": "Corn market outlook: higher US and Brazilian supply pressures prices — CMB News",
-   "original_title": "Corn market outlook: higher US and Brazilian supply pressures prices — CMB News",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVjFEcTV4cFowZ3d0Mm5pbEpOeUV1N1JJMzZnRmV5M1JuTXNwUm04Tzd2YVltalI1UHJON2JWcHJVdnNjN1JqNEpObHhmRTZiN3dmQmk3NkZUOGo4UThhRGdxSFJtMUdPMWVLU2l5RkF3UDhsWTlLQTJfZ3RoM0JVMWhJbUFjWnV0YnhmSFU4ZG43OUZsQm5uYWcxVVNncV96SFE?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-21T05:25+00:00",
-   "added": "2026-10-21T08:36+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "corn",
-    "prices"
-   ],
-   "summary": "Corn market outlook: higher US and Brazilian supply pressures prices — CMB News CMB News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
