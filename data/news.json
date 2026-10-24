@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T15:02+00:00",
+ "generated_at": "2026-10-24T15:33+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -1052,6 +1052,35 @@
    "summary": "The Indian ship recycling market continues to remain stable, supported by healthy local steel consumption and steady demand for recycled Source: Best Oasis Limited",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
+  },
+  {
+   "id": "e17b41062c4b",
+   "title": "40,000 tons of Russian diesel are bound for New York—due four days after Americans vote",
+   "original_title": "40,000 tons of Russian diesel are bound for New York—due four days after Americans vote",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb0NDOE1VV0VoVFlLOWhDQW00QXdvWkNyR0V3WVA0bndpNUFHTmJ5VjR1SHJ0ZXZyMWtHOWo2SDN6YkVzTDJwRlp4UmhXb1p2Z0Fkb2pKMmF0RWFxak9oYklTcXkxcDJOS0R5SmV0ek5OWWhsX3VEX2NQX09LU0VwWC1rTU1ienZENnFkNEo4T0ljYUFnZGpvVGtKMnBDaXBDVnhBelg1NV9yeG5qOTJ4VTI0TjlPMFZTM08zY05ISG5uOFoy?oc=5",
+   "source": "Euromaidan Press",
+   "published": "2026-10-23T20:58+00:00",
+   "added": "2026-10-24T15:33+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Russia & Belarus",
+    "North America"
+   ],
+   "tags": [
+    "diesel",
+    "russia",
+    "russian"
+   ],
+   "summary": "40,000 tons of Russian diesel are bound for New York—due four days after Americans vote Euromaidan Press",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "ca07fcee7dd7",
@@ -16462,32 +16491,6 @@
    ],
    "summary": "Port Polska wybrał inżyniera kontraktu do nadzoru dróg wokół lotniska Rynek Infrastruktury",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "252572bd6d8b",
-   "title": "Iron ore prices ease from two-week high while holding near $93 level",
-   "original_title": "Iron ore prices ease from two-week high while holding near $93 level",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSzN6TFc3MUNTa2VVT0JJbFlhTnJOMmthV1Bod0tzTnp0VzE1NVdNT2tfN0lHU1JhazhpekVSd09hZWkxUm93UlduMzJjWl8tSnBtR3N5aGdfTjVhMkN5bTR1VUdyVWx0ZUZNa2FfUFc0a2JYemVWZEkza0p2WjlXajNydlNrWF92NkJCRXRQd2h1YmhuTlZkeWk0QnpGQkM4?oc=5",
-   "source": "Yieh Corp.",
-   "published": "2026-10-21T06:37+00:00",
-   "added": "2026-10-22T03:50+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "iron ore",
-    "prices"
-   ],
-   "summary": "Iron ore prices ease from two-week high while holding near $93 level Yieh Corp.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
