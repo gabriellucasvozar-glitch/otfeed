@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T22:55+00:00",
+ "generated_at": "2026-10-25T23:21+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -989,6 +989,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "723dc99a1ba5",
+   "title": "Russia remains East Africa’s biggest supplier of Wheat",
+   "original_title": "Russia remains East Africa’s biggest supplier of Wheat",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOem8wVFdPZW9WWnZEbUFjTFU2OTFOYUVWQ0l3eXdVdGZxQzR1aEhDZlZJeWM3ZUx1ZFpxXzNiNkJOc1FfQ29pZWxXSk5GR0RMWEM4LWJwQVJYT2hESzRkMW0ta2w5NmE3QmFCUzJfWXp4bDU1UnQ2SUtHNzlDRmVQNWhyQXFPS28?oc=5",
+   "source": "The Tanzania Times",
+   "published": "2026-10-25T10:05+00:00",
+   "added": "2026-10-25T23:21+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Russia & Belarus",
+    "Africa"
+   ],
+   "tags": [
+    "russia",
+    "wheat"
+   ],
+   "summary": "Russia remains East Africa’s biggest supplier of Wheat The Tanzania Times",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "0fa4bf1f9085",
    "title": "Central Asian railway plans open new trade opportunities for Pakistan’s ports",
    "original_title": "Central Asian railway plans open new trade opportunities for Pakistan’s ports",
@@ -1205,6 +1233,31 @@
    ],
    "summary": "Pepco inwestuje w polską logistykę Rynek Infrastruktury",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b22396301221",
+   "title": "Terminal zbożowy w Gdyni wróci do pracy. Bruksela dała zielone światło po miesiącach przestoju - AgroNews - Wiadomości rolnicze",
+   "original_title": "Terminal zbożowy w Gdyni wróci do pracy. Bruksela dała zielone światło po miesiącach przestoju - AgroNews - Wiadomości rolnicze",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUndyX2dVQUJmNGRPZVVETDdqOGZZNnIxbzg4REZLNF83N0xqenk3ekF5V2ZrRTdROW1nN2FTcmhMMVN4eEZFMkZSVjg3ejAtS3VhSEh3eGlVbXEwTjFKN3RtZnk2eWh1eXVXQnRrcXgxRERxVGhxbmdhdU91YnVNSkFmSGtjMy12eFF6MS1KVXNLNm5sV0pjUzlLZ1IwSWhqLWpqQldiT09vSWxiN0gtbVBlUmJ3SGJSTk1pQlMta0dlSUF6?oc=5",
+   "source": "AgroNews - Wiadomości rolnicze - Ceny rolne",
+   "published": "2026-10-25T03:52+00:00",
+   "added": "2026-10-25T23:21+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Terminal zbożowy w Gdyni wróci do pracy. Bruksela dała zielone światło po miesiącach przestoju AgroNews - Wiadomości rolnicze - Ceny rolne",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -7004,6 +7057,32 @@
    ],
    "summary": "Three missing seafarers dead, 21 rescued after tanker attack off Oman Shipping Telegraph",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e36bbf32ad06",
+   "title": "U.S. shipping regulator weighs $200,000 fees for Spanish vessels",
+   "original_title": "U.S. shipping regulator weighs $200,000 fees for Spanish vessels",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXJmOUpBMENncnRBN1JXdzEtYV9lSzBibElYZUVIbjNjeXhsRDJQQWliN3hiS0RIaThWb1l1U0tzU3RPNk9LRUxsSHdpM0VJRWdZcml6aUNDYWRYSzRPeWRYZzI4Y0NpVzY5SzFYazc3VlBEME55NUVKRF9YYWFaQUNHd1Fya0NpQ0VoSUdCa0pCUTgwYzV0andKRkRqZ21Na0RvcFBuZUZiekRrZVlDWUdxdFVmNVk?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-10-23T07:00+00:00",
+   "added": "2026-10-25T23:21+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "shipping",
+    "vessel"
+   ],
+   "summary": "U.S. shipping regulator weighs $200,000 fees for Spanish vessels Shipping Telegraph",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -16451,85 +16530,6 @@
    ],
    "summary": "Farmers face Friday deadline for fertiliser aid worth up to €4,000 Irish Farmers Journal",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6556d60bd500",
-   "title": "Port of Rijeka: AGCT at 4 million TEUs since 2011",
-   "original_title": "Port of Rijeka: AGCT at 4 million TEUs since 2011",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMGMyMzliMHhLYjQ4ODlYeEFWQURCR0tlS0dRZmVIQUFndFpBSW9hX1I0ZzBCSElZZ1U2SlNfbDBoMEZLS3Vud2R3YW1KRTR6YmZYTWM5VF9hd1FFQWFMdW92YTFJaXZ6M3d0dVB4cEhTdGZKc1NFSDg4czNQN2NLcHJyVVpIbTlxYzF1MHZYVklHeUU?oc=5",
-   "source": "AdriaPorts",
-   "published": "2026-10-21T12:21+00:00",
-   "added": "2026-10-22T08:31+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "port",
-    "teu"
-   ],
-   "summary": "Port of Rijeka: AGCT at 4 million TEUs since 2011 AdriaPorts",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "14343f1e7575",
-   "title": "Największy port Ro-Ro w Skandynawii notuje wzrosty",
-   "original_title": "Największy port Ro-Ro w Skandynawii notuje wzrosty",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2RZUU90aEl2cEJtWmdMMUpsaVdCc0FmU1N5dE0ydXBlMkI3VHozeWtDMUlLa25nRGN6eUc1UkY2LWw4SjN3NDcxZHdJbk1IZlYwSTVKZUFCZVh1Rl80ZlFqc1RReVY2UUIxTkdtNFdPNUE4UWViRUlfYjVlbWkwUkRhSTVSWFF0UmpNMjlFa3JLUQ?oc=5",
-   "source": "GospodarkaMorska.pl",
-   "published": "2026-10-21T12:18+00:00",
-   "added": "2026-10-21T18:10+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ro-ro"
-   ],
-   "summary": "Największy port Ro-Ro w Skandynawii notuje wzrosty GospodarkaMorska.pl",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6e885d3b97a2",
-   "title": "Vopak secures New South Wales government backing for Port Botany expansion plans",
-   "original_title": "Vopak secures New South Wales government backing for Port Botany expansion plans",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVU5RUhocTJpR3FJRmNVVC1MNTVaVXkxOVB2RjQ3VkVKRHpOMzRwQnROQ0cyRU9YcEFSY1VKVGhFTnNiSUZTZDdFS3lvQ21GeTQ3OGE4OHVQdmlGWUx2UDM0Qlg0QUxBV0htSGM4SDJmWmVSRjBnbXR6QU1vd1JickxxejNKdlI1dFprSWhGem5zckdqQW16Xzk0UV94Sjh0RFhPdXYwSDJUUzVUczYwaUZ4cw?oc=5",
-   "source": "Oils & Fats International",
-   "published": "2026-10-21T12:12+00:00",
-   "added": "2026-10-21T12:17+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Vopak secures New South Wales government backing for Port Botany expansion plans Oils & Fats International",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
