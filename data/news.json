@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T11:09+00:00",
+ "generated_at": "2026-10-25T11:43+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,61 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "0fa4bf1f9085",
+   "title": "Central Asian railway plans open new trade opportunities for Pakistan’s ports",
+   "original_title": "Central Asian railway plans open new trade opportunities for Pakistan’s ports",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVZXZ3hEd19xNGl3X2NyekpaYXBmUUZrNzhWTUNTV2t4X1BWX3RaRmpQT253NnZYRmV6amtzZllGVEI2cHJuQzNReUdJZFhleWlUbGt6Z1ZJT1FLZ1gxbUhvVXJ4M21NQ2p0ZGVVVDllZDFYM3VfRWtBSkhrSjBfYUtLQUV5ZmVZelJrazl1THdhdDNlUmFvbXc5Z0xvR3RQR3lXV3RrRDhQQ3NkTXl3dQ?oc=5",
+   "source": "The Nation (Pakistan )",
+   "published": "2026-10-25T09:55+00:00",
+   "added": "2026-10-25T11:43+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "railway"
+   ],
+   "summary": "Central Asian railway plans open new trade opportunities for Pakistan’s ports The Nation (Pakistan )",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a49030beee43",
+   "title": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions",
+   "original_title": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNkJCUnJ0UGhBRDNCcWRtN1QzR2h5eEl4TEoxWGVaaVowMXA5NWxtM19jYnA5OUtYanNlZTloLUM2VFZTenhiazU5M1VjWU1vM2JXVTM4bUd6NG9FMnlQMWlDRVpWalJIQTY0V2c0QS1KeWdtQVFHa184aW56NEdGMWdPNi1kLUM5eW1YU0xJLU83ZkFWd1E?oc=5",
+   "source": "EnergyNow.com",
+   "published": "2026-10-25T09:30+00:00",
+   "added": "2026-10-25T11:43+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "commodities",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "disruption",
+    "oil price"
+   ],
+   "summary": "Banks Hike Oil Price Forecasts on Prolonged Gulf Disruptions EnergyNow.com",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "7f1cfc6ccefb",
    "title": "Gdynia reactivates grain terminal under interim operator",
@@ -340,6 +395,34 @@
     "russian"
    ],
    "summary": "Latvia emerges as top-five country used to ship Russian grain, consultancy says Arab News PK",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "16b1a35bbd97",
+   "title": "Attacks on commercial shipping in strait of Hormuz hit record high in October | Gulf Times",
+   "original_title": "Attacks on commercial shipping in strait of Hormuz hit record high in October | Gulf Times",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUERSRXNteW5ZS3EzNDRCRGRpT3FHTzZTQzA0cmhLVGVTUEF3N0dDXzNIUDBRZ3dxOUpucVBnMlVxNnUtamJ2Wkotc2FyZ3ozc1JPSUQ3eUZJNHJrUXhaVFZZajBBSkdXTy1Ua2ZHMmV4U0tDRnhINjhseE9VcW10M3VPb2ttOXl2bG9zRUVoaU9aRUpiVjdFcGRyR19yZl8zbkRFTmtPSExRazgtT0F4WnhTU00wa1NNclF4VW8yVnRkV2Y0MkotWHgzMGPSAcwBQVVfeXFMTVBEUkVzbXluWUtxMzQ0QkRkaU9xR082U0MwNHJoS1RlU1BBdzdHQ18zSFAwUWd3cTlKbnFQZzJVcTZ1LWpidlpKLXNhcmd6M3NST0lEN3lGSTRya1F4WlRWWWowQUpHV08tVGtmRzJleFNLQ0Z4SDY4bHhPVXFtdDN1T29rbTl5dmxvc0VFaGlPWkVKYlY3RXBkckdfcmZfM25ERU5rT0hMUWs4LU9BeFp4U1NNMGtTTXJReFVvMlZ0ZFdmNDJKLVh4MzBj?oc=5",
+   "source": "Gulf Times",
+   "published": "2026-10-24T16:25+00:00",
+   "added": "2026-10-25T11:43+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Attacks on commercial shipping in strait of Hormuz hit record high in October | Gulf Times Gulf Times",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -5912,6 +5995,36 @@
    "summary_method": "feed"
   },
   {
+   "id": "ecc2c4d1cd9a",
+   "title": "Oil prices hit five-month high as Houthi attacks raise Middle East supply concerns",
+   "original_title": "Oil prices hit five-month high as Houthi attacks raise Middle East supply concerns",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYWFObTRSWFhBUlNNMVBKZnE4Q2dINzR5SW5hN1NHQVZoMzRrcmJlbjl6SUhYZ1lhdHd4U0h1dmhkQnJ4bDRYRTI3eFA3b2xXRmxrYTM4NmFyTnd1TWp3aklNc0o2OXEwYVBLMlBMNUVrSU5HM3N4ZnZ2MGNlS3pjNEJyYzdnVVN3TC1fTmRhUkNZTVkyeUxxYXNwbkI4YXpUSkJMSV9PMnV0Xzg5SThqcE1VeHZmbTZtdjJzSGVNTXRYb0Y5MjExLQ?oc=5",
+   "source": "Profit by Pakistan Today",
+   "published": "2026-10-23T05:54+00:00",
+   "added": "2026-10-25T11:43+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "attack",
+    "houthi",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Oil prices hit five-month high as Houthi attacks raise Middle East supply concerns Profit by Pakistan Today",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "2f867e2e72f6",
    "title": "Kolej z prędkością do 200 km/h i 330 km nowych tras. Przedstawiono plan dla regionu",
    "original_title": "Kolej z prędkością do 200 km/h i 330 km nowych tras. Przedstawiono plan dla regionu",
@@ -7375,6 +7488,33 @@
     "terminal"
    ],
    "summary": "Will foreign firms run all four Chattogram port terminals? The Daily Star",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f95abce06ddc",
+   "title": "Port Security and Trade Continuity: A New Formula for Saudi Competitiveness - ASHARQ AL-AWSAT English",
+   "original_title": "Port Security and Trade Continuity: A New Formula for Saudi Competitiveness - ASHARQ AL-AWSAT English",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHRkNFYxdng3R1I2aTY4dm5zak1FZWp4Uml5M3VLNXNHYTBpU3V0UVN1ZE5MT1VNVllzdTVrMF80dVJvRHgtRDd3OGRvcnhVTFZJNUs5ZnA1NzZsQm82dXRUV0R1aEpHbHdBckJDY0xsaTRoRWtGOUxVMnVUTzFBQkxPRm14OEZqcVpJcTViN2dqV2QwOW00V0tlVVAwR3FEQWNSUHBEeEwzb3BMOHNhRU9R?oc=5",
+   "source": "ASHARQ AL-AWSAT English",
+   "published": "2026-10-22T17:13+00:00",
+   "added": "2026-10-25T11:43+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "port",
+    "security"
+   ],
+   "summary": "Port Security and Trade Continuity: A New Formula for Saudi Competitiveness ASHARQ AL-AWSAT English",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -16382,133 +16522,6 @@
    ],
    "summary": "New Airport Terminal In Leh Set To Boost Passenger Capacity To 35 Lakh Travel and Leisure Asia",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4bc8a5b93ab1",
-   "title": "Essar Ports secures LoA for ₹2,276 crore Tuna Tekra terminal project at Kandla",
-   "original_title": "Essar Ports secures LoA for ₹2,276 crore Tuna Tekra terminal project at Kandla",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdmdFX1liWHVSYVRvSjhqMWplWWotUkRHNXB3bTlQR2hzUHFLQnN6TG5uaVFVTVBjUUZFbGt3LUkyamVodW9GVFdaYnZvaWtRT2VEUldfQTctcUdkRlpXT2xvR2ZZLVV6a1pxR0phUkVaSEV1eDRiTWxGMXctV1QtSWtQcTBNWkJLdXllUkhKelZPanZxRUtwc2FWTEFRYlFQeTJyRXRoT0VnT1hUT0NZaFlFSndzdjc1cV9XWGtadmRTWjhwMlFOWGJpdTc1MF94MHNMZU1XNEFGOWt6TzkxM3RyX0RJaVFR0gHoAUFVX3lxTE52Z0VfWWJYdVJhVG9KOGoxamVZai1SREc1cHdtOVBHaHNQcUtCc3pMbm5pUVVNUGNRRkVsa3ctSTJqZWh1b0ZUV1pidm9pa1FPZURSV19BNy1xR2RGWldPbG9HZlktVXprWnFHSmFSRVpIRXV4NGJNbEYxdy1XVC1Ja1BxME1aQkt1eWVSSEp6Vk9qdnFFS3BzYVZMQVFiUVB5MnJFdGhPRWdPWFRPQ1loWUVKd3N2NzVxX1dYa1p2ZFNaOHAyUU5YYml1NzUwX3gwc0xlTVc0QUY5a3pPOTEzdHJfRElpUVE?oc=5",
-   "source": "ET Infra",
-   "published": "2026-10-21T09:31+00:00",
-   "added": "2026-10-21T15:51+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "terminal"
-   ],
-   "summary": "Essar Ports secures LoA for ₹2,276 crore Tuna Tekra terminal project at Kandla ET Infra",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "120c19019e91",
-   "title": "Combiconnect inaugurates Barcelona terminal",
-   "original_title": "Combiconnect inaugurates Barcelona terminal",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJMkxlSkJUTWREYS1RWnVWVGZDbHU2LWZSaV9MYktXRHBMM2ZPOFFvTnpOY0h6bjUtT25FOUxuNVZ0dGhIemstbDlfaHNLZVd5U2NwakFDSUhMOGxLWE0yVUhtV3ZLVDJpVzN0akxRb2U5QnBtcmttZW50SVo?oc=5",
-   "source": "Ship2Shore",
-   "published": "2026-10-21T09:30+00:00",
-   "added": "2026-10-22T23:00+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Combiconnect inaugurates Barcelona terminal Ship2Shore",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "59e65842d8d4",
-   "title": "Green steel production in Europe requires a unified energy strategy – Saarstahl",
-   "original_title": "Green steel production in Europe requires a unified energy strategy – Saarstahl",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcndqeHMwRHczUzBLc1UwZENHY011b2RpR28weWNIWWlLbUhGeHRUb1RKU2pjMUVIeGgtbUVTdTd3SmxZVDViMWRMX3JYRlZmekk1cXpQRFdrdlFkbWlFVjNrYk5RTWtwSGNFUFczU2hMSGdCSFF0UGZ2S1JsMTBCTGpGMXcxYjZYUWtLVHdna3VLZ3d6Z1JmZERhUTVFUF9iYU4wYzRKVm_SAa4BQVVfeXFMTkhKb1lMRUFxcTM2QkppaEt4VEI0bU1EOFJiYkNyV1dNRkpobUJWbXkzTml3QWNOVjE0YnZhRFluSjcwM2hPb3J4bmZiZzB4MUVFeGRGLXJYeVN2UmFobmpraUF0azJYNjhUb1B0TjdqZmh1bTlYSnVDMEdBdnhMODJhUnJTU01xTzNlczZrdEFETzhOQXBCZExsRkpVdkJPbU5qd01nWTZ0cmdWZVhB?oc=5",
-   "source": "GMK Center",
-   "published": "2026-10-21T09:21+00:00",
-   "added": "2026-10-21T11:09+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "Green steel production in Europe requires a unified energy strategy – Saarstahl GMK Center",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2abf9672ab23",
-   "title": "TRACECA outlines key conditions for freight transport growth via Middle Corridor",
-   "original_title": "TRACECA outlines key conditions for freight transport growth via Middle Corridor",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVjdvNzYteEJZaUhIUnBvUDRBZkRtUXBucVMzcElrbDNkSF9NTkM3TnBZVFd2aHJZS3puczhkUUZjTVBkOGI1WWpQRHNibmlPRFpUd2NKZFVsQ0tZZHdlemNWSmpPQ1NyRDZjVDhCei1IZDRQTU53VVRUekYySC1ZazRidTUtS01LZjNmU1pCV3p6Wktrdng1UFpKbGZPcmVGVGZZQVFMUXhfdV9sdkpSVkVOakdsZlE?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-21T09:16+00:00",
-   "added": "2026-10-21T09:55+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "TRACECA outlines key conditions for freight transport growth via Middle Corridor Report.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4b625cab10a9",
-   "title": "EBRD intends to increase investment in maritime transport along Middle Corridor route",
-   "original_title": "EBRD intends to increase investment in maritime transport along Middle Corridor route",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQejFSNzB2cnpwdU94cW5xWU1LUnVLOXA1TW5iVkpyUHJOMjhfd0cwZXhmVGhtZGtvam9NMTRkSWNKd2dfU0t4SE1IZXMzRXJFeVFmRVcyVmI4OVJqeU94Tll1dXRuWGpYc1lKeUhGZ3IwN2FEVmlJRUFFcTREN3V4cEg5Rkg2U29WV0JoS2J3YzFxd2RVWW1wOU83akVnaEpEbFEyb1N0SUx0LUc5QTFnd0F1cVRvTFlXa3hCb25n?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-21T09:15+00:00",
-   "added": "2026-10-21T09:55+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "EBRD intends to increase investment in maritime transport along Middle Corridor route Report.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
