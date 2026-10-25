@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T14:58+00:00",
+ "generated_at": "2026-10-25T15:29+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -6103,6 +6103,34 @@
    ],
    "summary": "Rapeseed market update: MATIF flat, ICE canola rebounds, UA basis eases — CMB News CMB News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f9b9661ed7fd",
+   "title": "US blockade enters 100th day as Iran accelerates vessel attacks",
+   "original_title": "US blockade enters 100th day as Iran accelerates vessel attacks",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYnhkR3FpbjBwZVRKcEs4MzVBWkVoYUM1cFpDNjZYdzM2b3JSTWQwWHdmdFNkaFZ4TnNsZmNIdFoxWTBCMzVIenY5eXhWTkZxalE4ZnJBakZqRGVOWGlWaFRnS2RGbEdUcjFvT0M3STJZZEk1NGRzbm11YzIxT1lVM2xxbTFDU0JZOWg1eFVYMi1ZNjdwdlZHTWduaDlucENnR2JWVWZYaw?oc=5",
+   "source": "Logistics Middle East",
+   "published": "2026-10-23T06:29+00:00",
+   "added": "2026-10-25T15:29+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "logistics",
+    "vessel"
+   ],
+   "summary": "US blockade enters 100th day as Iran accelerates vessel attacks Logistics Middle East",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16495,34 +16523,6 @@
    ],
    "summary": "Saudi Aramco has sold a larger volume of high-sulphur fuel oil for November loading through a tender process compared to the previous month, according to trade sources. The state oil company offered eight HSFO cargoes for November loading on a free-on-board basis, up from six cargoes offered for October loading. Five cargoes are set to load from Jubail, while the remaining three will load from Ras Tanura. Source: Investing.com",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a7ec38bc15f2",
-   "title": "US Natgas Prices Edge Higher",
-   "original_title": "US Natgas Prices Edge Higher",
-   "url": "https://www.hellenicshippingnews.com/us-natgas-prices-edge-higher/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-21T10:00+00:00",
-   "added": "2026-10-21T10:32+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "lng",
-    "prices",
-    "terminal"
-   ],
-   "summary": "US natural gas prices edged up to $2.97 per MMBtu on Wednesday, attempting to rebound from a four-week low hit in the previous session, as improving LNG export activity and reduced output partly offset weak demand due to mild weather. Average gas flows to the nine major US LNG export terminals rose to 18.2 bcfd so far in October from 17.9 bcfd in September. Meanwhile, gas production across the Lower 48 states averaged 111.4 bcfd this month, down from record highs of 113.3 bcfd in August and September. The storage surplus also continued to shrink, with inventories as of October 9 standing 3.9% below year-earlier levels and just 1.3% above the five-year average. Meanwhile, mild temperatures are expected to persist through late October, curbing both heating and cooling demand, while expectations of a “Super El Niño” further weigh on the winter demand outlook. Source: Trading Economics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
   }
  ]
