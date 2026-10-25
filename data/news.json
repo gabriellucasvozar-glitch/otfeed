@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T07:24+00:00",
+ "generated_at": "2026-10-25T08:00+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "7f1cfc6ccefb",
+   "title": "Gdynia reactivates grain terminal under interim operator",
+   "original_title": "Gdynia reactivates grain terminal under interim operator",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmtnS3VtdllXMGstN1VRd0lXLVpjUmxIS1A3cU9wQjEweV9hRTFEdUwwcWVYUEgxQkNwczBjR1FEN3daSHJ2YTY3WWVLckZfRkpGRi00NHRnbjhHQVJPQno5Q3lxVFNKeDQtdGlRTFBXQWFCNi1CVjdyUnd5bVJwdFJZdF95dw?oc=5",
+   "source": "Splash247",
+   "published": "2026-10-25T07:59+00:00",
+   "added": "2026-10-25T08:00+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gdynia",
+    "grain",
+    "terminal"
+   ],
+   "summary": "Gdynia reactivates grain terminal under interim operator Splash247",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports. Involves a Polish port.",
+   "summary_method": "feed"
+  },
   {
    "id": "0acc51bf4c47",
    "title": "Black Sea shipping risks surpass Gulf as attacks kill more sailors",
@@ -15264,6 +15293,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "9deb783a2ffc",
+   "title": "Australia’s IFM strikes deal for majority stake in Associated British Ports",
+   "original_title": "Australia’s IFM strikes deal for majority stake in Associated British Ports",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM25xVUJ4aFlyS1Jfd2daTnhLalpNb1BZYlNONXZrbTg5YkZycGc3VklZcDEwYlExSHBldDBocnRpZUNpUUF0a2x2bzhfS2g0elBPSTVnS3VZbHpSLWlOTFBFam9GVjRCZE8teUdjaEdOM0JRTllZZWJVaFJCQzUtZVozOU1hektSYzVHdk9SM0J2WE40Y1JSeFhhLTVra2VZNE1WbkVRdUNMeG5HcExNb1JSc3MtQzI5d2VR?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-21T10:39+00:00",
+   "added": "2026-10-25T08:00+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe",
+    "Oceania"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "stake"
+   ],
+   "summary": "Australia’s IFM strikes deal for majority stake in Associated British Ports WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "963efad0f773",
    "title": "Interest in Middle Corridor’s future use remains significant – EU",
    "original_title": "Interest in Middle Corridor’s future use remains significant – EU",
@@ -16446,58 +16504,6 @@
    ],
    "summary": "Ports Move AI From Pilot to Operations as Proof of Value Lags Global Trade Magazine",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "159739d19ca9",
-   "title": "Simandou iron ore volumes to boost bulker markets, Fearnleys says",
-   "original_title": "Simandou iron ore volumes to boost bulker markets, Fearnleys says",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFc2b08zT25vTnlXRXlNbFJPa2ZxX1ZjcWhPd1NjUEpTdHJwR29IT08xT2RSQVROeFNkb2x1b0l2aGVvWng0aE5wQm5KdDlJWENKTWFrQ0JaVk5wTlF2RzdSOXVnQkx6SHlqLXBLcERRSUNRV1hOajR3em40UlJzVHhmWjJFWU1QM0k5bVJzbDdGUFFxWUxqX3IxSk92Yk9FaG1temUxYmJwVzhVRlVxSUpRMGpYQQ?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-10-21T09:11+00:00",
-   "added": "2026-10-21T13:55+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bulker",
-    "iron ore"
-   ],
-   "summary": "Simandou iron ore volumes to boost bulker markets, Fearnleys says TradeWinds News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "42763026ca6f",
-   "title": "EBRD urges Middle Corridor shift to economic corridor",
-   "original_title": "EBRD urges Middle Corridor shift to economic corridor",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wN3NJeEtZa2JCZ2IxRm4tdDRSRlhFc3dYaE1pdEctMDk4SWdXT01CLWFkcy0tY3ZkMGVFamxUcU02VGFNaFZhWTRLd2hENGU2bzJMaQ?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-21T09:07+00:00",
-   "added": "2026-10-21T15:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "EBRD urges Middle Corridor shift to economic corridor Trend News Agency",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
