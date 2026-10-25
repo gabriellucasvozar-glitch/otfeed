@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T12:51+00:00",
+ "generated_at": "2026-10-25T13:24+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "51de7f7c90eb",
+   "title": "Norway arms itself against Russia. South Korean missiles and Russian coal",
+   "original_title": "Norway arms itself against Russia. South Korean missiles and Russian coal",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTHNOZDB2OXFxai1ZTEQyY3hnNFpQdmc1bnFCTXNJYzE2THNNR1FRQmVNMUJJdm9jMDc0a2VweXpiMGwzdVBvdUNUREFIQWtfaWFsRUMyWGhsZ0R4OVdRdl9kbmI3cTRzREpUbm5KR3FrWWpPd3FjXzBJMVR6MVQ1WHhaTHlFSEVNOFVLaVFZeU1CejUydUMtOUU1eE82ZmxyRGdQNDc2endnbkxRbmc?oc=5",
+   "source": "Defence24.com",
+   "published": "2026-10-25T13:00+00:00",
+   "added": "2026-10-25T13:24+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "coal",
+    "defence",
+    "russia",
+    "russian"
+   ],
+   "summary": "Norway arms itself against Russia. South Korean missiles and Russian coal Defence24.com",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "afbd21da03bd",
+   "title": "Szczeciński port otwiera się na nowe możliwości",
+   "original_title": "Szczeciński port otwiera się na nowe możliwości",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejQxV0FVT3B0VHdHdnY5dkZwYzE1Z0w1TVQxY1FmLU5xVHVfVUF5NXJJMV8tWnQ1TUY0NkVGSDlZWWh6bGdTLXo5a0gtRHBKZ2k5UUdMNVZyODgzYTQyOV9lUGpKOFBLVTlGQ3lXVE85NGJFdE1KVVM4Z3NQU3JhS2YyRWR3ZU90bXlzbVZNaUQyYzZJVWc?oc=5",
+   "source": "Kurier Szczeciński",
+   "published": "2026-10-25T11:57+00:00",
+   "added": "2026-10-25T13:24+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "high",
+   "score": 8,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "port",
+    "szczecin"
+   ],
+   "summary": "Szczeciński port otwiera się na nowe możliwości Kurier Szczeciński",
+   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
   {
    "id": "904f095b6b78",
    "title": "Black Sea war enters a new phase of escalation, threatening global grain supplies",
@@ -39,6 +96,31 @@
    ],
    "summary": "Black Sea war enters a new phase of escalation, threatening global grain supplies UkrAgroConsult",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8585f3cf1f2c",
+   "title": "Europe may struggle to meet wheat demand from MENA countries",
+   "original_title": "Europe may struggle to meet wheat demand from MENA countries",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQk1MaFV0LXFkTTYzU0ZleXJWMnZEWEpMTms2SWZTay1LUEdjWnliVmFpQzYtRHc4RExQc1k4RV93aTY4XzJFc0Y1MkhGc0RkLUtZallyY3pVT21EZUxMczNWRkFFZlNodGI2OFJOTzhuclZSX0RnYlJacHhkeG52bmpMMDhfV3NCbDlnT1l3M2lCcVhrTmdPZUQ5YTg?oc=5",
+   "source": "UkrAgroConsult",
+   "published": "2026-10-25T10:42+00:00",
+   "added": "2026-10-25T13:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "wheat"
+   ],
+   "summary": "Europe may struggle to meet wheat demand from MENA countries UkrAgroConsult",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -5765,6 +5847,33 @@
    ],
    "summary": "Corn sends up red flags for rest of grain complex Farm Progress",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3c7fccb770cc",
+   "title": "Three missing seafarers dead, 21 rescued after tanker attack off Oman",
+   "original_title": "Three missing seafarers dead, 21 rescued after tanker attack off Oman",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeklSU1IzWENyVnB6QVM0enRxSjdHWHdBT28zT1ZGRUF5cF9yVGpFMUpGeVhDZFhmZjBSMUdWTnA3RnA2aGIxNklfbTJfWW8tcDhDS0N3U0xRcE1sMGJFWEJGckJpcm9TVUlDUTdBYnpmQkZLMXc0MFpxeEFVMDV0U2x5aWJZdXc0OFpUb2RSV0dTTHA2aWcxRGo0aWRTTzVLN29iSG5SUS1nZE5ZSHh1dlZIR0JsLURaTGZHbQ?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-10-23T07:00+00:00",
+   "added": "2026-10-25T13:24+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "shipping"
+   ],
+   "summary": "Three missing seafarers dead, 21 rescued after tanker attack off Oman Shipping Telegraph",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16411,116 +16520,6 @@
    "summary": "Revised rules on the transport of live animals by sea are being negotiated in the EU. Danish Shipping wants to ensure good animal welfare, seafarer safety and a level playing field for everyone transporting animals by sea in the EU. EU Member States are making progress in negotiations on new rules for the transport of live animals. The aim should be to improve animal welfare, prevent accidents, ensure fair competition and help raise international standards for the transport of live animals. Three years on, the European Commission’s proposal for new rules on the transport of live animals is still under consideration in the European Parliament and the Council. This will improve animal welfare and increase safety for the seafarers working on board Nina Porst, Executive Director of Sustainable Ships and Skills at Danish Shipping A 2025 study by the European Parliamentary Research Service highlights, among other things, persistent problems that may affect animal welfare. A central demand is that all ships authorised to transport live animals from the EU should meet high and comparable standards for both the vessel itself and its arrangements for carrying animals, regardless of the flag they fly. This will improve animal welfare and increase safety for the seafarers working on board.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "efcc51b72d9c",
-   "title": "Middle Corridor should turn into economic ecosystem - EU",
-   "original_title": "Middle Corridor should turn into economic ecosystem - EU",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fTGF5N3JjS1ZNV0pkcXhzSXVCel9EcUhsSFpiTlJTTHVZS0thLUNRV3NwWTllUjhfdXVHc0RSdXk0OXlPd1pvRFZXb2VYbXd5MXNLeUxKSQ?oc=5",
-   "source": "www.trend.az",
-   "published": "2026-10-21T09:54+00:00",
-   "added": "2026-10-21T09:55+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "EU institutions",
-    "Asia"
-   ],
-   "tags": [
-    "eu ",
-    "middle corridor"
-   ],
-   "summary": "Middle Corridor should turn into economic ecosystem - EU www.trend.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fa247e4bcde8",
-   "title": "Elmir Poladov: Transportation via Middle Corridor depends on capacity of Caspian Sea",
-   "original_title": "Elmir Poladov: Transportation via Middle Corridor depends on capacity of Caspian Sea",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWRsUllPWDhwRGt6a25VZTAyWHBOeE9fZ1ZTZHJaX0Zia0Z4WGxTWE45dC1EOFdQTzY5QW1WejRtbGNmSndGdmlFSFNIcEhnbVNQUFhuVm0zY1hralh5Q0xXQkUtbmZna3RWWmVNWEpybGxhdU5QbHUzcjhOM0NqbWJlMFBzTWk4SzU5Qm9sSWRiME5MYXZ5Z1NNNDZIY0dKX0FXWFhnME93MkJ2RkdCbFVPVHdUU3hwREp3?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-21T09:52+00:00",
-   "added": "2026-10-21T09:55+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Elmir Poladov: Transportation via Middle Corridor depends on capacity of Caspian Sea Report.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a278ac8fffbd",
-   "title": "Turkmenbashi needs container terminal for China transit - U.F.E. Shipping",
-   "original_title": "Turkmenbashi needs container terminal for China transit - U.F.E. Shipping",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoTVk3d3ZYSVBUY0oxdmo4RTJIUVdjX1ZzaDliUWpkcGstdlB6WVNTUnFzOVF6OWRKVW1qTnp2dmNRS2VpaERMM3l1MUJ4Qk55d1NqQTl1NA?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-21T09:51+00:00",
-   "added": "2026-10-21T13:11+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "container terminal",
-    "shipping",
-    "terminal"
-   ],
-   "summary": "Turkmenbashi needs container terminal for China transit - U.F.E. Shipping Trend News Agency",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b32e41eb493f",
-   "title": "China: Iron ore spot prices remain flat d-o-d amid cautious buying",
-   "original_title": "China: Iron ore spot prices remain flat d-o-d amid cautious buying",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHpieHNJZExETXNEbzI2ZGhQenk4LWNOdlNobWt6eVNMY0lMUnJ1dEVISVMyTGNaNThCZUdoR0hTbTBBYlc0ZVg4MFBoZXlXX29vY2hKaEFkM1BCOHNCc1RibmhWOGJvYjNfenBKUXNaV2FoUTRJNGN2aWdyWFBaTVo3YlQ0M3dNaDNTbENjZ1V4VzB3QjVZZnRyc211RUxzVDhCQTZtMnNqZnFIb243Yw?oc=5",
-   "source": "BigMint",
-   "published": "2026-10-21T09:50+00:00",
-   "added": "2026-10-24T23:24+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "iron ore",
-    "prices"
-   ],
-   "summary": "China: Iron ore spot prices remain flat d-o-d amid cautious buying BigMint",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
