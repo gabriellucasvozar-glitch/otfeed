@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T21:02+00:00",
+ "generated_at": "2026-10-25T21:32+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -1682,6 +1682,31 @@
     "iron ore"
    ],
    "summary": "Fortescue Q1 FY27: Iron Ore Shipments Down 5.8%, C1 Costs Above Guidance - News and Statistics IndexBox",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6041c0f355a3",
+   "title": "Extension to upload information to fertiliser database to comply with scheme",
+   "original_title": "Extension to upload information to fertiliser database to comply with scheme",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcGVVOUNHNl9oaU91VzVxN3RLOVVoaUtDRmVMbzRteTlsbU53dHpHRTdCMjFLZEZaTl9Ibkl3Z0RxNXB3aERQVVZLUkRfdnpQZXNBSkYwaGFyMWJ5di1lSzVGYzQwOU96VHRoLXdMUTBGN0VtN0tCN3pSUHQ2dFdSOXZyZVR2Y3ZNdUwyQ1JUemJjS1JSc0hFLVFEYWFXcDF6TjJmazJ5cmQ3cjczb1pfN0tkOG56eUdHS2U0enY5NndvZmNE?oc=5",
+   "source": "Irish Farmers Journal",
+   "published": "2026-10-23T22:47+00:00",
+   "added": "2026-10-25T21:32+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fertiliser"
+   ],
+   "summary": "Extension to upload information to fertiliser database to comply with scheme Irish Farmers Journal",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -6351,6 +6376,61 @@
    ],
    "summary": "China leads global container port efficiency rankings Shipping Telegraph",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "287e1fdf16e4",
+   "title": "Intertanko: Tankers on front page for wrong reasons – UK sanctions 12 tankers",
+   "original_title": "Intertanko: Tankers on front page for wrong reasons – UK sanctions 12 tankers",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUDRlMGxuanIzTzNUNm1wWmxTNnY2OXFjbjBxclZnTHlCYkU1LVVPRjlGWm1YSkNLU05qbzdMX0ZGRDdpYzdPSHFqdUZJcmFHTUZFc0hyaTBFbHpNUjl5Z1pLWnYzY194SW9RQVFzRXpYck5UYlhrWWVEQ0pmcFowc2FkcUZtZnNTck5nbHh3ekY2NE5rYk8yZm1JUFlqNnpJR1dTTHIxSmpMUmN5QUtNRmk0Y211NEFNM3dJUFV4VnpPa09qSTdtRg?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-10-23T07:00+00:00",
+   "added": "2026-10-25T21:32+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "sanction",
+    "shipping"
+   ],
+   "summary": "Intertanko: Tankers on front page for wrong reasons – UK sanctions 12 tankers Shipping Telegraph",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4a5b8479a04f",
+   "title": "Japan approves compensation for bypassing the Strait of Hormuz",
+   "original_title": "Japan approves compensation for bypassing the Strait of Hormuz",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMzVfUC10MV93NU9MREpFLTlPV1BmM2RDcFl1M2FDejRvYzJQSnNXaVNJZmhUR1NmSkJ0UkRyMWs4UEFTakEwbmdwaV9VekRHSGVLczhpMmduZWJZU2NmVEZDdkMzZEUxZlZsTGplQ21yYWN1ODY1WExvcFl0eUYyYkh0VTAxOW93N1lKMlZSRFJ5OG5uZ0tCWm9xQS1xXzRVNTEtUkFOcUpaUENqZDdweXZpVHJCZzVC?oc=5",
+   "source": "Shipping Telegraph",
+   "published": "2026-10-23T07:00+00:00",
+   "added": "2026-10-25T21:32+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Japan approves compensation for bypassing the Strait of Hormuz Shipping Telegraph",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16425,83 +16505,6 @@
    ],
    "summary": "SICORE Real Assets acquires its next logistics property – an asset of approximately 24,000 m² near Lyon ASSETPHYSICS",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9771eeb42125",
-   "title": "Transnet claims world record for empty 696-wagon train, 14 wagons above BHP",
-   "original_title": "Transnet claims world record for empty 696-wagon train, 14 wagons above BHP",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUUhFaHo3alczRWZuSVQ5MjRxMEpUWmNFTEt3X3YwNWNNdUREaTNadmE5NVNpcUw4YWZKelFNR0VNeGJGUHJ5NktPd0tveWRvaThpLVZyUFk3WlFfZUJUdFNKMzR2WmY4UWpFbWdaMjF3WHRkSE1LMlRTR0lqWkp1dVdHeXRaaksxRTRCcThkWXlwYlpJVFl4MF9PTlJBZ0EwbkQ1cQ?oc=5",
-   "source": "Railway Supply",
-   "published": "2026-10-21T10:52+00:00",
-   "added": "2026-10-23T11:36+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "railway",
-    "wagon"
-   ],
-   "summary": "Transnet claims world record for empty 696-wagon train, 14 wagons above BHP Railway Supply",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b9115bfbea94",
-   "title": "South Africa sets new freight rail milestone as Transnet operates 696-wagon train",
-   "original_title": "South Africa sets new freight rail milestone as Transnet operates 696-wagon train",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZUJJcVAzeW92eFU0RU9rck1EOWwzVGVzR1VndTh4c3BiT1RROVZJbnAzOHAtdXZiRWR1NXZaNGpzS1VfOXJIN2tzY21zZDdFVWk5aXBxeVZlRy1wUW44VGVDeUpvOFRQMGFZM2pfOTlHeFgyMnhqNkxwVGxoaW5Nbm90LUwyMUFkbE0tRmZpWUh2SjhJWk9BWVBZSlJ5c00zcnhMdjF0Q0V4TEpoN0NpZkZ3?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-10-21T10:43+00:00",
-   "added": "2026-10-25T18:36+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "railway",
-    "wagon"
-   ],
-   "summary": "South Africa sets new freight rail milestone as Transnet operates 696-wagon train Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "70b3decc621b",
-   "title": "BOMESC advances $23m Tianjin port expansion",
-   "original_title": "BOMESC advances $23m Tianjin port expansion",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wNGlyQk52U2xNTVpXUi1nWHlLelVoMXB3SnZyWWZBNnlIcUZkV1pvNm1mZTFSTnMxOGc1VUJqWDJYSXJWR1BuVkdyVXd6RHl1VFZOa3VjTnVDNFhGcVR5ZGI4cU9DLWVLeVNTLTNpZ0VqRE0?oc=5",
-   "source": "Splash247",
-   "published": "2026-10-21T10:41+00:00",
-   "added": "2026-10-21T11:47+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "BOMESC advances $23m Tianjin port expansion Splash247",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
