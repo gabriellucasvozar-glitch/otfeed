@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T22:26+00:00",
+ "generated_at": "2026-10-25T22:55+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -273,6 +273,34 @@
    ],
    "summary": "Brazilian soybean meal export differentials fell to their widest discount to the competing Argentine product since January, pressured by congestion at the port of Paranagua, improving domestic crush margins and a more favorable outlook for the soybean crop currently being planted. Platts, part of S&P Global Energy, assessed the FOB Paranagua soybean meal basis for December loading at a $16/short ton premium to Chicago Board of Trade futures on Oct. 21, $10/st below the FOB Up River differential. The discount for Brazilian meal against Argentine product was the widest since Jan. Argentine soybean meal typically trades at a discount to Brazilian product due to geographic and logistical factors. Platts had assessed the FOB Paranagua soybean meal basis at a $31/st premium to CBOT futures on Oct. The Brazil Soybean Crush Spread, a synthetic crushing margin calculated by Platts, was assessed at $38.33/mt on Oct. “El Niño does not appear to be bringing the dry weather to central Brazil that was previously anticipated, and downside risks to Brazil’s production are diminishing as planting progress accelerates,” CERA analysts said in the Global Soybean Complex Short-Term Outlook, published Oct. Brazil is the world’s second-largest soybean meal exporter, behind Argentina.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "606362736fcc",
+   "title": "Star Asia Shipbroking Weekly Market Report – WEEK 43",
+   "original_title": "Star Asia Shipbroking Weekly Market Report – WEEK 43",
+   "url": "https://www.hellenicshippingnews.com/star-asia-shipbroking-weekly-market-report-week-43-5/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-25T22:00+00:00",
+   "added": "2026-10-25T22:55+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "crude",
+    "russia",
+    "russian"
+   ],
+   "summary": "Russian seaborne crude loadings experienced a noticeable lull heading into mid-October, largely driven Source: Star Asia Shipbroking",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
   },
   {
@@ -16502,32 +16530,6 @@
    ],
    "summary": "Vopak secures New South Wales government backing for Port Botany expansion plans Oils & Fats International",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ca2ac6608494",
-   "title": "Biomass Boilers Market Forecast to 2035: Industrial Heat Decarbonization and District Heating Demand Drive Growth",
-   "original_title": "Biomass Boilers Market Forecast to 2035: Industrial Heat Decarbonization and District Heating Demand Drive Growth",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeWxrWVJZNVY2UHd1cTZ5eUZBVWptdjdwRm1BOHozbWtiTHh3aWVRNzhXeGEyMjcxd3E2S2kzckJwQTZUWlphMWtYUmtwYXhnOFJaenBMNmZjUmlaMFpBd1JnSE9qTDhQNmxKYkttRnRleHVzdjBFaVVVUkNnNFgyMGtwM1J2M1I2S1lNNzd4QllRWEI1SHNHelliSnNfU3dFMDlCQnJpNU9GTXhmY3drVDRtQVFlYk5ZVkR1bjVxcnlzT1FINkNjOFJETDBlTGxOSS1KaFdWdVN1QQ?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-21T12:06+00:00",
-   "added": "2026-10-21T15:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "biomas",
-    "biomass"
-   ],
-   "summary": "Biomass Boilers Market Forecast to 2035: Industrial Heat Decarbonization and District Heating Demand Drive Growth IndexBox",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
