@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T04:58+00:00",
+ "generated_at": "2026-10-25T05:31+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,60 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "23a5a516b68a",
+   "title": "Russian “shadow fleet” tanker linked to Iranian leadership sends distress signal in the North Atlantic",
+   "original_title": "Russian “shadow fleet” tanker linked to Iranian leadership sends distress signal in the North Atlantic",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE83U0czMjJjYjhfR3ZubUtxYmZWbDl3VFlmNTI4eG5GUG1LLVVXNlNxVjJueVdCRzVqbGlOY08wU0xiYWFONXZXaFhGYw?oc=5",
+   "source": "https://theins.press/en",
+   "published": "2026-10-25T05:09+00:00",
+   "added": "2026-10-25T05:31+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "fleet",
+    "russia",
+    "russian",
+    "shadow fleet"
+   ],
+   "summary": "Russian “shadow fleet” tanker linked to Iranian leadership sends distress signal in the North Atlantic https://theins.press/en",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "af5548af29e7",
+   "title": "144 drzwi donikąd i niedziałające laboratorium za miliony. Afery w Łukasiewicz-PORT nierozliczone",
+   "original_title": "144 drzwi donikąd i niedziałające laboratorium za miliony. Afery w Łukasiewicz-PORT nierozliczone",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUHdkUEFTaVpBLXd6Ni1IQ0QxYlZ2QjRXSEI2Wkd0SGt2bGE4MW5UWTEyeU9oNnJzOXNtdm5fazdMLThGeUE1Q2d1dzIyZGR4Uzhud0pzTDI2em9rRnZfQ3M1RTh1ZnFFeVZDdkpyZE95cFI3YWxmQS04YWliUVk4c2d0ZWlBVlFLTkV3SWgyZEJ4MXJfTDZfck5rLWVRR0FIUENFTWJmaWExV1JlNEt2SnRUem1LUQ?oc=5",
+   "source": "wroclaw.wyborcza.pl",
+   "published": "2026-10-25T05:00+00:00",
+   "added": "2026-10-25T05:31+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "144 drzwi donikąd i niedziałające laboratorium za miliony. Afery w Łukasiewicz-PORT nierozliczone wroclaw.wyborcza.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "1787dc11f2d8",
    "title": "Transport Minister calls for efficient, competitive ports to boost regional trade",
@@ -2242,6 +2296,33 @@
    ],
    "summary": "European Trials Report 4.3% Increase in Winter Wheat Yield with Arginex Seed Treatment Global Agriculture",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "309f52745c03",
+   "title": "Russia’s container trade continues eastward shift as Asian carriers expand capacity",
+   "original_title": "Russia’s container trade continues eastward shift as Asian carriers expand capacity",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNW5GbTQ5cXNVNldaOW9ycTdPSDZqMVNXNE5JRm1TR3FIZkR3SExyTF9xNWhmazNXTTdVemtpNDBNRFA0dzJLMTdibGl6bjhiT25rUFU5SWgyNXg1UHE0WkgySmNIaWdTVl9xeWxMTHhrODF1VzhRSWhpUVJIc1hiOW51VU5pSlNrRkc2ZHhNTzlQX3hzcFRKWjV1dFNCNWdVeHhsS3pFeFFvOWZ5VHphSl9qT2lidm1RbVpqdDRiaW9hdWZ6TV9Z?oc=5",
+   "source": "Lloyd's List",
+   "published": "2026-10-23T15:15+00:00",
+   "added": "2026-10-25T05:31+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4.5,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "carrier",
+    "russia"
+   ],
+   "summary": "Russia’s container trade continues eastward shift as Asian carriers expand capacity Lloyd's List",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -16416,92 +16497,6 @@
    ],
    "summary": "Shipping disruptions open window for Lebanon’s regional trade role NewsBreak: Local News & Alerts",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e34b53e4785d",
-   "title": "Chamber of Commerce: German companies interested in becoming part of Middle Corridor ecosystem",
-   "original_title": "Chamber of Commerce: German companies interested in becoming part of Middle Corridor ecosystem",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnFzY2lrcEtIY3FrT1pQc19aRksxVWFNMTZEbzJBSlhSaDBESVpOb213SG9SR1phTlpOSGMxTE9QSjN4cERteW1WaUkxWEI0TXl4TzNVZVAtY19YRkxQa0ZGMUZMMy1SZVFhLTVqdkVQSXVkOFh6cWZVZGpTLW1mUUFCVGxXN0tGMmNZT2VTRnQ1SDFFbzkybWxjVHRUSlVUelNEVlRTcG5DcHNXSEN2eHgtbjlCSUU2SzAtVXUxbWhJQlB4T2k4?oc=5",
-   "source": "Apa.az",
-   "published": "2026-10-21T08:59+00:00",
-   "added": "2026-10-21T15:10+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe",
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Chamber of Commerce: German companies interested in becoming part of Middle Corridor ecosystem Apa.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6bbaa03bc060",
-   "title": "Australian fund takes control of UK ports giant in £10bn deal",
-   "original_title": "Australian fund takes control of UK ports giant in £10bn deal",
-   "url": "https://splash247.com/australian-fund-takes-control-of-uk-ports-giant-in-10bn-deal/",
-   "source": "Splash247",
-   "published": "2026-10-21T08:57+00:00",
-   "added": "2026-10-21T09:15+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Western Europe",
-    "North America",
-    "Oceania"
-   ],
-   "tags": [
-    "acquire",
-    "port",
-    "ports",
-    "stake"
-   ],
-   "summary": "Australian infrastructure investor IFM Investors has agreed to acquire a controlling stake in Associated British Ports (ABP), Britain’s largest port operator, in a deal valuing the business at more than £10bn ($13.4bn). The transaction will see Canadian pension giants CPP Investments and OMERS sell their combined 63.88% stake in ABP to Global Infraco Haven Bidco, an indirect subsidiary of the IFM Global Infrastructure Fund. ABP confirmed the binding agreement in a London Stock Exchange announcement today. ABP operates 21 ports across Britain, including Southampton, Immingham and the Humber complex, handling around a quarter of the country’s seaborne trade. The deal brings an end to two decades of Canadian involvement in the port operator. OMERS was part of the consortium that took ABP private in 2006 for £2.8bn, while CPP Investments acquired its interest in 2015. IFM is owned by Australian and British pension funds and manages around $96bn in infrastructure assets globally. As Splash reported in August, the company is advancing a £500m development at Port Talbot in Wales to establish a major floating offshore wind manufacturing and assembly hub. Completion of the transaction remains subject to regulatory approvals and mandatory national security filings in the UK.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "bf4a2f94e106",
-   "title": "Davies Turner strengthens Heathrow presence with major logistics hub acquisition",
-   "original_title": "Davies Turner strengthens Heathrow presence with major logistics hub acquisition",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQXZnQWlKQzliaHhod3FNSWsyYlRaMlVDblJySHp3bDJBcFBNM2lFeWlQaVFtNXU2WUxsQ1pSUzhubWxwcmRBQU9pY2J1bDdxYldMSjJORDRKRDBMUHpqT2RoLWRuTDhrRDNCYWo3Q3VQLXFFX2FtTWJWSVNtYl9IcUVmRE4xTG43WEhId3duSjJ4NFcxTHh0aDRoQ3A1a2tnRXQ5ZHo3VDlGQzQ1aFA4b0w1WnJkZllnbUZCVS1QN0phdE9QdHgzdXU2MWtGZUx4YzVV?oc=5",
-   "source": "https://www.groundhandlinginternational.com/",
-   "published": "2026-10-21T08:53+00:00",
-   "added": "2026-10-21T09:15+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquisition",
-    "logistics",
-    "logistics hub"
-   ],
-   "summary": "Davies Turner strengthens Heathrow presence with major logistics hub acquisition https://www.groundhandlinginternational.com/",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
    "summary_method": "feed"
   }
  ]
