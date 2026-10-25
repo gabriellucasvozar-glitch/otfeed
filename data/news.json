@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T06:43+00:00",
+ "generated_at": "2026-10-25T07:24+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,34 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "0acc51bf4c47",
+   "title": "Black Sea shipping risks surpass Gulf as attacks kill more sailors",
+   "original_title": "Black Sea shipping risks surpass Gulf as attacks kill more sailors",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2ZNcWtfbDB6akVKdGg0ZFBsWlh2MW9COVRLLXRXcThJRFZnTXhUNkpFVTJ4aDc5TExZbENMWEI5WjhKRVJmQWlleGpmX3VBOW91dGtZeHFtNXM2VGNWaHFRLTFzbF9Cd0tDWUtwX09oU2hNc0E0RnFrMXdWd09iQ3huWnNBangzMG9oQmJrTDZBaVpNdFRIUlZB?oc=5",
+   "source": "Traders Union",
+   "published": "2026-10-25T05:39+00:00",
+   "added": "2026-10-25T07:24+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "shipping"
+   ],
+   "summary": "Black Sea shipping risks surpass Gulf as attacks kill more sailors Traders Union",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "23a5a516b68a",
    "title": "Russian “shadow fleet” tanker linked to Iranian leadership sends distress signal in the North Atlantic",
@@ -43,6 +71,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "53ff23800f44",
+   "title": "The Black Sea is now the world’s deadliest shipping route",
+   "original_title": "The Black Sea is now the world’s deadliest shipping route",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY0FtVEhrS2dCX2ZRcFExOTlMeUdZSXVjVjRUU2lUNHZiaWJMQTRQUVo0cV9DSVd4V1NINGVuZ1czaDJLMGxKRnJtX1psZWRlQUlBOU9oRGhwWnNIRi1PWTRlNjJoeEhCMHpVTkh2REtvYVhmbFk2X3VuaklFZDE5ZVQyZFc?oc=5",
+   "source": "Financial Times",
+   "published": "2026-10-25T05:00+00:00",
+   "added": "2026-10-25T07:24+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9.0,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "shipping"
+   ],
+   "summary": "The Black Sea is now the world’s deadliest shipping route Financial Times",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "af5548af29e7",
    "title": "144 drzwi donikąd i niedziałające laboratorium za miliony. Afery w Łukasiewicz-PORT nierozliczone",
    "original_title": "144 drzwi donikąd i niedziałające laboratorium za miliony. Afery w Łukasiewicz-PORT nierozliczone",
@@ -65,6 +120,32 @@
    ],
    "summary": "144 drzwi donikąd i niedziałające laboratorium za miliony. Afery w Łukasiewicz-PORT nierozliczone wroclaw.wyborcza.pl",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6d50d373c230",
+   "title": "Pepco inwestuje w polską logistykę",
+   "original_title": "Pepco inwestuje w polską logistykę",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnk2dXRfTEprRVFFOWFRT1MtR0dVVW1rWElKZG1sUWRvZEs0NklmU2hGcllPLXRrZ0dsYlI5X1lNTVZPXzVNQUxNT2RpZ3dHaFp6ZjVsUC1Mc2tIYk9vZW5TZi1XejI4bldxd3M2SmYxX2s5RHpSVHF3VnZPVmxZckR3c1huLXU3YTBQVjRRN0Q2ajExZERxWFFsbzZEbVlHMTdpemI2RXJxMEhiemdSUFl4X2FRdw?oc=5",
+   "source": "Rynek Infrastruktury",
+   "published": "2026-10-25T04:36+00:00",
+   "added": "2026-10-25T07:24+00:00",
+   "lang": "pl",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "logistyk",
+    "polska"
+   ],
+   "summary": "Pepco inwestuje w polską logistykę Rynek Infrastruktury",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -10509,6 +10590,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "0838869f850c",
+   "title": "Copy, Paste, Anti-Dumping: EU Expiry Review of Hot-Rolled Stainless Steel",
+   "original_title": "Copy, Paste, Anti-Dumping: EU Expiry Review of Hot-Rolled Stainless Steel",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1sZXlfQnd3dUNGUEVzTzJSLWJXMU9mazdXZkZyR1ZDWERtZFlna3lVbWhvNzNfVmFSY25ieHJOS0lXLWduT0NfYnlnU1o5VkJDZFRFaGJLNDRTbUZheTFNTnNXWGl0T09LczYxTXlEYVZ6bUY5dndVT1lDWUs?oc=5",
+   "source": "Steel and Stainless Steel News",
+   "published": "2026-10-22T07:54+00:00",
+   "added": "2026-10-25T07:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "steel"
+   ],
+   "summary": "Copy, Paste, Anti-Dumping: EU Expiry Review of Hot-Rolled Stainless Steel Steel and Stainless Steel News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "48254c456d61",
    "title": "NPA MD: cyber-attacks threaten African ports, trade",
    "original_title": "NPA MD: cyber-attacks threaten African ports, trade",
@@ -16391,115 +16498,6 @@
    ],
    "summary": "EBRD urges Middle Corridor shift to economic corridor Trend News Agency",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fc927fc062b0",
-   "title": "IFM Investors buys Associated British Ports",
-   "original_title": "IFM Investors buys Associated British Ports",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mSmdxaFdhM2U5b2lMYWxxU1kxZWlKZmRUcTdTQWFhN09tZUFmSFhmQktaVGZKNFN5bmx5c1BGNWEzMUM0SDlGaTJVM3pwRk5CQ1RGVWpGOVpDbjV1OGVlUHByWEN2dkFyUlZONEw3ODRDZVJV?oc=5",
-   "source": "Splash247",
-   "published": "2026-10-21T09:05+00:00",
-   "added": "2026-10-21T09:55+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "IFM Investors buys Associated British Ports Splash247",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b8ca53f459f9",
-   "title": "Jasurbek Choriev: Transit times matter more than shipping costs for shippers using Middle Corridor",
-   "original_title": "Jasurbek Choriev: Transit times matter more than shipping costs for shippers using Middle Corridor",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMXhhNjkzLVRndGJMYmNOOEV1OHJFMnZ1TUx2RjAyNVlnM0hzRXZ2dXF1V3hZcHVkZ2pxaEtodHhxS1kzZlI0QmNrQUxKcWxvc2NXaDhMRy11LUhZYjAtM0hhYktKb0RJbFdqMVJNc3dHQnB5NzBYOHRsVDRDN3dQMmxKRGZ0ZWs4eFE2U012M3JvTlZTYW1ubGV6aWR6OEVZNWFqY2x3dTk2ZGRlck5zUmRKUXZrenphOFU4SkNEQk02STNic1VWeVRmSzZhUQ?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-21T09:02+00:00",
-   "added": "2026-10-21T09:55+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor",
-    "shipping"
-   ],
-   "summary": "Jasurbek Choriev: Transit times matter more than shipping costs for shippers using Middle Corridor Report.az",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dfe0005d20d8",
-   "title": "DP World deploys 17 electric cranes at Jeddah Port",
-   "original_title": "DP World deploys 17 electric cranes at Jeddah Port",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNmg1MExBYUlxY1BfM3lhS1ViYVhVUjJTdzlfbVdqNWlFdWNmYUdkeGlnMHdRNTl2TmRSU0o2NkFXSm84QTdlcUticVBDaHphdVYzYTFBVkg3QjhqQy10MUZ6T2hVZ1BNQ285Q3VxUEhwbnBFSTdxS1dUVXNVelRwV1dMN2x1SGp5M1prNWt4aWpYM25xajR2OFNDckp1RVRRSEpJNw?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-21T09:01+00:00",
-   "added": "2026-10-21T11:09+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "port"
-   ],
-   "summary": "DP World deploys 17 electric cranes at Jeddah Port Port Technology",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2473f9c617cd",
-   "title": "Commodity market: Soybean and iron ore prices fall sharply.",
-   "original_title": "Commodity market: Soybean and iron ore prices fall sharply.",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY21PMlFLdHBXT1h4ZDRFei0wU1oxRWJiSThOM2pYbU93RkZfVk9rYlFzLVVmcWtQbG5fd19zNE90U3dHOS1Db1dPMEtaR3dxbmFjdThaaUFKMWE4ekFlX1RwZ0pZUGlGbHU1UzJlUjBsanhlQnhRTElOUmc2amVXNWVsY0RkaS1jSEZEb09WTUtJczA?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-21T09:01+00:00",
-   "added": "2026-10-22T07:52+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "commodit",
-    "iron ore",
-    "prices",
-    "soybean"
-   ],
-   "summary": "Commodity market: Soybean and iron ore prices fall sharply. Vietnam.vn",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
