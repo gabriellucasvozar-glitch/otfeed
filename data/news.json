@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T05:04+00:00",
+ "generated_at": "2026-10-26T05:40+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "d0dc8673c1d5",
+   "title": "Tokayev expands Kazakhstan’s logistics capabilities: from Middle Corridor to CASA",
+   "original_title": "Tokayev expands Kazakhstan’s logistics capabilities: from Middle Corridor to CASA",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlVlVsYzZPTEI0azB6T0JsYlI3U2U1Z0hzcnFkMnVZbWhWUlpMMmFQWDNaTG9lNU5ZSWc4RGV3LTlBTGtJcDZVZ3NIUmY5alB0VmxKVGR0d0tyUDlucTE0?oc=5",
+   "source": "Trend News Agency",
+   "published": "2026-10-26T05:00+00:00",
+   "added": "2026-10-26T05:40+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "logistics",
+    "middle corridor"
+   ],
+   "summary": "Tokayev expands Kazakhstan’s logistics capabilities: from Middle Corridor to CASA Trend News Agency",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "cd63e59f9baa",
    "title": "Bharat Coking Coal Q2 results: Coal India arm posts ₹124 crore net profit; offtake volumes improve nearly 10% YoY",
@@ -16510,31 +16537,6 @@
    ],
    "summary": "China still shipping fentanyl precursors to Mexican cartels Washington Times",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fc269d41ae9f",
-   "title": "Beyond the Terminal: Inside Alton Aviation’s Vision for the Next Era of Airports",
-   "original_title": "Beyond the Terminal: Inside Alton Aviation’s Vision for the Next Era of Airports",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT29JN3JTUkZ3TDhoMHFMQUJjV2h5OTJwQmdjMEhNbVBvZ3RtLVdRaVVZZFZlcUx4SEJncnNQLVJ0LWE2V0Q5RWU4Q09oTjNRTWFvdVdZZWwzLS1mX1czbmsxdkcwZm05b05LODdVZkFkQ0RMdW5FME5PeS05eG1RZEZVRWlOWDU5RHd5RnN0TDFVM0Y0MzJUT05WSEtFUV9ETVh2SzR0MA?oc=5",
-   "source": "Aviation World Magazine",
-   "published": "2026-10-21T15:22+00:00",
-   "added": "2026-10-21T17:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "Beyond the Terminal: Inside Alton Aviation’s Vision for the Next Era of Airports Aviation World Magazine",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
