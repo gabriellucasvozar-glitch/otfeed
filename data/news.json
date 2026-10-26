@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T19:57+00:00",
+ "generated_at": "2026-10-26T20:33+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "6ece4343f2fa",
+   "title": "Shipping cuts training when it needs it most",
+   "original_title": "Shipping cuts training when it needs it most",
+   "url": "https://splash247.com/shipping-cuts-training-when-it-needs-it-most/",
+   "source": "Splash247",
+   "published": "2026-10-26T20:19+00:00",
+   "added": "2026-10-26T20:33+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "artificial intelligence",
+    "regulation",
+    "shipping"
+   ],
+   "summary": "Irene Rosberg, who runs the Blue MBA at Copenhagen Business School, returns to Splash today. When business conditions become difficult, training is often one of the easiest budgets to cut. In shipping, that is becoming an increasingly dangerous habit. There is a contradiction here because shipping wants better leaders, more skilled seafarers and managers capable of making increasingly complex decisions, but those capabilities do not simply appear when they are needed. This is why I find the tendency to reduce training when companies come under financial pressure so short-sighted. Lifelong learning cannot be a phrase we use in speeches while treating the training budget as expendable when margins tighten. It also means recognising that the future leaders of shipping may come from broader professional backgrounds than they did previously. Shipping will spend enormous sums preparing its fleets for the future. It should be equally serious about preparing the people who will be expected to lead them.",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "extract"
+  },
   {
    "id": "e391da2e50b0",
    "title": "Why are oil prices falling despite continuing attacks and supply risks in the Middle East?",
@@ -42,6 +71,66 @@
    "summary_method": "feed"
   },
   {
+   "id": "f751972d4dc4",
+   "title": "Tanker Disabled in Strait of Hormuz Attack, Another Vessel Reported on Fire in Persian Gulf",
+   "original_title": "Tanker Disabled in Strait of Hormuz Attack, Another Vessel Reported on Fire in Persian Gulf",
+   "url": "https://gcaptain.com/tanker-disabled-in-strait-of-hormuz-attack-another-vessel-reported-on-fire-in-persian-gulf/",
+   "source": "gCaptain",
+   "published": "2026-10-26T18:46+00:00",
+   "added": "2026-10-26T20:33+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "security",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Vessels in the Strait of Hormuz, as seen from Musandam, Oman, July 31, 2026. REUTERS/Stringer Two new maritime security warnings issued Monday point to continued dangers for commercial shipping in the Middle East, with one tanker confirmed disabled by a projectile in the Strait of Hormuz and another vessel reportedly on fire in the northern Persian Gulf. UK Maritime Trade Operations (UKMTO) said it received a verified, time-late report of a tanker struck by an unknown projectile while transiting outbound through the Strait of Hormuz on October 23 at 0839 UTC. In a separate warning issued Monday , UKMTO said it had received multiple third-party reports of a vessel on fire approximately 63 nautical miles southeast of Al-Faw, Iraq, in the northern Persian Gulf. The two reports come amid continued attacks on commercial shipping in and around the Strait of Hormuz, with violence increasingly extending into the wider Persian Gulf. In its latest advisory, issued October 25 , the Joint Maritime Information Center (JMIC) maintained its SEVERE threat assessment for the Strait of Hormuz, warning that further deliberate attacks were highly likely. The advisory highlighted another recent incident involving an LPG tanker struck by an unidentified projectile on October 22, approximately seven nautical miles northeast of Limah, Oman.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "24147c8e1c83",
+   "title": "Hormuz Chaos Sparks Legal Showdown Over Global Tanker Pricing",
+   "original_title": "Hormuz Chaos Sparks Legal Showdown Over Global Tanker Pricing",
+   "url": "https://gcaptain.com/hormuz-chaos-sparks-legal-showdown-over-global-tanker-pricing/",
+   "source": "gCaptain",
+   "published": "2026-10-26T18:30+00:00",
+   "added": "2026-10-26T20:33+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Baltic & Nordics",
+    "Middle East"
+   ],
+   "tags": [
+    "baltic",
+    "commodit",
+    "hormuz",
+    "war"
+   ],
+   "summary": "Russia's shadow fleet vessels wait in the unofficial anchorage area in the Gulf of Finland near Vaindloo, Estonia April 10, 2026. REUTERS/Ints Kalnins (Bloomberg) — Commodity trader Mercuria Energy Group accused the Baltic Exchange of continuing to publish the world’s benchmark oil tanker rate, despite distortions caused by the Iran war, because it feared losing business to a competitor. Lawyers for Mercuria kicked off a London trial claiming that the Baltic Exchange should have suspended the benchmark rate after exports through the Strait of Hormuz were strangled by the conflict between the US, Israel and Iran. The Baltic Exchange said the commodity trader’s claim reflects “instability and opportunism.” Founded in 1774, the Baltic Exchange plays a central role in setting global shipping rates. When he did eventually submit a value, it included comments such as “doesn’t make any sense to shed an opinion on this route — crazy that we have to!” The case calls into question a pricing tool that until the Iran war acted as the benchmark for oil tanker earnings across the globe. The key TD3C rate underpins contracts between tanker owners and their customers as well as billions of dollars in derivatives.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
    "id": "32f931d8b9e2",
    "title": "Black Sea turmoil takes toll on Russia's seaborne grain exports",
    "original_title": "Black Sea turmoil takes toll on Russia's seaborne grain exports",
@@ -68,6 +157,84 @@
    ],
    "summary": "Black Sea turmoil takes toll on Russia's seaborne grain exports Baird Maritime",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b4c62a917dcd",
+   "title": "Singapore Yards Chase Profit From Europe’s Offshore Wind Push",
+   "original_title": "Singapore Yards Chase Profit From Europe’s Offshore Wind Push",
+   "url": "https://gcaptain.com/singapore-yards-chase-profit-from-europes-offshore-wind-push/",
+   "source": "gCaptain",
+   "published": "2026-10-26T18:22+00:00",
+   "added": "2026-10-26T20:33+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "crane",
+    "cranes"
+   ],
+   "summary": "(Bloomberg) — At a shipyard in northern Singapore, a yellow platform towers over a maze of scaffolding and cranes. Resembling a 15-story building, the piece will be shipped halfway around the world to Europe to be installed into an offshore wind farm. The 30,000-ton platform, known as a high-voltage direct current converter, is scheduled to leave Seatrium Ltd.’s yard for the North Sea in 2028, where it will sit 60 kilometers offshore and help transmit electricity generated by wind turbines back to land. About 7,000 workers will build the structures at yards in Singapore and Batam, an Indonesian island that’s 50 minutes away by ferry. Ong – who was CEO of oil rig-builder Keppel Offshore & Marine before it was merged with Sembcorp Marine to form Seatrium in 2023 – is hoping to capitalize on offshore wind demand over the next two years. “The scale and the massive need for offshore wind is a big security drive,” he said. New York is leading a coalition of states in two new lawsuits challenging Trump administration agreements that would cancel offshore wind leases and redirect roughly $1.4 billion toward liquefied natural... California has sued the Trump administration over its deal to cancel a planned 2-gigawatt floating offshore wind project off the state’s Central Coast, challenging the administration’s increasingly aggressive strategy of...",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "e299bb0319e4",
+   "title": "APM Terminals Delivers 28 Equipment Units at Port of Suape with R$2 Billion Investment",
+   "original_title": "APM Terminals Delivers 28 Equipment Units at Port of Suape with R$2 Billion Investment",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVnJWdFZFN1p6TTlhMVQzSWhrMmRnaGFtaTR2XzhRSGZHSTN4UUEyUkFwUnJyaHpiaVMwSVdZOFRPMEcxcVMxTHdHY3l5RHhGTU1wLXUyN3hGeVlhYkoyYTgwWWNjNU5uemJ5UEo5ZVdiWmhVWXFzOFl2bWItWE5Ocld1UlpmRWh1R1ZWaFJPbkp4dlQ1OWVIWmxxMzdJSXgwbDdqTXdoSmw1TDNzR0xFa3RXTFhXRXR5aXNPV0w0bXdwTVktTnZxVzVfdC1hQXB0?oc=5",
+   "source": "Data Portuaria",
+   "published": "2026-10-26T18:20+00:00",
+   "added": "2026-10-26T20:33+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "terminal"
+   ],
+   "summary": "APM Terminals Delivers 28 Equipment Units at Port of Suape with R$2 Billion Investment Data Portuaria",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c3e4bc10602a",
+   "title": "Carriers Sales & Purchase Market Report, Week 43",
+   "original_title": "Carriers Sales & Purchase Market Report, Week 43",
+   "url": "https://www.hellenicshippingnews.com/carriers-sales-purchase-market-report-week-43-3/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-26T18:00+00:00",
+   "added": "2026-10-26T20:33+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "charter"
+   ],
+   "summary": "Carriers Sales & Purchase Market Report, Week 43 Source: Carriers Chartering Corp. S.A.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -101,6 +268,34 @@
    "summary": "The orderbook for pure car and truck carriers (PCTCs) has surged amid booming Chinese vehicle exports and elevated charter earnings, raising concerns that an expanding fleet could outpace demand as European restrictions on Chinese vehicle imports threaten to curb a key source of cargo growth. Greek brokerage Intermodal said last week that 82 PCTCs were contracted in the first nine months of 2026, compared with just nine vessels ordered throughout 2025 and a 10-year annual average of 35 vessels. The orderbook-to-fleet ratio has consequently risen to 26%, well above its historical average of 14%, pointing to a substantial expansion in carrying capacity over the coming years. Fuelling the surge in newbuilding orders is the growth in Chinese vehicle exports, which totalled 8.2m units in the first nine months of 2026, up 66% year-on-year. China’s rapidly expanding automotive exports have kept charter rates elevated, with ships being fixed for $95,000 per day, near levels last seen in 2024. Domestic NEV sales contracted by 9.4% year on year, reinforcing the industry’s reliance on exports to absorb production. In October 2026, the EU and China reportedly reached a preliminary understanding on proposed restrictions covering Chinese-built conventional and plug-in hybrid vehicles.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "e5fcc82bbbd2",
+   "title": "Maaden's STS ammonia vessel signals departure, TTF hits fresh highs",
+   "original_title": "Maaden's STS ammonia vessel signals departure, TTF hits fresh highs",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOME9TZjZNV216TnluSlpURHZtcC1XSk40RkEtN1ZjV1U0X1BuYlFMZUExLWg5OG1lbDk3NXdxM2s1enE4U2JtT2NzTkhZY2FqYk9VUTVxTWVwSEV2OXlaZnltdV9HTWlWd1dZblJudldVMktHbHhqN0lmMWp3V1VZeWUwQjNIa0pJalc0LUhGUW5VTUhLSkZHTDJjWnNvSURBYjhLU3JPekVKeDY5YTU4bjl5M0dBWE1N?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-26T17:37+00:00",
+   "added": "2026-10-26T20:33+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "ammonia",
+    "commodit",
+    "vessel"
+   ],
+   "summary": "Maaden's STS ammonia vessel signals departure, TTF hits fresh highs Quantum Commodity Intelligence",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "68d021d47c38",
@@ -444,6 +639,32 @@
    ],
    "summary": "Russia Reports Drone Strikes on Two Ukraine-Bound Cargo Ships as Black Sea Shipping Risks Intensify Business Upturn",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "94a183342bbb",
+   "title": "LNG Bunker Snapshot: Rotterdam price surges on Norwegian outages and colder forecasts",
+   "original_title": "LNG Bunker Snapshot: Rotterdam price surges on Norwegian outages and colder forecasts",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGhhbTNpMlU1Y0ZSaW96cUJSaGdicmtMVlZFaFpUY3doWVM1cDFlV0Y5ZzhSek8zUE13Rk13VXRyLW9hbEpWWV9IVHp5WXV3RzJDWnJocXp4clVtd1ZfQUg3OVNLSzFaZVR4aEoyalVyMTNsUDJkeXNMUHYzaVBoREZNaThtRm0zNm9fVFhIc2VxVnloa2VTeEI3NENWdTlWc3J6ZlNvWFNYZ1JWaldMRGdJQzBkX0RMTWw3WA?oc=5",
+   "source": "https://www.engine.online/",
+   "published": "2026-10-26T14:18+00:00",
+   "added": "2026-10-26T20:33+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "bunker",
+    "lng"
+   ],
+   "summary": "LNG Bunker Snapshot: Rotterdam price surges on Norwegian outages and colder forecasts https://www.engine.online/",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -826,6 +1047,35 @@
    "summary": "Deployed capacity on the transpacific and Asia-Europe trades during this year’s Golden Week holiday was the highest on record, according to new analysis from Sea-Intelligence. Port congestion in Asia, caused by a succession of typhoons, led to vessel bunching at loading ports, and subsequently resulted in a series of “double sailings”, which cancelled out carriers’ blanking strategy during the holiday period when they typically look to skip voyages due to a lack of cargo sitting on Asia’s docks “Double sailings are essentially two departures on a liner service in a week,” analysts at Sea-Intelligence said. “Liner services work on weekly departure frequencies – ie, one vessel departs the origin region every week. “When vessels get delayed, they bunch up – the delayed departure that moved from week 1 to week 2 is now sailing along with the original week 2 departure, hence a ‘double sailing’,” the consultancy explained. This meant deployed capacity during the Golden Week period – which Sea-Intelligence defined as taking place between weeks 40 and 42, to account for the lag in inland transport work unable to take place because drivers were on holiday – was this year higher on the transpacific and Asia-Europe trades than ever before.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "extract"
+  },
+  {
+   "id": "b5ea9da1b5b5",
+   "title": "Russia's Arctic Oil Shortcut Runs Into a Wall of Ice",
+   "original_title": "Russia's Arctic Oil Shortcut Runs Into a Wall of Ice",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmg5Q1ZSUTJvTFFHcnRJNGg1WFZiQVJoUVJjYUczejVNRlBKSi1FUVBnWEpxeVEza3B3NnVFZmlISjRFWHllYWdBWF9CeTE2SDZXdFVBMmZ0OEVlenpmTThQQTAzSmlrV0FHc3hha0tUazF1ZmZ2Q0dQTl9FOXR4S1BUUmRCekl5a29oTUdZOG53am9ZZ0R5NmNoV05TYXc4TWhUUkhR0gGmAUFVX3lxTE9maDlDVlJRMm9MUUdydEk0aDVYVmJBUmhRUmNhRzN6NU1GUEpKLUVRUGdYSnF5UTNrcHc2dUVmaUhKNEVYeWVhZ0FYX0J5MTZINld0VUEyZnQ4RWV6emZNOFBBMDNKaWtXQUdzeGFrS1RrMXVmZnZDR1BOX0U5dHhLUFRSZEJ6SXlrb2hNR1k4bndqb1lnRHk2Y2hXTlNhdzhNaFRSSFE?oc=5",
+   "source": "Crude Oil Prices Today | OilPrice.com",
+   "published": "2026-10-26T13:00+00:00",
+   "added": "2026-10-26T20:33+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "crude",
+    "oil price",
+    "prices",
+    "russia"
+   ],
+   "summary": "Russia's Arctic Oil Shortcut Runs Into a Wall of Ice Crude Oil Prices Today | OilPrice.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "c334645994a1",
@@ -5902,6 +6152,31 @@
    ],
    "summary": "Russia-Ukraine War Latest News: Moscow Overhauls Grain Export Strategy With 10,000-Ruble Price Floor and New Baltic, Caspian and Far Eastern Trade Corridors The Sunday Guardian",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7eaacc50db53",
+   "title": "Dakhla Port: Morocco anticipates surge in West African trade",
+   "original_title": "Dakhla Port: Morocco anticipates surge in West African trade",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVVpMFRPb29iaDV2elVSU0YtNVBCTjRKRTRjSVpJV0x0dDA3QkYwcXpTQkdIbFZSUkRsLTJTbkhINmRMeG9KYkxVd2xfc2lpTDl4MERqR1hqUU5iNUd1ejhyckI4anNKcjdZNFY2Z1A1VWZPU0JpSW01LWtkYlRySmoxdVE0dU5zRmpsVnJaSGo?oc=5",
+   "source": "Capmad",
+   "published": "2026-10-24T09:13+00:00",
+   "added": "2026-10-26T20:33+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Dakhla Port: Morocco anticipates surge in West African trade Capmad",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16330,290 +16605,6 @@
    ],
    "summary": "China: Iron ore spot prices flat d-o-d for third consecutive session BigMint",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "98b99fff6afd",
-   "title": "Middle East Output to Shrink 1.3% in 2026 on War Disruptions, IMF Says",
-   "original_title": "Middle East Output to Shrink 1.3% in 2026 on War Disruptions, IMF Says",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY2xneW5HYUhRcWZWQWxDeVRMbkpETUpDblZzQTNpNFhJeF9adjVucFl3eVRoNnMwM043VDF0U29GQ2NIUk11aFFHOXVTOHJGUnUzbmhiR1BiRHQ1cXZDTnlVM0hRWlJQQ1VUcnpqV0R5X3FtSDFXZmxFUGRNWmxOeHFoSWphWlVCdm9EX1JLNTJrZ3hldG9KZmxqYjRSRU1Kb2FYb0ZTUDluSW1ha0ZVLQ?oc=5",
-   "source": "Kurdistan24",
-   "published": "2026-10-22T09:32+00:00",
-   "added": "2026-10-24T19:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "disruption",
-    "war"
-   ],
-   "summary": "Middle East Output to Shrink 1.3% in 2026 on War Disruptions, IMF Says Kurdistan24",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c360729d11b2",
-   "title": "The domestic crane industry refuted the explanation of the Incheon Port Corporation over the backgro..",
-   "original_title": "The domestic crane industry refuted the explanation of the Incheon Port Corporation over the backgro..",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfZ3VUSGtIZzFPWDN1VzdDLVFoLWRWQkdsVHd1bTRobVdLY3hFY2I2Y216ejJFZFNkSng0Z2pLUlhEZUU5dVc1QW9aSUliTllrR0E?oc=5",
-   "source": "매일경제",
-   "published": "2026-10-22T09:31+00:00",
-   "added": "2026-10-22T10:31+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "port"
-   ],
-   "summary": "The domestic crane industry refuted the explanation of the Incheon Port Corporation over the backgro.. 매일경제",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "448caad1b9c9",
-   "title": "Maersk Tankers lines up EU backing for four VLAC ammonia conversions",
-   "original_title": "Maersk Tankers lines up EU backing for four VLAC ammonia conversions",
-   "url": "https://splash247.com/maersk-tankers-lines-up-eu-backing-for-four-vlac-ammonia-conversions/",
-   "source": "Splash247",
-   "published": "2026-10-22T09:30+00:00",
-   "added": "2026-10-22T09:55+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "ammonia",
-    "carrier",
-    "eu ",
-    "european union",
-    "shipowner",
-    "vessel"
-   ],
-   "summary": "Danish shipowner Maersk Tankers has moved closer to converting four very large ammonia carriers to run on the cargo they transport after its retrofit proposal was selected for support under the European Union’s Innovation Fund. The project, known as RIPPLE, involves installing dual-fuel, two-stroke ammonia engines on four vessels in the company’s expanding gas carrier fleet. The European Commission has invited the project to begin grant agreement preparations, although the amount of funding has not yet been finalised. Crucially, Maersk Tankers said any decision to proceed would depend on securing commercial commitments from customers. The proposed conversions would allow the vessels to use ammonia as propulsion fuel rather than relying solely on conventional marine fuels. The project is expected to avoid more than 1.2m tonnes of carbon dioxide-equivalent emissions over ten years, assuming the conversions and planned operations go ahead. Maersk Tankers is building up a fleet of ten 93,000 cu m VLACs at South Korea’s HD Hyundai Samho. The vessels were specified with the possibility of converting to ammonia propulsion, although installation of the necessary engines has always depended on commercial and regulatory conditions. The Commission selected 77 projects under its latest Innovation Fund round, with final grant agreements expected to be determined during the first quarter of 2027.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "195c3d71b706",
-   "title": "China-Europe rail and India’s long road to Eurasia",
-   "original_title": "China-Europe rail and India’s long road to Eurasia",
-   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMjk1a2w4TWI1a25NQ3dnaVppQkt3T2p0NVpGVFcwVTI0ODdtTlZWWHVacmdiMGdyOXh6ZXRsVzh0aXk1TkxWWXgxUGxzbUZ1aWpLYmhQUzRWRm14QWxUTUJYZE1FOVBCYXAtSjhSSUtiV1V0VW4wQ2l2NDBkMWREbHBNeC1OdDlZcDIwRHZwS2hPcHd5aXVVRUd3QnZXQkhaSXl4V2c5SjduZUFZR3ZaRzQ4YWNVeXppT0l1OHZhMGpJTkc2VlpXd0hfRFFhU2ppb1BlUkRnVlJ3cDIwVGIyMWZWcHpJU2FpN1IxMkhnQ002X19reGNhedIB_gFBVV95cUxNYUVLb2xkYUtuSzlfUHFJZHlPbWpxVUIzTnhSNUZXbG9QVm9OQzZVUmttbVlFYVdjY3o3UXJrdkRweGpyMEpBSUN4Tll3S1NnTV94TXllT0NpRnJjSGdUaWNVNGE0N1ZyMWpWMFB6MUVoMVVrTVhnMHFHbUVzTVREMTVmb0JaWk9Dd3JQSml2MjYwYXdZM0pkT215bHBlRUtVRDhCU2ZYcDJpX3FOZzNteDJqNTlIVjJSMGhET3E0N3ZCTjc2b09OdFN4YUhGUEdWT0tVcGJlQWFMYkdoRk94MjAwU3p0dkhpNElCTGpvN3lCMDJOQnh3UWtEZzRYdw?oc=5",
-   "source": "The Economic Times",
-   "published": "2026-10-22T09:30+00:00",
-   "added": "2026-10-22T09:55+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "china-europe rail"
-   ],
-   "summary": "China-Europe rail and India’s long road to Eurasia The Economic Times",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "33825e5dfc82",
-   "title": "Australian Fund to Acquire Majority Stake in UK’s Largest Port Operator in $13.4 Billion Deal",
-   "original_title": "Australian Fund to Acquire Majority Stake in UK’s Largest Port Operator in $13.4 Billion Deal",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMDR5NjM3VHRPRmVWVHdaeVc1LXhzNWtsS3ZfYWI5LTVNMjJnT0wwWFNoNkJuNFVOYUlQX09ZVVBlNklyN21BU1NGeUNQV1NnbjZJajNqSlNJMFFCRmZQc2ZHYUMxZng4UTE3TnFJN2lPaWotTWpKeS16M0wyQWJvSTZzMkdhdTF3N3BENDBmRTBGUG5CblM5TTVFd3RVekxqbkh5RUFzSUxJWFRJS203dTdLTERJeGxOMWZKMWN1Y3lFWHZCYk1V?oc=5",
-   "source": "megaproject.com",
-   "published": "2026-10-22T09:20+00:00",
-   "added": "2026-10-25T19:11+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Western Europe",
-    "Oceania"
-   ],
-   "tags": [
-    "acquire",
-    "port",
-    "stake"
-   ],
-   "summary": "Australian Fund to Acquire Majority Stake in UK’s Largest Port Operator in $13.4 Billion Deal megaproject.com",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "30c1457eac9f",
-   "title": "Russian wheat exports shift to Baltic as prices ease — CMB News",
-   "original_title": "Russian wheat exports shift to Baltic as prices ease — CMB News",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc3NGWGFRR2UtOTVOUDlVeVh3dzgzS01OZFJaQmM0ME1kcThMbDQ4a0F4M2gtV0FyU0V5RVdUOUtLdU5oNVM1NzdkRElmcWVtU1puRHd0VjlvcFdVbWRIWlI0aktCdWh0bWN4SmFtMnNvazNaVS1uRXRmUzlNNGR2VURmeXRiR09ONlN1Ul85RmM?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-22T09:19+00:00",
-   "added": "2026-10-22T09:55+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Baltic & Nordics",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "baltic",
-    "prices",
-    "russia",
-    "russian",
-    "wheat"
-   ],
-   "summary": "Russian wheat exports shift to Baltic as prices ease — CMB News CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b456ba320937",
-   "title": "How Türkiye is helping Baltic states meet steel demand amid dwindling supplies from Russia",
-   "original_title": "How Türkiye is helping Baltic states meet steel demand amid dwindling supplies from Russia",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vWUVLRjdFQXRYWW82czVGUjdjYkxGZEQxTFBaVWkwaUlyamNwblg5N2tid004TzVTbVdHUk9od2pRSmZNWl8zQkNTNml3dHJIS0pr?oc=5",
-   "source": "TRT World",
-   "published": "2026-10-22T09:18+00:00",
-   "added": "2026-10-22T11:09+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Baltic & Nordics",
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "baltic",
-    "russia",
-    "steel"
-   ],
-   "summary": "How Türkiye is helping Baltic states meet steel demand amid dwindling supplies from Russia TRT World",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d49e556b3f3c",
-   "title": "Zelenskyy Says Ukraine's Refinery Strikes Are Payback, Not the Cause of America's Diesel Bill",
-   "original_title": "Zelenskyy Says Ukraine's Refinery Strikes Are Payback, Not the Cause of America's Diesel Bill",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52eTRHOXc0b1JqbVp2bDJsRGd2Q0FISGNxQlFCNXByQW1aMG1IaXR4VXc2aUtLMGJ1TXdubDZwZDFNRl9EM2xic01nNWVvNko4cklELU5LN2lqaE0?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-10-22T09:08+00:00",
-   "added": "2026-10-26T15:19+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "bill",
-    "diesel",
-    "ukraine"
-   ],
-   "summary": "Zelenskyy Says Ukraine's Refinery Strikes Are Payback, Not the Cause of America's Diesel Bill BigGo Finance",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8d2812f2b857",
-   "title": "Paris and Chicago wheat futures fall as exports rise",
-   "original_title": "Paris and Chicago wheat futures fall as exports rise",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakwtdFdrSHJyUjVlclMtM0JBcDJwYVZOYWZIaEZSLTFGdFFWa25qb1RkV0QycWhIWmVQM3FZd3plY0hjZ2xoVDlwaXZHLTVFLUpQX1pzSE1yMGF6dExLcS1jWk9MZWxDZENLSkZVTFZsVzk3T2x0LWU2Yy11akdDUGRRLTI0ZUFDQXFQRlhNQjc4WGk0STlQY29zTnRQOU56VlE?oc=5",
-   "source": "All about feed",
-   "published": "2026-10-22T09:00+00:00",
-   "added": "2026-10-24T19:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "futures",
-    "wheat"
-   ],
-   "summary": "Paris and Chicago wheat futures fall as exports rise All about feed",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c63541fd73a1",
-   "title": "How ocean shipping disruptions power Africa’s air cargo surge",
-   "original_title": "How ocean shipping disruptions power Africa’s air cargo surge",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdlhHdnBWaG5hZUo4S0VjNmx5dmwxVVRSZVFaMzhSRDh0YVBIWjM5ejJ6cHo3d0hFM1VsVEs4cGJsdnB5UG5GNUladUE2Q2EwWjkxVUtDNmlMeHVualQ0cHhZa0Q5cy1RM01Dc2xSekNDOEo0UUFVdFpOU3BWUWJnRzdPSTJNZF8wZzZPN0VWc2VoSGRwV21DMmxQZHZqSUtjWFlHcnI3RHRMVVpUTzhyd1F2OA?oc=5",
-   "source": "Fashion United",
-   "published": "2026-10-22T08:55+00:00",
-   "added": "2026-10-22T10:31+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "shipping",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "disruption",
-    "shipping"
-   ],
-   "summary": "How ocean shipping disruptions power Africa’s air cargo surge Fashion United",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
