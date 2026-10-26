@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T09:48+00:00",
+ "generated_at": "2026-10-26T10:27+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,94 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "c8a7301c4678",
+   "title": "UK, Ukraine and Latvia extend grain verification scheme to curb stolen grain trade",
+   "original_title": "UK, Ukraine and Latvia extend grain verification scheme to curb stolen grain trade",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQUwxZGgzZC04YS1uMmdiOTdLOHFKRW0wa2ljUU1Pb01Nd3lsS1F4SkZZT0RJY2twUkRIdlRCZ2NJc3E2ZjlQc2pkbW9aamVlWTB3MTFBVkszWmRYQWZNWUZYOGlZLU45a3l1NHVqQW94Nm9ycFRTeVBuTzJyTG9HZmFnQ2k5dFJiTzN6bjh5azItd1dsMDdLcHFoNWphMzBfT0FYb0p1RFVYVkYt?oc=5",
+   "source": "Traders Union",
+   "published": "2026-10-26T10:20+00:00",
+   "added": "2026-10-26T10:27+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Baltic & Nordics",
+    "Western Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain",
+    "ukraine"
+   ],
+   "summary": "UK, Ukraine and Latvia extend grain verification scheme to curb stolen grain trade Traders Union",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "735c6d9b99c0",
+   "title": "UK, Ukraine and Latvia extend crackdown on Russian grain theft",
+   "original_title": "UK, Ukraine and Latvia extend crackdown on Russian grain theft",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTUlXb3ozMEVxdFlPcS0tUWNmQS05dHRhdjkxaWJsblZxN0pSdUtfVGtxSUd3TmQweFJLUnR3ZmdhcWFiUlBaMklNWXkzLU1QYVNNTUNwb1cxRTZBUFlEOS1XZlNSLV80UVlMcVNKQkVQY2ljWTlwVVZEZHp4UElwdlVTZW1Bako4aVhJQWM0WlIxano5Q1ZKOXZCZHM?oc=5",
+   "source": "GOV.UK",
+   "published": "2026-10-26T10:19+00:00",
+   "added": "2026-10-26T10:27+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Baltic & Nordics",
+    "Western Europe",
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "grain",
+    "russia",
+    "russian",
+    "ukraine"
+   ],
+   "summary": "UK, Ukraine and Latvia extend crackdown on Russian grain theft GOV.UK",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2b646e8bd1e1",
+   "title": "Equinor extends Havila PSV pair for one more year",
+   "original_title": "Equinor extends Havila PSV pair for one more year",
+   "url": "https://splash247.com/equinor-extends-havila-psv-pair-for-one-more-year/",
+   "source": "Splash247",
+   "published": "2026-10-26T10:00+00:00",
+   "added": "2026-10-26T10:27+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "charter",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Norwegian offshore vessel owner Havila Shipping has secured another year of work for two of its platform supply vessels (PSVs) after compatriot energy major Equinor exercised contract extension options. The latest extensions will keep the 2012-built Havila Charisma on charter until December 16, 2027, while the 2008-built Havila Foresight will remain employed until January 1, 2028. Both vessels have been on continuous charter to Equinor since delivery, supporting the energy major’s operations on the Norwegian continental shelf. The latest awards follow separate extensions secured late last year. Equinor exercised a one-year option for Havila Charisma in November 2025, keeping it employed until December 2026, before extending Havila Foresight in December until January 2027. The two ships were originally awarded three-year contracts in December 2020, directly continuing their existing employment, with four additional one-year options each.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "1fa5f93e8b3e",
    "title": "BofA tracks shipping data showing Red Sea transit recovery",
@@ -215,6 +303,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "cc857dfacf6f",
+   "title": "Dozens of European organisations are calling for transport funding to be maintained in the EU budget for 2028–2034",
+   "original_title": "Dozens of European organisations are calling for transport funding to be maintained in the EU budget for 2028–2034",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcDVKb3Y0d1lfOXpxcWVadHNGeExkT3lRLUI3STlkTjFfdTZyXzlNS2VlSkw2WnY3elM1dTVLYzQ4VDJXcjVqNl9QdzVPaXU5ZlF5WURmMHgwQXgtTmdFVS1KYjdLRVRKU0ZGRDJlMk9rN01fZFJWQU02VGV3UDBKVFJfOFFIa3BnQTJ3eFlqVGNuTjR0MUZfZDY0dHNSOTh0Wmc?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-26T08:19+00:00",
+   "added": "2026-10-26T10:27+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "railway"
+   ],
+   "summary": "Dozens of European organisations are calling for transport funding to be maintained in the EU budget for 2028–2034 Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "c95547269f9f",
    "title": "Panama Canal reopens last-minute slots amid traffic recovery",
    "original_title": "Panama Canal reopens last-minute slots amid traffic recovery",
@@ -323,6 +437,33 @@
     "rapeseed"
    ],
    "summary": "Rapeseed market analysis – MATIF steady, Black Sea slightly weaker — CMB News CMB News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "572ad3b11fd2",
+   "title": "Wheat market softens as Black Sea peace hopes trim risk premium — CMB News",
+   "original_title": "Wheat market softens as Black Sea peace hopes trim risk premium — CMB News",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLVJGUENxU2dDTVlIX2lfY0swUkNWMnBDdUt1SFlSOXVpbDhjcUhiOTlSbDlhaVpNRkpqM2tyWjVoOTNFeU42RV84S0x4WmU4VGxOVnc2VlZKdkNnRWl2MDg5SjhiY2ktSEtobG1yenVhbU50RWJPQTc4bTIzbm5WdmNoSFRpcFJEeFFB?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-26T07:39+00:00",
+   "added": "2026-10-26T10:27+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "wheat"
+   ],
+   "summary": "Wheat market softens as Black Sea peace hopes trim risk premium — CMB News CMB News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -7714,6 +7855,34 @@
    ],
    "summary": "Tuticorin International Container Terminal claims 100% equipment electrification WorldCargo News",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f61088e668da",
+   "title": "[SMM Iron Ore Weekly Brief] Hot Metal Turns Up and Ports Draw Down, but Iron Ore's Rebound Does Not Hold",
+   "original_title": "[SMM Iron Ore Weekly Brief] Hot Metal Turns Up and Ports Draw Down, but Iron Ore's Rebound Does Not Hold",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVmc0Z2xxd09fc2dmQl9XZHh1N05veUVienJzd3RfQ0VsY2o3RGMwVmZNMlZEZWF2a0Y3X3F1dmZlME1MbzZ6a2dqSXR4Qjh3alRyQzFVbzZwWjIwbjhGd0k0Z25jaXY3SjM5Z2RsSHp4VEduZFlVcFEzcmVsdFBjbXhnWUhwRFBTakhPYnNIVEVSeWNVaXBndEFSN2ZEUldaQkNmVjkwZ1V0SkczX0djTHA1ZDNGcURVV21FdnZtRGtQZngyQzVqakpBQURPVDVxSUJsNDBkUTBHbnBMVGc?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-23T08:51+00:00",
+   "added": "2026-10-26T10:27+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "iron ore",
+    "port",
+    "ports"
+   ],
+   "summary": "[SMM Iron Ore Weekly Brief] Hot Metal Turns Up and Ports Draw Down, but Iron Ore's Rebound Does Not Hold Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16366,172 +16535,6 @@
    "summary": "An Arabian Fox MAST-13 unmanned surface vessel, attached to U.S. Naval Forces Central Command’s Task Force 59, conducts surveillance in the Arabian Gulf, Nov. 21, 2023. Army Photo By Chris Servello (OpEd) After years of testing and debating how unmanned surface vessels fit into the fleet, the Navy is starting to show what these systems can do. And senior leaders in the Department of War and Department of the Navy are talking less about the promise of unmanned warfare and more about making it part of everyday operations. The Navy needs to decide how it intends to fight with unmanned vessels, what missions they’ll perform and how it will organize, train and sustain the forces operating them. It’s time to move from proving these systems work to making them a routine part of fleet operations. For years, Task Force 59 worked with industry and regional partners to introduce unmanned systems into one of the world’s toughest maritime environments. The deployment of the Leidos-built Seahawk medium unmanned surface vessel with the Theodore Roosevelt strike group is another important step.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "c8d4edde5fb7",
-   "title": "What record diesel prices mean for Canada’s agrifood system, from farm profitability to food inflation",
-   "original_title": "What record diesel prices mean for Canada’s agrifood system, from farm profitability to food inflation",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZjRrRGhCRWtxVmdXS3htZVlHX2UwLWNpMzJ0d3BKVnJDRlVxUl9fRmVhVHpvclcxTGJoVVdPM2Y1bjVkTW1xWjZBRC1OeUR3NDFJbGpHQ3BKRHFzMW91dVpCLTF0WmZKNTlPZmp5cG5acHVOUV9FekdoLTBnZnM0cUVQNzJCNVFWaWc?oc=5",
-   "source": "Farm Credit Canada | FCC",
-   "published": "2026-10-21T19:45+00:00",
-   "added": "2026-10-21T23:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "diesel",
-    "prices"
-   ],
-   "summary": "What record diesel prices mean for Canada’s agrifood system, from farm profitability to food inflation Farm Credit Canada | FCC",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9708172c954b",
-   "title": "Chevron Dropped Funding for Proposed Guyana Port Studies Inherited From Hess",
-   "original_title": "Chevron Dropped Funding for Proposed Guyana Port Studies Inherited From Hess",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbDZYUER2UjhWUDFLWFpTRWI0ZTRENGh3RnR0TlVPTFphU3NiengwdS02eGxhb3REb1ZtUVdzbXM2aGtvVkNlY0Z5UHVCS3RYd2plUzVGT1otVGJfaFVPU1V6Z3ZuYjhNajVTSWRuZ2xwcXdYU2E2S09xcS1UclhRdVdmMDVBam9HRDRkTFQwZ1VndlpERDhBSGlBWUpHRGdiQ1YyU1hLcnU4RHp0TlA0YWlUU040V1V5eHNYZE8xUjVEZlpTaWc?oc=5",
-   "source": "Bloomberg.com",
-   "published": "2026-10-21T19:30+00:00",
-   "added": "2026-10-21T23:31+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Chevron Dropped Funding for Proposed Guyana Port Studies Inherited From Hess Bloomberg.com",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ee45562e3915",
-   "title": "Russia's Northern Sea Route Workaround Supplying Asian Buyers",
-   "original_title": "Russia's Northern Sea Route Workaround Supplying Asian Buyers",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRmVCUnpzRkhJSGlkYnY0M0dZNU1PVENjeW1URzZockR1cjUyaEdtRnpLSE1rMDZqc1U2X0Izd1dZWXltVDNHajNkSU9rcGx1TGJlNFJMUnFIU01Jb1JSY0pZbFRoTE9iM3NCVXZfZDRab1VCX1JRYl8tcmRPeF9RMzF2WmZiV0tLWUZ1cmJPSnAxLTU5Qkh0TnFGSXdDM1FRRDVWSDR1ckdKYjjSAasBQVVfeXFMT0ZlQlJ6c0ZISUhpZGJ2NDNHWTVNT1RDY3ltVEc2aHJEdXI1MmhHbUZ6S0hNazA2anNVNl9CM3dXWVl5bVQzR2ozZElPa3BsdUxiZTRSTFJxSFNNSW9SUmNKWWxUaExPYjNzQlV2X2Q0Wm9VQl9SUWJfLXJkT3hfUTMxdlpmYldLS1lGdXJiT0pwMS01OUJIdE5xRkl3QzNRUUQ1Vkg0dXJHSmI4?oc=5",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "2026-10-21T19:00+00:00",
-   "added": "2026-10-22T21:54+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "crude",
-    "oil price",
-    "prices",
-    "russia"
-   ],
-   "summary": "Russia's Northern Sea Route Workaround Supplying Asian Buyers Crude Oil Prices Today | OilPrice.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "539966ac1fbb",
-   "title": "US sanctions shipping agents in wide sweep of facilitators of Iran’s dark fleet",
-   "original_title": "US sanctions shipping agents in wide sweep of facilitators of Iran’s dark fleet",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORjlGZlV3RWxSakpkdVVtYU9OS19YeV94RjBiR2M1Y3B5M3lWeHdNV2xldUpsX3dZOTVUTW1teS1qek9TbXE5alF1YVJXN2NIbll1ZDA2TW0ydVQ2c3poUzhLUkdfajI1YzZoWGtjbUM4RG1iMm00RUh5dWFwRVY1MW9XR05tNTk3blN3TFVRV3lGbzVwb3liWlN6N0Fta0JvOTgxU2l0c0M4aVpyMWh2RXptRW13YTFIYVFQVXZNeXZfUmF5?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-10-21T18:57+00:00",
-   "added": "2026-10-22T19:01+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "fleet",
-    "sanction",
-    "shipping"
-   ],
-   "summary": "US sanctions shipping agents in wide sweep of facilitators of Iran’s dark fleet TradeWinds News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "39a6899bc5f3",
-   "title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping",
-   "original_title": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSHY1STNFRUF1aC1oWnEzQVFkcXRDaFY4eGluclhNblpnei1ISTl5a0JuSzhSN2RqbWs5bmU0QjdkUE5VSmRrbmFnVU8zVzQyTFQ1NVVtVUtrT29Vby1iWkdZOFQ2M1pURVRUaGpYaWNxSlM5TXhiUkNFeFM2LWU5QW02R05lQm1xUHFXY0xRTEJiU1NfZDUzSDZMMl93WXUtbGFFdHFuYXFhVV9EZnVSS0FyS1lIWEd0OTlxdkRPcVdYQlgwS0NYODItQWdPR3fSAc8BQVVfeXFMTUh2NUkzRUVBdWgtaFpxM0FRZHF0Q2hWOHhpbnJYTW5aZ3otSEk5eWtCbks4Ujdkam1rOW5lNEI3ZFBOVUpka25hZ1VPM1c0MkxUNTVVbVVLa09vVW8tYlpHWThUNjNaVEVUVGhqWGljcUpTOU14YlJDRXhTNi1lOUFtNkdOZUJtcVBxV2NMUUxCYlNTX2Q1M0g2TDJfd1l1LWxhRXRxbmFxYVVfRGZ1UktBcktZSFhHdDk5cXZET3FXWEJYMEtDWDgyLUFnT0d3?oc=5",
-   "source": "Devdiscourse",
-   "published": "2026-10-21T18:39+00:00",
-   "added": "2026-10-21T21:54+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "law",
-    "sanction",
-    "shipping"
-   ],
-   "summary": "US sanctions Greece-, Panama-based law firm over aid to Iranian shipping Devdiscourse",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "110865959618",
-   "title": "Extended peak season drives high dwell times at San Pedro Bay ports",
-   "original_title": "Extended peak season drives high dwell times at San Pedro Bay ports",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdXNFekppaUVNVURtN3lTVXYwSV9jTEkwQnRpRXA1VXR4MG1MdGdDMHVod3M4SHhQQS1JTDhaQ0VHeEN3WUljY3ZQaFhvWEVpbEZybEExX1VJd2pUZUx0ZnpwbC1DZWpUYTd1ZndzbE1pUFpUZHg0TnRMb1FUU2RKWmdySEpqdlhjZ3p5V3FHeDlOLTF4VU42S2lDZlpua3BnTTFDVk45WXcyT2MwdG1sSHBB?oc=5",
-   "source": "Supply Chain Dive",
-   "published": "2026-10-21T18:37+00:00",
-   "added": "2026-10-24T17:07+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "supply chain"
-   ],
-   "summary": "Extended peak season drives high dwell times at San Pedro Bay ports Supply Chain Dive",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
   }
  ]
 }
