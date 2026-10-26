@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T09:03+00:00",
+ "generated_at": "2026-10-26T09:48+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,91 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "1fa5f93e8b3e",
+   "title": "BofA tracks shipping data showing Red Sea transit recovery",
+   "original_title": "BofA tracks shipping data showing Red Sea transit recovery",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2RHQzd2b2hLWmJFTklzMWUzZElGcVVwUHJLZWx5LW1VNFV1Qmp2ZnhReDMzSEhXS01Nb3lta0lOem0wUTJVUkxpdVcxT2Vub0txbHdpTTlUZ3JGN2ZyWHBPMXRPRldwNTRmOEZHMHdMc1VOaTlnQXpHcThlZTZBaGx3RUxZN3RlMkN4b1FpVjM0WkdOd1VETjBnQXU1eUR0cW9fcVdaRXc5YTNlME1KR2I2MG1wQQ?oc=5",
+   "source": "StreetInsider",
+   "published": "2026-10-26T09:46+00:00",
+   "added": "2026-10-26T09:48+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "red sea",
+    "shipping"
+   ],
+   "summary": "BofA tracks shipping data showing Red Sea transit recovery StreetInsider",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2dbbb847c3df",
+   "title": "Great Eastern continues secondhand spending with LPG carrier deal",
+   "original_title": "Great Eastern continues secondhand spending with LPG carrier deal",
+   "url": "https://splash247.com/great-eastern-continues-secondhand-spending-with-lpg-carrier-deal/",
+   "source": "Splash247",
+   "published": "2026-10-26T09:38+00:00",
+   "added": "2026-10-26T09:48+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "mna"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "acquire",
+    "carrier",
+    "fleet",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "India’s Great Eastern Shipping has struck another secondhand vessel deal, agreeing to acquire a 2015-built very large gas carrier as it continues expanding its diversified fleet. The Mumbai-based listed owner said that it has contracted to buy the approximately 82,000 cu m vessel, which is expected to join its fleet during the December quarter. The company did not disclose the ship’s name, seller or purchase price. The latest purchase follows an active period in the secondhand market for Great Eastern, which has been renewing its tanker and bulk carrier fleets through a series of acquisitions and disposals. The tanker fleet includes five crude carriers, 16 product tankers and four LPG carriers, while the dry bulk side consists of two capesizes, 10 kamsarmaxes, one ultramax and two supramaxes. The owner also has agreements in place to acquire two secondhand kamsarmax bulkers, with those transactions expected to close during the same quarter as the latest VLGC purchase. Separately, the company has committed to a newbuilding suezmax scheduled for the second half of its 2028–29 financial year. Great Eastern’s continued buying follows a string of secondhand transactions this year. By September, earlier coverage had already tracked more than $200m of expenditure on secondhand tonnage, alongside disposals of older vessels.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "842b3a68e9be",
+   "title": "More cars, containers, and cranes: What to know about ‘the largest expansion’ in Philly port’s history",
+   "original_title": "More cars, containers, and cranes: What to know about ‘the largest expansion’ in Philly port’s history",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGQ4QmJxN09rUU55X2dyWjhqMnpjSlR5V2otYmtzMWhhRlh5MmUtS1NkdDZKR3NWVmVqWndmRDJGQUJkb3NGRnVtYXMtVlBLMUhDOFFxLXFFVm9vZ182bmV4dFMtMVVmM0dUZ2J6d0dnRmZfaE5TdVhNbDJrdlZwNGlPOTdmOWNyRTBzUTdGWllrYzZVTmFoWkg4cW9mYTdlOXdoOFBibzBhMXRNR2w1OA?oc=5",
+   "source": "Inquirer.com",
+   "published": "2026-10-26T09:01+00:00",
+   "added": "2026-10-26T09:48+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "port"
+   ],
+   "summary": "More cars, containers, and cranes: What to know about ‘the largest expansion’ in Philly port’s history Inquirer.com",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "da6b9e84bfa0",
    "title": "SSA Marine bolsters mobile harbour crane fleet at Manzanillo terminal",
@@ -16447,92 +16532,6 @@
    "summary": "Extended peak season drives high dwell times at San Pedro Bay ports Supply Chain Dive",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
-  },
-  {
-   "id": "e688cbcb1f27",
-   "title": "South America builds a pipeline of port projects",
-   "original_title": "South America builds a pipeline of port projects",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWkdBMnFURVNCTzNEcWh5WC1qSW1rSHNCa3BleGQwUXF4QmQ1U1ZieFNtX1JFZThZdWRMTXZBb05zbDRSVEcxOXRSa3Nmc0dIMnRMZnNJRmpINVhzZnFzZy1oaHE3THFKekYwT3I1OEtsRk5VUWZJNlVRLUFSNXFCU2d6NXdHQXhYMFJfN0lRSm14cHRadF9VN3Z5QW9VYzlncWM2dGc5TQ?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-21T18:33+00:00",
-   "added": "2026-10-23T08:32+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "South America builds a pipeline of port projects WorldCargo News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ab8f3a210cd4",
-   "title": "Europe is de-risking without deglobalising",
-   "original_title": "Europe is de-risking without deglobalising",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hUXJHMFdsc0RBX19xMDI4N2VmT3psNVh6RlkxQXhNTDF5MHdPWjM1UXFjOU1BdjE1bDU2bGE4SlEya3JiNlJmVjVEV0dsdTVqX1ZsVTJGOVN2WFhrUnlWUFVfUnpBbHAxRzI5eExUUlltVWZNSW43ODV2YlNBYUE?oc=5",
-   "source": "ing think",
-   "published": "2026-10-21T18:01+00:00",
-   "added": "2026-10-21T19:32+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "de-risking"
-   ],
-   "summary": "Europe is de-risking without deglobalising ing think",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "66e6d344f08e",
-   "title": "U.S. Sanctions Law Firm, Shipping Agents and Nine Vessels in Iran Shadow Fleet Crackdown",
-   "original_title": "U.S. Sanctions Law Firm, Shipping Agents and Nine Vessels in Iran Shadow Fleet Crackdown",
-   "url": "https://gcaptain.com/u-s-sanctions-law-firm-shipping-agents-and-nine-vessels-in-iran-shadow-fleet-crackdown/",
-   "source": "gCaptain",
-   "published": "2026-10-21T17:54+00:00",
-   "added": "2026-10-21T19:32+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "commodities",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Russia & Belarus",
-    "Middle East",
-    "North America"
-   ],
-   "tags": [
-    "commodit",
-    "fleet",
-    "law",
-    "sanction",
-    "shadow fleet",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "US Treasury Secretary Scott Bessent looks on as he speaks to the media at the World Bank on the day of a meeting with Chinese Vice Premier He Lifeng, in Washington, D.C., US, September 23, 2026. REUTERS/Nathan Howard The United States has imposed a new round of sanctions targeting a law firm, shipping agents and nine vessels accused of helping Iran move oil and other commodities through international markets, expanding Washington’s crackdown on the networks supporting Tehran’s shadow fleet. The U.S. At the center of the latest action is Karnakis and Karnakis, a law firm operating in Panama and Greece that Treasury says has spent years establishing shell companies used to conceal the ownership of vessels transporting Iranian petroleum, petrochemicals and steel. The law firm also played a key role in establishing the corporate network behind Iranian liquefied petroleum gas magnate Seyed Asadoollah Emamjomeh, whose shipping operations have transported hundreds of millions of dollars’ worth of Iranian LPG and crude oil. The action represents a broader effort to target not just the vessels carrying sanctioned cargo, but also the legal, corporate and logistical services that allow shadow fleet operators to function. Amigoz was also linked to vessels associated with the shipping network of Mohammad Hossein Shamkhani and provided bunkering services to the previously sanctioned shadow fleet vessel ZIXUAN.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
   }
  ]
 }
