@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T02:24+00:00",
+ "generated_at": "2026-10-26T03:06+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "eeab56cf80ce",
+   "title": "Iron Ore Holds Steady As China Demand Cools",
+   "original_title": "Iron Ore Holds Steady As China Demand Cools",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BYU5tWUFuOVVLc1c5X28ydGxfa29tWWY4cnktTnFHdzh6X2R0ODh2MzBxd0hfSG5Ea3hEalVfTjVNbVFMYzIxakNhTHdDTmVZWXlkX3ltTS1mRWVaQkdrTno0bVpvX1piSVJJTDJwNjNOaXZveklNblBpREs?oc=5",
+   "source": "Finimize",
+   "published": "2026-10-26T02:02+00:00",
+   "added": "2026-10-26T03:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "iron ore"
+   ],
+   "summary": "Iron Ore Holds Steady As China Demand Cools Finimize",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "f6f866ce84e0",
    "title": "Australian met coal outlook not as strong as banks and investors think",
@@ -16294,6 +16321,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "394626a3a9cc",
+   "title": "Multimodalny Węzeł Przeładunkowy w Porcie Szczecin gotowy. “Są to najwyższe standardy”",
+   "original_title": "Multimodalny Węzeł Przeładunkowy w Porcie Szczecin gotowy. “Są to najwyższe standardy”",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSTdIVF9sTXpxd2IwVjdjQUtMTElrb09tZWwycXloRnVNUWI5UUxPQ2ZxSW12WUhUeGRHUmNETE5MTGlyeEl0WGV2S2NQdS11TnBUM196WE9XNGJPMGJoT2FmalUxQm9JOVNRN3FfaXVBaDg5eXJGVzJFZVp2WVRyOHo2X19Ic3V4WjktcHoyUFlHdzhMLV90Vlo2a1pKaGZpcTZFbVZWS0hNWnVnWElvY2Rn?oc=5",
+   "source": "wSzczecinie.pl",
+   "published": "2026-10-21T14:00+00:00",
+   "added": "2026-10-26T03:06+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "high",
+   "score": 9,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "przeladun",
+    "szczecin"
+   ],
+   "summary": "Multimodalny Węzeł Przeładunkowy w Porcie Szczecin gotowy. “Są to najwyższe standardy” wSzczecinie.pl",
+   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
+  {
    "id": "7b4d3bfdbbaa",
    "title": "Davies Turner acquires 130,000 sq ft Heathrow logistics hub to expand air cargo operations",
    "original_title": "Davies Turner acquires 130,000 sq ft Heathrow logistics hub to expand air cargo operations",
@@ -16477,61 +16531,6 @@
    ],
    "summary": "Port of Antwerp-Bruges container traffic rebounds as Middle East conflict & trade tensions weigh on cargo Indian Chemical News",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e21316d7a62d",
-   "title": "Goldman Sachs: Rising Shipping Costs Signal Potential Upward Revision to Oil Price Forecasts",
-   "original_title": "Goldman Sachs: Rising Shipping Costs Signal Potential Upward Revision to Oil Price Forecasts",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WU3V3MjB0WXM3eFNVWTAtQ3Z2SmdRb2JDLUJfTnFkZTZyQTdsUnNEZzc3R3pMT3V2V2pYOUM1MEh0WmtyRmFtbUxpc3I1SjE5T3dPalJzTWJkRmZKR0padTdtV2UwcFpaQm9B?oc=5",
-   "source": "صحيفة مال",
-   "published": "2026-10-21T13:29+00:00",
-   "added": "2026-10-24T12:57+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "oil price",
-    "shipping"
-   ],
-   "summary": "Goldman Sachs: Rising Shipping Costs Signal Potential Upward Revision to Oil Price Forecasts صحيفة مال",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7c01ee32b98a",
-   "title": "Oil prices climb on Middle East shipping risks and US stock draws",
-   "original_title": "Oil prices climb on Middle East shipping risks and US stock draws",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd1FwZllXZG1MM2ZnNG9lYUQ3bU9PSW1SbmRoQUZudEs0eVhoVVBzYmNKUXFXVkF2OXRsaVh4Sk5mMmlla1Y4OWdWb2EyTEc2UzJHbjZnRlZGOUlwMHJ5RzNvUXpabW4yQnFqZjJXbDlrSnpoU0o3bktoQzJvbVhEXzR6cXotd2ZXV3UtS3Bn?oc=5",
-   "source": "Offshore Technology",
-   "published": "2026-10-21T13:28+00:00",
-   "added": "2026-10-24T09:42+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "oil price",
-    "prices",
-    "shipping"
-   ],
-   "summary": "Oil prices climb on Middle East shipping risks and US stock draws Offshore Technology",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
