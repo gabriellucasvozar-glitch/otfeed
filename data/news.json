@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T19:16+00:00",
+ "generated_at": "2026-10-26T19:57+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "e391da2e50b0",
+   "title": "Why are oil prices falling despite continuing attacks and supply risks in the Middle East?",
+   "original_title": "Why are oil prices falling despite continuing attacks and supply risks in the Middle East?",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdWxvNU5BOVl2WjRGZUNUNEQ0dmdKVWM5cndCQWJKUjR3Ync3cVQtTVJLM1QxVG4zN0lkRWhiNEpDRm1xb2Q4aU1WNWJMQjJicWs0MWxUMElRSldwRkkzTmtGblVRUUFzZEZlTU9xQXgtdUFmWExOMHRWNUMyT3FXZnJ5eEJHZHRTd3FjODkzSVRVNUl6ZFFFOXh5Xy1WbHpnSl9xNERPUFlQYVFIY2w0?oc=5",
+   "source": "Latest news from Azerbaijan",
+   "published": "2026-10-26T19:33+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Why are oil prices falling despite continuing attacks and supply risks in the Middle East? Latest news from Azerbaijan",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "32f931d8b9e2",
+   "title": "Black Sea turmoil takes toll on Russia's seaborne grain exports",
+   "original_title": "Black Sea turmoil takes toll on Russia's seaborne grain exports",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHdHbGstRVFvZzhRVXA2SU5zS2l0WTRmNVJtdU9GNnJ1cE54RU55czlRRWJkaFRkWW1qNUxlMnY3LWZfb3dwS1NRMEppMUxRaDlqbWZkeG1QYndmS3ZqRHlSQmFrUFhDUUE5bWxTR09DbmUzZjBieTk2MVd3VERMQ3Z2RGh6dHRnR3dPSVlwMTRkRjRSeXBEYV9Sa2tieHc4SU85c3NGX05zSm9QX3JWM21DWlJ4aFRjbndr0gHIAUFVX3lxTE0xTUZ5aUwyemNfU2NYdG9tcmI3N18zVk5UbTh1Sjc1VU84MHhINl9ZYWRjek11TGRoYVBfRUREYnZKVDR2blZkQVUtYjZPdy03aFhRZTlPUzZRc1dDb0dXaFpmV2VDMUxRZk42TU5WZVBQQ21aY3VoSDF2MWtNUERud1paeXJiZEZ6bWlMUXVqb0RLVzdrWU5sSzBZR2NJb1FZYjI3RW84VGFsZ3F5SG5XZ2JDTVkxeWJ0dmdjV1hqaTJaajJCRkZK?oc=5",
+   "source": "Baird Maritime",
+   "published": "2026-10-26T18:30+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "black sea",
+    "grain",
+    "russia"
+   ],
+   "summary": "Black Sea turmoil takes toll on Russia's seaborne grain exports Baird Maritime",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "b3e6e74e45bc",
    "title": "Car carrier orderbook surge raises oversupply fears",
@@ -124,6 +181,33 @@
    ],
    "summary": "Boluda Threatens Legal Action Over Morocco’s Marsa Maroc Port Deal Morocco World News",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "01cb5881d680",
+   "title": "Oil Futures End Mixed as Traders Weigh Supply Recovery Against Shipping Risks",
+   "original_title": "Oil Futures End Mixed as Traders Weigh Supply Recovery Against Shipping Risks",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUThvQVl1RnVpSjI0NnV3VGhRWUU2eWVmOC01c3hpOXJ6eTR0OXNUOTh3VE1vNW1jNFlobjF6QmJRcDc5eF9nbTZQbngzUlZWbWJ6aXpSYndoNHhsRVFoWURGWHF1WmwwOS1QUTRyTmgwaUZLVlB0UTJqMmUyTTY0SnluSUhTVGR4anFHZGhMTUItM3I5VUlIZkhRVEQydw?oc=5",
+   "source": "WSJ",
+   "published": "2026-10-26T16:36+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "futures",
+    "shipping"
+   ],
+   "summary": "Oil Futures End Mixed as Traders Weigh Supply Recovery Against Shipping Risks WSJ",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -389,6 +473,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "cc9621a7d9c4",
+   "title": "The opposition forces in Parliament a request for aid from the Government for the fishing fleet due to the increase in fuel prices.",
+   "original_title": "The opposition forces in Parliament a request for aid from the Government for the fishing fleet due to the increase in fuel prices.",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSGR1R1hjVmpNUEgxUWJhZDQxY3U1RkZmdEcyMmlHNV9JUnlNU0hyR2dmczZDbHpBNk1yNWktaWpOZVJvcUZfRFQtcUJRVktSdVZBejhQZ0VxdFFqeEg0OC0yMFlvbFk2U3RyZkN6b19qWE8tZFdKbmQzaFJWRzJwZGcwQUhfLWc4b20zZTFEVDlnRWZGcGJBa2FvajM2cTVfcy1OaVFsbV9uZkdkTjVoUXYtQ2gtZmVEcVFzcDE3cE5JZEVJd3dHeTVkRWhMX0Fhd1QybGRDeEJZMmFIX3diTXJSNGVFX1dudWpZZ3ZxbUkwWDdJai1ua28yellOSXBSQmlZLXFjNGM3Ykph0gGMAkFVX3lxTE5IZHVHWGNWak1QSDFRYmFkNDFjdTVGRmZ0RzIyaUc1X0lSeU1TSHJHZ2ZzNkNsekE2TXI1aS1pak5lUm9xRl9EVC1xQlFWS1J1VkF6OFBnRXF0UWp4SDQ4LTIwWW9sWTZTdHJmQ3pvX2pYTy1kV0puZDNoUlZHMnBkZzBBSF8tZzhvbTNlMURUOWdFZkZwYkFrYW9qMzZxNV9zLU5pUWxtX25mR2RONWhRdi1DaC1mZURxUXNwMTdwTklkRUl3d0d5NWRFaExfQWF3VDJsZEN4QlkyYUhfd2JNclI0ZUVfV251allndnFtSTBYN0lqLW5rbzJ6WU5JcFJCaVktcWM0YzdiSmE?oc=5",
+   "source": "Demócrata",
+   "published": "2026-10-26T14:04+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fleet",
+    "parliament",
+    "prices"
+   ],
+   "summary": "The opposition forces in Parliament a request for aid from the Government for the fishing fleet due to the increase in fuel prices. Demócrata",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
    "id": "88ed50f63199",
    "title": "Baltic Dry Index Slips As Capesize And Panamax Rates Ease",
    "original_title": "Baltic Dry Index Slips As Capesize And Panamax Rates Ease",
@@ -538,6 +651,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "1c1f222e7cc5",
+   "title": "Oil and shipping disruption adds urgency to Turkey’s renewable energy plans",
+   "original_title": "Oil and shipping disruption adds urgency to Turkey’s renewable energy plans",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2VURlRrcWgzZ05FQmFUa1dTX0NhLW1yZUtpaUl4NkIyaUVsVUtybFFxWDRsU2tiN1cxcEVfanV1dEVTdEdtSEIySjkxMmZST1BiVlpiTW9GRU8wUGc5QjZfS25KMEMzNXB6Y1lyQWdGVjI2RFlqLWN6S2NtTmUzV1pPUE53aDhUblZ5QTFwSE5jV2Uyb0VILXRKUExQNm9naEh4Qkg1SEZDUQ?oc=5",
+   "source": "Middle East Eye",
+   "published": "2026-10-26T13:52+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Middle East"
+   ],
+   "tags": [
+    "disruption",
+    "shipping"
+   ],
+   "summary": "Oil and shipping disruption adds urgency to Turkey’s renewable energy plans Middle East Eye",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4bf1b9c4f26f",
    "title": "Baltic Dry Index falls 1.2% as shipping costs face fresh pressure",
    "original_title": "Baltic Dry Index falls 1.2% as shipping costs face fresh pressure",
@@ -596,6 +737,33 @@
    "summary": "After all the hooting, it seems the US is keen to again delay implementation of planned port fees for China-linked vessels, with the US Trade Representative (USTR) requesting the delay to give Washington and Beijing more time to negotiate. The USTR asked that the measure intended to penalise China’s maritime, logistics, and shipbuilding sectors remain suspended through to 9 January, with the initial suspension set to expire on 9 November. “The US is continuing to engage with China with the goal of obtaining the elimination of the acts, policies, and practices at issue in the investigation. The trade representative is therefore proposing to further suspend for two months,” it stated. The USTR also said it was “requesting comments from any interested person” about the proposed suspension, giving any interested party until the end of this week to file comments. Under the measures, non-Chinese companies using Chinese-built vessels to call at US ports face charges of $50 per net tonne, while Chinese companies will be subject to fees of $18 per net ton or $120 per container discharged, depending on which is higher. That marked a dramatic downturn on the threatened $1m fee per US port call, or $1,000 per net tonne the Trump administration had initially proposed during its more aggressive approach to China diplomacy.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "06e5f72c5e2e",
+   "title": "Maersk warns East African fruit exporters of El Niño shipping disruptions",
+   "original_title": "Maersk warns East African fruit exporters of El Niño shipping disruptions",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRF96VW1scEgtMU9NVk1rNk4weVk5WFJXc2ZkM1Z4bDl6cEEwMkZ0Zzh0MGVoZGpGVGxYUkJSQk1ZbG1VelowMndUSjljbGJfMGdIeUZVcF9LMmlIOVNMb0RzU3BSTlJBRmw0emNMd183U3MtNk9oRWpsV1gtQlhtb3VwSGlVcXZRVmYzWWM5ZV9nRko0bWNWX01naXAtYnFPMkdaSU03NDdIZkJSbUFXVjd6cjFMLTRJVTFBUFoxRDhNU0NVZWlJUk9MTQ?oc=5",
+   "source": "FreshPlaza",
+   "published": "2026-10-26T13:26+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "disruption",
+    "shipping"
+   ],
+   "summary": "Maersk warns East African fruit exporters of El Niño shipping disruptions FreshPlaza",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
   },
   {
    "id": "def3e3c242fe",
@@ -684,6 +852,33 @@
    ],
    "summary": "Brazil election results put ag commodities under pressure Farm Progress",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d7d3bdcc526c",
+   "title": "CTP starts construction of Serbia’s largest logistics park",
+   "original_title": "CTP starts construction of Serbia’s largest logistics park",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVGJsOG5WajRkenQ4U1padWQ3UEVWY09TYmtpd0NoQ3E1bW5LbDZUOHdRcmdBTlE1OWxzdmtkNl9lNGJSSkVLTXRCQkZtT1J1bHpUTXFuZGlXMjYzNmNCazdFV1phOVJZQzE0ck5ESm9QUzE1RW0xUFNFa1dMaHFvRlNHR1ctLVlnLTM2a29ZMllmWFdpMmZINGxmSGM?oc=5",
+   "source": "EurobuildCEE",
+   "published": "2026-10-26T12:52+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Central & Eastern Europe"
+   ],
+   "tags": [
+    "logistics",
+    "logistics park"
+   ],
+   "summary": "CTP starts construction of Serbia’s largest logistics park EurobuildCEE",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -1162,6 +1357,37 @@
    "summary_method": "extract"
   },
   {
+   "id": "2ac352b2b518",
+   "title": "Tunisia: Ports, tenders open for dredging and concessions. Expectations for Enfidha",
+   "original_title": "Tunisia: Ports, tenders open for dredging and concessions. Expectations for Enfidha",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVW9xbWxnR0pWaUpGS3p0cWM1QXZ2UDh6OE9zWjZYdS1jUVhObDB5S3YyWmVNTnNTZGM0MGFsaDNXX2RwaTc2VFY2RC15eDg1SEFJYXJtWWtVNXI2OXVHXzZPaEE2cUVWazFvcE9fdGI2RFctVm5tdmJCbk5vTkl1TjBtLV9zeTFVdlBod25SLWh3clhnek4tVnFXLWd6X3VNQlVpdXl3Zk13MTFROE5JbjVseFc?oc=5",
+   "source": "Agenzia Nova",
+   "published": "2026-10-26T11:31+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "mna",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "concession",
+    "dredging",
+    "port",
+    "ports",
+    "tender"
+   ],
+   "summary": "Tunisia: Ports, tenders open for dredging and concessions. Expectations for Enfidha Agenzia Nova",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "9dece499b238",
    "title": "Bahri turns to homegrown yard for $451m VLCC trio",
    "original_title": "Bahri turns to homegrown yard for $451m VLCC trio",
@@ -1190,6 +1416,34 @@
    "summary": "Saudi shipping giant Bahri has ordered three very large crude carriers at International Maritime Industries (IMI), committing SAR1.692bn ($451m) to expand its tanker fleet and support shipbuilding at home. The 320,000 dwt vessels will be built at IMI’s Ras Al Khair facility on Saudi Arabia’s eastern coast, with deliveries scheduled between 2029 and 2030. The contract, signed on October 22 and disclosed on Sunday, works out at approximately $150m per ship. The latest agreement takes Bahri’s Saudi newbuilding commitments to nine vessels, following a $203m order for six geared ultramax bulk carriers at the same yard in October last year. Those 62,823 dwt ships are scheduled for delivery between 2028 and 2029 and marked the launch of Saudi Arabia’s first large-scale commercial shipbuilding programme. In 2021, the owner took delivery of the 319,000 dwt Rayah, built under an earlier IMI and Hyundai Heavy Industries partnership. The new order also adds to Bahri’s wider tanker fleet renewal drive. The company completed a $1bn acquisition of nine modern VLCCs from Evangelos Marinakis-controlled Capital Maritime & Trading last year, following a string of secondhand tanker purchases. Earlier this year, Bahri added five chemical tankers and disposed of an older VLCC, taking its owned fleet to 107 vessels at the end of June.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "f6453c531cb4",
+   "title": "The Pipeline: Blackstone on data centre pushback, EU probes KKR deal, IFM’s £10bn UK ports deal",
+   "original_title": "The Pipeline: Blackstone on data centre pushback, EU probes KKR deal, IFM’s £10bn UK ports deal",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWEt6bU5hYUtKc3FKRkdOWFYwZ0ZiQk91ZFRXOUZmdDdycXBZWXY2WDZKWTZmUXRERjluOXZmWU80Zk5Ec2k3amxsb251WGFFUXJSX0J0S3FGQVBXWklCMFB4VmgwQkp1dHpCYXVMbkI4RDZ6azltcU9KeUVVTnNhOUYzZXNDMnJJVVYwVlJBUG14NHUzTWFELTJjVkJGaFAzT2lTcG1LclZMdXlQeXNTMTZfU3BuTDJrSk5qZ1Y4a04wem1hTVV5QXhR?oc=5",
+   "source": "Infrastructure Investor",
+   "published": "2026-10-26T11:17+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "port",
+    "ports"
+   ],
+   "summary": "The Pipeline: Blackstone on data centre pushback, EU probes KKR deal, IFM’s £10bn UK ports deal Infrastructure Investor",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "326e858739e6",
@@ -1895,6 +2149,31 @@
    ],
    "summary": "Drewry Warns Container Shipping Faces Unavoidable Overcapacity as Suez Return Adds 1.6 Million TEU Breakbulk.News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0909743c30eb",
+   "title": "The US announces Middle Corridor commitment, but relies on private investment to develop it",
+   "original_title": "The US announces Middle Corridor commitment, but relies on private investment to develop it",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcXoyUEZTWURqclo4Y19PdlV1U1NHR2tfVXpJZ2lCSHZDT20xX0YtRFZoVDYxWnlKNktfUzVCeDMtMERNQXg5V28zR0syUG1xRllkaHkxMGd0U0hKZUJMeFhpaXZ5S1VfUlNYUkhwSjRzajN1QnBXV2J4Rm53Nmp6ZzAyejlaZnlCQUh2WUN1NDc4aGJSYkpxUHhQdTJXU0JzcmZMa2RUdTVhclhtVEpjNk5qVDlGd0NjblRnVkV6LW9mTlhlNm9aMVBwRGR5dFRiS1Q3S0M0dnlmdw?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-26T09:44+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "The US announces Middle Corridor commitment, but relies on private investment to develop it RailFreight.com",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -7781,6 +8060,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "cd511a900a84",
+   "title": "DHL boosts US-Asia cold chain connectivity for healthcare shippers",
+   "original_title": "DHL boosts US-Asia cold chain connectivity for healthcare shippers",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1RPUi1ZSHlkRHBkTl9pRlRyQjlNMm1PcDlDUWlfSnpzeUd6Qjl4S2J0R1Jyb1NBWF9oOVZLUUlmV2NjeE5jU3ROZW9lbEZ3bm8xTzVKTmF0TEJNN01CYkFSVWIwNmlUaTlGQmp3SlhpbW03MHdyMURUdVh6UkRaMUNJdlVoQV9Bb2xfd3pBVm5Nb2lKQ0lIM3Vrbzd1b05Dc2MtdVJfaEV5YXFlRTJyWA?oc=5",
+   "source": "Supply Chain Dive",
+   "published": "2026-10-23T14:37+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "supply chain"
+   ],
+   "summary": "DHL boosts US-Asia cold chain connectivity for healthcare shippers Supply Chain Dive",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "40c358a1ad49",
    "title": "Diesel price surge putting mining profits to test",
    "original_title": "Diesel price surge putting mining profits to test",
@@ -12132,6 +12437,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "eae29b1de185",
+   "title": "Kongsberg wins Vessel Traffic Service contract",
+   "original_title": "Kongsberg wins Vessel Traffic Service contract",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVmtUSEpHZjdKcDl0NFFTNFhlVUQxY3FHMERfZ0VUVHZlVU16VDRKc0lqelgyNG1USlJuSnBBT1JDb1FNRjM5ZU1xUEpQemFtOGJtOEJCUEsxSktTeXVoRlN0dWlqOWtIS1V6UjJlT2hJS1YxbTJsaGpnVHJVY3ZnUEp1bVpCbV9GaFM4VjlueXJjX0drYXJ3MQ?oc=5",
+   "source": "Australian Defence Magazine",
+   "published": "2026-10-23T01:31+00:00",
+   "added": "2026-10-26T19:57+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "defence",
+    "vessel"
+   ],
+   "summary": "Kongsberg wins Vessel Traffic Service contract Australian Defence Magazine",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "8c78f6160b3e",
    "title": "Indian Steel Prices Set For Longer Rally As Demand Outpaces Supply: Research",
    "original_title": "Indian Steel Prices Set For Longer Rally As Demand Outpaces Supply: Research",
@@ -16283,340 +16615,6 @@
    "summary": "How ocean shipping disruptions power Africa’s air cargo surge Fashion United",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
-  },
-  {
-   "id": "23c856e804cf",
-   "title": "Safla launches a Gauteng chapter hoping to eradicate logistics bottlenecks",
-   "original_title": "Safla launches a Gauteng chapter hoping to eradicate logistics bottlenecks",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzM4M0JRbS1sU29zVkI5VXF5VHBtZ0N6UzFZV2xTckZsekVuWHp1bE80Z0RlX0FXcU9HRUp6UF9ERHJkV1gwYV9vZzdxSndLdFlVQW82QjYyTUpidkJ6TndqWVZjVWFyVno4QXQ3eW9vSGlvVWprdTFTT016bjZ1VTRkTkpTMWpFUjh3RFR5TkNHM05QZ2c5Wmln?oc=5",
-   "source": "Engineering News",
-   "published": "2026-10-22T08:46+00:00",
-   "added": "2026-10-22T21:18+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bottleneck",
-    "logistics"
-   ],
-   "summary": "Safla launches a Gauteng chapter hoping to eradicate logistics bottlenecks Engineering News",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f14f7a629cdf",
-   "title": "[SMM Analysis] Indonesia Steel to 2030: Anti-Dumping Reshapes Trade, Import Reliance Eases but Prices Under Pressure",
-   "original_title": "[SMM Analysis] Indonesia Steel to 2030: Anti-Dumping Reshapes Trade, Import Reliance Eases but Prices Under Pressure",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWmlFYXJxSFFDVGNaY3dHQ2MxU3EzclNiSUhZNXFaaXJRUzl2MUdUMDFrTzBWV2xPTlNFNnlLcGcwbllFZm5XQVY5SER1SUZJOVZTY1A5Ujk2SGt6ejc2QnZmekp0SGpHd25DeXRjV055bldRcVB2MGsySVo3QmRBTW9zQ2cyZ3VQaXgtc0RRaFNHTEg5b1B5d0Y1S1J4NG1JQ0djdG9mV2c2c1VTZEhDV19KZ1RjUm9FdnNfLXBUQ1dyRW5ENi1yeVZzS1Y2dzRHblRYMHN4dmJrT1FRd3lQQ2Q3SmJ1MnFNeFNpWk5XS1ZPZw?oc=5",
-   "source": "Shanghai Metals Market",
-   "published": "2026-10-22T08:44+00:00",
-   "added": "2026-10-26T17:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "prices",
-    "steel"
-   ],
-   "summary": "[SMM Analysis] Indonesia Steel to 2030: Anti-Dumping Reshapes Trade, Import Reliance Eases but Prices Under Pressure Shanghai Metals Market",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9e26ed18d9a2",
-   "title": "Maersk Tankers wins EU funding to retrofit VLACs for ammonia power",
-   "original_title": "Maersk Tankers wins EU funding to retrofit VLACs for ammonia power",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRUJQZ194VHViQWx6WThsUjRibWhaUFhGZlBGZWIwNXhRWjdzYVFzd0hHSHlxSXBLX3RKVkZtdU9OYjV2ZENPOGFwdG1PZjNES0FLMlhpZS1taWdUN05tdFdKTHFTZzE3OXN1bnJ4QmlGN056eEVFNFJtSzBwd2FSYm14SzJEYl82LWZXZlhaeWxmWW1RYVdWNFRyQ180YTdvdHZfS29xWVZQR1NzelRqRnRzRnluYW96?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-10-22T08:43+00:00",
-   "added": "2026-10-26T15:19+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "ammonia",
-    "eu "
-   ],
-   "summary": "Maersk Tankers wins EU funding to retrofit VLACs for ammonia power TradeWinds News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6ca30e058f3a",
-   "title": "Royal T Shipyards delivers second diesel electric cargo vessel to Navigare for fleet renewal",
-   "original_title": "Royal T Shipyards delivers second diesel electric cargo vessel to Navigare for fleet renewal",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOczk5OXJhNHZlLUNQT2dVd3VfRmxNUkxwbEtpOHBRc2dSMnpBbnRqYmtaS2dUczdVdG45RmEwWllqSWdnaUJncmZ5R1FzWjZ0eUZXLVo3SE9CMHpQRk5JaUJmQ3V6UlBBcjhMeHcwakdjVGtScHJmSVdDVjNmcnlzSVAtTm5yOXliZ0RJeFNrR0tvaGVDQ2JPdW83aTlUcHZOYnpfLUlVUUJWSEUyWmtZbEJveS1zNkU?oc=5",
-   "source": "Breakbulk.News",
-   "published": "2026-10-22T08:36+00:00",
-   "added": "2026-10-22T09:13+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "diesel",
-    "fleet",
-    "vessel"
-   ],
-   "summary": "Royal T Shipyards delivers second diesel electric cargo vessel to Navigare for fleet renewal Breakbulk.News",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d640d7b40b78",
-   "title": "Kuehne+Nagel CEO expects most container lines back in Suez Canal by early Q2",
-   "original_title": "Kuehne+Nagel CEO expects most container lines back in Suez Canal by early Q2",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQXRhYXluWE9YQktud2hPb1BjekdnT19zTVZMTTdrZUZia0RpOFRXMWpDRUluNTk1dW82bTdFRkNxZndsaFZ1OHo3RjNFRDlBRGt3b3M1eUtkTlN3UGE4eE92ZE03dnBwalBsUF8zbEZJMi1tTXZBQ3cyYkJUUU1XWU5kbnpFalpCMjViQ3pfUUdWYWsyVlRnYlJvTE1rZ1N0cDc5UV96dzFiVG16QUtmcDM4WGJqMVFjYzdOeGZMd1dkLWEt?oc=5",
-   "source": "Reuters",
-   "published": "2026-10-22T08:35+00:00",
-   "added": "2026-10-22T11:09+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9.0,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "container line",
-    "suez"
-   ],
-   "summary": "Kuehne+Nagel CEO expects most container lines back in Suez Canal by early Q2 Reuters",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2ae91648be08",
-   "title": "China’s green corridor push hits commercial reality check",
-   "original_title": "China’s green corridor push hits commercial reality check",
-   "url": "https://splash247.com/chinas-green-corridor-push-hits-commercial-reality-check/",
-   "source": "Splash247",
-   "published": "2026-10-22T08:31+00:00",
-   "added": "2026-10-22T08:31+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "shipping"
-   ],
-   "summary": "China has emerged as a major player in the global green shipping corridor movement, with at least 21 initiatives linked to the country, although most remain in their early stages and only one has progressed towards commercial operation, according to a new report from the Global Maritime Forum. The study, released during the organisation’s annual summit in Shanghai, shows that China accounts for nearly a fifth of the world’s green shipping corridor initiatives, having added ten new projects in 2025 alone. However, of the 21 initiatives identified by the end of June this year, 12 were still at the initiation stage, five were exploring feasibility, three had reached preparation and just one had entered the realisation phase. Chinese projects under development are targeting annual production of 30m tonnes of green methanol and 15m tonnes of green ammonia by the early 2030s, although the report cautions that not all announced capacity will reach the investment stage. The report found that green methanol and ammonia still cost two to three times as much as conventional marine fuels, even with China’s competitive production costs. The findings come as China begins turning some of its green shipping plans into commercial operations.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "322c2066be3b",
-   "title": "Batumi Port Cargo Throughput Surges 13 Percent as Middle Corridor Trade Expands",
-   "original_title": "Batumi Port Cargo Throughput Surges 13 Percent as Middle Corridor Trade Expands",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXdCdlhQR1owTEJwRFdVWklROXNIanpMYWxmSVVlYVZUVDVLYzl5TzM3Zkc1WWhFMFVZTkhGOE1sVF9uWlAwdUtvQU02VllURHBvRFAxekQtWjd2X19fZUppNmUtWnFxOElhcTBOT3hQV2ptV3VaMm0tNUNqS08xeklCNlgteEpBNlV6dFhGVHRzcElIWU10cjJLaldHQkZ6ckJCTHh4SERSZFlOUUdNWGVWdw?oc=5",
-   "source": "https://streamlinefeed.co.ke/",
-   "published": "2026-10-22T08:22+00:00",
-   "added": "2026-10-22T09:13+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor",
-    "port",
-    "throughput"
-   ],
-   "summary": "Batumi Port Cargo Throughput Surges 13 Percent as Middle Corridor Trade Expands https://streamlinefeed.co.ke/",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cc9b565abc9f",
-   "title": "Tufton rides stronger markets with fresh tanker and bulker deals",
-   "original_title": "Tufton rides stronger markets with fresh tanker and bulker deals",
-   "url": "https://splash247.com/tufton-rides-stronger-markets-with-fresh-tanker-and-bulker-deals/",
-   "source": "Splash247",
-   "published": "2026-10-22T08:15+00:00",
-   "added": "2026-10-22T08:31+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bulker",
-    "charter",
-    "dry bulk",
-    "fleet",
-    "vessel"
-   ],
-   "summary": "London-listed Tufton Assets has secured higher-paying employment across its tanker and dry bulk fleet, with two MR product tankers extended for another year and further charter renewals in the pipeline. The charterer of the 2016-built Catherine Grace and Madelyn Grace exercised options in October to extend both vessels’ employment by 12 months at rates above their previous firm periods, the ship investment company said in its third-quarter update. The latest extensions add to a string of chartering moves during the third quarter, when the company secured improved terms for three vessels and fixed two handysize bulkers on new arrangements. The company also secured more than $15,000 per day for handysize bulker Amilyn and converted the index-linked charter of sistership Staithes to a fixed $19,000 per day for the fourth quarter. The wider chartering activity comes as Tufton benefits from stronger tanker and dry bulk markets. The company said disruption around the Strait of Hormuz, coupled with reduced availability of compliant tankers, had helped lift freight rates, while grain, iron ore and bauxite demand supported dry bulk earnings. Tufton’s fleet currently comprises 21 vessels, including eight product tankers, two chemical tankers and 11 bulk carriers. Earlier this year, Tufton expanded its dry bulk exposure with the $33m acquisition of two Japanese-built handysize vessels, which entered the fleet in April.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "f6e7ecaa0c7d",
-   "title": "VOC Port's international container terminal gets ‘green terminal’ tag",
-   "original_title": "VOC Port's international container terminal gets ‘green terminal’ tag",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcjU4V290SGVON0VnMEtvcTZMR090b05vRmVJcWtQYi00aExaNVJBVExyZXhpVVdNV2lpTDVBNmkzbGg1djBydVY5dzlfcERReTJPRlhtQTNfWV9jQjU3Z19kSWtOdEFqaVFOWE5mb2FqUksyaUs4UVNydUxINmQydkZIeFhubGFFZkI3M2JLcjBDcUhmNUs2R2JCUEZubFdFamtwWGJrdm9YOWZuY05MMDFhOGZ3WGZkY1ZMUkNVZkJHaHdYdHpjZXNUNi05RlZJaWlaWk9DMmdiNnlYcy1R0gHfAUFVX3lxTE9yNThXb3RIZU43RWcwS29xNkxHT3RvTm9GZUlxa1BiLTRoTFo1UkFUTHJleGlVV01XaWlMNUE2aTNsaDV2MHJ1Vjl3OV9wRFF5Mk9GWG1BM19ZX2NCNTdnX2RJa050QWppUU5YTmZvYWpSSzJpSzhRU3J1TEg2ZDJ2Rkh4WG5sYUVmQjczYktyMENxSGY1SzZHYkJQRm5sV0Vqa3BYYmt2b1g5Zm5jTkwwMWE4ZndYZmRjVkxSQ1VmQkdod1h0emNlc1Q2LTlGVklpaVpaT0MyZ2I2eVhzLVE?oc=5",
-   "source": "BusinessLine",
-   "published": "2026-10-22T08:14+00:00",
-   "added": "2026-10-22T10:31+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "container terminal",
-    "port",
-    "terminal"
-   ],
-   "summary": "VOC Port's international container terminal gets ‘green terminal’ tag BusinessLine",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1b6f9a5c0533",
-   "title": "Ukraine and Poland discuss grain transit to European ports",
-   "original_title": "Ukraine and Poland discuss grain transit to European ports",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONzdxNExQMHJ0SS1PYnBodFdxSFQ1TVJUdFZUV3ptb3ppdHVlZE10UVBTQ21MSC1xSnpKQl83TGR0WnFnZmZ5YzBESkplc254UTdYVlVpdTgwallyS1NicVEtVVoyZi1KUGdSWFlmMC1hdlgydll0Um8teGRXQUg1OHVZbw?oc=5",
-   "source": "Mezha.net",
-   "published": "2026-10-22T08:12+00:00",
-   "added": "2026-10-22T09:55+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "ports",
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Poland",
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "grain",
-    "poland",
-    "port",
-    "ports",
-    "ukraine"
-   ],
-   "summary": "Ukraine and Poland discuss grain transit to European ports Mezha.net",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3392baf86408",
-   "title": "Ammonia fuelling gets a boost from EU Innovation funding round",
-   "original_title": "Ammonia fuelling gets a boost from EU Innovation funding round",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdEJ0bU9BejJQc3NRM0M2NlFqWklSRXdUQWpmalEyVjJYOGx6UGEyUlFZT1VGdlc2UHNHa3VYUE5yTUJnVjNRNzRJQ3VOa2ZUS1dvc0FDSG83Tll6UUhKVDUxRVc4NVFId25yYlFOS1c3SWJNQnJhU1RBakoxcEh2WjZaUnUxOUZRa0VaU0FrREFXUVpZMF92bFp5aDU1MXo5eXl1MldveVY4VHkzTlE?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-10-22T08:08+00:00",
-   "added": "2026-10-22T08:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "ammonia",
-    "eu "
-   ],
-   "summary": "Ammonia fuelling gets a boost from EU Innovation funding round TradeWinds News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2efd23a9640c",
-   "title": "China adds new state-owned shipbuilding player in Guangzhou",
-   "original_title": "China adds new state-owned shipbuilding player in Guangzhou",
-   "url": "https://splash247.com/china-adds-new-state-owned-shipbuilding-player-in-guangzhou/",
-   "source": "Splash247",
-   "published": "2026-10-22T08:06+00:00",
-   "added": "2026-10-22T08:31+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "chinese",
-    "manufacturing",
-    "supply chain"
-   ],
-   "summary": "Guangzhou has formally launched a new state-owned maritime industrial group as the southern Chinese shipbuilding hub looks to expand its manufacturing capacity and bring more of the industry’s supply chain under local ownership. Guangzhou Marine Equipment Group, established with registered capital of RMB2bn ($300m), has begun operations following an unveiling ceremony this week. The company is wholly owned by Guangzhou Industrial Investment Holding Group, with the municipal government as its ultimate shareholder. The new group has joined forces with China State Shipbuilding Corporation-controlled Guangzhou Shipyard International (GSI) and Huangpu Wenchong, as well as COSCO Shipping Specialized Carriers, marine technology company SEAHI Robotics and the Guangzhou branch of China Classification Society. Guangzhou Marine Equipment Group has set a target of reaching about $3.9bn in business scale by 2030, according to local government-backed reporting. Guangzhou is developing a new marine equipment manufacturing and shipbuilding base at Longxue North in Nansha, involving investment of approximately $1.09bn. Guangzhou Marine Equipment Group is also lined up to participate in the development, although its financial commitment has not been disclosed. GSI recently signed an agreement with China Railway Shanhaiguan Bridge Group to outsource hull block production, adding manufacturing capacity outside the traditional shipbuilding supply chain.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
   }
  ]
 }
