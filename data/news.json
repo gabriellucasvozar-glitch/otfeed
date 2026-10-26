@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T07:19+00:00",
+ "generated_at": "2026-10-26T08:13+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b7b830ce6c50",
+   "title": "MSC boxship gashed in Bremerhaven cruise ship collision",
+   "original_title": "MSC boxship gashed in Bremerhaven cruise ship collision",
+   "url": "https://splash247.com/msc-boxship-gashed-in-bremerhaven-cruise-ship-collision/",
+   "source": "Splash247",
+   "published": "2026-10-26T08:01+00:00",
+   "added": "2026-10-26T08:13+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "container terminal",
+    "port",
+    "terminal",
+    "teu",
+    "vessel"
+   ],
+   "summary": "An MSC containership has suffered a 10-metre hull tear after being struck by a TUI Cruises vessel during a departure manoeuvre at Germany’s Bremerhaven port in stormy conditions. The 16,520 teu MSC Victorine, a 2023-built, Liberian-flagged vessel, was berthed at the container terminal when the 99,526 gt Mein Schiff 3 collided with its stern on Sunday evening, October 25. The incident occurred at around 5.30 pm, shortly after the cruise ship departed the Columbuskaje terminal with tug assistance. According to German media reports, the collision tore a roughly 10-metre section of the MSC vessel’s hull above the waterline, with damage also reported to containers and deck structures. The smaller MSC Anne F was also berthed nearby, but its involvement in the incident remains unclear. The MSC Victorine , which had been scheduled to proceed to Hamburg, remained in Bremerhaven following the collision. The cruise ship, carrying 2,428 passengers and 922 crew, returned to the Columbuskaje terminal with tug assistance for damage inspections. The incident has also thrown the start of the vessel’s 20-night Canary Islands and Morocco cruise into doubt, with TUI Cruises yet to confirm whether the sailing can proceed. Collision at the Port of Bremerhaven Today there was a collision between the Mein Ship 3 and the MSC Victorine pic.twitter.com/mhUA5rP5Yb",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "fa92c3a28f5b",
+   "title": "Rapeseed market analysis – MATIF steady, Black Sea slightly weaker — CMB News",
+   "original_title": "Rapeseed market analysis – MATIF steady, Black Sea slightly weaker — CMB News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0JjQWtoekRIVmQ0ZVF6dU92cl9TZTZyUkh2STdkcTdtaFU0ZDJTeDhzTW9BY0xHVHBrWEhtT3hxUDIyeGlEYk15MjJXZmQ0MzRsR3BuWDFlQlNRcGhVaDF3enIxVG9LRDhnQjVjTHlTOWZ2aEpvOHd0YnA0cEJDY2Jza3VSMkpUaGVnT3F3QkJYR01kYWtSd2xvUEVDQQ?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-26T07:42+00:00",
+   "added": "2026-10-26T08:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "rapeseed"
+   ],
+   "summary": "Rapeseed market analysis – MATIF steady, Black Sea slightly weaker — CMB News CMB News",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
   {
    "id": "1226f091cf4e",
    "title": "International Port Experts Visit ZPMC for Technology and Standards Exchange",
@@ -38,6 +95,61 @@
    ],
    "summary": "International Port Experts Visit ZPMC for Technology and Standards Exchange StreetInsider",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b5d7236400d9",
+   "title": "Kazakhstan and UAE Advance Trans-Afghan Railway to Connect Central Asia With Pakistani Ports",
+   "original_title": "Kazakhstan and UAE Advance Trans-Afghan Railway to Connect Central Asia With Pakistani Ports",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNk9nQ240dm4xUFBneEdIVk1Kdmg1LXk0czdmNzJ6WHB1OU9STUdHS3ZNbWgzUFFPQnR2WkRPYVhjTHNmZEZyY0VkMjFzZ1JvX1ZZRUg3RV9uWkZwMExiVmxGWlp0cHRuZkxVZWRYVUVHZmRQS0xId1BIZmhSRHA3WTRIN2Vkb2NYdldzNnpVM3FYTmtHSWZsaE1uVQ?oc=5",
+   "source": "streamlinefeed.co.ke",
+   "published": "2026-10-26T06:55+00:00",
+   "added": "2026-10-26T08:13+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "railway"
+   ],
+   "summary": "Kazakhstan and UAE Advance Trans-Afghan Railway to Connect Central Asia With Pakistani Ports streamlinefeed.co.ke",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0e641e48e2e0",
+   "title": "Crude oil price prediction: is a $120 shock coming after Brent falls to $114?",
+   "original_title": "Crude oil price prediction: is a $120 shock coming after Brent falls to $114?",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRTU0SW5ReDdrY2t0VVZ5OEg1X2RHU3Z3dUZYcGg1ckpZdVJ0LWhUaWl0bmZETGlQZXdrYkIzRkhYQ3VRYVJCSUpCOXFyUmJ6Q25nd05HZUFvSXQ4bEE4cE92SUNqNENfUlhkQmlvdVFBa1JMSEhabnlRdGtNUl9YSEMwT1hJUEhONDlfazBPVlNRV0FlNDlFUGNZSVVXc2ROM1lnTm1JRnRsVThOVmhFY3J2TnJmMlVRLXZ1X2RKWlZLdw?oc=5",
+   "source": "Invezz",
+   "published": "2026-10-26T06:51+00:00",
+   "added": "2026-10-26T08:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crude",
+    "oil price"
+   ],
+   "summary": "Crude oil price prediction: is a $120 shock coming after Brent falls to $114? Invezz",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -127,6 +239,33 @@
    "summary": "Malaysia’s Harbour-Link Group has disclosed a RM56.7m ($13.9m) investment in two containerships at domestic builder Sapor Shipbuilding Industries as it expands its regional shipping operations. The Sarawak-based group said its 85%-owned subsidiary Harbour-Link Lines had entered into two contracts with the Sibu shipyard for the construction of a pair of 90 m self-propelled container vessels. The latest investment is intended to increase its marine fleet capacity and support growing demand for container transportation services. The company has not disclosed the vessels’ nominal teu capacity or expected entry-into-service dates.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "8efa9138a584",
+   "title": "Fortescue (ASX:FMG): September Quarter Shipments, FY26 Results and Iron Ore Outlook",
+   "original_title": "Fortescue (ASX:FMG): September Quarter Shipments, FY26 Results and Iron Ore Outlook",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2pyLVA3QjBJa2dyZmRING5Eb1RXNk9US1ZtbEwwUE5nSGx6SXBjT3RHdDlqeGhWU3ZNejF5ZFVuaDJmUDZ3Tkd3ZE1qaEdfX3paQXZxaGl6NWtsd2djYm1DZGZQVmYzNEYyWDliMTJJbS1oMmEwM0xBNXlCUUNOd0p5b3VTUHlpOXRPTDV2X1Q3WTZMUEg4N2M1cEF5QlIzZnNJbnE3Nm5XVlFkbWwwd1lOaw?oc=5",
+   "source": "Kalkine",
+   "published": "2026-10-26T05:54+00:00",
+   "added": "2026-10-26T08:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore",
+    "results"
+   ],
+   "summary": "Fortescue (ASX:FMG): September Quarter Shipments, FY26 Results and Iron Ore Outlook Kalkine",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "9157d1e119d1",
@@ -16391,145 +16530,6 @@
    ],
    "summary": "European wholesale natural gas prices surged on Wednesday, with both major regional benchmarks gaining over 3% as hotter-than-expected British inflation data and ongoing Persian Gulf energy disruptions heightened anxieties over winter fuel adequacy. The benchmark Dutch TTF front-month contract rose 3.1% to trade at 87.95 euros per megawatt-hour (MWh). In Great Britain, the equivalent NBP natural gas futures contract similarly advanced 3.2% to 216.57 pence per therm, with both contracts holding near their highest levels since late 2022. Wednesday’s gas rally coincided with fresh macroeconomic data highlighting the acute economic toll of elevated energy import costs on the British economy. Official figures showed Britain’s annual consumer price inflation accelerated to 3.5% in September, up from 3.1% in August and exceeding market consensus. Lacking large-scale long-term gas storage infrastructure, the UK relies heavily on real-time imports of pipeline gas and Liquefied Natural Gas (LNG) cargoes to meet domestic power generation and home heating needs. The European benchmark remains up approximately 210% year-to-date. With maritime strikes and transit friction restricting LNG flows through the Strait of Hormuz – keeping Middle Eastern deliveries to Europe nearly 80% below year-ago levels—European utilities face intense competition from Asian buyers for uncommitted Atlantic basin cargoes.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "8544cc8c2944",
-   "title": "US imposes sanctions on Greek, Panama law firm for helping Iran shipping",
-   "original_title": "US imposes sanctions on Greek, Panama law firm for helping Iran shipping",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOWczNnpGTC1tSWRIcnE5S1hmVGUzMjdaYk1HdXZyYTBUdjR6ekE2NlN5QURjQmFUU3czRk5GNm05V05vYk1odndEdkxZeFkxMDVrbGl5NkdHaG5meWlxZ2ViaEpjRHZnTjFtbmU0R3FycjlnR3lVV2M4ZTJaWUp0R0dzWkN5TjJudjlfWjRTY1cydU1nOHNrNm9ibjdzaW10NWlUZG0xSC03MUtGV1FZb0FuQ2VlaV9uRXh1bklLdHdOY0psbFctSNIBzgFBVV95cUxPa3NMTXBWNnc2TUc1N3N1dXVxWUdOb185YlpsdVVBal8zaHh6OGJVVkpTZXBUVEpkY0tucTRYTWNuZkdlQlRWVmZTNjVySC1KU09iZUJXdF80TlJyNkZUSThuWXBvNy14RWJ5N0lhT2JaRUJrWmMtbjVqTmdrN3dRa3A2QThFRk5EV3Z4VnBfdXo4dzdwMW9hcGpUYll1UVRIWmhkMGtVeERkcEI5d3N5eWtjU3VhZkxOUmpvWHpLOHN3aFlacHRLZlhxZ2kxUQ?oc=5",
-   "source": "Al Arabiya English",
-   "published": "2026-10-21T16:55+00:00",
-   "added": "2026-10-21T18:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East",
-    "Latin America"
-   ],
-   "tags": [
-    "law",
-    "sanction",
-    "shipping"
-   ],
-   "summary": "US imposes sanctions on Greek, Panama law firm for helping Iran shipping Al Arabiya English",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cfe52efcdafa",
-   "title": "Port Lotniczy Bydgoszcz: osiem kierunków w zimowym rozkładzie 2026/2027",
-   "original_title": "Port Lotniczy Bydgoszcz: osiem kierunków w zimowym rozkładzie 2026/2027",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1RWUUzazh0VWxfdEpIYUdlSjJGYktrYWlEYXZJdmtQTHN6QXJHNUtqbkVkU1FaV2U1RzA4?oc=5",
-   "source": "Howl.link",
-   "published": "2026-10-21T16:45+00:00",
-   "added": "2026-10-21T18:56+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port Lotniczy Bydgoszcz: osiem kierunków w zimowym rozkładzie 2026/2027 Howl.link",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1085c33d87d9",
-   "title": "Middle East oil exports recover, but shipping risks keep crude markets volatile",
-   "original_title": "Middle East oil exports recover, but shipping risks keep crude markets volatile",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3B5ZkExZjBFOHFUbVFvMXlSOHdEbGhfRUNWN1JKc2MyemlkOFVOby02Z1lBR19pTUlUZTN5Qmc3U1g2WUhqLUZCdzB3WFUyWWo1Ui1iQlBuMGZ6VWcycXR6RjA3TFRfcnl2Ny1GeWVUTndjV3U2dHJaZTFCWHFpWm9MSTkteXo5d3dmVlVNcjU4aEozRDZ1QmJDcVFaRTA2NHo1WGktZnNjT3Js?oc=5",
-   "source": "Oil & Gas 360",
-   "published": "2026-10-21T16:38+00:00",
-   "added": "2026-10-21T18:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "shipping"
-   ],
-   "summary": "Middle East oil exports recover, but shipping risks keep crude markets volatile Oil & Gas 360",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3bacd568b85f",
-   "title": "IFM Investors buys majority stake in £10bn ports operator ABP",
-   "original_title": "IFM Investors buys majority stake in £10bn ports operator ABP",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORzlHQlFqWW5xZ1ctZWZpLWNaeU16elBQLURPSXhORFR0dnV5YzdIUG8xV0RJSTYyQlRkVHIyR0Y2RlBHTzlYbnFHSzM4a0haNGtNcTRoM3REYW5VT1R4eVFFNGVsUDJKZTZTSU4xaDVEX2lQS1JTbzhPeDl3OWdhdzJLUTd6ZC01MkFZemM2MEhpWk5ISU01YlJYTUE3YVBZejM4?oc=5",
-   "source": "The Times",
-   "published": "2026-10-21T16:35+00:00",
-   "added": "2026-10-25T08:33+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "stake"
-   ],
-   "summary": "IFM Investors buys majority stake in £10bn ports operator ABP The Times",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7d6163130362",
-   "title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
-   "original_title": "IEA: Gulf Oil Shipping Costs Top $37 Per Barrel, Five Times Pre-War Levels",
-   "url": "https://gcaptain.com/iea-gulf-oil-shipping-costs-top-37-per-barrel-five-times-pre-war-levels/",
-   "source": "gCaptain",
-   "published": "2026-10-21T16:29+00:00",
-   "added": "2026-10-21T17:36+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "shipping",
-    "war"
-   ],
-   "summary": "FILE PHOTO: Crude oil tanker Odessa, carrying UAE crude after passing through the Strait of Hormuz with its Automatic Identification System transponder turned off, navigates the waters at Daesan port, where it is expected to discharge crude oil, in Seosan, South Korea, May 8, 2026. REUTERS/Kim Soo-hyeon/File Photo The cost of shipping crude oil from the Middle East Gulf to Asia has surged to more than $37 per barrel, over five times prewar levels, as an increasingly complex shipping network keeps oil flowing despite escalating Iranian attacks in the Strait of Hormuz, according to the International Energy Agency. The extraordinary increase comes as Persian Gulf oil exports have actually surpassed prewar levels, highlighting the steep price of maintaining energy flows through one of the world’s most dangerous shipping corridors. According to The Wall Street Journal , citing vessel-tracking data from Kpler, Middle East oil shipments averaged more than 24 million barrels per day in the week ending October 18, exceeding the prewar average of 23.3 million barrels per day. In a separate analysis published Wednesday , the IEA said tanker rates reached historic highs in September and continued climbing into October, with the cost of transporting crude from the Middle East Gulf to Asia exceeding $37 per barrel by mid-month.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
   }
  ]
