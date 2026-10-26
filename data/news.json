@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T17:47+00:00",
+ "generated_at": "2026-10-26T18:23+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,38 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "b3e6e74e45bc",
+   "title": "Car carrier orderbook surge raises oversupply fears",
+   "original_title": "Car carrier orderbook surge raises oversupply fears",
+   "url": "https://theloadstar.com/car-carrier-orderbook-surge-raises-oversupply-fears/",
+   "source": "The Loadstar",
+   "published": "2026-10-26T17:59+00:00",
+   "added": "2026-10-26T18:23+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "rail",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "charter",
+    "chinese",
+    "fleet",
+    "intermodal",
+    "vessel"
+   ],
+   "summary": "The orderbook for pure car and truck carriers (PCTCs) has surged amid booming Chinese vehicle exports and elevated charter earnings, raising concerns that an expanding fleet could outpace demand as European restrictions on Chinese vehicle imports threaten to curb a key source of cargo growth. Greek brokerage Intermodal said last week that 82 PCTCs were contracted in the first nine months of 2026, compared with just nine vessels ordered throughout 2025 and a 10-year annual average of 35 vessels. The orderbook-to-fleet ratio has consequently risen to 26%, well above its historical average of 14%, pointing to a substantial expansion in carrying capacity over the coming years. Fuelling the surge in newbuilding orders is the growth in Chinese vehicle exports, which totalled 8.2m units in the first nine months of 2026, up 66% year-on-year. China’s rapidly expanding automotive exports have kept charter rates elevated, with ships being fixed for $95,000 per day, near levels last seen in 2024. Domestic NEV sales contracted by 9.4% year on year, reinforcing the industry’s reliance on exports to absorb production. In October 2026, the EU and China reportedly reached a preliminary understanding on proposed restrictions covering Chinese-built conventional and plug-in hybrid vehicles.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "68d021d47c38",
    "title": "179 ports on paper, seven days at the gate: Inside Africa’s cargo bottleneck",
@@ -92,6 +124,37 @@
    ],
    "summary": "Boluda Threatens Legal Action Over Morocco’s Marsa Maroc Port Deal Morocco World News",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b24dfa495b6a",
+   "title": "Lithuania has called on the EU to speed up the implementation of origin checks on Russian grain",
+   "original_title": "Lithuania has called on the EU to speed up the implementation of origin checks on Russian grain",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2FfSUlObmF3RVUxVVlpa1pTUDRKcDB2cXlBY2laaGYwaWdYZ3dGYlVqQVZYbU9EQUZZdnF1QzR5LXhlREQtZ09pcWlRWnFwblRXOEFBWGpENm42d095UEZQYU5Kb3N6Rm00NjFhc3hPdHdEVTdvUHVVYWRQdFZXUW5NU1ZDUU96TzhBTTE2ZjgzeU05ZFk3S3ZnUVF1cmhqaHBCb3loTVVrZFhuSnJsVA?oc=5",
+   "source": "UA.NEWS",
+   "published": "2026-10-26T16:08+00:00",
+   "added": "2026-10-26T18:23+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "grain",
+    "russia",
+    "russian"
+   ],
+   "summary": "Lithuania has called on the EU to speed up the implementation of origin checks on Russian grain UA.NEWS",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -15043,6 +15106,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "a246f31f4020",
+   "title": "Szczeciński port ma nowy terminal kolejowy",
+   "original_title": "Szczeciński port ma nowy terminal kolejowy",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT3JkLVo5SGVncDEtZTdKS1E1djI3UFh4SGVEU055QlVpU0V6NGMyZWtLS0xVM0dCWUdsNUZYdUVCZUdUdm1KNkFzWlNoVV9pOW0tU28tYUtaS1JZWDZRNGRXMXU1cW03VUJVeDZLRlo5X1lCVlhwRXl4NnVvMFdHdw?oc=5",
+   "source": "super.fm",
+   "published": "2026-10-22T10:25+00:00",
+   "added": "2026-10-26T18:23+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "high",
+   "score": 10,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "port",
+    "szczecin",
+    "terminal"
+   ],
+   "summary": "Szczeciński port ma nowy terminal kolejowy super.fm",
+   "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
+  {
    "id": "89953ac408a7",
    "title": "Hormuz war risk pushes crude shipping costs sevenfold, squeezes refiners' margins: Goldman Sachs",
    "original_title": "Hormuz war risk pushes crude shipping costs sevenfold, squeezes refiners' margins: Goldman Sachs",
@@ -16526,86 +16617,6 @@
    "summary": "Guangzhou has formally launched a new state-owned maritime industrial group as the southern Chinese shipbuilding hub looks to expand its manufacturing capacity and bring more of the industry’s supply chain under local ownership. Guangzhou Marine Equipment Group, established with registered capital of RMB2bn ($300m), has begun operations following an unveiling ceremony this week. The company is wholly owned by Guangzhou Industrial Investment Holding Group, with the municipal government as its ultimate shareholder. The new group has joined forces with China State Shipbuilding Corporation-controlled Guangzhou Shipyard International (GSI) and Huangpu Wenchong, as well as COSCO Shipping Specialized Carriers, marine technology company SEAHI Robotics and the Guangzhou branch of China Classification Society. Guangzhou Marine Equipment Group has set a target of reaching about $3.9bn in business scale by 2030, according to local government-backed reporting. Guangzhou is developing a new marine equipment manufacturing and shipbuilding base at Longxue North in Nansha, involving investment of approximately $1.09bn. Guangzhou Marine Equipment Group is also lined up to participate in the development, although its financial commitment has not been disclosed. GSI recently signed an agreement with China Railway Shanhaiguan Bridge Group to outsource hull block production, adding manufacturing capacity outside the traditional shipbuilding supply chain.",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "extract"
-  },
-  {
-   "id": "cc783fc0dce0",
-   "title": "Fortescue Warns of Production Cuts as China Iron Ore Pricing Dispute Deadlocks",
-   "original_title": "Fortescue Warns of Production Cuts as China Iron Ore Pricing Dispute Deadlocks",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0g4Z3BSb2Jua0ZQZmg5VkgtS3JxSnFoTnc1OTh1Z2V5bTlKVHVaSTIyR01VM2tDMFN3Wlp3eXpwQkxyc0daSi11bnpvLW5udGlhQ0lValZJdHpiT1F4elVwb3FCTHRBUjh6T0FIVEU1cEtPVTZaNWdrdHB3ejdMdUJ4SWNfQm9xNENMUG5pMVIzQVRmcUhjR1Bwcnh2RzRBRTFxTnpMdFM1a2hJRjVhUTN3?oc=5",
-   "source": "streamlinefeed.co.ke",
-   "published": "2026-10-22T08:01+00:00",
-   "added": "2026-10-22T09:13+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "iron ore"
-   ],
-   "summary": "Fortescue Warns of Production Cuts as China Iron Ore Pricing Dispute Deadlocks streamlinefeed.co.ke",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "547bd79ed7b8",
-   "title": "Poland organizes railway network like a metro",
-   "original_title": "Poland organizes railway network like a metro",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNclRaTlppWjdScWtWR2pGZndqSTR4QW1KRXg2X1c4Vm1EMkdVVzlpMWxrS0EyTk13WFh3RVk2VnFPTWJvTVUxQktGOGFscndaaUVsYzVzZ2UwSC1fcDE2NmY2ajJOQmRwdUExazBDcUhHNXlnbUZqc25Sa25WQUFkZTNKanpzOHdLVGc1WEpMMElOeWxKcXpfbzF3WlplbXpkckNZZg?oc=5",
-   "source": "RAILMARKET.com",
-   "published": "2026-10-22T08:00+00:00",
-   "added": "2026-10-22T09:13+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "poland",
-    "railway"
-   ],
-   "summary": "Poland organizes railway network like a metro RAILMARKET.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b44dc79e75dc",
-   "title": "🚜 Straddle Carrier Market Advancement: Driving Efficient, Low-Emission Container Handling Worldwide",
-   "original_title": "🚜 Straddle Carrier Market Advancement: Driving Efficient, Low-Emission Container Handling Worldwide",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDRKUXBiNlBNaXlfVEVwY0JqQktUMmJZRGJ0ZHRzZ3ZQTklXY2dFZ25OczZpQ29OVS1JQUJSdlA4V2FjLWdjMWRuWGtSSnhxSmFYWFpuN2JGbWRJZzlVWExsZVI5MEZzU2ZpUzBaM2RvOEY3QWdCUVBMX0pzQ0s3ZmxER1FoaDBrQVRfSzB1TE81WWM?oc=5",
-   "source": "openPR.com",
-   "published": "2026-10-22T07:56+00:00",
-   "added": "2026-10-22T09:13+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "carrier",
-    "straddle carrier"
-   ],
-   "summary": "🚜 Straddle Carrier Market Advancement: Driving Efficient, Low-Emission Container Handling Worldwide openPR.com",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
   }
  ]
 }
