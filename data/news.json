@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T00:01+00:00",
+ "generated_at": "2026-10-27T00:46+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "aa53e62f050e",
+   "title": "As Attacks Mount, Shipping Faces an Uncomfortable Question: Are Safety Rules Fit for War?",
+   "original_title": "As Attacks Mount, Shipping Faces an Uncomfortable Question: Are Safety Rules Fit for War?",
+   "url": "https://gcaptain.com/as-attacks-mount-shipping-faces-an-uncomfortable-question-are-safety-rules-fit-for-war/",
+   "source": "gCaptain",
+   "published": "2026-10-26T23:43+00:00",
+   "added": "2026-10-27T00:46+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping",
+    "war"
+   ],
+   "summary": "Vessels in the Strait of Hormuz, Iran, May 22, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS By Paul Morgan (gCaptain) – October has become the worst month on record for attacks on merchant ships in and around the Strait of Hormuz, and oil is now washing onto the beaches of the United Arab Emirates. The engineering question that follows is uncomfortable: were the ships under fire ever designed, equipped or crewed to survive what is happening to them? On 23 October, Reuters reported data from the Washington Institute for Near East Policy recording 28 confirmed and reported attacks in the Strait and surrounding waterways during October, and 113 since the US-Israeli war with Iran began on 28 February. At MEPC 84 in the spring, member states adopted resolution MEPC.406(84), strongly condemning Iran’s attacks on merchant vessels in the Gulf and Strait of Hormuz region. Emergency generators, switchboards and their cabling are deliberately separated from main machinery spaces, but separation designed against an engine room fire may not survive blast and fragments. In practice, many safety management systems still treat fire, flooding and blackout as separate scenarios with separate checklists, rarely rehearsed together. Such drills are uncomfortable and often exposing, which is exactly why they are so valuable.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
   {
    "id": "88fd04b935c5",
    "title": "Shipping: The Car Shipping Trade Is in Full Effect",
@@ -798,6 +827,32 @@
    ],
    "summary": "Oil Futures End Mixed as Traders Weigh Supply Recovery Against Shipping Risks WSJ",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b8b0150baaad",
+   "title": "Foreign Powers Eye Morocco’s Ports as Nador West and Dakhla Atlantique Near Entering in Service",
+   "original_title": "Foreign Powers Eye Morocco’s Ports as Nador West and Dakhla Atlantique Near Entering in Service",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEFIZUxfTDVBQVQwQk9PZkZvSUJFVGhFUURWeXNRUl9lYWRRMlRBZktfaEJ5V29mNnBXNVpocFRUNXRMaFhyOGF4alEtOFBCdWpZRmpOV0t6RmFXYzQ1MzhWMExzRWRKVEFuMU16TGNoY05YLUhjZGhnUGQ2Nndsd1hDY0Mtb3ZMemZvYnBYMXpsSllkQjBWVVdsamM2LTRoNTVmNXREcDJVV2phMjlZdlBXOW1pd2Y3Q054LXFqWFFMR0d6bE1Vem9LTXNIRlU?oc=5",
+   "source": "The North Africa Post",
+   "published": "2026-10-26T16:28+00:00",
+   "added": "2026-10-27T00:46+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Foreign Powers Eye Morocco’s Ports as Nador West and Dakhla Atlantique Near Entering in Service The North Africa Post",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16519,72 +16574,6 @@
    "summary": "AI-Driven Digitalization Raises Cybersecurity Concerns for African Ports OECD AI Policy Observatory",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
-  },
-  {
-   "id": "758604ba72e5",
-   "title": "EU seeks stronger Black Sea shipping security amid escalating drone attacks",
-   "original_title": "EU seeks stronger Black Sea shipping security amid escalating drone attacks",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY213Q25hODQwamVOSzB3Q24wMEc1c21aYjd1Wml1WlNyeXMycWV2VzBwSWozT095RUlHbUJjcm94MlkwX3JiaTcyMmdxUHNsZV93SFg0NURVemFBMFdYR2JwVXNaWHhkaGZaU005M2lLbDIzeDU5a3JIUmtfZk9LSVB6aEhsNl9OaC1BVk1jajVMMHduUWtJVldTNnJ1MEMw?oc=5",
-   "source": "safety4sea",
-   "published": "2026-10-22T10:07+00:00",
-   "added": "2026-10-22T14:37+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Ukraine & Black Sea",
-    "EU institutions"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "drone",
-    "eu ",
-    "security",
-    "shipping"
-   ],
-   "summary": "EU seeks stronger Black Sea shipping security amid escalating drone attacks safety4sea",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c0597fa29a52",
-   "title": "Drewry: Suez Traffic Showing Strong Momentum",
-   "original_title": "Drewry: Suez Traffic Showing Strong Momentum",
-   "url": "https://www.hellenicshippingnews.com/drewry-suez-traffic-showing-strong-momentum/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-22T10:00+00:00",
-   "added": "2026-10-22T10:31+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports",
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "carrier",
-    "diversion",
-    "port",
-    "ports",
-    "red sea",
-    "security",
-    "suez"
-   ],
-   "summary": "With regional security changing rapidly, Drewry’s Red Sea Diversion Tracker delivers timely intelligence to shippers, carriers, ports and other stakeholders on the evolving structure of carrier networks. This tracker page is updated fortnightly (every other Tuesday). Steady transit traffic via Suez During the week ended 18 Oct, 55 containership transited the Suez Canal (in either direction), up 120% when compared with the number in the same week of 2025, as carriers continued their gradual policy of returning to the Suez route. There have now been 3 weeks with more than 50 Suez transits a week, indicating a strong momentum in the return of containerships from the Cape of Good Hope route to the Suez route. The average number of transits via Suez was 57 in the latest 3 weeks, up 36% from the average in the previous three weeks. Source: Drewry",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
   }
  ]
 }
