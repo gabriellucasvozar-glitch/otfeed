@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T04:39+00:00",
+ "generated_at": "2026-10-27T05:16+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -150,6 +150,31 @@
    "summary": "Vessels in the Strait of Hormuz, Iran, May 22, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS By Paul Morgan (gCaptain) – October has become the worst month on record for attacks on merchant ships in and around the Strait of Hormuz, and oil is now washing onto the beaches of the United Arab Emirates. The engineering question that follows is uncomfortable: were the ships under fire ever designed, equipped or crewed to survive what is happening to them? On 23 October, Reuters reported data from the Washington Institute for Near East Policy recording 28 confirmed and reported attacks in the Strait and surrounding waterways during October, and 113 since the US-Israeli war with Iran began on 28 February. At MEPC 84 in the spring, member states adopted resolution MEPC.406(84), strongly condemning Iran’s attacks on merchant vessels in the Gulf and Strait of Hormuz region. Emergency generators, switchboards and their cabling are deliberately separated from main machinery spaces, but separation designed against an engine room fire may not survive blast and fragments. In practice, many safety management systems still treat fire, flooding and blackout as separate scenarios with separate checklists, rarely rehearsed together. Such drills are uncomfortable and often exposing, which is exactly why they are so valuable.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "018d17aa6beb",
+   "title": "Port City Colombo: Supporting Sri Lanka’s Next Phase of Global Business Growth",
+   "original_title": "Port City Colombo: Supporting Sri Lanka’s Next Phase of Global Business Growth",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LaVp5aDFzbEZiU180ekNJSXhLSFJmUEotVWdjYU85TU9rYlllWXJaZzRlX0NkSTZMbE1jQlRZWGRKVDBTRS1fUkVKM2hmNGxFd0czVFNB?oc=5",
+   "source": "Ada Derana Biz English",
+   "published": "2026-10-26T23:35+00:00",
+   "added": "2026-10-27T05:16+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Port City Colombo: Supporting Sri Lanka’s Next Phase of Global Business Growth Ada Derana Biz English",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "4e43abd89bab",
@@ -1069,6 +1094,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "bba4ac068b8c",
+   "title": "African countries accelerate digitalisation of ports",
+   "original_title": "African countries accelerate digitalisation of ports",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG96SXRRRWgwTk9DVWxJZFB5TkpkalVnXzF4Rnd0MHdjX0lTbnRrUmVzb0RjZ2IxajEyd3g2Zy1GeGVJZG5BTVlSSU5CZGpwcWNEUnRfR3pPajlnNW41NWxFV2JkT01VelpZU055LW9VNzAxRVZkZ0czazhXeVpyNWdtY2xnWUZpa3k2V1RQNS1EYXAyR1BhRkVfWnRGVElZNGNBUzR1RQ?oc=5",
+   "source": "Channel Africa",
+   "published": "2026-10-26T16:51+00:00",
+   "added": "2026-10-27T05:16+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "digitalisation",
+    "port",
+    "ports"
+   ],
+   "summary": "African countries accelerate digitalisation of ports Channel Africa",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "173eac73bcbe",
    "title": "STEVE KELL: What was that wheat rally all about?",
    "original_title": "STEVE KELL: What was that wheat rally all about?",
@@ -1434,6 +1487,37 @@
    ],
    "summary": "Baltic dry bulk freight index falls to near one-week low Investing.com Australia",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c7b310712a9e",
+   "title": "Russia seeks to expand its military influence in Africa through agreements and logistics hubs",
+   "original_title": "Russia seeks to expand its military influence in Africa through agreements and logistics hubs",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53aERpZ1hnQWNhWlJ1aW9feFVpX200SGRaMURLSm8yUElfUGFMM0xNdXBMeEJ6WUV6Z3lNdmpSX01IeFo1UEQ1TmlWMERyQjNrbVJYajFwN0xEYm02N0dKNHZTZ1NLWlVVUzhPajFzOUFNSzQ5LTFJd1VMbWhJVkE?oc=5",
+   "source": "Mezha.net",
+   "published": "2026-10-26T14:34+00:00",
+   "added": "2026-10-27T05:16+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Russia & Belarus",
+    "Africa"
+   ],
+   "tags": [
+    "logistics",
+    "logistics hub",
+    "military",
+    "russia"
+   ],
+   "summary": "Russia seeks to expand its military influence in Africa through agreements and logistics hubs Mezha.net",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -2226,6 +2310,32 @@
    "summary": "Monaco-based Transocean Maritime Agencies has ordered two 50,000 dwt chemical and product tankers at China’s Guangzhou Shipyard International (GSI), adding another vessel type to its expanding newbuilding programme. The CSSC-controlled yard recently signed the contract, marking its first order from a Monaco-based shipowner. Transocean is a family-controlled shipping company established in the 1960s by the late Guenther Neunhoeffer. The company, led by Ruth McLoughlin, operates a fleet of around 15 vessels, primarily comprising bulk carriers and tankers. In October 2025, the Monaco owner emerged as the buyer behind two-plus-two 1,930 teu feeder newbuildings at Guangzhou Huangpu Wenchong Shipbuilding, scheduled for delivery in 2028. Shipbuilding sources have also linked the company to another two 3,100 teu containerships at New Dayang Shipbuilding. Transocean previously ordered two 64,000 dwt ultramax bulkers at New Dayang in 2024, continuing a fleet expansion strategy spanning several Chinese yards. The latest contract adds to a busy period for GSI in the MR tanker segment. The Guangzhou yard has recently attracted orders from Geneva-based Advantage Tankers and Greek owner Top Ships.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "c9b5d65d6150",
+   "title": "CSA 2026 explores opportunities for safer, resilient ports",
+   "original_title": "CSA 2026 explores opportunities for safer, resilient ports",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lRXlRazNHSktiTVFpenMwSzRNekFKajdySWhieFhCNlYyUTBsZE8tcy1mamhkVWN1UlFDUnFWcWVGMVlGSU9uZ18tX1JhWWpQU014WTlJMWVCcE1xcjdTbWJxNkRiNk1pMC1ESTk2MHM1Zw?oc=5",
+   "source": "Inspenet",
+   "published": "2026-10-26T12:05+00:00",
+   "added": "2026-10-27T05:16+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "CSA 2026 explores opportunities for safer, resilient ports Inspenet",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "ef649f1b7f60",
@@ -12933,6 +13043,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "2152d1b835e6",
+   "title": "KBR Wins Contracts to Upgrade Ammonia Plants in Germany, Austria",
+   "original_title": "KBR Wins Contracts to Upgrade Ammonia Plants in Germany, Austria",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHhjWUQtN1huaFk2Nmp1MUxLc3RnS1RBRWZfNHJmT0V6N0V2ZUJJZ013OEQ0QlBRQTcwaG9NbWVZcXVCSm5EQkVtX1ZPWnFjZEhQRmNtYkl0ZlBCTXZIWDBSb0E5QlVHQk9YQnItNkgyWHVPZEdkVjRqYkl0TTdFN1JTS0hxdEdnWW9lWHhCcjhJMlR1T2p4d3N5Ui1zb0pkeGp4WUlRRHlzWmQ3cWdCb1RQM1M?oc=5",
+   "source": "ChemAnalyst",
+   "published": "2026-10-23T06:45+00:00",
+   "added": "2026-10-27T05:16+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "ammonia"
+   ],
+   "summary": "KBR Wins Contracts to Upgrade Ammonia Plants in Germany, Austria ChemAnalyst",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "786aa8d57406",
    "title": "Nippon Steel to invest $3 billion in upgrading US Steel plant in the US",
    "original_title": "Nippon Steel to invest $3 billion in upgrading US Steel plant in the US",
@@ -16426,139 +16561,6 @@
     "crude"
    ],
    "summary": "Brent Crude Rises Above $110: Middle East Tensions Raise Concerns Over India's Import Bill Trade Brains",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6a7f2428fb6a",
-   "title": "Container Lines Return to the Red Sea Despite Houthi-Saudi Escalation",
-   "original_title": "Container Lines Return to the Red Sea Despite Houthi-Saudi Escalation",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVm93Y3g5bktYSTdWaE1CUDFXR21sSlF6SVc5VWwwSmlSWGdxLTBPOFg0TGx5QlEwU1NlZm9tMUswR3pjZUZZODkwQkpBbGZuQ0ttNUh6ZEh0RWNaYnlqX00zTC1jQzFqcDcxRngxUXV5Rk5jcmpUZEkwc1RWWTdwMzIySDJkc0ZEY0VkUWU4QkFNbjlUVGU0d0MzRnQzdUVMRThlZ3lDUVdLdDFiSExLNQ?oc=5",
-   "source": "ChemAnalyst",
-   "published": "2026-10-22T11:36+00:00",
-   "added": "2026-10-22T14:37+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "container line",
-    "houthi",
-    "red sea"
-   ],
-   "summary": "Container Lines Return to the Red Sea Despite Houthi-Saudi Escalation ChemAnalyst",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8f3cf98afdb0",
-   "title": "IFM Investors Fund to Acquire Majority Stake in Associated British Ports",
-   "original_title": "IFM Investors Fund to Acquire Majority Stake in Associated British Ports",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcXNjNzZCWUZieHR3bDBWdWtkVzdxOHh1Q0JDLUNlT2FNQ2xMMXpBNTBXU0g3RVNBSFhVQzVGbHZuTDItcl90MHh1ZzB0YmZGSC1UQmJLY1RHYXBoYllIUWtjTXFNc25ZYzNnZ3RmdXhHVVpQd3pxbFZxYURSYWdpMV9BSnAtam8?oc=5",
-   "source": "MarineLink",
-   "published": "2026-10-22T11:27+00:00",
-   "added": "2026-10-25T22:26+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "acquire",
-    "port",
-    "ports",
-    "stake"
-   ],
-   "summary": "IFM Investors Fund to Acquire Majority Stake in Associated British Ports MarineLink",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e7c0c4a39ac4",
-   "title": "LR, BPA Urge Ports To Prep For Maritime Nuclear Tech",
-   "original_title": "LR, BPA Urge Ports To Prep For Maritime Nuclear Tech",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3FsU0dIYmlYOUVmdjM5cWtSZlBMSkVNZzl1ejNSNU5mc25zaS1fZ2ZRUVgtSlNvMGJfTl94LVl3eHhZX2JIMVAtNUljV3dQZHE2aW5rNkV1dnFyejdSc1lnZUVKOHNaRXB6UExWZHdYcTZ4djlsRWNXUGVIUDhrWG1QYjA?oc=5",
-   "source": "Marine Link",
-   "published": "2026-10-22T11:27+00:00",
-   "added": "2026-10-22T13:13+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "LR, BPA Urge Ports To Prep For Maritime Nuclear Tech Marine Link",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "769de119fd72",
-   "title": "Port of Antwerp-Bruges Records Strong Recovery in Q3 2026",
-   "original_title": "Port of Antwerp-Bruges Records Strong Recovery in Q3 2026",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY29Cc3dUQ2R5dXBzQzZiUnpDY3I3c05PeC1wX0Q2VTFoekxNbUVzODJFaFVZdjlHUkJVRTNhSWs1MXNzVUV5elIxcHNlcVVtYXBVTlZoeDVyTGwwZEFkVzY2V3A2RzVlR3U4enBfRkFXanZEWXdJVVZzeWRidG1Gck1UbFhMeVgyQ24yQ3h3?oc=5",
-   "source": "Sea News",
-   "published": "2026-10-22T11:25+00:00",
-   "added": "2026-10-22T12:18+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port of Antwerp-Bruges Records Strong Recovery in Q3 2026 Sea News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3653b38bd525",
-   "title": "Yara Cuts Fertilizer Output Again As Gas Costs Bite",
-   "original_title": "Yara Cuts Fertilizer Output Again As Gas Costs Bite",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdmxxdEhmLWdCdDM0RGVGc3VneDA3QUs3V1FFcV9ldElkVmUxdGwwM1RpcUk0ODVTQU9TN1M5Zi00bFpPd1dSZHZVMFlBMXZCUW9FTXlna0Y0R1FVSmRXU2otMkdvanlnRlNkZFNFMk5hdzFlWkI2Rjk0cElHbXQ5dHlTZEg3X0k?oc=5",
-   "source": "Finimize",
-   "published": "2026-10-22T11:02+00:00",
-   "added": "2026-10-22T11:46+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fertilizer"
-   ],
-   "summary": "Yara Cuts Fertilizer Output Again As Gas Costs Bite Finimize",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
