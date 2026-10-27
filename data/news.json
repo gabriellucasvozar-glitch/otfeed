@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T22:56+00:00",
+ "generated_at": "2026-10-27T23:30+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,93 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "77b223b96d93",
+   "title": "The 100% duty on Chinese cranes now moves with the US-China truce, two months at a time",
+   "original_title": "The 100% duty on Chinese cranes now moves with the US-China truce, two months at a time",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOEhtNjNHTW5fTmFGRy1lZWxvN2wwRERPNlBDaHFJYXVUQWxSVTY2ZEFQWUZmMFF3SUdEczl2ZHBqX0pObm5Qd09hNG9HM0xscG9yQ0lwRG92TUZYLVY4UjFrLUR2MFlVSS13TFZQZUVaWDNrRDZBMzZJNk01VmZFcGQ1WUswT2Zyc2IxbVp1ckRUZFhiMV96NTZheVNma1hUUHRxVGNB?oc=5",
+   "source": "Container Management",
+   "published": "2026-10-27T22:50+00:00",
+   "added": "2026-10-27T23:30+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "geopolitics",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Asia",
+    "North America"
+   ],
+   "tags": [
+    "china",
+    "chinese",
+    "crane",
+    "cranes",
+    "duty"
+   ],
+   "summary": "The 100% duty on Chinese cranes now moves with the US-China truce, two months at a time Container Management",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "44297009d88a",
+   "title": "Treasury waives sanctions for Trump's Russian diesel import deal",
+   "original_title": "Treasury waives sanctions for Trump's Russian diesel import deal",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPODlTYVAzdkdPUlRkRGRrZXpJWS1SODRtb3RsQ1dPbHJmNFRVYkhydkJTZTRsWXAxTzByelFtdDJYbjNKOFZhc2EtTnMxbS1YSGlHY2V2RHpSaVM5M2Y1c19tLU5WS1E5STktOE5Cclkxb20ta1hOMVlxN21TTlA4b0hGa0dnVGpTM1ZsTGNldjFhcTZtZmdGU3pfdEtOQTl5Q2dSaHBnSHVIcm9fdXJEdDJSMGtncThm?oc=5",
+   "source": "scanx.trade",
+   "published": "2026-10-27T22:35+00:00",
+   "added": "2026-10-27T23:30+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "russia",
+    "russian",
+    "sanction"
+   ],
+   "summary": "Treasury waives sanctions for Trump's Russian diesel import deal scanx.trade",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "420c1403d672",
+   "title": "Reshoring, Foreign Direct Investment Accounted for 247,000 U.S. Manufacturing Jobs in 2025",
+   "original_title": "Reshoring, Foreign Direct Investment Accounted for 247,000 U.S. Manufacturing Jobs in 2025",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb1RReE9yVTNFeDB4V3l4eF9wcU5PLTNiVnY4aUluVDlJbVROVkFrOVJjSjFUNUZZV252ZGdnOE1zTWsydWlxOGFqX2FqdkdTWXdqc01XbzBWQkFXUkg4NnJjWHNHajloU05XU0ltX0NhdkkxMGY2YkJ1MHVQdnlkSDlMOXk5Mmx0endBY0p5cHY0ejJTczc4elZQaXNOOHJrRU9jZFJBMHlhQndRcExDZW9oYllQRVh4cWZCN2pkbVpOcW5YaldUQnJBVElzQQ?oc=5",
+   "source": "Industrial Equipment News",
+   "published": "2026-10-27T22:24+00:00",
+   "added": "2026-10-27T23:30+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "manufacturing",
+    "reshoring"
+   ],
+   "summary": "Reshoring, Foreign Direct Investment Accounted for 247,000 U.S. Manufacturing Jobs in 2025 Industrial Equipment News",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "89843edadc82",
    "title": "European Shipowners reiterate key asks for EU ETS negotiations in Council and Parliament",
@@ -267,6 +354,33 @@
    "summary": "The Vehicle Carrier Safety Forum (VCSF) has published new Fire Drill Guidelines for Vehicle Carrying Vessels, providing vessel operators with a practical framework for developing and conducting realistic, scenario-based fire response drills. Complementing the VCSF’s existing Fire Response – High Level Guidelines, the new guidance is designed to strengthen preparedness for vehicle fires on Pure Car Carriers (PCCs), Pure Car and Truck Carriers (PCTCs), RoRo and Ro-Pax vessels. The guidelines cover fire drills both at sea and in port, with scenarios ranging from initial onboard response through to incidents requiring external assistance. Geir Jorgensen, Chair of the IG P&I Ships’ Technical Committee, said: “Industry collaboration is essential to improving fire safety. Realistic drills help ship and shore teams prepare to respond quickly and effectively, reducing the risk of a fire escalating”. Lional Sharon, Marine Adviser at the International Chamber of Shipping, commented: “This guidance aims to provide a structured approach to conducting fire drills on board ships. As the industry faces increasingly challenging fire scenarios, they will help ensure crews are better prepared to respond effectively.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "c2d08c01060d",
+   "title": "Embotech is ready to roll out autonomous tractors in port applications",
+   "original_title": "Embotech is ready to roll out autonomous tractors in port applications",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMjl5cldCS0VlX2VzRUdIWE90VnZUd3d1eVRTX1o1SXVzWGRGazN4X0taU1ZtdmstcDVZcmd1UnptR0VRakszMy1TYVZVTVBlZGpuMWw5cFQ3V0VYSlM4VmNMWDNqRFdkUDh1SUMtVHEyd1paY2k2eHJwLU5IRHVfTF8ya1YtMFM1eHh6OU1TbXlzUTFOQmN4c21oOExhRG5XRFkxTWo0cDI1Z3drZTRLbXdEQ2lEYjdjMmtkcnliLUpZRVBZb0NFY2lvMDJRUGNJ?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-27T21:57+00:00",
+   "added": "2026-10-27T23:30+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "autonomous",
+    "port"
+   ],
+   "summary": "Embotech is ready to roll out autonomous tractors in port applications WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
   },
   {
    "id": "044bd701a8e2",
@@ -16505,110 +16619,6 @@
    ],
    "summary": "MBTA board approves $310.4 million Siemens order for 20 locomotives Railway Supply",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1852a75e5ebc",
-   "title": "Port of Kobe container volumes fall 2 per cent in August",
-   "original_title": "Port of Kobe container volumes fall 2 per cent in August",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNenhON2NzNnlxd0xRUmRpSWpIcG1kM3VNamk1aldmMTBIZ2VVMDNfWWRlUzBmQzNKODlQWlVnd240LVV5VlBNZlNpTXN1Y2sxUTN5OWt6UUxJM0pxampkUEVXd1FKYlZ0b19DZXp0OGlEZ3VIWldyd05DVmpoYnBhd09DLUwyNGRRN1ZaSTI3U1R4Z3JzZ2F1eHFZWlRJNmY0MGFZdXNRaEg4c1RX?oc=5",
-   "source": "Port Technology",
-   "published": "2026-10-23T09:53+00:00",
-   "added": "2026-10-23T16:18+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port of Kobe container volumes fall 2 per cent in August Port Technology",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "78f47f78631c",
-   "title": "Kolej 200 km/h i 330 km nowych linii. Plan dla kujawsko-pomorskiego",
-   "original_title": "Kolej 200 km/h i 330 km nowych linii. Plan dla kujawsko-pomorskiego",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmFmS1JKUkdKcWpyWE9kMFhYQmlGVFAzNWxnX2RKWFhhYWJqZUd4Nm9PRU5nVWZNdGM1WHdpM0tUX3FWUEZ2eE05MzZycU1mTDIwbjl4WWlicG93bGx3Nk1lQVBmLS1pRGYtUU1ZOW5fVWJhWm50c3pzT1pTdXlJaU9XM0pzako0QXdNYlYtNnRnWTRxLTN2Qkc0NFZxQ2MycHp3YkZacUtzay14U1FCNEdn?oc=5",
-   "source": "Inzynieria.com",
-   "published": "2026-10-23T09:52+00:00",
-   "added": "2026-10-27T17:33+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "kolej"
-   ],
-   "summary": "Kolej 200 km/h i 330 km nowych linii. Plan dla kujawsko-pomorskiego Inzynieria.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6987c7189336",
-   "title": "Piyush Goyal Slams Europes Climate Policies Over Carbon Emissions, Warns CBAM And Steel Import Tariffs Could",
-   "original_title": "Piyush Goyal Slams Europes Climate Policies Over Carbon Emissions, Warns CBAM And Steel Import Tariffs Could",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbGFUYVJIMUx6VnR0RkUxVmwzSWJ3TnhGcmdKeHFGVFRhcDNyaDdhX0NEeHlTLTlPWEJleS0tdm0yeC1KeWluRGUteDU3Q2NvcnIyYWFfeEg2cHp5Uy1Fa3EtaGhQNWpxbEw1T1dpM0pkNFF2ODBMVktBdldfaG9FaVd5NjZhT3RSejBSWUZSRjVtR2duQ3I5TnN2eTVkVFdPUzlwQVNwOU1kUDBKa1Q3dTRGU0pIajNlVFpDZHJiM1RSd0FNOUpJTVRBakR4VUZhSDFvNTF3X281ckRZeHpJZzlLRzZIc1QxS09fc200cHE4cDdUT0HSAfsBQVVfeXFMTW16Mjd1MGFRYWQ0M2lKVFluZTd3SVRySUNmSXU4MGpVSDRWRmFScnduSDE4aEZOOE9PWmJjeXlWZ3RURnZvaUZwU01jckl2cWE2OGsyWmJqYUNJMmZvZTRFSzhxS1BMazI0cGNYZTFWTXpZXzVzbTRTV1doWURYZXo2VWhWRjM2cDFLeUVvNmNacWdheHpsTVRKYUR0Sk1FbUtnTWFYZTY5X3VUYzliYVU0QUY5dHNNYlVCYTBrNlNsVTV2UVoxRkZzQTZub0dlU2JiR0hMZW1GSDVsSjdfa2FzUGdnMGNibU1PaWVNdU1seVd2SWE1b3EyWlU?oc=5",
-   "source": "Free Press Journal",
-   "published": "2026-10-23T09:51+00:00",
-   "added": "2026-10-25T11:09+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "cbam",
-    "steel",
-    "tariff"
-   ],
-   "summary": "Piyush Goyal Slams Europes Climate Policies Over Carbon Emissions, Warns CBAM And Steel Import Tariffs Could Free Press Journal",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6ff1e573d559",
-   "title": "ORLEN-led CO2 storage project secures €223m in EU funding",
-   "original_title": "ORLEN-led CO2 storage project secures €223m in EU funding",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckppTHJ4M1kwLTUxd2hpUUhGbUM1dmtFQkJLbUVnb29OT00xejhwTnlmWlhTU0lQNnVrMi1mV2NXaFhyZ015bmdqLU1qRVgwTG1fTzdhdGNnZ0FETGxONnVod2NsWTEtRHRzaE5xU0w5TGtVVGdlYXlGZHFxTk5pc0piVTVVeFEyaWRTYzk4MHUwSlZfYWhZMFhnQkxEbnlUcG1Ybm5hM2NCUHM?oc=5",
-   "source": "Quantum Commodity Intelligence",
-   "published": "2026-10-23T09:49+00:00",
-   "added": "2026-10-23T13:34+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "commodit",
-    "eu "
-   ],
-   "summary": "ORLEN-led CO2 storage project secures €223m in EU funding Quantum Commodity Intelligence",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
