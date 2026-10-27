@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T16:44+00:00",
+ "generated_at": "2026-10-27T17:33+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -36,6 +36,31 @@
    ],
    "summary": "Logicor completes warehouse redevelopment in Piaseczno EurobuildCEE",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ff7966e1c69e",
+   "title": "PKP CARGO wystawiło na sprzedaż ponad 2900 wagonów",
+   "original_title": "PKP CARGO wystawiło na sprzedaż ponad 2900 wagonów",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVTFldEEyQUxGMUtVMi0yR0V1OHFUS1FtSURZU0F2OEU0TWEtY3BwRU1uM2lOT1BKYy0ta0tXdy15d0wwLXZ2TjdWLXFzWWdDOS1BY2phNVNESWJqVFp4V3JwaTVmOXNyV3dTNzJ4VHJuN1JCX3lQSi1PUHN4MWM3elJGbw?oc=5",
+   "source": "Kolejowy Portal",
+   "published": "2026-10-27T16:02+00:00",
+   "added": "2026-10-27T17:33+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "pkp cargo"
+   ],
+   "summary": "PKP CARGO wystawiło na sprzedaż ponad 2900 wagonów Kolejowy Portal",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -92,6 +117,34 @@
    "summary": "The Pier 300 channel at the Port of Los Angeles. Photo courtesy Port of Los Angeles A labor dispute involving port watchmen could disrupt operations at eight marine terminals in the ports of Los Angeles and Long Beach as early as November 1, just weeks after the nation’s busiest container port complex reported record cargo volumes. The International Longshore and Warehouse Union (ILWU) Local 26 has warned fellow maritime unions that its members may go on strike when the latest extension of their labor agreement expires on Sunday. The eight affected terminal locations are APM Terminals (APMT), Long Beach Container Terminal (LBCT), Total Terminals International (TTI), SSA at C-60, A-90, LB 206, Pacific Container Terminal (PCT), and OH 55. Los Angeles and Long Beach both set all-time monthly cargo records in September , handling a combined 2.04 million twenty-foot equivalent units (TEUs) as strong imports and shifting global trade patterns drove cargo through the complex. The PMA was also at the center of the last major West Coast port labor dispute in 2023, when contentious negotiations with the ILWU led to work slowdowns and terminal shutdowns at several ports, including Los Angeles and Long Beach.",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "701b9170d679",
+   "title": "3 European Industrial Stocks To Watch As EU Trade Curbs Reshape Supply Chains",
+   "original_title": "3 European Industrial Stocks To Watch As EU Trade Curbs Reshape Supply Chains",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbm9LcHdNOUwzekY4eUtwODlnZEJPMjNsYVN0dFkyLVZhV1hVN2RsQ2s1ZGt5cXJfYWt2bHkyeVo1TFNiUVlzZVFqNFdFanhyQUhpUTEtRlZlY1dqUFRrX0diVUVkYmt3azRVU0FPWnB1d3dZOU1rNmNCeTliUjhVaEk5SF9fN1pldzJGNURPb040a0Q3Zm1RaExzMTN5TE9yamJSNGdCMmg2amNidUxLb2tnemVENWhVdUE4SHp5Y1pRa2t5V1FrMEk1QlVLWUJTQkd0YtIB2gFBVV95cUxPSVd0RlVJU3NkTnNadThlM0IzUzl0OGRUR2hKUW9FdDJfNWl2aWFWWnpqOTRZdTdmNWV5OXFpZzFndE52dmc4ajRyeWFRTmpPdjJscWR4OUNIOVQtVzg0RzBKRXNFZGxrNVl2Ykc5WlhISThRT1NzZmVRcm5BYzRlU1J6ZW00TWlHelE3ZDY4M2JOc1hvVlk5a3dCbGpsV3g3aFpfek5fZWtycklwLUo5VXdYSnF6clFyVjhSNmtUT0ZzMWNxTDZMUFdmRmdsd3J6a2NFZ19Rdmh1dw?oc=5",
+   "source": "Simply Wall Street",
+   "published": "2026-10-27T15:35+00:00",
+   "added": "2026-10-27T17:33+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "3 European Industrial Stocks To Watch As EU Trade Curbs Reshape Supply Chains Simply Wall Street",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
   },
   {
    "id": "ba1858530f17",
@@ -207,6 +260,39 @@
     "russian"
    ],
    "summary": "Russian grain exports through ports have fallen by a factor of four UA.NEWS",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0dba40ebff81",
+   "title": "Russian diesel being transported to U.S. by tanker subject to sanctions from EU, U.K., and Canada — FT",
+   "original_title": "Russian diesel being transported to U.S. by tanker subject to sanctions from EU, U.K., and Canada — FT",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNzFsMl9ya0I4UDNFVHNwcXRqX2RDYUJjaXlhTDBGZmxZSEF5Y3lxcU1GcXlLX1AtangybE8zR2pzRFNmc09IRHZ1enhYbUpFQmFiQ21JenBxSk5CNm9wcEhkU2p5OVpYeWF6eXplVm5SY0Y4Y3RCM1h0R055Q1VIVC1ZQUk3Um1ZVXpER3RWLVdQVU5lWUF6TGFpNm55MDdHVnV1R3J0MWhmQUtPMjJJMlhXSVEzQTc5UmFFbjkyWVo0SW1YdE85UU1WbDVqT1JMbUHSAdcBQVVfeXFMTnZMQU1XaUVURS1MVUtwcDZPWmtoeUVXbjkyUFk4MmJ4SHNkemtoMy1rTjJHNVdKMlYyUklJWEpvTkcxZUV0NjJNaWtSOXNoLV91d1dlU1p6bVhtMUhoekIwTkFTal9HRlVVZ2RzbnlJalMwWlZtZTVMTzJHa3hxUEdzeWZaSU5DaURONWtxcUxPOGRFMWxGZHdrakt5X1dUd1U4aVRfaXg1ZjRmQVk1YnBWVm1GcnRoRlZZM1NwUTJiNTMtOFN4SlR4QjE4T2FYeldUWXZPOVU?oc=5",
+   "source": "Ukrainian news",
+   "published": "2026-10-27T14:33+00:00",
+   "added": "2026-10-27T17:33+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus",
+    "EU institutions",
+    "North America"
+   ],
+   "tags": [
+    "diesel",
+    "eu ",
+    "russia",
+    "russian",
+    "sanction"
+   ],
+   "summary": "Russian diesel being transported to U.S. by tanker subject to sanctions from EU, U.K., and Canada — FT Ukrainian news",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -376,6 +462,35 @@
    "summary": "Hong Kong-headquartered intra-Asia carrier SITC has seen its share price hit record highs in recent days after its board last week voted to approve a special dividend, returning some HK$5.4bn (US$688m) to shareholders. “The board is pleased to announce that it has resolved the declaration and payment of the special dividend of HK$1 (equivalent to US$0.13) per ordinary share of the company to be payable to the shareholders whose names appear on the company’s register of members at the close of business on 11 December 2026,” it said in a Hong Kong Stock Exchange (HKSE) filing on Friday. According to the CapitalIQ platform, 49.1% of SITC’s stock is freely floated on the HKSE, amounting to 2.71bn shares, with the remaining 51.9% held by a British Virgin Islands company. It is further sign that investors in shipping stocks are having bumper year, in what Loadstar Premium’s DeskOne has labelled the “Shipping $ Series”, a moniker prompted by a similar “extraordinary special dividend” issued earlier this month by non-operating shipowner Danaos. Alphaliner added: “SITC, the leading regional carrier in intra-Asia, makes the point vividly: it runs 109 ships, but its considerably smaller average vessel size leaves its total capacity at 157,000 teu, well behind Maersk and Cosco, putting SITC in sixth spot.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "50cc4f4afd92",
+   "title": "Kenya braces for heavy rains, port delays, and cargo bottlenecks",
+   "original_title": "Kenya braces for heavy rains, port delays, and cargo bottlenecks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMDZibVJVT3A1eGlOYTk3RkdGb2xXaGEwRmFHRDNWaUxoZ2RGWjFxOGptb1pXejlybm5MM0xwX01ma2VucXBaU01Sa2xJS1ZwcEZMSDVGNjBtR0hCeE51SUZWTEpmVWUwMHJxek5jbTJiRDIybDdjSXUwU2tQaG1GbGZHWnlBTVA5MVZUUHc0SFVQNmtRQ1l1Yk9CTWp5TUZhYVFTSS1vZndQaGhFV25WddIBtgFBVV95cUxQNjJocDRoWVpDN0l0TnlFZU9kSm9XWTRKQVF0WTZMYzJfWlFzMm42bFdpaDNUdU5lTkQwTTVURWhHb1R3eG1UVlFUSHFzTFNwQVprc2NGY29LTXlKa3VYTTJOTmhyRXFjd2hXaG9sV2N0Z2gwVXd1NUR1Nl9KY3FvMGNFUjBoQTB2dE9odk94NkRPU3JNQTZ0T1ljeU94ZlFZRXpPQlh3NmZCQ0JxS1VTN2lRRTFKZw?oc=5",
+   "source": "Logistics Update Africa",
+   "published": "2026-10-27T13:15+00:00",
+   "added": "2026-10-27T17:33+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "bottleneck",
+    "logistics",
+    "port"
+   ],
+   "summary": "Kenya braces for heavy rains, port delays, and cargo bottlenecks Logistics Update Africa",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "29ad7275953c",
@@ -12632,6 +12747,37 @@
    "summary_method": "feed"
   },
   {
+   "id": "7f5c1282c034",
+   "title": "Strike in over 40 ports in Europe and the Mediterranean – a serious threat to supply chains in October 2026",
+   "original_title": "Strike in over 40 ports in Europe and the Mediterranean – a serious threat to supply chains in October 2026",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZnloS0JCdHJieDc3cHB4ampRdmZpTndVMkZTRk9aM1IxS2pZSVU2LWpEWUNJLVFCSVJhbGYza1QtZTNlZ1hhY184YkpaVVRPM29ZcU1IWlFpSVpJaVBVcTM0NE9FV1FlcXp5ZHhkWi1WblhGUE1MNFNRV0pRWjNrWnNiVTRncENGcWNXYjVIZzhodVVZZWRNVU9qVExiQVRxOVNWSVNqODlpajcyQy1wX3QtU2hRclRRZ1haVkFQTXZoZFMzQkJWNEJR?oc=5",
+   "source": "Eurodebt.eu",
+   "published": "2026-10-23T16:04+00:00",
+   "added": "2026-10-27T17:33+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "port",
+    "ports",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "Strike in over 40 ports in Europe and the Mediterranean – a serious threat to supply chains in October 2026 Eurodebt.eu",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e017e167c392",
    "title": "Algeria Halts Urea Exports to France Amid Diplomatic Tensions",
    "original_title": "Algeria Halts Urea Exports to France Amid Diplomatic Tensions",
@@ -12704,6 +12850,34 @@
    ],
    "summary": "European Trials Report 4.3% Increase in Winter Wheat Yield with Arginex Seed Treatment Global Agriculture",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "85c3308b175a",
+   "title": "Terminal Zbożowy w Porcie Gdynia wznawia działalność",
+   "original_title": "Terminal Zbożowy w Porcie Gdynia wznawia działalność",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ05LNmhqcUdhenREcUNNc0k5cXNiZkhweGtuOEowUkVJVkpvTjdBRnVtaTV0SkdpbEhaM0FIQTltMGpOTmh6dGZXWWJRNm9Ib0FuWlpSbkkzemg2dE4xbXZEVnFSYkl4OEFzWGJWc2tqeDUwaDJmQWlrN3pYcF8zcTB6WXZkejZFYUQzNmRZQ1BLZ1dZOGhsSVQ5MHlYTVBkdUJJeFpSSDFrRzVzZWc?oc=5",
+   "source": "Radio Gdańsk",
+   "published": "2026-10-23T15:27+00:00",
+   "added": "2026-10-27T17:33+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gdansk",
+    "gdynia",
+    "terminal"
+   ],
+   "summary": "Terminal Zbożowy w Porcie Gdynia wznawia działalność Radio Gdańsk",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -13439,6 +13613,34 @@
    ],
    "summary": "Kazakh Foreign Minister Highlights Middle Corridor Potential at Central Asia-Georgia Meeting in Batumi The Astana Times",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "92e4ae8b01ba",
+   "title": "272 Metre Containership Hits Ship-To-Shore Crane At Italy’s Port Of Livorno And Gets Detained",
+   "original_title": "272 Metre Containership Hits Ship-To-Shore Crane At Italy’s Port Of Livorno And Gets Detained",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZE9SZjJCR1lOV2VUcWJ5bXpGZHQtOVNkZHhkZFlGdk1lZUJCX0NibU1zV2ZOZmRDaFpyMHZ0YllpSE1fbUU2LW5JXzJSUXNrZ05FeVNwTjc4UW5sUjhndGhmd0ZYZzNYTVFQRWFQNVBMcFpSN0RTUVRuQTA1ajdVZnI4MVRaUk9GdjV4WFJUNnhoQ2o2X05tSDRvc0dDTVBQVGROMUZVdUs1OXlmeFdOaFlYTEtYS1EzVXFXUjJjbUw?oc=5",
+   "source": "Marine Insight",
+   "published": "2026-10-23T12:28+00:00",
+   "added": "2026-10-27T17:33+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "crane",
+    "port",
+    "ship-to-shore"
+   ],
+   "summary": "272 Metre Containership Hits Ship-To-Shore Crane At Italy’s Port Of Livorno And Gets Detained Marine Insight",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -14483,6 +14685,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "d4b33cfd8335",
+   "title": "Boxship CMA CGM Pointe Noire strikes crane at Port of Livorno",
+   "original_title": "Boxship CMA CGM Pointe Noire strikes crane at Port of Livorno",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTU51SkhLY09XWG0zZHJlY1V6WVVDTTdqbEZQeTNUS2M3bWloWGhIaWdEWDdoUXhKOU93N0RzeXVNa0pMWHBOY2h3ajhCQV9tWEp4YzVmQVh2aTdYMDVjdjlGSlhUNnpBTEVkYzdEYWhaVzVpQXJzTUpfTkxBdTRxVlV0Z05LRVVfc2RBMkV4Q1o0dw?oc=5",
+   "source": "Kuehne+Nagel",
+   "published": "2026-10-23T10:10+00:00",
+   "added": "2026-10-27T17:33+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "port"
+   ],
+   "summary": "Boxship CMA CGM Pointe Noire strikes crane at Port of Livorno Kuehne+Nagel",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4d9338ec8bd6",
    "title": "Russia shipping first diesel cargo to US this week after sanctions waiver",
    "original_title": "Russia shipping first diesel cargo to US this week after sanctions waiver",
@@ -14954,6 +15183,31 @@
    ],
    "summary": "Port of Kobe container volumes fall 2 per cent in August Port Technology",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "78f47f78631c",
+   "title": "Kolej 200 km/h i 330 km nowych linii. Plan dla kujawsko-pomorskiego",
+   "original_title": "Kolej 200 km/h i 330 km nowych linii. Plan dla kujawsko-pomorskiego",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmFmS1JKUkdKcWpyWE9kMFhYQmlGVFAzNWxnX2RKWFhhYWJqZUd4Nm9PRU5nVWZNdGM1WHdpM0tUX3FWUEZ2eE05MzZycU1mTDIwbjl4WWlicG93bGx3Nk1lQVBmLS1pRGYtUU1ZOW5fVWJhWm50c3pzT1pTdXlJaU9XM0pzako0QXdNYlYtNnRnWTRxLTN2Qkc0NFZxQ2MycHp3YkZacUtzay14U1FCNEdn?oc=5",
+   "source": "Inzynieria.com",
+   "published": "2026-10-23T09:52+00:00",
+   "added": "2026-10-27T17:33+00:00",
+   "lang": "pl",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "kolej"
+   ],
+   "summary": "Kolej 200 km/h i 330 km nowych linii. Plan dla kujawsko-pomorskiego Inzynieria.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -16354,258 +16608,6 @@
    ],
    "summary": "US formalises two-month suspension of Chinese vessel fees Seatrade Maritime News",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6668976b3613",
-   "title": "Sierra Leone launches Chinese-backed national shipping company",
-   "original_title": "Sierra Leone launches Chinese-backed national shipping company",
-   "url": "https://splash247.com/sierra-leone-launches-chinese-backed-national-shipping-company/",
-   "source": "Splash247",
-   "published": "2026-10-23T06:58+00:00",
-   "added": "2026-10-23T07:10+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "chinese",
-    "fleet",
-    "quay",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Sierra Leone has launched a new national shipping company backed by China’s Zhejiang Xiehai Group, with ambitions to develop a fleet of 50 vessels and capture a greater share of the country’s international cargo trade. President Julius Maada Bio inaugurated Sierra Leone Ocean Shipping Company (SLOSCO) at Queen Elizabeth II Quay in Freetown earlier this week. The venture is 70% owned by Zhejiang Xiehai Group, with the remaining 30% held by the state-owned Sierra Leone National Shipping Agency (SLNSA). The company plans to establish a fleet of 50 ships, with an initial phase involving 30 vessels, targeting dry bulk, liquid bulk and other cargoes. Its principal markets include Sierra Leone’s substantial iron ore and bauxite exports, alongside imports of petroleum products, grain and other essential commodities. The new venture follows the restructuring of Sierra Leone’s longstanding national shipping company into SLNSA last year. Legislation provides the national carrier with rights covering 40% of the value of the country’s import and export cargoes. SLOSCO is headed by chief executive Sui Xiao, with former BRS Shipbrokers executive Laurent Debart serving as chief operating officer. The venture represents another expansion of Chinese shipping interests in West Africa, with Freetown seeking to retain more of the freight revenue generated by its international trade.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "ddca11c7aa53",
-   "title": "Nor-Shipping 2027 adds dedicated AI and smart ports programmes",
-   "original_title": "Nor-Shipping 2027 adds dedicated AI and smart ports programmes",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSzlZRzhxSGk3a1h2TGZHMEs3THRzWUh0ZVRGUi1TT240V0I0OGNjYm1yUDk5U2phS3hLRk03UzJuSEhXemZVTjZZSU1CV2ozdGpiU3dLOUlpZm54TmVRVTVpcEN4ZldzWFNxQzF1Z0VpbFpyV0lxaEZiOXlMdXBZdG1Gd0I0WVRObFRPSTROSFhBQjVwbXdWa1ROZUIyVGJNdU80dXMzVHdpa1N2TVRtLUdKMGktLVh6QUE?oc=5",
-   "source": "Digital Ship",
-   "published": "2026-10-23T06:57+00:00",
-   "added": "2026-10-24T03:22+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "shipping"
-   ],
-   "summary": "Nor-Shipping 2027 adds dedicated AI and smart ports programmes Digital Ship",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a61dcc57468e",
-   "title": "Dutch Steel Federation highlights differences in customs practices across the EU",
-   "original_title": "Dutch Steel Federation highlights differences in customs practices across the EU",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSFg2ZnlFNGU3QWhpWnRIekVTbXlnY1RLZzFhQ1YzY0F6bXBQcEEzVE1sWXdTcWpKazBmY0FwRHY0ZkNVbEREbm9qaVoxc0p6blBrM3VsSmZRczh4VDFKd1JwSDU1cDg2MG9PTmg0X1lwa3NHRWNjOTh3MXF4Q0pZQUNRckxrN05sek83NV9haVk0ekZOWGYtVzdzUlZBVjVLbGItNjNoc2hIUVBUR3ZMX2hxNHA3alpN?oc=5",
-   "source": "SteelRadar",
-   "published": "2026-10-23T06:54+00:00",
-   "added": "2026-10-23T09:52+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 7,
-   "regions": [
-    "Western Europe",
-    "EU institutions"
-   ],
-   "tags": [
-    "customs",
-    "eu ",
-    "steel"
-   ],
-   "summary": "Dutch Steel Federation highlights differences in customs practices across the EU SteelRadar",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4393afbc45ef",
-   "title": "You're inviting disaster: Piyush Goyal to Europe over carbon tax on steel | 'Europe is shooting itself in the foot' | Inshorts",
-   "original_title": "You're inviting disaster: Piyush Goyal to Europe over carbon tax on steel | 'Europe is shooting itself in the foot' | Inshorts",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbE1Sc0pYLS1fNmhCSzF0MjM1OG0zaWdLSG1QT2o4V3ExSXhGOEZIRThIemcwbWhzTzhjbHhOR2lOU05BMS1zeUZBRmhBbUlkR3ZJZ2l5d0szRU5iLURFVmMxLWNGbDNzaG1zX2RHYWJUOUdZdV9PZGdvblNKVFlNYVpCNEJEWm02eDNNeXFENmlmTnFQZmNDRGFNQm5oRnV6c1N1bU9YVVB0RXVtYVBWUjVJZXpySnPSAbwBQVVfeXFMTU83UXFfRm1sMlJFdkxkLW5DV1FFQ244R2FYTkd3dnlJTlZYSkI4YlhIVThPaXdUcm9aaThRMXB3VHZlemZINzVmSWdCaEdZdl9LV29oODUzWWs5XzUwUHF4U1c5QnBYd29DR05sQndCVFdNN09DN21YTWc0ZHhqcW5oa181U1FSWVRMV2VfYTYxczNiZ05fdmFtSlM0d05CWkFvTlRSdDhpeUxvc2s0dXBZY2poVVV2cFFRZUQ?oc=5",
-   "source": "Inshorts",
-   "published": "2026-10-23T06:52+00:00",
-   "added": "2026-10-27T15:09+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "You're inviting disaster: Piyush Goyal to Europe over carbon tax on steel | 'Europe is shooting itself in the foot' | Inshorts Inshorts",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1649c0252e37",
-   "title": "Ukraine proposes moving EU customs checks inland to shield grain exports from Russian drones",
-   "original_title": "Ukraine proposes moving EU customs checks inland to shield grain exports from Russian drones",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFZOMlhDQnQ4a1FQSURCdkZWUmdrZmZVSVhhUG1kbXJZeWlqQTFlZTNILWhwTFh3TTc2WE5xOXhwTUZZQllwSEpfTGdWYnZDZ2stSW1yYlB1eWZLM0pfSmk1Y2Y1cjRKYnl4UklTUDRZLWI1UWJUWVZlU1FFWHh5MDJSTGYxazRkOTRGZDBTNzRrSW5ZellaNU5DYTV6Q0FTS1FOam5NM2VEdEZGcVJPWUVCejNDSVZ3ckQzQVRkbWNTWkoy?oc=5",
-   "source": "https://streamlinefeed.co.ke/",
-   "published": "2026-10-23T06:50+00:00",
-   "added": "2026-10-23T07:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 15,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus",
-    "EU institutions"
-   ],
-   "tags": [
-    "customs",
-    "drone",
-    "eu ",
-    "grain",
-    "russia",
-    "russian",
-    "ukraine"
-   ],
-   "summary": "Ukraine proposes moving EU customs checks inland to shield grain exports from Russian drones https://streamlinefeed.co.ke/",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2152d1b835e6",
-   "title": "KBR Wins Contracts to Upgrade Ammonia Plants in Germany, Austria",
-   "original_title": "KBR Wins Contracts to Upgrade Ammonia Plants in Germany, Austria",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHhjWUQtN1huaFk2Nmp1MUxLc3RnS1RBRWZfNHJmT0V6N0V2ZUJJZ013OEQ0QlBRQTcwaG9NbWVZcXVCSm5EQkVtX1ZPWnFjZEhQRmNtYkl0ZlBCTXZIWDBSb0E5QlVHQk9YQnItNkgyWHVPZEdkVjRqYkl0TTdFN1JTS0hxdEdnWW9lWHhCcjhJMlR1T2p4d3N5Ui1zb0pkeGp4WUlRRHlzWmQ3cWdCb1RQM1M?oc=5",
-   "source": "ChemAnalyst",
-   "published": "2026-10-23T06:45+00:00",
-   "added": "2026-10-27T05:16+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "ammonia"
-   ],
-   "summary": "KBR Wins Contracts to Upgrade Ammonia Plants in Germany, Austria ChemAnalyst",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "786aa8d57406",
-   "title": "Nippon Steel to invest $3 billion in upgrading US Steel plant in the US",
-   "original_title": "Nippon Steel to invest $3 billion in upgrading US Steel plant in the US",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMFFMTzZCdGo5SmlPOHlHVzFJc2p6ZWU0eHdweDJZZHJETGpzZm1nTnVZWnJvLVRRcjlzdjlWYkRjT2s3RjRBM2tzSTRaZlRFSUdNV2otYUh1NlpyRXdJUjlqT0hSc25zaHFqQldDNEhTTV95SDVvQkpMUC1BT2lzZmdMWVVQN3Zrci0tbjBkanh1UU91WGhXaGFHTEoxMjBJcFI2MNIBpAFBVV95cUxQMFFMTzZCdGo5SmlPOHlHVzFJc2p6ZWU0eHdweDJZZHJETGpzZm1nTnVZWnJvLVRRcjlzdjlWYkRjT2s3RjRBM2tzSTRaZlRFSUdNV2otYUh1NlpyRXdJUjlqT0hSc25zaHFqQldDNEhTTV95SDVvQkpMUC1BT2lzZmdMWVVQN3Zrci0tbjBkanh1UU91WGhXaGFHTEoxMjBJcFI2MA?oc=5",
-   "source": "GMK Center",
-   "published": "2026-10-23T06:35+00:00",
-   "added": "2026-10-23T12:53+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "Nippon Steel to invest $3 billion in upgrading US Steel plant in the US GMK Center",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a49203b22651",
-   "title": "Rapeseed market update: MATIF flat, ICE canola rebounds, UA basis eases — CMB News",
-   "original_title": "Rapeseed market update: MATIF flat, ICE canola rebounds, UA basis eases — CMB News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORTh2YWRIWVRTWFpjZFp6YmNOWVFCcnFEMG4zeFpHRGd0SmdWblkzaDI1dzF3Tmh4Y1FDVkFuV2FlbFdReVFrMWRQVzk3eVBFd3laX2xIOGFRLXZCWm9xaWFfQWJXT2Z5NTlwVTNnVGlRVzUzcENEZWF3YkJfN3R2TUlKTHNIQWs1M3RYV2Ixak1FRC1rQnhVMkwzUXpJN2g0QWc0?oc=5",
-   "source": "CMB News",
-   "published": "2026-10-23T06:31+00:00",
-   "added": "2026-10-24T19:10+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "rapeseed"
-   ],
-   "summary": "Rapeseed market update: MATIF flat, ICE canola rebounds, UA basis eases — CMB News CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f9b9661ed7fd",
-   "title": "US blockade enters 100th day as Iran accelerates vessel attacks",
-   "original_title": "US blockade enters 100th day as Iran accelerates vessel attacks",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYnhkR3FpbjBwZVRKcEs4MzVBWkVoYUM1cFpDNjZYdzM2b3JSTWQwWHdmdFNkaFZ4TnNsZmNIdFoxWTBCMzVIenY5eXhWTkZxalE4ZnJBakZqRGVOWGlWaFRnS2RGbEdUcjFvT0M3STJZZEk1NGRzbm11YzIxT1lVM2xxbTFDU0JZOWg1eFVYMi1ZNjdwdlZHTWduaDlucENnR2JWVWZYaw?oc=5",
-   "source": "Logistics Middle East",
-   "published": "2026-10-23T06:29+00:00",
-   "added": "2026-10-25T15:29+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "logistics",
-    "vessel"
-   ],
-   "summary": "US blockade enters 100th day as Iran accelerates vessel attacks Logistics Middle East",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
