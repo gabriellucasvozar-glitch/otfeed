@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T01:30+00:00",
+ "generated_at": "2026-10-27T02:11+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "11cf741119df",
+   "title": "China-Europe rail tops 140,000 trips since 2011",
+   "original_title": "China-Europe rail tops 140,000 trips since 2011",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlU4LUNPdVpDTXlnX3p6dHd0ZXNUQ2FXM1BnTUhlV1JYbWc4dWo2UWNnZl9qcWR5akdDX3p4MkFkV091ZU10X2M4b1VYSWhoNVFzZ016SFphcHlfXzJnX2lKN2hrYXdiMElHc3pkcngtV1BCMENHczF4MnNGaXhLRnV0R1RIWWZSYTRsV0t1YXQ1TWE3b3o1MzJBbE44LXlkdkxTN3V3T2hwNk0?oc=5",
+   "source": "The Star",
+   "published": "2026-10-27T00:14+00:00",
+   "added": "2026-10-27T02:11+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "china-europe rail"
+   ],
+   "summary": "China-Europe rail tops 140,000 trips since 2011 The Star",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
   {
    "id": "aa53e62f050e",
    "title": "As Attacks Mount, Shipping Faces an Uncomfortable Question: Are Safety Rules Fit for War?",
@@ -16545,34 +16572,6 @@
    ],
    "summary": "Russian grain exports collapse fourfold as Black Sea ports stall The New Voice of Ukraine",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "77f075b5fac7",
-   "title": "AI-Driven Digitalization Raises Cybersecurity Concerns for African Ports",
-   "original_title": "AI-Driven Digitalization Raises Cybersecurity Concerns for African Ports",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OSEtCN2QxbUNUZzFaWlJBLVEzdFdDUDB0NlNYZXplNlJfem1XWUFhWGktTUxIdWFvRUhuMEsyYkNpbTZRclZvZzBmUGtyeFhnWkNzNi1zRQ?oc=5",
-   "source": "OECD AI Policy Observatory",
-   "published": "2026-10-22T10:08+00:00",
-   "added": "2026-10-22T23:00+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "digitalization",
-    "port",
-    "ports"
-   ],
-   "summary": "AI-Driven Digitalization Raises Cybersecurity Concerns for African Ports OECD AI Policy Observatory",
-   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
  ]
