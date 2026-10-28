@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T11:01+00:00",
+ "generated_at": "2026-10-28T11:45+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,58 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "2d80299da1d3",
+   "title": "Shippers promise more freight to forwarders that deliver when it matters",
+   "original_title": "Shippers promise more freight to forwarders that deliver when it matters",
+   "url": "https://theloadstar.com/shippers-promise-more-freight-to-forwarders-that-deliver-when-it-matters/",
+   "source": "The Loadstar",
+   "published": "2026-10-28T11:35+00:00",
+   "added": "2026-10-28T11:45+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "disruption",
+    "forwarder"
+   ],
+   "summary": "Forwarders that help customers through disruption can win a larger share of their freight, major air cargo buyers told TIACA’s Air Cargo Forum in Miami yesterday – but executive assurances and technology pitches need to translate into better operational service. Executives from Veralto, Lockheed Martin, and GE Vernova said performance during a crisis influenced subsequent contract awards, with practical solutions carrying weight beyond the headline rate. Mitch Marx, director of transportation and logistics at Veralto Corp, described how one forwarder had distinguished itself during an capacity crunch out of China. “They got really creative, and so for the next year, the next negotiation, we placed an emphasis on moving as much of our volume to that freight forwarder as we could,” he said. “We’re really looking to find partners that are more willing to think outside that box.” Mark Chadwick, president of the Global Shippers Association, stressed that loyalty did not exempt providers from competitive tenders. “When it gets to the stuff that’s really hard to move, and there’s only a certain number of people that can move it, I think we’ll see some challenges when we get to full-ramp production,” he said. Mr Marx said forwarders had previously promoted their systems heavily, but that activity appeared to have taken a back seat as providers concentrated on moving freight.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "5ac0e7a2f429",
+   "title": "Flint Systems delivers second maritime VR simulator",
+   "original_title": "Flint Systems delivers second maritime VR simulator",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPc0M2MERKRmF6SUMxOU5KZ0U4UExvcHJ1ZFFhdkt5WG1yQVMtMnBGai1RUzNVdFlZQ3I5VU1oWmhVXzdyWmJpVHhheXRIRS1tMEY1djhoalgyUko1TmVwTXNibWZpMjhQdGpVYUxXSGlJbXR3elV2ZW44ZjBLdmlrX2d1Mk1YUW5meEJ6WFRLUnVSakpld2dFcFl3?oc=5",
+   "source": "Port Strategy",
+   "published": "2026-10-28T11:05+00:00",
+   "added": "2026-10-28T11:45+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Flint Systems delivers second maritime VR simulator Port Strategy",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "a53e21b574d3",
    "title": "Congress members threaten probes over Russian diesel shipments headed for US ports",
@@ -178,6 +230,37 @@
    "summary_method": "feed"
   },
   {
+   "id": "60ad27110902",
+   "title": "Ukraine to return rail quotas as 20,000 wagons get stuck on way to EU borders",
+   "original_title": "Ukraine to return rail quotas as 20,000 wagons get stuck on way to EU borders",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb3otMnNDUUo3MW8wbnV0RFpaMjY1RmRsVEpwc2xVZUU1MEU4SlpOSTZpRzRmbUNBRVhGckdJX2NzN3ltckpGSXU3SXpRMTd1cUxIdENMaTJnUHI5UUhadHlfWEc3N2ppVkJFMm9scWVaQ0tPNkZmdlpuaFNSc016WFpscjRDamlaSWUySFpEdXNEOWZhOVZRa3ZXeUZ0a1JUZGRDSWJVWU9lU3B6WEJlVDNQTHM5WkVmZjlrUnBxaVdRZGNTRUNV?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-28T09:45+00:00",
+   "added": "2026-10-28T11:45+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "rail",
+    "regulation",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea",
+    "EU institutions"
+   ],
+   "tags": [
+    "eu ",
+    "quota",
+    "ukraine",
+    "wagon"
+   ],
+   "summary": "Ukraine to return rail quotas as 20,000 wagons get stuck on way to EU borders RailFreight.com",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
    "id": "a0ca23547ccf",
    "title": "Przez Port Gdańsk przechodzi coraz więcej towarów. Wzrost o 6 mln ton w trzech kwartałach tego roku",
    "original_title": "Przez Port Gdańsk przechodzi coraz więcej towarów. Wzrost o 6 mln ton w trzech kwartałach tego roku",
@@ -203,6 +286,64 @@
    "summary": "Przez Port Gdańsk przechodzi coraz więcej towarów. Wzrost o 6 mln ton w trzech kwartałach tego roku Dziennik Bałtycki",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
+  },
+  {
+   "id": "261ebca0e097",
+   "title": "Russia To Begin Year-Round Arctic Northern Sea Route Shipping in Early 2027",
+   "original_title": "Russia To Begin Year-Round Arctic Northern Sea Route Shipping in Early 2027",
+   "url": "https://gcaptain.com/russia-to-begin-year-round-arctic-northern-sea-route-shipping-in-early-2027/",
+   "source": "gCaptain",
+   "published": "2026-10-28T09:37+00:00",
+   "added": "2026-10-28T11:45+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "carrier",
+    "lng",
+    "russia",
+    "shipping"
+   ],
+   "summary": "Russia expects to begin regular year-round eastbound shipping along the Northern Sea Route in early 2027, as additional nuclear icebreaker capacity, newer ice-class LNG carriers and pressure to redirect energy exports toward Asia bring the long-delayed ambition closer to reality. Vladimir Panov, head of the Arctic Directorate at state nuclear corporation Rosatom, said that preparations for regular winter voyages were in their final stages. The planned start will coincide with one of Russia’s largest shippers beginning regular eastbound deliveries, he said, without identifying the company. “[The Northern Sea Route] is one step away from regular shipments in the eastern direction, that is, one step away from year-round navigation,” Panov said, adding that Rosatom expects the transition to take place in early 2027. The nuclear-powered Chukotka , the fourth serial Project 22220 icebreaker, is scheduled to enter service in early 2027, bringing the total number of operational nuclear icebreakers to nine , according to Panov. Arc7 carriers have also made late-spring voyages in May and early June. Russia previously aimed to establish year-round eastbound navigation in early 2024, with Rosatom and Novatek announcing the plan in 2023 . QatarEnergy has signed two long-term agreements to purchase up to 4 million tonnes of U.S.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "31e86f9d7a5b",
+   "title": "Saudi Tanker Giant Posts 10-Fold Profit Jump as Ship Rates Surge",
+   "original_title": "Saudi Tanker Giant Posts 10-Fold Profit Jump as Ship Rates Surge",
+   "url": "https://gcaptain.com/saudi-tanker-giant-posts-10-fold-profit-jump-as-ship-rates-surge/",
+   "source": "gCaptain",
+   "published": "2026-10-28T09:27+00:00",
+   "added": "2026-10-28T11:45+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "freight rate",
+    "shipping",
+    "war"
+   ],
+   "summary": "Oct 28, 2026 (Bloomberg) –Saudi Arabia’s main shipping firm Bahri reported a 10-fold jump in third-quarter profit as its oil tanker business benefited from surging freight rates amid the Iran war. Net income rose to 5.1 billion riyals ($1.4 billion) from 513 million riyals a year earlier, the company said Wednesday in a stock exchange statement. Sales at its oil unit increased by roughly 10 times due to higher rates and chartering levels. Read more: Saudi Bahri: Sidr Vessel Involved in Aug. 31 Incident in Hormuz Bahri, officially called the National Shipping Company of Saudi Arabia, has been instrumental in helping state oil producer Aramco to ramp up crude exports via Hormuz. Overall Gulf oil exports have recovered to near pre-war levels as more regional producers send barrels through Hormuz, relying in part on convoys with military protection and sailing with location signals switched off to avoid detection. Russia expects cargo transits along the Northern Sea Route (NSR) to more than double in 2026, marking a substantial increase in Arctic shipping despite Western sanctions, although volumes remain far below Moscow’s original ambitions for the route. Two new maritime security warnings issued Monday point to continued dangers for commercial shipping in the Middle East, with one tanker confirmed disabled by a projectile in the Strait of...",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "bc898271306a",
@@ -256,6 +397,32 @@
     "security"
    ],
    "summary": "Port of Nome’s expansion reflects a pressing need to bolster Arctic security Arctic Today",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1ecb46497373",
+   "title": "SC Ports is righting the ship after cutting costs and rates, CEO says",
+   "original_title": "SC Ports is righting the ship after cutting costs and rates, CEO says",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZEZkNHU3b2ZDQnVDX0lBSnFMdHpGYTZDb0RsYllKQW92TXFQNXk2MWM3QmRJTUxLeXBveFFjOEF2YWUxVkNqZjc3cDNtNmhvcTlrdE5aa1Fla0M1MWI2SDJUUDFwMjJWQW5ZZTJCa2hoS1NLUDZIbkFFcFFaRE8tVlFoOGlHaHdqb1Y0bWV4S3hFUXZrMGF4WF9HS0FWbllrWlBEckpBSm1seEhtVGxQazBsb2VrNGpTSUFWR0p4VGs?oc=5",
+   "source": "Post and Courier",
+   "published": "2026-10-28T09:00+00:00",
+   "added": "2026-10-28T11:45+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "SC Ports is righting the ship after cutting costs and rates, CEO says Post and Courier",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -2461,13 +2628,13 @@
    "summary_method": "feed"
   },
   {
-   "id": "ba1858530f17",
-   "title": "Champi’s support won’t reverse market trend",
-   "original_title": "Champi’s support won’t reverse market trend",
+   "id": "45cf6835e253",
+   "title": "Carriers’ bid to hike container rates ‘doomed’ as slack season kicks in",
+   "original_title": "Carriers’ bid to hike container rates ‘doomed’ as slack season kicks in",
    "url": "https://theloadstar.com/champis-support-wont-reverse-market-trend/",
    "source": "The Loadstar",
    "published": "2026-10-27T15:30+00:00",
-   "added": "2026-10-27T15:56+00:00",
+   "added": "2026-10-28T11:45+00:00",
    "lang": "en",
    "category": "shipping",
    "categories": [
@@ -2476,18 +2643,19 @@
     "supplychain"
    ],
    "priority": "medium",
-   "score": 11,
+   "score": 12,
    "regions": [
     "Global"
    ],
    "tags": [
+    "carrier",
     "congestion",
     "freight rate",
     "port",
     "ports",
     "vessel"
    ],
-   "summary": "Typhoon Champi and persistent congestion at major Southeast Asian and South Asian ports are providing temporary support to container freight rates, disrupting vessel schedules and delaying some ships by up to three days. However, the reprieve is unlikely to reverse the market’s downward trajectory as excess capacity, aggressive price competition and the onset of the winter slack season continue to weigh on rates. Linerlytica’s report today stated that Champi, declared the strongest storm of 2026 after making landfall in Taiwan on Saturday, has added to congestion in North Asia, which accounts for 35% of global port logjams. Ahead of Champi’s arrival, Taiwan’s key ports Kaohsiung, Taipei and Keelung closed last Friday and resumed operations over the weekend. These disruptions are temporarily absorbing effective capacity and offering some support to spot rates.” Nevertheless, the underlying supply-demand imbalance remains unresolved, leaving carriers struggling to sustain pricing ahead of their planned 1 November GRI. Linerlytica said: “Carriers’ plans for a GRI on 1 November are effectively doomed as the winter slack season kicks in, with the largest shipping lines undercutting each other.” Last Friday, the Shanghai Containerised Freight Index showed Shanghai-North Europe rates were relatively unchanged from the previous week, at $3,557 per feu.",
+   "summary": "Typhoon Champi and persistent congestion at major South-east and South Asian ports are providing temporary support to container freight rates, disrupting vessel schedules and delaying some ships by up to three days. However, the reprieve is unlikely to reverse the market’s downward trajectory, as excess capacity, aggressive price competition, and the onset of the winter slack season continue to weigh on rates. Linerlytica today said Champi, declared the strongest storm of 2026, had added to congestion in North Asia, which accounts for 35% of global port logjams. These disruptions are temporarily absorbing effective capacity and offering some support to spot rates.” Nevertheless, the underlying supply-demand imbalance remains unresolved, leaving carriers struggling to sustain pricing ahead of their planned 1 November general rate increase (GRI). Linerlytica said: “Carriers’ plans for a GRI on 1 November are effectively doomed as the winter slack season kicks in, with the largest shipping lines undercutting each other.” Last Friday, the Shanghai Containerised Freight Index showed Shanghai-North Europe rates relatively unchanged from the previous week, at $3,557 per 40ft. Gemini Cooperation partners Hapag-Lloyd and Maersk are offering some of the lowest spot rates for early November shipments, at $3,000–$3,200 and $3,200–$3,400 per 40ft, respectively.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   },
@@ -16423,167 +16591,6 @@
    ],
    "summary": "Thermal coal prices approach one-year high, boosting South African mining stocks MiningMX",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d33314d62f58",
-   "title": "Will the US extend its pause on China shipping measures until January 2027?",
-   "original_title": "Will the US extend its pause on China shipping measures until January 2027?",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOTNPU0dJZDNUN3UxdEJFYnRZYVBDQWVuTE9kSkNPQjhBalhONm9tTjB1ZXdNQjdRYmFvUld6dUw0SW5Vc09RcDdmdjNXM2RlLWJoYzdYd3B4Z0d1UDJVeFdyRGpucVY4WnNBM0RWUHVOM2duSXg5bGx3dW40am1xdGM0X2RHaWNpTjVfZi10MTU1SnZxU25hencxYmdXWWRSTDdEeHNkMjRWT3R5ckoyMTEwSThkWkdidlVYNUFjckY?oc=5",
-   "source": "Business Upturn",
-   "published": "2026-10-23T13:19+00:00",
-   "added": "2026-10-23T13:34+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "shipping"
-   ],
-   "summary": "Will the US extend its pause on China shipping measures until January 2027? Business Upturn",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5d1e2d5e1004",
-   "title": "Algeria has instructed producers of urea fertiliser to stop supplying France, according to reports; France has raised Algerian trade curbs at EU level",
-   "original_title": "Algeria has instructed producers of urea fertiliser to stop supplying France, according to reports; France has raised Algerian trade curbs at EU level",
-   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTndmVk1FQjFFQTlUamMyVmRDaWlsN1J5YzAxa0JXdFBDRUhJd3JoUGFuTE5ENWdHUHRGUy05am5JRmZncnJWSENwT0JhbXNzWFN1eGtTQm5ORWFoOE56MW91R1Vra2EtX3JrVUtNbndJMlh0cFNxNS1lVjdCZUZYaXIwcW1uanItYjNvOUxTSEJNVllGdXIyVDJkaEdMaTMyTUVROXVCbDZVWkVGT2dZakVqSzZzcUNya0c1MGFFYzRBUmxrRnlOenRYR2dEWUIzUzU3bWJGZF8tMW8wRkRma2kxelpQc3oyTFVpcWplRFVTRWcwMWtPRnJwTWQ0N3R4Y1dZaUd1Tzh2Vm1vOXVsa3Z3?oc=5",
-   "source": "Newsquawk",
-   "published": "2026-10-23T13:13+00:00",
-   "added": "2026-10-23T21:33+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Western Europe",
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "fertiliser",
-    "urea"
-   ],
-   "summary": "Algeria has instructed producers of urea fertiliser to stop supplying France, according to reports; France has raised Algerian trade curbs at EU level Newsquawk",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "70ee114fcec2",
-   "title": "News Carriers opt for more blanked sailings to bolster freight rates",
-   "original_title": "News Carriers opt for more blanked sailings to bolster freight rates",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlRPbzc5YXdCRFpFTWhxSWc0eE5XSTdzSTZZVVQ3X1N3c0xPd0VMcUkzMDh2N0dtQ3lqTGNrQWRNZ1ZXZmVZdTdMLW5nWVRmZW1TTWVxclI3dmJ6Yk1aTXNZS1hPcDJNWkZOTHFRNkJjcGxkbExNLWlwWEZYaHhqM3BobThBNzVybHRfMGRDLUtXZw?oc=5",
-   "source": "The Loadstar",
-   "published": "2026-10-23T13:07+00:00",
-   "added": "2026-10-23T13:34+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "carrier",
-    "freight rate"
-   ],
-   "summary": "News Carriers opt for more blanked sailings to bolster freight rates The Loadstar",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7dbc8aca406f",
-   "title": "Baltic Dry Index Slips Friday, Still Posts Weekly Gain",
-   "original_title": "Baltic Dry Index Slips Friday, Still Posts Weekly Gain",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1huTHNFcHFHYjlSc3hidy1LRUZCY18wbUNuNXBHVlU0UnNzQ0w1TWRhWG05am1VblFmbmdCc1NCTE96VzNGaDJsM2pZdTI5bU5KOWdCWXVxRkMyYTNjMWo5NlJCNTR3YUhKWkFCUnkzM2hqZDQ2VjZkZHpxM25JZVJObVB6Wnp4ZUE?oc=5",
-   "source": "Finimize",
-   "published": "2026-10-23T13:04+00:00",
-   "added": "2026-10-23T14:18+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry"
-   ],
-   "summary": "Baltic Dry Index Slips Friday, Still Posts Weekly Gain Finimize",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "54e50921b9cb",
-   "title": "Baltic Exchange shipping updates: Oct 23, 2026",
-   "original_title": "Baltic Exchange shipping updates: Oct 23, 2026",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kdl82TzNBSk9iYzN6c3g5Uk9VTDVTTERWMVV1MXYydzA2WkNmRFRCM2ZLUlhQOF91ZGU3a3d6Z3BXQjAtZ0V5d29PNVFvN19M?oc=5",
-   "source": "The Edge Malaysia",
-   "published": "2026-10-23T12:57+00:00",
-   "added": "2026-10-23T21:33+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Baltic & Nordics",
-    "Asia"
-   ],
-   "tags": [
-    "baltic",
-    "shipping"
-   ],
-   "summary": "Baltic Exchange shipping updates: Oct 23, 2026 The Edge Malaysia",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "705bc1300daa",
-   "title": "European gas prices rise 6.6% weekly as Gulf supply disruptions, winter fears mount",
-   "original_title": "European gas prices rise 6.6% weekly as Gulf supply disruptions, winter fears mount",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVVRTcXo3cW5Od1ROSmRNNDU5N0pKcXBjV0Y1MFpVSHpycEdtOGNDQlBnV09odkVueTAzZzl3Nk50bzB5YjZHbUd6ZV8tbVdBa041NVdNbDM1S2xXNnpHRTlNMkdPS1NwRFFHS0lxSjlhZUsyQU9LQU50R1pWSF85TlZvTjRKYXdLNWFTOUo2RHg5NkMxd3prUjRDbmNRZTAzSWlSUjM5bXF6czhZSGc1VVdjNUpDZjBNMXU4akM3TzdJQXktNGdtUlRB0gHSAUFVX3lxTFBrM1NveUUzUll2NTlYbU1IV3gtQll2M0t4X1hmbGlPaW1Id0tWLS1HY0ltcVlkT1JNaThVV0JkZXZ1c0RueVhHUkx6ZUg2Sk1jRmVzd2hCMU5GRzYtMHdHZG1JU01HQTBWYUZwbnpzSks4YXE4RTBvT2FRbk9wMS1qeW5qZmM2bmc0Z3MyRDJrYlh3QjJSMmZaOXdWY201WktzMEFDMzNFd1gtMkVDMHpXNlgzdWROaUZHQmRnMFRkMHpBOGNJUUtGa3dZUndEdUwxZw?oc=5",
-   "source": "Anadolu Ajansı",
-   "published": "2026-10-23T12:43+00:00",
-   "added": "2026-10-23T15:38+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "commodities",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "disruption",
-    "prices"
-   ],
-   "summary": "European gas prices rise 6.6% weekly as Gulf supply disruptions, winter fears mount Anadolu Ajansı",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
