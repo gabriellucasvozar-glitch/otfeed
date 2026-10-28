@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T14:27+00:00",
+ "generated_at": "2026-10-28T15:23+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,67 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "cd362e86e1b1",
+   "title": "Valencia port tenders substation to bring shore power to ships",
+   "original_title": "Valencia port tenders substation to bring shore power to ships",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEI1a1FZTzBGMXdBSGhLN2lOZWZPWmJ5aERZUU5IaDQyNERDVmVYYjhYdkQ5RF9fQlltcnBjNnE5ektvOUppUFFMT3Q3dFFMRDlaX1FZYTV1V0pVczBnZnpVbDlqN1VSdEl4WldNeG5oOFRPMV9nYjV3SG5Oak1CVG96Tlg5dkdmWkVSU0I5LTJlbnQ1bDdlZEowWjNIM3M?oc=5",
+   "source": "https://www.engine.online/",
+   "published": "2026-10-28T15:19+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "ports",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port",
+    "shore power",
+    "tender"
+   ],
+   "summary": "Valencia port tenders substation to bring shore power to ships https://www.engine.online/",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2372c1cf5ab5",
+   "title": "Russia is redirecting grain exports to Arctic ports due to the closure of the Black Sea",
+   "original_title": "Russia is redirecting grain exports to Arctic ports due to the closure of the Black Sea",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOazFqb0pZME0xWkpLSlYtQVNFQUM2Q3RpSC1vSm5fWXFWVTgxbVhhaUZkOXREeHk1S1pYa2VJUFZWVGNDck9aZXVmTHBnQ2p2bm1hYUt2ZG85Mi1NbnJEY1NzY1ZpZDV5X000QkVkRlJqNmUxZGxkM2YzVW9aUkFHUV92UGQxc0VpY0FzS3lIUGpRLUg0bEFRYzNxUWtIZmhiWW5ENy0zZHp5VXJLc2FONHFJQQ?oc=5",
+   "source": "UA.NEWS",
+   "published": "2026-10-28T14:21+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "black sea",
+    "grain",
+    "port",
+    "ports",
+    "russia"
+   ],
+   "summary": "Russia is redirecting grain exports to Arctic ports due to the closure of the Black Sea UA.NEWS",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "610f2bc31c5f",
    "title": "Murmansk port opens new grain path for Russia amid Black Sea risks",
@@ -42,6 +103,33 @@
    ],
    "summary": "Murmansk port opens new grain path for Russia amid Black Sea risks Business Day",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "701d8ed792fb",
+   "title": "President Trump’s Steel and Aluminum Tariffs: 1.0 vs. 2.0",
+   "original_title": "President Trump’s Steel and Aluminum Tariffs: 1.0 vs. 2.0",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcWJGdlVBWU54VE1ZdVlmTTFTRkV5SEl5YXhVSTI3UmdLMkxZYVZKTGZMcEtnaF95Slh2OVZEcXkyQUtYVnFCSVlVTTBya1dfWktUOWNDeVJ0Y1ZiLXlYMXBZVngwZm5PUjlseG9rQTljakd2bVM3QUswbHNLWC1Hb1lWd1R4X24yZnVYTjR4bjJmQXc4Y25MVkJ0Q2ZjcnZx?oc=5",
+   "source": "The American Action Forum",
+   "published": "2026-10-28T13:50+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "steel",
+    "tariff"
+   ],
+   "summary": "President Trump’s Steel and Aluminum Tariffs: 1.0 vs. 2.0 The American Action Forum",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   },
   {
@@ -102,6 +190,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "51c5263332b2",
+   "title": "Freight rates for iron ore fell in October compared to September",
+   "original_title": "Freight rates for iron ore fell in October compared to September",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmIxVEFGUDZxZUZyalg2VFI0RGxvSndFVFE0Q3Vtb1VYYUZISnBWNkRPS1BfLXV5QzZURTdNRmdPNkpWdkU5VTBoejA1dUlfRms4bE1kV1hvWURtNmlLTVZzNUstMzk2VWhNRjBaZ0l6LW1Yb2YyV2hkeVJJNFlVeVpqdjRtWXVxb3RfWllRRTMzM3JWNDNJ0gGcAUFVX3lxTFB5dkVDMDZOYzQ5bHluUEhnQ1ZYdmMwUEptWVh0UXJJcE5UYzlFUDRaMS05X3FaUEhPYzYteHBsdHc0b0lWUklld0Y1bHJ6RWZrbGN3alQyZWYzTVZxODNPUDNoNlM2aTA4a240SmRLMURKMWM3NFJYMDBWdjh3dFI5a0VVaUdidHhpdkdCeDVCc2JBbEFWNm4ySFdsdQ?oc=5",
+   "source": "GMK Center",
+   "published": "2026-10-28T13:34+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "freight rate",
+    "iron ore"
+   ],
+   "summary": "Freight rates for iron ore fell in October compared to September GMK Center",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4959a7fc793d",
    "title": "News Container newbuilding fleet closing in on 16m teu by year-end",
    "original_title": "News Container newbuilding fleet closing in on 16m teu by year-end",
@@ -125,6 +240,86 @@
    ],
    "summary": "News Container newbuilding fleet closing in on 16m teu by year-end The Loadstar",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "4438d28c3471",
+   "title": "Gruber Logistics takes over Hamburg multimodal namesake to strengthen Brenner service",
+   "original_title": "Gruber Logistics takes over Hamburg multimodal namesake to strengthen Brenner service",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVFVsY2VVYW5fSHdEdWtQTldFYVE4ZC1RVVpqUVZ5QkVEVGpYbWxGRXFBeDczcXY0SjRBUlgzVDR0eWgtSWxLQWZoU0huc05uNWRHMUlyN0p0S1otelZnMGlQMl9QbW9jd3JiVjZNTmJ6a1ZBOExoQUZGOWlGdHRtbFhKc0RSRWRzUW9ZUGg3Ti1tYWtXUG5QbGdOZGliZmFVREk0SnRmWi1YMlhCQlZvdlZCRUNrNUx6bVBoTGdHaTNyQzhMWHBrOGR3UFBNeFRfNTg0?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-28T13:24+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "hamburg",
+    "logistics"
+   ],
+   "summary": "Gruber Logistics takes over Hamburg multimodal namesake to strengthen Brenner service RailFreight.com",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "937bab36651d",
+   "title": "UK farmers' union says tariff cuts unlikely to reduce fertiliser costs",
+   "original_title": "UK farmers' union says tariff cuts unlikely to reduce fertiliser costs",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWGszVlplZGVjUW9ZZGhULTNGeGdBNFBIbEZpNHVjM0p0TVgyNU9UeUVXeWIzTFNyM2kzZFZpdl9oZjJZeGtoZlZnVDJubU9senlqejFqemNNRnVHU3EyU2VZRzQtclFZM21zdUQ5VlAya2ItUC1LOWNnNDEyZ19JbUpqcDRJeFVJcmJyeFRVd0xkNU41emlQcGhmUS1QOFBvNllSZmtidTR4a3RTVHJYVnE2aWdtWVJSNFFRM3RUMnBvMFlKNHc?oc=5",
+   "source": "FreshPlaza",
+   "published": "2026-10-28T13:21+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "fertiliser",
+    "tariff"
+   ],
+   "summary": "UK farmers' union says tariff cuts unlikely to reduce fertiliser costs FreshPlaza",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "102ecf342724",
+   "title": "Strong production seen for Argentina corn, wheat",
+   "original_title": "Strong production seen for Argentina corn, wheat",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSFVtQlhkX2c4SzlCNXc1ek1TcXZnUGlnMTNrb2dDV29pRzF3bkJaQWhuRy1aNDItZ0xqMU56c09aNUR1NWlZWE5CRUlSaWQyRDJvYTZReldqRG5DS05qbXZraTBCTTNOWGZ2ZllyMnpYNE9GVy1HZU5tTzJkTklYcVdGQ213b0dxbC1Fa3k5SWxmaVJK?oc=5",
+   "source": "World Grain",
+   "published": "2026-10-28T13:10+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "corn",
+    "grain",
+    "wheat"
+   ],
+   "summary": "Strong production seen for Argentina corn, wheat World Grain",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -240,6 +435,86 @@
    ],
    "summary": "DL Invest Group lands €54M BNP Paribas loan to expand Polish warehouses Dealroom",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "20033771d662",
+   "title": "FS Logistix orders six more Czech locomotives amid €1bn fleet renewal",
+   "original_title": "FS Logistix orders six more Czech locomotives amid €1bn fleet renewal",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNck9BV01LRzIzQlRBY2pLanlHQUNmMHV3cnJOcnlBQzNLTVBkc0UwMlctQmh3QUFGTklvWGIzTDJHYlJjNmliT2tIRFlrY0N0QWZ4X2pjRE5INEJSRU04ZnlaWW16R2ZkT0d1TzRLN0FibUNuOFcyWXladWQ2d19CTFg4dFk5Y1ZGOGo0Q3BYUjFHNmNSNkdsY19HSENtQlRNWDlBb2g5ekxRRU45RXNhVlY0b1phZ2R3Qnc?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-28T12:24+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Central & Eastern Europe"
+   ],
+   "tags": [
+    "fleet",
+    "locomotive"
+   ],
+   "summary": "FS Logistix orders six more Czech locomotives amid €1bn fleet renewal RailFreight.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e70ddf43d893",
+   "title": "Polferries o przenosinach z Nynäshamn do Norviku: „Jesteśmy gotowi, zmienia się tylko terminal”",
+   "original_title": "Polferries o przenosinach z Nynäshamn do Norviku: „Jesteśmy gotowi, zmienia się tylko terminal”",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYm55VmRUZ0RjY3hNbUtVb2VCZWdra3VJWTk1NksyczhIaE1aTVlBbExud3JfSW5kZXhEZGZFcXhOR0VzQjgycVQyV1pzczZKaWxES05xZTREODVTS1hWa2JDQlg2UExjUXZNOVhEalliVm92RXN1b0JFbXVZZURyVmRvTFhBQkExUy1QbV9uTFdIeFBYN25tQU1ZVkZWNExLTTk2WGktcUlRQ0FMSXk5VC01SDJCajJaRWNHM0l4ZTM0Ul9DaURJ?oc=5",
+   "source": "GospodarkaMorska.pl",
+   "published": "2026-10-28T12:19+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Polferries o przenosinach z Nynäshamn do Norviku: „Jesteśmy gotowi, zmienia się tylko terminal” GospodarkaMorska.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "59485cef0c4a",
+   "title": "'Next chapter': Humber's Global Shipping Services snapped up by Associated British Ports",
+   "original_title": "'Next chapter': Humber's Global Shipping Services snapped up by Associated British Ports",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY2lreWxteG9PcTNWaUd3OE9qbUxJLWk2Y1FXdTZDNlRzU0JrOFgwSzE5czYwczhCNndBd2hkZmVQc0V4a3BUSU9Vb2VxU2tvZ1BScDJlRHVwWHlZWnRmbzdWUFdnWmlabDZWMFF1b0xQTzV0WVVLY2YxbWZ3QmFkUEZWRFpheHNlaVVNSFFwNjBVN0JMOVRjWThvY2NkNVRqc043RlZZUlBwb1lFbzliV3p0OXRHZDRMR1BzMnBsNGo2XzJNTTZXM09zOV9ZUQ?oc=5",
+   "source": "Yorkshire Post",
+   "published": "2026-10-28T12:04+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "shipping"
+   ],
+   "summary": "'Next chapter': Humber's Global Shipping Services snapped up by Associated British Ports Yorkshire Post",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -926,6 +1201,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "f042e5cd603e",
+   "title": "MEPS to Host Steel Market Discussions at UK Metals Expo",
+   "original_title": "MEPS to Host Steel Market Discussions at UK Metals Expo",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ1pJZjctMHRobWZYc3Y2aHpTajl2SlZoSzRZUHJCeHhpdnZHTVZOQnRyaUpaU05TQUxWNjFxU2ozUnk5OEN1ZkszSWdyVU1rMlVjbmtwdEl3alNoaUxaVDVPY2NqaDhFaE5jRndJUGZNN1JyRXlUb3h2b01DaEtxUzBPRHlWbkxwZmpyZ1hrSVNlSWlkbFFqek5mVWVacXhhdmZKc1lrVFFjYVJSWFd1d0FqWWQ3MkFmaUJz0gHMAUFVX3lxTFB0TjNWTTk0eXJCZHFLSzA1LTZzWFFNaW5QeUFzU3RGc3p0RjFaSzU3V0RZTGJkaW5xbHBtZl96a0V6dlp4d0dGVlg0RWhnb1Z4TzJlSW5BT3hHd2xNR0FtWld4clFVa1lWaUlxNmk5QkttU0hQQzlzWjFONVk1X1FKRnN4V25ITnVuV1h2MzRzNTFNLVI5ZHJ6bG12ai1hVUktbWw5bW1ubkxzWDZlY0JZMElHVDl4aS1idjR6aVh5TlRCWGROMF8wUTZJMw?oc=5",
+   "source": "Металлургпром",
+   "published": "2026-10-28T09:41+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "MEPS to Host Steel Market Discussions at UK Metals Expo Металлургпром",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "cfa355c6a269",
    "title": "Middle Corridor trains keep increasing amid persisting challenges",
    "original_title": "Middle Corridor trains keep increasing amid persisting challenges",
@@ -1167,6 +1467,31 @@
    ],
    "summary": "SC Ports is righting the ship after cutting costs and rates, CEO says Post and Courier",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6b23fe6640eb",
+   "title": "European Steel Forum: Decarbonization challenges put competitiveness in focus",
+   "original_title": "European Steel Forum: Decarbonization challenges put competitiveness in focus",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUk9kcERKcUdzX01ZQkFZWFlPV1F1U283eGNHOFgxNVhmVUhTWVAxZS1kNHJCVlNkT1Y2SzZvbXZSMFRUNVdUWDNWclJHT3ZzTjhCaU1LSTMzanZIUXAtOHFVaVhuSGlQS1JYZ19INWV6eXA2Y1hCS0pPblMzSnRoU2tnc2J4ZFg4aTRCRXpLN2NJUG5PNld4RWdGdnRGLTYtZnJYUGJ2V3ZITU1wbTdlZUU4OTBwRDZ4WmVJY212MURVRTdUclFiOGNTMXdWT2R1SUJ0Zg?oc=5",
+   "source": "SteelOrbis",
+   "published": "2026-10-28T08:56+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "European Steel Forum: Decarbonization challenges put competitiveness in focus SteelOrbis",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -11597,6 +11922,35 @@
    "summary_method": "feed"
   },
   {
+   "id": "e5faec85df35",
+   "title": "Ceny zbóż i przełom w Porcie Gdynia. Terminal Zbożowy znów działa",
+   "original_title": "Ceny zbóż i przełom w Porcie Gdynia. Terminal Zbożowy znów działa",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTnhlQlVTZGY3aXBVYlY1NFE3UzdmME5rdFJGbU5pejZKQlRvZEgwT2N5TGJzQXN3WGJVVWVqV0dHYWZCbDFfNWRTVGF1NV9fM1Yydi1lbGN2eXJGdGJ3R005Y19TNUhOTXd4dThZT0RKVG1qSGFWeklTczB4NGdGdVpDdGcyNXZ4UkdMQTY1dw?oc=5",
+   "source": "Agro Profil",
+   "published": "2026-10-26T07:00+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "pl",
+   "category": "commodities",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gdynia",
+    "terminal",
+    "zboz"
+   ],
+   "summary": "Ceny zbóż i przełom w Porcie Gdynia. Terminal Zbożowy znów działa Agro Profil",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports. Involves a Polish port.",
+   "summary_method": "feed"
+  },
+  {
    "id": "b5d7236400d9",
    "title": "Kazakhstan and UAE Advance Trans-Afghan Railway to Connect Central Asia With Pakistani Ports",
    "original_title": "Kazakhstan and UAE Advance Trans-Afghan Railway to Connect Central Asia With Pakistani Ports",
@@ -13502,6 +13856,35 @@
     "shipping"
    ],
    "summary": "USO, UCO Gain Premarket As Brent Crude Hits 5-Month High — Middle East Shipping Attacks Fuel Supply Fears Stocktwits",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "bc7e2a1896a2",
+   "title": "Study: Latvia among top 5 transporters of Russian grain",
+   "original_title": "Study: Latvia among top 5 transporters of Russian grain",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObWNKd2lhTUgwUGg4Zmk1b3dMTkZtbzBqVkN1d2NfR3BRbFlIZlhtV25rRG1EZWZfLXE5bzZfaFprYTN1ejZRTVdhcE41R09sVUZOQUVzY1pSN2ROcVdaY2VyRlNQWjNaUHVidE5xWC1kLWp6ZGNSYk8zUmRTUlZQMU9RME9QNFFsRXdjNEJXbF9OX01o?oc=5",
+   "source": "TVP World",
+   "published": "2026-10-25T17:00+00:00",
+   "added": "2026-10-28T15:23+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Baltic & Nordics",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "grain",
+    "russia",
+    "russian"
+   ],
+   "summary": "Study: Latvia among top 5 transporters of Russian grain TVP World",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -16192,408 +16575,6 @@
    ],
    "summary": "Algeria Tells Urea Producers to Halt Exports to France: Reuters Discovery Alert",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5df33724071c",
-   "title": "Southern Peru could gain new logistics hub with US$405mn Marcona port",
-   "original_title": "Southern Peru could gain new logistics hub with US$405mn Marcona port",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdjNDbDhaUTFrOU1CYUJMeThsWWZVdThMbHU2OGZJMnVhZnVrSTdVcF9kYy01Q2RuWDNJMEpPbEppY3hzZGp5ZFhLMjBTSlgyUXFSekVPVldVdG5CcmNhTDE0SVBwT2tFRkw2Nm1SaUdVMy0yaUQxMlZzTmRtMEJWd2hiSlV3eTdsVmVHeG5PRWNiSm03R1FjUEVhMEdXb3BfM0hKeFVpMnpMNDg?oc=5",
-   "source": "BNamericas",
-   "published": "2026-10-23T20:16+00:00",
-   "added": "2026-10-23T20:59+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "logistics",
-    "logistics hub",
-    "port"
-   ],
-   "summary": "Southern Peru could gain new logistics hub with US$405mn Marcona port BNamericas",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "adc77aca1e6b",
-   "title": "China and Russia Link Arctic Logistics to Halve Transit Times to Europe",
-   "original_title": "China and Russia Link Arctic Logistics to Halve Transit Times to Europe",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU0VzLVBMb1VDZTY4UG4yMkhzM01oeEd2SzdSVWhtT3dhX05WTWg3bmVjZWw0aGdkMjF1aHdEa014SUZROHJheEhmSEdPQ3hKOEpmMnJ5ZjYtWlU5WGxONzFBTW9lWjZadlM2bVhfSDlZVnM0emtZUlU4cEJLMGNma0p5Qjl0UlllSG1WeWh6N2Nyelk?oc=5",
-   "source": "PravdaReport",
-   "published": "2026-10-23T19:28+00:00",
-   "added": "2026-10-23T20:59+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "logistics",
-    "russia"
-   ],
-   "summary": "China and Russia Link Arctic Logistics to Halve Transit Times to Europe PravdaReport",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d548fb7b02f8",
-   "title": "Iran's Chief of Staff of the President says despite the blockade of the southern ports, where 75% of the country's imports were made, the amount of imports has decreased by only 25%, ISNA reports",
-   "original_title": "Iran's Chief of Staff of the President says despite the blockade of the southern ports, where 75% of the country's imports were made, the amount of imports has decreased by only 25%, ISNA reports",
-   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQYkR4eWs5UlZ0WERUNm1rZWxuNWtZNnJrRXpJTm9PVmtHLVJOelNqT3p2eklsb2hLUVdZcU5mclViNWliU2ZWakdKTk84bWJNSERqbld4SFRjZi0tRVcxcW1HU0FPZ21DakhTaW5Kbkw1THBFTG1PeWxzRFBwUzd3NHBCYlBzOWUyS1ZXY1JnbHJ1cVJCc25YYjBZQThjRERXclllWVZKZ0NOTUs1WjRlaXRRSG9fb2ZvQ3lDNjRxRFpGU2xhQmN2b0ptcVJuUlE2cGdYc1ZSRlQxRUZlZU1kQlVQZU0tMlJvSTNmS0FaY05XZTNsNlU3WnBaVlZKLUZfUXRCQ1Q5eks2aUVxSXk1SUpoYVQ2QWpjN0JfejFZUi1oNks1MWhOcENsSENxNmpHbUJ2S0FFSlRyYTZnQklrYkt4bndwNDA?oc=5",
-   "source": "Newsquawk",
-   "published": "2026-10-23T19:25+00:00",
-   "added": "2026-10-24T17:07+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Iran's Chief of Staff of the President says despite the blockade of the southern ports, where 75% of the country's imports were made, the amount of imports has decreased by only 25%, ISNA reports Newsquawk",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a895b8061047",
-   "title": "Steel exports from China show strength despite Middle East disruptions, Braemar says",
-   "original_title": "Steel exports from China show strength despite Middle East disruptions, Braemar says",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjlyUlFMcmV5SGFrUWhBcW9pa3FCVlRmUTBjYm1GNmVmRm5Ca2VHaFhFZGhkb1EwaTJqdmM1WndjbXlLSE1NRXk4RTdXUnc1YUdPQUN5YktCS050djZkX01iYTFwazlsMnFqMFJzZ3U3Q2RZRkE5dDJ2eEhNbW90em1hM0hjeDBKWEYtYl9TbmtncnlTX0UzYy02SllxYnpydHFlWVo4eWJUYS1ENUtIY0hidlZXZ2dtODRRQTlLYmhCbmpNR0dVOUpyZDQxTE0?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-10-23T19:15+00:00",
-   "added": "2026-10-26T03:42+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "disruption",
-    "steel"
-   ],
-   "summary": "Steel exports from China show strength despite Middle East disruptions, Braemar says TradeWinds News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "71fee3acdcc2",
-   "title": "How EU ships are still able to carry Trump's Russian diesel despite so many sanctions",
-   "original_title": "How EU ships are still able to carry Trump's Russian diesel despite so many sanctions",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc3N5czJ3QkdQU1l4UHc5clJOVktvMlNMODV2SnBWNDItUVFYelpkaVpKQ3FGN1BMUmIzWUJvQ1NWek1YQjR0dkJ1RlJVRThWTGFXT2dGQXEyWDlhZC02NnBiV0JyQWZsa183U2kteUppNm5DSTUxQk5tRUozQU5aTWZiUDUxaF9kc3d5dkhWOXhXQS1zcGRRY3NscGU4ckNoWWpXNXlFTHlWbVhwV0FVSm9KSQ?oc=5",
-   "source": "The Kyiv Independent",
-   "published": "2026-10-23T19:13+00:00",
-   "added": "2026-10-23T20:59+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Russia & Belarus",
-    "EU institutions"
-   ],
-   "tags": [
-    "diesel",
-    "eu ",
-    "russia",
-    "russian",
-    "sanction"
-   ],
-   "summary": "How EU ships are still able to carry Trump's Russian diesel despite so many sanctions The Kyiv Independent",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c7911494e26f",
-   "title": "Russia’s attacks on Black Sea shipping raise risk of global famine, German FM warns",
-   "original_title": "Russia’s attacks on Black Sea shipping raise risk of global famine, German FM warns",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTjZGVEo2QnhYU3VGZHRaZEZ1WEczM3JpODBhNDhIcjRKbG5RRjFyWGRmZEVyQlF4TG5qMF96ejFTc1l4dzlSVl9pQzZHNlBkWUVwa0IxZjE4OUFkTksxZ3NzMVZLOENUMHVLS2tQV3NMOGpabWZMZllURmd2VkllY2JGTDVpV0NXdFU4THd6TV9OTkcxLXlQOFc5OFVjMWxtWnVNZTdGV0tYSnhMRHFyREpTYU9yNFhlVDFhalhR?oc=5",
-   "source": "Euromaidan Press",
-   "published": "2026-10-23T19:13+00:00",
-   "added": "2026-10-23T19:20+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Western Europe",
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "russia",
-    "shipping"
-   ],
-   "summary": "Russia’s attacks on Black Sea shipping raise risk of global famine, German FM warns Euromaidan Press",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "500bdeee7d8b",
-   "title": "Drone and warship sent to monitor Russian navy vessel near wind farms",
-   "original_title": "Drone and warship sent to monitor Russian navy vessel near wind farms",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbnVFSTdlQklvcWtCSEV1Qk1tTGt4RnhaY1NSM3NqSExMbHFqUGIzdHRhN0pjTDhzNTFWb0p0TGFISUtpaHVYNzhrb1dLOTdOeXNkN1JoSWNweXNXa042dm5FSVBwbk9JZ0Z4YWhBNmZjVXI4b2R3bnhRY1RBcl9hN0tSXzdwSmNwMDdBOXlQRlFCX1FNS2poSTRVT3dLaXF5SnlB?oc=5",
-   "source": "The Telegraph",
-   "published": "2026-10-23T18:57+00:00",
-   "added": "2026-10-23T20:59+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "drone",
-    "russia",
-    "russian",
-    "vessel"
-   ],
-   "summary": "Drone and warship sent to monitor Russian navy vessel near wind farms The Telegraph",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3fd7fd320c61",
-   "title": "USTR Proposes Extending China Ship Port Fee Suspension Through January 2027",
-   "original_title": "USTR Proposes Extending China Ship Port Fee Suspension Through January 2027",
-   "url": "https://gcaptain.com/ustr-proposes-extending-china-ship-port-fee-suspension-through-january-2027/",
-   "source": "gCaptain",
-   "published": "2026-10-23T18:35+00:00",
-   "added": "2026-10-23T19:54+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia",
-    "North America"
-   ],
-   "tags": [
-    "china",
-    "port",
-    "vessel"
-   ],
-   "summary": "A cargo ship full of shipping containers is seen at the port of Oakland, California, U.S., August 4, 2025. REUTERS/Carlos Barria/File Photo The Trump administration is proposing to extend its suspension of port fees targeting China-linked vessels for another two months, pushing their potential return into January 2027 as Washington and Beijing continue negotiations over China’s dominance of global shipbuilding. The proposal, outlined in a Federal Register notice scheduled for publication October 26, would extend the existing one-year suspension through January 9, 2027. Under the proposal, the measures would remain suspended from November 10, 2026, through January 9, 2027. The proposed extension also comes as the administration considers a much broader port fee system under its Maritime Action Plan , unveiled earlier this year. For now, the latest USTR proposal would leave the China-specific port fee measures on hold for another two months, while negotiations continue. USTR has opened a public comment period on the extension, with submissions due by 5 p.m. Comments can be filed through the USTR public comment portal under docket USTR-2026-0694. The notice also does not address whether China will extend its own suspension of retaliatory fees on U.S.-linked vessels.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "3c360447227f",
-   "title": "Record Tanker Rates Threaten to Push U.S. Oil Exports to Asia to Seven-Year Low",
-   "original_title": "Record Tanker Rates Threaten to Push U.S. Oil Exports to Asia to Seven-Year Low",
-   "url": "https://gcaptain.com/record-tanker-rates-threaten-to-push-u-s-oil-exports-to-asia-to-seven-year-low/",
-   "source": "gCaptain",
-   "published": "2026-10-23T18:22+00:00",
-   "added": "2026-10-23T19:54+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "crude",
-    "shipping",
-    "war"
-   ],
-   "summary": "By Yongchang Chin and Nathan Risser (Bloomberg) –US crude oil exports to Asia are set to hit multi-year lows after the Iran war disrupted global shipping and pushed the cost to lease a tanker for the Pacific journey to a record of almost $80 million. Asian refinery orders for US crude for delivery in November tumbled roughly 50% to 24 million to 26 million barrels this month sequentially, according to traders who asked for anonymity because they weren’t authorized to publicly comment. If that pace of orders holds through the end of this month, it would mark a seven-year low, based on ship-tracking data from Kpler and Vortexa. The tanker rate along the US Gulf Coast-to-China route has more than tripled since the US-Iran conflict erupted in late February to almost $60 million as of Thursday, according to Baltic Exchange figures. Those eye-watering rates doesn’t include the cost of the oil itself, which is trading around $100 a barrel. Tanker rates are so inflated that refiners are effectively spending $30 to $35 to haul each barrel of crude from the Gulf Coast to Asia, or as much as seven times what they shelled out last year, Hawkins said.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "90beba4c27e1",
-   "title": "US-Israel-Iran War Latest live News: Oil Prices Surges 4% to $117.45 as Bessent Claims US Pressure Has Decimated Tehran’s Oil Lifeline Amid Middle East Tensions",
-   "original_title": "US-Israel-Iran War Latest live News: Oil Prices Surges 4% to $117.45 as Bessent Claims US Pressure Has Decimated Tehran’s Oil Lifeline Amid Middle East Tensions",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQODVULU9JRlVtZG5TYlB4ZlhFWG5NYzZWZHRYaWZndVNLMEx4aUFCc1ZHWkR0TzlOSTVjamQ5NHlwRXZEOVJxVnRQemhTTUlhZkFTWVJIZC1jT0JuenYzWE51bnJtUmtQQWRzY0I4UmNFMlBIQWlvbUNXMW1VdktIUWpQcWxwd2NheFhOOEwxUVNrZngzbFVLdUNCM29sb19qbGFCOTVTdG9oQUlSTHJnT1Bwb1BPWkV3eGk5b05NZUVodzE1VWxUN0MzVnIwaUcxZ01fcElFLWhrYk5wM1NTNVIxM0lGT2RJaXZwakRuUHhiNUVQSEgyczVRVHVyNWFjeFAwb18zMWI2Mkl5SDk5NUtWZTRsbEpVRDVoX1Vna3BueldnWGVV0gGsAkFVX3lxTE0yQjE5U2pybWJEZ2E2TXFObTk4OXVzNVczbEtadWlDQ0gyS1BUM2diMThURFhhYnl5RndZXzVMWld6T2JBNUMwOTdOTmRFZ29ta3MycTI0WFQwVG5EaV9mRDFERG9jZ2plZ254QV94Y0Q2QW9UZWg4dHlEWmNTTUhlS1Z1WGtnYmt6T1I1V3FES3ZEUmVxbzY2eXpZckozenpCZzhPNU1YNlBwZ0RlZWhNNXF1dmk2ZkN3Wk1sajZQemhVVDdRWHV5SDUwNE1MQk5TQjhTcTlLQ0lFRlpsZjNNUUw0Y2NUSGc0ZHNndHY3VmRqdmdkcVFrbDI5NXRBTEZhRW9pYmVuNlZ5YUh4SUg4Ml9xdHo3QVQ1cFVfVGc0LUNmS0xObjNYeXRKZw?oc=5",
-   "source": "The Sunday Guardian",
-   "published": "2026-10-23T18:19+00:00",
-   "added": "2026-10-24T22:28+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "oil price",
-    "prices",
-    "war"
-   ],
-   "summary": "US-Israel-Iran War Latest live News: Oil Prices Surges 4% to $117.45 as Bessent Claims US Pressure Has Decimated Tehran’s Oil Lifeline Amid Middle East Tensions The Sunday Guardian",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1ead3bb45ae4",
-   "title": "Oil prices rise to highest since late April on Middle East fears",
-   "original_title": "Oil prices rise to highest since late April on Middle East fears",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRjFBODQzZ01YdU1XcGEzMXJaSVFkbnFEWUVJbEUxdk5hcXhReWxRM0RrS1QyaGF2SHYzaWt0cEE2U3ZvNkh3aXVXVng5aXRlSXRPai00Umo5TG4tTUNPa3NnVGV1ZlJIODVYXzN6MWV6Skw5cWRIeTR1Zm1vTW1GbVYtY3p2RmwwMGFyc09EWXk3UldGV0JHM2w4MzF5aUV2MnN2TDVWdjhtdDY5TVJHbNIBvgFBVV95cUxQTFFRUWZHa250VGdpdzJUYTF3V3VhdEN0N2cyNXp4OG9iYnFoa0hRZEF5bFZEc2tIUHpPVTBmeWNGNjFhMFRiUVJMYjRUOWhQOEtZb3lRcUxkTkNfLTBqMVdvOExUSUZqZ2FRNmZzc1V2YlVlbzhRYUZ2OEdkTnhLbGVKMnZOZXVvTzFWbDI5eTFINEk1VmZzMnl1RkdoWVg1UWlWX2VvQTBpZWFLbDM0THBqcUFjaVEtUFNuYVNR?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-10-23T18:14+00:00",
-   "added": "2026-10-24T09:42+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "oil price",
-    "prices"
-   ],
-   "summary": "Oil prices rise to highest since late April on Middle East fears Baird Maritime",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "51d6fea362c3",
-   "title": "Baltic dry bulk index slides, but locks in second straight weekly gain",
-   "original_title": "Baltic dry bulk index slides, but locks in second straight weekly gain",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZm96VnY2MmZTakVGMmRGV2ctSklBUFNrNFVPVUt0VFFwNTNId0NpV0htdm93aUFvV1BkZ3JHUjdGNlVWNDJ3SVZSclppWXZLYW13VHA3NndWUHVJaDBkRTFxZE42MkJuVkVwUWhVZ1ViMHZMSzk1amp1V3d6ZUg1ZU5sZG9lcHJCVXBDcEh0N1BqbFVXOG10bnFIT1VZVXU5b0M1bEFjUlU5cTYxSm1xREQ0a3U4MmpwTFBFZFQ2djBEM1Zu0gHSAUFVX3lxTE01OUFPVXFmZGtSelIxOVVlVzhlSThEVWdaZFpGcmlFVnItc0RSb1hMclh6RTNwUm5nc3IyNDRwRXlDY2RPU2c5Sjh2MkhkX3pQVktpelRGcEF3WmNUTWsycWxaRVVjSldOMW00ak5JVlNvZDBndE1nLWx1TjVlR3pVZEt2elU0NHZHcFZQbWdPWFdaVE1MazBDSU9QR2xUeUI3eFRvUnotV21HdnJSejN5bXJrV0VyWmg2ZmEzZUotNmFrNVBHa2NvaUlhR3RSMDhBZw?oc=5",
-   "source": "Baird Maritime",
-   "published": "2026-10-23T18:04+00:00",
-   "added": "2026-10-23T21:33+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic dry",
-    "dry bulk"
-   ],
-   "summary": "Baltic dry bulk index slides, but locks in second straight weekly gain Baird Maritime",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4b63c690ef55",
-   "title": "Tanker struck off Oman in war's most violent month for shipping in Hormuz",
-   "original_title": "Tanker struck off Oman in war's most violent month for shipping in Hormuz",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2JocVhjZEJJeGR5V2Z2WE1jTzVHSjEwZVRUVGVraGtKenM3eGRUUW9uZjBGVlZtM2lJelNteGhZVUJBQXRWekJXZjAwYUhGQndOcTdDZDd6dlA4bmwyeTFMQURuemNsaE1sZXg1dzRzelNIYW5fMElJUnpaYlRDQWxrdklDdnhpMEhRRHZFQXkyWFpHb1k1UHlrdS1JRkFuN1dLM09EcWVzd0ZHcnNsdE9XY0drRnp5bU9GZ0Y1TVo0Q01mYVE?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-10-23T17:57+00:00",
-   "added": "2026-10-25T22:26+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "shipping",
-    "war"
-   ],
-   "summary": "Tanker struck off Oman in war's most violent month for shipping in Hormuz TradeWinds News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "55f2f5947d5f",
-   "title": "Effective November 1, Maersk is raising its container shipping rates to Gdańsk and Constanta",
-   "original_title": "Effective November 1, Maersk is raising its container shipping rates to Gdańsk and Constanta",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzYzNHN2YUF4VFYzNjdlLW1qOTFqV2pYTEM3bzMybGxVTXpNSDV6cFprdjJWczEtanBWWEkyNVlTT245SlRZQjVDT3hPRGNfLVkwMTFScGcxVWNzbGJMM3dQekxvZUFWY1lrX3hQSW1xMnpoQ01BYlIwSjlTTGRzS3ppbVRIVnVDYTRIUTVoay1DeXRraktIdnVLeFBuMWRoTTV0V29sY3B4bTFzN1dBMzJ6aGEwT1Fq?oc=5",
-   "source": "Комерсант Український",
-   "published": "2026-10-23T17:45+00:00",
-   "added": "2026-10-23T20:59+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics",
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "gdansk",
-    "shipping"
-   ],
-   "summary": "Effective November 1, Maersk is raising its container shipping rates to Gdańsk and Constanta Комерсант Український",
-   "why": "Freight market or carrier development affecting vessel calls and rates. Involves a Polish port.",
    "summary_method": "feed"
   }
  ]
