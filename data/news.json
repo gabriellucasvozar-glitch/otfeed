@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T02:42+00:00",
+ "generated_at": "2026-10-28T03:24+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,58 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "bc566f3694be",
+   "title": "Inflation above forecasts; Star on brink after $260m fine; Iron ore price’s scary China warning",
+   "original_title": "Inflation above forecasts; Star on brink after $260m fine; Iron ore price’s scary China warning",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUXYtdk1URE5YSHBlLWpDRGFXMlNzWjB6WGwxOXJoM1FlMy1fSEVmRWlEX01GajJKZHR5Wms2NEtEeC1yVk1QV2JycHRQQ2ZCaW1uWk9DdE9xOVhWZ0RfdFMxSUd6TkhiNzRHVFVkeXAxSGFfcFpDaVVFY1lTelBXQXd0elJfd2pHRVBYei04ZkRCZnNETndGQ3BCbFdWWWhOTGdBLUVyb2k3OWZsWVZCOFVWWlRmVlV1dERNamNmbzlCSk9jcFkzWW5ab19jamprT1h5OVE3YTlLNldYRElrZ0RycFFCdw?oc=5",
+   "source": "AFR",
+   "published": "2026-10-28T01:01+00:00",
+   "added": "2026-10-28T03:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "iron ore"
+   ],
+   "summary": "Inflation above forecasts; Star on brink after $260m fine; Iron ore price’s scary China warning AFR",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "c85b7d47317a",
+   "title": "The Trojan horse that isn’t: Why America's ‘transshipment scam’ claim falls short",
+   "original_title": "The Trojan horse that isn’t: Why America's ‘transshipment scam’ claim falls short",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZTIwVFRsd1UwZkRQSnhSaE9UYkVIaC1IVWNTdTRLaF9ydkhGOWhXT2NTUW1LSHFid045a0t0dWYzTHVySXE5T0U1QnBMNlVzMXNhcWdTalUxWk5DZXpXcGtqc1JkQnJGcVExa29FdUVsV0M4RldDMzZMWnFZS2NHREtJSk1Bejl1RVJWMUIyQ1VaMUF3TWhYbU80WjVndklCQkl5Qg?oc=5",
+   "source": "The Federal",
+   "published": "2026-10-28T01:00+00:00",
+   "added": "2026-10-28T03:24+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "transshipment"
+   ],
+   "summary": "The Trojan horse that isn’t: Why America's ‘transshipment scam’ claim falls short The Federal",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "c4e5c76a3021",
    "title": "Indian rail October 2026 update: 12 wagon rakes ordered, coal freight records and new double-stack services",
@@ -797,6 +849,32 @@
    "summary_method": "extract"
   },
   {
+   "id": "efbf5bf9b31f",
+   "title": "Soybean Futures Fall as Weaker Brazilian Real Boosts Export Competitiveness - News and Statistics",
+   "original_title": "Soybean Futures Fall as Weaker Brazilian Real Boosts Export Competitiveness - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ1hITGkwVWZMNGdKQ3BxZXBiMEttaHFjV05JdXVtT01PV0NfNmoyTG9oVHlpdW45Y2dYSGhUTnR4SW5HbTNlMUZMdUVtZ1VRNTlQS21fN0RuRGlGSlNIRm1ZR3BaT1NmS0g0em5jSkNyYXdEemhjVEUwVlJzZ2x4aHJVVlFPZ2FMM2lQbTJqTkxWbExsZl9PTFlxeEFrZXZvTEE?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-27T19:12+00:00",
+   "added": "2026-10-28T03:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "futures",
+    "soybean"
+   ],
+   "summary": "Soybean Futures Fall as Weaker Brazilian Real Boosts Export Competitiveness - News and Statistics IndexBox",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "e9dcacb8ca28",
    "title": "Rusza kolejny etap budowy Portu Polska. Są już pierwsze pale pod terminal",
    "original_title": "Rusza kolejny etap budowy Portu Polska. Są już pierwsze pale pod terminal",
@@ -1285,6 +1363,32 @@
    ],
    "summary": "Port of Gdańsk container throughput rises 21% in first nine months WorldCargo News",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f487a3b3061e",
+   "title": "Correction to price of US Midwest HRC, steel scrap differentials",
+   "original_title": "Correction to price of US Midwest HRC, steel scrap differentials",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnVILXFFd2VZUm9nNDFVNEE1VHF2OVoxVDVwd0x6am1vZTBqZ3phMkx0dnplc2pKSHVGSzN1VGhKZkpkR0YtMms0ckp2YlZXYUhyYXhRVFlIV012amk1Q0Q4ZlBWMkxJRWpuQzIwNVY5LUxVZkNDOXpjY3RBRk56NGlUYnlqeGtSekxsVEs2c2g2cTR3VlVveXV4dFJRT1FQNUVJ?oc=5",
+   "source": "Fastmarkets",
+   "published": "2026-10-27T15:55+00:00",
+   "added": "2026-10-28T03:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "scrap",
+    "steel"
+   ],
+   "summary": "Correction to price of US Midwest HRC, steel scrap differentials Fastmarkets",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -1902,6 +2006,31 @@
    "summary": "Hong Kong-headquartered intra-Asia carrier SITC has seen its share price hit record highs in recent days after its board last week voted to approve a special dividend, returning some HK$5.4bn (US$688m) to shareholders. “The board is pleased to announce that it has resolved the declaration and payment of the special dividend of HK$1 (equivalent to US$0.13) per ordinary share of the company to be payable to the shareholders whose names appear on the company’s register of members at the close of business on 11 December 2026,” it said in a Hong Kong Stock Exchange (HKSE) filing on Friday. According to the CapitalIQ platform, 49.1% of SITC’s stock is freely floated on the HKSE, amounting to 2.71bn shares, with the remaining 51.9% held by a British Virgin Islands company. It is further sign that investors in shipping stocks are having bumper year, in what Loadstar Premium’s DeskOne has labelled the “Shipping $ Series”, a moniker prompted by a similar “extraordinary special dividend” issued earlier this month by non-operating shipowner Danaos. Alphaliner added: “SITC, the leading regional carrier in intra-Asia, makes the point vividly: it runs 109 ships, but its considerably smaller average vessel size leaves its total capacity at 157,000 teu, well behind Maersk and Cosco, putting SITC in sixth spot.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "ca3f707985a1",
+   "title": "Trade barriers could weaken copper recycling",
+   "original_title": "Trade barriers could weaken copper recycling",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OS2cyUUpucDEzcVJSZXVlQkFlbDR5WG13Z0ZWdUExcHJ5ajVqR3puVjhFMURWU090d0JLWE43bnRkYTdXdXh3djVYa0ZxRTl6LV9ma0dtWTNIbElPNVl5c3dFOFFucmtqY21YXw?oc=5",
+   "source": "RECYCLING magazin",
+   "published": "2026-10-27T13:16+00:00",
+   "added": "2026-10-28T03:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "copper"
+   ],
+   "summary": "Trade barriers could weaken copper recycling RECYCLING magazin",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "50cc4f4afd92",
@@ -11363,6 +11492,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "2ddf1deb5220",
+   "title": "Soybeans extend gains as export demand offsets record harvest outlook",
+   "original_title": "Soybeans extend gains as export demand offsets record harvest outlook",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQjFJWm1sVmo3NVRjdWJSVTlQLUhMUUpxdDFmeHRiRkNkRWxVT1JOZmFmMTJodEFjMy1oTnV6NUxzbF91UlRuMkZDMmZoYWRuX1JSLV81VV9MYzFJYUdmOWwtVDFlRXpLRWstV29iY2hhMEF2UnFONXp1S1lRS1haamd0TlAzcXdMdXhuYjQxSkg2SzZnUW5wb3Z6ZzM2dw?oc=5",
+   "source": "Businessamlive",
+   "published": "2026-10-25T11:08+00:00",
+   "added": "2026-10-28T03:24+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "soybean"
+   ],
+   "summary": "Soybeans extend gains as export demand offsets record harvest outlook Businessamlive",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "403f88f7688a",
    "title": "Peabody: The Global Energy Market Landscape Is Changing In Coal's Favor (NYSE:BTU)",
    "original_title": "Peabody: The Global Energy Market Landscape Is Changing In Coal's Favor (NYSE:BTU)",
@@ -16445,187 +16599,6 @@
    "summary": "Boxship CMA CGM Pointe Noire strikes crane at Port of Livorno Kuehne+Nagel",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
-  },
-  {
-   "id": "4d9338ec8bd6",
-   "title": "Russia shipping first diesel cargo to US this week after sanctions waiver",
-   "original_title": "Russia shipping first diesel cargo to US this week after sanctions waiver",
-   "url": "https://www.hellenicshippingnews.com/russia-shipping-first-diesel-cargo-to-us-this-week-after-sanctions-waiver/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-23T10:00+00:00",
-   "added": "2026-10-23T11:36+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "geopolitics",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "diesel",
-    "russia",
-    "sanction",
-    "shipping",
-    "trade flow",
-    "trade flows"
-   ],
-   "summary": "Russia was set to dispatch its first diesel tanker to the US on Oct. 22 after the Trump administration issued sweeping sanctions waivers aimed at reopening trade flows, according to Deputy Prime Minister Alexander Novak. The first tanker, which has a displacement of some 40,000 mt, making it medium-range in scale, will depart from Russia’s Baltic coastline, Novak told local media, adding that subsequent batches will follow later. It will be the first shipment of its kind to leave for the US since January 2022, before the US first sanctioned Russian energy flows. The deputy prime minister said earlier this week that Russia typically consumes 3.5 – 4 million metric tons/month diesel and exports 3.5 million mt/month, a figure he said the country can reach again by the year-end. Novak previously said that Russia is ready to supply 300,000 mt of diesel to the US in October, and a further 500,000 mt in November. Prior to the conflict, most of Russia’s diesel went to Europe, while shipments to the US were only nominal at 100,000 – 200,000 mt/month. Putin also confirmed that Russia is getting several tankers ready to leave and the first tanker will leave “in two-three days, 40,000 mt” with other tankers following thereafter.",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "e4cf5325ba60",
-   "title": "MPA and Eastern Pacific Shipping Mark Christening of Singapore-Registered Ammonia Dual-Fuelled Vessel",
-   "original_title": "MPA and Eastern Pacific Shipping Mark Christening of Singapore-Registered Ammonia Dual-Fuelled Vessel",
-   "url": "https://www.hellenicshippingnews.com/mpa-and-eastern-pacific-shipping-mark-christening-of-singapore-registered-ammonia-dual-fuelled-vessel/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-23T10:00+00:00",
-   "added": "2026-10-23T11:36+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "ammonia",
-    "carrier",
-    "port",
-    "port authority",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "The Maritime and Port Authority of Singapore (MPA) and Eastern Pacific Shipping (EPS) marked the christening of Terra Clove at HD Hyundai Heavy Industries (HHI) in Ulsan, South Korea. The 93,000-cubic-metre Very Large Ammonia Carrier (VLAC) is EPS’ first ammonia dual-fuelled vessel and the first ammonia dual-fuelled commercial newbuild vessel to be registered under the Singapore Registry of Ships (SRS). It is equipped with Everllence’s first commercial ammonia dual-fuelled two-stroke marine engine, which successfully completed factory acceptance testing in April 2026. The vessel is the result of a collaboration initiated in June 2022 by MPA, EPS, HHI, and the American Bureau of Shipping (ABS) to develop an ammonia dual-fuelled gas carrier under the Singapore flag. As Singapore’s flag administration, MPA has worked closely with EPS, HHI, ABS, and other industry partners on the vessel’s technical and regulatory compliance. This included reviewing the vessel’s design against relevant International Maritime Organization (IMO) guidelines, participating in hazard identification and operability studies, and providing regulatory guidance on ammonia detection, fuel system safety, and emissions management. MPA also shared its experience from earlier ammonia trials to support the development of onboard safety procedures and crew preparedness.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "60f7b3f17eaa",
-   "title": "6,000 seafarers trapped as attacks deepen Strait of Hormuz shipping crisis",
-   "original_title": "6,000 seafarers trapped as attacks deepen Strait of Hormuz shipping crisis",
-   "url": "https://www.hellenicshippingnews.com/6000-seafarers-trapped-as-attacks-deepen-strait-of-hormuz-shipping-crisis/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-23T10:00+00:00",
-   "added": "2026-10-23T11:36+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "hormuz",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Around 6,000 seafarers remain trapped near the Strait of Hormuz, as attacks on commercial vessels intensify and concerns grow over the safety of crews caught in the continuing conflict between the US and Iran, according to the head of the UN’s maritime agency. International Maritime Organization (IMO) Secretary-General Arsenio Dominguez warned on Sunday that conditions had become increasingly dangerous, with reports of 24 ships attacked in roughly two weeks and no guarantees of safe passage through one of the world’s most important shipping routes. “The situation continues to be severe and critical when it comes to international shipping,” Dominguez told Fox News Digital, explaining that “there is a double blockade and too many vessels have been attacked, particularly in recent days.” The consequences for those working at sea have been particularly serious. According to the IMO, 100 maritime incidents had been confirmed across the region as of October 9, while 24 seafarers have lost their lives since the conflict began on February 28. “Seafarers have continued to perish in these attacks and around 6,000 seafarers remain trapped since the beginning of the conflict,” he said, making clear that his message was not to transit the waterway or put crews at further risk “until we have guarantees.” However, attacks on vessels are not the only concern.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c26411ad6d7a",
-   "title": "India introduces new requirements for ships in coastal waters",
-   "original_title": "India introduces new requirements for ships in coastal waters",
-   "url": "https://www.hellenicshippingnews.com/india-introduces-new-requirements-for-ships-in-coastal-waters/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-23T10:00+00:00",
-   "added": "2026-10-23T11:36+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "regulation",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "regulation",
-    "shipping"
-   ],
-   "summary": "Expanded scope of the 2026 Rules India notified the Merchant Shipping (Regulation of Entry of Ships into Coastal Waters) Rules, 2026 on 16 September 2026. The Rules supersede the Merchant Shipping (Regulation of Entry of Ships into Ports, Anchorages and Offshore Facilities) Rules, 2012. The new regime applies to Indian ships and to foreign ships that operate in or navigate through Indian coastal waters, whether or not they enter an Indian port, anchorage or offshore facility. Under section 3(12): • “Coastal waters” means any part of territorial waters of India, along with any part of the adjoining maritime zones of India within the meaning of the Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976 (80 of 1976), or any other law for time being in force; • It covers India’s territorial sea and adjoining maritime zones, including areas beyond the territorial sea where India has rights or jurisdiction under the relevant laws. Salvage and marine pollution response contracts Foreign ships entering, remaining in or sailing from an Indian port, seeking port facilities, or transiting or operating within Indian coastal waters are required to maintain valid salvage and marine pollution response contracts with an entity approved under the applicable Indian legislation.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "5dab501dd9bf",
-   "title": "China and Djibouti stress need to protect Red Sea shipping lanes",
-   "original_title": "China and Djibouti stress need to protect Red Sea shipping lanes",
-   "url": "https://www.hellenicshippingnews.com/china-and-djibouti-stress-need-to-protect-red-sea-shipping-lanes/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-23T10:00+00:00",
-   "added": "2026-10-23T11:36+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "red sea",
-    "security",
-    "shipping"
-   ],
-   "summary": "All countries should enjoy freedom of navigation in the Red Sea and through the Bab al-Mandab Strait, China and Djibouti said in a joint statement following a meeting of their foreign ministers in Beijing, expressing concern about the deteriorating security situation. Djibouti sits on the other side of the Bab al-Mandab Strait from Yemen, where Iran-backed Houthis have been battling Saudi-backed government forces and seeking to control the whole Yemeni Red Sea coast, disrupting some shipping. In 2017, China formally opened its first overseas military base in Djibouti. The barren former French colony, which is about the size of Wales, is sandwiched between Ethiopia, Eritrea and Somalia and also hosts US, Japanese and French bases. The joint statement, released early on Thursday, said both China and Djibouti stressed the importance of maintaining freedom of navigation in the Red Sea and the strait, and “emphasised the right of merchant ships of all countries to exercise navigation rights in accordance with international law should be respected”.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "779f30c0e4fe",
-   "title": "Platts proposes to revise bunker fuel consumption of compliant fuels for tanker and dry bulk assessments, effective Jan. 4",
-   "original_title": "Platts proposes to revise bunker fuel consumption of compliant fuels for tanker and dry bulk assessments, effective Jan. 4",
-   "url": "https://www.hellenicshippingnews.com/platts-proposes-to-revise-bunker-fuel-consumption-of-compliant-fuels-for-tanker-and-dry-bulk-assessments-effective-jan-4/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-23T10:00+00:00",
-   "added": "2026-10-23T11:36+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "bunker",
-    "dry bulk"
-   ],
-   "summary": "Platts, part of S&P Global Energy, proposes to revise bunker fuel consumption effective Jan. 4, 2027, for key dry bulk and tanker assessments that involve Emission Control Areas (ECA) and ECA distances. Currently, bunker fuel consumption calculations reflect the use of compliant fuel, in line with the International Convention for the Prevention of Pollution from Ships (MARPOL) Annex VI, Regulation 14, which establishes a sulfur limit of 0.5% for fuel oil used outside ECAs and 0.1% sulfur within ECAs. Under the proposed approach, the adjustment would reflect the bunker fuel consumption based on updated ECA and non-ECA distances for all assessed routes, including the designation of the Mediterranean Sea as an ECA under the MARPOL Annex VI on May 1, 2025. Source: Platts",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
