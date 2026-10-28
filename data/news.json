@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T20:21+00:00",
+ "generated_at": "2026-10-28T21:08+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "57ba026aeca5",
+   "title": "USDA Attaché Forecasts Argentina Corn Production at 62 Million Tonnes in 2026/27",
+   "original_title": "USDA Attaché Forecasts Argentina Corn Production at 62 Million Tonnes in 2026/27",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSU51ZTR2Y3NQN1lUMHB1WG5HOUZ5MWpQVnNXVXpVSEUwN2Y3WnNRT0NDR0F4RVRhTWVrMVdDV18wM094S3p2ZXRZU1ppTTkta2djRS1uWF9nRzRHRHJMS0kxRjhEV1B5c0RxVUFrUkdCbEZIaUFHei0yQUVYUWFKc09Ja1JxNEFPb2NpQXVTRTExQ2I5aEI4aV9PTUIxTFJrQmdXVXNBODFuMEZ4UWVUbFVVYmc?oc=5",
+   "source": "DatamarNews",
+   "published": "2026-10-28T20:46+00:00",
+   "added": "2026-10-28T21:08+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "corn"
+   ],
+   "summary": "USDA Attaché Forecasts Argentina Corn Production at 62 Million Tonnes in 2026/27 DatamarNews",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7b275fe30012",
+   "title": "US senator urges shipping companies to turn back tankers carrying Russian diesel - RBC-Ukraine",
+   "original_title": "US senator urges shipping companies to turn back tankers carrying Russian diesel - RBC-Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0pWeVI5cjdJZ1l3ZXNRQXB6STNWcUxXX3RJNFBEYTY0eVdIRWRrbHRhUU1wWDIwc3pncWdpbUtWRGEtMlJoZk9IRnBINzJnZzk4ZHYzU1RUMEs3aWRoQWJPSUtiSWg4V0FubzEyRkFPZUEtakhWS0RGNlZ0VnFwWDg0dzRQV2ZXSmhBNkZQY0ZHRUVlaWc?oc=5",
+   "source": "RBC-Ukraine",
+   "published": "2026-10-28T20:35+00:00",
+   "added": "2026-10-28T21:08+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "diesel",
+    "russia",
+    "russian",
+    "shipping",
+    "ukraine"
+   ],
+   "summary": "US senator urges shipping companies to turn back tankers carrying Russian diesel RBC-Ukraine",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "33fa3ee4f45e",
    "title": "Agricultural Trade Routes Shift as Supply Chains Adapt to Disruption",
@@ -42,6 +99,34 @@
    "summary": "Agricultural Trade Routes Shift as Supply Chains Adapt to Disruption Czapp",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
+  },
+  {
+   "id": "07b35ab4c221",
+   "title": "Los Angeles, Long Beach Ports Identify LNG and Methanol as Leading Alternative Marine Fuels",
+   "original_title": "Los Angeles, Long Beach Ports Identify LNG and Methanol as Leading Alternative Marine Fuels",
+   "url": "https://gcaptain.com/los-angeles-long-beach-ports-identify-lng-and-methanol-as-leading-alternative-marine-fuels/",
+   "source": "gCaptain",
+   "published": "2026-10-28T19:39+00:00",
+   "added": "2026-10-28T21:08+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "lng",
+    "port",
+    "ports"
+   ],
+   "summary": "A CMA CGM containerships waits at anchor outside the ports of Los Angeles and Long Beach. Photo courtesy Port of Los Angeles The ports of Los Angeles and Long Beach have identified liquefied natural gas (LNG) and methanol as the most viable alternative marine fuels for the near and medium term, with a new study outlining potential demand and the infrastructure needed to support cleaner shipping at the nation’s busiest port complex. The joint Clean Marine Fuel Feasibility Assessment , conducted as part of the ports’ Green Shipping Corridor initiatives, examined which alternative fuels shipping companies are most likely to adopt, how demand could develop through 2030, and what investments would be needed to support bunkering operations. The study estimates that annual LNG demand at the San Pedro Bay ports could reach between 65,000 and 115,000 metric tons by 2030, while methanol demand could range from 64,000 to 250,000 metric tons, depending on market conditions and the deployment of alternative-fuel vessels. The report also acknowledges that the environmental benefits of alternative marine fuels depend heavily on how they are produced and sourced. In April, the ports of Los Angeles and Long Beach renewed their Green and Digital Shipping Corridor agreement with Singapore, with the partners committing to advance alternative-fuel bunkering, demonstration projects and digital connectivity.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
   },
   {
    "id": "ad747f705895",
@@ -16496,84 +16581,6 @@
    ],
    "summary": "Jupiter Wagons and Poland’s PESA Sign MoU to Explore Passenger Rail Opportunities in India Machine Maker",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "26dc031eee1c",
-   "title": "New grain transloading facility opens at Seagirt Marine Terminal",
-   "original_title": "New grain transloading facility opens at Seagirt Marine Terminal",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNG5RZmhDUlNINmxibzhXSUYwTUdSUzktc3VLRExLLVVDR3p4LWhxN0tPbTRiTjJtMVlzQ1JFV2k1b0dNblpPdEdfSlJ0dHRGbEJheEdTMUFaWldsckJvSHpRV3hjMm1tajMwRWxYeG5YelBsMl9hQU0tbVhNdGx1M3dnMHBuclBtQmpubWJMckRtemYwLTVHa3FGazN6YXM2Y3N1dUpKOS1JSGo1NUE?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-24T07:52+00:00",
-   "added": "2026-10-24T17:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "grain",
-    "terminal"
-   ],
-   "summary": "New grain transloading facility opens at Seagirt Marine Terminal WorldCargo News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4bc353572cfa",
-   "title": "IEEFA calls for support to decarbonise India’s secondary steel sector",
-   "original_title": "IEEFA calls for support to decarbonise India’s secondary steel sector",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUE1aMFhlUzdmMzQ1bnk5Qy1QeUotNlgyRUF0Z3N6blNJbEpVaTNQbUZLVEZib015QXFzSTVlSGgycTRod3pjeC1naWpwbWNUWGRNOEtZNEJvT016SXRjVHl4NTFCUkZvODZQYndZX1lPOTdBTEZ4cU91enM3WkY3aHBIeFhINmZCNU9SNGZ6MXdpMVdpS1dJbzVSWnFlZ9IBowFBVV95cUxOMllXd2JQZy1rNFh5TkYwb2ZRb1dGRGhWTzI2MUp2NU5oV1NkOVcxVEV4RktETWNkOXM0cWFzVEpaMmJvSDhwd1BjRk1oWWV3V2FRb3g1Q2tEQTBRajAtWENKNXFDV3ZLR3MtT3gwNUQ4eVJWcVQyZGxybUNhaDh3VmVGejMwZ1NtNUtwNEdTYkJReXhvZjRZMWFndEQ3dlZSM3lR?oc=5",
-   "source": "GMK Center",
-   "published": "2026-10-24T07:30+00:00",
-   "added": "2026-10-27T09:05+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "IEEFA calls for support to decarbonise India’s secondary steel sector GMK Center",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7a70cf319364",
-   "title": "Trump says higher oil prices are ‘small price to pay’ to stop Iran’s nuclear ambitions",
-   "original_title": "Trump says higher oil prices are ‘small price to pay’ to stop Iran’s nuclear ambitions",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWRDeE9GXzVjUUxrbXRFZ29JZlJ1cEpqdTVUc3h1cldNSGw0Y1pmWE1jdjcyRXZhaUJlYXpJdmtjckhpSkdOUVExQlhleUtLR05BX21XRFU4QVV1S1h2UFJhTUpwY2JEMHZXUE52NVFpdkVlZDdpWDMzc2FVV2FSYlpQa3F1OUdmdnE3ZEN2RE5PQ253MFRJWFdWUk1sZ2xRWVJISWZydnVENTkzMzdyOXpqNVUyNU95X3hTag?oc=5",
-   "source": "Business Upturn",
-   "published": "2026-10-24T07:23+00:00",
-   "added": "2026-10-24T07:31+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "oil price",
-    "prices"
-   ],
-   "summary": "Trump says higher oil prices are ‘small price to pay’ to stop Iran’s nuclear ambitions Business Upturn",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
