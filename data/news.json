@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T15:23+00:00",
+ "generated_at": "2026-10-28T16:20+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,37 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "90f9cb64ce00",
+   "title": "Black sea shipping under fire: Russia claims drone hit on vessel bound for Chornomorsk",
+   "original_title": "Black sea shipping under fire: Russia claims drone hit on vessel bound for Chornomorsk",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTldwekhLOEZRTTd0RHBnMVZiazA4cGlxTXU2bV96OHRnRENFa05QSXY4dVJLdTRHaG1OSUZEcFVKQzlIQlM0QnJDRGc4dTAzODgxM0gxQ00ya0p4WHhOWWs3Q19TWXdrd3ZTLV9VTnRhQUhCSDJ2QWRxNWdiOHprQnkxdlNyZUZxRzd2RElYWlhvUmxLcGJyeDBubVdPLTRSZ3JjdHprMktrLUJDbVRmWDlycHpMYXBsWDN5RG5BQUM5NHNVWTVVVEtPemRrX0lIejlCUmJB?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-10-28T15:27+00:00",
+   "added": "2026-10-28T16:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Russia & Belarus"
+   ],
+   "tags": [
+    "black sea",
+    "drone",
+    "russia",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Black sea shipping under fire: Russia claims drone hit on vessel bound for Chornomorsk Business Upturn",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "cd362e86e1b1",
    "title": "Valencia port tenders substation to bring shore power to ships",
@@ -1226,6 +1257,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "6759220f2854",
+   "title": "China: Iron ore prices remain steady d-o-d amid cautious buying",
+   "original_title": "China: Iron ore prices remain steady d-o-d amid cautious buying",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQk9NejVpNjFlS0JGWmdtbUV2OVIzN25UZFNCXy1nTDdIUEpoRXhlYmJQdGxXVmVOMUEtWG5uYWZldk43QzM2My1CUlR0bXhGSlVvYmU1RnlXX1haRWc3ODBqZzA5cS1LSUdGSW84Z1JRM1pjaXJXY1VMZUV2Z1FCbks1U1BmMkRaeDhtSWxrYUJkbkRveFJWbS1zOHItd1lYQXdDdDJzbjlHbElj?oc=5",
+   "source": "BigMint",
+   "published": "2026-10-28T09:38+00:00",
+   "added": "2026-10-28T16:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "iron ore",
+    "prices"
+   ],
+   "summary": "China: Iron ore prices remain steady d-o-d amid cautious buying BigMint",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "cfa355c6a269",
    "title": "Middle Corridor trains keep increasing amid persisting challenges",
    "original_title": "Middle Corridor trains keep increasing amid persisting challenges",
@@ -1626,6 +1685,32 @@
    "summary": "Lila Global appears to be lining up its finest asset deal to date. In mid-August, a suezmax firmly in the shadow fleet age bracket made headlines after changing hands for just under $50m, with the price tag showing that tanker values in this segment showed no signs of cooling down. The vessel, Sonangol Namibe (158,425 dwt, built 2007 at Daewoo), joined a long list of suezmaxes changing hands this year. The tanker has now emerged in the fleet of Lila Global and has been renamed GOL. The latest valuation from VesselsValue puts the tanker at $92.22m, according to its sales register. If sold at this level, the deal would represent a gain of more than $42m, making it one of Lila Global’s most lucrative asset plays to date. Earlier this month, Splash reported another deal by Lila Global, involving the flipping of a 20-year-old VLCC for $117m, an extraordinary $56.5m increase from its previous purchase price of $60.5m in April.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "a9374ca15f0d",
+   "title": "Egypt’s NSF to supply 4,500 mt of structural steel for Saarstahl plant in Germany",
+   "original_title": "Egypt’s NSF to supply 4,500 mt of structural steel for Saarstahl plant in Germany",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSFVzN3BUdXl6OVN0OGNLU0RmYTFCQUxzcUowcjQtcWhkNldBYVJNb082UUN6MzBnTEVfSUMySEdNTGNZYlRNekVmb2NnWms3YkNHWGhwR2dEeWdqcWtEckdNdG9GajdwV3M0dVR6VzBLRElmUlFYd0JwNVU1b0U4aFNYUHh3aTAxV2xRcVRqRUFwVW0ycFBKMElSakp0S1dKQnVMeGgzTmFucVZQeDBKWXRucjBGakdhT0pobmxPWEhYcTJBWkZkOHhaSdIB3AFBVV95cUxQMGdrVnh2eWlMYTJnRVRvV0RzS2cwRXRRdkZEdnlhSGhXU0ZNMnd0SnB0cG8wRmFsNVVNak1HT2hnUUREZ0pQbG5Ib2pCaFMwRzRZU3ZVekVBWFY2T3dMNGZlNHJtNHlLUGJ2NXVyQnhZWEF3ejVvQktvU2Y1QWx0RnlWaUNWUk5tREQ0ZzhiRTY0Tk9XTE5jOUl3YlQxWmE5Rks4MTRqTnMxemo4VFctaUYtWThkMkY5UXVvZ0RnRTJHcU1VOEFhYUxlZEgzbnl2SEtlS2l2bFFmUThk?oc=5",
+   "source": "Металлургпром",
+   "published": "2026-10-28T07:42+00:00",
+   "added": "2026-10-28T16:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe",
+    "Middle East"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "Egypt’s NSF to supply 4,500 mt of structural steel for Saarstahl plant in Germany Металлургпром",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "2a7af6a35539",
@@ -4693,6 +4778,31 @@
    "summary_method": "extract"
   },
   {
+   "id": "8650fa56e173",
+   "title": "Iron ore \"nasty\"",
+   "original_title": "Iron ore \"nasty\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qRmp3eWcyUEJ3R25iR0loNFZrWnJ3cnBnSVg0OWtwNkpCbVRMNGk3bnE2eWwwblhkdFpRU29tcG5oR1MzNWhQdUFTbDRadGhrdTkxbXFfMzc0ZF9zR3J0alFvY0RQRFE?oc=5",
+   "source": "MacroBusiness",
+   "published": "2026-10-27T12:30+00:00",
+   "added": "2026-10-28T16:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "Iron ore \"nasty\" MacroBusiness",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "baf3ae4ed35f",
    "title": "Ukrainian grain exports via Constanta, Romania, have tripled",
    "original_title": "Ukrainian grain exports via Constanta, Romania, have tripled",
@@ -6381,6 +6491,32 @@
    ],
    "summary": "GULF OF GUINEA | THE AFRICAN ATLANTIC BETWEEN ENERGY, PORTS AND POWER Istituto Analisi Relazioni Internazionali",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "a0f12afc4d00",
+   "title": "[SMM Steel] Indian HRC Prices Hold Flat as Buyer Resistance Threatens Rally Since July​",
+   "original_title": "[SMM Steel] Indian HRC Prices Hold Flat as Buyer Resistance Threatens Rally Since July​",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNFl4Wnl3emlHMXpUOUhaYnBqTEQwZmg4SDZNUVphZEtxaURBZTlrajdwNl84dnNCMDNMbTVyYmNRcVhiRTFYTnY3RGJMaDFldE1jYzIzWjU0cUpCMjdLNEFYZHJKUlJDVVRJc191TENlRDFOTUFZZHdfLVBtUHBTRmFxNW5UUWxzNXV0VkthUFh5V2VLMVUydHI1OTNpMVBJQjdvWnVrMHJWbTcycVlLMUtBU0w2Ul91YnhET3BXTDVVLUI1azdLc3NPcTlGWWxYanVIZw?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-27T08:01+00:00",
+   "added": "2026-10-28T16:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "prices",
+    "steel"
+   ],
+   "summary": "[SMM Steel] Indian HRC Prices Hold Flat as Buyer Resistance Threatens Rally Since July​ Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -16445,137 +16581,6 @@
    "summary": "Eighty two per cent of maritime professionals surveyed say current training does not adequately prepare crews for the realities of modern, digitally-enabled vessel operations. Just 18% believe training keeps pace, according to new research from OneOcean and Thetius. Seafarer training is falling behind rapidly evolving operational realities at sea, according to two new reports commissioned by OneOcean and conducted by maritime innovation consultancy Thetius. Findings reveal two interconnected challenges – that seafarers work in increasingly complex digital environments, and that maritime professionals do not feel well prepared to keep pace with this change. Alex Mangan, Chief Marketing and Communications Officer, OneOcean, said: “Change in shipping will only accelerate as vessels adopt new digital systems to manage tightening international regulation and to sail more efficiently and productively. “This has created a growing gap between the training seafarers receive and the challenges they face at sea. Closing this reality gap requires the industry to shift its approaches to competence, to reflect real-world operations.” Nick Chubb, Founder of Thetius, said: “The findings reveal a clear reality gap between the demands of modern shipping and the way competence is developed. As vessels become more digitally complex, the industry must move beyond compliance-based training and equip seafarers with the skills they need to operate safely and effectively.” OneOcean’s own product suite reflects this thinking.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "e7c7e4cd3843",
-   "title": "Rotterdam’s conventional bunker sales rebound 10% from previous quarter",
-   "original_title": "Rotterdam’s conventional bunker sales rebound 10% from previous quarter",
-   "url": "https://www.hellenicshippingnews.com/rotterdams-conventional-bunker-sales-rebound-10-from-previous-quarter/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-23T21:00+00:00",
-   "added": "2026-10-23T21:33+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "bunker",
-    "lng"
-   ],
-   "summary": "• HSFO sales up by 50,000 mt to 755,000 mt • VLSFO sales up by 73,000 mt to 427,000 mt • MGO sales up by 18,000 mt to 349,000 mt • ULSFO sales up by 42,000 mt to 165,000 mt • LNG sales down by 26,000 mt to 97,000 mt • No grey methanol sales Bunker suppliers in Rotterdam sold 1.8 million mt of conventional marine fuels in the third quarter of this year, up 10% from the second quarter, according to data from Port of Rotterdam. Volumes in the second quarter of this year had fallen to their lowest level since the port’s records began in 2010. Conventional fuels sales’ share as a percentage of the port’s total bunker sales rose to 92% in the third quarter, from 87% in the second quarter. VLSFO sales jumped 21% from the previous quarter to 427,000 mt, the grade’s steepest quarterly gain since 2021. ULSFO sales surged 34% from the previous quarter to 165,000 mt, also its steepest quarterly gain since 2021. MGO sales rose 5% from the previous quarter to 349,000 mt, accounting for 19% of conventional fuel sales.",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a9d835b0e4ae",
-   "title": "VHBS New ConTex Container Ship Time Charter Assessment Index Week 43",
-   "original_title": "VHBS New ConTex Container Ship Time Charter Assessment Index Week 43",
-   "url": "https://www.hellenicshippingnews.com/vhbs-new-contex-container-ship-time-charter-assessment-index-week-43-3/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-23T21:00+00:00",
-   "added": "2026-10-23T21:33+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "charter",
-    "hamburg"
-   ],
-   "summary": "The New ConTex showed the largest week on week increase in almost 18 months. The jump was driven by a particularly strong 12 months fixture Source: Verband Hamburger und Bremer Schiffsmakler e.V",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "3e7012d53f2f",
-   "title": "Best Oasis Weekly Recycling Market Report, 23 October 2026",
-   "original_title": "Best Oasis Weekly Recycling Market Report, 23 October 2026",
-   "url": "https://www.hellenicshippingnews.com/best-oasis-weekly-recycling-market-report-23-october-2026/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-23T21:00+00:00",
-   "added": "2026-10-23T22:40+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "The Indian ship recycling market continues to remain stable, supported by healthy local steel consumption and steady demand for recycled Source: Best Oasis Limited",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "e17b41062c4b",
-   "title": "40,000 tons of Russian diesel are bound for New York—due four days after Americans vote",
-   "original_title": "40,000 tons of Russian diesel are bound for New York—due four days after Americans vote",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb0NDOE1VV0VoVFlLOWhDQW00QXdvWkNyR0V3WVA0bndpNUFHTmJ5VjR1SHJ0ZXZyMWtHOWo2SDN6YkVzTDJwRlp4UmhXb1p2Z0Fkb2pKMmF0RWFxak9oYklTcXkxcDJOS0R5SmV0ek5OWWhsX3VEX2NQX09LU0VwWC1rTU1ienZENnFkNEo4T0ljYUFnZGpvVGtKMnBDaXBDVnhBelg1NV9yeG5qOTJ4VTI0TjlPMFZTM08zY05ISG5uOFoy?oc=5",
-   "source": "Euromaidan Press",
-   "published": "2026-10-23T20:58+00:00",
-   "added": "2026-10-24T15:33+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Russia & Belarus",
-    "North America"
-   ],
-   "tags": [
-    "diesel",
-    "russia",
-    "russian"
-   ],
-   "summary": "40,000 tons of Russian diesel are bound for New York—due four days after Americans vote Euromaidan Press",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ca07fcee7dd7",
-   "title": "Algeria Tells Urea Producers to Halt Exports to France: Reuters",
-   "original_title": "Algeria Tells Urea Producers to Halt Exports to France: Reuters",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObmxidU1meHBnLTkwUkkwbkhJdDlrdUFLTFkxYmFwTjV2ZDJHMXpzMTZPTVNnbk1GRWVKN2Rhd2dkVklGZWQ5QU1HYXZKMEtoNEVFR0ZmVmpFWlBLX0lPclZYajFOcm4yWUlwQks2MHZESzNWVzluSmlUeWRCaWxreVI2cVA?oc=5",
-   "source": "Discovery Alert",
-   "published": "2026-10-23T20:23+00:00",
-   "added": "2026-10-24T04:00+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "urea"
-   ],
-   "summary": "Algeria Tells Urea Producers to Halt Exports to France: Reuters Discovery Alert",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
