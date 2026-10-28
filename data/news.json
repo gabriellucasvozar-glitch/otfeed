@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T10:13+00:00",
+ "generated_at": "2026-10-28T11:01+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,66 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "a53e21b574d3",
+   "title": "Congress members threaten probes over Russian diesel shipments headed for US ports",
+   "original_title": "Congress members threaten probes over Russian diesel shipments headed for US ports",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWklwZWtxSnpaaFg5b1RVQXdvRWNQMF9sSFNiN1V6OHJOeExiQkluampNOUJGb19qNU5PZ1JCTXlRVjBZRDhJQVBYcE5NS3B4dy1USEJDWEg0aWxzbXJsR2UxYU03WXZOMVAwbTNnOXhkME0zdTk4allXRnRrU2dUNGZwTU9iYTk2SERsblBR?oc=5",
+   "source": "India Weekly",
+   "published": "2026-10-28T10:50+00:00",
+   "added": "2026-10-28T11:01+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "ports",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Russia & Belarus",
+    "Asia",
+    "North America"
+   ],
+   "tags": [
+    "diesel",
+    "port",
+    "ports",
+    "russia",
+    "russian"
+   ],
+   "summary": "Congress members threaten probes over Russian diesel shipments headed for US ports India Weekly",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f384d55a6a07",
+   "title": "Norway lines up full-scale test of marine nuclear propulsion system",
+   "original_title": "Norway lines up full-scale test of marine nuclear propulsion system",
+   "url": "https://splash247.com/norway-lines-up-full-scale-test-of-marine-nuclear-propulsion-system/",
+   "source": "Splash247",
+   "published": "2026-10-28T10:30+00:00",
+   "added": "2026-10-28T11:01+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "shipping",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "consortium",
+    "vessel"
+   ],
+   "summary": "A Norwegian-led consortium involving shipbuilder Vard and offshore vessel owner Island Offshore is preparing to build and test an integrated nuclear propulsion system, targeting its first vessel deployment in 2031 or 2032. The Marine Nuclear Propulsion System (MarNuPS) project, led by Emerald Nuclear Norway, will move from engineering studies to physical integration and testing, with a full-scale test facility planned at Stette near Ålesund in 2027. The project will combine Emerald Nuclear’s 5 MW electric Gem microreactor technology with energy storage, power conversion, vessel power management, automation and bridge control systems. The initial testing phase will use electric heating instead of nuclear fuel to simulate reactor operation, allowing engineers to assess how the propulsion system performs under realistic vessel operating conditions. Tests will examine normal operation, rapid changes in power demand, system stress, emergency responses and interaction with ship crews. The consortium includes Vard Group, Vard Electro, Island Offshore, the Norwegian University of Science and Technology (NTNU), Imperial College London and engineering specialist Maskindynamikk. The initiative builds on the NTNU-led NuProShip research programme, which has been examining the feasibility of integrating advanced nuclear reactors into commercial shipping. The latest pilot has received NOK20m ($2m) from the Research Council of Norway, while its initial development stage is expected to cost approximately NOK150m ($15.6m), including partner contributions.",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "extract"
+  },
   {
    "id": "e3961e2a0ef9",
    "title": "Nowe lotnisko w Sydney już działa. Australia zyskała port bez ciszy nocnej",
@@ -60,6 +120,60 @@
     "port"
    ],
    "summary": "US awards US$498m to 35 port infrastructure projects WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ba4ca88ea92b",
+   "title": "Europe’s container ports: Why is transshipment falling while gateway traffic grows?",
+   "original_title": "Europe’s container ports: Why is transshipment falling while gateway traffic grows?",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXpfWlBLb2RmWTZhdEt4bjJrTnhua1FKWVc3dzFxNUZHcnZHMHNwUGFlTHN4MDRtY3N3NkhBcUI3ckZWOThFLUw5MUVLbFZiM3d0SF92aWQ5QmhHWHI1QklOakdnQldjMkhfN2oyWjMxWV9UdWl0cXFBTDVxdDNHNkRaYVlXQS1tQm8tek0zRExmSjM3dmNCdERoSENwcXJ2QVJ5TmRHWGtya2Ro?oc=5",
+   "source": "Container News",
+   "published": "2026-10-28T10:00+00:00",
+   "added": "2026-10-28T11:01+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "transshipment"
+   ],
+   "summary": "Europe’s container ports: Why is transshipment falling while gateway traffic grows? Container News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3e8459994b69",
+   "title": "Japan’s US$6 billion port plan aims to revive Bangladesh’s bruised economy",
+   "original_title": "Japan’s US$6 billion port plan aims to revive Bangladesh’s bruised economy",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZXV1bEhCNTZfRU5aR1F2eElqLVg5TTV1cFd2YjlQZDVtS083ZGdyS2Y2cWJUMXZvallHY3Mwc3hWaXIxX0hEQkl6MktOdXFqM0VEMkdKbkxVbXlKMVdnMVI2Vk80Yng0VV8xNWJHSE5qSmsxTEczb2x5bk1vWDRVSl9hMno1blVrcHJpOG5aeFhSeExuTHNIYzRsVHRsb0kxRml5NzZrT3dRZ0FDcWFwM21tb1JMbXJpaG1kak01WkVOdFBYTVVrQ2w2WmtodTlEWUpn?oc=5",
+   "source": "South China Morning Post",
+   "published": "2026-10-28T10:00+00:00",
+   "added": "2026-10-28T11:01+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "port"
+   ],
+   "summary": "Japan’s US$6 billion port plan aims to revive Bangladesh’s bruised economy South China Morning Post",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -3963,6 +4077,31 @@
    ],
    "summary": "Port Szczecin-Goleniów przed wielką przebudową. Wybrano ofertę za ponad 183 miliony złotych Urbanity",
    "why": "Affects the Szczecin–Świnoujście port complex, the group's home base.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6580cecd24d0",
+   "title": "Birgit Seeger receives share-based incentive at Konecranes Plc",
+   "original_title": "Birgit Seeger receives share-based incentive at Konecranes Plc",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVGR1T3VWN2czSGtlMUlBaURIMHA5Q0MxLUhrMFFGUHlwUU9WSXJXUlBGdmpIM2JQSmZzZHBOZkN1bzFfNDRBaWw5VDNqUV9SM2NXVEFfRk1pRy1aMDVFM0pPTi1JRXBLaU9lS3U2ZTdPX0NkWktMTWYtc2VmSVZCdGJLOFgxa0JXaGJIRTB6Z09rbm5zemlDWnRJX00ta1dtb3dCbHdrS2ltN1J3c0ZZZXFaNlNjdnNlYmdjQ1ExRms4MzhnU2NF?oc=5",
+   "source": "Data Portuaria",
+   "published": "2026-10-27T10:35+00:00",
+   "added": "2026-10-28T11:01+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "konecranes"
+   ],
+   "summary": "Birgit Seeger receives share-based incentive at Konecranes Plc Data Portuaria",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -16445,145 +16584,6 @@
    ],
    "summary": "European gas prices rise 6.6% weekly as Gulf supply disruptions, winter fears mount Anadolu Ajansı",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e783f26e16c7",
-   "title": "Carbon Expert: Shipping must move beyond EU ETS compliance to carbon cost management",
-   "original_title": "Carbon Expert: Shipping must move beyond EU ETS compliance to carbon cost management",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb1dsd3RWQm5UUEQxYVAyNlN6SWFuaFljY0Z3WUFVMWp1YzVNd09CaG5mcXE3VkItZkZVX1cxQVVUT2RpQUNESnIyWmx3LVpITlU0ZkdRaV9qNnhDYm0xNno4MlNVWFZTV0tVb3oxanI4eUdkb0VhdURFMkJWQnIwdTl0YjZBV1FzQ0hUVnppTTFseGI5QkM1NTJ3RGs4Ni1Eek5NOGREYzVCOVJuOTlV?oc=5",
-   "source": "safety4sea",
-   "published": "2026-10-23T12:36+00:00",
-   "added": "2026-10-23T12:53+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 7,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "ets",
-    "eu ",
-    "shipping"
-   ],
-   "summary": "Carbon Expert: Shipping must move beyond EU ETS compliance to carbon cost management safety4sea",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "70589450c825",
-   "title": "Kazakh Foreign Minister Highlights Middle Corridor Potential at Central Asia-Georgia Meeting in Batumi",
-   "original_title": "Kazakh Foreign Minister Highlights Middle Corridor Potential at Central Asia-Georgia Meeting in Batumi",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMk9fZHhxaENubUk2Q0ZpM1RuYlBDX2NDSjlUOG95eEJEQTh6eGluc0NISnY0Rjl0T1NMRi1WWDNxejFLTjBJREQzcFlMVjZSOElKOElMUGt3M2xnX21uOWZjVjF5eFM4ckZKa0JLWlNXNWtuODJSRTNQRmI0ZjRxVWNra2VWMjdEQ0RoMDZ6M0pNTVBDbWNGdG1MT21YVmNTT1FNdWkyWGNNRy02bUpuZDJxSGhOMUdCMlFiQ3Zxc19vWW1IQkRtckoyRHVJZ0M4?oc=5",
-   "source": "The Astana Times",
-   "published": "2026-10-23T12:31+00:00",
-   "added": "2026-10-23T16:58+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "Kazakh Foreign Minister Highlights Middle Corridor Potential at Central Asia-Georgia Meeting in Batumi The Astana Times",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "fbc34e198241",
-   "title": "Jupiter Wagons & PESA Partner for Indian Passenger Trains",
-   "original_title": "Jupiter Wagons & PESA Partner for Indian Passenger Trains",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNDNDS0ZCWWNqYXpSZWs5dXZYOUQtUEsxYkIxazhkOURVa0twRG52VDF6VGJhYW8tck1hcGJVempzRk1wa3BTTnV1dnNwN2ZNX090c0xDOUZfVWpCWVlIODQzTHpkODJzVW11eGNnQXNkY0FSUVFnRjJTakRVeXl0Z0FBNXhoM3Q0Qk1YYXNCR1VwYk5SQUlrZmxWRHpzcWtvU2xDYTliSVdfc3fSAbABQVVfeXFMT29JWS1sZXE0Z0NISUNaT0dCU2F0emNaeC1RNXVKMVJlNzlOVVZabXVaXzVReDdWemVPaWk3VDNRM1VnSlA2aHlET0loYzZkWDFwUnBLNGlhZDNBenhhUW5xZDBPZlRCTW1aN0NHaEZIQzRscVBWZ1paZFJPTXhwakdoZVFrcTd6c0lnRlFBQkdvTGIzTkxYLWo2cDd1M1NFb2FPTHJwN1pEbERGUURUeVY?oc=5",
-   "source": "Rediff",
-   "published": "2026-10-23T12:29+00:00",
-   "added": "2026-10-28T06:24+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "rail"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "pesa",
-    "wagon"
-   ],
-   "summary": "Jupiter Wagons & PESA Partner for Indian Passenger Trains Rediff",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "92e4ae8b01ba",
-   "title": "272 Metre Containership Hits Ship-To-Shore Crane At Italy’s Port Of Livorno And Gets Detained",
-   "original_title": "272 Metre Containership Hits Ship-To-Shore Crane At Italy’s Port Of Livorno And Gets Detained",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZE9SZjJCR1lOV2VUcWJ5bXpGZHQtOVNkZHhkZFlGdk1lZUJCX0NibU1zV2ZOZmRDaFpyMHZ0YllpSE1fbUU2LW5JXzJSUXNrZ05FeVNwTjc4UW5sUjhndGhmd0ZYZzNYTVFQRWFQNVBMcFpSN0RTUVRuQTA1ajdVZnI4MVRaUk9GdjV4WFJUNnhoQ2o2X05tSDRvc0dDTVBQVGROMUZVdUs1OXlmeFdOaFlYTEtYS1EzVXFXUjJjbUw?oc=5",
-   "source": "Marine Insight",
-   "published": "2026-10-23T12:28+00:00",
-   "added": "2026-10-27T17:33+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "crane",
-    "port",
-    "ship-to-shore"
-   ],
-   "summary": "272 Metre Containership Hits Ship-To-Shore Crane At Italy’s Port Of Livorno And Gets Detained Marine Insight",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "af3cf3a1173a",
-   "title": "Tanker Carrying Russian Diesel Signals U.S. Port After Trump-Putin Deal",
-   "original_title": "Tanker Carrying Russian Diesel Signals U.S. Port After Trump-Putin Deal",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdkRQT3NXRk1GdlBLTnc0VnZMQXYtQkptNU4tbnUxWDBhN3BmazdyMUJ0V0VRWm5aNmJaM1VrWWp5WjIxTjlIZGJ4bnpZdl94U2xhV0lqUXQ5THoya3pleXZILW90SVRpblRiR1VvcnlKVHRjZ2ZtTklMaVhwci1ZMmlzdHlYZFc4a2FxaXUtamZqdUlhX1lyalVndTlFWFUyODR4QUFIUy1qWkJUSFRSVjRjTEZHNFhBbTlWeGhhTXY0Wk9lX1E?oc=5",
-   "source": "WSJ",
-   "published": "2026-10-23T12:20+00:00",
-   "added": "2026-10-24T20:03+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "diesel",
-    "port",
-    "russia",
-    "russian"
-   ],
-   "summary": "Tanker Carrying Russian Diesel Signals U.S. Port After Trump-Putin Deal WSJ",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
