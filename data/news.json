@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T05:05+00:00",
+ "generated_at": "2026-10-28T05:48+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "0d71f72c6fea",
+   "title": "ENGINE: East of Suez Bunker Fuel Availability Outlook (27 Oct 2026)",
+   "original_title": "ENGINE: East of Suez Bunker Fuel Availability Outlook (27 Oct 2026)",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYzdPNEJZeWtxWnRZa05mZE83UkRJQ2hxOGhObmpKdlBGb3E3Q1gzZWtLdjlMd29aM0NYcTdUaTROWFh3c1I5VUh1TjdJVS1LSnlNWDNTakdTZmliTnNyaFF1WmJNOXgyRm9uNHlIbWd4TmVwQXZwdnpXRzVwSTcwMnpMa2ZlamJSRVVzU3VTbUhGX2F5dUNCU3ZsYjdpN2kxVHc?oc=5",
+   "source": "Manifold Times",
+   "published": "2026-10-28T05:08+00:00",
+   "added": "2026-10-28T05:48+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "bunker",
+    "suez"
+   ],
+   "summary": "ENGINE: East of Suez Bunker Fuel Availability Outlook (27 Oct 2026) Manifold Times",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "79b71373fce2",
    "title": "Steel prices: Rebar extends rally while domestic flat-long spread turns negative",
@@ -37,6 +64,31 @@
    ],
    "summary": "Steel prices: Rebar extends rally while domestic flat-long spread turns negative Moneycontrol.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "95524a7ada3b",
+   "title": "Pan Star Seeks Busan Terminal, Shipper Incentives for Arctic Route",
+   "original_title": "Pan Star Seeks Busan Terminal, Shipper Incentives for Arctic Route",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSGtHdXBUMDFVbWhrU3ZCdFIzVzBrMm5RdV9DaXE1VndRcndsMTJfQUJJQkhUZm1UX2hneXRRbW1WOTh1Q0NyUXhJcGtyT0toTWVOUlQtRDNqenpYT2RDZC1HdmhGY3ItTVFBS3hlQjV3YVNGOGI3Nng0MlZUelpRQno4SVRrRVliRXF3T21kNnBuN2hwa09aUFRjWDNUNHZGUTFN?oc=5",
+   "source": "Seoul Economic Daily",
+   "published": "2026-10-28T04:32+00:00",
+   "added": "2026-10-28T05:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Pan Star Seeks Busan Terminal, Shipper Incentives for Arctic Route Seoul Economic Daily",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -2332,6 +2384,33 @@
    ],
    "summary": "Iran threatens 'legal action' against South Korean shipping company in Strait of Hormuz The Jerusalem Post",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "292f80bffb5b",
+   "title": "Port of Gdansk Sets Record Nine-Month Cargo Volumes in 2026 - News and Statistics",
+   "original_title": "Port of Gdansk Sets Record Nine-Month Cargo Volumes in 2026 - News and Statistics",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1lnaHFCNkRNMFZ6ZG92SGFIZ2FmVkhyd2NWLWdVMzZNNUpwQy0wYzNaaVZ4Z1gzNUNrOVJaOFNOQkVpWlQ3cGtkS2hramViNlpNZUoySnpGbHJwMFgxaF9KaWI1a2ZiSmlIaW5KVk1PdXZUMjdlc1FtdXFqVW9nZ1preFpzalVXQzVycUc5dVo5cU1RRThOTw?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-27T12:40+00:00",
+   "added": "2026-10-28T05:48+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gdansk",
+    "port"
+   ],
+   "summary": "Port of Gdansk Sets Record Nine-Month Cargo Volumes in 2026 - News and Statistics IndexBox",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -7222,6 +7301,32 @@
    ],
    "summary": "DW News. . The trip ended before it had even really begun: Following an accident as it was leaving port in northern Germany, the cruise ship \"Mein Schiff 3\" had to return to the shipyard. Two container ships were also damaged. #dwgermanpolitics Facebook",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "990038d53896",
+   "title": "Making food supply chain data useful from farm to factory",
+   "original_title": "Making food supply chain data useful from farm to factory",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGlKbkJjaGVOQUctcW5PUUR3OXQ1MmQ1RXpxMWphZGZvT284dF82T1cydVhMNmNRNWJZZUdSSURENGR2d05TOTZwQXZxYVhXSWVyQUIxaV83QXRGbmdleVUxbDNTYlkzVEthSXNOYTZERU8yeFNDYWMxYVhqYlVHSk9DSW15NV9nOUg5NXltZDZfYWQx?oc=5",
+   "source": "Innovation News Network",
+   "published": "2026-10-26T13:06+00:00",
+   "added": "2026-10-28T05:48+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "supply chain"
+   ],
+   "summary": "Making food supply chain data useful from farm to factory Innovation News Network",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16485,112 +16590,6 @@
    ],
    "summary": "OPEC Fund allocates $250 million for railway project to strengthen Middle Corridor in Türkiye Apa.az",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f9e2c13d39c9",
-   "title": "News Digest: Foreign Media on Kazakhstan’s Critical Minerals, Middle Corridor and US Ties",
-   "original_title": "News Digest: Foreign Media on Kazakhstan’s Critical Minerals, Middle Corridor and US Ties",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObHRmVXdHY3ZnaWVjcDlOM0JQbVBFLXp1aHZDZG8tN2F4QTMwQkV1Y3pkUFE0YUxaNWlqa2RRVzFmWFRkUVZMVUNDaWxYRmJBeVJRV2VMcWx6NnBpOWhtTEYxMDdybnFHUGliZmY3TW5HUlpkV0habV83VDNPem9iNS0tVFFXbGxVRmRVY3gyMEN2QndlRFBHbFd3cGFNTnMwejhWSGdCdF94SkxRbV8zdHRmNW1falRya3JB?oc=5",
-   "source": "The Astana Times",
-   "published": "2026-10-23T11:01+00:00",
-   "added": "2026-10-23T16:58+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "News Digest: Foreign Media on Kazakhstan’s Critical Minerals, Middle Corridor and US Ties The Astana Times",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "384a20419f08",
-   "title": "Kazakhstan and China Launch Cross-Border Autonomous Freight Pilot",
-   "original_title": "Kazakhstan and China Launch Cross-Border Autonomous Freight Pilot",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOEc0b0IyelpWcVFiVXlrQkpjUXEzeWw0enBDQ1hMRTF1OUpiMkF2SW1IQldFZWU0RDBkbXFmV3dPYkZfZXdxMlZGSzB3bm96UE9DM2tmN2ZMNnN4VU5tRzR3MzFLZWRsQWxHWXlVdmxIajZGQnJqODAwRUcwdUFPRTZMb0ZUejQ1RzhMOFo0ODNiSVY4eTdoQWE2S3NGUGZK?oc=5",
-   "source": "https://streamlinefeed.co.ke/",
-   "published": "2026-10-23T10:55+00:00",
-   "added": "2026-10-23T16:58+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "autonomous",
-    "china"
-   ],
-   "summary": "Kazakhstan and China Launch Cross-Border Autonomous Freight Pilot https://streamlinefeed.co.ke/",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "be3a78c26690",
-   "title": "Jupiter Wagons teams with Poland's PESA to explore passenger rail opportunities in India",
-   "original_title": "Jupiter Wagons teams with Poland's PESA to explore passenger rail opportunities in India",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3VwRE5KWWdRVGVNTUFQVW1wYVdLTnl0NFNwUTY1X080dVVBQkhvUVdHb1ZZMkFtU3owSDlMQ0VhTkVYZGktT1BBckJ2Vm9GZnJTS0E2WFZiWGRVOFVQMHlxLURfWE9tSzNPYmZfYUtfVzFvbzdZOGFnLVNOc3FoZUIybnl0SVR4V2pENUJ5eTN6RDBTdmZaVTBtbjBneHBDLTBZUVgtZ1F0VzdmWmFONEtlTncwZmQ2NEJSQWFyY0xMdw?oc=5",
-   "source": "Business Upturn",
-   "published": "2026-10-23T10:53+00:00",
-   "added": "2026-10-23T11:36+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "rail"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Poland",
-    "Asia"
-   ],
-   "tags": [
-    "pesa",
-    "poland",
-    "wagon"
-   ],
-   "summary": "Jupiter Wagons teams with Poland's PESA to explore passenger rail opportunities in India Business Upturn",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d2d8633382f6",
-   "title": "Konecranes Q3 2026 slides: sales rise 10% but orders soften By Investing.com",
-   "original_title": "Konecranes Q3 2026 slides: sales rise 10% but orders soften By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1Y2N3ZBVm1pSG0wanZmLTJsbGhGM3BlR2FGcnZjNk5FbnJRRVB2R1VrRkRVdkZWb3E1MnhmWHR1YVdYVjJ1Y2RhbnZHYmRMamRrX3gwei1UaU0tcmEzeFI1eHA1YkpYRUZFWkg1QUxkZFdQLXQ4VTdNMVVEQ2ZQanA5Z0RHdHJiMVA2d2JXczV1bE9pR2tfU0lzOUdsaGFoc2h5Z29ZNXpnLUVTNGZRWEdEdTJhMVNSY1E?oc=5",
-   "source": "Investing.com UK",
-   "published": "2026-10-23T10:52+00:00",
-   "added": "2026-10-23T11:00+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "konecranes"
-   ],
-   "summary": "Konecranes Q3 2026 slides: sales rise 10% but orders soften By Investing.com Investing.com UK",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   }
  ]
