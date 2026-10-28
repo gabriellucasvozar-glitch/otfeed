@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T08:25+00:00",
+ "generated_at": "2026-10-28T09:19+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,33 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "58ca906d1a9b",
+   "title": "Port of Nome’s expansion reflects a pressing need to bolster Arctic security",
+   "original_title": "Port of Nome’s expansion reflects a pressing need to bolster Arctic security",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbW1udk1NdzJlWEM4VFJqZjFEQXIzdUYtcmc4OWN6ckc0RFFNNV9WdmRodFZ4cjVEMjZSMjlXX1VLckZjTi1ycVhvQjZ0eHhzaXZvNmhzNXp3bXpwaU03bDI0MXExdHk1RTg4LVozY05xaHVWVFJaVjVvNTBKRVQzZ1Fid2tFbWpJVFJ3eVRhZ3M4cGlSel9kVVBHZjBuTjh0VnVyNG5Fcw?oc=5",
+   "source": "Arctic Today",
+   "published": "2026-10-28T09:03+00:00",
+   "added": "2026-10-28T09:19+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "security"
+   ],
+   "summary": "Port of Nome’s expansion reflects a pressing need to bolster Arctic security Arctic Today",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "098d613b8344",
    "title": "Shipping’s $275m lesson in the limits of sanctions screening",
@@ -506,6 +533,37 @@
    "summary": "Pan Star Seeks Busan Terminal, Shipper Incentives for Arctic Route Seoul Economic Daily",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
+  },
+  {
+   "id": "787051326eab",
+   "title": "Siem orders SCV newbuild duo from Chinese yard",
+   "original_title": "Siem orders SCV newbuild duo from Chinese yard",
+   "url": "https://splash247.com/siem-orders-scv-newbuild-duo-from-chinese-yard/",
+   "source": "Splash247",
+   "published": "2026-10-28T02:30+00:00",
+   "added": "2026-10-28T09:19+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Baltic & Nordics",
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "chinese",
+    "crane",
+    "vessel"
+   ],
+   "summary": "Norway’s Siem Industries has confirmed an order for two large subsea construction vessels (SCVs) at China’s Fujian Mawei Shipbuilding, with deliveries scheduled for 2029 and 2030. The vessels will measure about 145 m long and 27 m wide, with each featuring a 400-tonne active heave-compensated subsea crane and an additional 50-tonne crane. Norwegian naval architecture firm Sirius Design & Integration developed the design in cooperation with Siem and the yard. The vessels are intended for a range of subsea construction and offshore energy operations, with an emphasis on operational flexibility and energy efficiency. This confirms an order Siem Industries first disclosed in August, when the company said it had contracted two subsea construction newbuilds at an unnamed Chinese shipyard. At the time, it revealed no further details. Sirius separately announced a design contract that month for two 144.7-m construction support vessels at Fujian Mawei. The naval architect said the design would include two launch-and-recovery systems for remotely operated vehicles and provisions for additional equipment, including a carousel and vertical lay system. Siem’s existing subsea fleet includes the Siem Stingray , a 2014-built construction vessel equipped with a 250-tonne subsea crane and two work-class remotely operated vehicles.",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "extract"
   },
   {
    "id": "99ec82c55ad3",
@@ -10778,6 +10836,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "3063e3a20483",
+   "title": "KPA to co-invest in Sh79bn port asset concession deals",
+   "original_title": "KPA to co-invest in Sh79bn port asset concession deals",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTQ1WGlPV2dla1htVUZyVklzSEVKTUpINGpwTF9QcVQtN1M1azFmRllrbnBLdTlsRDZhcm9XSG9fcWJtZktIMkFWa1AxWXdTTEd2aGdLa2xPVVRCd3J2aUt5VllTVFhkUGlGRmU0WjY5bHM5VFduc3pPUjdRcjBYYmo5bnBkRHVkTzZHbDJXQ2xhS1d3b2p2ZWFRR25jR000?oc=5",
+   "source": "Daily Nation",
+   "published": "2026-10-26T03:00+00:00",
+   "added": "2026-10-28T09:19+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "ports",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "concession",
+    "port"
+   ],
+   "summary": "KPA to co-invest in Sh79bn port asset concession deals Daily Nation",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "ea207ddaed81",
    "title": "Mahindra Logistics Q2 FY27 Results Show Profit Recovery as Express Business Improves",
    "original_title": "Mahindra Logistics Q2 FY27 Results Show Profit Recovery as Express Business Improves",
@@ -16498,88 +16583,6 @@
    ],
    "summary": "Port of Riga to test resilient maritime communications under new partnership Container News",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1fb16c598ea9",
-   "title": "Mieszkańcy Białunia boją się nowej linii kolejowej, PKP PLK chce zaprosić na konsultacje... za rok",
-   "original_title": "Mieszkańcy Białunia boją się nowej linii kolejowej, PKP PLK chce zaprosić na konsultacje... za rok",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmNjRy1TNndtSlFRaUFPWWNqYUlhbV82RnBCSlUzU3Y3cGV4ME5TSXpJbl82cmcxcDBrVW1OcVFpRGZ2OVNkX0g4czB6d25hVzhzMVhobVRVMGxJQi1vRHNNeGtsQkFNb3g2VE9lNGY4MVRlTHZKeS1aU0YwbW1JV2dOMU5GSWhXdUN6cjFFU3R6bUhYSzNsYXF0QXpJWGMzSS13NTg4YlIxeFFMZ05XRm5EWVRFRnJMWE1qaDZrcWljb2RU?oc=5",
-   "source": "wGoleniowie.pl",
-   "published": "2026-10-23T11:56+00:00",
-   "added": "2026-10-23T12:08+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "pkp plk"
-   ],
-   "summary": "Mieszkańcy Białunia boją się nowej linii kolejowej, PKP PLK chce zaprosić na konsultacje... za rok wGoleniowie.pl",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ade31721cf03",
-   "title": "Singapore must look beyond the box to secure its logistics future",
-   "original_title": "Singapore must look beyond the box to secure its logistics future",
-   "url": "https://theloadstar.com/singapore-must-look-beyond-the-box-to-secure-its-logistics-future/",
-   "source": "The Loadstar",
-   "published": "2026-10-23T11:49+00:00",
-   "added": "2026-10-23T12:08+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "port"
-   ],
-   "summary": "Dropping behind Shanghai and Ningbo-Zhoushan in the global container port rankings, and seeing Malaysia’s Port Klang and Port of Tanjung Pelepas nip at its heels should serve as a wake-up call for Singapore, in a changing competitive landscape for box trades For Singapore, this is about more than losing a place in a league table. It is an existential question asking whether a nation built on maritime trade can adapt to a world where supply chain control matters as much as moving containers. As Singapore spent years living off its geographical advantages, deepwater harbour and reputation for efficiency to guarantee continued dominance, its competitors have expanded their infrastructure, attracted manufacturing investment, and developed integrated logistics ecosystems. Part of the problem for Singapore with its nearest rival is that it simply cannot compete with Malaysia when it comes to land availability, meaning it should not focus on warehouses and distribution centres. And the pending Tuas Port, with its planned capacity of 65m teu on full completion in the 2040s, will have a part to play, even if success cannot be judged by volume alone. Yes, the Ministry of Transport’s new Connectivity & Logistics division recognises the need to integrate maritime, aviation, and land transport, but creating a coordinating body will not automatically deliver the commercial agility needed to compete.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "5a62257d92ad",
-   "title": "Ukraine Proposes Turkey-India-Egypt Grain Corridor as Black Sea Exports Collapse",
-   "original_title": "Ukraine Proposes Turkey-India-Egypt Grain Corridor as Black Sea Exports Collapse",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcld5NGJZODBKX2d6enJJOVNTM3g1ckFuZzJhNFdUa2c5UjhSc0UwQ0NPN2tReTVHN2N3OHhkZ2pMRXVneExRSWxsOFBoUnN5ZlQ0czF2YXJ0cTRUUW1TcEFWZk9UV0FpTHVidTlPODRSZjBHNEU0WUxzMG9hSzE5dXZjRE9OOUpTTDY3b0hHQ0JhcVAxX1NaamxIdk1VVlZaNlJzYnlDRWpPbllNVFRpb3VSUzhmbTVPMUVsaWJwZ2tJTzZ2Y2pPNnFlcXZBSzhm?oc=5",
-   "source": "Global Agriculture",
-   "published": "2026-10-23T11:45+00:00",
-   "added": "2026-10-23T19:20+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "black sea",
-    "grain",
-    "ukraine"
-   ],
-   "summary": "Ukraine Proposes Turkey-India-Egypt Grain Corridor as Black Sea Exports Collapse Global Agriculture",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
  ]
