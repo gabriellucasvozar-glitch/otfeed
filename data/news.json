@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T10:16+00:00",
+ "generated_at": "2026-10-29T11:06+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,351 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "cb817030b942",
+   "title": "Baltic Dry Index Breaks 3-Day Decline",
+   "original_title": "Baltic Dry Index Breaks 3-Day Decline",
+   "url": "https://www.hellenicshippingnews.com/baltic-dry-index-breaks-3-day-decline/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-29T11:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping"
+   ],
+   "priority": "high",
+   "score": 17,
+   "regions": [
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "baltic",
+    "baltic dry",
+    "capesize",
+    "coal",
+    "commodit",
+    "dry bulk",
+    "iron ore"
+   ],
+   "summary": "The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, halted its three-day losing streak on Wednesday, rising about 1.9% to 2,652 points. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, surged roughly 5% to a two-week high of 3,886 points, reversing three consecutive sessions of declines. Meanwhile, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell further by 2.8% to its lowest level since late April at 1,965 points; and the supramax index went down by 0.3% to a one-week low of 1,878 points. Source: Trading Economics",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "7e740e7e7bc4",
+   "title": "Water levels on Rhine rise, but relief forecast to be short-lived",
+   "original_title": "Water levels on Rhine rise, but relief forecast to be short-lived",
+   "url": "https://www.hellenicshippingnews.com/water-levels-on-rhine-rise-but-relief-forecast-to-be-short-lived/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-29T11:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "rail",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "inland waterway",
+    "supply chain",
+    "supply chains"
+   ],
+   "summary": "Water levels on the Rhine, a critical European inland waterway for freight, rose above 50 centimeters Oct. 26 and are forecast to hover around 70 cm in the next few days, but the rebound in flows is expected to provide only short-term relief to fuel supply chains across the region, according to market participants. Water levels at Kaub, the shallowest part of the Middle Rhine, stood at 56 cm as of late afternoon Oct. 26 and are forecast to exceed 70 cm by the end of the day, then expected to hold around that level for the following three days, according to data from the German water authority WSV. The Rhine water levels exceeded 50 cm on Oct. The recent rise in Rhine water levels has generated renewed market activity, but the improvement is expected to be short-lived, according to a European-based market participant who asked for anonymity because the participant was not authorized to speak publicly. The source said extremely low water levels in recent weeks had forced refiners to rely more heavily on trucks, rail, pipelines, and some coaster movements to transport products, although overall product movements remained slow.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "988517681530",
+   "title": "Spain’s bunker volumes jumped 18% on the year in September",
+   "original_title": "Spain’s bunker volumes jumped 18% on the year in September",
+   "url": "https://www.hellenicshippingnews.com/spains-bunker-volumes-jumped-18-on-the-year-in-september/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-29T11:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "bunker",
+    "port",
+    "ports"
+   ],
+   "summary": "Suppliers sold 938,000 mt of bunker fuel at Spain’s ports last month, up 18% from a year earlier, as Algeciras alone added 104,000 mt, government data showed. September’s total was the second-highest monthly figure since at least 2020, behind only April 2024’s total of 947,000 mt. Spain’s monthly bunker sales have stayed above their 2021-2025 average in every month this year. In September, volumes were 20% above the 2021-2025 average for the month. Puertos del Estado revised its figures for January to August upward this week, by 188,000 mt in all. Algeciras had the largest share of volumes with 40%, followed by Las Palmas (23%) and Barcelona (15%). Algeciras’ volumes rose 38% on the year to 377,000 mt in September, its highest monthly total since at least 2020. Santa Cruz de Tenerife’s volumes rose 51% on the year to 81,000 mt. Meanwhile, Ceuta’s volumes fell 20% on the year to 52,000 mt, while Valencia’s fell 15% to 40,000 mt.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "d0999e6103cb",
+   "title": "European natural gas prices soar: What it means for your winter bills",
+   "original_title": "European natural gas prices soar: What it means for your winter bills",
+   "url": "https://www.hellenicshippingnews.com/european-natural-gas-prices-soar-what-it-means-for-your-winter-bills/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-29T11:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "bill",
+    "diesel",
+    "prices",
+    "war"
+   ],
+   "summary": "After 2022, Europe made itself a promise: never again would its winter depend on a country at war. While public attention has been mostly focused on oil and diesel, a potentially more serious squeeze has been building through natural gas. Analysts now warn that Europe may have to cut its gas consumption to get through to the end of March, as storage levels head into winter at their lowest for the time of year on record. “Wind output and temperatures will determine how tight Europe’s gas supply becomes this winter and how high prices go,” Ana Maria Jaller-Makarewicz, lead energy analyst for Europe at the Institute for Energy Economics and Financial Analysis (IEEFA), told Euronews. IEEFA says it is the lowest for this time of year since records began in 2011. That view assumes a normal winter, and that the Middle East conflict ends this year with Qatar and the United Arab Emirates returning to usual LNG output in early 2027, according to Tom Marzec-Manser, the firm’s director for Europe gas and LNG. “If it’s a cold winter – which is not the consensus because of El Niño – storage levels could be even lower,” Tom Marzec-Manser, director for Europe Gas & LNG at Wood Mackenzie, told Euronews.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "6c778384b228",
+   "title": "Jiahua Energy lines up $165m gas carrier at Jiangnan",
+   "original_title": "Jiahua Energy lines up $165m gas carrier at Jiangnan",
+   "url": "https://splash247.com/jiahua-energy-lines-up-165m-gas-carrier-at-jiangnan/",
+   "source": "Splash247",
+   "published": "2026-10-29T11:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "china",
+    "chinese",
+    "vessel"
+   ],
+   "summary": "Chinese chemicals group Jiahua Energy is stepping up its shipowning ambitions with plans to invest up to $165m in a 102,000 cu m liquefied hydrocarbon carrier at Jiangnan Shipyard. The Shanghai-listed company has secured board approval for the project, with Jiangnan Shipyard and China Shipbuilding Trading named as the counterparties. The vessel is scheduled for completion by June 30, 2030. The investment marks Jiahua’s second gas carrier project in just over two months and its first move into large ocean-going gas carriers. Jiahua intends to use the ship primarily to import ethylene for its PVC production operations, while retaining the flexibility to carry ethane. The company operates two PVC/VCM production units with a combined annual capacity of 600,000 tonnes and is looking to reduce its dependence on chartered tonnage and fluctuations in raw material freight costs. The newbuilding follows its August order for a 35,000 cu m liquefied hydrocarbon carrier at CIMC Sinopacific Offshore & Engineering, involving investment of up to CNY750m ($111m). That earlier vessel, scheduled for completion in 2029, is being developed through Jiahua’s shipping venture with its Meifu Port & Storage subsidiary and other investors. Jiahua’s latest project is to be funded through internal resources and other financing.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "9af200fc71da",
+   "title": "Shenzhen Port crosses 30 million TEU mark three weeks earlier than last year, led by trade with APEC economies",
+   "original_title": "Shenzhen Port crosses 30 million TEU mark three weeks earlier than last year, led by trade with APEC economies",
+   "url": "https://www.hellenicshippingnews.com/shenzhen-port-crosses-30-million-teu-mark-three-weeks-earlier-than-last-year-led-by-trade-with-apec-economies/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-29T11:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "port",
+    "teu"
+   ],
+   "summary": "China’s southern Shenzhen Port has handled 30 million twenty-foot equivalent units (TEU) this year, reaching the milestone three weeks earlier than in 2025, the city’s transport authorities said, with APEC member economies accounting for more than half of the port’s foreign trade volume. Cargo flows between Shenzhen Port and all APEC member economies make up over 50 percent of the city’s total foreign trade, the authorities said. The 16 Asia-Pacific sister ports partnered with Shenzhen Port form a complete supply-demand chain. Shenzhen Port reached the container throughput milestone earlier than last year, thanks to systematic efforts to seize opportunities from global economic and trade recovery and to keep expanding its global shipping routes. The port has opened more than 270 international container liner routes and runs over 30 regular point-to-point cross-border e-commerce sea express services. In the first nine months of the year, Shenzhen Port handled more than 290,000 vehicles and automotive knock-down kits by sea, up 40.7 percent year on year, including more than 160,000 complete vehicles, up 53.2 percent. Steady high-volume operations at Shenzhen Port are underpinned by forward-looking smart port infrastructure. Its Yantian East Terminal is equipped with China’s largest automated twin-lift quay cranes, which can handle 32,000-TEU ultra-large container vessels, 33 percent bigger than the world’s largest ships currently in service.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "9291a45c9d7b",
+   "title": "Crude Oil Inventories Fall Less Than Expected, Impacting Oil Prices",
+   "original_title": "Crude Oil Inventories Fall Less Than Expected, Impacting Oil Prices",
+   "url": "https://www.hellenicshippingnews.com/crude-oil-inventories-fall-less-than-expected-impacting-oil-prices/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-29T11:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crude",
+    "oil price",
+    "prices"
+   ],
+   "summary": "In a closely watched report, the Energy Information Administration (EIA) released its latest data on U.S. crude oil inventories, revealing a decline that was less substantial than anticipated. The actual decrease in crude oil inventories was reported at -1.892 million barrels. The EIA’s crude oil inventory report is a crucial indicator for the energy sector, as it provides insights into the balance of supply and demand within the market. A lesser-than-expected decline in inventories often implies that demand for crude oil is not as robust as projected, which can exert downward pressure on oil prices. Comparatively, the previous week’s data showed a much larger decline in crude oil inventories, with a reported figure of -3.060 million barrels. The EIA’s report carries substantial weight in the oil markets, as fluctuations in inventory levels can directly influence crude oil prices. Conversely, a greater-than-expected decline in inventories often points to stronger demand, buoying prices. As market participants digest the latest data, the focus will likely shift to broader economic indicators and geopolitical factors that could further influence supply and demand dynamics in the oil market.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "b3c2558c1ffb",
+   "title": "Indian refiners favor delivered crude in procurement shift as shipping costs mount",
+   "original_title": "Indian refiners favor delivered crude in procurement shift as shipping costs mount",
+   "url": "https://www.hellenicshippingnews.com/indian-refiners-favor-delivered-crude-in-procurement-shift-as-shipping-costs-mount/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-29T11:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "shipping",
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "crude",
+    "ministry",
+    "shipping"
+   ],
+   "summary": "Indian state-run refiners are increasingly seeking crude on a delivered, or CIF, basis rather than on FOB terms, as geopolitical tensions drive sharp swings in freight and insurance costs, petroleum ministry officials and refiners said Oct. 26. Under CIF arrangements, sellers cover the cost and risk of transporting crude to the buyer’s destination. “We are buying crude on a delivered basis these days and not on FOB as we used to buy earlier,” a senior Indian refinery official told Platts, part of S&P Global Energy, on Oct. Since freight costs for crude shipments have risen sharply in recent weeks compared with previous months, refiners are increasingly concerned that an apparently attractive purchase could become uneconomical by the time it reaches an Indian refinery, the official added. Refiners are increasingly comparing delivered crude costs from suppliers worldwide and selecting the lowest landed-cost options, rather than committing to cargoes on an FOB basis and arranging shipping separately, petroleum ministry and refinery officials said. Indian companies could play a larger role in Venezuela’s energy sector as the country’s oil production increases, importing more of its heavy crude for processing while exploring new opportunities to invest in upstream projects, US Secretary of State Marco Rubio said Oct.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "4eee21ac78e0",
+   "title": "Bahri: Nine-Months 2026 Results With Net Profit Of SAR 9.98 Billion",
+   "original_title": "Bahri: Nine-Months 2026 Results With Net Profit Of SAR 9.98 Billion",
+   "url": "https://www.hellenicshippingnews.com/bahri-nine-months-2026-results-with-net-profit-of-sar-9-98-billion/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-29T11:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "logistics",
+    "results",
+    "shipping"
+   ],
+   "summary": "The National Shipping Company of Saudi Arabia (Bahri), the Kingdom’s leading shipping and logistics company, announced its financial results for the third quarter and first nine months of 2026, reporting net profit of SAR 5.09 billion for Q3 2026, up 891% year-on-year, while net profit for the first nine months reached SAR 9.98 billion, an increase of 587% compared with the same period last year. Bahri recorded Q3 revenues of SAR 14.83 billion, up 504% year-on-year, while revenues for the first nine months of 2026 reached SAR 26.10 billion, representing growth of 268%. The strong performance was primarily driven by Bahri Oil, which benefited from significantly higher realised VLCC freight rates and increased charter-in activity amid continued regional shipping disruption and strong customer demand. The first vessel was delivered in September, with the remaining two expected in Q4 2026 and Q1 2027, respectively. Following the end of Q3, Bahri signed a SAR 1.692 billion agreement with International Maritime Industries (IMI) for the construction of three new VLCCs for delivery between 2029 and 2030, further supporting the Company’s fleet modernisation programme and contributing to the development of domestic shipbuilding capabilities in line with Saudi Vision 2030.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "56ac146984f1",
+   "title": "Copper Retreats From Two-Week Highs",
+   "original_title": "Copper Retreats From Two-Week Highs",
+   "url": "https://www.hellenicshippingnews.com/copper-retreats-from-two-week-highs/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-29T11:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "artificial intelligence",
+    "copper",
+    "futures"
+   ],
+   "summary": "Copper futures fell to around $6.60 per pound on Thursday, ending a four-session winning streak as traders took profits following recent gains. Sentiment was also dampened by disappointing earnings from Alphabet and Samsung, which revived concerns over the sustainability of artificial intelligence investments and weighed on risk appetite. Despite the pullback, copper remained near a two-week high amid tightening physical supplies in China, the world’s largest consumer of the metal, as reflected in rising import premiums. The Yangshan copper premium, a key indicator of Chinese demand for imported copper, surged to $205 per ton on Wednesday, its highest level in more than a decade. The increase highlights intensifying competition for supplies both within and outside China, as earlier concerns over potential US import tariffs encouraged traders to divert shipments toward American warehouses, tightening availability in other markets.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "6b8a7b080d81",
+   "title": "Brazil soybean meal prices post sharpest daily drop since April after presidential election",
+   "original_title": "Brazil soybean meal prices post sharpest daily drop since April after presidential election",
+   "url": "https://www.hellenicshippingnews.com/brazil-soybean-meal-prices-post-sharpest-daily-drop-since-april-after-presidential-election/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-29T11:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "prices",
+    "soybean"
+   ],
+   "summary": "Brazilian soybean meal export prices posted their steepest daily decline since mid-April on Oct. 26 and fell to their lowest level since late August, as domestic markets were rattled by the surprise reelection of President Luiz Inácio Lula da Silva. Platts, part of S&P Global Energy, assessed FOB Paranaguá soybean meal for December shipment at $384.92/metric ton on Oct. 26, down $14.22/mt day over day, the largest daily decline since prices fell $24.58/mt on April 16, when ample supplies in both Brazil and Argentina weighed on the broader market. The decline pushed spot FOB Paranaguá soybean meal prices to their lowest level since Aug. Exports Despite the decline in FOB prices and the resulting improvement in Brazil’s competitiveness in the international market, sources said the country’s soybean meal export program was unlikely to see significant changes. Analysts at S&P Global Energy CERA expect Brazil to export 26.50 million mt of soybean meal in the current 2025-26 marketing year (January-December), rising to 28 million mt in 2026-27, with planting for the new crop underway. Preliminary data from Brazil’s Foreign Trade Secretariat show soybean meal exports totaling 1.10 million mt during the first 11 working days of October (out of 22).",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "bcefbdd94a3b",
+   "title": "COSCO turns to in-house yard for gas carrier expansion",
+   "original_title": "COSCO turns to in-house yard for gas carrier expansion",
+   "url": "https://splash247.com/cosco-turns-to-in-house-yard-for-gas-carrier-expansion/",
+   "source": "Splash247",
+   "published": "2026-10-29T10:45+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "china",
+    "shipowner",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "China’s COSCO Shipping Energy Transportation is expanding its gas carrier business with a RMB335m ($50.2m) ethylene carrier newbuilding project at affiliated Dalian COSCO Shipping Heavy Industry. The Shanghai- and Hong Kong-listed shipowner said its board had approved the construction of a 9,000 cu m vessel through Hainan Zhaogang Shipping, a subsidiary controlled by COSCO’s Dalian energy shipping business. The project carries a total investment cost of about RMB341m ($51.1m), including construction financing, supervision and other capitalised expenses. The LNG dual-fuel vessel is expected to be completed within 18 months of the shipbuilding contract taking effect. Hainan Zhaogang is 87% owned by Dalian COSCO Shipping Energy Supply Chain. The newbuilding will be financed through internal resources and external borrowing, with COSCO Shipping Energy also approving a RMB122m capital injection into its Dalian subsidiary. The company said it had compared offers from other independent yards before selecting one that sits within the wider COSCO Shipping Group. The latest investment builds on COSCO Shipping Energy’s wider fleet expansion across tankers and gas carriers. Earlier this year, the group ordered two 74,900 dwt panamax crude tankers at COSCO Shipping Offshore Qidong for approximately $153m, following a separate pair of 50,000 dwt MR product tankers at Guangzhou Shipyard International worth about $104m.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "0fa495b8b50f",
    "title": "MOL secures FSRU charter with Deutsche ReGas",
@@ -46,6 +391,31 @@
    "summary": "Japanese shipping giant Mitsui OSK Lines (MOL) has signed a long-term charter agreement with Deutsche ReGas to supply a FSRU for the Deutsche Ostsee LNG import terminal in Mukran, Germany. Under the agreement, China’s Hudong-Zhonghua Shipbuilding will convert an existing LNG carrier into an FSRU, with the charter scheduled to begin in 2028. Conversion work is expected to begin in the second quarter of 2027 and take approximately seven months. According to German media, the contract will run until 2043 and is worth several hundred million dollars. The additional FSRU will allow Deutsche ReGas to restore the Mukran terminal’s fully permitted regasification capacity of up to 13.5bn cu m annually, equivalent to approximately 15% of Germany’s natural gas demand. The terminal currently operates with the Neptune FSRU, after the Energos Power left in 2025 following the termination of a charter arrangement with the German government. Deutsche ReGas chief executive Ingo Wagner said the new vessel would strengthen long-term energy security while providing greater flexibility for LNG imports into Germany and Europe. For MOL, the agreement marks its first independently initiated LNG carrier-to-FSRU conversion project intended to supply major gas networks. The Japanese group has been expanding its downstream LNG infrastructure business, with FSRU investments and operations spanning markets including Indonesia, Hong Kong, Poland, and Singapore.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "6f545ab62a02",
+   "title": "MMi Daily Iron Ore Report (October 29)",
+   "original_title": "MMi Daily Iron Ore Report (October 29)",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjlIQUFESE5XdHEzck9EendRbEF6TmlMZUl6TTRNZjByMHRRZmFxTW9NbUVXRVd2XzE0cTlzYTRCM2tYdUpYYlBnNmpBSWlhMmZLRjFNVmxhQjNFYkZtWldXdkhFU3h2c1BqdFFOejFRMG5idUJUTnZONkNIWVlCbFNZVU5aQzF5b0pIWQ?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-10-29T10:00+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "iron ore"
+   ],
+   "summary": "MMi Daily Iron Ore Report (October 29) Shanghai Metals Market",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
   },
   {
    "id": "3c08070a933b",
@@ -184,6 +554,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "2aa8a3a9cf4b",
+   "title": "Recycled Cast Iron Scrap Market in China: Size, Trends and Forecast to 2035",
+   "original_title": "Recycled Cast Iron Scrap Market in China: Size, Trends and Forecast to 2035",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1E1SXFrMXdFSGRMU2Q4bm5BWEt3Q2pEblNwUWZmSXl6R3FEOU94T1RwMjM4VHRzc21kNUhldy1uS1ZHTEZTX3NiSEJZUVZUd0JnaDJHMHI1OFZHSkUwVWl2dGVyZ01qal9SaHhYaEF5Mkw3OVJwbGwyTWNmb2ZqNFpFYjEtc2ZlMzRFVEFxN1pmVy12cEN3dmRGMTdhMUNfdTBycVMxWEZ4Y3prSlQ0dg?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-29T08:43+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "scrap"
+   ],
+   "summary": "Recycled Cast Iron Scrap Market in China: Size, Trends and Forecast to 2035 IndexBox",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d1730d6d7386",
    "title": "COSCO SHIPPING Ports Posts Higher Throughput and Revenue With Strong Nine-Month Profit Growth",
    "original_title": "COSCO SHIPPING Ports Posts Higher Throughput and Revenue With Strong Nine-Month Profit Growth",
@@ -210,6 +607,35 @@
    ],
    "summary": "COSCO SHIPPING Ports Posts Higher Throughput and Revenue With Strong Nine-Month Profit Growth TipRanks",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "0a4cf4cfd606",
+   "title": "ECSA sets out European shipowners’ priorities as EU ETS revision talks gather pace in Brussels",
+   "original_title": "ECSA sets out European shipowners’ priorities as EU ETS revision talks gather pace in Brussels",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWU1HTGtjRXFKQnY0OEYwd2dTR3BUYzhDbXNwMHVKMTNVV0w5N1ZQdXN2b3NQelVaMTB3RUlzVndiaWQzdlpFTGR0MFpFN0Z5TjdFeDczUEtMVzZnSmJJUXl3cEFHT2FGQzUxUTdiWXFmTVNRMTB1NXFUeWJWOEdaNjlwcjJLam5ocnlCdm45a3dGM3h6ajgtcFFrcm9jVlJ4OUNxbmZfcnYwVHlRTGFXQjA0TFU1clRXbjVSUkZFYw?oc=5",
+   "source": "Ship2Shore",
+   "published": "2026-10-29T08:27+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 7,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "brussels",
+    "ets",
+    "eu ",
+    "shipowner"
+   ],
+   "summary": "ECSA sets out European shipowners’ priorities as EU ETS revision talks gather pace in Brussels Ship2Shore",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "feed"
   },
   {
@@ -341,6 +767,31 @@
     "tender"
    ],
    "summary": "PKP Intercity’s 15-year ED74 overhaul tender now closes to bids November 4 Railway Supply",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f9f6bd446998",
+   "title": "Dutch Container Merchants makes its debut at Intermodal Europe",
+   "original_title": "Dutch Container Merchants makes its debut at Intermodal Europe",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRGtZejA3YmducjRTUFJ2UWZDMXFYWkV1ODlGSzVEc2E1LTd2VGpuakFVTV9mbVZwOG5NbzlqLWk5a1h4ajZaQ2lTRHlGSnByYmxNRU5XUG5oOU1DbE1PcUdPNG45SWpyVU5YZmlNc3plRE83dkNQSm9FR2tBN25kNzZqeTZZSFpjRmZGa3JvQUd1SVNZRFRvOXpaYWI3M1B2b3o1OUlVVmVpRmVKODFzV1lzUjQ?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-29T07:48+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "intermodal"
+   ],
+   "summary": "Dutch Container Merchants makes its debut at Intermodal Europe RailFreight.com",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
@@ -569,6 +1020,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "5a57ecd04ba4",
+   "title": "Why Brazil's election matters for U.S. grain markets",
+   "original_title": "Why Brazil's election matters for U.S. grain markets",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV09wa3dJOUxSdDhoSUVlUXhIdm1hbWJCcjFidWdEMktMaExIUm90dHI4cWNPUUtodEowZ2NWMUh0NXFSUDdaaWxQMy1YS2Y3UFd1QVVrQkRHWENmanRyYTQ0WTEwdWRIQzZCSEstdXRJam81NFNLMVJPRVNIUTBLX3ltWnRGV1pnTHNpdkhaaGU3R3BzMmwwLTVCVUFLYUM5RldSdWRwdGNPMzRsXzJsWTVSNkhaZ1Zqbzh2SVhwUQ?oc=5",
+   "source": "Farm Progress",
+   "published": "2026-10-29T07:02+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Why Brazil's election matters for U.S. grain markets Farm Progress",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "d8edacd04459",
    "title": "Contship charts liner comeback with Tarros deal",
    "original_title": "Contship charts liner comeback with Tarros deal",
@@ -653,6 +1129,37 @@
    "summary": "Another Chinese shipbuilder has entered the country’s booming newbuilding market, with Yingkou Huayin Shipbuilding opening its yard in Liaoning province and launching a programme to construct ten 8,700 dwt multipurpose vessels. The newly established builder held a ceremony marking the start of construction at its Yingkou facility, becoming the latest entrant to China’s rapidly expanding shipbuilding industry. The development follows a wave of new yard openings, capacity expansions and the resurrection of previously dormant shipbuilding facilities across China this year. The facility launched its first new vessel in September and now has more than 30 orders, with production scheduled through 2030. ccording to figures released last week by the Ministry of Industry and Information Technology, Chinese yards secured 81.8% of global newbuilding orders by deadweight during the first nine months of 2026. New orders surged 163.2% year on year to 175.29m dwt, while completed tonnage rose 50.7% to 58.05m dwt, representing 63.6% of worldwide deliveries. China’s orderbook reached 399.13m dwt at the end of September, equivalent to 72.4% of the global total. Chinese yards also captured 74.1% of international orders for alternative-fuelled vessels. The city has emerged as China’s leading shipbuilding city in 2026, ranking first nationally for completions, new orders and orderbook during the first nine months of the year.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "b3b796e432fb",
+   "title": "The Port of Algeciras addresses green shipping corridors with experts from the Panama Canal, the IMO and the European Commission",
+   "original_title": "The Port of Algeciras addresses green shipping corridors with experts from the Panama Canal, the IMO and the European Commission",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQM01GMTg2V0oyZWVES1QxUzZxaHlfaHBoWlRBNTFnWVBPSmJFc1FyOElmSnBuTmMyZkhJZ0psZ20wZkp0T2FRQkxPR0VUaDFZRnZQN0ZWTzRJV0dwbHRScmV3aFJiZEdSMnBXVW1FclVqQ2VlTzVFWHRjbVBiRzhodW45dy1xLVNCWEQyQlV5S1RWWEpTRVJfZkhYRzBURGpIajNLY3EzdFdoMnJ2UDRKYndRQk44Q0twZGF4US1UbHd5b1ktMW94N2RGNGthdzQ2R25NOWxyR3FpUnNoR1pfbk5TTGdVYUJmTXhZVlVrZWZ6QmI5ZDlGREdFNnptWDBxLXhXYXFR?oc=5",
+   "source": "El Estrecho Digital",
+   "published": "2026-10-29T06:37+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "ports",
+    "shipping"
+   ],
+   "priority": "high",
+   "score": 8,
+   "regions": [
+    "Western Europe",
+    "EU institutions",
+    "Latin America"
+   ],
+   "tags": [
+    "european commission",
+    "port",
+    "shipping"
+   ],
+   "summary": "The Port of Algeciras addresses green shipping corridors with experts from the Panama Canal, the IMO and the European Commission El Estrecho Digital",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
   },
   {
    "id": "a5fe6cbefc38",
@@ -865,6 +1372,32 @@
     "prices"
    ],
    "summary": "World Bank projects fertiliser prices to ease in 2027 after 14% rise Profit by Pakistan Today",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7b4815cbabbe",
+   "title": "World Bank forecasts 28% surge in global wheat prices in 2026",
+   "original_title": "World Bank forecasts 28% surge in global wheat prices in 2026",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0lKclhTa1dCVndTeHVYdGtFamVpTUdFTVZveVFud1RZTzlKU0VYQzZpcjM1TFNVMW5zMTJTeVNzVzdqN0lDNms0eGVvQkc5cHpzNy1SdVNnbkRydjhscTRjRjd1Y195RENqSkRJcFpEdHpQYWRpczBRNjlYTFotVURqeGQ0YWM1NTF0MndqMzd2dlBUeS13QXVVaE1rLWdldFFmWDNHdFlhMmwyQk42QWxQalM?oc=5",
+   "source": "Profit by Pakistan Today",
+   "published": "2026-10-29T03:55+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "prices",
+    "wheat"
+   ],
+   "summary": "World Bank forecasts 28% surge in global wheat prices in 2026 Profit by Pakistan Today",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -10992,6 +11525,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "1c47989cd550",
+   "title": "Spending over $7.3 billion on coal imports puts fuel pressure on the power industry.",
+   "original_title": "Spending over $7.3 billion on coal imports puts fuel pressure on the power industry.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTk1M05xbm5qT3Qwd2tiNVhFRm5HSmxFTkRlQjBoQ1hjOHU2cHEwRXI0N242dzU1X3NTdHUzSl9PWjlmUnRBWDlLQXhoZVlwQk1kNkdSNUJoMVhKUXJzYmkxZm5MbFRoYmJmM1B4Nkw0SmVHQjJ5Q3loUUlYeDVUZ2d0U19HbXN4MDUxb09neVQwMDktaURr?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-10-26T23:07+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "coal"
+   ],
+   "summary": "Spending over $7.3 billion on coal imports puts fuel pressure on the power industry. Vietnam.vn",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4e43abd89bab",
    "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
    "original_title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
@@ -12681,6 +13239,35 @@
     "prices"
    ],
    "summary": "Iron ore prices rangebound as investors weigh weakening demand against stimulus bets Mining.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "08560abb2ee4",
+   "title": "Op-Ed: China’s tug-of-war with Australian miners lurks beneath iron ore calm",
+   "original_title": "Op-Ed: China’s tug-of-war with Australian miners lurks beneath iron ore calm",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbTZma1hCbXJOLXpGd0lMbHJ3UDVwaGJuMVdwcGRiWVhpS3hYeWk1dlliRXJmUVNaN1M5Uk10eld1dXpRcldxeVN1X1NIYXlRakFxd205eWJ6d1ZKeWFRRHBfLTJ4ZDdxRHdKN09jeTRNY194RUMwTVhOYnRfVl9zWng4MlF2M2Z2QkthTEk1bFNVM2I5Q0pKX1RWR0ZmMkY1Wmtjbw?oc=5",
+   "source": "Mining.com",
+   "published": "2026-10-26T14:06+00:00",
+   "added": "2026-10-29T11:06+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia",
+    "Oceania"
+   ],
+   "tags": [
+    "china",
+    "iron ore",
+    "war"
+   ],
+   "summary": "Op-Ed: China’s tug-of-war with Australian miners lurks beneath iron ore calm Mining.com",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -15954,571 +16541,6 @@
    "summary": "Wheat and silver prices both plummeted last week. Vietnam.vn",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "9157d1e119d1",
-   "title": "India-EU Free Trade Agreement Raises Trade and Logistics Hopes, Says Rotterdam Port Chief",
-   "original_title": "India-EU Free Trade Agreement Raises Trade and Logistics Hopes, Says Rotterdam Port Chief",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTU9HNC1iSXg3Q01NOTFFOWs1YVozUXdhOVFUR1VITmhDdUVWU1EwR21HS3RRalMzempqWDhPa1ROaWhiRWRCUXh3T1JKcHlWdVRLS2QxSFdaOFZVUXVRMFNmRjlyVkhIVFYza1BBbGhjOWI5QmQzRnp3VldmZDFHcjVrMTJHb0J4aU9lUWRac1MxUTZOSEktU3MwVWViZURYTG5OV0VGSlNMSzdPMUFQNElzVWxJLW8?oc=5",
-   "source": "Bold News",
-   "published": "2026-10-26T05:09+00:00",
-   "added": "2026-10-26T07:19+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe",
-    "EU institutions",
-    "Asia"
-   ],
-   "tags": [
-    "eu ",
-    "logistics",
-    "port"
-   ],
-   "summary": "India-EU Free Trade Agreement Raises Trade and Logistics Hopes, Says Rotterdam Port Chief Bold News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1b60a798c9b1",
-   "title": "India Plans Major Port Expansion to Support Trade Growth by 2047",
-   "original_title": "India Plans Major Port Expansion to Support Trade Growth by 2047",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV1RMSE5ybFkzWVJWV1lGZlhRVXZqcTdmZXFLWHdZdTc2TGtVRTBCU29DWlFCaENGNko3U0paZXVEak1RUDhITjRfNy11LTN6bVE1TVp2QmVqbVJJZEJ6cmRyZGNWeDZOYjkxcmRhS3J2bVFmUlNSVWVJeVRwLWJxRmcwNHhONXVCbGpmZGJjU0hOTVoxemg3STlvODZPUWdPVng4NF9qOUU3aURRR0FJei1Wc3JQOTVwOFlRZE5VbEpKRWhjRm530gHHAUFVX3lxTFBXVExITnJsWTNZUlZXWUZmWFFVdmpxN2ZlcUtYd1l1NzZMa1VFMEJTb0NaUUJoQ0Y2SjdTSlpldURqTVFQOEhONF83LXUtM3ptUTVNWnZCZWptUklkQnpyZHJkY1Z4Nk5iOTFyZGFLcnZtUWZSU1JVZUl5VHAtYnFGZzA0eE41dUJsamZkYmNTSE5NWjF6aDdJOW84Nk9RZ09WeDg0X2o5RTdpRFFHQUl6LVZzclA5NXA4WVFkTlVsSkpFaGNGbnc?oc=5",
-   "source": "Rozana Spokesman",
-   "published": "2026-10-26T05:05+00:00",
-   "added": "2026-10-26T07:19+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "India Plans Major Port Expansion to Support Trade Growth by 2047 Rozana Spokesman",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d0dc8673c1d5",
-   "title": "Tokayev expands Kazakhstan’s logistics capabilities: from Middle Corridor to CASA",
-   "original_title": "Tokayev expands Kazakhstan’s logistics capabilities: from Middle Corridor to CASA",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlVlVsYzZPTEI0azB6T0JsYlI3U2U1Z0hzcnFkMnVZbWhWUlpMMmFQWDNaTG9lNU5ZSWc4RGV3LTlBTGtJcDZVZ3NIUmY5alB0VmxKVGR0d0tyUDlucTE0?oc=5",
-   "source": "Trend News Agency",
-   "published": "2026-10-26T05:00+00:00",
-   "added": "2026-10-26T05:40+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "middle corridor"
-   ],
-   "summary": "Tokayev expands Kazakhstan’s logistics capabilities: from Middle Corridor to CASA Trend News Agency",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2f7f25a6cd65",
-   "title": "Ukrainian scrap: dangerous games",
-   "original_title": "Ukrainian scrap: dangerous games",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PdG4tTS1hUHdUeXlSRTFkdmxTRjQtVkM0S2IzejNPRi1zekFBSk1rdE03eHZmT1ZIb1FwdUZmX0ROSVFOb0Y3QmR0Y2ZwWDBxZ3dCc2FvYXBCNEFQSjZoOVpxMlJhdDJ5VEVCetIBckFVX3lxTE1fSEJlejFiWGhLdkpTR21YWV9uMEtOaEhrRFZaZXEzQ2ZxbzVoX0NsSGFPd0xZanNOb0FReTZVOWIxdlBrS1lNNFpMdmdwRld3OE1IOWQwaEdQNHNMOF9zRFlPSG9VbW1TVXMzTGw3dlNhQQ?oc=5",
-   "source": "GMK Center",
-   "published": "2026-10-26T05:00+00:00",
-   "added": "2026-10-26T17:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "scrap"
-   ],
-   "summary": "Ukrainian scrap: dangerous games GMK Center",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "cd63e59f9baa",
-   "title": "Bharat Coking Coal Q2 results: Coal India arm posts ₹124 crore net profit; offtake volumes improve nearly 10% YoY",
-   "original_title": "Bharat Coking Coal Q2 results: Coal India arm posts ₹124 crore net profit; offtake volumes improve nearly 10% YoY",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdUZYcGgxVGVDWFhlM3dObzV6eU1CX3gwOEdBMVVXRFJUbFBqSEFFQ3hPS1FiYzF4ZGI1OFJIMHhZS0wzQURZdFpSYnB5MW54Y19IcldvYjMwdmxHUmlyeVc4dGJ6QS0tM3pRS3BPRFljUFRDbWZGZlI2RzF4dU84Nkx3M085OHhTLXJYTU5Cck5teWFmTDFnckNtS0x1UWhyTHRVYmtreE9wek9WdF95R0ZMeURrWWxOdy02cExkdUM5a3A2bkhENjNUOUYwRTVCY3lYU1N6SUVJYXp3RGJ2UHVueWVwVGlkQTcyZmpGMDJYMFdXcWVGYTYyV283Uzhp?oc=5",
-   "source": "Upstox",
-   "published": "2026-10-26T04:48+00:00",
-   "added": "2026-10-26T05:04+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "coal",
-    "results"
-   ],
-   "summary": "Bharat Coking Coal Q2 results: Coal India arm posts ₹124 crore net profit; offtake volumes improve nearly 10% YoY Upstox",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "67873281f462",
-   "title": "Immense potential for collaboration: Piyush Goyal visits Port of Rotterdam to boost India-Netherlands maritime ties",
-   "original_title": "Immense potential for collaboration: Piyush Goyal visits Port of Rotterdam to boost India-Netherlands maritime ties",
-   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdFBCRXhRa0tfaDAwUlQxVmozSkxkaWJQVVpQS2RIS2NjWktaU2tZcTRHV1FCUFZPVm83d2VLbW9FOUlyaVRLZjNKNkkyQ3dUUnBEZ084RGhKb2swTGFkNndYcU55ekZkWnZpSGtsOHVzMF9rekZxMDNWbEZ2WGd4YklaU19mSExpWFJNd2JFNXEtQmpITExaRDVCVmJmZVVWRWprVVR0YUU1TGFxcXVtd3F5eTFsczRscG93M2JCMENiZDhOamJEN21tNlNTVGhvZGI0eWlqd0VwRjdFbjgzaGJpeFotNENsMnFVaU1kd1pwY1NrV2RXRDc3RVM1QUVqSmVkZUZIUGd2Q2JnR3pj0gGPAkFVX3lxTE10UEJFeFFrS19oMDBSVDFWajNKTGRpYlBVWlBLZEhLY2NaS1pTa1lxNEdXUUJQVk9Wbzd3ZUttb0U5SXJpVEtmM0o2STJDd1RScERnTzhEaEpvazBMYWQ2d1hxTnl6RmRadmlIa2w4dXMwX2t6RnEwM1ZsRnZYZ3hiSVpTX2ZITGlYUk13YkU1cS1CakhMTFpENUJWYmZlVVZFamtVVHRhRTVMYXFxdW13cXl5MWxzNGxwb3czYkIwQ2JkOE5qYkQ3bW02U1NUaG9kYjR5aWp3RXBGN0VuODNoYml4Wi00Q2wycVVpTWR3WnBjU2tXZFdENzdFUzVBRWpKZWRlRkhQZ3ZDYmdHemM?oc=5",
-   "source": "The Tribune",
-   "published": "2026-10-26T04:47+00:00",
-   "added": "2026-10-26T05:04+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Western Europe",
-    "Asia"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Immense potential for collaboration: Piyush Goyal visits Port of Rotterdam to boost India-Netherlands maritime ties The Tribune",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "097c26717a8e",
-   "title": "India's next maritime growth wave? Cochin Shipyard, Adani Ports among stocks to watch",
-   "original_title": "India's next maritime growth wave? Cochin Shipyard, Adani Ports among stocks to watch",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd3pIVjZzOFg1T3YyMG5GbmQ5aU5TTkFXdTZYRlFGSDlkamduVjJPSEdNMTlnWXhwLUNhODJjMWVDWnJzc3NzY0VLRThnU0dkem90emRPOGlRcWd1TTVxdk9lS2czQkt0UDFpTlNFMEtWaFpTalVrWGFnWUQwSFR1SXp0bVZfd3lCZ0I4VVI5TmNlbXJZMlhkY2J3cWNLd2VWZzg0cnFWcTRQSGNmdHNpRFduM1QySmJzZlo0QXJpQlFDUkhhYU5JdWtjeU56MHRKSGRtTUJJTkdMUQ?oc=5",
-   "source": "Upstox",
-   "published": "2026-10-26T04:24+00:00",
-   "added": "2026-10-26T05:04+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "India's next maritime growth wave? Cochin Shipyard, Adani Ports among stocks to watch Upstox",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "be35045a1da5",
-   "title": "BPCL, HPCL and IOC gain, while paints, tyres and chemical stocks fall as crude oil prices drop 2%",
-   "original_title": "BPCL, HPCL and IOC gain, while paints, tyres and chemical stocks fall as crude oil prices drop 2%",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU1h0dGNYM2hLTG1NQW5VVGt3TDNGYjhaTnVmQ0gxY3ZzbWFUSlVaTFlUVmR5NWhYMFI3aV9rbjZPSjB2RGs1NmZyLWtGaS1oUkVmT2RXSzhmNVRzMi16VEtKU3RGdWQzZWdQSFZZQjN4UWNfMFJnYXZrUmpRb002ZjU3Wk81THZ5T3FIdHFkZGlBdjVTVENNWGpwVkdZNkxGRFVTWkZqWU90UTI2STVGdmtjZ19IMmpucWx0MkpUOC1OU0x5NXE0NURIX0FYSHV0QXp0S0hJa1JxblA5a3loVFdRcVFmaUk?oc=5",
-   "source": "Upstox",
-   "published": "2026-10-26T04:13+00:00",
-   "added": "2026-10-26T05:04+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crude",
-    "oil price",
-    "prices"
-   ],
-   "summary": "BPCL, HPCL and IOC gain, while paints, tyres and chemical stocks fall as crude oil prices drop 2% Upstox",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6bdaac79d6de",
-   "title": "Imported Iron Ore Margin Narrows Sharply as Port Spot Prices Fall - News and Statistics",
-   "original_title": "Imported Iron Ore Margin Narrows Sharply as Port Spot Prices Fall - News and Statistics",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaFRUeDgwekxKUkZWTzBLY2Nyb1BmbU0wS0xWLWd4eVBrby1NeWhfWTR2Nm9JWXlfVnRvVklXcXpmcG9tN1NhQmlQRzlUeDJiUjV5M3Y3NzQyRExpRlp2SHFBOUhFMUJibmROcklhNUpEWkt2NDFCbFlrX2lFbE03SFZZWmViZU5qSGtBTGhQZkZWdVpfSy1NUzFIaGRyMTlmdUE?oc=5",
-   "source": "IndexBox",
-   "published": "2026-10-26T04:12+00:00",
-   "added": "2026-10-26T13:36+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "iron ore",
-    "port",
-    "prices"
-   ],
-   "summary": "Imported Iron Ore Margin Narrows Sharply as Port Spot Prices Fall - News and Statistics IndexBox",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "6a2c152c97b7",
-   "title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-   "original_title": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVTZlS2dyekdaRXE2YVdxOFZ3NWQtYnZaUkxUN0M5bm1nZTIzNEhtRDN1cmVFRmVEcUtaYVlFU0xfaHJmQWgxejNQLUhiNWh0MmRJQlF5N09OSjhpVEplQ3l0YTJ6U2F4QmFPTFpDTHBrLWIxU1JnZG1hb25DWXBDTDBucHhHdHhaZERZWmpwMVlEVHRvNVprS3N3aE5zR2t6OFhwcU1keVdrS1hkRTAzY0ZiRVFfb0lUWS15OURRX3pUY1lZNTc4TFBJbEFmbDg?oc=5",
-   "source": "India Shipping News",
-   "published": "2026-10-26T03:55+00:00",
-   "added": "2026-10-26T04:20+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "shipping",
-    "undersea cable",
-    "war"
-   ],
-   "summary": "Iran has detailed plans to hit Gulf undersea cables if war resumes, officials say India Shipping News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c8247418a7dc",
-   "title": "Brent Crude continues to burn, trading at USD 115/Barrel amid Middle East tensions",
-   "original_title": "Brent Crude continues to burn, trading at USD 115/Barrel amid Middle East tensions",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWTh3UmJqcVZUMnYzTHhodEpYVEhJeDRJM1h5cTZOZ0NkeU5ITkVCU09pUWxtLWpDSl85YWNuQjd5cnpESS14cTdDNFJnMnpEOGlJY18tV0RiYVZXQ0N3Z1A0MFVxb2IzZ1pyX3FRTTB6MUJhcmtfcVpvUGZmLTJleDdWSVZpVnFZdl9UNVVIYkFYTzJMakQ0eEtTblJGZnZpZ0RCRUVzTTZvWEUyZndleEQwclVBY0tDeHJjaUx3?oc=5",
-   "source": "India Shipping News",
-   "published": "2026-10-26T03:53+00:00",
-   "added": "2026-10-26T04:20+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "crude",
-    "shipping"
-   ],
-   "summary": "Brent Crude continues to burn, trading at USD 115/Barrel amid Middle East tensions India Shipping News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "88bd1d157a3b",
-   "title": "More sailors died here: Not Strait of Hormuz but this critical corridor is the deadliest shipping route in the world",
-   "original_title": "More sailors died here: Not Strait of Hormuz but this critical corridor is the deadliest shipping route in the world",
-   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQWx4cUJOTW1yY0JTRmlYVThYN3lpcHhfRkhUTklLbW1SZzZiZUJ0U1VQMi1kbVFPbEdRVG44NW50UXRXVS1EMTB0b1kxWUpfeGx6VnpuSk12RlNQaHRMdVdaRkVMdjZTWGNyNGVnNlN3bXZGdGpnQUkzWW9xWlVvRVB2aWRXUVcydmVVTjRROUNDZmNvQmdVdWpwM2xfQWpxWW9ZV3QzQzh1T1hpd1NTN2ZNNS1IMG9DcHc0WFBRcndwUHAyQ2t3LWxiMy1pUXVGLUZWT1ZyQ2czVXIyMkNfU0ZNTFpfaTMzTmFLamJLbzg1TWlhczluUnJ1NGNJREJpUUJma9IBigJBVV95cUxQelIwcGhpYUR6NWtSU3dDOV9IdFhSRGJKUUJBcTdjVXRZMDc4Y0tfOVVWZXdPZVczVUNDTU1BNVRmZjVZOG1TUUh6YXdGREdfdjB0YzE0aWZBSzVHdGdjVlZvU0NIdDJuQVVzaHZFaEhEN2dsUGZrVVZfRlhVTlhoMWlfUlhSd0l6aThENHJrcC1MSkdRaEJJMVZjT1hJemwyZlBfU3FrM1dHb0ZiNTJWOHNjTktMWmQyM0pjVDZfbWJtTkliUHcyWlFRNk5ocDdvUFlqSGtSRExIWUxqeXpPUklSLVFWRWdlVXFXN1k5MWxNWGtJVHVzemd0aHEwWnZZYUgyNkZ4WmNuUQ?oc=5",
-   "source": "Business Today",
-   "published": "2026-10-26T03:25+00:00",
-   "added": "2026-10-26T04:20+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "hormuz",
-    "shipping"
-   ],
-   "summary": "More sailors died here: Not Strait of Hormuz but this critical corridor is the deadliest shipping route in the world Business Today",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "7edf9a26e55e",
-   "title": "Konecranes reports strong port equipment deliveries despite order slowdown",
-   "original_title": "Konecranes reports strong port equipment deliveries despite order slowdown",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOFRyRUhoTzVnNk5ZeHg3RVRlYjh2Wm5CcEh3RlVod1M4TklLTXh1TVdHOW1sM2hlMUplN3M5bWhQdmJhSkplcm85ejNsZ0lITi1PcHNITUw4dW1FQXhmQVUtMnlET1pOSTVQbEZTWTFQVG9Qc2ZxQmVDbXNuanNVa1dna2RqRzROTXhCbEdCRG00Tm5LeEdPODEtZGYwZ0R2VjdqRg?oc=5",
-   "source": "Container News",
-   "published": "2026-10-26T03:00+00:00",
-   "added": "2026-10-26T05:04+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "konecranes",
-    "port"
-   ],
-   "summary": "Konecranes reports strong port equipment deliveries despite order slowdown Container News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3063e3a20483",
-   "title": "KPA to co-invest in Sh79bn port asset concession deals",
-   "original_title": "KPA to co-invest in Sh79bn port asset concession deals",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTQ1WGlPV2dla1htVUZyVklzSEVKTUpINGpwTF9QcVQtN1M1azFmRllrbnBLdTlsRDZhcm9XSG9fcWJtZktIMkFWa1AxWXdTTEd2aGdLa2xPVVRCd3J2aUt5VllTVFhkUGlGRmU0WjY5bHM5VFduc3pPUjdRcjBYYmo5bnBkRHVkTzZHbDJXQ2xhS1d3b2p2ZWFRR25jR000?oc=5",
-   "source": "Daily Nation",
-   "published": "2026-10-26T03:00+00:00",
-   "added": "2026-10-28T09:19+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "ports",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "concession",
-    "port"
-   ],
-   "summary": "KPA to co-invest in Sh79bn port asset concession deals Daily Nation",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ea207ddaed81",
-   "title": "Mahindra Logistics Q2 FY27 Results Show Profit Recovery as Express Business Improves",
-   "original_title": "Mahindra Logistics Q2 FY27 Results Show Profit Recovery as Express Business Improves",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGFwMzN2OHpncmYycVRQM3lPUVJHSkZBZWw3aERUM051S2RPenpILUJDZjl3SkQ2SnFNNjF1bTBHRVRTcURsU1BaWXlsdzBMQWw1c0VKUGlOdjhobm1UVnNZYU5UYm9kREM0WXRzaFhXeDdnbThUZ0Rfd2pBRDhsZGxmdm9iazUwcnJrOWRaQVJiWm9sZEVuSVNOTnFnTmR0YVZiUEVWZkEybEVOLTh0eWtIeWdhWlFz?oc=5",
-   "source": "Maritime Gateway",
-   "published": "2026-10-26T03:00+00:00",
-   "added": "2026-10-26T15:19+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "logistics",
-    "results"
-   ],
-   "summary": "Mahindra Logistics Q2 FY27 Results Show Profit Recovery as Express Business Improves Maritime Gateway",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "308ff23f43a5",
-   "title": "Panamax Freight Rates Slide as Indian Bulk Importers Weigh Shipping Costs",
-   "original_title": "Panamax Freight Rates Slide as Indian Bulk Importers Weigh Shipping Costs",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY210WmFpb0kwWWd3RlVEWmw5MHNMVkhRR01BYnVJSHowTDRRWGljWjljalpFdWtMN21IVzdLMGxhM0hvSkExMHRDbDh1OWxzUEtwZjdEb1VFMU5MQndoNUNoUG02bWVrenlSa0M5eFFUbXZ6R25YeDZWdHNPenJYc2NYNW1CYmJ5UzFYbnIxUHQ2cGQ1QmtiN0ZRbERURFFYZ3luRVhwS2NBZw?oc=5",
-   "source": "Maritime Gateway",
-   "published": "2026-10-26T02:56+00:00",
-   "added": "2026-10-26T05:04+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia",
-    "Latin America"
-   ],
-   "tags": [
-    "freight rate",
-    "panamax",
-    "shipping"
-   ],
-   "summary": "Panamax Freight Rates Slide as Indian Bulk Importers Weigh Shipping Costs Maritime Gateway",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "44adf609c463",
-   "title": "Panamax Freight Rates Hit Two-Month Low",
-   "original_title": "Panamax Freight Rates Hit Two-Month Low",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXY1NacHNEQ0lNeGVtbEdyM2c0amMyWDhhZm5uanlwdWp1WlJFMHhwc2VadEwycjB6OVoyX1lDREtybHdnaFB6YkpCeDRmVC1zR2N5dXNoNFBCdXF3TXgxa2N4X1R0Mm5FaXJfZ1FJeVdUbmk0Y0Yw?oc=5",
-   "source": "Maritime Gateway",
-   "published": "2026-10-26T02:56+00:00",
-   "added": "2026-10-26T13:36+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "freight rate",
-    "panamax"
-   ],
-   "summary": "Panamax Freight Rates Hit Two-Month Low Maritime Gateway",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "826e5e79473f",
-   "title": "The Expert View: HPC Hamburg Port Consulting on Building While the State Decides",
-   "original_title": "The Expert View: HPC Hamburg Port Consulting on Building While the State Decides",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQURhQnBOSWVia2I3cGVPWkZ3aHRqelF5ai11ejJIWHFwRk9zbVlvUVdkRUt5amtZcktzMUVOSmpscDJyckc5RV9MNEJaMVNMV2NRZll1TUVLLUxhUFh0WU5jQUdYZjJQcFlFQ05SMUo?oc=5",
-   "source": "Container Management",
-   "published": "2026-10-26T02:25+00:00",
-   "added": "2026-10-26T05:04+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "hamburg",
-    "port"
-   ],
-   "summary": "The Expert View: HPC Hamburg Port Consulting on Building While the State Decides Container Management",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "eeab56cf80ce",
-   "title": "Iron Ore Holds Steady As China Demand Cools",
-   "original_title": "Iron Ore Holds Steady As China Demand Cools",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BYU5tWUFuOVVLc1c5X28ydGxfa29tWWY4cnktTnFHdzh6X2R0ODh2MzBxd0hfSG5Ea3hEalVfTjVNbVFMYzIxakNhTHdDTmVZWXlkX3ltTS1mRWVaQkdrTno0bVpvX1piSVJJTDJwNjNOaXZveklNblBpREs?oc=5",
-   "source": "Finimize",
-   "published": "2026-10-26T02:02+00:00",
-   "added": "2026-10-26T03:06+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "iron ore"
-   ],
-   "summary": "Iron Ore Holds Steady As China Demand Cools Finimize",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f6f866ce84e0",
-   "title": "Australian met coal outlook not as strong as banks and investors think",
-   "original_title": "Australian met coal outlook not as strong as banks and investors think",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWN1c3N5Y2N1eDBVMC1XX0JhQWZHQVAxX212UHhVbV8zRzhETndCZnFNSG10R1ZxWVcydXR1V2hNU1VTS1NqUG12MFBjbjE2b0poUDR6cENsdXFjR25oTjV0VXp0bTdtdGw5X2llZGpZRWtjMm5WRWRMaFN5OXpNLVM4X2s1dC03ejdvc0lDdFNleFNVdzVJ?oc=5",
-   "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
-   "published": "2026-10-26T01:01+00:00",
-   "added": "2026-10-26T01:50+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Oceania"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "Australian met coal outlook not as strong as banks and investors think Institute for Energy Economics and Financial Analysis (IEEFA)",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5eebcba88e79",
-   "title": "Navia Deepens Southeast Asia Reach With New Office in Johor Bahru",
-   "original_title": "Navia Deepens Southeast Asia Reach With New Office in Johor Bahru",
-   "url": "https://theloadstar.com/navia-johor-bahru-freight-forwarding-office/",
-   "source": "The Loadstar",
-   "published": "2026-10-26T00:01+00:00",
-   "added": "2026-10-26T00:07+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "forwarding"
-   ],
-   "summary": "This week, Navia announced the opening of its freight forwarding office in Johor Bahru, Malaysia, continuing its expansion as a global player. This is its second location on the Malay Peninsula, its twelfth in APAC, and the next phase in its growth journey. Johor Bahru sits minutes from Singapore, connected by the world’s busiest land border crossing, with over 350,000 crossings a day (roughly four times the daily volume of San Diego–Tijuana’s San Ysidro crossing, which the U.S. Since January 2025, the Johor-Singapore Special Economic Zone (JS-SEZ) has enabled duty-free trade and a single permit for land cargo moving between the two countries, targeting RM260 billion (approximately S$81 billion) in GDP for the zone, with 7% annual growth by 2030 according to Johor state government predictions. Alongside its existing Penang office, the Johor Bahru team now places Navia near Port Tanjung Pelepas, where a significant share of its freight already moves through. The Johor Bahru office marks the second expansion Navia has made this year, following the launch of TCI Navia in China in August, another step in the company’s growing footprint. We’ve been invested in Malaysia for seven years, and Johor Bahru is us continuing to back the core markets that matter to them.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
