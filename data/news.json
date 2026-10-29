@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T09:22+00:00",
+ "generated_at": "2026-10-29T10:16+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,125 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "0fa495b8b50f",
+   "title": "MOL secures FSRU charter with Deutsche ReGas",
+   "original_title": "MOL secures FSRU charter with Deutsche ReGas",
+   "url": "https://splash247.com/mol-secures-fsru-charter-with-deutsche-regas/",
+   "source": "Splash247",
+   "published": "2026-10-29T10:00+00:00",
+   "added": "2026-10-29T10:16+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "ports",
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "carrier",
+    "charter",
+    "china",
+    "lng",
+    "shipping",
+    "terminal"
+   ],
+   "summary": "Japanese shipping giant Mitsui OSK Lines (MOL) has signed a long-term charter agreement with Deutsche ReGas to supply a FSRU for the Deutsche Ostsee LNG import terminal in Mukran, Germany. Under the agreement, China’s Hudong-Zhonghua Shipbuilding will convert an existing LNG carrier into an FSRU, with the charter scheduled to begin in 2028. Conversion work is expected to begin in the second quarter of 2027 and take approximately seven months. According to German media, the contract will run until 2043 and is worth several hundred million dollars. The additional FSRU will allow Deutsche ReGas to restore the Mukran terminal’s fully permitted regasification capacity of up to 13.5bn cu m annually, equivalent to approximately 15% of Germany’s natural gas demand. The terminal currently operates with the Neptune FSRU, after the Energos Power left in 2025 following the termination of a charter arrangement with the German government. Deutsche ReGas chief executive Ingo Wagner said the new vessel would strengthen long-term energy security while providing greater flexibility for LNG imports into Germany and Europe. For MOL, the agreement marks its first independently initiated LNG carrier-to-FSRU conversion project intended to supply major gas networks. The Japanese group has been expanding its downstream LNG infrastructure business, with FSRU investments and operations spanning markets including Indonesia, Hong Kong, Poland, and Singapore.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "3c08070a933b",
+   "title": "India greenlights $1bn drive to break China’s container manufacturing dominance",
+   "original_title": "India greenlights $1bn drive to break China’s container manufacturing dominance",
+   "url": "https://splash247.com/india-greenlights-1bn-drive-to-break-chinas-container-manufacturing-dominance/",
+   "source": "Splash247",
+   "published": "2026-10-29T09:46+00:00",
+   "added": "2026-10-29T10:16+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "manufacturing",
+    "shipping"
+   ],
+   "summary": "India has approved a INR100bn ($1.05bn) programme to massively expand domestic shipping container manufacturing, targeting a tenfold increase in annual capacity as New Delhi seeks to challenge China’s near-monopoly over the industry. The country’s cabinet approved the Container Manufacturing Promotion Scheme yesterday, turning a proposal announced in February’s national budget into a 13-year industrial development programme. The initiative aims to increase India’s annual container manufacturing capacity from approximately 70,000 teu today to 750,000 teu, potentially establishing the country as a significant international supplier of shipping containers. India hopes to erode that dominance through a combination of production subsidies, subsidised financing and investment in manufacturing infrastructure. The programme includes INR88.91bn in financial assistance for containers manufactured to international standards, alongside INR8.59bn in support for financing new factories and expanding existing production facilities. The government is targeting new factories with annual capacity of at least 100,000 teu, while existing manufacturers must expand capacity by at least 25,000 teu to qualify for financing support. Domestic content requirements will progressively increase from 70% to 90%. The programme runs from the 2027-28 financial year through to 2039-40, allowing three years for establishing facilities followed by ten years of production support.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "e9787c87a934",
+   "title": "Bykowski (Poznań): Port Polska będzie konkurował z Berlinem",
+   "original_title": "Bykowski (Poznań): Port Polska będzie konkurował z Berlinem",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZWtzNk12M2FHNVpsdHQtRlB2LS1pazJlcG93TW5WUmtFSW56dlp5RDVuZGRwZHE1MHYwa3EtclZ4SWU1VGQ1c3VmWDVpa2FFYXVRaTRzdzhWaVp2aWViX0UyTjlDYWxGWU55OUpaRmloc294X0w1WHhXblFuSlllVFdTQlF6UHJQSFkwaFY5RFlRTVh3X1BiQzBFb1hhemNXUzZJYkZkVEhCY2VLN2c?oc=5",
+   "source": "Rynek Lotniczy",
+   "published": "2026-10-29T09:31+00:00",
+   "added": "2026-10-29T10:16+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Bykowski (Poznań): Port Polska będzie konkurował z Berlinem Rynek Lotniczy",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "5c0c76a7b558",
+   "title": "Tropical Shipping orders its first hybrid straddle carrier from Kalmar",
+   "original_title": "Tropical Shipping orders its first hybrid straddle carrier from Kalmar",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWE9kaGtWZGxNNkpab2R0N2tWWWtHZ0pTU3dTU1M3SUxxTGNZRDBxa0xET3I4X2k2R2NZTUlTaTl0TlFvTkJnVVN4OEhOM2x1Xzc2NGpLTUpjNFRSM0k0enJYWEx0c0Z3a3ppZmlYYzNBVXZWMjlmRG9mcXJSY3J0azJjbUc4dDc4UlA2dmpWLWN3aVhkZ3B5Y2VRM21nNXhrVmw1SA?oc=5",
+   "source": "Container Management",
+   "published": "2026-10-29T09:14+00:00",
+   "added": "2026-10-29T10:16+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "carrier",
+    "kalmar",
+    "shipping",
+    "straddle carrier"
+   ],
+   "summary": "Tropical Shipping orders its first hybrid straddle carrier from Kalmar Container Management",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
   {
    "id": "2c9a1d415660",
    "title": "Nippon Yusen Raises FY2027 Net Profit Forecast to ¥330 Billion as Container Freight Rates Exceed Expectations",
@@ -223,6 +342,33 @@
    ],
    "summary": "PKP Intercity’s 15-year ED74 overhaul tender now closes to bids November 4 Railway Supply",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "ee8b587d6f1e",
+   "title": "ICTSI’s NorthPort adds four hybrid RTG cranes",
+   "original_title": "ICTSI’s NorthPort adds four hybrid RTG cranes",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLU84dVgyYlk0NkdRVXZLeU5xVVpqYlBsTHZGaWQxSEtWaHVPSlVlQk1CQ0k4VGxCa1ZtM1plSFFYSTJBdzVqX3I3OE5mX0I0S3BLaEtUVUdaeHZ2ejBzcnpJampKMFlQZi02b1dVeFBXSFZCcl9sYVBCR2Z0bkFJNXNycDJ6elZsWFZSVHFMVGIwYl85WFJ1M2NRQlBsWmxJcU1HRFNaSGJwcDdtdmc?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-29T07:41+00:00",
+   "added": "2026-10-29T10:16+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "rtg"
+   ],
+   "summary": "ICTSI’s NorthPort adds four hybrid RTG cranes WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -1585,6 +1731,31 @@
    ],
    "summary": "Automotive Market 2035: Technology and Electrification Are Changing the Rules of the Game kpmg.com",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fd59b918009c",
+   "title": "Mumbai Airport Shares Vision For Redevelopment Of Terminal 1",
+   "original_title": "Mumbai Airport Shares Vision For Redevelopment Of Terminal 1",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdWEyQW0teHZrLUN6bVVHWlJQdGFsdjhNQ2tTV0dSUklKQ0JqMmw0ckZ2d2RCTzlIZ1dIVUxJX0VYaDBGZDFRS24tR0xfaUVUNzEwZXZTSHJmTlFVSUxqaEdLZWRKZTluMHJST29wWWtwLXJXSGJlQkVCSXhkUl9ZZFpid1hLQmpiZmk4WGhJMm9NSndIdjB4MUFLcnY0SXlKM2Vz0gGrAUFVX3lxTE4tMEdZWXYzYWpDZV9zdUhTcG1lcmdSaGZnaF9rUmRETlYtM3BVSEw2U1ZvMzd5U1RXVXFlYWFGNnZQcTRITUV5M2FFazhISFlSdC1oZXJfYmhrejFpclFUb0doeEJvTUhueFk5QS1Fa3h4ejJJdjVBWUxyZGwxTG9QSnhGVnZrVVUzYkxnV1NrRl9UZWIxUXFFT3VfRzI2OWpKSmZCZHp5QjVNdw?oc=5",
+   "source": "NDTV",
+   "published": "2026-10-28T17:32+00:00",
+   "added": "2026-10-29T10:16+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "terminal"
+   ],
+   "summary": "Mumbai Airport Shares Vision For Redevelopment Of Terminal 1 NDTV",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -10335,6 +10506,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "c5859931e903",
+   "title": "Why now is the time to review your fertiliser plan",
+   "original_title": "Why now is the time to review your fertiliser plan",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHV0Mjl1WFhKWmR5QjRpX3FfUy1tWEhUVVpJbjB0ZHd3ZnFUMlNMM0twZ0xkeTMzMlFiUy05NmdnWTlENTFhT3EwcHRLSGNkUWgtSFMta1R6U2t1XzdkNV9KYlRyT2VGSnZMd00xUl9fbXVsSzRYQnpRaDlOa2ZvVlNpSTAzT0xVZGtPQXIySG85cWJwSXpMVklWQ2JJTm9zQnUzeg?oc=5",
+   "source": "Irish Independent",
+   "published": "2026-10-27T05:30+00:00",
+   "added": "2026-10-29T10:16+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "fertiliser"
+   ],
+   "summary": "Why now is the time to review your fertiliser plan Irish Independent",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "44ec736529d4",
    "title": "Why The Crisis In Yemen And Red Sea Shipping Threats Change Everything",
    "original_title": "Why The Crisis In Yemen And Red Sea Shipping Threats Change Everything",
@@ -13546,6 +13742,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "c2118b76c2f2",
+   "title": "India, Rotterdam Ports to Digitalise Cargo Processes, Says Piyush Goyal",
+   "original_title": "India, Rotterdam Ports to Digitalise Cargo Processes, Says Piyush Goyal",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdDJKb3JkaTQ0V29ZbUpXU0c4eGZoZTJCX0tzRGx3X29YdmNhZXdEX3NvRUZkRHlUMDhkUGVjd2M3TGNhNFNTSllNMTBsTHh0SW1raldBWDZzalFxb3c4Xzl5bklTcFc4MjhsSVFGbzF4aVcxWk5XLV92TDBtOTlYNjV1MkJ3WFRzM2pWY2FMS2FmOW5PdWk2cGJB?oc=5",
+   "source": "Goemkarponn",
+   "published": "2026-10-26T11:43+00:00",
+   "added": "2026-10-29T10:16+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "India, Rotterdam Ports to Digitalise Cargo Processes, Says Piyush Goyal Goemkarponn",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "39fe7f1b0e89",
    "title": "Ministry of Ports, Shipping and Waterways Strengthens Swachhata Drives and Promotes Good Governance under Special Campaign 6",
    "original_title": "Ministry of Ports, Shipping and Waterways Strengthens Swachhata Drives and Promotes Good Governance under Special Campaign 6",
@@ -16296,228 +16519,6 @@
    "summary": "This week, Navia announced the opening of its freight forwarding office in Johor Bahru, Malaysia, continuing its expansion as a global player. This is its second location on the Malay Peninsula, its twelfth in APAC, and the next phase in its growth journey. Johor Bahru sits minutes from Singapore, connected by the world’s busiest land border crossing, with over 350,000 crossings a day (roughly four times the daily volume of San Diego–Tijuana’s San Ysidro crossing, which the U.S. Since January 2025, the Johor-Singapore Special Economic Zone (JS-SEZ) has enabled duty-free trade and a single permit for land cargo moving between the two countries, targeting RM260 billion (approximately S$81 billion) in GDP for the zone, with 7% annual growth by 2030 according to Johor state government predictions. Alongside its existing Penang office, the Johor Bahru team now places Navia near Port Tanjung Pelepas, where a significant share of its freight already moves through. The Johor Bahru office marks the second expansion Navia has made this year, following the launch of TCI Navia in China in August, another step in the company’s growing footprint. We’ve been invested in Malaysia for seven years, and Johor Bahru is us continuing to back the core markets that matter to them.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "519b064e964a",
-   "title": "Black Sea Shipping Attacks Hit 570 Vessels as Insurance Costs Surge.",
-   "original_title": "Black Sea Shipping Attacks Hit 570 Vessels as Insurance Costs Surge.",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM3VPcFBnWjMwb3NVa0U5eE5CY3dSc09nOG9sNkhVcGZYVzFlYkZ6ZEZWcHcwVnF2SXR4VDhnSWt3WHU5Y25XckF0c2Z0YnVOOFRJalhjOG9ZZGctblpBTjB5bGhwRWlUX1o1aFAydjJIZTRfZjRBRDBWSkRscDI0WkljYzJ6Q2l1WktwZ0tn0gGWAUFVX3lxTE9XSEwwb004b0otVlNtQzk3NzFpRFlCa25Rd0dmT3VOcnVSanhRRUlRb091aXFOSnBxcDF5VmZldzlZZ0otSnlHTGtEaEs2dlZicDMzeVpnQ2FhdENZS0ZmalJweFlTVEFzVTNzM2RCYk5OTHNnWDRsdWliWXlDZUN4UWgwZnQ5Q2c3OUp6WmE0d05NS0lsdw?oc=5",
-   "source": "Ukraine Business News",
-   "published": "2026-10-25T23:59+00:00",
-   "added": "2026-10-26T13:36+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "shipping",
-    "ukraine",
-    "vessel"
-   ],
-   "summary": "Black Sea Shipping Attacks Hit 570 Vessels as Insurance Costs Surge. Ukraine Business News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a452219f0103",
-   "title": "COMMENTARY: China's tug-of-war with Australian miners lurks beneath iron ore calm",
-   "original_title": "COMMENTARY: China's tug-of-war with Australian miners lurks beneath iron ore calm",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOT2REbE1paDZidXp1RGZTZHoxTDZjUHpraEtXejRmdkE0UXRwdmM4RVlNVmRJQmJGSFdONTNGbXhhVjNiUEtyeGhXdVpBOGFVVVcyb2hQeTZtT3dpdERCSWoxcml2ck9OZ2tySjJRS21EY1lrZlA1OXVpMnNKc0NPaElhOVFlS1QyNmxsVTN3V1FucjdURHpYRDdHaUJ0SDlwdl92SkJKcUZXQTZfdmZWQ0dVcHhDdE5rUi1raldaYWY1TG9FQzZ4bUxxd3JPN01hel93?oc=5",
-   "source": "Reuters",
-   "published": "2026-10-25T23:53+00:00",
-   "added": "2026-10-26T01:50+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 10.5,
-   "regions": [
-    "Asia",
-    "Oceania"
-   ],
-   "tags": [
-    "china",
-    "iron ore",
-    "war"
-   ],
-   "summary": "COMMENTARY: China's tug-of-war with Australian miners lurks beneath iron ore calm Reuters",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "08578428ee65",
-   "title": "Ghana’s Port Costs, Cargo Delays Key to West African Trade Ambitions",
-   "original_title": "Ghana’s Port Costs, Cargo Delays Key to West African Trade Ambitions",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU3g3NHlsdmpyM1Bsell6M1RYUjFWR0Jac0JMMXNVUER2VE5oLUdFLXlYVTFROG5hVV9iMEhIZEdmZmpnMmlYbEpTQllaOGo0RENtSzkwemxJRWtmd2xmRldDbFpXc3NiVFZ3UWpVbWlMLUlzVEVtVkFMUFRmbmV3TFU3R3dxcWJ2ZkNFcnJCTlZlbHBtNnFTRHRB?oc=5",
-   "source": "CediRates",
-   "published": "2026-10-25T23:28+00:00",
-   "added": "2026-10-25T23:47+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Ghana’s Port Costs, Cargo Delays Key to West African Trade Ambitions CediRates",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "70e5fffc4318",
-   "title": "Middle East war and Panama drought strain critical global shipping routes — NV infographic",
-   "original_title": "Middle East war and Panama drought strain critical global shipping routes — NV infographic",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbG9OVjhOQTRwaTBWVFJuT29mVndxQzdMV0tQMEJUMGZBWTN6Nkp6V2JyM0tXNmJEbHZsa25fMFJxVjl5WV9reHFhQ2tlUkdORlF4ZUwyREJvZ2x4UDIxLUIxUlpFV09hdnF3WVNVTFFUanduWWl5R011SFdCei05X0dzVjlHeWNPQmhtMDBhLTBCbkpOdk00Y29uRlhVUWdCYmZuZ2EwNHRzaEVLYzZ1VXU2dkppaWPSAbMBQVVfeXFMTUMzaTZPYzZ5b2VBS1E3YWpLUUxSUHZHcHVFalFLd3JxeVI3czFpdWpwLUgzSEQwU0xvSjcxZElpRV9fSUxGTlRQSnFTYUszeDNnVFBCN09mZ2pfSDhTWDVCTUU1QVpXYlN5TlpMSGhRQWkySHdVakpidU94Y0pvbGFlUzdscURhd20xc0JsanBkbm9fZWtuelFUZWR3VDQ3bjctYl95ZktyQ3ZtbXRoR09ORlU?oc=5",
-   "source": "The New Voice of Ukraine",
-   "published": "2026-10-25T23:19+00:00",
-   "added": "2026-10-26T00:07+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Middle East",
-    "Latin America"
-   ],
-   "tags": [
-    "shipping",
-    "ukraine",
-    "war"
-   ],
-   "summary": "Middle East war and Panama drought strain critical global shipping routes — NV infographic The New Voice of Ukraine",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a7f8a25dc0a6",
-   "title": "Rhenus launches major automated warehouse system in Poland",
-   "original_title": "Rhenus launches major automated warehouse system in Poland",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQmFyOXl1N1lRRjRRbHAwQWhMT3BOX0ZfcnJPb3lFNmdpOW9qeVVWazg0UGQ0VEtPTUNscjJCQ3pjdU5SOEJrLVpGY3IxMUlrcTRvU1N2b1p1OEdJNDlSemtobGNWcTZEQzR4QmJuM2Z4LXh3Sjl6eWxXU1lSZDdHNW94bFBMYk5XR01xa0ZmNA?oc=5",
-   "source": "Container News",
-   "published": "2026-10-25T23:17+00:00",
-   "added": "2026-10-26T03:42+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "poland",
-    "warehouse"
-   ],
-   "summary": "Rhenus launches major automated warehouse system in Poland Container News",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0bf76888fac3",
-   "title": "Asia Is Building the World's Next $15 Trillion Energy Market",
-   "original_title": "Asia Is Building the World's Next $15 Trillion Energy Market",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRXd2VnM1bkZhSUxMMUxkTUJvZlRDeVNQTlRiRDZOY0tZQjRza2ZjZ3ZvS1dCVTk3X2NWYldlRThuVk01RTlUYjA3VkFNMlNKNG5tekVINjVVRFhQQXZONUFVUEk1V2FtN2dmd0FOOG1fQ2tDbnl6aElPRUZYWjdLclRxRVJ1MlpnTTQ1eVZRcUd5TTY4dTB6S3V0VWQ0elFJanQ3Ni0yVFl3QdIBrwFBVV95cUxNc3E3VEJFRS1sT1hsNnA1bHBXdnd2aXAyTnlTVDZzY3pBZkZFdGdpNWhYMTJIYTA3eHE4RkRieWZaMWZHeXZkTm80UzlpNUhSNEhabHF3RlkwblJvZzdISE9PUmFzQVVFNmNZZTdndExiRUhNcEVVUUlOb3FBdnF2UzNielprdmY4ektweU9IekZZa2FsTnRsc3RucGF1Z2JudGtJNFBSVUtQRHRPSVZr?oc=5",
-   "source": "Crude Oil Prices Today | OilPrice.com",
-   "published": "2026-10-25T23:00+00:00",
-   "added": "2026-10-27T02:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crude",
-    "oil price",
-    "prices"
-   ],
-   "summary": "Asia Is Building the World's Next $15 Trillion Energy Market Crude Oil Prices Today | OilPrice.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3536304c0d96",
-   "title": "China’s Iron Ore Buying Power Still Runs Into Australia",
-   "original_title": "China’s Iron Ore Buying Power Still Runs Into Australia",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFF3UjV5LTR4UDg5OEhDclVweDJyLUNWbzZ4ZWdPSFdUbGlBQ0UyRmotNDloOGJ0QWI3TkNzUUR0Q2JVdE8wZXgwd0VzbENXd2NhVjMwSlZnb0ViVWNmelMwRWtnNnF1RTlKa0o2REpyMTdrTzFLMzJNVGppRzBRX3RjOEZUMlBIa3Bz?oc=5",
-   "source": "Finimize",
-   "published": "2026-10-25T22:55+00:00",
-   "added": "2026-10-26T00:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia",
-    "Oceania"
-   ],
-   "tags": [
-    "china",
-    "iron ore"
-   ],
-   "summary": "China’s Iron Ore Buying Power Still Runs Into Australia Finimize",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "edc75363b54f",
-   "title": "PRESS RELEASE: Weekly Update – Global Fertiliser Markets – w/e 23.10.2026: INDIA PREPARES TO RETURN TO UREA MARKET AS GLOBAL FERTILISER SUPPLY PRESSURES INTENSIFY",
-   "original_title": "PRESS RELEASE: Weekly Update – Global Fertiliser Markets – w/e 23.10.2026: INDIA PREPARES TO RETURN TO UREA MARKET AS GLOBAL FERTILISER SUPPLY PRESSURES INTENSIFY",
-   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPcXBnZUt0c1VZUU82UEcyQXA4ZHBFRExYd3I5YVZPUVJxWWJkajctc0RfV29KUThrRmFKY08yRG1Za1ctVVc0aVBKaXU4WlR0ejlrUXFvLXR1QXlYOG5LclNBVmlYckxJMnlDWDBST2xxdmFhTG15QzJpUzNDQ084MkR3TkowU09ZVzRka0ljb0NOYTdmeFpVd1pLd0MtZUtOblZWY005bmhqSTJCOG02TWpVNmFXVjMxcW1sNXVWZVctdlFsWjZydGFIMnltdF95ei1LMDFSYlZpMGZ5Zi1mVG9qV2tEMTBKYnhOTUl1Wk1ybWZsbFlWandKSm5nUXlrNGtvSmFTUkJ6RkIyX2pOUldOWG9VSy1PSWNYaGZkdDNZTUhoU1FR?oc=5",
-   "source": "Press Release Distribution Australia",
-   "published": "2026-10-25T22:20+00:00",
-   "added": "2026-10-27T19:46+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia",
-    "Oceania"
-   ],
-   "tags": [
-    "fertiliser",
-    "urea"
-   ],
-   "summary": "PRESS RELEASE: Weekly Update – Global Fertiliser Markets – w/e 23.10.2026: INDIA PREPARES TO RETURN TO UREA MARKET AS GLOBAL FERTILISER SUPPLY PRESSURES INTENSIFY Press Release Distribution Australia",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
