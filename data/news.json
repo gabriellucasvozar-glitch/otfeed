@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T15:32+00:00",
+ "generated_at": "2026-10-29T16:28+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,37 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "18938463af21",
+   "title": "Port of Tauranga raises $31m from second property sale",
+   "original_title": "Port of Tauranga raises $31m from second property sale",
+   "url": "https://splash247.com/port-of-tauranga-raises-31m-from-second-property-sale/",
+   "source": "Splash247",
+   "published": "2026-10-29T16:09+00:00",
+   "added": "2026-10-29T16:28+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "ports",
+    "mna",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Oceania"
+   ],
+   "tags": [
+    "intermodal",
+    "logistics",
+    "port",
+    "sale of"
+   ],
+   "summary": "New Zealand’s Port of Tauranga has completed the sale of a South Island logistics property for NZ$57m ($31m), extending a programme of asset disposals aimed at releasing capital for port infrastructure investment. The NZX-listed port operator said it had sold its 15-hectare property at 5 Baltimore Drive in Rolleston, Canterbury, which includes an intermodal freight hub, a 650 m rail spur and an 18,000 sq m warehouse built in 2019. The industrial-zoned site also contains seven hectares of undeveloped land. The transaction follows the company’s sale of its Gateside industrial property in Auckland to Trade Depot in September for NZ$88.7m ($52m at the time). Chief executive Leonard Sampson said the two sites had been identified for disposal following a review of the group’s property portfolio. The company intends to redirect proceeds from non-core assets into infrastructure supporting its main port and freight operations. The port has said it will seek an expedited court hearing. The Rolleston sale is the second completed property disposal under the current programme. Tauranga has not specified how the proceeds will be allocated between individual infrastructure projects.",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "extract"
+  },
   {
    "id": "b53ad0f3cf0c",
    "title": "Bishkek coal depots hold 13,190 tons as city prepares for winter",
@@ -67,6 +98,59 @@
    "summary_method": "feed"
   },
   {
+   "id": "b38272a8fef4",
+   "title": "MEPs call for closer anti-drug cooperation with Colombia; Bogotá proposes links between Latin American ports and the European Ports Alliance",
+   "original_title": "MEPs call for closer anti-drug cooperation with Colombia; Bogotá proposes links between Latin American ports and the European Ports Alliance",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMXdOenh1TUIwaFlKcHkteW90MU8yQWhSeS1YS3Job1FfSklfM0ppNHAzLWp3MmlmLTJCakFqTEFvLVZMWVBSSHNQNXpjalhFX3hodEtYWU1ra001YmRmMER3REpEWEdRcDJXU3JUUllIZmtJbEhMZEdHSjZwckhpbjQzZWYxcEVzeVV0N0g5ZFNlSHlpMmc?oc=5",
+   "source": "Informat.ro",
+   "published": "2026-10-29T13:41+00:00",
+   "added": "2026-10-29T16:28+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "North America",
+    "Latin America"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "MEPs call for closer anti-drug cooperation with Colombia; Bogotá proposes links between Latin American ports and the European Ports Alliance Informat.ro",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "040697030b69",
+   "title": "ID Logistics Polska leases 37,800 sqm in CTPark Iłowa",
+   "original_title": "ID Logistics Polska leases 37,800 sqm in CTPark Iłowa",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWWxrbUI1UG5NalZKSWFQcW43OWFCNEp4T3BwWWtWMVg5QWg4UnNUckVobkRTc0N4bmlfQl9RMExKSld0Nkdnb1hpZmpsb2p5VXhIVFZ5Rk9IT29TRGs5dmdEelZuTHVrbUJqTDBVWktmcmRYU0M0VjdWS1lCRWpQcXJuSjFlYmZZX3ZXYXo1ZHYxeGF0cmc?oc=5",
+   "source": "EurobuildCEE",
+   "published": "2026-10-29T13:31+00:00",
+   "added": "2026-10-29T16:28+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "logistics",
+    "polska"
+   ],
+   "summary": "ID Logistics Polska leases 37,800 sqm in CTPark Iłowa EurobuildCEE",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
    "id": "63ea03b8ebfe",
    "title": "Maritime Disruptions Are Creating a New Economics of Connectivity",
    "original_title": "Maritime Disruptions Are Creating a New Economics of Connectivity",
@@ -116,6 +200,31 @@
    ],
    "summary": "Thyssenkrupp prepares steel division for spin-off – CEO GMK Center",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "16a2d598117b",
+   "title": "PKP Cargo subsidiary seals creditor deal while parent remains mired in debt dispute",
+   "original_title": "PKP Cargo subsidiary seals creditor deal while parent remains mired in debt dispute",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYUlqRXRWdXdhOHlyWTJDdlJzYmZnVmpMUENoSm9uYTkzb3dteTFiMGM5TDhHY01vWWtvRXJGQWMwakZCcktRTU9KeHdYVFRyZ0U5eWhqRGtpdU02Y1lKN0tneko5OGdtNjllNDdCQ0tObUthQldBcUhvUFIza3ZJcFRxSzV4SkpoeXk0OFRqTTlrZGF6bjZBRnpWRGpuRmdOelB4cjVpc2laQ2JDNzJ6aS11eHN1Umo2Z2NHbmdKTEU5eTNhTmhoSFQ0YkFCeWFF?oc=5",
+   "source": "RailFreight.com",
+   "published": "2026-10-29T13:02+00:00",
+   "added": "2026-10-29T16:28+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "pkp cargo"
+   ],
+   "summary": "PKP Cargo subsidiary seals creditor deal while parent remains mired in debt dispute RailFreight.com",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
    "summary_method": "feed"
   },
   {
@@ -198,6 +307,33 @@
    ],
    "summary": "COSCO SHIPPING Ports Announces 2026 Third Quarter Results The Manila Times",
    "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "f2a1c6156ff7",
+   "title": "Sanctions, Strategy, and Middle East Logistics Advances",
+   "original_title": "Sanctions, Strategy, and Middle East Logistics Advances",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTVHZy1NUThVZ0hRWHhPLU1ieHJTcGFPb2YyaEMySGVkZVgwX3R5WEJWdFVsVm1ULXlOMFdjUVhWMFA0bGcwcGtENE5QdmZMeFNzN2xfNldpME5KMnpDTUJlWjhac0RMT1RjeWRFWlVkcHNKVDgwRkhvYmxFUDRDOGF3VENNNlJ5UWl2eTR0MTZLclAxclpCTFFpWG8?oc=5",
+   "source": "Inbound Logistics",
+   "published": "2026-10-29T12:15+00:00",
+   "added": "2026-10-29T16:28+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "logistics",
+    "sanction"
+   ],
+   "summary": "Sanctions, Strategy, and Middle East Logistics Advances Inbound Logistics",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -372,6 +508,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "348d00818cb2",
+   "title": "East of Suez: Dubai crude steadies, Asia gasoil weakness continues",
+   "original_title": "East of Suez: Dubai crude steadies, Asia gasoil weakness continues",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUG9pdGoyWUxkaHhwbkZaQXNKVWc1SlBiRklibkdjaW1iajNzQmdzaGlnUVRyT1NqV1VrWWhvalpaVlZlS2VtcGJ1MndaQ2lOUVNaazlXR0ZUV0R2aHB0ZDItQmNMVGZSTWNqVS1hZ0VNYXNMOWp0c3kwTlNIeVZOeVRBOXd0dmVBbm0xeTRJcGhTSERuNDEtVVJTcWdQbFBTUV9NY3JOY2lmUkU?oc=5",
+   "source": "Quantum Commodity Intelligence",
+   "published": "2026-10-29T11:48+00:00",
+   "added": "2026-10-29T16:28+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "commodit",
+    "crude",
+    "suez"
+   ],
+   "summary": "East of Suez: Dubai crude steadies, Asia gasoil weakness continues Quantum Commodity Intelligence",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "9387ae6bb7d8",
    "title": "The cold chain just got weaponised – logistics is exposed",
    "original_title": "The cold chain just got weaponised – logistics is exposed",
@@ -484,6 +648,34 @@
    "summary": "Kuang Hua VI-class missile boat is seen during an annual military exercise ahead of the Lunar New Year, in Kaohsiung, Taiwan, January 29, 2026. REUTERS/Ann Wang TAIPEI, Oct 29 (Reuters) – China has more than 50 navy and other official vessels operating in a wide swath of sea stretching from southern Japan down to Taiwan and off the Philippines, a senior Taiwan official said, calling the threat level “obvious.” Taiwan, which China views as its own territory, is stepping up efforts to issue details and maps depicting locations where Chinese warships and Coast Guard vessels operate. “We’re staying vigilant about their activities,” said Joseph Wu, the secretary-general of Taiwan’s National Security Council. “The simultaneous threat to Taiwan, Japan and the Philippines is obvious.” Wednesday’s remarks accompanied a map he posted on X showing the locations of 53 ships, 34 of them navy warships, including the aircraft carrier Liaoning. A senior Taiwan security official briefed on the matter said one thing to watch would be whether the Liaoning carrier group continues north towards Japan after drills in the Philippine Sea.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "51d7c2b9f138",
+   "title": "Central Asian railway plans open new trade opportunities for Pakistan's ports-INP",
+   "original_title": "Central Asian railway plans open new trade opportunities for Pakistan's ports-INP",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaXZ0VGVKS3NUbzExRVEwWU5HV24xa2pmeFNTRDh5cWd5a0F4MmplU19Kd05CeEpaa3NLa3A3SnpRX0FBaGhPVV9qbEhKVlNwaWwwY2FScTBTeExpSHlRdHRFZ2lCaDB3a0FrUUxkYjV1V0lvdXRYYXBvQUNBbkVVX3FLaDhzcU85eE9lZG9TOUE2S2xVZEtva2ZnVXlYUmo4LXlqdWdzZmFOUGFHS0IxaHFqQkMwUFJoenNvSmYteFdpVjVZelE?oc=5",
+   "source": "Independent News Pakistan",
+   "published": "2026-10-29T11:17+00:00",
+   "added": "2026-10-29T16:28+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "railway"
+   ],
+   "summary": "Central Asian railway plans open new trade opportunities for Pakistan's ports-INP Independent News Pakistan",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "cb817030b942",
@@ -2586,6 +2778,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "f59b9e7882d6",
+   "title": "EU scraps Canada associate membership offer after four nations object",
+   "original_title": "EU scraps Canada associate membership offer after four nations object",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWV9DM1l1Vlk0UGk1dnZzaXgwRVBTRmJMcVF2YjZYdmNIYXV1eFcwc1VJdjFDODVwNzhoQnc3STc0R2puRnYySG9CeWE1a3VKU0JuWEpmSGcwbGFjV2FvVHB3WXVhTFg2UlU5RUxoWmtGR1djd19vNmxWSVhtOThzeS1adGpuQ202TzhRLU94bGQzZThfRFRYc2lvWk44QUhMbW1qRFhVcDJnNm96Mi0tYUpTOEpJalA2?oc=5",
+   "source": "scanx.trade",
+   "published": "2026-10-28T19:45+00:00",
+   "added": "2026-10-29T16:28+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "EU institutions",
+    "North America"
+   ],
+   "tags": [
+    "eu ",
+    "scrap"
+   ],
+   "summary": "EU scraps Canada associate membership offer after four nations object scanx.trade",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "07b35ab4c221",
    "title": "Los Angeles, Long Beach Ports Identify LNG and Methanol as Leading Alternative Marine Fuels",
    "original_title": "Los Angeles, Long Beach Ports Identify LNG and Methanol as Leading Alternative Marine Fuels",
@@ -3306,6 +3525,35 @@
     "vessel"
    ],
    "summary": "Black sea shipping under fire: Russia claims drone hit on vessel bound for Chornomorsk Business Upturn",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3baa7332b5a1",
+   "title": "The Russian Federation has shipped more than 360 thousand tons of grain to Nigeria since July 1 - ИА Ореанда-Новости",
+   "original_title": "The Russian Federation has shipped more than 360 thousand tons of grain to Nigeria since July 1 - ИА Ореанда-Новости",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVmc3ZFBybmtZODVTdUEtT2ZBeHZzdVA4OUszcktDMXYxRVNETkwtVFAyZU04QnlTZDE0cWtqYm0zTnpoSVlxeEdaeW9PWlFfSjlLa01DRU1tMHFvNVdDd0htNm5wRVA0YjlreDkxUmgwYnh6S3gzTnprcW9CUmdrNF9KY2cyUkMwS1dYaVdHb2YwQUdXc1NldUFkSUM4N2tSNmhxYVZhSW1XNGVtNjFyUFQzb1BBZ25pLU9Rc0VscUk3ZU01TTVoZ20ybkdVRWwwSThBUzFKMjBJUQ?oc=5",
+   "source": "ИА Ореанда-Новости",
+   "published": "2026-10-28T15:19+00:00",
+   "added": "2026-10-29T16:28+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Russia & Belarus",
+    "Africa"
+   ],
+   "tags": [
+    "grain",
+    "russia",
+    "russian"
+   ],
+   "summary": "The Russian Federation has shipped more than 360 thousand tons of grain to Nigeria since July 1 ИА Ореанда-Новости",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
@@ -5601,6 +5849,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "bd32b3fd1836",
+   "title": "Canadian ports key to export drive",
+   "original_title": "Canadian ports key to export drive",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY2xHYU5WUVQxR2szV3h3RHUzZWJDeXZQeENQdk4zcUxFLUJxaWctU0t2UUFIZWZKY2FfbVp0R19nSnNWX1NVMHlhd1huVHUzejFDUUxfRlJERnZuQzNvV203WHU4SExHYUJvT3I5WTNDM0poRml0RVlUSEtGOUtWLWczT0ZJTUE2RnJLbkJ4eFI3NVBh?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-28T08:04+00:00",
+   "added": "2026-10-29T16:28+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Canadian ports key to export drive WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "070c0769508d",
    "title": "Adani Ports' global biz sprints, but home is still where the money is",
    "original_title": "Adani Ports' global biz sprints, but home is still where the money is",
@@ -5754,6 +6028,33 @@
     "steel"
    ],
    "summary": "Egypt’s NSF to supply 4,500 mt of structural steel for Saarstahl plant in Germany Металлургпром",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "de9288449860",
+   "title": "Wheat market eases as MATIF, CBOT soften and Black Sea basis diverges — CMB News",
+   "original_title": "Wheat market eases as MATIF, CBOT soften and Black Sea basis diverges — CMB News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOWsyUFEzdEdZSExlN0FSME50VzY0TVNGYmVSSkZSNTNwTnJRQWxmZGZHb3RWdzdyLXFyczVjb1F6c0V3NTctX0hOclcyUFJCb1REMVhHd0Rla0JiVHBqUnRYZmFySU1NUmhVdzFTZG1PTTZYcDZ2RlhjdzVZSjZDdUcyOTkyNUFycWhud3RFUy1BWWRTbzJ6eDBRMllNZw?oc=5",
+   "source": "CMB News",
+   "published": "2026-10-28T07:40+00:00",
+   "added": "2026-10-29T16:28+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "wheat"
+   ],
+   "summary": "Wheat market eases as MATIF, CBOT soften and Black Sea basis diverges — CMB News CMB News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16216,307 +16517,6 @@
    ],
    "summary": "Drewry Warns Container Shipping Faces Unavoidable Overcapacity as Suez Return Adds 1.6 Million TEU Breakbulk.News",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0909743c30eb",
-   "title": "The US announces Middle Corridor commitment, but relies on private investment to develop it",
-   "original_title": "The US announces Middle Corridor commitment, but relies on private investment to develop it",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcXoyUEZTWURqclo4Y19PdlV1U1NHR2tfVXpJZ2lCSHZDT20xX0YtRFZoVDYxWnlKNktfUzVCeDMtMERNQXg5V28zR0syUG1xRllkaHkxMGd0U0hKZUJMeFhpaXZ5S1VfUlNYUkhwSjRzajN1QnBXV2J4Rm53Nmp6ZzAyejlaZnlCQUh2WUN1NDc4aGJSYkpxUHhQdTJXU0JzcmZMa2RUdTVhclhtVEpjNk5qVDlGd0NjblRnVkV6LW9mTlhlNm9aMVBwRGR5dFRiS1Q3S0M0dnlmdw?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-26T09:44+00:00",
-   "added": "2026-10-26T19:57+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor"
-   ],
-   "summary": "The US announces Middle Corridor commitment, but relies on private investment to develop it RailFreight.com",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "2dbbb847c3df",
-   "title": "Great Eastern continues secondhand spending with LPG carrier deal",
-   "original_title": "Great Eastern continues secondhand spending with LPG carrier deal",
-   "url": "https://splash247.com/great-eastern-continues-secondhand-spending-with-lpg-carrier-deal/",
-   "source": "Splash247",
-   "published": "2026-10-26T09:38+00:00",
-   "added": "2026-10-26T09:48+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "mna"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "acquire",
-    "carrier",
-    "fleet",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "India’s Great Eastern Shipping has struck another secondhand vessel deal, agreeing to acquire a 2015-built very large gas carrier as it continues expanding its diversified fleet. The Mumbai-based listed owner said that it has contracted to buy the approximately 82,000 cu m vessel, which is expected to join its fleet during the December quarter. The company did not disclose the ship’s name, seller or purchase price. The latest purchase follows an active period in the secondhand market for Great Eastern, which has been renewing its tanker and bulk carrier fleets through a series of acquisitions and disposals. The tanker fleet includes five crude carriers, 16 product tankers and four LPG carriers, while the dry bulk side consists of two capesizes, 10 kamsarmaxes, one ultramax and two supramaxes. The owner also has agreements in place to acquire two secondhand kamsarmax bulkers, with those transactions expected to close during the same quarter as the latest VLGC purchase. Separately, the company has committed to a newbuilding suezmax scheduled for the second half of its 2028–29 financial year. Great Eastern’s continued buying follows a string of secondhand transactions this year. By September, earlier coverage had already tracked more than $200m of expenditure on secondhand tonnage, alongside disposals of older vessels.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "8f19b6ec57da",
-   "title": "Green Steel: EU Central Planning with a Stamp of Origin",
-   "original_title": "Green Steel: EU Central Planning with a Stamp of Origin",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56STJEd1JSTmxpQlptdGdkbHUzTDdpVEw2MTVZN09sb21fNTloOWRiYTQzc3J2dW5jWWZ4MnlBa2FzQ3A3N3FXMHRqNDFPcnYwLXhvYW1LM2tQUW84M3NmbER5aUc1bEdYbF93ZlBHQ0dEaUhCU0ViNy1R?oc=5",
-   "source": "Steel and Stainless Steel News",
-   "published": "2026-10-26T09:34+00:00",
-   "added": "2026-10-26T17:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "EU institutions"
-   ],
-   "tags": [
-    "eu ",
-    "steel"
-   ],
-   "summary": "Green Steel: EU Central Planning with a Stamp of Origin Steel and Stainless Steel News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b0959b59b56b",
-   "title": "Romania ‘disciplines’ rail freight: no more “warehouses on wheels”",
-   "original_title": "Romania ‘disciplines’ rail freight: no more “warehouses on wheels”",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUk5yZmNqTWRKbEtta1JFdkNwOTNoQTJpc3RXYm1hRGVXeFFCZjMyWElDdWFVR3pxVmdyOGRIV1RFZUhzTnZFZnBVN2ktQzd0LTZnaTRNNkcxX2cxeWE5LXhmVVVQN04yZUp0MDVnWE9lVTBWWk1ST21wRHY0QlU1dmRZZEdDNlVyeW1xcWNRekdacm5uTElQS0RpNkIwRjVybENaaHRZVzlFeUJmangyTWw3RQ?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-26T09:21+00:00",
-   "added": "2026-10-26T11:12+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "rail freight",
-    "warehouse"
-   ],
-   "summary": "Romania ‘disciplines’ rail freight: no more “warehouses on wheels” RailFreight.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0ffbc3a3e2e7",
-   "title": "Khalifa Port climbs to 34th in Lloyd's List Top 100 after 21.6% throughput rise",
-   "original_title": "Khalifa Port climbs to 34th in Lloyd's List Top 100 after 21.6% throughput rise",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2R2cXNTN0pEVkk5b3d4SUdTNmJRenNMejdJNGFkVWw4TFEyZTJndzZlUXFwaU5scTk3ejg0WnNjX2xuVmZub3dCbVNpQUducUppQnlYcGdkT05PWngtNkJkc3hEWW43RFE3cUhHWHJBUFA0eVJyNjZVZTRqd2VPQm1fbVpPdXVxN1VUSmZaSzZQaFA3bUVudUNOWGhZZ29ubS10OA?oc=5",
-   "source": "Container Management",
-   "published": "2026-10-26T09:13+00:00",
-   "added": "2026-10-27T03:24+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port",
-    "throughput"
-   ],
-   "summary": "Khalifa Port climbs to 34th in Lloyd's List Top 100 after 21.6% throughput rise Container Management",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a08a3edccefa",
-   "title": "U.S. toy retailers face price surge as tariffs and shipping costs squeeze margins",
-   "original_title": "U.S. toy retailers face price surge as tariffs and shipping costs squeeze margins",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMi11U0gweld2U3k4bGFJQm9UZURfTldGWDl1aGtzM09JRnZ2dy0zeVN5RlB3Zm4zR2hHSWdIb2E0RXU2cmhOdjJKWkdHdjRMVnkzTngzM3g0bGxKSHZIZzM3TkxOZ1ZsLU1BWno1T2R2blNVM3haVVFQQ1VVaFExU0FUU3dVMmpQWUMzWmVFWnVqZ3pja3FubE83OTdQeTg?oc=5",
-   "source": "Traders Union",
-   "published": "2026-10-26T09:07+00:00",
-   "added": "2026-10-26T17:07+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "shipping",
-    "tariff"
-   ],
-   "summary": "U.S. toy retailers face price surge as tariffs and shipping costs squeeze margins Traders Union",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bfa250c26f32",
-   "title": "PKP Cargo suspends procedure to raise debt-repaying capital",
-   "original_title": "PKP Cargo suspends procedure to raise debt-repaying capital",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObFJjSFQwd3ZfTTFZRUhzUEVlUVI0SmY4bldlM0M5d09FNk5YbkZiTHlBVmo2anl2Z0pwbTVpSHY3b2lsM1QxdjIxbW4zQzJaT0J4dkdkbU0tSE9ZVUtWXzBfQWlPQWNFaVhpQ3BVR3FKM2EwNWtMSnkzTG42QkNScWZjdWhjOXU1RUJJeWFLc01aaWhYQzdiNWRZakZqeFBCM0ZCUG9hOG5sM3k2?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-26T09:04+00:00",
-   "added": "2026-10-26T15:19+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "pkp cargo"
-   ],
-   "summary": "PKP Cargo suspends procedure to raise debt-repaying capital RailFreight.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "842b3a68e9be",
-   "title": "More cars, containers, and cranes: What to know about ‘the largest expansion’ in Philly port’s history",
-   "original_title": "More cars, containers, and cranes: What to know about ‘the largest expansion’ in Philly port’s history",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOGQ4QmJxN09rUU55X2dyWjhqMnpjSlR5V2otYmtzMWhhRlh5MmUtS1NkdDZKR3NWVmVqWndmRDJGQUJkb3NGRnVtYXMtVlBLMUhDOFFxLXFFVm9vZ182bmV4dFMtMVVmM0dUZ2J6d0dnRmZfaE5TdVhNbDJrdlZwNGlPOTdmOWNyRTBzUTdGWllrYzZVTmFoWkg4cW9mYTdlOXdoOFBibzBhMXRNR2w1OA?oc=5",
-   "source": "Inquirer.com",
-   "published": "2026-10-26T09:01+00:00",
-   "added": "2026-10-26T09:48+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "cranes",
-    "port"
-   ],
-   "summary": "More cars, containers, and cranes: What to know about ‘the largest expansion’ in Philly port’s history Inquirer.com",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d98d7a550e01",
-   "title": "Indonesia Readies Contingency Measures Against EU, UK Steel Tariffs",
-   "original_title": "Indonesia Readies Contingency Measures Against EU, UK Steel Tariffs",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdWQ0Y2tRZXpwb0g1OFE3X3VBdS14d05aTk9URUluNlp4M0tDTlphX0lVc0FqX2RKTXVicU1VdTR1QVpTMVZyZG5pMjdVOXVFYUZFZXo4Z1YtdVZqd1ZLaENOeldnOWoxY001aEtUbFdPamc4QzVOWmhwaFRGV0ZHWHA5MmpXYXViWl85cw?oc=5",
-   "source": "SME & Entrepreneurship Magazine",
-   "published": "2026-10-26T09:00+00:00",
-   "added": "2026-10-26T13:36+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 7,
-   "regions": [
-    "Western Europe",
-    "EU institutions",
-    "Asia"
-   ],
-   "tags": [
-    "eu ",
-    "steel",
-    "tariff"
-   ],
-   "summary": "Indonesia Readies Contingency Measures Against EU, UK Steel Tariffs SME & Entrepreneurship Magazine",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "43b5f584db75",
-   "title": "HIPG sees stronger opportunities as container shipping’s return to Suez gathers pace",
-   "original_title": "HIPG sees stronger opportunities as container shipping’s return to Suez gathers pace",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWpBelkwS2ZkX1lIdGZjYTA1UGxFdUIzX2xMSVp5YU9uNkV2bFdQNDFfTVFkUnJXMGhCdU9VOC1fN2pXektZM0duend1OE1WaDc1b3FOVUdQeGdQMnpQR0NiWEY4Tld1NGMxY1pNdkNMZHcyY1RNMDQ2TlBzOWt2N0FXTm1tWVhDd0xmLVF0bk1hQ0s4UnBCTUxGZzVyR2kydDVXbi12cnduNW00cnBjR1VHVHQ5dw?oc=5",
-   "source": "Adaderana Biz English",
-   "published": "2026-10-26T08:54+00:00",
-   "added": "2026-10-27T04:05+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "shipping",
-    "suez"
-   ],
-   "summary": "HIPG sees stronger opportunities as container shipping’s return to Suez gathers pace Adaderana Biz English",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "da6b9e84bfa0",
-   "title": "SSA Marine bolsters mobile harbour crane fleet at Manzanillo terminal",
-   "original_title": "SSA Marine bolsters mobile harbour crane fleet at Manzanillo terminal",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0ZuTUxFNTYxdWtPNVd1SGxjb0dFV0U3dnRnUkpsLWJEQTVxaWIyaUhzVHhMR05jVk9XbHBnbmxjdWZKcDVZY1FvSXVueWpNam9TSnFYeGJaS0tFeUdveEpxdjd6NWo1MkVIc1BsUlE3U19heENxVG1id3RFVGpqbmhFbE1RUTN4Qlh3anF3SmxwLUZLS09jbEZqcHJseWU5ajIzaldWUnBnOFJNNi1NNVhqRUxjS0tSOEpxTGxmRldFNHpsQ0hrdUpwbEMtOEk?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-26T08:50+00:00",
-   "added": "2026-10-26T09:03+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crane",
-    "fleet",
-    "mobile harbour crane",
-    "terminal"
-   ],
-   "summary": "SSA Marine bolsters mobile harbour crane fleet at Manzanillo terminal WorldCargo News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   }
  ]
