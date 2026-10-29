@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T11:51+00:00",
+ "generated_at": "2026-10-29T12:33+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,65 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "86aba44999ef",
+   "title": "SFL adds $365m newbuild trio with $333m in charter cover",
+   "original_title": "SFL adds $365m newbuild trio with $333m in charter cover",
+   "url": "https://splash247.com/sfl-adds-365m-newbuild-trio-with-333m-in-charter-cover/",
+   "source": "Splash247",
+   "published": "2026-10-29T12:13+00:00",
+   "added": "2026-10-29T12:33+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "mna",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 13,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "acquire",
+    "ammonia",
+    "carrier",
+    "charter",
+    "shipowner",
+    "teu"
+   ],
+   "summary": "John Fredriksen-backed SFL Corporation has agreed to acquire three newbuildings for around $365m, securing long-term employment that will add at least $333m to its charter backlog. The New York-listed shipowner said the latest investment covers two 8,800 teu containerships scheduled for delivery in 2027 and a 93,000 cu m dual-fuel very large ammonia carrier (VLAC) due in 2028. The two containerships have been fixed to an unnamed major liner operator on minimum eight-year charters, with extension options for another four years. The VLAC will enter a minimum five-year charter with a major commodities group, with options to extend employment by another two years. The latest agreements take the company’s additions to fixed-rate charter backlog this year to more than $1.6bn. The investment follows SFL’s move into the VLAC segment earlier this month, when it ordered two 93,000 cu m dual-fuel vessels for about $216m, securing long-term charters with a European investment-grade oil major worth at least $162m. In early October, SFL agreed to sell four LR2 product tankers and three suezmaxes to commodities trader Trafigura, a transaction expected to generate approximately $275m in net cash proceeds and a $175m book gain. The seven vessels were acquired in 2021, with the disposals marking another stage in SFL’s shift towards contracted shipping assets.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "e065bf0c9386",
+   "title": "Analysis: CH Robinson spoils the bull party – tests remain",
+   "original_title": "Analysis: CH Robinson spoils the bull party – tests remain",
+   "url": "https://theloadstar.com/analysis-ch-robinson-spoils-the-bull-party-tests-remain/",
+   "source": "The Loadstar",
+   "published": "2026-10-29T12:06+00:00",
+   "added": "2026-10-29T12:33+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "forwarding",
+    "trucking"
+   ],
+   "summary": "CH Robinson grew trucking volume, profit per load and its divisions’ operating margins again, yet its shares fell 11% to a 52-week low as investors weighed a small trucking miss, a jump in claims costs, a 2027 insurance renewal still under negotiation and – most notably – a $5.8bn bet on RXO. Forwarding, once seen by some analysts as a sale candidate, is earning well above its target, though its AI gains so far show up more in costs ...",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "ca893d80c5ab",
    "title": "Korean carrier Namsung returns to China for larger boxships",
@@ -42,6 +101,31 @@
    "summary": "South Korea’s Namsung Shipping has been linked to another containership order in China, with brokers reporting a deal for two firm 7,100 teu vessels at Dalian Shipbuilding Industry Corporation (DSIC), plus options for another pair. Shipbroking sources said the CSSC-owned yard had secured the contract, with deliveries expected between 2030 and 2031. No price or propulsion specifications have been disclosed. The reported agreement would mark Namsung’s first order at DSIC and its second shipbuilding deal in China this year. The Seoul-based carrier entered the Chinese newbuilding market in March, booking two 4,300 teu containerships at CSSC’s Huangpu Wenchong Shipbuilding. The order formed part of a wider four-vessel agreement also involving fellow South Korean operator Dongyoung Shipping, which contracted two 1,900 teu feeders. Namsung’s latest reported 7,100 teu contract represents a significant increase in vessel size from that earlier order. The carrier, established in 1953, operates primarily across intra-Asian liner trades linking South Korea, Japan, China and Southeast Asia. Its current company website identifies 20 operating vessels, with its network extending across multiple regional services.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "6c8e17c3dfcb",
+   "title": "Kalmar’s Q3 orders rise as North American demand recovers, but profit slips",
+   "original_title": "Kalmar’s Q3 orders rise as North American demand recovers, but profit slips",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUWhUa2YybVRmc0tXaHhJQ3ZWMFFINXctb3F0eFVlWUI5Y3pZdHJoQlBDRGp6cFZmUF9wc19weHNTMUtZVzFLaHF5Mi1wX3B2aC1Ua3pXWG1uaEQtOTFXbzd6WHdYXzN1WnBNOGZ3VUxEdGpTa1NLbFo1YkRiMWNPLXB1ZnczUWFUWFBENjUwUG5NUloxaDh1elAzWU40anZ2VnR4bzZORTVwMDB2NVl6X05QS1pKTFBQY0E?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-29T11:50+00:00",
+   "added": "2026-10-29T12:33+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "kalmar"
+   ],
+   "summary": "Kalmar’s Q3 orders rise as North American demand recovers, but profit slips WorldCargo News",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
   },
   {
    "id": "9387ae6bb7d8",
@@ -443,6 +527,56 @@
    "summary": "Brazilian soybean meal export prices posted their steepest daily decline since mid-April on Oct. 26 and fell to their lowest level since late August, as domestic markets were rattled by the surprise reelection of President Luiz Inácio Lula da Silva. Platts, part of S&P Global Energy, assessed FOB Paranaguá soybean meal for December shipment at $384.92/metric ton on Oct. 26, down $14.22/mt day over day, the largest daily decline since prices fell $24.58/mt on April 16, when ample supplies in both Brazil and Argentina weighed on the broader market. The decline pushed spot FOB Paranaguá soybean meal prices to their lowest level since Aug. Exports Despite the decline in FOB prices and the resulting improvement in Brazil’s competitiveness in the international market, sources said the country’s soybean meal export program was unlikely to see significant changes. Analysts at S&P Global Energy CERA expect Brazil to export 26.50 million mt of soybean meal in the current 2025-26 marketing year (January-December), rising to 28 million mt in 2026-27, with planting for the new crop underway. Preliminary data from Brazil’s Foreign Trade Secretariat show soybean meal exports totaling 1.10 million mt during the first 11 working days of October (out of 22).",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
+  },
+  {
+   "id": "3394a85ca156",
+   "title": "AGG, CentrePort and DP World sign Port of Churchill MoU",
+   "original_title": "AGG, CentrePort and DP World sign Port of Churchill MoU",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTR4cTY5bnNUX2VQbC1GYTRqNUt1TXZfY2pjNVlqTVowLTQwT1hTNlBYWWxmWWU4dlpINEI0c1BHeG1PRXg1eldONXZSS256UVdnUW9jd2tOTElsR3BPSjR0N3EzaE5PSFdUUXN1WWpYU2hiOTNDSWxxZUhMUVBORGYtUTV2RWk5UlBNSk53cm9SeGFSbjhzcHgzRHp3Z1l1?oc=5",
+   "source": "WorldCargo News",
+   "published": "2026-10-29T10:49+00:00",
+   "added": "2026-10-29T12:33+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "AGG, CentrePort and DP World sign Port of Churchill MoU WorldCargo News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7361c43e5eb6",
+   "title": "Morocco plans $815m Tanger Med expansion as new port nears opening",
+   "original_title": "Morocco plans $815m Tanger Med expansion as new port nears opening",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUHBRaVp2OTRQQy1VX0xidjljNkxwTnlRelFBV1c1RDRhekVaeGxybkkycjBPLU1zVGg5dWtfZ3RZeGhROHNTRXFHS2hkMmxHckxmdkhNbXo1a2xjRjhRcTRZSFJnSE5NQVhhdUJiQl9rdTRUVERqeDBQaXZ3cE9iMGtlbDNXLS1pQkRCN1V3cXlQamdkbnNmUTBCc0xWY1UwRmpRcDN4N0VQVDA?oc=5",
+   "source": "Arab News",
+   "published": "2026-10-29T10:48+00:00",
+   "added": "2026-10-29T12:33+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Africa"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Morocco plans $815m Tanger Med expansion as new port nears opening Arab News",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "bcefbdd94a3b",
@@ -10303,6 +10437,34 @@
    "summary_method": "feed"
   },
   {
+   "id": "e7b20cd01112",
+   "title": "Budget fertiliser tariff cuts and mileage relief offer respite for growers ahead of Brussels summit",
+   "original_title": "Budget fertiliser tariff cuts and mileage relief offer respite for growers ahead of Brussels summit",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnR6NmY5aF9BTlA2aWRoaEZKMldic28xQ1Y5NnQxM3QxTmxSMDFEZTJBamhuVENueV81THdGaVRWbjhnM2V0eXhCZVVWME1PZExPbTlFYW9SaG8zOTB5aGozRU9CdVpfMFdBSlFtNWpTSWNsNEVHcnA5WGkzdEl4SkxfMDRPMDZ3RUtaQUU0b3hsTS1DMzJVTWVNMDNDY0RnYmkwdzI3VHFBa19oX2VYMnNkQjJBU1czcHh3RFVENC1iZzRLM09RVUE3VEMzZUxBTGd5RFEwT1E?oc=5",
+   "source": "Horticulture Week",
+   "published": "2026-10-27T08:49+00:00",
+   "added": "2026-10-29T12:33+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "regulation"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "brussels",
+    "fertiliser",
+    "tariff"
+   ],
+   "summary": "Budget fertiliser tariff cuts and mileage relief offer respite for growers ahead of Brussels summit Horticulture Week",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "37b6f6db3efe",
    "title": "Swiss Steel targets 1 million mt of annual low-carbon steel supply from Canada starting in 2030",
    "original_title": "Swiss Steel targets 1 million mt of annual low-carbon steel supply from Canada starting in 2030",
@@ -11500,6 +11662,32 @@
    ],
    "summary": "Titan analysis shows FuelEU pooling propelled liquefied biomethane demand Cyprus Shipping News",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2c93ee5f68f9",
+   "title": "Plantation set to improve on higher output, CPO prices; higher fertiliser costs may temper earnings growth",
+   "original_title": "Plantation set to improve on higher output, CPO prices; higher fertiliser costs may temper earnings growth",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZjA5dE1DZHlqYmthN0hIckt2S2QzdnF2dEx3NWNPeWFOM1h6Y2tTMGJ6UE9lWE04ZVpXakZBUllOMjVWSFB2bDc0OTdKNXBHaC1NTlBIeERDMVptZjdOM2hmamo3RWhYV1MzWFVXS1RUdkxzVmQ4QzBSbzRJcVJmNXI5REl0YVVvbUlNZVowQzZ2V1JDUl8xcE1mU1dCa3VhSWlQcU0xWGFpVnFiY1daekZwRjdLaFd3cHVGSVE0T3U1cmFZUmZqaDhB?oc=5",
+   "source": "Focus Malaysia",
+   "published": "2026-10-27T03:36+00:00",
+   "added": "2026-10-29T12:33+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "fertiliser",
+    "prices"
+   ],
+   "summary": "Plantation set to improve on higher output, CPO prices; higher fertiliser costs may temper earnings growth Focus Malaysia",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -12712,6 +12900,34 @@
    "summary": "The orderbook for pure car and truck carriers (PCTCs) has surged amid booming Chinese vehicle exports and elevated charter earnings, raising concerns that an expanding fleet could outpace demand as European restrictions on Chinese vehicle imports threaten to curb a key source of cargo growth. Greek brokerage Intermodal said last week that 82 PCTCs were contracted in the first nine months of 2026, compared with just nine vessels ordered throughout 2025 and a 10-year annual average of 35 vessels. The orderbook-to-fleet ratio has consequently risen to 26%, well above its historical average of 14%, pointing to a substantial expansion in carrying capacity over the coming years. Fuelling the surge in newbuilding orders is the growth in Chinese vehicle exports, which totalled 8.2m units in the first nine months of 2026, up 66% year-on-year. China’s rapidly expanding automotive exports have kept charter rates elevated, with ships being fixed for $95,000 per day, near levels last seen in 2024. Domestic NEV sales contracted by 9.4% year on year, reinforcing the industry’s reliance on exports to absorb production. In October 2026, the EU and China reportedly reached a preliminary understanding on proposed restrictions covering Chinese-built conventional and plug-in hybrid vehicles.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "af66f8643c5a",
+   "title": "India and Rotterdam port authorities explore digitalisation to speed up cargo movement",
+   "original_title": "India and Rotterdam port authorities explore digitalisation to speed up cargo movement",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSnVMQkZyZmU3WkdFbVVzUEhUT2ZLYVgwTGozUTdRcVV4YlJOSXFGYnloNE91S0F3X2hNMmw0ZVpoUWJCVVlfQjJ5czl1bmN2ek1uMlRqaERoZ0xxNjNfbU1CMlV2bHZJQlltUGlDaVhkWkpyUUNiWG9Ma3plekVzUVVsdkR5YkRac0ZWNngxVVVtZFNiSTZGVFkyUTN0NzBqeFFSc1NHYWtSMjVaUWprR0NfRW9FTk5VT2ZpRlhNN2NjcDVIdTNLSGZTXzJwWnBpaUhqLQ?oc=5",
+   "source": "Prop News Time",
+   "published": "2026-10-26T17:42+00:00",
+   "added": "2026-10-29T12:33+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe",
+    "Asia"
+   ],
+   "tags": [
+    "digitalisation",
+    "port"
+   ],
+   "summary": "India and Rotterdam port authorities explore digitalisation to speed up cargo movement Prop News Time",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
   },
   {
    "id": "e5fcc82bbbd2",
@@ -16316,232 +16532,6 @@
    "summary": "International Port Experts Visit ZPMC for Technology and Standards Exchange StreetInsider",
    "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
-  },
-  {
-   "id": "e5faec85df35",
-   "title": "Ceny zbóż i przełom w Porcie Gdynia. Terminal Zbożowy znów działa",
-   "original_title": "Ceny zbóż i przełom w Porcie Gdynia. Terminal Zbożowy znów działa",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTnhlQlVTZGY3aXBVYlY1NFE3UzdmME5rdFJGbU5pejZKQlRvZEgwT2N5TGJzQXN3WGJVVWVqV0dHYWZCbDFfNWRTVGF1NV9fM1Yydi1lbGN2eXJGdGJ3R005Y19TNUhOTXd4dThZT0RKVG1qSGFWeklTczB4NGdGdVpDdGcyNXZ4UkdMQTY1dw?oc=5",
-   "source": "Agro Profil",
-   "published": "2026-10-26T07:00+00:00",
-   "added": "2026-10-28T15:23+00:00",
-   "lang": "pl",
-   "category": "commodities",
-   "categories": [
-    "ports",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Poland",
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "gdynia",
-    "terminal",
-    "zboz"
-   ],
-   "summary": "Ceny zbóż i przełom w Porcie Gdynia. Terminal Zbożowy znów działa Agro Profil",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports. Involves a Polish port.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "afbe6e745b31",
-   "title": "New African shipping company targets fleet of 50 ships with Chinese backing",
-   "original_title": "New African shipping company targets fleet of 50 ships with Chinese backing",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ1YtTVNvU0didlUzYkgwT0NoallzNWR1ay1yT1Q0bk9DeEh2ZWRGSXdaMmZyQUdBQ0dFR3c4NkZ6SHppNkwzczdPckloTWJiX2FHYndQdzhuTmpjdnBwMW9OY244TVlzQ1huYldoY2lkQ3ZoUFIxNWFZdGItbHpjN202N3h6VmMtX1ZMYWZyMk9DbTV2Umlrb0d4cC1TZzVqRE0tajdFYjhEVElNR2NFSFhsSlBmWjhHV0RQX1pXVk9HeXZT?oc=5",
-   "source": "TradeWinds News",
-   "published": "2026-10-26T07:00+00:00",
-   "added": "2026-10-28T22:28+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia",
-    "Africa"
-   ],
-   "tags": [
-    "chinese",
-    "fleet",
-    "shipping"
-   ],
-   "summary": "New African shipping company targets fleet of 50 ships with Chinese backing TradeWinds News",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b5d7236400d9",
-   "title": "Kazakhstan and UAE Advance Trans-Afghan Railway to Connect Central Asia With Pakistani Ports",
-   "original_title": "Kazakhstan and UAE Advance Trans-Afghan Railway to Connect Central Asia With Pakistani Ports",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNk9nQ240dm4xUFBneEdIVk1Kdmg1LXk0czdmNzJ6WHB1OU9STUdHS3ZNbWgzUFFPQnR2WkRPYVhjTHNmZEZyY0VkMjFzZ1JvX1ZZRUg3RV9uWkZwMExiVmxGWlp0cHRuZkxVZWRYVUVHZmRQS0xId1BIZmhSRHA3WTRIN2Vkb2NYdldzNnpVM3FYTmtHSWZsaE1uVQ?oc=5",
-   "source": "streamlinefeed.co.ke",
-   "published": "2026-10-26T06:55+00:00",
-   "added": "2026-10-26T08:13+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "rail"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East",
-    "Asia"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "railway"
-   ],
-   "summary": "Kazakhstan and UAE Advance Trans-Afghan Railway to Connect Central Asia With Pakistani Ports streamlinefeed.co.ke",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0e641e48e2e0",
-   "title": "Crude oil price prediction: is a $120 shock coming after Brent falls to $114?",
-   "original_title": "Crude oil price prediction: is a $120 shock coming after Brent falls to $114?",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRTU0SW5ReDdrY2t0VVZ5OEg1X2RHU3Z3dUZYcGg1ckpZdVJ0LWhUaWl0bmZETGlQZXdrYkIzRkhYQ3VRYVJCSUpCOXFyUmJ6Q25nd05HZUFvSXQ4bEE4cE92SUNqNENfUlhkQmlvdVFBa1JMSEhabnlRdGtNUl9YSEMwT1hJUEhONDlfazBPVlNRV0FlNDlFUGNZSVVXc2ROM1lnTm1JRnRsVThOVmhFY3J2TnJmMlVRLXZ1X2RKWlZLdw?oc=5",
-   "source": "Invezz",
-   "published": "2026-10-26T06:51+00:00",
-   "added": "2026-10-26T08:13+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "crude",
-    "oil price"
-   ],
-   "summary": "Crude oil price prediction: is a $120 shock coming after Brent falls to $114? Invezz",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "52e3535affca",
-   "title": "Russian thermal coal exports tumble",
-   "original_title": "Russian thermal coal exports tumble",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zNDd0eDZJWWNXOURqdl9QR01XUnc2TGFha2pEdF9vTlZWcUZsQXN3M3h5MnVGOFItcm1OeVE3VENIbjUzOHFtV2tVLUp0V3hMUnR6WUhSUUllbHp6ZHVva2M3MEppLW8?oc=5",
-   "source": "Latest news from Azerbaijan",
-   "published": "2026-10-26T06:50+00:00",
-   "added": "2026-10-26T21:10+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "coal",
-    "russia",
-    "russian"
-   ],
-   "summary": "Russian thermal coal exports tumble Latest news from Azerbaijan",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c711a2e3b443",
-   "title": "IndiGo, Air India Group to Shift Flights to Navi Mumbai From December, Clearing Way for CSMIA'S Terminal 1 Revamp",
-   "original_title": "IndiGo, Air India Group to Shift Flights to Navi Mumbai From December, Clearing Way for CSMIA'S Terminal 1 Revamp",
-   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVFVuaFhoaWUzQlQ0X0NOa1NNSW1Wc0JVT09wWEkxT21iTDF3SHlZOXo0b2lUTDBTZDdpM3MzdENBWWw5T1p4US1DeHllWXh1ZjZSLVIyZ0RFZDB2OU9ScFBGWGZ1UHUwSWZ4cW9LYk1ZYVVpdXFtUVZ5aE9mWXVldnY0U2hURzJmQkdaM0FpTFhkNWQyajhsRUs1cE1fTDRFVVB1V3ZMYUJkV3VzX0tDbkxVRklhaXhBVXBWdUtqcDdrMFRXTWxVSU53RjBJWlJMcWJPSWhyY05DbGpkQ0NOb29KcmctNTRETURGWXh0ZGQzRmFsQ29BX1phTGphYms?oc=5",
-   "source": "Gujarat Samachar",
-   "published": "2026-10-26T06:38+00:00",
-   "added": "2026-10-26T09:03+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "terminal"
-   ],
-   "summary": "IndiGo, Air India Group to Shift Flights to Navi Mumbai From December, Clearing Way for CSMIA'S Terminal 1 Revamp Gujarat Samachar",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "88109661188f",
-   "title": "Cyprus shipping faces costly LNG dilemma as IMO emissions battle intensifies",
-   "original_title": "Cyprus shipping faces costly LNG dilemma as IMO emissions battle intensifies",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGM4aDg4VnhOeWlmeW4tVDhtb3l4Ni1ZVVBfdlIxTGpWOXpOalZDdmRKR05nNmdDZFFRUVRiUmVZNG9QdXdlUGdEbllpNTYtZ3ZJX0lNRzJFVklGVnZHQnJRN1p5SFdZR19BMUZYXzRjT2VmY2JKcHpUazAyNy1IUUd6Rk9YRjllMl84OGp6MU9RRW0zMnVvb3hkUDlmMEpoTm1PdElKN0trSHd2bzdaUw?oc=5",
-   "source": "Cyprus Mail",
-   "published": "2026-10-26T06:22+00:00",
-   "added": "2026-10-26T17:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "lng",
-    "shipping"
-   ],
-   "summary": "Cyprus shipping faces costly LNG dilemma as IMO emissions battle intensifies Cyprus Mail",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0d49e8e1c988",
-   "title": "Trader Alkagesta enters shipowning with Turkish bunker fleet takeover",
-   "original_title": "Trader Alkagesta enters shipowning with Turkish bunker fleet takeover",
-   "url": "https://splash247.com/trader-alkagesta-enters-shipowning-with-turkish-bunker-fleet-takeover/",
-   "source": "Splash247",
-   "published": "2026-10-26T06:00+00:00",
-   "added": "2026-10-26T06:17+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "commodities",
-    "shipping"
-   ],
-   "priority": "high",
-   "score": 19,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "acquire",
-    "acquisition",
-    "bunker",
-    "commodit",
-    "fleet",
-    "takeover",
-    "vessel"
-   ],
-   "summary": "Malta-based commodities trader Alkagesta is entering shipowning through the acquisition of Turkish marine fuel supplier Energy Petrol, taking over an eight-vessel bunker fleet as it expands its physical fuel distribution business. The Orkhan Rustamov-led company confirmed on October 22 that it had agreed to acquire the Istanbul-based supplier in a transaction already approved by Türkiye’s competition authority. Financial terms have not been disclosed, and Energy Petrol is expected to continue operating independently. Energy Petrol, established in 1997 by Mustafa and Yeşim Muhtaroğlu, is an established bunker supplier in the Turkish Straits region. The company operates bunker tankers supplying marine gasoil and fuel oil, with its fleet including the 3,659 dwt Deniz M , the 2,818 dwt Energy K and smaller vessels serving the Istanbul market. Alkagesta estimates that it already supplies approximately 40% of Turkey’s annual 2.5m-tonne marine fuel market and around 75% of Malta’s bunkering market. The move follows the group’s expansion into physical bunker deliveries in Romania. Earlier this month, Alkagesta completed its first truck-to-vessel bunkering operation in Constanța, supplying more than 50 tonnes of marine gasoil. Its Singapore business has also expanded rapidly, reaching approximately 250,000 tonnes of monthly marine fuel trading volume during its first full year of operations.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
   }
  ]
 }
