@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T23:49+00:00",
+ "generated_at": "2026-10-29T00:24+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -63,6 +63,31 @@
    ],
    "summary": "Scan Global Logistics signs agreement to acquire OIA Global in its largest-ever investment Scan Global Logistics",
    "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "1572f2d1eb34",
+   "title": "Długie łańcuchy dostaw to duże ryzyko",
+   "original_title": "Długie łańcuchy dostaw to duże ryzyko",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkxhLWx6SV9rRGxPVDhSOGFLcWx1aHpabHVHRmxhX1lhUWpUVWU0UEZTNHh6MDI4cVBHajBIa19fQjlOVHA5d0N2WGNiOXpIbl9xOGU2ZjNQN1pGcU5IZ0ZKSmZ2OF8wZkwyamdRU19UZlJiQVI2WXJKQlJQYTA5TDBYYWowQTg?oc=5",
+   "source": "Rzeczpospolita",
+   "published": "2026-10-28T21:47+00:00",
+   "added": "2026-10-29T00:24+00:00",
+   "lang": "pl",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "lancuchy dostaw"
+   ],
+   "summary": "Długie łańcuchy dostaw to duże ryzyko Rzeczpospolita",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -16525,34 +16550,6 @@
     "vessel"
    ],
    "summary": "EU sanctions 41 more vessels and confirms LNG exemption Lloyd's List",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0acc51bf4c47",
-   "title": "Black Sea shipping risks surpass Gulf as attacks kill more sailors",
-   "original_title": "Black Sea shipping risks surpass Gulf as attacks kill more sailors",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb2ZNcWtfbDB6akVKdGg0ZFBsWlh2MW9COVRLLXRXcThJRFZnTXhUNkpFVTJ4aDc5TExZbENMWEI5WjhKRVJmQWlleGpmX3VBOW91dGtZeHFtNXM2VGNWaHFRLTFzbF9Cd0tDWUtwX09oU2hNc0E0RnFrMXdWd09iQ3huWnNBangzMG9oQmJrTDZBaVpNdFRIUlZB?oc=5",
-   "source": "Traders Union",
-   "published": "2026-10-25T05:39+00:00",
-   "added": "2026-10-25T07:24+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "shipping"
-   ],
-   "summary": "Black Sea shipping risks surpass Gulf as attacks kill more sailors Traders Union",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   }
