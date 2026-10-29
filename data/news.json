@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T17:24+00:00",
+ "generated_at": "2026-10-29T18:13+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,35 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "750917d143f9",
+   "title": "Houthis and Iran hijack new tech to threaten Red Sea and Hormuz shipping, Bahrain warns",
+   "original_title": "Houthis and Iran hijack new tech to threaten Red Sea and Hormuz shipping, Bahrain warns",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOGFEMDRVZzRfR2VZYldUeFJTT2tYZGt2Wm5wVUk2SVNKdU5MUGFNalNWdnlXS1F0Smx5TG81WXpwUTFGbWpsbW1vR0VwUHFyQWVITFY2djFKNVpyVHkycVlSS3JpT09WSk9aaUdnWkVUbW0zUHk2UHNia1VNOS1DTzdaeU92a1JZajdNdDRrdU9weGdTU2ZiQzVZc0dXYkg2d0hrOFZCNlkzWVZRbENmUEJfZm1JVnVMYzBpVDhUcnVUTVpFczF3TDZWdw?oc=5",
+   "source": "Arab News",
+   "published": "2026-10-29T17:28+00:00",
+   "added": "2026-10-29T18:13+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "hormuz",
+    "houthi",
+    "red sea",
+    "shipping"
+   ],
+   "summary": "Houthis and Iran hijack new tech to threaten Red Sea and Hormuz shipping, Bahrain warns Arab News",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "e262b0771b80",
    "title": "COSCO Profit Jumps Most in Two Years as Turmoil Supports Rates",
@@ -100,6 +129,34 @@
    ],
    "summary": "How CBAM will widen the premium for high-grade iron ore Fastmarkets",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fe0a001f7492",
+   "title": "Uzbekistan Opens Logistics Hub in Poland to Boost Exports",
+   "original_title": "Uzbekistan Opens Logistics Hub in Poland to Boost Exports",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLW9ienVSLTdTVW11WWxkTWR6ZmpaVEFJdmk1dERidWlkbUJvZVVINmtFaGhYcG54WUdfOWhTTFB2S0VNRzMzUVlyajZ0NlJpMHBGODFFbWJnNVhIUk1BN3BoT2hBQWtuVkVSSGtQbktad19DbVhpb0ZOYjJJWDZYMGRxUDU1SDI5dVJpNQ?oc=5",
+   "source": "UzDaily.uz",
+   "published": "2026-10-29T15:50+00:00",
+   "added": "2026-10-29T18:13+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "logistics",
+    "logistics hub",
+    "poland"
+   ],
+   "summary": "Uzbekistan Opens Logistics Hub in Poland to Boost Exports UzDaily.uz",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -1607,6 +1664,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "d43a9f506177",
+   "title": "Mercitalia orders six EffiShunter 1000s, bringing FS Logistix’s tally to 18",
+   "original_title": "Mercitalia orders six EffiShunter 1000s, bringing FS Logistix’s tally to 18",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNHhiaVBQLU9rTC1yd3RCbU5DcXhMaFRwWVZmVWk2LUJvYWg3T1AtRV9HaXg1cDRoUFVoZ0k4WXFoYlFYZWJkQWltVHlCamVSQVNlVU5PbGVmZndvaWVSRTFnVWI5ZXh3QVFUSHlVRFpScU9PMFpmVXNWenlxTEYzck5MUENPUlpyTDhOQlB3QjE3bEFINU9Ld1B3MlVqeHAtWlMw?oc=5",
+   "source": "Railway Supply",
+   "published": "2026-10-29T08:39+00:00",
+   "added": "2026-10-29T18:13+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "railway"
+   ],
+   "summary": "Mercitalia orders six EffiShunter 1000s, bringing FS Logistix’s tally to 18 Railway Supply",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "0a4cf4cfd606",
    "title": "ECSA sets out European shipowners’ priorities as EU ETS revision talks gather pace in Brussels",
    "original_title": "ECSA sets out European shipowners’ priorities as EU ETS revision talks gather pace in Brussels",
@@ -1763,6 +1845,34 @@
    ],
    "summary": "Hitachi Rail selected for signalling on the Ankara–Istanbul line Railway PRO",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2e9f3043c913",
+   "title": "Turkey to renovate and electrify Middle Corridor main line",
+   "original_title": "Turkey to renovate and electrify Middle Corridor main line",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWUtSkpsLXZPcWdWNmthaUwwckgxNV9vaFZqOGNDTlVxRkxiRjN4aU5KdjBDOHRCR3MzREt0YXJHMFZGTnlwaUs1T1lxdjJnUGxRaVVKS0o0ZlZLbGpMTzV1NFpCWFNjbmNxcVZyMWcyWnd6WHB6WTJyaGxJMWw1SkhTTGh3TmVWaFRkc1pVYm9qNXBoTEEyRDFuQ09HY2JrYktvYU1aUzkzd3VB?oc=5",
+   "source": "Railway Gazette International",
+   "published": "2026-10-29T08:03+00:00",
+   "added": "2026-10-29T18:13+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "rail"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor",
+    "railway"
+   ],
+   "summary": "Turkey to renovate and electrify Middle Corridor main line Railway Gazette International",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   },
   {
@@ -11960,6 +12070,31 @@
    "summary_method": "feed"
   },
   {
+   "id": "395f372b36fd",
+   "title": "Kalmar Oyj (HLSE:KALMAR) - Stock Analysis",
+   "original_title": "Kalmar Oyj (HLSE:KALMAR) - Stock Analysis",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZW9lSUFLOHB3V29hOW10RDN0ZE45UUl4S2Z0RmtxdDFDckJpcDAta2NZZUY2MEs0WUs1enhuUjdvWERiRS03RGpELUFSLUZ0bzVPV3o0Zl9Xb2tZc21lYkdrMEt1Rk1qUS1XQS1CbHluZTJhYjRyVTFaZHVidmc?oc=5",
+   "source": "Simply Wall St",
+   "published": "2026-10-27T07:00+00:00",
+   "added": "2026-10-29T18:13+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "kalmar"
+   ],
+   "summary": "Kalmar Oyj (HLSE:KALMAR) - Stock Analysis Simply Wall St",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "56d4b83d6c5b",
    "title": "Three Russian Diesel Tankers Due at U.S. Ports Under Trump Waiver",
    "original_title": "Three Russian Diesel Tankers Due at U.S. Ports Under Trump Waiver",
@@ -14986,6 +15121,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "26a9dced0d63",
+   "title": "Latvia joins UK scheme to identify stolen Ukrainian grain",
+   "original_title": "Latvia joins UK scheme to identify stolen Ukrainian grain",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUtScmgwcWtiWHdQVFVOZnZmMkdTbUI0VHRKYTNCWHBMZldPSm5UTm5QVXE3amhEMGNvcGJVUzItSDB3X2JlVjhUWDkwQ0hCM011Ml9KWXRVejdTMEVERWowNlpXRUE5U0s5SXcwSV9OMGtVdVZHSGRPRlFoUFlMNlF0ZzJVNHFURDR0RkxIdFBEZDYtU1lZT2Z2S1YyQTUwelE?oc=5",
+   "source": "World Grain",
+   "published": "2026-10-26T13:52+00:00",
+   "added": "2026-10-29T18:13+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Baltic & Nordics",
+    "Western Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "grain"
+   ],
+   "summary": "Latvia joins UK scheme to identify stolen Ukrainian grain World Grain",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "4bf1b9c4f26f",
    "title": "Baltic Dry Index falls 1.2% as shipping costs face fresh pressure",
    "original_title": "Baltic Dry Index falls 1.2% as shipping costs face fresh pressure",
@@ -16361,170 +16523,6 @@
    "summary": "Soybean futures fell to around $12.40 per bushel, reaching their lowest in nearly nine weeks as expectations for ample global supplies and continued US harvest progress offset strong export demand. Favorable, mostly dry weather across the US Midwest has allowed farmers to advance fieldwork, with 64% of the soybean crop harvested as of October 18, close to the five-year average of 65%. Meanwhile, Brazil’s 2026/27 planting is progressing ahead of last year, raising prospects for additional supplies in the coming months. A weaker Brazilian real could further improve the competitiveness of Brazilian soybeans against US supplies, potentially challenging American export prospects. Selling pressure has persisted despite renewed Chinese demand, with the USDA confirming a sale of 612,000 tonnes of US soybeans to China for delivery in the 2026/27 marketing year. Weekly US export sales also reached 2.84 million tonnes in the week ended October 15, up sharply from 574,878 tonnes the prior week. Source: Trading Economics",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "extract"
-  },
-  {
-   "id": "4775a4922f61",
-   "title": "Mitsui E&S STS crane deliveries build up at Vietnam’s Phuoc An Port",
-   "original_title": "Mitsui E&S STS crane deliveries build up at Vietnam’s Phuoc An Port",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWEJfcmk0Q0hQUjhZV0tKZVpRSlItNkw4YmxJUVViTDZscFZPaUFpRDVyR0RTRkNCNjl5aE5sS0F4ZjFYQUhRVTBzMWVlTU41WklUcndVV0JVTW5ZQXFOdWJhRU0xVXc2SXl1bEFNaGxGY1FRS3ZOaFB5SzdJQThXcG5Uel9ZVkEwdUsyODZXQndMM2JrdTlSRGVyOFFOcG5IZml0cnFXQy1CVmZQbHZn?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-10-26T10:50+00:00",
-   "added": "2026-10-26T11:12+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "crane",
-    "port",
-    "sts crane"
-   ],
-   "summary": "Mitsui E&S STS crane deliveries build up at Vietnam’s Phuoc An Port WorldCargo News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e0c0a03ec1f8",
-   "title": "Cash market update: Wheat falls on rising supply despite Black Sea risks as China’s US soybean purchases near 70% of its commitment",
-   "original_title": "Cash market update: Wheat falls on rising supply despite Black Sea risks as China’s US soybean purchases near 70% of its commitment",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQek1mZXZQekhsV1ZvWE5Pa0NMbnhxcEF5Q1dlcER3eFEtMUxseDBXSWdTZHJoRHk3cVhqWm9FNFRHM2tvVTlOdTZGQko4bjhuZ05XVTZoSGQ2TTR4MXpfTzNJNzZOUFNmdU5kUlg0anlIQnR4M0dwVEdZbWJtYU92QVFhR3JXWlFYWGFydl9TNXRReklvcXpQbjJGUkMtajhvT2k3dEl3bWtSNXA5TFNvcVhnOVl1akU3eV9BWjdPcl83ckdQMU16bWV5elZHOVhFdGhGWDJ5RFdPT2hmMHN6eDVDbTVTdkRZRms1b0trVFNfWGV5RXdRVlB3?oc=5",
-   "source": "Fastmarkets",
-   "published": "2026-10-26T10:45+00:00",
-   "added": "2026-10-26T13:36+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Asia"
-   ],
-   "tags": [
-    "black sea",
-    "china",
-    "soybean",
-    "wheat"
-   ],
-   "summary": "Cash market update: Wheat falls on rising supply despite Black Sea risks as China’s US soybean purchases near 70% of its commitment Fastmarkets",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9516de82ce21",
-   "title": "China's September soybean imports slip as post-summit tariff snub keeps private crushers sidelined, plus corn jumps almost eightfold on year with Argentina still on top: GACC",
-   "original_title": "China's September soybean imports slip as post-summit tariff snub keeps private crushers sidelined, plus corn jumps almost eightfold on year with Argentina still on top: GACC",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ0NqUVF6SFBKY08yYTdNSzdMRm1GR1d3V29GQ1JWc3Rod3hhUEtVWmJEdXBKVm80dHBYdnM3RXJzOHJWX3ZxZmFmS3AyVTRUaTVQM093QUNraGxiMlc3azlSdU9jT3hsTUQycDJSajkzN2lBNW1EX3U4SlNiZHhFY3NCR1RmbHFSWTBxaDMwZTUtemx5NjBfeTFXZUphQ1V4VXV5Z0h0RmpsemMzanpwN21vSGpDNEpicTkzelVIVm1iaV8yWTN4R290aVozenFE?oc=5",
-   "source": "Fastmarkets",
-   "published": "2026-10-26T10:45+00:00",
-   "added": "2026-10-26T13:36+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia",
-    "Latin America"
-   ],
-   "tags": [
-    "china",
-    "corn",
-    "soybean",
-    "tariff"
-   ],
-   "summary": "China's September soybean imports slip as post-summit tariff snub keeps private crushers sidelined, plus corn jumps almost eightfold on year with Argentina still on top: GACC Fastmarkets",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "acc8cbf339be",
-   "title": "Ukraina i Rumunia chcą zwiększyć przepustowość szlaków transportowych. Kolej i Dunaj w centrum uwagi",
-   "original_title": "Ukraina i Rumunia chcą zwiększyć przepustowość szlaków transportowych. Kolej i Dunaj w centrum uwagi",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ2pzbml3OHBSZExRbVBXZ09KdC1aaXBiWUd0TXBGNUJvN19Bc1ZyUzRORFB6TkNaOVA5eWFuQUdURXhSSlVfR3JialJVSWtIUnZOcEdmLWNuRmRYWXVKSjJMV1JuLXI5bEZ5MjcwUG8zNzNXYXo1c3poc2lOaGtkUHNLYVpFT0RsUVhqNkpJWHhQZ0tPVWFjNERWbmMtMlhDWkRvTUlCMXlRNFJSNEpVUlJSTEtnUmRnVlBuQkZ5a1pzWjV5b2U3ei00cmdObUppUk1JSDdJQk1HRUVjMjdGaVJZbGs?oc=5",
-   "source": "Kurier Kolejowy",
-   "published": "2026-10-26T10:29+00:00",
-   "added": "2026-10-26T15:19+00:00",
-   "lang": "pl",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "kolej"
-   ],
-   "summary": "Ukraina i Rumunia chcą zwiększyć przepustowość szlaków transportowych. Kolej i Dunaj w centrum uwagi Kurier Kolejowy",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f693c00a7895",
-   "title": "Fuat Tosyalı: Türkiye should not be treated the same as third countries under Europe's steel policies",
-   "original_title": "Fuat Tosyalı: Türkiye should not be treated the same as third countries under Europe's steel policies",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNy1rNW00Z3pfN0duRmxqSGV2WkFiakNtVU1tRzhPTFFTS21UMVphVmdaNElZSnFlUC1WVi1pUUVHd3QtX2NaUmpMZ3prR1NtaTcxdjdrSm9oZlZJVzBPUnZPSE9fQTExdlBvLXNvZ2NIRHBXNGlzZ211bHRGbDhqaERGcmdNakxQdmdaVDlfZGMxZGtkNGJRc3JkamE2SkJhY0g3RGZSV0dxOEQ4UzZ2QmZWaHRxUEdoNUtyS1dSSGxsSHlxSXA3a3B0bGZnd0Q5clE?oc=5",
-   "source": "SteelRadar",
-   "published": "2026-10-26T10:28+00:00",
-   "added": "2026-10-26T17:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "Fuat Tosyalı: Türkiye should not be treated the same as third countries under Europe's steel policies SteelRadar",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "3ab40e7d96d3",
-   "title": "Steel Networking Summit begins in İstanbul",
-   "original_title": "Steel Networking Summit begins in İstanbul",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVE9KUkdOUm5nSC1QdFVfTXVJR0pUOURyTFV0Z1NBUHpWaHJQdE5CaS1QRDlrTlhoaUx6RzdxTWFyUWtyOFJLTHpGd1RuNXk5Rzh0aXpjUnVVNnJlZG9ySmVhX1pTZWxCM1NYeUw3eWM5bEhhYnZWTl8xV3hNWFNCN0hYNGRMdw?oc=5",
-   "source": "SteelRadar",
-   "published": "2026-10-26T10:28+00:00",
-   "added": "2026-10-26T17:07+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "steel"
-   ],
-   "summary": "Steel Networking Summit begins in İstanbul SteelRadar",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
   }
  ]
 }
