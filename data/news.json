@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T10:59+00:00",
+ "generated_at": "2026-10-30T11:40+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,284 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "171200089960",
+   "title": "Kazakhstan and Turkey: Partners Across the Middle Corridor",
+   "original_title": "Kazakhstan and Turkey: Partners Across the Middle Corridor",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVh5UXJoTkc2ZHFDS2NsVTNEUU5MVG1HelI2bk41NHRzNjY5dDNydkFvdmJNVksxV1lrMmlDSnZoZ0hsNGhPZEpaRS1keElhMFRUN3dCTTN1UW0yTkVSWkZBZThzU3lyeHhkeDUzYnB2bk9xemhJendCUFk3RDJkNnBGZTU?oc=5",
+   "source": "The Times Of Central Asia",
+   "published": "2026-10-30T11:26+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Ukraine & Black Sea",
+    "Asia"
+   ],
+   "tags": [
+    "middle corridor"
+   ],
+   "summary": "Kazakhstan and Turkey: Partners Across the Middle Corridor The Times Of Central Asia",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "08769af188c7",
+   "title": "Port of Santos starts ethanol bunkering for ships",
+   "original_title": "Port of Santos starts ethanol bunkering for ships",
+   "url": "https://www.hellenicshippingnews.com/port-of-santos-starts-ethanol-bunkering-for-ships/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-30T11:00+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping",
+    "commodities"
+   ],
+   "priority": "medium",
+   "score": 11,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "bunker",
+    "port",
+    "port authority",
+    "teu",
+    "vessel"
+   ],
+   "summary": "The operation marks the transition from a trial to a regular ethanol supply model, the Santos port authority said. The first operation took place on 19 October, when the 13,000 TEU container ship CMA CGM IRON was refuelled at the Port of Santos. The vessel has an Everllence tri-fuel engine, which the partners said is the world’s first certified to operate on ethanol. This follows the pilot operation carried out in July, through a partnership between CMA CGM, Copersucar, Bunker One, AGEO Terminais, Santos Brasil and the Santos Port Authority (APS). “Following the first operation carried out in July, we are now moving into a new phase, demonstrating that ethanol can be incorporated into maritime operations safely, reliably and on a commercial scale,” said Giovani Grassi, CEO of CMA CGM Brazil. Ethanol produced by mills associated with Copersucar is supplied and transported to the Port of Santos by Evolua Etanol, Copersucar’s ethanol trading arm. For the refuelling phase, which takes place at the Santos Brasil terminal, Bunker One created a protocol taking into account the low flash point of the fuel. The company claims the protocol is a first of its kind in Latin America.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "03985a209ca7",
+   "title": "Oil rises near 6-mth high as Trump weighs military options against Iran",
+   "original_title": "Oil rises near 6-mth high as Trump weighs military options against Iran",
+   "url": "https://www.hellenicshippingnews.com/oil-rises-near-6-mth-high-as-trump-weighs-military-options-against-iran/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-30T11:00+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "crude",
+    "disruption",
+    "futures",
+    "military",
+    "oil price",
+    "prices"
+   ],
+   "summary": "Oil prices rose near six-month highs on Friday as the prospect of renewed U.S. military action against Iran clouded hopes for a diplomatic breakthrough, reviving concerns over supply disruptions. As of 05:45 ET (09:45 GMT), Brent crude futures rose 2.1% to $117.19 per barrel, while U.S. Brent futures rose to as high as $117.84 per barrel earlier in the day, hitting their highest level since late April. Central Command chief Admiral Brad Cooper briefed President Donald Trump on military options for Iran at the White House on Thursday, alongside Defence Secretary Pete Hegseth and other senior officials. Trump has signalled that renewed strikes could follow the November 3 U.S. The market remains particularly sensitive to developments around the Strait of Hormuz, a vital shipping route for global oil supplies. The continuing threats to regional energy infrastructure have helped sustain a geopolitical risk premium in oil prices. commercial crude inventories fell by 1.9 million barrels in the week ended October 23 to 410.6 million barrels, defying expectations for a modest increase, according to the Energy Information Administration.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "ee1654d0a5f8",
+   "title": "How a New “Arab Dark Fleet” Keeps Hormuz Oil Flowing",
+   "original_title": "How a New “Arab Dark Fleet” Keeps Hormuz Oil Flowing",
+   "url": "https://www.hellenicshippingnews.com/how-a-new-arab-dark-fleet-keeps-hormuz-oil-flowing/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-30T11:00+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "charter",
+    "fleet",
+    "hormuz",
+    "shipping"
+   ],
+   "summary": "Gulf oil producers have gained control of a fleet of nearly 230 tankers that have defied Iran to ship oil through the Strait of Hormuz and keep the chokepoint open to global trade. The giant fleet is owned, managed, chartered or controlled by Gulf national oil companies or their trading and shipping arms and is designed to cut reliance on chartering tankers on the spot market. Despite very high freight rates, fewer shipowners will send tankers to load at oil terminals in Iraq, Saudi Arabia, Kuwait, Bahrain, Oman or the UAE. The result is a new fleet, the Arab Dark Fleet, solely deployed by Gulf states and dedicated to keeping their oil flowing. The “Arab Dark Fleet” is the biggest shift in how Gulf national oil companies run their freight, logistics, and supply chains since the Tanker War of the 1980s. The South Korean shipowner began buying and chartering VLCCs in December 2025 and has built a fleet of more than 100 ships, about 70% of which now work in the Arab Dark Fleet. Shuttling Oil Out of Hormuz Ties Up Global VLCC Capacity The rise of the Arab Dark Fleet has added to freight logistics inefficiencies and tied up some 15%-20% of the global VLCC fleet at any one time.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "11dba18d1dcc",
+   "title": "Low Rhine strains Swiss diesel supply as importers turn to compulsory stocks",
+   "original_title": "Low Rhine strains Swiss diesel supply as importers turn to compulsory stocks",
+   "url": "https://www.hellenicshippingnews.com/low-rhine-strains-swiss-diesel-supply-as-importers-turn-to-compulsory-stocks/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-30T11:00+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "barge",
+    "diesel"
+   ],
+   "summary": "Extremely low Rhine water levels have tightened refined product supplies into Switzerland, forcing importers to increasingly rely on alternative transport routes and compulsory diesel stocks as barge movements remain heavily restricted, according to market participants. Barge supplies to the landlocked country have fallen to paltry levels, with one Swiss diesel and gasoil distributor reporting that, while normally Rhine barges would account for 40% of their product supply, the share had fallen to between 3-4% under current conditions. “There is no product coming in from ARA or German refineries and depots at Gelsenkirchen and Bottrop,” the source said, adding that barges were also having to limit loadings to 400-600 mt due to low water levels. Falling barge loads and limited journeys have forced freight rates to new highs, putting further strain on the limited supply coming in as buyers foot rocketing costs in the FOB traded market. To face falling barge inflows, importers have increasingly turned to rail and pipeline deliveries from nearby refineries and compulsory stock releases. The first Swiss-based source reported that they were still taking product from the Miro Refinery in Karlsruhe, south Germany and volumes were coming from the release of 45,000 cubic meters of diesel from Swiss compulsory stocks, which began Oct.",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "a4f8b72ea79f",
+   "title": "IMO DCS 2025: Is shipping’s decarbonisation progress fast enough?",
+   "original_title": "IMO DCS 2025: Is shipping’s decarbonisation progress fast enough?",
+   "url": "https://www.hellenicshippingnews.com/imo-dcs-2025-is-shippings-decarbonisation-progress-fast-enough/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-30T11:00+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "shipowner",
+    "shipping"
+   ],
+   "summary": "Each year, the Marine Environment Protection Committee (MEPC) reviews a summary report that the IMO Secretariat prepares from verified data submitted by shipowners for the previous reporting year. The report covering 2025 data will be considered during the upcoming MEPC 85, scheduled for 30 November to 3 December 2026. The session will also be critical for discussions on the draft amendments incorporating the IMO Net-Zero Framework, ahead of the possible resumption of the extraordinary MEPC session on 4 December, when its adoption is due to be considered. Ammonia is yet to make its debut in the IMO DCS reports, and the stakeholders anticipate seeing a new column for ammonia in next year’s data. This is reflected in a 4% increase in the share of compliant vessels[4] among those required to report CII ratings to the IMO DCS. Source: IMO DCS, Drewry Maritime Research As the industry inches closer to the postponed MEPC ES2 (Extraordinary Session 2) planned for 4 December 2026 to further discuss the fate of the drafted ‘IMO Net Zero Framework’, Drewry’s analysis of the 2025 IMO DCS data shows some encouraging signs of progress. Shipping’s AER also improved further, taking supply-based carbon intensity to 33.1%, below 2008 levels, gradually closing the gap towards the IMO’s 40% reduction target for 2030.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "3796d4c07272",
+   "title": "Hapag-Lloyd strengthens its position in Italian ports",
+   "original_title": "Hapag-Lloyd strengthens its position in Italian ports",
+   "url": "https://www.hellenicshippingnews.com/hapag-lloyd-strengthens-its-position-in-italian-ports/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-30T11:00+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Italian export volumes of Hapag-Lloyd continue its upward trend, with a further relevant growth expected in 2026 compared with 2025, bringing cumulative growth since 2021 to over 20% Hapag-Lloyd’s global strategy focuses on strengthening its worldwide network, offering services connecting Italy with markets across the globe. In Italy, the company has a particularly strong commercial focus on the United States, Canada and Mexico, main trades for export. Hapag-Lloyd also maintains a leading position in Latin America and Asia. Building on this solid foundation, the company will continue to invest in and expand its operations across Northern Italy, while further strengthening its presence in Southern Italy and the Adriatic region. Despite the tensions affecting the Red Sea region, Hapag-Lloyd has recently confirmed its decision to resume transit through the Suez Canal on four services connecting Europe with the Far East. With 32 new vessels currently on order, the company is further investing in fleet modernization and alternative propulsion technologies. Fifty vessels in its existing fleet are already capable of operating on fuels other than conventional marine fuel. “The company has a well-established presence in the Italian market and is closely monitoring geopolitical developments in the Middle East and the Black Sea,” says Filippo Cimellaro, Managing Director Hapag-Lloyd Area Italy.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "15c437fc07d6",
+   "title": "Copper Extends Fall on Tech Selloff",
+   "original_title": "Copper Extends Fall on Tech Selloff",
+   "url": "https://www.hellenicshippingnews.com/copper-extends-fall-on-tech-selloff/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-30T11:00+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "copper",
+    "futures",
+    "prices"
+   ],
+   "summary": "Copper futures fell toward $6.5 per pound on Friday, sliding for the second straight session as disappointing earnings updates triggered another selloff in tech and AI stocks. The metal plays a crucial role in the global AI expansion due to its extensive use in data centers and power infrastructure, leaving prices particularly sensitive to shifts in technology market sentiment. Investors also grew increasingly concerned about a potential Fed rate hike later this year following hot PCE inflation data and persistent energy-driven price pressures. Despite the recent pullback, copper continued to receive support from tightening physical supplies in China, the world’s largest consumer of the metal, as reflected in rising import premiums. This trend underscores growing competition for copper supplies both within and outside China, as earlier concerns over potential US import tariffs prompted traders to redirect shipments toward American warehouses, reducing availability in other markets. Source: Trading Economics",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "53ac078d0420",
+   "title": "Kalmar updates its strategy and sets new performance targets for 2030 including a renewed framework for the capital allocation",
+   "original_title": "Kalmar updates its strategy and sets new performance targets for 2030 including a renewed framework for the capital allocation",
+   "url": "https://www.hellenicshippingnews.com/kalmar-updates-its-strategy-and-sets-new-performance-targets-for-2030-including-a-renewed-framework-for-the-capital-allocation/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-10-30T11:00+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "kalmar"
+   ],
+   "summary": "The Board of Directors of Kalmar Corporation has approved an updated strategy and performance targets for the strategy period until 2030. The updated strategy shifts Kalmar’s focus towards accelerated growth and lifetime value and strengthens the company’s position as a forerunner in intelligent and sustainable heavy material handling solutions. Kalmar’s strategic focus areas until 2030 are 1) Investing in sustainable innovations, 2) Accelerating services and customer lifetime value and 3) Driving growth. Kalmar’s key performance targets by 2030 are: • Sales growth exceeding 8% per annum over the cycle (previous target: 5%) • Comparable operating profit margin of 16% by 2030 (previous target: 15% by 2028) • Return on capital employed (ROCE) exceeding 25% by 2030 (unchanged) • Eco portfolio accounting for more than 50% of sales by 2030 (new target) • Services sales of EUR 800 million by 2030 (new target) • Additional gross efficiency improvements of EUR 50 million by the end of 2030 (new target) In addition to key performance targets, Kalmar remains committed to the near and long-term science-based emissions reduction targets with the Science Based Targets Initiative (SBTi). Kalmar aims for a dividend payout ratio of 30–50% (unchanged). As part of its capital allocation framework, Kalmar aims to pursue targeted acquisitions that support its strategy and complement organic growth.",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "8f232e33ad5d",
+   "title": "Port of Gdańsk handles nearly 2.5 million TEUs in 2026",
+   "original_title": "Port of Gdańsk handles nearly 2.5 million TEUs in 2026",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNTB1enliTG9JclhuTGxxRVlLY2xrTUNVTVEtc1JJOU9CV014XzlxNEE4ajlwYlFHSl9hRWNZQ1FoTzZpMXJ0YjNFLWVsREZPb0NleTA0WDRKV0R4UTU3czZwZTdCZFVVUk00U2JWSUNvMVFFUWIycW1iakx5TkVtUHBSNkJtRjM0bVZXUDlnX1NuR2JCa250ZVdZbjhoeGsxZ2tfUldJUlZfdw?oc=5",
+   "source": "Port Technology",
+   "published": "2026-10-30T10:55+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland",
+    "Baltic & Nordics"
+   ],
+   "tags": [
+    "gdansk",
+    "port",
+    "teu"
+   ],
+   "summary": "Port of Gdańsk handles nearly 2.5 million TEUs in 2026 Port Technology",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "873be7502afd",
    "title": "Swedish owner Veritas books up to six chemical tankers in China",
@@ -68,6 +346,33 @@
    "summary": "A threatened Sunday walkout at Los Angeles and Long Beach may be delayed until Wednesday. The real danger is the reach of a small union local, with 35,688 containers already waiting for rail service. It takes a special kind of labor dispute to put half a port complex at risk with a workforce smaller than the guest list at a medium-sized wedding. At Los Angeles and Long Beach, some 250 security watchmen have managed it without leaving their posts.",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "extract"
+  },
+  {
+   "id": "69af2a0bb3ef",
+   "title": "Brent crude surges 13% in October as Middle East attacks threaten oil supplies",
+   "original_title": "Brent crude surges 13% in October as Middle East attacks threaten oil supplies",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFhSbjlMVXZjUXBscFRoYmtuMnFZVGFOa1B4NWVHdmR6WVdLNHd3YjNxSktfbC0xMThoT25rTVZwWEVrZWNqb3p1dWozRE1Xakk5UzFYMHV1U3ZJeTd3RWFGSjY3aVB5cUQyYjBUX05pTlpZbkJDTG5SVWVzcVhIMzg3dllfYi1Ic0tQMi1yZWdSYThaRXlVdzBhSjlVV3RnaW1La2pjbjF3dnlqMUhjNExqMlk?oc=5",
+   "source": "Nairametrics",
+   "published": "2026-10-30T10:17+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "crude"
+   ],
+   "summary": "Brent crude surges 13% in October as Middle East attacks threaten oil supplies Nairametrics",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "da87224f82c2",
@@ -12237,6 +12542,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "9648c05e406b",
+   "title": "Stena Agrees to Acquire Norwegian Ferry Operator Color Line in Major European Ferry Deal",
+   "original_title": "Stena Agrees to Acquire Norwegian Ferry Operator Color Line in Major European Ferry Deal",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSG51Um5UaGUtdnY5TFVTRkRMNFpjdTZzSC1oQ1NoMW8yOG93a055dVNaNWRabDZTLUJVMVpWcG1DOERRRDE0UTNMUm5RWnFXdG1fb3FaMHZPekFLdlBqUDdkQU5OVzRQSEIwai1sVzBZV2pDU01VVVFJTm1zaFF5NWNRYkUtWFRIX0p5V0loOEZCNFZ4T2J0ODVDSFVrc3UxbHNDSG9NNjNDWEZJYVIw?oc=5",
+   "source": "gCaptain",
+   "published": "2026-10-27T15:02+00:00",
+   "added": "2026-10-30T11:40+00:00",
+   "lang": "en",
+   "category": "mna",
+   "categories": [
+    "mna",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "acquire",
+    "ferry"
+   ],
+   "summary": "Stena Agrees to Acquire Norwegian Ferry Operator Color Line in Major European Ferry Deal gCaptain",
+   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
+   "summary_method": "feed"
+  },
+  {
    "id": "97e6ceb6a1fd",
    "title": "Ballon d’Or ceremony puts global spotlight on French ports journalist jailed in Algeria",
    "original_title": "Ballon d’Or ceremony puts global spotlight on French ports journalist jailed in Algeria",
@@ -16153,333 +16485,6 @@
    "summary": "SunSirs: Escalating Risks in Middle East Shipping Lanes Drive Sharp Surge in International Crude Oil Prices ChemNet News",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
-  },
-  {
-   "id": "c46be041aab7",
-   "title": "Hambantota Port sees new opportunities as container ships return to Suez",
-   "original_title": "Hambantota Port sees new opportunities as container ships return to Suez",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUJfNEp3dkZORzJzZDZ0QnA2MjZNR3V3aUlsNWR6b2NrQkVSdkpxWXBiRmxmYVVMSUhHUDBiZnRFZHdac0lfWlZ2ME90bl93Mk5yWHNhTmhRTnJnMW1GdWg5WWRFZjBlVXhrLVBwU3RvZUpjWF9PWERaZ1NDSGlldVpSbU9kOWROckhCdnd5WjBRd0plcW0xLXNHRElXdmpUQVE?oc=5",
-   "source": "Container News",
-   "published": "2026-10-27T01:11+00:00",
-   "added": "2026-10-29T17:24+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "port",
-    "suez"
-   ],
-   "summary": "Hambantota Port sees new opportunities as container ships return to Suez Container News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "83eb5898f174",
-   "title": "European wheat falls after Russia–Turkey talks on Black Sea grain corridor",
-   "original_title": "European wheat falls after Russia–Turkey talks on Black Sea grain corridor",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUTRTVGVyLXV6cXdZZ0I4MW5IV3VOYW1hZE5pMUNkTFh4MkF5clJUdWlGR2gzQjlkMU9CcnlkSnliYWRvay1ZaGFIQm4xLU5jR0RXbGdsY0dibjJWMkM4THljdkw5dU5NS3U4SlNKQTdYczAyVWlLS1BpSkZlcUNLM1NCM0xrLTdmRm4tVC15Z2cwVmlQVG12NVdCSEtyVDZZZEdR?oc=5",
-   "source": "Capmad",
-   "published": "2026-10-27T00:25+00:00",
-   "added": "2026-10-29T23:35+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 12,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "black sea",
-    "grain",
-    "russia",
-    "wheat"
-   ],
-   "summary": "European wheat falls after Russia–Turkey talks on Black Sea grain corridor Capmad",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "11cf741119df",
-   "title": "China-Europe rail tops 140,000 trips since 2011",
-   "original_title": "China-Europe rail tops 140,000 trips since 2011",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlU4LUNPdVpDTXlnX3p6dHd0ZXNUQ2FXM1BnTUhlV1JYbWc4dWo2UWNnZl9qcWR5akdDX3p4MkFkV091ZU10X2M4b1VYSWhoNVFzZ016SFphcHlfXzJnX2lKN2hrYXdiMElHc3pkcngtV1BCMENHczF4MnNGaXhLRnV0R1RIWWZSYTRsV0t1YXQ1TWE3b3o1MzJBbE44LXlkdkxTN3V3T2hwNk0?oc=5",
-   "source": "The Star",
-   "published": "2026-10-27T00:14+00:00",
-   "added": "2026-10-27T02:11+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "china",
-    "china-europe rail"
-   ],
-   "summary": "China-Europe rail tops 140,000 trips since 2011 The Star",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "006ffc62a7ff",
-   "title": "Daily Market Wire 27 October 2026",
-   "original_title": "Daily Market Wire 27 October 2026",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3RWYwSmVDM05lM29nVTc5a0FWZXdoOU9zTTVuazUtVkVzTktkb1dNdldGUzRyY2JRLVNSTlRCeE1qQy0xaUtRV1pGZ3RlZG9ERG81S1JoQVRaM3BlNzI1VndOX3lxUTBSVWJUdEpaOEhHZi1YVktudEV2TQ?oc=5",
-   "source": "Grain Central",
-   "published": "2026-10-27T00:12+00:00",
-   "added": "2026-10-28T18:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "grain"
-   ],
-   "summary": "Daily Market Wire 27 October 2026 Grain Central",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ee11ace57cb1",
-   "title": "Saudi Red Sea ports brace for seasonal import surge",
-   "original_title": "Saudi Red Sea ports brace for seasonal import surge",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcGdmVjNZTEc0aks0bDkyY2V2ZmRZY2Jpelp0Tl9kZ28yTi1WU042cjhjZzhiX1FkeXFBVVZ6MXpRQUZXVm9sc1FCYkVKS2ZHMzVSZGRhMHBoUlRHUE1fbnF0alBqWWd2RU43Ml94SVRJWUkwX3Jkc3dUakJjX1F1TE1DUy0tQVhjUVg3b0E0dzNJbmg3V1pNb2wxbkcxU0trWUE?oc=5",
-   "source": "Arabian Gulf Business Insight | AGBI",
-   "published": "2026-10-27T00:00+00:00",
-   "added": "2026-10-27T02:51+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "red sea"
-   ],
-   "summary": "Saudi Red Sea ports brace for seasonal import surge Arabian Gulf Business Insight | AGBI",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "af5f2fe1ae76",
-   "title": "Argentinas Santa Fe Ports Handle Over 3.3 Million Tonnes Through September - DatamarNews",
-   "original_title": "Argentinas Santa Fe Ports Handle Over 3.3 Million Tonnes Through September - DatamarNews",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWZpMk9YZERkUjVJTUo1X2p5RHJJRkFta3dKYmQ1dDZEMFdMY2lBRHZmUk5kS2lnTThBX3IyTWUzNTNhbkhqenROSG9yYmV3a2UzQWlvaDZ3dDBqaFJ5X3dxdkd0bW1XLUx0WTJWd3RORTNUVkY0UlhBcHp6dEJZZTdyTVhBSFk3MWpMMF9MbVFjT0x5MkdjRTdLc0Z0djdPLXA1dzVTZlRDdkl0TUtIVEt6YmdsVEdLTHZ5REhn?oc=5",
-   "source": "Nuevo Enfoque Urbano",
-   "published": "2026-10-26T23:48+00:00",
-   "added": "2026-10-30T10:59+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "Argentinas Santa Fe Ports Handle Over 3.3 Million Tonnes Through September - DatamarNews Nuevo Enfoque Urbano",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "aa53e62f050e",
-   "title": "As Attacks Mount, Shipping Faces an Uncomfortable Question: Are Safety Rules Fit for War?",
-   "original_title": "As Attacks Mount, Shipping Faces an Uncomfortable Question: Are Safety Rules Fit for War?",
-   "url": "https://gcaptain.com/as-attacks-mount-shipping-faces-an-uncomfortable-question-are-safety-rules-fit-for-war/",
-   "source": "gCaptain",
-   "published": "2026-10-26T23:43+00:00",
-   "added": "2026-10-27T00:46+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "attack",
-    "hormuz",
-    "shipping",
-    "war"
-   ],
-   "summary": "Vessels in the Strait of Hormuz, Iran, May 22, 2026. Majid Asgaripour/WANA (West Asia News Agency) via REUTERS By Paul Morgan (gCaptain) – October has become the worst month on record for attacks on merchant ships in and around the Strait of Hormuz, and oil is now washing onto the beaches of the United Arab Emirates. The engineering question that follows is uncomfortable: were the ships under fire ever designed, equipped or crewed to survive what is happening to them? On 23 October, Reuters reported data from the Washington Institute for Near East Policy recording 28 confirmed and reported attacks in the Strait and surrounding waterways during October, and 113 since the US-Israeli war with Iran began on 28 February. At MEPC 84 in the spring, member states adopted resolution MEPC.406(84), strongly condemning Iran’s attacks on merchant vessels in the Gulf and Strait of Hormuz region. Emergency generators, switchboards and their cabling are deliberately separated from main machinery spaces, but separation designed against an engine room fire may not survive blast and fragments. In practice, many safety management systems still treat fire, flooding and blackout as separate scenarios with separate checklists, rarely rehearsed together. Such drills are uncomfortable and often exposing, which is exactly why they are so valuable.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "018d17aa6beb",
-   "title": "Port City Colombo: Supporting Sri Lanka’s Next Phase of Global Business Growth",
-   "original_title": "Port City Colombo: Supporting Sri Lanka’s Next Phase of Global Business Growth",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LaVp5aDFzbEZiU180ekNJSXhLSFJmUEotVWdjYU85TU9rYlllWXJaZzRlX0NkSTZMbE1jQlRZWGRKVDBTRS1fUkVKM2hmNGxFd0czVFNB?oc=5",
-   "source": "Ada Derana Biz English",
-   "published": "2026-10-26T23:35+00:00",
-   "added": "2026-10-27T05:16+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Port City Colombo: Supporting Sri Lanka’s Next Phase of Global Business Growth Ada Derana Biz English",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1c47989cd550",
-   "title": "Spending over $7.3 billion on coal imports puts fuel pressure on the power industry.",
-   "original_title": "Spending over $7.3 billion on coal imports puts fuel pressure on the power industry.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOTk1M05xbm5qT3Qwd2tiNVhFRm5HSmxFTkRlQjBoQ1hjOHU2cHEwRXI0N242dzU1X3NTdHUzSl9PWjlmUnRBWDlLQXhoZVlwQk1kNkdSNUJoMVhKUXJzYmkxZm5MbFRoYmJmM1B4Nkw0SmVHQjJ5Q3loUUlYeDVUZ2d0U19HbXN4MDUxb09neVQwMDktaURr?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-26T23:07+00:00",
-   "added": "2026-10-29T11:06+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "Spending over $7.3 billion on coal imports puts fuel pressure on the power industry. Vietnam.vn",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4e43abd89bab",
-   "title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
-   "original_title": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1JXYWUtZ2l1TGNtSDlwbkN6SkxUR1RxaWZjQnFpNk8yTzBuLTR5OEUxQ296SmZEd3dDS25tMjh1eW5hRGg4X1gtVUpVQi1UbWIyYXpJQmh6NGxpX011WWlEYWh0Z3FKRm55UUl6UnpKUTZmM3lhUElLNUVIb0tkWDBYVkI1LXI2aWxwT1Q2aUpSZjhOcUVxaTByX21WVlExQVE?oc=5",
-   "source": "Reuters",
-   "published": "2026-10-26T23:04+00:00",
-   "added": "2026-10-27T02:51+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 9.0,
-   "regions": [
-    "North America"
-   ],
-   "tags": [
-    "steel",
-    "tariff"
-   ],
-   "summary": "EXCLUSIVE: US, Canada working on deal to ease steel, auto tariffs, sources say Reuters",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "4e02afec64fe",
-   "title": "Soybeans Plunge With Brazil Real as Grains Make New Lows: Cattle Make Fresh Highs",
-   "original_title": "Soybeans Plunge With Brazil Real as Grains Make New Lows: Cattle Make Fresh Highs",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcEg3Y0hYYU9DemZNcFhjdlNwRE1lMEtvQjlFOWRWRmNxdXJOTDhMY0RYckM3RE8wcjQ5RTk3d0dMaWNUS1N0SDdBVE5aVnJtY0JWZ3ZQdW5JWGpkMFRXTFhBbHd3VktfQmMzdkhvcFNWOURpN3JrV3EwbkxkMERLZHR5akpMcUxjeVNTTC1wN3ZlYndHd2xPcmFCQVhfeE1LTVlVZjA3VS0yMTZTMVl4eTNoLVZhRXZ1ZGc?oc=5",
-   "source": "AgWeb",
-   "published": "2026-10-26T22:25+00:00",
-   "added": "2026-10-27T02:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "grain",
-    "soybean"
-   ],
-   "summary": "Soybeans Plunge With Brazil Real as Grains Make New Lows: Cattle Make Fresh Highs AgWeb",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "88fd04b935c5",
-   "title": "Shipping: The Car Shipping Trade Is in Full Effect",
-   "original_title": "Shipping: The Car Shipping Trade Is in Full Effect",
-   "url": "https://www.hellenicshippingnews.com/shipping-the-car-shipping-trade-is-in-full-effect/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-26T22:00+00:00",
-   "added": "2026-10-26T22:17+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "rail",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "carrier",
-    "charter",
-    "china",
-    "intermodal",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "According to Intermodal’s Nikos Tagoulis, Head of Research Department, “behind this export expansion lies China’s highly integrated automotive supply chain, spanning mineral processing, battery production, electric motors and vehicle assembly. According to the IEA, China accounts for 91% of global refining of magnet-related rare earths, 94% of sintered permanent magnet production and over 80% of battery cell output. Rare-earth magnets are used in many EV motors, rather than in lithium-ion batteries themselves. Against this backdrop, the 1-year time-charter rate for a 6,500-CEU PCTC climbed steadily through 2026 to approximately $95,000/day in September, 43% above its 2026 average and 21% above its 5-year average, returning to levels last seen nearly two years earlier”. PCTC newbuilding contracts surged to 82 vessels in the first nine months of 2026, against just nine throughout 2025 and a 10-year annual average of 35. In October 2026, the EU and China reportedly reached a preliminary understanding on proposed restrictions covering Chinese-built conventional and plug-in hybrid vehicles. Under the proposed four-year arrangement, potentially taking effect in December 2026, annual imports would initially be capped at 350,000 units, with the quota increasing by 6% each year, subject to formal implementation. Against projected Chinese hybrid imports of around 800,000 units in 2026, these measures could significantly constrain shipment growth along the China–Europe corridor.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
   }
  ]
 }
