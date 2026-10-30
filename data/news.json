@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T00:12+00:00",
+ "generated_at": "2026-10-30T01:22+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -35,6 +35,32 @@
     "iron ore"
    ],
    "summary": "Billionaire Rinehart’s iron ore firm posts $1.3 billion profit Mining.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "379d48848d9f",
+   "title": "Vale's profit falls 53% in Q3 on lower iron ore prices, higher costs",
+   "original_title": "Vale's profit falls 53% in Q3 on lower iron ore prices, higher costs",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORTlzWGlXR0ZEY0FsWnRvOGpIWTBXLXhlTWNxWjFVanQzd2JmVWV4eXJoNWt4UGp3eTVxSjRpRnlyWGhsQmVROGllMkhSTEdOcXlOcXY2bldsMGxHNVdmaFd6S3VkNlBHRGRzUnpwMHd0Y2pjN0dWMjRhdVAyWXlIRWZUbExvMjNlTVY3UmN2c04xbzJGR3BBRlZ6YklBWmhTTGZ4bGV6LWYyUFVfdWF2MXJ1Sl9MQnVac2pJWHpWem1WSXNiZHdv0gHHAUFVX3lxTE5FOXNYaVdHRkRjQWxadG84akhZMFcteGVNY3FaMVVqdDN3YmZVZXh5cmg1a3hQand5NXFKNGlGeXJYaGxCZVE4aWUySFJMR05xeU5xdjZuV2wwbEc1V2ZoV3pLdWQ2UEdEZHNSenAwd3RjamM3R1YyNGF1UDJZeUhFZlRsTG8yM2VNVjdSY3ZzTjFvMkZHcEFGVnpiSUFaaFNMZnhsZXotZjJQVV91YXYxcnVKX0xCdVpzaklYelZ6bVZJc2Jkd28?oc=5",
+   "source": "Devdiscourse",
+   "published": "2026-10-29T22:49+00:00",
+   "added": "2026-10-30T01:22+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "iron ore",
+    "prices"
+   ],
+   "summary": "Vale's profit falls 53% in Q3 on lower iron ore prices, higher costs Devdiscourse",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -3610,6 +3636,31 @@
     "russia"
    ],
    "summary": "Russia restarts grain shipments through Sea of Azov, media reports The Kyiv Independent",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6ccfe0e06dd3",
+   "title": "thyssenkrupp, Strategic Resources and Cleveland-Cliffs: Europe's Steel Challenge Becomes a Stock Market Opportunity",
+   "original_title": "thyssenkrupp, Strategic Resources and Cleveland-Cliffs: Europe's Steel Challenge Becomes a Stock Market Opportunity",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSzV2MTlrTVVYSW96eEtCTFpUWjd4a0N3b0xkbFFHZndaWlJOMllTUVlrdDhvV2htQk9FME4yV2lMYmMtcVZrbGxBQUl3eklsWV9KbTZhN3ZnNWg2XzE2azNaa2oySFdIWU45V25vUTVOQzcydTNBQzlHSE5uZ0RBMTFOaF9mNHU5MDZlR0h0VU1lanV1bnBkdnhxTzN6YzlUYnM1RFd1M3ptcUhRR0FTR3l4Vi1tNWxqVm05R0ZieTB0MXlYN1dFRGMzM3duUQ?oc=5",
+   "source": "Stockhouse",
+   "published": "2026-10-29T04:44+00:00",
+   "added": "2026-10-30T01:22+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "thyssenkrupp, Strategic Resources and Cleveland-Cliffs: Europe's Steel Challenge Becomes a Stock Market Opportunity Stockhouse",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -16452,65 +16503,6 @@
    ],
    "summary": "Baltic Dry Index falls 1.2% as shipping costs face fresh pressure Business Upturn",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9c533948db1f",
-   "title": "US delays port fees for Chinese ships again – now until 9 January",
-   "original_title": "US delays port fees for Chinese ships again – now until 9 January",
-   "url": "https://theloadstar.com/us-delays-port-fees-for-chinese-ships-again-now-until-9-january/",
-   "source": "The Loadstar",
-   "published": "2026-10-26T13:27+00:00",
-   "added": "2026-10-26T13:36+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia",
-    "North America"
-   ],
-   "tags": [
-    "china",
-    "chinese",
-    "logistics",
-    "port",
-    "vessel"
-   ],
-   "summary": "After all the hooting, it seems the US is keen to again delay implementation of planned port fees for China-linked vessels, with the US Trade Representative (USTR) requesting the delay to give Washington and Beijing more time to negotiate. The USTR asked that the measure intended to penalise China’s maritime, logistics, and shipbuilding sectors remain suspended through to 9 January, with the initial suspension set to expire on 9 November. “The US is continuing to engage with China with the goal of obtaining the elimination of the acts, policies, and practices at issue in the investigation. The trade representative is therefore proposing to further suspend for two months,” it stated. The USTR also said it was “requesting comments from any interested person” about the proposed suspension, giving any interested party until the end of this week to file comments. Under the measures, non-Chinese companies using Chinese-built vessels to call at US ports face charges of $50 per net tonne, while Chinese companies will be subject to fees of $18 per net ton or $120 per container discharged, depending on which is higher. That marked a dramatic downturn on the threatened $1m fee per US port call, or $1,000 per net tonne the Trump administration had initially proposed during its more aggressive approach to China diplomacy.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "06e5f72c5e2e",
-   "title": "Maersk warns East African fruit exporters of El Niño shipping disruptions",
-   "original_title": "Maersk warns East African fruit exporters of El Niño shipping disruptions",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRF96VW1scEgtMU9NVk1rNk4weVk5WFJXc2ZkM1Z4bDl6cEEwMkZ0Zzh0MGVoZGpGVGxYUkJSQk1ZbG1VelowMndUSjljbGJfMGdIeUZVcF9LMmlIOVNMb0RzU3BSTlJBRmw0emNMd183U3MtNk9oRWpsV1gtQlhtb3VwSGlVcXZRVmYzWWM5ZV9nRko0bWNWX01naXAtYnFPMkdaSU03NDdIZkJSbUFXVjd6cjFMLTRJVTFBUFoxRDhNU0NVZWlJUk9MTQ?oc=5",
-   "source": "FreshPlaza",
-   "published": "2026-10-26T13:26+00:00",
-   "added": "2026-10-26T19:57+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "shipping",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "disruption",
-    "shipping"
-   ],
-   "summary": "Maersk warns East African fruit exporters of El Niño shipping disruptions FreshPlaza",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
    "summary_method": "feed"
   }
  ]
