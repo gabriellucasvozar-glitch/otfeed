@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T12:21+00:00",
+ "generated_at": "2026-10-30T13:28+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,120 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "1bf4be2fdc02",
+   "title": "A platform to challenge ‘death by a thousand [D&D] invoices’",
+   "original_title": "A platform to challenge ‘death by a thousand [D&D] invoices’",
+   "url": "https://theloadstar.com/a-platform-to-challenge-death-by-a-thousand-dd-invoices/",
+   "source": "The Loadstar",
+   "published": "2026-10-30T13:22+00:00",
+   "added": "2026-10-30T13:28+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "ports",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "congestion",
+    "disruption",
+    "port",
+    "ports"
+   ],
+   "summary": "She has designed Provar, which approaches its first anniversary in December, a platform to address that imbalance by collecting and preserving the evidence needed to challenge improper charges. It documents terminal conditions, appointment availability, and empty-return restrictions, preserving evidence to establish whether operators had a reasonable opportunity to collect or return containers during periods in question. Provar covers terminals in Los Angeles, Long Beach, Oakland, and Seattle. Users submit their active containers, allowing the platform to automatically identify the relevant terminal and compile the supporting evidence. A dispute function helps users easily prepare formal fee challenges by combining invoices, dispute reasons, and supporting documentation into a downloadable PDF letter for submission to the shipping line. The platform also incorporates digital integrity verification to help establish that the underlying evidence has not been altered, addressing concerns about the reliability of evidence submitted in disputes. “It empowers them to do more and do it more effectively.” However, she warned that shipping lines’ evidentiary requirements were becoming “increasingly demanding”, with some requiring documentation of empty-return restrictions extending beyond the date of the disputed charge. FourOneOne has introduced a ‘plus one’ feature to document those conditions in advance. Ultimately, Ms Dandan believes that making disputes quicker, cheaper, and better supported by objective evidence could also change behaviour among shipping lines.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "d99ed68329e7",
+   "title": "Carriers’ November rate hikes ‘doomed’ say analysts, as demand goes flat",
+   "original_title": "Carriers’ November rate hikes ‘doomed’ say analysts, as demand goes flat",
+   "url": "https://theloadstar.com/carriers-november-rate-hikes-doomed-say-analysts-as-demand-goes-flat/",
+   "source": "The Loadstar",
+   "published": "2026-10-30T13:17+00:00",
+   "added": "2026-10-30T13:28+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia",
+    "North America"
+   ],
+   "tags": [
+    "carrier",
+    "freight rate"
+   ],
+   "summary": "Container spot freight rates on the transpacific eastbound trade, as recorded by Drewry, saw its steepest one-week fall since June 2025 after this year’s protracted peak season came to an end. Drewry’s World Container Index (WCI) saw the spot rate on its Shanghai-Los Angeles decline 6% week on week, to end at $7,514 per 40ft, while the Shanghai-New York route was down 5%, to $9,631 per 40ft. “According to the US National Retail Federation, US ocean import volumes are forecast to decrease 11% month on month in November, which could put further downward pressure on freight rates,” it added. “As the traditional pre-holiday ocean shipping peak fully closes out, pricing has settled into a steady holding pattern across both coasts.” However, it added that, with demand weakening and the remaining urgent pre-holiday shipments now transferring to air freight, the chances of the new general rate increase (GRI), scheduled for Sunday (1 November) – ranging from $2,000 to $3,000 per 40ft depending on carrier – sticking, were diminishing. The WCI on the Asia-Europe was essentially flat this week, as the surprising spot rate strength in October continued. However, Linerlytica this week noted: “Asia-North Europe rates remain under pressure, with carriers undermining their 1 November rate hike efforts with persistent discounts.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "ed08c6f12d6e",
+   "title": "Tanker in Strait of Hormuz Hit by Limpet Mines, Security Sources Say",
+   "original_title": "Tanker in Strait of Hormuz Hit by Limpet Mines, Security Sources Say",
+   "url": "https://gcaptain.com/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/",
+   "source": "gCaptain",
+   "published": "2026-10-30T12:36+00:00",
+   "added": "2026-10-30T13:28+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "hormuz",
+    "security",
+    "vessel",
+    "war"
+   ],
+   "summary": "FILE PHOTO: Oil/Chemical Tanker \"Bald Man\" at the Port of Fujairah, as the U.S.-Israel conflict with Iran limits marine traffic in the Strait of Hormuz, in Fujairah, United Arab Emirates, May 6, 2026. REUTERS/Amr Alfiky/File Photo Oct 30 (Reuters) – A small boat attached two limpet mines to the hull of a tanker in the Strait of Hormuz causing a fire in its engine room and temporarily disabling the vessel, in the first successful use of such explosives in the waterway since the US war with Iran began in February, maritime sources said on Friday. The crew was safe, there was no environmental impact and the fire had been extinguished, British navy agency United Kingdom Maritime Trade Operations said in an advisory note, adding that the vessel, which it did not name, was continuing to its next port of call. The tanker — the Panama-flagged Louise 1 — was targeted with limpet mines, according to assessments from three maritime security sources. This is the first known successful strike using limpet mines in the area since the beginning of the US war with Iran and followed a separate attempt in September using such devices which did not detonate, two of the sources said.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "da707166c889",
+   "title": "Oman rescues 25 from attacked RITI vessel as Hormuz shipping risks mount",
+   "original_title": "Oman rescues 25 from attacked RITI vessel as Hormuz shipping risks mount",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWXlNS2VkaGZkNHNnZTQyOFBmVGxiMDRlb1dSNnpPWnllLU5rWTZ3LWFOTlVIUEcwU1FZTmxob0kyOVVhY0NVS2lQbjh6WTJCRWlXY2JwbE5DdUtTWEo4a04xaDlLRWh5a0hCSmZ2VlJuUGJxb2Z1R1VoaEkzaE45UlpsVXdodkhpRXZPTTBjZnRYWFlfdHRSaEk0WkZLZlZDdVJYZVJQcVNCMDRMVElMak1qNGhYSE54WGYzTDdVck0waVhWbTZiRk44UQ?oc=5",
+   "source": "Business Upturn",
+   "published": "2026-10-30T12:25+00:00",
+   "added": "2026-10-30T13:28+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "hormuz",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "Oman rescues 25 from attacked RITI vessel as Hormuz shipping risks mount Business Upturn",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
   {
    "id": "6a43dfc673cc",
    "title": "‘Supply chain transformation’: Walmart and tech leader Symbotic disclose multi-billion agreement",
@@ -129,6 +243,31 @@
    "summary_method": "extract"
   },
   {
+   "id": "702ee8c9f19b",
+   "title": "Ryanair i Port Lotniczy Wrocław napędzają gospodarkę Dolnego Śląska",
+   "original_title": "Ryanair i Port Lotniczy Wrocław napędzają gospodarkę Dolnego Śląska",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQzVFMk5acmtfUUxfR19lcGtWbzJQbkx6dnVicDJyeFFaY0R5RjQxQVJaUGlnWUxvdHZYZ1hvOVZfRk9UQUFPRU9RS2VUMDdPUGNaQTlZXzA2bVFkZTVlUHdJM0NueG1adE8wTlNCeXd1RXNWNTZaNGNCZkdoamQtRk13MEdqZGU0X1pGRUVBbTdpcFR0Rm5aV2UtZmdNSUZ0NE53N0h1R3hTVFpRYVhLNV9fY0ktdHdlcFRV?oc=5",
+   "source": "Rynek Lotniczy",
+   "published": "2026-10-30T11:41+00:00",
+   "added": "2026-10-30T13:28+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "Ryanair i Port Lotniczy Wrocław napędzają gospodarkę Dolnego Śląska Rynek Lotniczy",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "171200089960",
    "title": "Kazakhstan and Turkey: Partners Across the Middle Corridor",
    "original_title": "Kazakhstan and Turkey: Partners Across the Middle Corridor",
@@ -152,6 +291,60 @@
    ],
    "summary": "Kazakhstan and Turkey: Partners Across the Middle Corridor The Times Of Central Asia",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2701bc7d237f",
+   "title": "More than 100 ports join international dockworkers’ strike against arms shipments",
+   "original_title": "More than 100 ports join international dockworkers’ strike against arms shipments",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd3d3WHNLOGIxRTdkOUxyUHpxUmRzSVlfVGNzVldCWnpPVkJFa0Y4b056OXNQbUpyLWNfYmEzMmJKbmRwYkwxOUZqNGQzcXFTa1dYdkZjWGNka3ZoakNoeWhQMlROX3N0RUxCbTZndzBOU2MyUnczVzBybkd4THRrSlloYUZDNll4LU9IY25yTkF3dVRDbTNtUUM4cW1Vb2s2b2hnNEh2RENfT3NicFRleVJoYWx2QmlsT2diVkNmOA?oc=5",
+   "source": "Middle East Eye",
+   "published": "2026-10-30T11:18+00:00",
+   "added": "2026-10-30T13:28+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "More than 100 ports join international dockworkers’ strike against arms shipments Middle East Eye",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "6b496758bc9c",
+   "title": "Huisman to Supply Knuckle Boom Cranes for Siem Industries' Offshore Support Vessels",
+   "original_title": "Huisman to Supply Knuckle Boom Cranes for Siem Industries' Offshore Support Vessels",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWWh4Y3BpNXpUUlNKYjVNWmU0M0hWa01NZDhXSU5ad2xOWFpFeXhYbDVRUlVYcmE4bGx3U2F2dWFlRDlQdTBmeVZTV2dsdVA2V1JiM1NRcG1rSjB5bVNmeE1DeThQUXJBNDBGbS1uQlBnR1RCUG9uZkRlZlJ5TC1IWGtPWkJmbHZ6bWtsakQ4VjRRMVVYUFJmS0oxZHZ0UTFpRHJlcHJSdmIxRS1hdDN1ZlZR?oc=5",
+   "source": "IndexBox",
+   "published": "2026-10-30T11:12+00:00",
+   "added": "2026-10-30T13:28+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "crane",
+    "cranes",
+    "vessel"
+   ],
+   "summary": "Huisman to Supply Knuckle Boom Cranes for Siem Industries' Offshore Support Vessels IndexBox",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -936,6 +1129,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "0bda22abd977",
+   "title": "Najpierw Pendolino teraz Port Polska. CPK ma nowego prezesa",
+   "original_title": "Najpierw Pendolino teraz Port Polska. CPK ma nowego prezesa",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMktIVE5PYThLZ0JidzFyeEtUX3lUN2xRWVV0NmtYR0VLdF9CLUgtcG9vVk1wZ2JtcnlWUk5iMzdhOEVOMEw3UnFuemFEMGRHUVYtLXNLcnQ0eHVwUEpOMm1QcHlzb2VPd2trTTJEc05LVW9USThIYmlMazBwV2l2ZHhUNEEwd1FKQXB6TzJNa1M0LXRfSUw0bXJQTGs0SXBSMFVxOHVLQnpTNU0?oc=5",
+   "source": "PropertyNews.pl",
+   "published": "2026-10-30T09:14+00:00",
+   "added": "2026-10-30T13:28+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Najpierw Pendolino teraz Port Polska. CPK ma nowego prezesa PropertyNews.pl",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "458c143fea89",
    "title": "Piotr Borys nowym prezesem spółki Centralny Port Komunikacyjny",
    "original_title": "Piotr Borys nowym prezesem spółki Centralny Port Komunikacyjny",
@@ -957,6 +1177,33 @@
     "port"
    ],
    "summary": "Piotr Borys nowym prezesem spółki Centralny Port Komunikacyjny Kolejowy Portal",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "7e7498a82afd",
+   "title": "Jest nowy prezes spółki CPK. \"Port Polska to zobowiązanie, także wobec przyszłych pokoleń\"",
+   "original_title": "Jest nowy prezes spółki CPK. \"Port Polska to zobowiązanie, także wobec przyszłych pokoleń\"",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BbWZmZTd0elVQV0JtMlFLTHFTX3pBS3Q1UWJPbkFJLU1pUWc5VE9jQm5UVmhEbjNBdDhaLXlTb0tKZEhPQ25GT2dOOF80LWRseFRDaTQ1QlVHU0o0QXY0ZmpVWDhEOEdTRmpGbGxKMEhWWi1HNVhFYQ?oc=5",
+   "source": "TVN24",
+   "published": "2026-10-30T08:33+00:00",
+   "added": "2026-10-30T13:28+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "polska",
+    "port",
+    "port polska"
+   ],
+   "summary": "Jest nowy prezes spółki CPK. \"Port Polska to zobowiązanie, także wobec przyszłych pokoleń\" TVN24",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -10330,6 +10577,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "74ad7a5265c9",
+   "title": "A new rail freight service between Poland and Luxembourg, with four weekly services",
+   "original_title": "A new rail freight service between Poland and Luxembourg, with four weekly services",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN0pFanBiMjlSeGFvUnc1MmRYOVZkMjA0LVRrNkVSeUtIY0QzMWFXbHRxdkRQZU5ZczdxZHhPTXFmdklWUVNfc0VQaXZpMkdEZEIxcWZEN0FZcjdMekhnOHhkU3F6QWlkOHQtbmxia1hIU1lfN1k4LWp6Y1N1azBTajlzSFEycmtrN0VyMHhRcGs?oc=5",
+   "source": "Railway PRO",
+   "published": "2026-10-28T07:54+00:00",
+   "added": "2026-10-30T13:28+00:00",
+   "lang": "en",
+   "category": "rail",
+   "categories": [
+    "rail"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "poland",
+    "rail freight",
+    "railway"
+   ],
+   "summary": "A new rail freight service between Poland and Luxembourg, with four weekly services Railway PRO",
+   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
    "id": "2446c0bf556d",
    "title": "France is providing EUR 3 billion to extend the service life of 360 trains",
    "original_title": "France is providing EUR 3 billion to extend the service life of 360 trains",
@@ -16218,277 +16492,6 @@
     "terminal"
    ],
    "summary": "[INWESTYCJE] Lotnisko w Jasionce zbuduje nowy terminal? Pracują nad koncepcją Czytaj Rzeszów",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e2f4ee46529d",
-   "title": "CSC Global Shipping Minds Summit: Where geopolitics, regulation, and maritime decarbonisation meet",
-   "original_title": "CSC Global Shipping Minds Summit: Where geopolitics, regulation, and maritime decarbonisation meet",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY3dDOU04cW0zTS0tQVlGUDE1Y2tza2JXZ0U3cHVIX0R4Z1RzS0kwN21ESzFCU2VPeU9ONy1xZV85Q3JtbmR6STJJLXNCV0VqQ1Z4ZHFUbU5sNEZsb29NY1VCaHFtUVBwZ2lYdEFPek40UDVkbE96QnhlUDU0VE5Yam9nMW4yWU53QTlUWDVxVGczZjhIbGpUMU0tUTY5M0tQU2w1SXpqLV9SZHUzWFBUc2VhSXBLUGItcW14R3hlR1I4eFhLVE9FZ3BhZmhzdw?oc=5",
-   "source": "CBN.com.cy",
-   "published": "2026-10-27T07:34+00:00",
-   "added": "2026-10-27T09:05+00:00",
-   "lang": "en",
-   "category": "regulation",
-   "categories": [
-    "regulation",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "regulation",
-    "shipping"
-   ],
-   "summary": "CSC Global Shipping Minds Summit: Where geopolitics, regulation, and maritime decarbonisation meet CBN.com.cy",
-   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "775f5fdfada7",
-   "title": "Centre clears Rs 797 crore green hydrogen jetty project at Paradip Port to boost clean energy logistics",
-   "original_title": "Centre clears Rs 797 crore green hydrogen jetty project at Paradip Port to boost clean energy logistics",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRWZUblVtdkZHRzBQejdIVW9WNHF4NUU4STRUbVpOY2djLWkxX3AyR0pvYTNwc0MwbWRmWVBkeG1FX193OWdNZmU4cTdleVdfNmlZUDlBUmI3R1VYUzhFT05JbzF5bW85aW1hRjJVdkJlZEZ6LVRjMEJkMUpTMWMtWlNta291MDhaWTloM0VSZEpTX05pMWt4ZFZqQ3M3OFQ0bmhxR1pnR0x4QzJjc0VjSUtTMW9tSlFoRjY2X09FZTJ6UWdSTEdDNw?oc=5",
-   "source": "DD News",
-   "published": "2026-10-27T07:31+00:00",
-   "added": "2026-10-28T01:55+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "hydrogen",
-    "logistics",
-    "port"
-   ],
-   "summary": "Centre clears Rs 797 crore green hydrogen jetty project at Paradip Port to boost clean energy logistics DD News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "5f5242b895f0",
-   "title": "How conflicts are impacting global supply chains",
-   "original_title": "How conflicts are impacting global supply chains",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVXVTU1FZWnl2S2pVVW9OeTFSa3FwSWIwMDd6X1VXWURydzBmRHNKNXhrdHUxb0JRLVJRTFpzRkd6eGRKUmRZVkoxcll0OEIxRFBVQkszNkhwSGVWVFM1clZ5MHJybWFJdThvbE1YV3VjQzFCc1YtcjEzVE11aUtLOVpwaG0xR2VRZDkwUVEtRU1PNGxpQjNKUG56NTY3UnBRRWprZEdjZ3pqSVhEU0ZObkJOM1ZrUjZpSHpybGFNOTU?oc=5",
-   "source": "Deloitte",
-   "published": "2026-10-27T07:25+00:00",
-   "added": "2026-10-27T16:44+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "supply chain",
-    "supply chains"
-   ],
-   "summary": "How conflicts are impacting global supply chains Deloitte",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "78ab2feafb7d",
-   "title": "BGK szykuje 30 mld zł na Port Polska i elektrownię jądrową. Prezes stawia warunki",
-   "original_title": "BGK szykuje 30 mld zł na Port Polska i elektrownię jądrową. Prezes stawia warunki",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUjdTMzBBaUQ2LS1VeXBkZTgwaWphMEtodG1IcEFkYmJqX09wRmd6T0FWazdCODk2Q0RNWXFrQmJkYVZZcS1fNjNJSzNGak1QZ25XWE94c2ZBX0o4NjN1MGpZYVZRWXhQNS03cmdBUERJTW9RS3dSSzdBSVg3UHYySVV3ZmRzMDFUZzhseGxJWmVvXzFDYTJJdkpIdHBYemo3NE0xNUZtMXI0VHRCeW1LQ0hwOE9BbFpRVHNOQlpZek5VYnpiY3o2cFgxTExiM3lj?oc=5",
-   "source": "Radio ESKA",
-   "published": "2026-10-27T07:23+00:00",
-   "added": "2026-10-27T08:18+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polska",
-    "port",
-    "port polska"
-   ],
-   "summary": "BGK szykuje 30 mld zł na Port Polska i elektrownię jądrową. Prezes stawia warunki Radio ESKA",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bd5f85fa02a0",
-   "title": "FHP Intermodal commits to relaunch rail freight in southern Italy",
-   "original_title": "FHP Intermodal commits to relaunch rail freight in southern Italy",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWxISVhfOF9nVmtnbENYcjNGOHBkZXdnSWtpdHl0T0MtcVBPeVgwVzVwN1FGX0NxQmJFTUVXU2p0blRYNUF3cnpSS19adk9DSXNtTkNJT1dDZnpTU2NrcmZzb0JlSUlXaFRtb05ma1VxV0RlZ2xfQUg5MF9ObkVVd3p3UGFPdEhaZlhGZGZHU29mZUpBY1h2TUVDTmtNZGpaZHhtRWJhaUI0YlZ4Rjhabkw2SHNmSTg?oc=5",
-   "source": "RailFreight.com",
-   "published": "2026-10-27T07:21+00:00",
-   "added": "2026-10-27T11:49+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "intermodal",
-    "rail freight"
-   ],
-   "summary": "FHP Intermodal commits to relaunch rail freight in southern Italy RailFreight.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a08bf7783208",
-   "title": "Rising Coal Import Demand in Asia Drives Resurgence in Global Seaborne Coal Trade",
-   "original_title": "Rising Coal Import Demand in Asia Drives Resurgence in Global Seaborne Coal Trade",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCamlyeFZFM0Vkb2cyeXh0NzU0R3htcVNDR0hXMWlhVmQ2cHRUcnh2aDZUcFlHcEZFb2lYTnZtR2pRY01udno0OHFLQkhLblZUVTU3bVo2QWRPcy1lbGc?oc=5",
-   "source": "Sunsirs",
-   "published": "2026-10-27T07:08+00:00",
-   "added": "2026-10-27T09:05+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "coal"
-   ],
-   "summary": "Rising Coal Import Demand in Asia Drives Resurgence in Global Seaborne Coal Trade Sunsirs",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "15e405ec0dc9",
-   "title": "Baltic Hub będzie największym terminalem kolejowym Europy i podwoi swoją przepustowość",
-   "original_title": "Baltic Hub będzie największym terminalem kolejowym Europy i podwoi swoją przepustowość",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNclZaczc0OF9VOEptNE4yVTVRR0h5VUxYTHF5MXJWbXBjUjZyM3pJV2JpOFZkU0lVSTl2eUtDaUVGS1dCSnp4d0xhR3lHSHozaDZSZEdqWHdDVFR5NmcwckNnb1d0NFlIS1JkVzlLUnNDemEtc2U4NzlnMG5ERUgyS1I2aXBYdXc2MzFrdFNneHhtS25GOWplck54RHdycjMzUmZUSGtRRkQ4NGtfdmRzUjJKekgxSVNObkJDZEVDcDVDNGIxOUJacUk1aWxHVFpIQ3lMZ01vTGhNZ0poVWRzSFdXVS1vU1JkYnN4NmI2WUFLdzNxUl9Yc2F2VQ?oc=5",
-   "source": "Rynek Infrastruktury",
-   "published": "2026-10-27T07:00+00:00",
-   "added": "2026-10-29T11:51+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Baltic & Nordics"
-   ],
-   "tags": [
-    "baltic",
-    "baltic hub",
-    "terminal"
-   ],
-   "summary": "Baltic Hub będzie największym terminalem kolejowym Europy i podwoi swoją przepustowość Rynek Infrastruktury",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "395f372b36fd",
-   "title": "Kalmar Oyj (HLSE:KALMAR) - Stock Analysis",
-   "original_title": "Kalmar Oyj (HLSE:KALMAR) - Stock Analysis",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XZW9lSUFLOHB3V29hOW10RDN0ZE45UUl4S2Z0RmtxdDFDckJpcDAta2NZZUY2MEs0WUs1enhuUjdvWERiRS03RGpELUFSLUZ0bzVPV3o0Zl9Xb2tZc21lYkdrMEt1Rk1qUS1XQS1CbHluZTJhYjRyVTFaZHVidmc?oc=5",
-   "source": "Simply Wall St",
-   "published": "2026-10-27T07:00+00:00",
-   "added": "2026-10-29T18:13+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "kalmar"
-   ],
-   "summary": "Kalmar Oyj (HLSE:KALMAR) - Stock Analysis Simply Wall St",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "56d4b83d6c5b",
-   "title": "Three Russian Diesel Tankers Due at U.S. Ports Under Trump Waiver",
-   "original_title": "Three Russian Diesel Tankers Due at U.S. Ports Under Trump Waiver",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iT3ZuRWNmNi0tclc0aUpXd3lFZHRHXzhYcHBEdTA5Q1hHOHNfX3R4ZTBJcGFOSVp5a2U0allTTGZ6cDZkOFdNaDJXeWhxamNYUmVuYWRIMFRjdXc?oc=5",
-   "source": "www.tokenpost.com",
-   "published": "2026-10-27T06:44+00:00",
-   "added": "2026-10-27T07:30+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "ports",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 11,
-   "regions": [
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "diesel",
-    "port",
-    "ports",
-    "russia",
-    "russian"
-   ],
-   "summary": "Three Russian Diesel Tankers Due at U.S. Ports Under Trump Waiver www.tokenpost.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "e7ac48993fff",
-   "title": "„Rz”: Brakuje 20 mld na Port Polska. Uratować sytuację mają pieniądze BGK",
-   "original_title": "„Rz”: Brakuje 20 mld na Port Polska. Uratować sytuację mają pieniądze BGK",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNUZnemNzMkxlS0J4SmJyaV8zQzVWRzhzMENiY0V3aWJ3ajJJbE41U29tRGNlRzlFa1ctSTVrcWJQbl9LMkx4SlNkMUtxckRmdjZKdmNibGg2NmQyVlpoLXNtRTVkd1R5cHFZQ195SmFkNlZBMEtoakFkV2M2YXpZQzZIalc5d1FSRVlTb3RnZk9ZeF92THlmcnE3YTB4WXM0WGNRcERjS0MyTW1wbVhtclVB?oc=5",
-   "source": "RMF24",
-   "published": "2026-10-27T06:39+00:00",
-   "added": "2026-10-27T07:30+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polska",
-    "port",
-    "port polska"
-   ],
-   "summary": "„Rz”: Brakuje 20 mld na Port Polska. Uratować sytuację mają pieniądze BGK RMF24",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   }
