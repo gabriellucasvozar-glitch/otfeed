@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T10:12+00:00",
+ "generated_at": "2026-10-30T10:59+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,89 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "873be7502afd",
+   "title": "Swedish owner Veritas books up to six chemical tankers in China",
+   "original_title": "Swedish owner Veritas books up to six chemical tankers in China",
+   "url": "https://splash247.com/swedish-owner-veritas-books-up-to-six-chemical-tankers-in-china/",
+   "source": "Splash247",
+   "published": "2026-10-30T10:30+00:00",
+   "added": "2026-10-30T10:59+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "shipping",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "shipowner",
+    "steel"
+   ],
+   "summary": "Swedish shipowner Veritas Tankers has placed an order for up to six 13,000 dwt stainless steel chemical tankers at China’s Nantong Rainbow Offshore & Engineering Equipment, in a deal potentially worth $248m. The yard’s Shenzhen-listed parent, Jiangsu Rainbow Heavy Industries, confirmed the contract with an unnamed European owner in a stock exchange filing, putting the total value of the six-ship package, including options, at CNY1.5bn to CNY1.65bn ($225m to $248m). Shipbroking sources identify Sweden’s Rederi AB Veritas Tankers as the buyer, although the shipowner has not publicly confirmed its involvement. The Chinese group has not specified how many vessels are firm and how many remain optional, but said deliveries are scheduled to begin 28 months after the contract is signed. The newbuildings are intended for parcel chemical trades, with designs suited to restricted waterways and operating conditions in northern Europe. For Rainbow, the deal adds another European customer to its chemical tanker business. Essberger for two firm 13,000 dwt stainless steel chemical tankers and four options, with deliveries starting in 2027. That programme, covered by Splash in September 2024, forms part of Essberger’s fleet renewal drive and its investment in the E&S Tankers Pool operated with Stolt Tankers. Since 2022, Ove Johnsson has wholly owned and controlled Veritas Tankers.",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "0506ed5bc667",
+   "title": "250 watchmen, one picket line and half of America’s busiest port complex",
+   "original_title": "250 watchmen, one picket line and half of America’s busiest port complex",
+   "url": "https://theloadstar.com/250-watchmen-one-picket-line-and-half-of-americas-busiest-port-complex/",
+   "source": "The Loadstar",
+   "published": "2026-10-30T10:26+00:00",
+   "added": "2026-10-30T10:59+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "port",
+    "security"
+   ],
+   "summary": "A threatened Sunday walkout at Los Angeles and Long Beach may be delayed until Wednesday. The real danger is the reach of a small union local, with 35,688 containers already waiting for rail service. It takes a special kind of labor dispute to put half a port complex at risk with a workforce smaller than the guest list at a medium-sized wedding. At Los Angeles and Long Beach, some 250 security watchmen have managed it without leaving their posts.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "da87224f82c2",
+   "title": "Leading Hull port logistics player is snapped up in major deal",
+   "original_title": "Leading Hull port logistics player is snapped up in major deal",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVm5FRzJuUEJxbGZGYVAzVTF5aVVnWVctU0xka01GWW5zVVRxUzJhVEhlSGxickVXNVJMcFhjSk9rTDloeHlRQy1pX3Q1TERjTk52Mmc1WGMwMjRoc2dIYk5WcFBwZDIyaWJNbW1pS1BNRHVYaVdnX29NTHp1Zy1zRURsNTBMOWd4RHNrRTJIeVZmcFhyTzl4Wnd6cGtERHlVZU9xZWkxbUvSAa4BQVVfeXFMT2pVZjFvS1ladndxYVRCZkVmZ2lDa2gwOTVrR0tJQkRYOUtjU2YyQkpsM05lT3BVYndoRGN2QklvUUtjT2FOUGNkcDl0eDRURVJ1TE13UmgyMW94MGRwU3ZvVE5CLW1nVjRvUWlkWEJoMjZvUUNUbmxsX3VnclhuT28wcHNZdy1VZXJJT3lxdU85MEhBNG9xYVBuWlNvWlFSVFF1eGdaMVJPSS01WU13?oc=5",
+   "source": "Hull Live",
+   "published": "2026-10-30T10:10+00:00",
+   "added": "2026-10-30T10:59+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "logistics",
+    "port"
+   ],
+   "summary": "Leading Hull port logistics player is snapped up in major deal Hull Live",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
   {
    "id": "8abd8084b2e2",
    "title": "Evalend drops newcastlemax option at Dajin Heavy",
@@ -183,6 +266,31 @@
    ],
    "summary": "European inland ports push for drought safeguards in EU climate law Splash247",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "65c02577c3e5",
+   "title": "GEODIS puts electric prime mover on Port Botany container haulage in Sydney",
+   "original_title": "GEODIS puts electric prime mover on Port Botany container haulage in Sydney",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT1pSaGZFWHY5eVFydzFTdWpVTVJGa09XN09Jc2xWN0hkNFc4dDloeHZZMUxncGRTaE80dS1zZ2FGTXVSYkI5dk1YOFVIYkVEZnkxWDl4cVFZY1BFb1BZdnpfOW9yX29SUmwxU3BHck1Ja2RnVjhOc0toTVNESXE0NXlsTUd4ZnY3OURtQkt5NUtJYi1wVWNCRkVRVFdlSnhxVEl6MQ?oc=5",
+   "source": "Container Management",
+   "published": "2026-10-30T09:22+00:00",
+   "added": "2026-10-30T10:59+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port"
+   ],
+   "summary": "GEODIS puts electric prime mover on Port Botany container haulage in Sydney Container Management",
+   "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
   {
@@ -16184,6 +16292,32 @@
    "summary_method": "feed"
   },
   {
+   "id": "af5f2fe1ae76",
+   "title": "Argentinas Santa Fe Ports Handle Over 3.3 Million Tonnes Through September - DatamarNews",
+   "original_title": "Argentinas Santa Fe Ports Handle Over 3.3 Million Tonnes Through September - DatamarNews",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSWZpMk9YZERkUjVJTUo1X2p5RHJJRkFta3dKYmQ1dDZEMFdMY2lBRHZmUk5kS2lnTThBX3IyTWUzNTNhbkhqenROSG9yYmV3a2UzQWlvaDZ3dDBqaFJ5X3dxdkd0bW1XLUx0WTJWd3RORTNUVkY0UlhBcHp6dEJZZTdyTVhBSFk3MWpMMF9MbVFjT0x5MkdjRTdLc0Z0djdPLXA1dzVTZlRDdkl0TUtIVEt6YmdsVEdLTHZ5REhn?oc=5",
+   "source": "Nuevo Enfoque Urbano",
+   "published": "2026-10-26T23:48+00:00",
+   "added": "2026-10-30T10:59+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "port",
+    "ports"
+   ],
+   "summary": "Argentinas Santa Fe Ports Handle Over 3.3 Million Tonnes Through September - DatamarNews Nuevo Enfoque Urbano",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "aa53e62f050e",
    "title": "As Attacks Mount, Shipping Faces an Uncomfortable Question: Are Safety Rules Fit for War?",
    "original_title": "As Attacks Mount, Shipping Faces an Uncomfortable Question: Are Safety Rules Fit for War?",
@@ -16344,154 +16478,6 @@
     "vessel"
    ],
    "summary": "According to Intermodal’s Nikos Tagoulis, Head of Research Department, “behind this export expansion lies China’s highly integrated automotive supply chain, spanning mineral processing, battery production, electric motors and vehicle assembly. According to the IEA, China accounts for 91% of global refining of magnet-related rare earths, 94% of sintered permanent magnet production and over 80% of battery cell output. Rare-earth magnets are used in many EV motors, rather than in lithium-ion batteries themselves. Against this backdrop, the 1-year time-charter rate for a 6,500-CEU PCTC climbed steadily through 2026 to approximately $95,000/day in September, 43% above its 2026 average and 21% above its 5-year average, returning to levels last seen nearly two years earlier”. PCTC newbuilding contracts surged to 82 vessels in the first nine months of 2026, against just nine throughout 2025 and a 10-year annual average of 35. In October 2026, the EU and China reportedly reached a preliminary understanding on proposed restrictions covering Chinese-built conventional and plug-in hybrid vehicles. Under the proposed four-year arrangement, potentially taking effect in December 2026, annual imports would initially be capped at 350,000 units, with the quota increasing by 6% each year, subject to formal implementation. Against projected Chinese hybrid imports of around 800,000 units in 2026, these measures could significantly constrain shipment growth along the China–Europe corridor.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "d65fc82c1450",
-   "title": "Bunker Quality Alerts Prompt CΜΤ Concern Over Engine Damage And Repair Costs",
-   "original_title": "Bunker Quality Alerts Prompt CΜΤ Concern Over Engine Damage And Repair Costs",
-   "url": "https://www.hellenicshippingnews.com/bunker-quality-alerts-prompt-c%ce%bc%cf%84-concern-over-engine-damage-and-repair-costs/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-26T22:00+00:00",
-   "added": "2026-10-26T22:17+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Western Europe",
-    "North America"
-   ],
-   "tags": [
-    "bunker",
-    "port",
-    "ports",
-    "shipowner",
-    "vessel"
-   ],
-   "summary": "The advisory follows reports of fuel quality problems at Antwerp, Rotterdam, Houston, Singapore, Hong Kong, Piraeus and other bunkering locations during the past six months, involving excessive catalytic fines, poor fuel stability, high sediment levels and low flash points. In part, the drop in fuel quality can be attributed to the supply chain disruption caused by the current geopolitical landscape and conflict, says David Fuhlbrügge, joint managing director, CM Technologies (CMT). “Although conflicts cannot be directly blamed for individual cases of contaminated or off-specification fuel, changes in the availability and sourcing of blending components are important factors shipmanagers need to consider when managing bunker quality,” he said. It also issued 29 bunker alerts during the first seven months of 2026, with excessive catalytic fines and fuel stability problems accounting for 72% of them. “With fuel supplies under pressure and ships taking bunkers from different ports and suppliers, crews need to be particularly careful about what is going into their tanks.” Data published by West P&I in September, covering fuel samples tested between April and September 2026, found technical off-specification rates for heavy fuel oil (HFO) of 46.2% in Antwerp, 41.4% in Norfolk, 38% in the Panama Canal region and 35.5% in Rotterdam.",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "98c933bd46ba",
-   "title": "Shipowners urged to act as Bangladesh recycling prices surge, warns Wirana",
-   "original_title": "Shipowners urged to act as Bangladesh recycling prices surge, warns Wirana",
-   "url": "https://www.hellenicshippingnews.com/shipowners-urged-to-act-as-bangladesh-recycling-prices-surge-warns-wirana/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-26T22:00+00:00",
-   "added": "2026-10-26T22:17+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 10,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "prices",
-    "shipowner",
-    "shipping",
-    "steel",
-    "vessel"
-   ],
-   "summary": "Shipowners considering recycling older vessels have a narrow window to secure higher prices in Bangladesh, following an unexpected surge in offers despite continued weakness in the country’s domestic steel market, says Wirana Shipping. The oldest global vessel cash buyer has warned that the current price levels may prove short-lived, with limited vessel availability driving competition among recyclers and pushing offers beyond levels that can be sustained by underlying steel market conditions. According to Wirana’s latest weekly market report, a dry cargo vessel was sold for recycling in Bangladesh at approximately eight per cent above the previous week’s price levels. Wirana believes similarly high prices may only be achievable for another three or four recycling candidates, creating a potentially valuable opportunity for shipowners already contemplating vessel disposals. Rakesh Khetan, CEO of Wirana Shipping, said: “What we are seeing in Bangladesh is an unusual situation where recycling prices are rising despite weak demand for steel. “This competition is creating opportunities for shipowners to achieve prices that may not be available in the coming weeks. The wider international shipping market continues to restrict the availability of recycling candidates, with relatively strong charter earnings encouraging owners to keep older vessels trading rather than send them for demolition.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "643cfaf7feda",
-   "title": "Iron Ore Slides on Weak Steel Mill Profits",
-   "original_title": "Iron Ore Slides on Weak Steel Mill Profits",
-   "url": "https://www.hellenicshippingnews.com/iron-ore-slides-on-weak-steel-mill-profits/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-26T22:00+00:00",
-   "added": "2026-10-26T22:17+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "chinese",
-    "futures",
-    "iron ore",
-    "steel"
-   ],
-   "summary": "Iron ore futures fell toward CNY 670 per ton on Monday, hovering near four-year lows as weakening profitability among Chinese steel mills dampened demand prospects. Industry data showed that the blast furnace operating rate at 247 Chinese steel mills stood at 80% last week, down 4.3% from the same period a year earlier. Supply conditions also remain ample, supported by elevated iron ore arrivals at Chinese ports and increasing global shipments. Meanwhile, China’s state-backed iron ore buyer recently reached a new supply agreement with Rio Tinto, easing concerns over raw material availability. The China Mineral Resources Group reportedly informed several steel mills verbally of the deal last week, although specific terms were not disclosed. Previously, CMRG had instructed some steelmakers to suspend negotiations with Rio Tinto over shipments scheduled from September. Source: Trading Economics",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c1f197b988ec",
-   "title": "Stena signs agreement to acquire Color Line",
-   "original_title": "Stena signs agreement to acquire Color Line",
-   "url": "https://www.hellenicshippingnews.com/stena-signs-agreement-to-acquire-color-line/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-26T22:00+00:00",
-   "added": "2026-10-26T22:17+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "acquire",
-    "ferry",
-    "shipping"
-   ],
-   "summary": "The Swedish industrial Group Stena AB, owner of ferry operator Stena Line, has entered into an agreement to acquire the Norwegian shipping company Color Line, subject to regulatory approval. Privately owned Stena’s acquisition of Color Line from Norwegian industrialist Olav Nils Sunde and his family will unite two successful ferry operators with deep roots in Scandinavian maritime traditions, strong market expertise and high customer satisfaction. Following completion, Stena intends for Color Line to continue as a separate, independent business and brand, with local management in Norway and Norwegian-registered ships. At the same time, Stena will use its industrial expertise, reach and experience to strengthen and further develop Color Line – including in decarbonization, technology and digitalization, customer service and logistics. When we welcome Color Line to the Stena family, I am confident that together we will be able not only to develop our business opportunities but also to contribute to the positive development of communities, including through tourism and more sustainable shipping,” says Niclas Mårtensson, CEO of Stena Line. “Color Line is one of the most recognized and valued brands in our industry, and Stena wants to preserve these strengths while giving us a stronger foundation for the company’s further development and renewal as part of Stena.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "a927b37fb99c",
-   "title": "WinGD secures long-term service contracts covering 14 dual-fuel LNG carriers across three major shipowners",
-   "original_title": "WinGD secures long-term service contracts covering 14 dual-fuel LNG carriers across three major shipowners",
-   "url": "https://www.hellenicshippingnews.com/wingd-secures-long-term-service-contracts-covering-14-dual-fuel-lng-carriers-across-three-major-shipowners/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-10-26T22:00+00:00",
-   "added": "2026-10-26T22:17+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "carrier",
-    "lng",
-    "shipowner",
-    "shipping"
-   ],
-   "summary": "Swiss marine power company WinGD has secured three long-term service agreements covering 14 dual-fuel LNG carriers. The agreements with leading LNG ship managers demonstrate growing industry confidence in OEM-led lifetime support and mark significant progress in the expansion of WinGD’s global service business. The agreements with COSCO Shipping LNG (Hong Kong) Ship Management, NYK LNG Shipmanagement and TMS Cardiff Gas cover vessels powered by different generations of WinGD’s X-DF dual-fuel technology. The latest agreements expand Global Service by WinGD’s presence across major LNG shipping markets and further strengthen the company’s growing portfolio of long-term lifecycle support contracts. The recent contract wins include a ten-year agreement with COSCO Shipping LNG (Hong Kong) Ship Management covering six LNG carriers powered by WinGD 6X72DF engines. WinGD has also signed a five-year service agreement with Japan’s NYK LNG Shipmanagement covering ten X-DF dual-fuel main engines across five LNG carriers. In Greece, one of the world’s major shipowning and ship management markets, WinGD has signed a long-term engine service agreement covering three newbuild LNG carriers operated by Athens-based TMS Cardiff Gas Ltd. Built by HD Hyundai Samho in South Korea, the vessels are each equipped with two WinGD 5X72DF dual-fuel engines.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
   }
