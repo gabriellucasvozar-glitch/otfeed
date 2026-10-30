@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T07:24+00:00",
+ "generated_at": "2026-10-30T08:21+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,63 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "52f3eeecd823",
+   "title": "Dockworkers unite across 113 ports in global anti-war protest",
+   "original_title": "Dockworkers unite across 113 ports in global anti-war protest",
+   "url": "https://splash247.com/dockworkers-unite-across-113-ports-in-global-anti-war-protest/",
+   "source": "Splash247",
+   "published": "2026-10-30T08:00+00:00",
+   "added": "2026-10-30T08:21+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "port",
+    "ports",
+    "war"
+   ],
+   "summary": "One of the largest coordinated port labour mobilisations in history is underway today, with more than 25 unions staging strikes and demonstrations at 113 ports across 22 countries and territories. The worldwide action, organised under the banner “Dockworkers do not work for war”, has expanded dramatically from a smaller mobilisation involving 20 ports across seven countries in February. Major gateways involved include Hamburg, Le Havre, Marseille, Genoa, Gioia Tauro, Piraeus, Tangier Med, Mersin and India’s Nhava Sheva. France’s CGT has called a 24-hour walkout across approximately 24 ports, predicting that as much as 95% of national port activity could be halted. Italy has registered a nationwide 24-hour ports strike, coinciding with a general strike affecting other transport sectors. In Greece, seafarers’ unions have called 24-hour stoppages expected to disrupt ferry services at Piraeus, Rafina, Lavrio, Patras and Igoumenitsa. An international solidarity campaign for Liverpool dockworkers in January 1997 involved 105 ports and cities across 27 countries. Separately, a potential November 1 strike involving 250 port watchmen threatens operations at Los Angeles and Long Beach, although negotiations to avert the stoppage are continuing. Italy also faces another national general strike on November 20.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "a8a6f2430b22",
+   "title": "Oil majors count the cost of runaway tanker rates",
+   "original_title": "Oil majors count the cost of runaway tanker rates",
+   "url": "https://splash247.com/oil-majors-count-the-cost-of-runaway-tanker-rates/",
+   "source": "Splash247",
+   "published": "2026-10-30T07:26+00:00",
+   "added": "2026-10-30T08:21+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "freight rate",
+    "quarterly",
+    "results",
+    "shipping"
+   ],
+   "summary": "Soaring tanker freight rates are taking an increasingly heavy toll on the world’s oil majors, with the latest quarterly results revealing billions of dollars in additional shipping-related liabilities, squeezed refining margins and losses on trading positions. Shell has disclosed a $5.4bn non-cash increase in its shipping lease liabilities during the third quarter, reflecting the extraordinary rise in tanker rates since the outbreak of the Middle East conflict. The accounting adjustment relates to index-linked vessel charters, which must be revalued using prevailing spot rates. Pouyanné said having tankers available at agreed rates had also allowed the company’s traders to profit from moving Iraqi crude through the Strait of Hormuz. Italian energy giant Eni has similarly acknowledged that rising shipping costs are eating into its refining earnings The company reported third-quarter refining adjusted operating profit of €730m, supported by strong margins and increased refinery utilisation, but said the gains were partly offset by higher freight costs and unfavourable crude differentials. Its crude, products and liquids business swung to an adjusted operating loss of $96m in the third quarter, compared with a $355m profit in the preceding three months. The Norwegian major also identified increased freight rates as an important contributor to higher operating expenses during the first nine months of 2026.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
+  },
   {
    "id": "1490a70f761f",
    "title": "CVC takes majority stake in Spanish ship repair yard Cernaval",
@@ -338,6 +395,33 @@
    "summary": "Putin warns Europe against Baltic Sea curbs, flags Hormuz-like disruption Business Standard",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
+  },
+  {
+   "id": "4322975ffd8b",
+   "title": "Equinor’s US offshore wind project faces fresh schedule setback",
+   "original_title": "Equinor’s US offshore wind project faces fresh schedule setback",
+   "url": "https://splash247.com/equinors-us-offshore-wind-project-faces-fresh-schedule-setback/",
+   "source": "Splash247",
+   "published": "2026-10-30T02:20+00:00",
+   "added": "2026-10-30T08:21+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping",
+    "mna"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "results",
+    "vessel"
+   ],
+   "summary": "Norwegian energy major Equinor has pushed back first power from its $7.5bn Empire Wind offshore wind project in the US to the first half of 2027 over delays with US-built vessels needed for turbine installation. The company disclosed the revised schedule during its third-quarter results presentation, with chief financial officer Torgrim Reitan confirming that the 810MW development off New York is approximately 80% complete. Most of the remaining work involves installing the project’s 54 Vestas 15MW turbines, a campaign now expected to begin early next year, several months later than originally planned. The Maersk Viridis arrived off Mississippi in August for testing and preparations, but delays affecting the feeder vessels have disrupted the offshore installation schedule. Equinor said the revised timetable would not change the project’s overall capital expenditure, estimated at approximately $7.5bn, although some spending would shift into 2027. The company also expects to retain approximately $2.5bn in US investment tax credits, with $2bn expected to be monetised in 2027 and the remainder in 2028. Empire Wind has already completed installation of all 54 turbine foundations, while its offshore substation and offshore cable works are also finished. The project has faced repeated regulatory challenges, including two federal stop-work orders issued by the Trump administration in 2025.",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "extract"
   },
   {
    "id": "73aae69591ff",
@@ -16392,84 +16476,6 @@
    ],
    "summary": "Ports face $1 trillion green upgrade challenge, EU says The Brussels Times",
    "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "753a0bc29bab",
-   "title": "Boluda Threatens Legal Action Over Morocco’s Marsa Maroc Port Deal",
-   "original_title": "Boluda Threatens Legal Action Over Morocco’s Marsa Maroc Port Deal",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2pDdmpZUWg1NDZ5cEdWTWRERFFpNFJpN3pYbEU5bE8wUDdDYkc2a3RrM3pBMExzb1FiOGNGbmZQdU8wVjA5TnRHSGFxV3c1RjA1ZDRHU213ZXMwQ01ReXJySTM5Y3A5aWFRY2ZCOGsxWU40emw2LVJnVHA4Mi1hSkR1aHFQb2dmcGlzd0pHR0R1Z1FYT0dnd0tfUGdUYVRaWjZiQXlFNzhhancxaElXWFlvZGw?oc=5",
-   "source": "Morocco World News",
-   "published": "2026-10-26T17:09+00:00",
-   "added": "2026-10-26T17:47+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port"
-   ],
-   "summary": "Boluda Threatens Legal Action Over Morocco’s Marsa Maroc Port Deal Morocco World News",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "bba4ac068b8c",
-   "title": "African countries accelerate digitalisation of ports",
-   "original_title": "African countries accelerate digitalisation of ports",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG96SXRRRWgwTk9DVWxJZFB5TkpkalVnXzF4Rnd0MHdjX0lTbnRrUmVzb0RjZ2IxajEyd3g2Zy1GeGVJZG5BTVlSSU5CZGpwcWNEUnRfR3pPajlnNW41NWxFV2JkT01VelpZU055LW9VNzAxRVZkZ0czazhXeVpyNWdtY2xnWUZpa3k2V1RQNS1EYXAyR1BhRkVfWnRGVElZNGNBUzR1RQ?oc=5",
-   "source": "Channel Africa",
-   "published": "2026-10-26T16:51+00:00",
-   "added": "2026-10-27T05:16+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "equipment"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "digitalisation",
-    "port",
-    "ports"
-   ],
-   "summary": "African countries accelerate digitalisation of ports Channel Africa",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "173eac73bcbe",
-   "title": "STEVE KELL: What was that wheat rally all about?",
-   "original_title": "STEVE KELL: What was that wheat rally all about?",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ycTM4Y0xXY195TldJTDB6WU1qYzVSRWlzR3hLcGJSZVRxN094MUFaTTVZYmNlWEpGcS1Ka0RvR3NrVGJpdS03bkYtVHEzT0VtTUlTVXZyZUxBRkZxLWMxYnkwZDJNZ2g1WFk1ZmlpUGhva3FMVEc2UlJKYng?oc=5",
-   "source": "FarmersForum.com",
-   "published": "2026-10-26T16:51+00:00",
-   "added": "2026-10-27T02:51+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "wheat"
-   ],
-   "summary": "STEVE KELL: What was that wheat rally all about? FarmersForum.com",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   }
  ]
