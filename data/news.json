@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T14:59+00:00",
+ "generated_at": "2026-11-15T20:20+00:00",
  "categories": {
   "ports": "Ports & Terminals",
   "shipping": "Shipping & Freight",
@@ -13,6 +13,212 @@
   "company": "Company Watch"
  },
  "items": [
+  {
+   "id": "edb2def257a4",
+   "title": "India eases flag rules in push for more tonnage",
+   "original_title": "India eases flag rules in push for more tonnage",
+   "url": "https://splash247.com/india-eases-flag-rules-in-push-for-more-tonnage/",
+   "source": "Splash247",
+   "published": "2026-11-15T19:33+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping",
+    "regulation"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "ministry",
+    "port",
+    "ports",
+    "shipping",
+    "vessel"
+   ],
+   "summary": "India has relaxed its ship registration rules, allowing vessels with majority Indian ownership to qualify for the national flag in a move that opens the door to foreign minority investment. The Ministry of Ports, Shipping and Waterways has set the ownership threshold at more than 50%, replacing the full qualifying Indian ownership requirement imposed under the previous Merchant Shipping Act. A government notification published in the Gazette of India sets out the new conditions under the Merchant Shipping Act, 2025. The threshold applies to legal ownership of shares in the vessel itself, rather than simply the shareholding of a company operating it. Where a non-resident Indian or overseas citizen of India holds the majority interest, an authorised representative based or incorporated in India must be appointed. Owners should still complete the registration process and obtain approval from the authorities. The move comes during a wider push by New Delhi to increase Indian-flagged tonnage and strengthen its domestic shipping industry. Splash reported last year that MSC, Maersk and CMA CGM were looking to shift vessels onto the Indian register, while Hapag-Lloyd signed agreements with the government in March covering possible reflagging of up to four ships. India is also building out its state-backed Bharat Container Shipping Line and has launched initiatives targeting ship finance, insurance and domestic shipbuilding.",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "d403bc8f7049",
+   "title": "Iran claims fresh strike on U.S. base as Hormuz shipping crisis deepens",
+   "original_title": "Iran claims fresh strike on U.S. base as Hormuz shipping crisis deepens",
+   "url": "https://www.hellenicshippingnews.com/iran-claims-fresh-strike-on-u-s-base-as-hormuz-shipping-crisis-deepens/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-11-15T18:00+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "attack",
+    "defense",
+    "drone",
+    "hormuz",
+    "houthi",
+    "military",
+    "security",
+    "shipping"
+   ],
+   "summary": "Iran claimed a fresh drone strike against a U.S. military facility in Bahrain on Sunday, as mine incidents in the Strait of Hormuz and Houthi attacks on Saudi Arabia heightened regional tensions. Iran’s Islamic Revolutionary Guard Corps said six drones targeted an air-defense radar at Bahrain’s Riffa Air Base. A senior United Nations official urged Washington and Tehran to permit fertilizer cargoes through Hormuz, warning that missed planting seasons could leave 45 million people facing severe food insecurity. Iran’s Revolutionary Guards also claimed to have destroyed a U.S. MQ-1 drone over Qeshm Island, an assertion not independently verified. Diplomatic attention now turns to the November 18-19 APEC summit in Shenzhen, where U.S. President Donald Trump is expected to discuss the Iran war with Chinese President Xi Jinping and Russian President Vladimir Putin. Trump recently reassigned Vice President JD Vance from Iran negotiations and said reaching a deal was no longer a priority.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "8e2bd397a0b1",
+   "title": "US Coast Guard closes Mississippi River at New Orleans after tanker collides with riverboat",
+   "original_title": "US Coast Guard closes Mississippi River at New Orleans after tanker collides with riverboat",
+   "url": "https://www.hellenicshippingnews.com/us-coast-guard-closes-mississippi-river-at-new-orleans-after-tanker-collides-with-riverboat/",
+   "source": "Hellenic Shipping News",
+   "published": "2026-11-15T18:00+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "port",
+    "vessel"
+   ],
+   "summary": "The US Coast Guard has closed the Mississippi River near the Port of New Orleans after a tanker struck an American Cruise Lines riverboat shortly after noon on Friday. The closure, near 1350 Port of New Orleans Place, is to allow for search and rescue operations. The tanker, Atlantic Asphalt, struck the docked riverboat, causing it to roll onto its side and partially submerge. There were 129 passengers and crew on the riverboat. Source: By Adam Yanelli, ICIS, https://www.icis.com/explore/resources/news/2026/11/13/11241849/us-coast-guard-closes-mississippi-river-at-new-orleans-after-tanker-collides-with-riverboat/",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "0e84536f4073",
+   "title": "Federal government warns China over tactics driving down iron ore prices",
+   "original_title": "Federal government warns China over tactics driving down iron ore prices",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXNfWlFpa3F6MHd2a3BLOXB0dVhOQ2RhYmNQam41Zjc0cmJvZXNlYXhxNU1jang1TXRXazJlX2N2RWx5OGcwQkZubUZCLUtUZnYyTHlCbU5tZDJ6SHQwZDZmNkpEZzNZcjhIbWJyOFFOaUFwR0lSWVRUUWZEWWRBc2VZSHJFMVJINzYzT1pfVU40dGRkQXFITVV4NlFWeHllbUdSTUpKaUVvY1RIcnNPWDc0OHRIUUJEUHh0bHlfaWYtWjA?oc=5",
+   "source": "AFR",
+   "published": "2026-11-15T18:00+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "iron ore",
+    "prices"
+   ],
+   "summary": "Federal government warns China over tactics driving down iron ore prices AFR",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "e72a7593a2d2",
+   "title": "Japan shipping group ONE transits Red Sea choke point for 1st time in 3 years",
+   "original_title": "Japan shipping group ONE transits Red Sea choke point for 1st time in 3 years",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXMtd2xXRUhEMlFidC1EMEdNdlJUV0R4TmVtU0E4V1l5Vm9KeDBPdE5XZWkzM2FLcVpOMzA3LU83b1RfSzlxYlZIWDJWand2bGxZUzRkOGh3akJpVFZwaEp5YXVCZW53ZlJqQmlZUFlTR2lIRFlRbWVHM0NsVnkxeGdCTXMyTF9fdnZuOWpPSWZ3UG16VGtNa2Q3WU56UVJvU2RyNzhOeDZVeW1NT3ZQQVVIdUNISUNMUkdOaFRYMkduRUU?oc=5",
+   "source": "Nikkei Asia",
+   "published": "2026-11-15T17:46+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East",
+    "Asia"
+   ],
+   "tags": [
+    "red sea",
+    "shipping"
+   ],
+   "summary": "Japan shipping group ONE transits Red Sea choke point for 1st time in 3 years Nikkei Asia",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "b6f66a94a364",
+   "title": "Three Ships Struck By Drones In Black Sea Near Romanian Shipping Canal",
+   "original_title": "Three Ships Struck By Drones In Black Sea Near Romanian Shipping Canal",
+   "url": "https://gcaptain.com/three-ships-struck-by-drones-in-black-sea-near-romanian-shipping-canal/",
+   "source": "gCaptain",
+   "published": "2026-11-15T17:31+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "drone",
+    "shipping"
+   ],
+   "summary": "The fire-damaged \"Royad Mammadov\" ship in the Black Sea after a fire aboard the vessel outside Romania's territorial waters left two people dead and prompted a rescue operation in which others were rescued, in this handout image released on October 5, 2026. Romanian Interior Ministry/Handout via REUTERS BUCHAREST, Nov 15 (Reuters) – Drones have struck three commercial ships in the Black Sea near Romania’s Sulina canal , Prime Minister Luca Niculescu said on Sunday, adding that his armed forces had scrambled fighter jets twice. A growing series of deadly strikes on merchant ships near NATO members Romania and Bulgaria shows how the escalating maritime war between Russia and Ukraine is expanding into a major challenge for the transatlantic alliance in the Black Sea. The Sulina canal is a key Romanian shipping lane which links the Danube river to the Black Sea and is used by Ukraine for exports. “They reflect the deteriorating security situation caused by Russia’s ongoing war against Ukraine.” Related Article: IMO Warns of Mounting Human Toll as Attacks on Commercial Shipping Continue Oprea said the three struck ships were Greek-flagged oil and chemical tanker Evia Petrol V, bulk carrier Marsol and oil products tanker Ali Najafov, both under the flag of Saint Kitts and Nevis.",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "extract"
+  },
+  {
+   "id": "6f9dbaa74e2d",
+   "title": "News in Brief week 45 | Customs enforcement and airfreight squeeze",
+   "original_title": "News in Brief week 45 | Customs enforcement and airfreight squeeze",
+   "url": "https://theloadstar.com/news-in-brief-week-49-customs-enforcement-and-airfreight-squeeze/",
+   "source": "The Loadstar",
+   "published": "2026-11-15T17:00+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "regulation",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 10,
+   "regions": [
+    "North America"
+   ],
+   "tags": [
+    "customs",
+    "disruption",
+    "supply chain",
+    "tariff"
+   ],
+   "summary": "This week on The Loadstar Podcast , we unpack the latest developments in US tariffs and customs enforcement, including tougher rules for foreign importers of record and what a Democrat-controlled Congress could mean for President Trump’s trade agenda. CargoTrans co-CEO Nunzio De Filippis joins us to explain the implications for importers, while The Loadstar ‘s Alex Lennane discusses the ‘dire’ situation facing European hauliers, why supply chain disruption is forcing shippers into costly emergency airfreight, and the impact of cargo bottlenecks at Bangkok and Shenzhen airports. Plus, we look at fresh challenges for the perishables sector, Freightos’ new AI platform and the growing tensions between its board and founder, Zvi Schreiber. This article is © The Loadstar. Reproduction, rewriting, or derivative use requires a license. Contact [email protected] for licensing enquiries. This article is © The Loadstar. Reproduction, rewriting, or derivative use requires a license. Contact [email protected] for licensing enquiries.",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "extract"
+  },
   {
    "id": "1e46ffe6f266",
    "title": "Global Diesel Shortage Keeps Prices Elevated As Supply Disruptions Persist",
@@ -40,6 +246,58 @@
    ],
    "summary": "Global Diesel Shortage Keeps Prices Elevated As Supply Disruptions Persist Forbes Middle East",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "fbb530554223",
+   "title": "Brazil Feeds the World but Imports Its Fertilizers: Why Global Agriculture Is at Risk",
+   "original_title": "Brazil Feeds the World but Imports Its Fertilizers: Why Global Agriculture Is at Risk",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVZ5VTMydjY1Y2tXcXhYMlRqUlE0c2RqNEFtYUpVOS1XNDdwMXFHeTJ1RDV6WmFQZlhiWUk4V01Id180WUdZclpwZ19lbWNQR19oNnlSRXJZV2pxYmRkcThidkhSU0ROUm9Pd25uaVlZc3Zhazd5WldJMlZCNFBvQkFtZ1VvUlJBb0E?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-11-15T12:40+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Latin America"
+   ],
+   "tags": [
+    "fertilizer"
+   ],
+   "summary": "Brazil Feeds the World but Imports Its Fertilizers: Why Global Agriculture Is at Risk AgroLatam",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "8bd543a0028b",
+   "title": "Houthis Take Coastal Positions Near Bab al-Mandab, Raising Risk to Europe-Asia Trade",
+   "original_title": "Houthis Take Coastal Positions Near Bab al-Mandab, Raising Risk to Europe-Asia Trade",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JaFh4dWFZNVpYODVNRWFJdjdEalpiR2tkUzJvUkdjanVYVG1SSjRMWVB0RG9iYTcyeE1KdzlXNmdiZEV6ZTV0SUtDWkozZWZWVjVUTEJUWG9SM3VnSzN5ZUI4ZmhTSmc2aC1leWJhMXdUQTlrYmd3?oc=5",
+   "source": "CEO Magazyn",
+   "published": "2026-11-15T11:43+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "houthi",
+    "magazyn"
+   ],
+   "summary": "Houthis Take Coastal Positions Near Bab al-Mandab, Raising Risk to Europe-Asia Trade CEO Magazyn",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "feed"
   },
   {
@@ -98,6 +356,57 @@
    ],
    "summary": "Rail freight up in Jan-Oct with boosted efficiency China Daily",
    "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3187b087bae8",
+   "title": "Port w Elblągu coraz bliżej pełnego dostępu od strony Zalewu Wiślanego",
+   "original_title": "Port w Elblągu coraz bliżej pełnego dostępu od strony Zalewu Wiślanego",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNekZkUFpQYk1uSWl3V3A5RVhfRVBBbTdrRE1yWVFvUDdWN0hmWW9hOGlaNFNiWUkyWmdTUVFaR1BEcVg4Zi1xM1k2NThEbWtKbkMtNm8ybXBIMHcxWUozMGpQY2lYVXRJYkhtRFJlQ3RkSHZ2d3NKZk1TSVhqcmhLM1FGWkJZcVBRaDg3cjdaVDdRWDNzdXZEb2FnYUxidHhPeklOMHZ3?oc=5",
+   "source": "Radio Olsztyn",
+   "published": "2026-11-15T10:14+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "pl",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "elblag",
+    "port"
+   ],
+   "summary": "Port w Elblągu coraz bliżej pełnego dostępu od strony Zalewu Wiślanego Radio Olsztyn",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "9f83bdd7b5d9",
+   "title": "Cold-Rolled Steel in Europe Rises to €940 per Tonne",
+   "original_title": "Cold-Rolled Steel in Europe Rises to €940 per Tonne",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWm9xRXdOMW9wVlQ0b0EtNjZZOE1Lb3ljV29uN1RoOUg2ZE5WN3dxbEJtOURLTnlSZDRtcERSWFYtNzFZVmFoSWJMSGtzS19sQ3MyclJ0Umd1VUFaWXJaS3dRXy10Mm9ISmNsRnZJS1RVQ0JWcEc4N1hheDdQTjh3YXV3MkRtUVVpMDVwZm9ic0dLbzZWd3A3Ul9HdzdqUWtQdlNMMdIBtgFBVV95cUxPTUZlTFl1RlZmdVlTRHZiLS16ajN0SHlIWEhDSHdjVlFOWG5ZRWs2SHQyYVVHX3doZUUyeF9yZEpIbVF6RjBCV3p0emxZcThBanI3RzdPakVTLUJRVGJENUFXbkRDajV1WFBxdTRJNEh4QjZfaUh3Ym1aeUVvMFdiWmkzNWhCakZxT18zOVRzWm05OUZsUmNPcWtjZWFybTVRN3ZBWF8zdWRNanFNOF9xODFVTk8zUQ?oc=5",
+   "source": "Металлургпром",
+   "published": "2026-11-15T09:41+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "Cold-Rolled Steel in Europe Rises to €940 per Tonne Металлургпром",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -241,6 +550,56 @@
    "summary_method": "feed"
   },
   {
+   "id": "327d978aa638",
+   "title": "Multimodalna łączność stwarza możliwości rozwoju centrum logistycznego w Da Nang.",
+   "original_title": "Multimodalna łączność stwarza możliwości rozwoju centrum logistycznego w Da Nang.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmZtRFNpRWZoQTVqbzYwNTVCSjZZdFlaRE9lN2RteGRTUTN1MUluamtvNHNnX1doenhJQlN3TXkyVUdiOUhndi1JdS1MRGtPb2JvakJtWGR1dXpocEZfT0QtR3laekRXeHUtWVJVSDJrUHZvejFwUDM0d195UlhGdEgzNUVicFZNN0xlMWxVTVdGNVV0M3hGbEExd1lZaDVwdlE?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-15T01:53+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "pl",
+   "category": "supplychain",
+   "categories": [
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "centrum logistyczne"
+   ],
+   "summary": "Multimodalna łączność stwarza możliwości rozwoju centrum logistycznego w Da Nang. Vietnam.vn",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3dc38723fea9",
+   "title": "Indonesia Coal Exports 2026: Volumes, Buyers and Export Rules",
+   "original_title": "Indonesia Coal Exports 2026: Volumes, Buyers and Export Rules",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSTlkc3REdWFnUVJQcXZrWnhTRlF2dGZmX0l0S1Vqbk9SMU1sMHhYNzVTSFB3VHFLdnlVY2FTWnlLUkt5YUE5OHJRRXpDSURyN3BYN2MxT3RPM3Z4bjRHcFJyN2N1U1d4TC1oM3VwdWRUNTFWaWE3MDFDMzIxekw4SFdmQkt0OGo5QS1xMTN4V1VaRnM?oc=5",
+   "source": "JournalArta",
+   "published": "2026-11-15T01:27+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "coal"
+   ],
+   "summary": "Indonesia Coal Exports 2026: Volumes, Buyers and Export Rules JournalArta",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "3f2b9e42abf1",
    "title": "US court orders arrest of tanker after New Orleans cruise ship collision",
    "original_title": "US court orders arrest of tanker after New Orleans cruise ship collision",
@@ -266,6 +625,37 @@
    "summary": "A US federal court has authorised the arrest of the tanker Atlantic Asphalt after the Port of New Orleans launched legal action seeking more than $1m in damages following the collision that sank American Cruise Lines’ American Heritage. The Board of Commissioners of the Port of New Orleans filed the lawsuit in the Eastern District of Louisiana, naming the tanker, its owner Nave Shipping SA and OSM Thome’s Singapore-based Thome Ship Management as defendants. The port alleges that the collision caused extensive damage to its Thalia Street Terminal, where American Heritage was berthed. Physical damage is currently estimated to exceed $1m, with additional claims expected for cleanup, surveys, repairs and salvage. A federal judge subsequently authorised the arrest of Atlantic Asphalt , issuing a warrant directing US marshals to take possession of the vessel and hold it subject to further court orders. The 17,764 dwt asphalt tanker struck American Heritage on November 13 , causing the river cruise ship to capsize and partially sink. The lawsuit alleges negligence by the tanker interests, although the cause of the collision remains under investigation. OSM Thome confirmed that it manages Atlantic Asphalt and said the vessel was stable at anchor following the incident. The company said it had activated its emergency response team and was cooperating fully with local authorities.",
    "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
    "summary_method": "extract"
+  },
+  {
+   "id": "5eca6fa7692b",
+   "title": "Drone attacks vessel bound for Ukraine in Black Sea near Romania - RBC-Ukraine",
+   "original_title": "Drone attacks vessel bound for Ukraine in Black Sea near Romania - RBC-Ukraine",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc0xHT3VCNDdDeDFTM2EyM1l6TXdxLW1CTFZpSFBST094clpzeHRLTHdTdUM2VGczbnZGbEhDWjhtNmxPMGRrdGluMDZrWURSQzJNd1pSY21acVU4c1p4VEJRUzlPSEhoZ0NNZEt5WFZNMllDRXM3bERjbU4yYWFxT0Z6OXJsVjVWQ2ktQVlxWDJ4YTQ?oc=5",
+   "source": "RBC-Ukraine",
+   "published": "2026-11-14T19:45+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 12,
+   "regions": [
+    "Central & Eastern Europe",
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "attack",
+    "black sea",
+    "drone",
+    "ukraine",
+    "vessel"
+   ],
+   "summary": "Drone attacks vessel bound for Ukraine in Black Sea near Romania RBC-Ukraine",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
   },
   {
    "id": "a56a9ea136a7",
@@ -296,6 +686,64 @@
    "summary_method": "extract"
   },
   {
+   "id": "fd0c39e63e71",
+   "title": "Black Sea Grain Disruptions Could Open New Export Opportunities for the Americas",
+   "original_title": "Black Sea Grain Disruptions Could Open New Export Opportunities for the Americas",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0owci1IcFRiY2swVDA4TmRIWWJlTjJiNnNJYXotTDYwUUpNVmRnSlZKNDNQMTg4Y0NXVGM2Q0NVejlXOWlqbThRc2tLQ2J6ZEZRcFJXZkdDUUFBTkhoODZTX190c2pMclJGWVJ4dWhJSHdOSmRpbDZVUU0wVmFySmlRX0MySXVCX1NNVWVfeDR4UDVSSlE?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-11-14T16:48+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics",
+    "supplychain"
+   ],
+   "priority": "medium",
+   "score": 9,
+   "regions": [
+    "Ukraine & Black Sea"
+   ],
+   "tags": [
+    "black sea",
+    "disruption",
+    "grain"
+   ],
+   "summary": "Black Sea Grain Disruptions Could Open New Export Opportunities for the Americas AgroLatam",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "3406f530115a",
+   "title": "Trump-Xi Summit Puts U.S. Soybean Exports and 10% China Tariff in Focus",
+   "original_title": "Trump-Xi Summit Puts U.S. Soybean Exports and 10% China Tariff in Focus",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1lQMGUtaWN3ckNPVDBNODZUNGlLVkcxQXNxbTczeG5pWnFaelNiM2JIRGFCV1M1MURaZlg3V2cwUWpYTUoxZVNWMWs4TWdGM0h4N2ZtbDZyS3FTMDhxZnJvV1lOTFlQOGozTnRsUXZPZ1Ewd0ctRklMOVYtSkhYTE80N2s3eDdqOFo4?oc=5",
+   "source": "AgroLatam",
+   "published": "2026-11-14T16:48+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "regulation",
+   "categories": [
+    "regulation",
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "soybean",
+    "tariff"
+   ],
+   "summary": "Trump-Xi Summit Puts U.S. Soybean Exports and 10% China Tariff in Focus AgroLatam",
+   "why": "Rule change that may alter compliance costs or market access for Polish port and logistics operators.",
+   "summary_method": "feed"
+  },
+  {
    "id": "57d43fe3135a",
    "title": "mBank Forecasts Euro at $1.16–$1.18, Polish Rates at 4.25%",
    "original_title": "mBank Forecasts Euro at $1.16–$1.18, Polish Rates at 4.25%",
@@ -319,6 +767,32 @@
    ],
    "summary": "mBank Forecasts Euro at $1.16–$1.18, Polish Rates at 4.25% CEO Magazyn",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "d1053f606a98",
+   "title": "Insulated Ferrules Market Forecast to 2035: Electrification and Automation Drive Forward Growth",
+   "original_title": "Insulated Ferrules Market Forecast to 2035: Electrification and Automation Drive Forward Growth",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeVlRSVNJb0xVd1YwUllqV3pWc00xeUNBMmRZQXRGSmFYc1JKbEZwU2loLWpKaTRzdVR2bUllcWRlcmFhVDFndHF1S0hSblVkZWt4UXRBQnFtQzVKT3RZS0FLZzFqWFNlZkQ2MDd4a1h4NHprei1ZVG9aS3FLdTZVakppclJmNDZmT3pyVFJDOXhiMVdrdVlycEZZZGZkRVNiSkF4Rk9mc25tNVIwWVd1ZzJqZzRfRHFkUFdVcDZCUjFUUQ?oc=5",
+   "source": "IndexBox",
+   "published": "2026-11-14T15:06+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "equipment",
+   "categories": [
+    "equipment"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "automation",
+    "electrification"
+   ],
+   "summary": "Insulated Ferrules Market Forecast to 2035: Electrification and Automation Drive Forward Growth IndexBox",
+   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
    "summary_method": "feed"
   },
   {
@@ -347,6 +821,36 @@
     "security"
    ],
    "summary": "India Reports 19 Drug Seizures at Major Ports, Raising Questions Over Maritime Security and U.S.–China Trade Relations Business Upturn",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "63b4242be72a",
+   "title": "3 Vietnam Logistics Stocks Exposed To Tariffs Ports And Trade Growth",
+   "original_title": "3 Vietnam Logistics Stocks Exposed To Tariffs Ports And Trade Growth",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTk81YzBjend6N3VfT2xGREFBeDZHQnREeXE1czBudEtlZDRDX3BReHo4dk5ZTFdHc1REQzkzd3FrdHQ0Nnh3WXN5T0p2ZlN1UTI3WVV3V3IzRVkwZUhMSURzLUhERGgzNElXTWhFYTJCaVd5RUFoZFBTVzBPRGJhN1N3M3hDNXVPZGdz?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "published": "2026-11-14T14:10+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports",
+    "regulation",
+    "shipping"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "logistics",
+    "port",
+    "ports",
+    "tariff"
+   ],
+   "summary": "3 Vietnam Logistics Stocks Exposed To Tariffs Ports And Trade Growth Yahoo Finance Singapore",
    "why": "Competitor or partner port development on the Baltic.",
    "summary_method": "feed"
   },
@@ -647,6 +1151,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "c537eed42e96",
+   "title": "Singapore-Registered Bulk Carrier 'STRATEGIC ALLIANCE' comes into Contact with Tacony-Palmyra Bridge in US; No injuries or Marine Pollution Reported",
+   "original_title": "Singapore-Registered Bulk Carrier 'STRATEGIC ALLIANCE' comes into Contact with Tacony-Palmyra Bridge in US; No injuries or Marine Pollution Reported",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQRnktUHVxSnJMNDJmdGpTamkzcGtxRXduSno5TWdYbFBwcUhjT253aXZtYS1BYVk2Zmd5WUNNNTMyQ1N3U25aZnJ5SVZlU2J3QWttalVvQlNDc1dfZ0F0VDV2dU45Z1hHYkxQdkZKTUd6amlTWEFIQVZ2YzlNRHJmRXhaVHdQSjdXbUlfcmptS1hPSzZYX1BrU1RYbHBhMlVmc1VqX3h6WFJQVE1kMWRBMmVVLUtsal83TUhIU3lhNTRwMGlGRTJYcC1CVzk0QmxJRU9yZ0V5Y0ZPRTZrM2QyMndQdWxsMzNaSl9oR0JaenhoTzFCLVpDOHB2akVVbk8tZmllcHRNSGRtRXlDMHVqb2x3YXI0eXA4Zy1EWm5ObV83SHdrVXc?oc=5",
+   "source": "India Shipping News",
+   "published": "2026-11-14T03:57+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "bulk carrier",
+    "carrier",
+    "shipping"
+   ],
+   "summary": "Singapore-Registered Bulk Carrier 'STRATEGIC ALLIANCE' comes into Contact with Tacony-Palmyra Bridge in US; No injuries or Marine Pollution Reported India Shipping News",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
+  },
+  {
    "id": "15ad688e5800",
    "title": "Ukrainian Millet Prices Firm as Black Sea Risks Support FOB Odesa",
    "original_title": "Ukrainian Millet Prices Firm as Black Sea Risks Support FOB Odesa",
@@ -700,6 +1231,32 @@
    ],
    "summary": "Trump extends shipping law waiver for 90 days amid Iran war fuel price rise Middle East Eye",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "50f60c038d29",
+   "title": "Charting the Course: How to Navigate Maritime Shipping",
+   "original_title": "Charting the Course: How to Navigate Maritime Shipping",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeFh5MkI2Q2pYeFRUb3YwTGExVG1hVGxWUjJBOG1PY2ZmdjFvbTduMFdlbTlSQ0o4empPRUxDQnVlVTRXTS1mQTRjZF80bncwV3BfWkthM0NIYi1OaU9NbHc0TXpQWDI1ZS1IOFV5REF3Ym1sd0tFMkE3TmFUbW5DSUw1WkFIQUhQZ0pHMVYtYVpwR25Nb3ZqT294WXY?oc=5",
+   "source": "Inbound Logistics",
+   "published": "2026-11-13T22:09+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 3,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "logistics",
+    "shipping"
+   ],
+   "summary": "Charting the Course: How to Navigate Maritime Shipping Inbound Logistics",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "feed"
   },
   {
@@ -1134,6 +1691,34 @@
    ],
    "summary": "Polski gigant kupił 20 hektarów na Pomorzu. Zbuduje nowy magazyn, zatrudni 200 osób PropertyNews.pl",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "48ca9f619784",
+   "title": "Goldman cuts iron ore price target on China steel demand",
+   "original_title": "Goldman cuts iron ore price target on China steel demand",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEl5TmxZUUo4dXpuaWo2bXU3bkotdGg0ZWtFOS1sODh1ODEzU01BUno1VUtRS3UyNlFkWnBTdmdZa3BMUEs1Z1E3ZjNQSE1Md2FSVHpZMVdaYXNHaHpoZDFMalV0YjVkSlpRekktczFwc1BOVUdKaEJqZmVXWlN0NVI3TkV4aU85M1JyaTRxODgyYmxpcUh2S0FLb0RhSmtZa2pHQnhuamFjTWVqX2k1eU13YjZOdHhS?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-13T18:13+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "geopolitics"
+   ],
+   "priority": "medium",
+   "score": 8,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "china",
+    "iron ore",
+    "steel"
+   ],
+   "summary": "Goldman cuts iron ore price target on China steel demand Investing.com",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -1911,6 +2496,33 @@
    "summary": "Following the Democrats’ midterm US election victories, freight forwarders and importers could face greater stability in trade policy, but little immediate relief from existing duties. Nunzio De Filipis, co-CEO of CargoTrans, told The Loadstar Podcast the election result could slow the pace of tariff changes, although he expects the duties to remain. “I don’t think we’re going to see the lever being pushed as fast as it has been,” he said, adding: “But I don’t see them going away.” He pointed to the survival of Section 301 tariffs on Chinese goods through successive administrations, noting that President Joe Biden had retained and expanded measures introduced during Donald Trump’s first term. Reuters reported this month that Democratic control of Congress would provide greater opportunities to scrutinise President Trump’s trade agenda, but noted that lawmakers faced significant obstacles to repealing tariffs, including presidential veto powers and existing executive trade authority. Similarly, the legislative and regulatory advisory arm of professional services firm EY explained in its recent trade policy alert that Democratic control would shift congressional committee leadership and increase oversight of trade policy. However, the advisory noted that the election result would not itself change the tariffs or presidential trade powers, while substantial legislative changes would still require sufficient Congressional support ,and either President Trump’s signature or a veto-proof majority.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
+  },
+  {
+   "id": "b31089481861",
+   "title": "Supply chain disruption: what dominated the last 12 weeks",
+   "original_title": "Supply chain disruption: what dominated the last 12 weeks",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVFzUFlMNHlvRy1YNUV5SFotdEVlel8tTE1fdi1Za3gybEZuYWJPN3gxTGdSLUJSR3lfYVBkVVpaN1BpRDdxaTh4eGlRSHlpZlZwc2xXQ3FoYlBhT3N4RjFGVERIQzZtR1c0aVlUVkVodTVVUHVOWnNyRGo2NTM3RDlYMEMtem50NHRkTEF3?oc=5",
+   "source": "Trans.INFO",
+   "published": "2026-11-13T11:27+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "supplychain",
+   "categories": [
+    "supplychain",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "disruption",
+    "supply chain"
+   ],
+   "summary": "Supply chain disruption: what dominated the last 12 weeks Trans.INFO",
+   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
   },
   {
    "id": "1bd633ac40d1",
@@ -2940,6 +3552,32 @@
    "summary_method": "extract"
   },
   {
+   "id": "674a3b9ddef4",
+   "title": "Demand bulls lift soybean prices",
+   "original_title": "Demand bulls lift soybean prices",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mZGpWUmdxczNpcjQyLWM1OTJzejQzajRseVh0LTlweUdLa3hPVGROdkJPeTZ1MUYzS1FvT1JaU2g4Y1JaVXVEZm44bE5meFFyeFlHVE9wWElRbExqLTEwOGRUMTBlcFVNaGk0dEM4YWEwcmtfZHJLd2dR?oc=5",
+   "source": "Farm Progress",
+   "published": "2026-11-13T08:00+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Global"
+   ],
+   "tags": [
+    "prices",
+    "soybean"
+   ],
+   "summary": "Demand bulls lift soybean prices Farm Progress",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
    "id": "07d454993941",
    "title": "English region gets behind rail freight development",
    "original_title": "English region gets behind rail freight development",
@@ -3358,6 +3996,35 @@
     "bunker"
    ],
    "summary": "One of Australia’s biggest renewable projects signs up to explore potential for green ammonia bunkering Renew Economy",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "22dd25b08252",
+   "title": "Iron Ore Port Inventory and Port Pick-up Volume on November 13, 2026",
+   "original_title": "Iron Ore Port Inventory and Port Pick-up Volume on November 13, 2026",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOTd4SmNmQWVxZmdZay0wQm56VzBlOVFWdlRLcFdycHB2WUpUYW45MENkRHJPYWtUal9xME1hT1lRSGlyd0hYRm94WlhES1cxclhwZmhHY3NaeEdnNWRTTzBlVF9mdEhuMXVOUVFjNWpMZS1tUDAtM05DeEh0cFVmTnFWOEhnc1NlQkE0anhxQkhYU0xwWWlOVm1EMUFtenZnamNwb1E4cmNpREwyZUVYQWNFbUxQLXlNeV9EUDJqUXhSZGxob04zdkxjV1A5NkJWLTBQdmwtLTlIcUZOTEE?oc=5",
+   "source": "Shanghai Metals Market",
+   "published": "2026-11-13T02:41+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities",
+    "ports",
+    "supplychain"
+   ],
+   "priority": "low",
+   "score": 7,
+   "regions": [
+    "Asia"
+   ],
+   "tags": [
+    "inventory",
+    "iron ore",
+    "port"
+   ],
+   "summary": "Iron Ore Port Inventory and Port Pick-up Volume on November 13, 2026 Shanghai Metals Market",
    "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
@@ -4243,6 +4910,31 @@
    ],
    "summary": "Middle Corridor and trade with EU offer Georgia new economic opportunities, research says EU NEIGHBOURS east",
    "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
+   "summary_method": "feed"
+  },
+  {
+   "id": "2c114e76def5",
+   "title": "We expect UK business to move close to break-even by Q4: TV Narendran, MD, Tata Steel",
+   "original_title": "We expect UK business to move close to break-even by Q4: TV Narendran, MD, Tata Steel",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTXZtUzJMcnN2NGNHYkI2aDNDYUJyMUNoS3lXVTVlemM3TWNoVVFHb0JyOWFhZlhUaVNkTDFPYy1zVUlPa1dyaG80WjE5YmozRGQ3QWVocGh6TWxxUFQwdEFFOGlUa3F4bmpZMm50ajcwYi1LRWhXM0d5c01xXzJvYklnanUzUVBSSzZTU0dtSHVMRVRQaVdXRjF6aXhEM3RBM2NYWlJqUFE5V3hxUWxiWUFRNnB6XzU3RUxjREFWeUxRMkJDVFFweDE1VU0zams4WXZuLTlCU0lIUdIB4AFBVV95cUxNR016NXVZcDZqbnlfV3R1SUY4VFZFQndqWmlSR0cwNmRCcTJVWjdCZkluWnlGRmJkVEtmRHJDWnN1UTZnZkYtSG9mQ1FoaXRqSWJNQ2JLNy1DOW9NSGE4ZzM0U0tlTlYwcG51NEpLZVlqNjJDM3BJZ1cweDhsZ3NiT3RFeEJuaDhvcUs3T09qYU9ueS1JVGo0ei0ydnIyZjh3XzFuQlVGVnJlZDVmUnNpblhJc0tsSzFad0F6elJqbVRPc05CMU1IUk1rNHI1OGNzSmVQazNvbGdUZnR5TThKbg?oc=5",
+   "source": "The Financial Express",
+   "published": "2026-11-12T15:13+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "commodities",
+   "categories": [
+    "commodities"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Western Europe"
+   ],
+   "tags": [
+    "steel"
+   ],
+   "summary": "We expect UK business to move close to break-even by Q4: TV Narendran, MD, Tata Steel The Financial Express",
+   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
    "summary_method": "feed"
   },
   {
@@ -8506,6 +9198,33 @@
    "summary_method": "extract"
   },
   {
+   "id": "54e4babcc8ac",
+   "title": "Assoporti makes the case for Italian ports in Brussels",
+   "original_title": "Assoporti makes the case for Italian ports in Brussels",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRU9KUU1pZzduZVE3bkZobEdUekFMbnNkNXM4MTFVUmNlQS1uV25oZ18zRUdKZkxpT1pGNmZoN2RTOW5LaU82QjRwVmNuVy1ybVlvOHAxd05YVGl3MHBZMmlfOE9Ca0VZTEgwTWdmdXhtTnMwejdiaUprRE9zMlZjNkVBUW5kMEhCdmE4?oc=5",
+   "source": "Ship2Shore",
+   "published": "2026-11-11T10:45+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "ports",
+   "categories": [
+    "ports"
+   ],
+   "priority": "low",
+   "score": 5,
+   "regions": [
+    "EU institutions"
+   ],
+   "tags": [
+    "brussels",
+    "port",
+    "ports"
+   ],
+   "summary": "Assoporti makes the case for Italian ports in Brussels Ship2Shore",
+   "why": "Competitor or partner port development on the Baltic.",
+   "summary_method": "feed"
+  },
+  {
    "id": "fac21ac39ffc",
    "title": "East of Suez: Dubai steadies, Asia middle distillate cracks stabilise",
    "original_title": "East of Suez: Dubai steadies, Asia middle distillate cracks stabilise",
@@ -11459,6 +12178,33 @@
    "summary_method": "feed"
   },
   {
+   "id": "27c7f0919f07",
+   "title": "Evergreen joins growing list of shipping lines returning to Suez Canal",
+   "original_title": "Evergreen joins growing list of shipping lines returning to Suez Canal",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHFnb1RjR1ZpbXQ5UjIxdnVtSUdJNmo3eEtuVmswcFRVTzNlRk1OTGNsaHVyODQ3cU5mc1doZER6bEdXbmVZMEE0MGNwLVlRb1ZHUm0zdFQzYU8ycmY3Yk96bVhXNVFvTWM2aWY3TmMyajY3VFJFVURmWlZmT1IyOHNrQzlPeXVvTm1odWcwMzJRb00xZWMtNmZR?oc=5",
+   "source": "safety4sea",
+   "published": "2026-11-10T14:51+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "en",
+   "category": "geopolitics",
+   "categories": [
+    "geopolitics",
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 6,
+   "regions": [
+    "Middle East"
+   ],
+   "tags": [
+    "shipping",
+    "suez"
+   ],
+   "summary": "Evergreen joins growing list of shipping lines returning to Suez Canal safety4sea",
+   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
+   "summary_method": "feed"
+  },
+  {
    "id": "ddb6068908a9",
    "title": "Asia thermal coal imports rise MoM in Oct on winter restocking - APBI-ICMA",
    "original_title": "Asia thermal coal imports rise MoM in Oct on winter restocking - APBI-ICMA",
@@ -11648,6 +12394,32 @@
    "summary": "The South Korean city of Changwon is seeking to position the planned Jinhae New Port as a future hub for Arctic shipping, linking the major port development project with the region’s established shipbuilding, machinery, and defense industries. The initiative reflects growing interest in the Northern Sea Route as a shorter alternative for trade between Asia and Europe. While the port is already under construction it will not begin opening its first terminals until the next decade, reflecting the long-term proposition of Arctic shipping. Jinhae New Port is a national infrastructure project designed to accommodate some of the world’s largest container ships. Changwon’s latest proposal is not to build a separate Arctic port, but to incorporate the potential shipping route into the development of Jinhae New Port and its surrounding industrial base. The city expects increased Arctic shipping to generate demand for ice-strengthened and polar-capable vessels , specialized ships, engines, propulsion systems, insulation materials, sensors and automated port equipment. Changwon Mayor Kang Ki-yoon said the city wanted Jinhae, historically an important naval port, to take on a new role in the Arctic shipping era. The 2,758-TEU container ship returned to Busan on October 11 after a 50-day voyage, demonstrating that a South Korean container vessel could complete the journey.",
    "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
    "summary_method": "extract"
+  },
+  {
+   "id": "b42a66cb9710",
+   "title": "PŻM na ratunek PŻB. Jeden polski armator zainwestuje w drugiego",
+   "original_title": "PŻM na ratunek PŻB. Jeden polski armator zainwestuje w drugiego",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRDdlYVVHOVF5enNjOEMzeFdQZGNmMlVrdWs5TzJ5dG1NRVU2NEl3azV6REhHZ1VrcnVNZmFRR184dklDMDZkV1hHTVhjVEJsVUpqSGEyOEpIOTZpb1lWUkVPbGx4dC1pR3Z5dmhWMGdNb0hsUnlFU195ZERGVXB0OU5WeS1yZl9xcW1NVURFNFBLMFljSnJ0Z01HSXhiMlNSMmc?oc=5",
+   "source": "GospodarkaMorska.pl",
+   "published": "2026-11-10T13:21+00:00",
+   "added": "2026-11-15T20:20+00:00",
+   "lang": "pl",
+   "category": "shipping",
+   "categories": [
+    "shipping"
+   ],
+   "priority": "low",
+   "score": 4,
+   "regions": [
+    "Poland"
+   ],
+   "tags": [
+    "armator",
+    "polski"
+   ],
+   "summary": "PŻM na ratunek PŻB. Jeden polski armator zainwestuje w drugiego GospodarkaMorska.pl",
+   "why": "Freight market or carrier development affecting vessel calls and rates.",
+   "summary_method": "feed"
   },
   {
    "id": "dc3829db7a4a",
@@ -15960,790 +16732,6 @@
    "summary": "Xeneta, the AI-powered ocean and air freight intelligence solution, today announced its largest set of product launches at the 10th annual Xeneta Summit, Munich. Presented live to over 600 shippers, forwarders and carriers, the launches mark a shift in what Xeneta does for its customers. For 14 years, Xeneta has given freight procurement the data to see the market; now it moves into the decisions that data informs and the actions that follow. The launches span three areas: new data, led by the first dataset to show both the announced and the actual transit time of cargo moving via a transshipment hub and an air benchmark covering over 17M tonnes of airfreight on 92% more lanes than before; AI Agents with embedded Xeneta freight expertise reading a customer’s contracts against the market and recommending what to do first; and new execution tools, Xeneta Rate Management (XRM) and Xeneta Tender, that put the live market rate next to every contract and every bid, so teams manage rates and award tenders on evidence they can defend. The new Xeneta Transshipment dataset shows how long shipments really take on indirect routes, by carrier and by hub, promised against actual, taking Xeneta total ocean coverage to 27,000 lanes.",
    "why": "Freight market or carrier development affecting vessel calls and rates.",
    "summary_method": "extract"
-  },
-  {
-   "id": "20d4dbc04c2e",
-   "title": "India’s coking coal import dependence on Australia falls to 54%",
-   "original_title": "India’s coking coal import dependence on Australia falls to 54%",
-   "url": "https://www.hellenicshippingnews.com/indias-coking-coal-import-dependence-on-australia-falls-to-54/",
-   "source": "Hellenic Shipping News",
-   "published": "2026-11-09T11:00+00:00",
-   "added": "2026-11-09T20:12+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia",
-    "Oceania"
-   ],
-   "tags": [
-    "coal",
-    "ministry",
-    "parliament",
-    "steel"
-   ],
-   "summary": "India’s dependence on Australia for coking coal imports fell to 54% in 2025 from 73% in 2019, according to a deposition by the steel ministry to a parliamentary standing committee. About 90% of India’s coking coal requirement, a key raw material for steelmaking via the BF-BOF route, is met through imports because India has limited availability of high-quality, low-ash coking coal. Australia remains India’s largest source of coking coal imports, but the share of Russia rose from 0.62% to 8.15%, the US from 8% to 17%, Mozambique from 4% to 7.31% and Indonesia from 2.46% to 4%. India’s steel sector imported 58 Mt of coking coal in FY25, up from 57 Mt in FY24, at a cost of around Rs 1.5 lakh crore. Under the Aatmanirbhar Coal Mission, the government’s Mission Coking Coal targets 140 Mt of domestic raw coking coal production by 2030 – 105 Mt from Coal India Limited and 35 Mt from private allocations – while aiming to raise the blending ratio of domestic coal in steelmaking from 10% to 30%. Globally, high-quality hard coking coal is concentrated in a few countries, and Australia accounts for more than 50% of internationally traded coking coal owing to its high-quality reserves, stable mining ecosystem and efficient logistics. Source: SMM",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "1d5bd9b5423e",
-   "title": "CMA CGM adds war risk surcharge for Burgas and Varna ports from today",
-   "original_title": "CMA CGM adds war risk surcharge for Burgas and Varna ports from today",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUt0aktCbjFabmxRbFBZVUFKSFI1b2JTamZEX1VteElGa2VYYUgxUkZsUnVndXh5WGl3b3h4RFlwckozN0dpc1IyaV9WSTl0d2tWVm5tVnR6RVJrVjQ1ZVp3OUp3Z0RrSFRMVzYwLXVZTHNGNURmN1ZlcjJVRXlrcVp6NXRxbVFqcS1vRmM3TFlhTFdmdzAxY2I3Z2d3ZXJoUTdvc2poQVdaVmthR1ppZm9hLWcwd9IBuwFBVV95cUxQTlN1ZElaSGh1U2xMRVJEdEVFUXdXcGxPUV82T216bnBfUFkwVEVCUnl4eTNWT2otZmhmdGg4SkYtRmFoSkwycXo4OFlaTFhTak91bFBNSnA0cmxmR1pYeFVrQjItS0lBQnJVLTJaTG0tbXZQOHZpUXpvbUlJbDN4Z1diZ0FKUEIta3U1SE15cDB3UmhpdHZtdWdfUm5WSHc5TTVUR056T0tFZWJIeEtoMHRLWVZSYVc2UnJv?oc=5",
-   "source": "BurgasMedia",
-   "published": "2026-11-09T10:58+00:00",
-   "added": "2026-11-10T10:30+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports",
-    "geopolitics"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Central & Eastern Europe"
-   ],
-   "tags": [
-    "port",
-    "ports",
-    "war"
-   ],
-   "summary": "CMA CGM adds war risk surcharge for Burgas and Varna ports from today BurgasMedia",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "9f8899c762ad",
-   "title": "A.E. Nomikos adds Oshima kamsarmax to fleet renewal drive",
-   "original_title": "A.E. Nomikos adds Oshima kamsarmax to fleet renewal drive",
-   "url": "https://splash247.com/a-e-nomikos-adds-oshima-kamsarmax-to-fleet-renewal-drive/",
-   "source": "Splash247",
-   "published": "2026-11-09T10:40+00:00",
-   "added": "2026-11-09T20:12+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "dry bulk",
-    "fleet",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Greek dry bulk owner A.E. Nomikos Shipping Investments has returned to Japan’s Oshima Shipbuilding for a kamsarmax newbuilding, continuing its fleet renewal programme with a vessel scheduled to join its fleet towards the end of the decade. The Piraeus-based company confirmed the contract was signed with Sumisho Marine involved in the deal. Shipbroking sources have placed delivery in 2029, although the owner’s website lists the vessel for 2030. The 82,000 dwt newbuilding, provisionally named Leontari SB , has already been added to the company’s fleet register. Nomikos said the order marked another step in its efforts to renew and expand its fleet, maintaining its long-standing focus on Japanese-built tonnage. Established in 1985, the Greek company currently operates four bulk carriers, including the 2009-built, 82,553 dwt Astraea SB, also constructed at Oshima. Its remaining fleet comprises three smaller bulkers built by Japan Marine United between 2014 and 2015: the 60,990 dwt sisterships Filosofia SB and Attiki SB, and the 55,685 dwt Alkyoni SB. The latest investment will bring another kamsarmax into the fleet, strengthening Nomikos’s presence in the segment while adding younger tonnage to its Japanese-built portfolio.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "c0487139824e",
-   "title": "Growing number of iron ore mining companies suspend production in Brazil amid soaring freight costs",
-   "original_title": "Growing number of iron ore mining companies suspend production in Brazil amid soaring freight costs",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOd3oyMk40VE43YXBXTzc2VXh4RUFHTHVsX3F2MlRSLVVFMHVtLUZfdllwdW83YWhRY3A0Q2g4SDBkTmZNZEIwUG1BWG9Xd1RVd245STFneWVBM1BpRGg3cWtjMktVa1pDS3RyTlM0U0h1QXV0bXVkZXI2dDN2ZkNpM2Rta1F4RENYMTR3cTQtQ0ZyZ2Q4OUpNV1VpcS1ZUTRJWXJlcEZ5VlIzMldwS1RZRWR3eEJOcFdsSXVDVl9Uc1lCRmtwSzNYbW1jal9PSDg?oc=5",
-   "source": "BNamericas",
-   "published": "2026-11-09T10:37+00:00",
-   "added": "2026-11-11T02:57+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Latin America"
-   ],
-   "tags": [
-    "iron ore"
-   ],
-   "summary": "Growing number of iron ore mining companies suspend production in Brazil amid soaring freight costs BNamericas",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0d282dbb0aa8",
-   "title": "IMO Council Backs Dominguez for Second Term as Shipping Faces Security and Climate Challenges",
-   "original_title": "IMO Council Backs Dominguez for Second Term as Shipping Faces Security and Climate Challenges",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdkNiWkV4WjNoLU1XQkltd1F3dGQ3Y3lvUDNjZHdnNV9DY3hBS1dBQVRoZVd1aEhnWHphbW1feGpHSjlFSkxRSTlLNkVSOHYxanBmVkZSeUNpejdQY0N5bkFNUTZNZlJac2NaRGtmZnQwTlF4X3FXOEtVcWg5SkhQWlM1aExvZWxhWDJOVDhScWh6T05wVWNsaVJBLURHWkZtQXU4ZzhDOUNsZTJfeUh4Q0t0ZkszenUxb082d0NEU21tM1k?oc=5",
-   "source": "Global Trade Magazine",
-   "published": "2026-11-09T10:34+00:00",
-   "added": "2026-11-13T10:05+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "shipping",
-    "geopolitics",
-    "regulation"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "council",
-    "security",
-    "shipping"
-   ],
-   "summary": "IMO Council Backs Dominguez for Second Term as Shipping Faces Security and Climate Challenges Global Trade Magazine",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "c6fa627b1524",
-   "title": "Black Sea drone strikes put key global trade route at risk",
-   "original_title": "Black Sea drone strikes put key global trade route at risk",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaXAwajBkVkNGcjRjdVN6U1VFa0JPRTNGWUVicTY5M1hOUmlyaW9vYzU3V2VnQ1g4eTlRTzdIaFlRa05vRUd6akhvY3ZXYndiYWJhMHdkYTlKcHZlSzQ0T1BnVlA0a2JGcnNHRVNSVFNBeEhWcFRGN2djZVZIcFExSzJEbm55NEpPeDBuRnF4UmhTWll3blk0Z2IzOA?oc=5",
-   "source": "DW.com",
-   "published": "2026-11-09T10:32+00:00",
-   "added": "2026-11-11T18:06+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "supplychain"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "drone",
-    "trade route"
-   ],
-   "summary": "Black Sea drone strikes put key global trade route at risk DW.com",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "54efbf5cf629",
-   "title": "AI in pharma supply chains: From visibility to prediction and action | GPLS 2026",
-   "original_title": "AI in pharma supply chains: From visibility to prediction and action | GPLS 2026",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMWRnaEZKcEJQdnFRS3NWZ1J3Vjh2cUw4eTJTbEkxb182NEpGdHpabnFjeGUzcDVoamMyQk8yclBnQkRJYW9KSHh0a28xWDloYTZDcTJYRzFYUGw5MmhoQ3dUc1VXblNQQ1dUZWVsYXNTNG83THhvcWlGbjZ5bEdaT0hDU01xNG45U3FMX0VvM3BVN0Y1WEtjbFlqUHJTYnoyY21FMWkxaHl5ME5xSmNCNi1R0gG3AUFVX3lxTE94WVNNM0dkOHd4ckhXbVNNamtwYUJPM0EtVkFpZG5BMXJSSG9veWNXR0hoTV95bENRRm0wM3FuRWN0aXVMa3lfYWt2UUF1MndUWm9BY01mRm9RMjlJT0VrVmxZMTEyT0hrelNYNlJJY1Y5TUhJWmZja3hnakh0Mmg4ODJqOWZMMTdOOHJNUV9zZ0l2NWZzSV9BTlFlZW9sR29KaHRSS3NxUWh4Znp4bnluV0RYUmdEQQ?oc=5",
-   "source": "Indian Transport & Logistics",
-   "published": "2026-11-09T10:30+00:00",
-   "added": "2026-11-15T14:59+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 9,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "logistics",
-    "supply chain",
-    "supply chains"
-   ],
-   "summary": "AI in pharma supply chains: From visibility to prediction and action | GPLS 2026 Indian Transport & Logistics",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "0ec28b4ecfa0",
-   "title": "Bitspiration Launches Biotech Fund Targeting €50 Million and Up to 25 Investments",
-   "original_title": "Bitspiration Launches Biotech Fund Targeting €50 Million and Up to 25 Investments",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TRWVpM2JyY3FBZW5rTEtCSHlnNTBtQXNkUDlUcWIwNFZWZG9EZ2JUNmJyNUdlNFpWR0lKM1VoT3FpTFhTemZRekpxSmNLU3RNMVlydmZTTDZQbDBiVGp5T1NTNlVaUGxMd3czVG1fWVBzMFE?oc=5",
-   "source": "CEO Magazyn",
-   "published": "2026-11-09T10:26+00:00",
-   "added": "2026-11-15T00:57+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "magazyn"
-   ],
-   "summary": "Bitspiration Launches Biotech Fund Targeting €50 Million and Up to 25 Investments CEO Magazyn",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "16cf8eff8b6f",
-   "title": "Boluda buys Dutch offshore towage specialist",
-   "original_title": "Boluda buys Dutch offshore towage specialist",
-   "url": "https://splash247.com/boluda-buys-dutch-offshore-towage-specialist/",
-   "source": "Splash247",
-   "published": "2026-11-09T10:00+00:00",
-   "added": "2026-11-09T20:12+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "rail",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 15,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "acquire",
-    "acquired",
-    "barge",
-    "fleet",
-    "takeover"
-   ],
-   "summary": "Spanish towage giant Boluda has acquired Dutch offshore towage and heavy transport specialist Muller Dordrecht, adding 16 tugs and eight barges to its growing global fleet. The takeover gives Boluda full ownership of the century-old family business, whose fleet includes seven offshore tugs specialising in complex marine transportation, rig moves, anchor handling and offshore wind projects. Financial terms of the transaction have not been disclosed. Muller, founded in 1918 and headquartered in Dordrecht, will continue operating as an independent unit under the name Boluda Muller Towage, retaining its existing management team and focusing on offshore towage and marine projects worldwide. The Dutch operator has built a sizeable presence in the North Sea and Baltic markets, supporting offshore energy and infrastructure projects ranging from transporting wind turbine foundations and offshore substations to heavy lifting and coastal towage. Its fleet includes the 120-tonne bollard pull En Avant 30 and the 90-tonne bollard pull En Avant 25 and En Avant 26 , which can operate both offshore and in ports. Boluda Towage executive chairman Vicente Boluda Ceballos said the acquisition would broaden the group’s specialist offshore capabilities while allowing Muller to continue developing its operations alongside Boluda’s existing European business.",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "595e7bf371cc",
-   "title": "Container Freight Rates Could Fall 30% as Suez Return and New Deliveries Test the 2027 Market",
-   "original_title": "Container Freight Rates Could Fall 30% as Suez Return and New Deliveries Test the 2027 Market",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JQU5XQUwtd2pGbkhNX1diRzZPWWVBdURpRzNSaVZWczFLZXNNQzA3YXlEdzFCaDRkYjBEV1dtcXlVMUpuRFNpNlBsaWV3b3hWa0ZjS3dTR0JWNU40SFdoWGJMLWxYWEU?oc=5",
-   "source": "Xinde Marine News",
-   "published": "2026-11-09T09:59+00:00",
-   "added": "2026-11-11T18:06+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "freight rate",
-    "suez"
-   ],
-   "summary": "Container Freight Rates Could Fall 30% as Suez Return and New Deliveries Test the 2027 Market Xinde Marine News",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "b1f3cdf793f7",
-   "title": "NYK Line H1 FY2026 results: profit doubles on freight rates",
-   "original_title": "NYK Line H1 FY2026 results: profit doubles on freight rates",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdncyN1NZS284aS1HdDdVeXZna1ZBZzZNMEhuOTQxcTZCTkF6SGR6R3pPSG41RXd5ZDBEY3BiYnhoeXJJcDBHYi1SRlZUNTJvY3d2cjZwYkk2T0k0N3k3VGFDaUdPREtWRkVPaDFjS0oxc1F1OTNmUTFVbkIyRUZWdzNqRXBDVmlHMnMxbmxjMTUwVElIMTAyZFA4T2drSWdOZGwtdWR2RWFSZmJBWGNlNy1TZUxXdmhMbS1OMw?oc=5",
-   "source": "Transport Intelligence",
-   "published": "2026-11-09T09:58+00:00",
-   "added": "2026-11-10T10:30+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "mna"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "freight rate",
-    "results"
-   ],
-   "summary": "NYK Line H1 FY2026 results: profit doubles on freight rates Transport Intelligence",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "ec48a853a5e1",
-   "title": "Wheat market: Kazakh barley shift, soft EU demand and firmer Black Sea risks",
-   "original_title": "Wheat market: Kazakh barley shift, soft EU demand and firmer Black Sea risks",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZHI5MWR5cldZbmhFcjREcTFLcTNFdUdHdWIzTWJGUmZuUXkzWUZObjNmRVQ4eTV2S2RPNmlrWnN5WlFoWDBJbHdiSGRwMzhxc0hPU29VY3oxZFNlcVltLXRFdm83Ql9WeVhXVS0tTEpJSEFibGJlT1gwNDBuLTByaERGaHFzMEY1RjEtRnRsbFdvX0dzY055dTY4YWtLNGkxVDZYbg?oc=5",
-   "source": "CMB News",
-   "published": "2026-11-09T09:48+00:00",
-   "added": "2026-11-09T20:12+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea",
-    "EU institutions"
-   ],
-   "tags": [
-    "black sea",
-    "eu ",
-    "wheat"
-   ],
-   "summary": "Wheat market: Kazakh barley shift, soft EU demand and firmer Black Sea risks CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d47314c0c11a",
-   "title": "Port Polska przebuduje sieć telekomunikacyjną. Kolejny etap przygotowania terenu pod lotnisko",
-   "original_title": "Port Polska przebuduje sieć telekomunikacyjną. Kolejny etap przygotowania terenu pod lotnisko",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORUxHVEZDYjU0bjFJY0lsV2xOM2l6Q1VGZ1pURWVxZDJwdVFrVkdhbXAyQ1F1b2pvU1I2dEN4R21vc2ZDS0NPYTdpVGxlcWhNREM1eWdHQWRqYXc3cTBieWN4Q3AwVGJqNmFkMUVlSDMzN19iakJDU0xpWHc0VXNiX3p6ZTNoNTZiMXBBNmJ6eUZ6ZVMzZHdBMUFUc0hIWDJydml5blBYYTZfMXZBWlU1SFZUTzktYXJqTExTTkNVWFc5c2xOdDczU0VHQ3ZUTHF3M0QtcnBaODhGMFMw?oc=5",
-   "source": "Rynek Lotniczy",
-   "published": "2026-11-09T09:47+00:00",
-   "added": "2026-11-09T20:12+00:00",
-   "lang": "pl",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "polska",
-    "port",
-    "port polska"
-   ],
-   "summary": "Port Polska przebuduje sieć telekomunikacyjną. Kolejny etap przygotowania terenu pod lotnisko Rynek Lotniczy",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "433e27c5028e",
-   "title": "East African Ports Face Growing Competition as Kenya Expands Mombasa Capacity",
-   "original_title": "East African Ports Face Growing Competition as Kenya Expands Mombasa Capacity",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZnFIZkhOU1JlNHpabG0wdDFHQmRGdzU1elpoTDg2M0RDOTA5aVNGV1Brd1V6TVdieXZRVkxkLWhSTmYwRU9jR0dGcVpBV3U5VFpvX1VXWFpROWlrN3VCUHNpcl9vY0Ytb1NxdkVfcTZtZDExYUhXYnZjbzR3UTMtSUJBamhnRWpOWHFkcWptTTBWUUlJTFllS1BDOWJBY0Q0dUZrVi1B?oc=5",
-   "source": "ChimpReports",
-   "published": "2026-11-09T09:19+00:00",
-   "added": "2026-11-10T10:30+00:00",
-   "lang": "en",
-   "category": "ports",
-   "categories": [
-    "ports"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Africa"
-   ],
-   "tags": [
-    "port",
-    "ports"
-   ],
-   "summary": "East African Ports Face Growing Competition as Kenya Expands Mombasa Capacity ChimpReports",
-   "why": "Competitor or partner port development on the Baltic.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a4b97f99d24a",
-   "title": "Porterbrook backs 56 UK-built GB Railfreight box wagons",
-   "original_title": "Porterbrook backs 56 UK-built GB Railfreight box wagons",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTy0zeW8tUnBYOHpjenUzcG1IVGZmakdvN2J1alp5UG1xM2JvbWxyWmNpa25adUIyaEJVQnBjeWl3TU1RbnJDTXMwd3NUZ25yaXp6M1J3NjR5ZFp1OWVLdTcxWktUdUFaWXRxY0s1SWl4d0h2Q2lvY1RYSGg3Y3lkLWc0clVBc1pRNjRN?oc=5",
-   "source": "Railway Supply",
-   "published": "2026-11-09T09:15+00:00",
-   "added": "2026-11-14T10:05+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 4,
-   "regions": [
-    "Western Europe"
-   ],
-   "tags": [
-    "railway",
-    "wagon"
-   ],
-   "summary": "Porterbrook backs 56 UK-built GB Railfreight box wagons Railway Supply",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "45cdbbe79a4e",
-   "title": "Russia Takes Control of Two Chinese Heavy-Lift Ships Used for Arctic LNG 2 Deliveries",
-   "original_title": "Russia Takes Control of Two Chinese Heavy-Lift Ships Used for Arctic LNG 2 Deliveries",
-   "url": "https://gcaptain.com/russia-takes-control-of-two-chinese-heavy-lift-ships-used-for-arctic-lng-2-deliveries/",
-   "source": "gCaptain",
-   "published": "2026-11-09T09:09+00:00",
-   "added": "2026-11-09T20:12+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "commodities"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Russia & Belarus",
-    "Asia"
-   ],
-   "tags": [
-    "carrier",
-    "chinese",
-    "lng",
-    "russia",
-    "sanction",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "Glory Ocean with 3-TMR-001 module on board off the coast of Singapore on May 5. (Source: Supplied) Russia has taken control of two modern heavy-lift carriers previously involved in transporting equipment for the sanctioned Arctic LNG 2 project , adding specialized project cargo vessels to an expanding network of shipping assets supporting the country’s Arctic energy ambitions. The ownership change gives Moscow greater control over a critical part of the supply chain for its Arctic energy projects, from transporting construction modules to remote project sites to potentially delivering finished LNG infrastructure to future overseas customers. The two vessels have a history of transporting oversized equipment for Arctic LNG 2. The subsequent voyage to Arctic LNG 2 was conducted largely outside public tracking. They eventually delivered the modules to the Utrenniy terminal serving Arctic LNG 2 without broadcasting their positions. At least seven additional modules intended for Arctic LNG 2’s third train remain in China, according to satellite imagery, with some appearing complete and others still under construction. The development comes as two other Chinese heavy-lift carriers with connections to Russian Arctic shipping have attracted attention off Norway’s northern coast near Andøya . One of them, Ya Qing Hai Yang , formerly known as Ocean 28 , delivered a substation module from China to Arctic LNG 2 in 2024.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "6e51113a68a3",
-   "title": "New leasing of locomotives in early November",
-   "original_title": "New leasing of locomotives in early November",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdm9HdjJ5ZGlpbFZldlNuWWxubXpJMkk4a21aamo1cFozdVZkZF9fNkpDSW9CT0M4TElZQ1lWSmt4OUg3Zl9ZRlRwMUpodFlfV3ZUMF9mV1Y2UFM1YnNuLTJXOFozcVlwbVZhLVBESWJxSURzTDNLYkxacEhwT2Y3WEQtRk45dFB6Xzc2RDdWYms1NjF0U25tcC1DTkhBVmlCNk1WWi1Hbm5BbXpjOEZfY1hmeEVBY1pWRUw5NjM2MlJrSjdzQ08yTUJSME5NQ1ZxZkE?oc=5",
-   "source": "RAILMARKET.com",
-   "published": "2026-11-09T09:00+00:00",
-   "added": "2026-11-09T09:44+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "locomotive"
-   ],
-   "summary": "New leasing of locomotives in early November RAILMARKET.com",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "a6c4f90d9ec2",
-   "title": "Record supply growth pushes container fleet towards 50m teu by 2030",
-   "original_title": "Record supply growth pushes container fleet towards 50m teu by 2030",
-   "url": "https://splash247.com/record-supply-growth-pushes-container-fleet-towards-50m-teu-by-2030/",
-   "source": "Splash247",
-   "published": "2026-11-09T08:44+00:00",
-   "added": "2026-11-09T09:44+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "fleet",
-    "freight rate",
-    "teu"
-   ],
-   "summary": "The global containership fleet is heading towards an unprecedented 50m teu by 2030, setting the stage for a potentially devastating oversupply crisis and enormous downward pressure on freight rates. New analysis from Sea-Intelligence shows the fleet expanding from today’s 34m teu to 40m teu by the second quarter of 2028 and 50m teu by the third quarter of 2030, the largest capacity expansion in container shipping history. Combined with an estimated 8% effective capacity boost from the return of Asia-Europe services to the Suez Canal, cumulative supply growth could exceed 50% by the end of the decade. The consultancy calculates that quarterly newbuilding deliveries will average 1m teu between 2027 and 2030, peaking at an extraordinary 1.8m teu in the third quarter of 2028. Even if carriers repeated the record demolition levels of 2016 every year through 2030, this would absorb less than 17% of incoming capacity, leaving annual fleet growth averaging 8.5%. By 2030, some 10.8m teu will be aboard ships older than 20 years, although Sea-Intelligence doubts carriers intend to scrap anything approaching that figure. The warnings follow a similarly bearish forecast from Xeneta, which expects fleet growth of 6.8% next year against demand growth of just 2.5% to 4%.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "851bdac00f39",
-   "title": "Black Sea shipping reels from fresh attacks and record insurance costs",
-   "original_title": "Black Sea shipping reels from fresh attacks and record insurance costs",
-   "url": "https://splash247.com/black-sea-shipping-reels-from-fresh-attacks-and-record-insurance-costs/",
-   "source": "Splash247",
-   "published": "2026-11-09T08:30+00:00",
-   "added": "2026-11-09T09:44+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping",
-    "regulation"
-   ],
-   "priority": "medium",
-   "score": 14,
-   "regions": [
-    "Central & Eastern Europe",
-    "Ukraine & Black Sea",
-    "Russia & Belarus"
-   ],
-   "tags": [
-    "attack",
-    "black sea",
-    "defence",
-    "military",
-    "ministry",
-    "russia",
-    "shipping",
-    "vessel"
-   ],
-   "summary": "The Black Sea has experienced another violent weekend, with Russia claiming fresh strikes on merchant ships, human remains discovered aboard a damaged tanker in Bulgaria and war-risk insurance premiums reaching an extraordinary 20% of hull value. Russia’s defence ministry issued a succession of statements over the weekend claiming to have attacked commercial vessels carrying military supplies for Ukraine. On Saturday, Moscow reported hitting a dry cargo ship southeast of Odesa, followed by another claim involving a vessel east of the Ukrainian port. Romanian radar detected two aerial targets near Snake Island on Sunday, prompting Spanish F-18 fighters and NH90 helicopters to scramble from the Mihail Kogălniceanu airbase. Bulgaria, Romania and Turkey activated their joint Black Sea mine-countermeasures group on Saturday, with vessels participating in the Poseidon 2026 exercise off Bulgaria. The mounting attacks are producing unprecedented insurance costs. Black Sea war-risk insurance premiums have reached as much as 20% of vessel value for particularly exposed voyages, according to insurance market sources, exceeding even the extraordinary rates seen during the Iran-Iraq tanker war of the 1980s. For comparison, historical research from the University of Texas and contemporary reporting from the London insurance market show tanker-war premiums reaching 7.5% and occasionally exceeding 10% during the 1980s.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "28da0d9dcd47",
-   "title": "Kalmar marks Asian debut of upgraded T2i terminal tractor",
-   "original_title": "Kalmar marks Asian debut of upgraded T2i terminal tractor",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYnVMdTkzWFZTRzFZdWk3aU1vODRQVFFKb0VIWmZUM2ZwTDltbFRjSWQ1UEJ3UDZFVC1zZE5WOG9rbklpOXdMY1lvcE9TZGlnVlYwTzVsNnNPN2pROWN0Z0NHT2lkWTY4MFJsSVk2YlFHOHVwc1JfSGljMkpXVlRtZnpvcllzbWU5LUIzaVdmUEVWbkdEMzBEc1BJb25YX2N2NmEtRGctV2xuRERQTlVHeFNpRlIwOS1rWUZ4ekFvYw?oc=5",
-   "source": "WorldCargo News",
-   "published": "2026-11-09T08:26+00:00",
-   "added": "2026-11-09T09:44+00:00",
-   "lang": "en",
-   "category": "equipment",
-   "categories": [
-    "equipment",
-    "ports"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "kalmar",
-    "terminal"
-   ],
-   "summary": "Kalmar marks Asian debut of upgraded T2i terminal tractor WorldCargo News",
-   "why": "New handling, rail or terminal technology relevant to capex planning and terminal productivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "dc30f040aae7",
-   "title": "Hormuz suffers weekend of fire",
-   "original_title": "Hormuz suffers weekend of fire",
-   "url": "https://splash247.com/hormuz-suffers-weekend-of-fire/",
-   "source": "Splash247",
-   "published": "2026-11-09T08:15+00:00",
-   "added": "2026-11-09T09:44+00:00",
-   "lang": "en",
-   "category": "geopolitics",
-   "categories": [
-    "geopolitics",
-    "shipping"
-   ],
-   "priority": "medium",
-   "score": 13,
-   "regions": [
-    "Middle East",
-    "North America"
-   ],
-   "tags": [
-    "bulk carrier",
-    "carrier",
-    "hormuz",
-    "military",
-    "shipping",
-    "war"
-   ],
-   "summary": "Merchant shipping has been caught in an extraordinary escalation of the war around the Strait of Hormuz over the past 72 hours, with tankers set ablaze, the US military bombing a bulk carrier, fresh Iranian warnings about naval mines and explosions reported along Iran’s southern coastline. The most dramatic American action came on Saturday when a US military aircraft fired precision-guided munitions at the stern of the St Kitts and Nevis-flagged bulk carrier Huda in the Gulf of Oman. US Central Command (CENTCOM) said the 1999-built vessel had repeatedly ignored warnings while attempting to leave regional waters after visiting an Iranian port, in violation of Washington’s naval blockade. The first incident occurred at approximately 19.20 UTC, eight nautical miles northwest of Khasab, Oman, where a tanker caught fire and its crew was evacuated. Elsewhere, the UAE National Guard announced on Sunday that it had rescued 22 Arab seafarers from a burning cargo vessel in the Gulf of Oman. According to BRS Shipbrokers, 141 tankers are now dedicated to shuttling crude and products from Gulf terminals through Hormuz to the Gulf of Oman or India’s west coast, where cargoes are transferred onto other vessels. VLCCs account for 72% of these shuttlers.",
-   "why": "Security or sanctions development that can reroute Baltic and Central European cargo flows.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "90bd62649545",
-   "title": "PKP Intercity is to receive EUR 116 million for 70 railcars and 10 locomotives",
-   "original_title": "PKP Intercity is to receive EUR 116 million for 70 railcars and 10 locomotives",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeHlHQ3I1am9FT3pnQ0M5MmRzSFBkdl8yeTFlNHJwdHFQTXdlcVRCeE8xeDYxb2FSOVZNMkUzVzZ3OGlVMHdXR1kzcmctSVlNZVpQQm9QUnNTY0NlYUxsMlY2NEpwUWFWQTdYcFhlUEdYWllSNUVWUWl1QWg3RHJyRE4zMTNybWdTMUQxQlFlbTJraUZ4WmhQWjVObGtZaFpBX1QxZHFGNksxUWZzdmc?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-11-09T08:09+00:00",
-   "added": "2026-11-09T09:44+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Poland"
-   ],
-   "tags": [
-    "locomotive",
-    "railway"
-   ],
-   "summary": "PKP Intercity is to receive EUR 116 million for 70 railcars and 10 locomotives Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "d12124648d4c",
-   "title": "Ravi Mehrotra returns to shipyards with $470m VLAC order",
-   "original_title": "Ravi Mehrotra returns to shipyards with $470m VLAC order",
-   "url": "https://splash247.com/ravi-mehrotra-returns-to-shipyards-with-470m-vlac-order/",
-   "source": "Splash247",
-   "published": "2026-11-09T08:00+00:00",
-   "added": "2026-11-09T09:44+00:00",
-   "lang": "en",
-   "category": "shipping",
-   "categories": [
-    "shipping",
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 7,
-   "regions": [
-    "Asia"
-   ],
-   "tags": [
-    "ammonia",
-    "carrier",
-    "shipowner",
-    "vessel"
-   ],
-   "summary": "Ravi Mehrotra’s Foresight Group is returning to the newbuilding market after a decade-long absence, with the London-based shipowner linked to a $470m order for four very large ammonia carriers (VLACs) at South Korea’s HD Hyundai Heavy Industries. The 90,000 cu m vessels are scheduled for delivery across 2029 and 2030, according to shipbroking sources, marking the opening move in a broader fleet investment programme reportedly worth around $1.2bn. HD Hyundai confirmed the contract in a regulatory filing, putting its value at KRW630.1bn ($470m), or approximately $117.5m per vessel. The Korean shipbuilder identified the customer only as an Africa-based shipping company, but shipbroking sources have linked the deal to Mehrotra’s Foresight. The latest move marks a shift towards newbuilding investment for the group, which has expanded its gas carrier business largely through secondhand purchases in recent years. Foresight currently lists seven large LPG carriers in its fleet, including the Jagannath, Badrinath and Kedarnath, all built by Hyundai Heavy Industries. The group has set its sights on building a fleet of 25 modern VLGCs by 2034, positioning itself for further expansion in the LPG sector and emerging ammonia trades.",
-   "why": "Freight market or carrier development affecting vessel calls and rates.",
-   "summary_method": "extract"
-  },
-  {
-   "id": "4ac3e06cf6a8",
-   "title": "B&H Worldwide Strengthens Aviation Logistics Portfolio with Founders Logistics Acquisition",
-   "original_title": "B&H Worldwide Strengthens Aviation Logistics Portfolio with Founders Logistics Acquisition",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFpYZHhtQ2d4YnJ1OVFlQVNjdDdJLWp0Z1RZU3ZzVXY3VkdSMnYtdklMRnZaeFdoN3g4YWt5Wjk0c2wzVlpHNllMOG4zdldVMVl4UmxrRk1UaWx0MmdYcUF0ejFpMVMwbWxHUjNabXkyWm51T1R3V1pqYmVZMW5TLUU4MTFPRnd3b0NCbVM0WTJXNVlPV0Z3c05ITGxkT0lvRHdzYXFUcXBpaHVvTWxFOVJzc2lLR1B3RjZhT2x6c1VyUG1nQ3c?oc=5",
-   "source": "Construction Business News Middle East",
-   "published": "2026-11-09T08:00+00:00",
-   "added": "2026-11-10T02:46+00:00",
-   "lang": "en",
-   "category": "mna",
-   "categories": [
-    "mna",
-    "shipping"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Middle East"
-   ],
-   "tags": [
-    "acquisition",
-    "logistics"
-   ],
-   "summary": "B&H Worldwide Strengthens Aviation Logistics Portfolio with Founders Logistics Acquisition Construction Business News Middle East",
-   "why": "Consolidation move among ports, forwarders or rail operators that can shift competitive position.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "f2e9401681ad",
-   "title": "Wheat market analysis – futures ease, Black Sea and Ukrainian basis under pressure",
-   "original_title": "Wheat market analysis – futures ease, Black Sea and Ukrainian basis under pressure",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcm82SzcwR280SHhzUkp6WU41NFF2NnhON0NTOFlGRXhCQkJLYzFBV1BOTFZLdGlaVE1lMU9PbE0zSTcyazlsZGQ5WG5YZjdmRFA5NHVrN2dxNXhxQnBoNVhnZWZva2s5bzJOdTBCSDhTa0FlSjZwSFRVM2xJdjhyMVpUY0JfOTJqZzFaVHh1ZEpteUdOb0dyUnR6S1gxcy1Xdy1JdnptNA?oc=5",
-   "source": "CMB News",
-   "published": "2026-11-09T07:52+00:00",
-   "added": "2026-11-13T17:42+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities",
-    "geopolitics"
-   ],
-   "priority": "medium",
-   "score": 8,
-   "regions": [
-    "Ukraine & Black Sea"
-   ],
-   "tags": [
-    "black sea",
-    "futures",
-    "wheat"
-   ],
-   "summary": "Wheat market analysis – futures ease, Black Sea and Ukrainian basis under pressure CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "8b1dfb47105d",
-   "title": "Rapeseed Market Update: Vegetable Oil Slump and Peace Talks Pressure Prices",
-   "original_title": "Rapeseed Market Update: Vegetable Oil Slump and Peace Talks Pressure Prices",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQnpQeWwwSDdBZDFrU3BYOV9CUEFNM3lFN2ludzdRUnUtWVZJSjQ3VUR6UVdDTndWTU5tcGNzOWNOOVlmZDJlOG85VjRsZlRNeFZSZDNNR01rNWVRRXRFZGtMU1lueFFEMFJ5TFNYZ2dXYUhmeUV0LTRwRUMtZjNkcThmWXBNRTEzalB1dHZTNUQzV21aRmY5ZHE5aUV2d3M?oc=5",
-   "source": "CMB News",
-   "published": "2026-11-09T07:47+00:00",
-   "added": "2026-11-09T09:44+00:00",
-   "lang": "en",
-   "category": "commodities",
-   "categories": [
-    "commodities"
-   ],
-   "priority": "low",
-   "score": 5,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "prices",
-    "rapeseed"
-   ],
-   "summary": "Rapeseed Market Update: Vegetable Oil Slump and Peace Talks Pressure Prices CMB News",
-   "why": "Price or volume signal for bulk cargo (agri, coal, steel, fertilisers, biomass) handled in Polish ports.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "1fc0e8a0ace4",
-   "title": "Turkiye is modernising 667 km of railway line to Georgia, part of the Middle Corridor",
-   "original_title": "Turkiye is modernising 667 km of railway line to Georgia, part of the Middle Corridor",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa05VeFo1bkxBekRBODZpQklTZ2dZNmJZU3V4elRpbExpUktxMExLWlNaWG04TGdUUjBUd0VMb0sxblgtWFUzLUtuM2xWNF94aXJjY3RhcVBiV29zd2hHMEJhazJXN3ZZMVhIRk1xQ3I2QzVlZnhCVnFvUXJybFY3d2xoYU80dUdWZlVDZGlpVDE?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-11-09T07:44+00:00",
-   "added": "2026-11-09T20:12+00:00",
-   "lang": "en",
-   "category": "supplychain",
-   "categories": [
-    "rail",
-    "supplychain"
-   ],
-   "priority": "low",
-   "score": 6,
-   "regions": [
-    "Ukraine & Black Sea",
-    "Asia"
-   ],
-   "tags": [
-    "middle corridor",
-    "railway"
-   ],
-   "summary": "Turkiye is modernising 667 km of railway line to Georgia, part of the Middle Corridor Railway PRO",
-   "why": "Shift in trade routes, sourcing or logistics demand that can change cargo volumes through Polish ports and corridors.",
-   "summary_method": "feed"
-  },
-  {
-   "id": "31c0f6d9842d",
-   "title": "Ukrzaliznytsia faces losses of EUR 355 million in 2026",
-   "original_title": "Ukrzaliznytsia faces losses of EUR 355 million in 2026",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONXlJM3Rpa3dISUxOcGZCOW9qSGxBekxQdUU0RjljVU44RWl2NFpyaUJ0b0F3bW9tLWF3Y0FrV3hvODcxMEFzRkZidXYwVWRmbXVXOEI1YUZnTUhkeldYX2tVa1NlQ053eWoycGtNMVVqNFVNTFZZVDJRZVk3NFVCUmlzMlNjd2c1cGpZREZB?oc=5",
-   "source": "Railway PRO",
-   "published": "2026-11-09T07:44+00:00",
-   "added": "2026-11-09T09:44+00:00",
-   "lang": "en",
-   "category": "rail",
-   "categories": [
-    "rail"
-   ],
-   "priority": "low",
-   "score": 3,
-   "regions": [
-    "Global"
-   ],
-   "tags": [
-    "railway"
-   ],
-   "summary": "Ukrzaliznytsia faces losses of EUR 355 million in 2026 Railway PRO",
-   "why": "Hinterland rail, inland waterway or intermodal development affecting port connectivity.",
-   "summary_method": "feed"
   }
  ]
 }
